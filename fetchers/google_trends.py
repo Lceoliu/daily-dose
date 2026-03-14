@@ -15,6 +15,11 @@ DEFAULT_NEWS_FEED = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 REQUEST_TIMEOUT = 20
 
 
+def _env_or_default(name: str, default: str) -> str:
+    value = os.getenv(name, "").strip()
+    return value or default
+
+
 def _parse_related_headlines(description_html: str | None) -> list[str]:
     if not description_html:
         return []
@@ -48,7 +53,7 @@ def _build_news_context(source: str, title: str, related_headlines: list[str]) -
 
 
 def fetch_news_headlines(limit: int = 10) -> list[dict]:
-    feed_url = os.getenv("NEWS_RSS_FEED", DEFAULT_NEWS_FEED)
+    feed_url = _env_or_default("NEWS_RSS_FEED", DEFAULT_NEWS_FEED)
     response = requests.get(feed_url, headers=DEFAULT_HEADERS, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
 
