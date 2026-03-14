@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-14T19:07:01.296084+00:00",
+  "generated_at": "2026-03-14T22:07:30.723103+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
     "hacker_news": 10,
-    "news": 10
+    "news": 9
   },
   "items": {
     "github_trending": [
@@ -15,11 +15,11 @@
         "url": "https://github.com/msitarzewski/agency-agents",
         "author": "msitarzewski",
         "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Shell",
         "score": 4329,
-        "comment_count": 6468,
-        "total_stars": 43188,
+        "comment_count": 6508,
+        "total_stars": 43470,
         "built_by": [
           "msitarzewski",
           "claude",
@@ -27,76 +27,12 @@
           "4shil",
           "victorkzam"
         ],
-        "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 43188\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
-        "trend_score": 86.85,
+        "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 43470\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
+        "trend_score": 94.08,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 1.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "author": "obra",
-        "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
-        "language": "Shell",
-        "score": 1451,
-        "comment_count": 6481,
-        "total_stars": 83058,
-        "built_by": [
-          "obra",
-          "claude",
-          "arittr",
-          "clkao",
-          "jjshanks"
-        ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1451\n\nTotal stars: 83058\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
-        "trend_score": 84.15,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.929,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "anthropics/claude-plugins-official",
-        "url": "https://github.com/anthropics/claude-plugins-official",
-        "author": "anthropics",
-        "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
-        "language": "Python",
-        "score": 411,
-        "comment_count": 1106,
-        "total_stars": 11162,
-        "built_by": [
-          "tobinsouth",
-          "noahzweben",
-          "claude",
-          "ThariqS",
-          "dicksontsai"
-        ],
-        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11162\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
-        "trend_score": 82.98,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.755,
-          "topic_overlap": 0.25,
+          "topic_overlap": 0.333,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -111,11 +47,11 @@
         "url": "https://github.com/lightpanda-io/browser",
         "author": "lightpanda-io",
         "summary": "Lightpanda: the headless browser designed for AI and automation",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Zig",
         "score": 2100,
-        "comment_count": 619,
-        "total_stars": 16834,
+        "comment_count": 625,
+        "total_stars": 16980,
         "built_by": [
           "karlseguin",
           "krichprollsch",
@@ -123,8 +59,8 @@
           "mookums",
           "nikneym"
         ],
-        "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16834\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
-        "trend_score": 80.43,
+        "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16980\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
+        "trend_score": 80.44,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 0.831,
@@ -143,11 +79,11 @@
         "url": "https://github.com/volcengine/OpenViking",
         "author": "volcengine",
         "summary": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Python",
         "score": 1557,
-        "comment_count": 699,
-        "total_stars": 10161,
+        "comment_count": 711,
+        "total_stars": 10368,
         "built_by": [
           "qin-ctx",
           "zhoujh01",
@@ -155,11 +91,11 @@
           "claude",
           "ZaynJarvis"
         ],
-        "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 10161\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
-        "trend_score": 79.93,
+        "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 10368\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
+        "trend_score": 79.95,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.818,
+          "engagement": 0.819,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -175,11 +111,11 @@
         "url": "https://github.com/p-e-w/heretic",
         "author": "p-e-w",
         "summary": "Fully automatic censorship removal for language models",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Python",
         "score": 661,
-        "comment_count": 1371,
-        "total_stars": 13489,
+        "comment_count": 1384,
+        "total_stars": 13642,
         "built_by": [
           "p-e-w",
           "spikymoth",
@@ -187,11 +123,11 @@
           "red40maxxer",
           "kldzj"
         ],
-        "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13489\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
-        "trend_score": 79.15,
+        "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13642\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
+        "trend_score": 79.16,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.797,
+          "engagement": 0.798,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -207,11 +143,11 @@
         "url": "https://github.com/fishaudio/fish-speech",
         "author": "fishaudio",
         "summary": "SOTA Open Source TTS",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Python",
         "score": 377,
-        "comment_count": 2271,
-        "total_stars": 27141,
+        "comment_count": 2272,
+        "total_stars": 27181,
         "built_by": [
           "leng-yue",
           "github-actions",
@@ -219,11 +155,75 @@
           "AnyaCoder",
           "PoTaTo-Mika"
         ],
-        "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27141\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
-        "trend_score": 78.76,
+        "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27181\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
+        "trend_score": 78.75,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 0.787,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "author": "anthropics",
+        "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
+        "language": "Python",
+        "score": 411,
+        "comment_count": 1107,
+        "total_stars": 11236,
+        "built_by": [
+          "tobinsouth",
+          "noahzweben",
+          "claude",
+          "ThariqS",
+          "dicksontsai"
+        ],
+        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11236\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
+        "trend_score": 77.55,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.755,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "author": "pbakaus",
+        "summary": "The design language that makes your AI harness better at design.",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
+        "language": "JavaScript",
+        "score": 781,
+        "comment_count": 315,
+        "total_stars": 8110,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "VaishnavGunjari",
+          "whchi",
+          "JasonOA888"
+        ],
+        "content_context": "The design language that makes your AI harness better at design.\n\nLanguage: JavaScript\n\nStars today: 781\n\nTotal stars: 8110\n\nBuilt by: pbakaus, claude, VaishnavGunjari, whchi, JasonOA888",
+        "trend_score": 76.65,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.732,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -239,11 +239,11 @@
         "url": "https://github.com/InsForge/InsForge",
         "author": "InsForge",
         "summary": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "TypeScript",
         "score": 477,
-        "comment_count": 424,
-        "total_stars": 4040,
+        "comment_count": 427,
+        "total_stars": 4107,
         "built_by": [
           "tonychang04",
           "Fermionic-Lyu",
@@ -251,7 +251,7 @@
           "jwfing",
           "claude"
         ],
-        "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 4040\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
+        "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 4107\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
         "trend_score": 76.03,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -271,11 +271,11 @@
         "url": "https://github.com/langflow-ai/openrag",
         "author": "langflow-ai",
         "summary": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Python",
         "score": 568,
-        "comment_count": 244,
-        "total_stars": 2621,
+        "comment_count": 245,
+        "total_stars": 2672,
         "built_by": [
           "phact",
           "edwinjosechittilappilly",
@@ -283,7 +283,7 @@
           "lucaseduoli",
           "aimurphy"
         ],
-        "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2621\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
+        "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2672\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
         "trend_score": 75.37,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -303,11 +303,11 @@
         "url": "https://github.com/dimensionalOS/dimos",
         "author": "dimensionalOS",
         "summary": "The Dimensional Framework",
-        "published_at": "2026-03-14T19:06:56.588582+00:00",
+        "published_at": "2026-03-14T22:07:25.546073+00:00",
         "language": "Python",
         "score": 64,
-        "comment_count": 152,
-        "total_stars": 805,
+        "comment_count": 153,
+        "total_stars": 833,
         "built_by": [
           "spomichter",
           "paul-nechifor",
@@ -315,7 +315,7 @@
           "alexlin2",
           "lukasapaukstys"
         ],
-        "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 805\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
+        "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 833\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
         "trend_score": 69.09,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -334,273 +334,289 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Prompt to make Claude more autonomous in web dev",
-        "url": "https://news.ycombinator.com/item?id=47379947",
-        "author": "louison11",
+        "title": "Ask HN: Do you care if coding agents use your generated code for training?",
+        "url": "https://news.ycombinator.com/item?id=47381738",
+        "author": "general_reveal",
         "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-03-14T19:01:08+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": "Tell your Claude to put this in MEMORY.md file for much more autonomous development sessions.<p>It's made my Claude work 2x easier in the last week. So many times it'd build something then I'd find a bug. Now it finds the bugs on its own and reiterates until it's sure everything works perfectly. It's so simple but it brings it to the next level in terms of autonomy.<p>Prompt:<p>\"Add this to your MEMORY.md file (or adapt the following to match our project best):<p>## Critical Rules<p>### Always test before delivering<p>- NEVER tell the user something works without verifying it yourself first<p>- After every code change: rebuild, restart server, then test the actual page/API response<p>- After rebuilding Next.js: ALWAYS restart the server — stale JS chunks from old builds cause client-side errors<p>- Test through the public URL, not just localhost<p>- Check both server-side rendering (curl the HTML) AND client-side (verify JS chunks load)<p>- *USE PLAYWRIGHT FOR UI TESTING* — don't just curl pages. Use Playwright with headless Chrome to actually render pages, click buttons, fill forms, and take screenshots. This is the ONLY way to catch client-side JS errors, broken layouts, and U...",
-        "trend_score": 59.35,
-        "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.071,
-          "topic_overlap": 0.429,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
-        "url": "https://news.ycombinator.com/item?id=47379898",
-        "author": "katspaugh",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-03-14T18:57:12+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": "Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day.<p>So I built this. One note per day. That's the whole deal.<p>- Can't edit yesterday. What's done is done. Keeps you from fussing over old entries instead of writing today's.<p>- Year view with dots showing which days you actually wrote. It's a streak chart. Works better than it should.<p>- No signup required. Opens right up, stores everything locally in your browser. Optional cloud sync if you want it<p>- E2E encrypted with AES-GCM, zero-knowledge, the whole nine yards.<p>Tech-wise: React, TypeScript, Vite, Zustand, IndexedDB. Supabase for optional sync. Deployed on Cloudflare. PWA-capable.<p>The name means \"one day\" in Japanese (いちにち).<p>The read-only past turned out to be the thing that actually made me stick with it. Can't waste time perfecting yesterday if yesterday won't let you in.<p>Live at <a href=\"https://ichinichi.app\" rel=\"nofollow\">https://ichinichi.app</a> | Source: <a href=\"https://github.com/katspaugh/ichinichi\" rel=\"nofollow\">https://github.com/katspaugh/ichinichi</a>",
-        "trend_score": 52.94,
-        "trend_breakdown": {
-          "freshness": 0.993,
-          "engagement": 0.09,
-          "topic_overlap": 0.1,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-        "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
-        "author": "uyzstvqs",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T19:06:25+00:00",
-        "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
-          "page_title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-          "page_description": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.",
-          "page_excerpt": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.\n\nThe payload can intercept cryptocurrency wallet addresses entered on websites and replace them with attacker-controlled addresses to divert funds to the threat actor.\n\nSince the AppsFlyer SDK is used by thousands of applications for marketing analytics (user engagement and retention), the impact extends to a significant number of end users."
-        },
-        "content_context": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.\n\nThe AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. The payload can intercept cryptocurrency wallet addresses entered on websites and replace them with attacker-controlled addresses to divert funds to the threat actor. Since the AppsFlyer SDK is used by thousands of applications for marketing analytics (user engagement and retention), the impact extends to a significant number of end users.",
-        "trend_score": 51.8,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.045,
-          "topic_overlap": 0.111,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "finance",
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Widemem: AI memory layer with importance scoring and conflict resolution",
-        "url": "https://github.com/remete618/widemem-ai",
-        "author": "eyepaqio",
-        "score": 1,
         "comment_count": 1,
-        "published_at": "2026-03-14T19:04:23+00:00",
-        "summary": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai",
+        "published_at": "2026-03-14T22:03:54+00:00",
+        "summary": "I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?",
         "comment_highlights": [
-          "Built this because I kept running into the same problems with existing memory libraries:<p>1. Everything gets equal weight. A peanut allergy and a lunch preference sit at the same priority. So I added importance scoring (1-10) at extraction time, and retrieval ranks by a weighted mix of similarit..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://github.com/remete618/widemem-ai",
-          "page_title": "GitHub - remete618/widemem-ai: Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization",
-          "page_description": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai",
-          "page_excerpt": "An open-source AI memory layer that actually remembers what matters. Local-first, batteries-included, and opinionated about not forgetting your user's blood type.\n\nLook, AI memory has come a long way. Context windows are bigger, RAG pipelines are everywhere, and most frameworks have some form of \"remember this for later.\" It's not terrible anymore. But it's not great either. Most memory systems treat every fact the same — your user's blood type sits next to what they had for lunch, decaying at the same rate, with the same priority. Contradictions pile up...\n\nwidemem gives your AI a real memory — one that scores what matters, forgets what doesn't, and absolutely refuses to lose track of someone's prescritpion medication just because 72 hours passed and the decay function got bored. Think of it as long-term memory for LLMs, except it actually works and doesn't require a PhD to set up."
-        },
-        "content_context": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai\n\nAn open-source AI memory layer that actually remembers what matters. Local-first, batteries-included, and opinionated about not forgetting your user's blood type. Look, AI memory has come a long way. Context windows are bigger, RAG pipelines are everywhere, and most frameworks have some form of \"remember this for later.\" It's not terrible anymore. But it's not great either. Most memory systems treat every fact the same — your user's blood type sits next to what they had for lunch, decaying at the same rate, with the same priority. Contradictions pile up... widemem gives your AI a real memory — one that scores what matters, forgets what doesn't, and absolutely refuses to lose track of someone's prescritpion medication just because 72 hours passed and the decay function got bored. Think of it as long-term memory for LLMs, except it actually works and doesn't require a PhD to set up.\n\nHN comment: Built this because I kept running into the same problems with existing memory libraries:<p>1. Everything gets equal weight. A peanut allergy and a lunch preference sit at the same priority. So I added importance scoring (1-10) at extraction time, and retrieval ranks by a weighted mix of similarit...",
-        "trend_score": 50.72,
-        "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.081,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Backed by Reddit Co-Founder, Indoor Urban Farm Concept Launches Franchise Model",
-        "url": "https://www.franchisetimes.com/franchise_news/backed-by-reddit-s-co-founder-indoor-urban-farm-concept-launches-franchise-model/article_ba367276-cfb0-4aef-8274-4e581755f6db.html",
-        "author": "matthest",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T19:05:51+00:00",
-        "summary": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.franchisetimes.com/franchise_news/backed-by-reddit-s-co-founder-indoor-urban-farm-concept-launches-franchise-model/article_ba367276-cfb0-4aef-8274-4e581755f6db.html",
-          "page_title": "Backed by Reddit’s Co-Founder, Indoor Urban Farm Concept Launches Franchise Model",
-          "page_description": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to",
-          "page_excerpt": "Since its founding in 2023, Area 2 Farms has been selling freshly grown produce directly to customers in the middle of major metro areas.\n\nAfter a few years spent proving the concept, co-founder and CEO Oren Falkowitz decided using franchising to start more farms in other urban areas. The Virginia-based brand announced this week the launch of its franchise system, with plans to target markets in Florida, Georgia, North Carolina, Ohio and Tennessee.\n\nEach indoor farm unit requires less than 5,000 square feet, on average, and a staff between six and eight workers. The farms, which include space for production and distribution, serve customers within a 10-mile radius, and operate with what’s called a community supported agriculture model. Area 2 Farms uses soil-based farming techniques, not hydroponics."
-        },
-        "content_context": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to\n\nSince its founding in 2023, Area 2 Farms has been selling freshly grown produce directly to customers in the middle of major metro areas. After a few years spent proving the concept, co-founder and CEO Oren Falkowitz decided using franchising to start more farms in other urban areas. The Virginia-based brand announced this week the launch of its franchise system, with plans to target markets in Florida, Georgia, North Carolina, Ohio and Tennessee. Each indoor farm unit requires less than 5,000 square feet, on average, and a staff between six and eight workers. The farms, which include space for production and distribution, serve customers within a 10-mile radius, and operate with what’s called a community supported agriculture model. Area 2 Farms uses soil-based farming techniques, not hydroponics.",
-        "trend_score": 49.42,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.045,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Clawmacdo",
-        "url": "https://news.ycombinator.com/item?id=47379899",
-        "author": "kenken6477",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T18:57:20+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": "Rust CLI tool for deploying OpenClaw to DigitalOcean, AWS Lightsail, or Tencent Cloud — with Claude Code, Codex, and Gemini CLI pre-installed.<p>Latest Update (March 2026) Major Refactor Complete: ClawMacdo has been refactored from a monolithic structure into a modular workspace architecture with focused crates for better maintainability, testing, and performance.<p>New Architecture Benefits Modular design - Each crate has a single responsibility Feature flags - Build only what you need (minimal, web-ui, cloud providers) 32% smaller binaries - Optimized builds from 4.6MB → 3.1MB Faster compilation - Incremental builds only rebuild changed crates Better testing - Isolated crate testing<p>https://github.com/kenken64/clawmacdo",
-        "trend_score": 49.14,
-        "trend_breakdown": {
-          "freshness": 0.993,
-          "engagement": 0.045,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Wall Street Bankers Offered Lucrative Access to Join The Pentagon",
-        "url": "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html",
-        "author": "SilverElfin",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-03-14T19:04:42+00:00",
-        "summary": "More corrupt grifting from the Trump administration. If money and connections give you a feedback loop of access and deals, then the only way to have a working political process is to remove money from those who have it.",
-        "comment_highlights": [
-          "More corrupt grifting from the Trump administration. If money and connections give you a feedback loop of access and deals, then the only way to have a working political process is to remove money from those who have it."
+          "I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?"
         ],
         "linked_context": {},
-        "content_context": "HN comment: More corrupt grifting from the Trump administration. If money and connections give you a feedback loop of access and deals, then the only way to have a working political process is to remove money from those who have it.",
-        "trend_score": 45.24,
-        "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.081,
-          "topic_overlap": 0.125,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Breaking the cell wall for efficient DNA delivery to diatoms",
-        "url": "https://www.nature.com/articles/s41467-026-68562-6",
-        "author": "PaulHoule",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-03-14T18:59:30+00:00",
-        "summary": "Diatoms are critical for carbon fixation and have strong biotechnology potential. Here, the authors optimized DNA and protein delivery methods for the model diatom Phaeodactylum tricornutum, also showing that DNA pieces can be stitched together directly in algal cells.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.nature.com/articles/s41467-026-68562-6",
-          "page_title": "Breaking the cell wall for efficient DNA delivery to diatoms - Nature Communications",
-          "page_description": "Diatoms are critical for carbon fixation and have strong biotechnology potential. Here, the authors optimized DNA and protein delivery methods for the model diatom Phaeodactylum tricornutum, also showing that DNA pieces can be stitched together directly in algal cells.",
-          "page_excerpt": "Nature Communications volume 17 , Article number: 1848 ( 2026 ) Cite this article\n\nDiatoms produce 20% of the world’s fixed organic carbon yet remain underutilized as cell factories due to limited genetic engineering tools. Here, we present optimized electroporation and polyethylene glycol (PEG) transformation methods for the model diatom Phaeodactylum tricornutum , enabling delivery of DNA and Cas9 ribonucleoprotein complexes with high efficiency. Transformants are recovered...\n\nClimate change, population expansion, and soil depletion are among several challenges that existentially threaten current agricultural practices. Due to their comparatively rapid growth and higher photosynthetic efficiency, unicellular algae have been proposed as a sustainable agricultural alternative to traditional crops since the 1950s 1 . Diatoms (Bacillariophyta) are of particular interest..."
-        },
-        "content_context": "Diatoms are critical for carbon fixation and have strong biotechnology potential. Here, the authors optimized DNA and protein delivery methods for the model diatom Phaeodactylum tricornutum, also showing that DNA pieces can be stitched together directly in algal cells.\n\nNature Communications volume 17 , Article number: 1848 ( 2026 ) Cite this article Diatoms produce 20% of the world’s fixed organic carbon yet remain underutilized as cell factories due to limited genetic engineering tools. Here, we present optimized electroporation and polyethylene glycol (PEG) transformation methods for the model diatom Phaeodactylum tricornutum , enabling delivery of DNA and Cas9 ribonucleoprotein complexes with high efficiency. Transformants are recovered... Climate change, population expansion, and soil depletion are among several challenges that existentially threaten current agricultural practices. Due to their comparatively rapid growth and higher photosynthetic efficiency, unicellular algae have been proposed as a sustainable agricultural alternative to traditional crops since the 1950s 1 . Diatoms (Bacillariophyta) are of particular interest...",
-        "trend_score": 45.11,
-        "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.071,
-          "topic_overlap": 0.143,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Ukrainian Drones to Receive Shield AI's Cutting-Edge Hivemind Autonomy System",
-        "url": "https://militarnyi.com/en/news/ukraine-shield-ai-hivemind-autonomy-system/",
-        "author": "throwoutway",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-03-14T18:57:59+00:00",
-        "summary": "The American company Shield AI, known for its V-BAT drones, is collaborating with a Ukrainian enterprise to integrate the Hivemind artificial intelligence system into Ukrainian unmanned platforms.The company announced this […]",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://militarnyi.com/en/news/ukraine-shield-ai-hivemind-autonomy-system/",
-          "page_title": "Ukrainian Drones to Receive Shield AI’s Cutting-Edge Hivemind Autonomy System",
-          "page_description": "The American company Shield AI, known for its V-BAT drones, is collaborating with a Ukrainian enterprise to integrate the Hivemind artificial intelligence system into Ukrainian unmanned platforms.The company announced this […]",
-          "page_excerpt": "The American company Shield AI, known for its V-BAT drones, is collaborating with a Ukrainian enterprise to integrate the Hivemind artificial intelligence system into Ukrainian unmanned platforms.\n\nIt is noted that a delegation from the Ukrainian defense technology cluster Brave1 visited the company’s production facilities in Texas.\n\nThrough the Brave1 platform, Shield AI is collaborating with a Ukrainian company to integrate the Hivemind system into local unmanned systems and scale their deployment."
-        },
-        "content_context": "The American company Shield AI, known for its V-BAT drones, is collaborating with a Ukrainian enterprise to integrate the Hivemind artificial intelligence system into Ukrainian unmanned platforms.The company announced this […]\n\nThe American company Shield AI, known for its V-BAT drones, is collaborating with a Ukrainian enterprise to integrate the Hivemind artificial intelligence system into Ukrainian unmanned platforms. It is noted that a delegation from the Ukrainian defense technology cluster Brave1 visited the company’s production facilities in Texas. Through the Brave1 platform, Shield AI is collaborating with a Ukrainian company to integrate the Hivemind system into local unmanned systems and scale their deployment.",
-        "trend_score": 42.49,
-        "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.071,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Manjaro 2.0 Manifesto",
-        "url": "https://forum.manjaro.org/t/manjaro-2-0-manifesto/186171",
-        "author": "RandomGerm4n",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T19:03:06+00:00",
-        "summary": "Manjaro 2.0 Synopsis This document covers the organizational, technical, management, and other changes we (the Manjaro Team, et al) like to see applied to the Manjaro Project. The goal of this document is to serve as a point of discussion, and ultimately, once a consensus on its contents and written goals has been reached, as a guide for the organizational restructuring of the Manjaro Project. Motivation The Manjaro Project has been declining over the past decade. It managed to sustain a siza...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://forum.manjaro.org/t/manjaro-2-0-manifesto/186171",
-          "page_title": "Manjaro 2.0 Manifesto",
-          "page_description": "Manjaro 2.0 Synopsis This document covers the organizational, technical, management, and other changes we (the Manjaro Team, et al) like to see applied to the Manjaro Project. The goal of this document is to serve as a point of discussion, and ultimately, once a consensus on its contents and written goals has been reached, as a guide for the organizational restructuring of the Manjaro Project. Motivation The Manjaro Project has been declining over the past decade. It managed to sustain a siza...",
-          "page_excerpt": "These distributions are no longer developed, but show some of the history surrounding Arch Linux and the greater FOSS community. Sections show the year of the latest release."
-        },
-        "content_context": "Manjaro 2.0 Synopsis This document covers the organizational, technical, management, and other changes we (the Manjaro Team, et al) like to see applied to the Manjaro Project. The goal of this document is to serve as a point of discussion, and ultimately, once a consensus on its contents and written goals has been reached, as a guide for the organizational restructuring of the Manjaro Project. Motivation The Manjaro Project has been declining over the past decade. It managed to sustain a siza...\n\nThese distributions are no longer developed, but show some of the history surrounding Arch Linux and the greater FOSS community. Sections show the year of the latest release.",
-        "trend_score": 41.81,
+        "content_context": "HN comment: I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?",
+        "trend_score": 60.16,
         "trend_breakdown": {
           "freshness": 0.997,
+          "engagement": 0.107,
+          "topic_overlap": 0.4,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Vigil v1.1 – Open-source security ops platform with embedded AI brain",
+        "url": "https://github.com/vigil-agency/vigil",
+        "author": "vigil-agency",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-03-14T21:59:02+00:00",
+        "summary": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil",
+        "comment_highlights": [
+          "Vigil is an open-source security operations platform. The v1.1 release adds an embedded security knowledge engine with 356 pre-built entries that answer in <1ms without calling an LLM.<p>What's in the brain: - 85 MITRE ATT&CK techniques (all 14 tactics, real CVEs, detection/mitigation) - 89 port-..."
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/vigil-agency/vigil",
+          "page_title": "GitHub - vigil-agency/vigil: The Security Agency That Never Sleeps — AI-powered security operations platform",
+          "page_description": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil",
+          "page_excerpt": "Open-source, AI-powered security operations platform. Vulnerability scanning, autonomous agents, incident response, compliance tracking, and MCP server — all in a single Express.js process.\n\nThis starts Vigil + PostgreSQL 17. Scanner tools (nmap, nuclei, trivy, nikto) are included in the Docker image.\n\nUsers bring their own AI subscriptions. Vigil shells out to locally-installed CLI tools:"
+        },
+        "content_context": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil\n\nOpen-source, AI-powered security operations platform. Vulnerability scanning, autonomous agents, incident response, compliance tracking, and MCP server — all in a single Express.js process. This starts Vigil + PostgreSQL 17. Scanner tools (nmap, nuclei, trivy, nikto) are included in the Docker image. Users bring their own AI subscriptions. Vigil shells out to locally-installed CLI tools:\n\nHN comment: Vigil is an open-source security operations platform. The v1.1 release adds an embedded security knowledge engine with 356 pre-built entries that answer in <1ms without calling an LLM.<p>What's in the brain: - 85 MITRE ATT&CK techniques (all 14 tactics, real CVEs, detection/mitigation) - 89 port-...",
+        "trend_score": 59.46,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.107,
+          "topic_overlap": 0.375,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Costly – Open-source SDK that audits your LLM API costs",
+        "url": "https://www.getcostly.dev/",
+        "author": "itsdannyt",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-03-14T21:57:33+00:00",
+        "summary": "One install. 7 detectors. Every wasted dollar, found.",
+        "comment_highlights": [
+          "Hey HN - I built Costly because the existing API dashboards (Anthropic, OpenAI, etc.) show you what you spent but not why.<p>I spent $97 last month on Anthropic calls and could see a massive spike on certain days, but had no way to know which feature caused it, whether I was running expensive mod..."
+        ],
+        "linked_context": {
+          "resolved_url": "https://www.getcostly.dev/",
+          "page_title": "Your AI is Costly. Let's fix that.",
+          "page_description": "One install. 7 detectors. Every wasted dollar, found.",
+          "page_excerpt": "I noticed your system prompt is 2,100 tokens and it's identical across all 14,000 calls this month. That's $89/mo on repeated text. Try enabling prompt caching — it'll cut that to near zero.\n\nOf real water consumed every 20–50 AI prompts. Your code has a water bill.\n\nWasted on cloud compute every year. Idle GPUs, redundant calls, oversized models."
+        },
+        "content_context": "One install. 7 detectors. Every wasted dollar, found.\n\nI noticed your system prompt is 2,100 tokens and it's identical across all 14,000 calls this month. That's $89/mo on repeated text. Try enabling prompt caching — it'll cut that to near zero. Of real water consumed every 20–50 AI prompts. Your code has a water bill. Wasted on cloud compute every year. Idle GPUs, redundant calls, oversized models.\n\nHN comment: Hey HN - I built Costly because the existing API dashboards (Anthropic, OpenAI, etc.) show you what you spent but not why.<p>I spent $97 last month on Anthropic calls and could see a massive spike on certain days, but had no way to know which feature caused it, whether I was running expensive mod...",
+        "trend_score": 57.82,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.107,
+          "topic_overlap": 0.3,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Learning Creative Coding",
+        "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+        "author": "ammerfest",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-03-14T22:02:48+00:00",
+        "summary": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.\n\nThis book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence.\n\n(Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+          "page_title": "Learning Creative Coding – Stig Møller Hansen",
+          "page_description": null,
+          "page_excerpt": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.\n\nThis book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence.\n\n(Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)"
+        },
+        "content_context": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination. This book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence. (Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)",
+        "trend_score": 57.37,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.071,
+          "topic_overlap": 0.333,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Anti-Slop: A GitHub action that detects and automatically closes AI slop PRs",
+        "url": "https://github.com/peakoss/anti-slop",
+        "author": "flykespice",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-03-14T21:58:10+00:00",
+        "summary": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/peakoss/anti-slop",
+          "page_title": "GitHub - peakoss/anti-slop: A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
+          "page_description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop",
+          "page_excerpt": "A GitHub Action that detects and automatically closes low-quality and AI slop PRs. It ships with 31 check rules covering PR branches, title, description, template, commit messages, file changes, user signals and contributor history.\n\nEverything is configurable through 54 options including checks, exemptions and failure actions, that you do not have to touch if you don't want to, as we've set sensible defaults.\n\nAnti Slop is currently v0 and subject to breaking changes prior to v1.0.0. Pin to a specific version or commit SHA if you need stability."
+        },
+        "content_context": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop\n\nA GitHub Action that detects and automatically closes low-quality and AI slop PRs. It ships with 31 check rules covering PR branches, title, description, template, commit messages, file changes, user signals and contributor history. Everything is configurable through 54 options including checks, exemptions and failure actions, that you do not have to touch if you don't want to, as we've set sensible defaults. Anti Slop is currently v0 and subject to breaking changes prior to v1.0.0. Pin to a specific version or commit SHA if you need stability.",
+        "trend_score": 56.14,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.09,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Allow me to get to know you, mistakes and all",
+        "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+        "author": "sebi_io",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-03-14T22:03:47+00:00",
+        "summary": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea: When you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+          "page_title": "Allow me to get to know you, mistakes and all",
+          "page_description": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea: When you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a...",
+          "page_excerpt": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea:\n\nWhen you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a reason after all - even if they’re sometimes not the right words.\n\nBut what’s far worse is that it robs the intended recipient of the ability to actually interpret the message according to the accrued knowledge of how you write, and the subtler notes of the tone your message carries, your choice of emphasis or omission, and so on."
+        },
+        "content_context": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea: When you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a...\n\nI think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea: When you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a reason after all - even if they’re sometimes not the right words. But what’s far worse is that it robs the intended recipient of the ability to actually interpret the message according to the accrued knowledge of how you write, and the subtler notes of the tone your message carries, your choice of emphasis or omission, and so on.",
+        "trend_score": 48.64,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.071,
+          "topic_overlap": 0.333,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Memorize song&audio files through splitting and repeating parts automatically",
+        "url": "https://soundsplitter.vercel.app/",
+        "author": "tahseenmahdi",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-03-14T22:04:14+00:00",
+        "summary": "A professional tool to split and loop audio files with precision.",
+        "comment_highlights": [
+          "If have tried to memorize a song by listening to a part then stop it and repeat after it then re turn it on and repeat this process which takes much time and sometimes you are just listening you want to use your hands in other things then this is the best tool for you"
+        ],
+        "linked_context": {
+          "resolved_url": "https://soundsplitter.vercel.app/",
+          "page_title": "Memody - Audio Loop Editor",
+          "page_description": "A professional tool to split and loop audio files with precision.",
+          "page_excerpt": null
+        },
+        "content_context": "A professional tool to split and loop audio files with precision.\n\nHN comment: If have tried to memorize a song by listening to a part then stop it and repeat after it then re turn it on and repeat this process which takes much time and sometimes you are just listening you want to use your hands in other things then this is the best tool for you",
+        "trend_score": 47.79,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.107,
+          "topic_overlap": 0.222,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Changes to OpenTTD Distribution on Steam",
+        "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
+        "author": "canpan",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-03-14T22:04:48+00:00",
+        "summary": "OpenTTD has been available on the Steam Store for the past five years. During that time, we’ve built up an incredible player base, attracting lots of new players to the game. Starting today however, OpenTTD will no longer be directly available as a standalone game on Steam. It can instead be obtained as part of a bundle alongside the original Transport Tycoon Deluxe, which has been re-released...\n\nIf you already own OpenTTD on Steam, nothing changes. You’ll continue to receive game updates as usual. If you ever need to re-download the game, the game will remain in your Steam library.\n\nFor any new players interested in owning OpenTTD on Steam or GOG, you will need to purchase the Transport Tycoon Deluxe / OpenTTD bundle, allowing access to both the original Transport Tycoon Deluxe and OpenTTD as separate products.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.openttd.org/news/2026/03/14/steam-changes",
+          "page_title": "OpenTTD | News | Changes to OpenTTD distribution on Steam",
+          "page_description": null,
+          "page_excerpt": "OpenTTD has been available on the Steam Store for the past five years. During that time, we’ve built up an incredible player base, attracting lots of new players to the game. Starting today however, OpenTTD will no longer be directly available as a standalone game on Steam. It can instead be obtained as part of a bundle alongside the original Transport Tycoon Deluxe, which has been re-released...\n\nIf you already own OpenTTD on Steam, nothing changes. You’ll continue to receive game updates as usual. If you ever need to re-download the game, the game will remain in your Steam library.\n\nFor any new players interested in owning OpenTTD on Steam or GOG, you will need to purchase the Transport Tycoon Deluxe / OpenTTD bundle, allowing access to both the original Transport Tycoon Deluxe and OpenTTD as separate products."
+        },
+        "content_context": "OpenTTD has been available on the Steam Store for the past five years. During that time, we’ve built up an incredible player base, attracting lots of new players to the game. Starting today however, OpenTTD will no longer be directly available as a standalone game on Steam. It can instead be obtained as part of a bundle alongside the original Transport Tycoon Deluxe, which has been re-released... If you already own OpenTTD on Steam, nothing changes. You’ll continue to receive game updates as usual. If you ever need to re-download the game, the game will remain in your Steam library. For any new players interested in owning OpenTTD on Steam or GOG, you will need to purchase the Transport Tycoon Deluxe / OpenTTD bundle, allowing access to both the original Transport Tycoon Deluxe and OpenTTD as separate products.",
+        "trend_score": 42.67,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.071,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Deprecating the DHE cipher suite for TLS connections",
+        "url": "https://vercel.com/changelog/deprecating-the-dhe-cipher-suite-for-tls-connections",
+        "author": "y1n0",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-03-14T22:01:26+00:00",
+        "summary": "On June 30th, 2026, Vercel will remove support for the legacy DHE-RSA-AES256-GCM-SHA384 cipher suite.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://vercel.com/changelog/deprecating-the-dhe-cipher-suite-for-tls-connections",
+          "page_title": "Deprecating the DHE cipher suite for TLS connections - Vercel",
+          "page_description": "On June 30th, 2026, Vercel will remove support for the legacy DHE-RSA-AES256-GCM-SHA384 cipher suite.",
+          "page_excerpt": "On June 30th, 2026, Vercel will remove support for the legacy DHE-RSA-AES256-GCM-SHA384 cipher suite.\n\nThis cipher may still be used by automated systems, security scanners, and HTTP clients with non-standard TLS configurations.\n\nAfter this date, clients using TLS 1.2 will only be able to connect to the Vercel network with our six remaining cipher suites :"
+        },
+        "content_context": "On June 30th, 2026, Vercel will remove support for the legacy DHE-RSA-AES256-GCM-SHA384 cipher suite.\n\nOn June 30th, 2026, Vercel will remove support for the legacy DHE-RSA-AES256-GCM-SHA384 cipher suite. This cipher may still be used by automated systems, security scanners, and HTTP clients with non-standard TLS configurations. After this date, clients using TLS 1.2 will only be able to connect to the Vercel network with our six remaining cipher suites :",
+        "trend_score": 41.75,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "AI Elements 1.9 is now available",
+        "url": "https://vercel.com/changelog/ai-elements-1-9",
+        "author": "y1n0",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-03-14T22:00:23+00:00",
+        "summary": "The latest AI Elements release adds new components, an agent skill, and a round of bug fixes across the library.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://vercel.com/changelog/ai-elements-1-9",
+          "page_title": "AI Elements 1.9 is now available - Vercel",
+          "page_description": "The latest AI Elements release adds new components, an agent skill, and a round of bug fixes across the library.",
+          "page_excerpt": "AI Elements 1.9 adds new components, an agent skill, and a round of bug fixes across the library.\n\nYou can now install an AI Elements skill into your preferred agent, giving it a better understanding of how to build and use composable AI interfaces.\n\nThe new <JSXPreview /> component renders JSX strings dynamically, supporting streaming scenarios where JSX may be incomplete. It automatically closes unclosed tags during streaming, making it a good fit for displaying AI-generated UI in real time."
+        },
+        "content_context": "The latest AI Elements release adds new components, an agent skill, and a round of bug fixes across the library.\n\nAI Elements 1.9 adds new components, an agent skill, and a round of bug fixes across the library. You can now install an AI Elements skill into your preferred agent, giving it a better understanding of how to build and use composable AI interfaces. The new <JSXPreview /> component renders JSX strings dynamically, supporting streaming scenarios where JSX may be incomplete. It automatically closes unclosed tags during streaming, making it a good fit for displaying AI-generated UI in real time.",
+        "trend_score": 41.72,
+        "trend_breakdown": {
+          "freshness": 0.995,
           "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
@@ -611,25 +627,25 @@
     ],
     "news": [
       {
-        "source": "CBS News",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWFDRVFIYmlJUWJ4c1VJY1VLS0dEYWF5X3djSXpyNG1jcXJfUWJ5U3hRbzNDMDVkajhyUElRMlJ5OUJiS2I4V2dLUlRYT2l0MkhQaGVTTURPQV8yaWlhcnRELTVlU0FNcU9oSTBYRC1WLTJmOTg0aEFsTUtwTUd4S0VsajliWnNlbFBBaHlqUlpNNkVYVmVuQWlBMXJrWmVZYjFEVFNuQjQwYXhWN1UyVmNrMNIBuAFBVV95cUxQRVFZU2ZINmRNeHFnWGx0aTVhZGdmNi1iYjN2RHVJWllXMEJURl9KbU9kQ01SYzh4TzRGNmZrRkhyLU9tYU5lYm14eEZfWkZTb21uRUFTNEZqdUYzM0Z6TVUya3JUbk1wdXFhcWRpclNiVFFMRTI4YnpGNkVma1ZjSWh3MnF2cE8xVDJCZ0VHbjRLZ1Q3WU03OTl2QjlKcm1TVTlRdUlKTnBPYUFfMzV2RG1jX0lOVEN1?oc=5",
-        "published_at": "2026-03-14T15:59:00+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub；Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade；Tehran says the US attacked it from the UAE as Iran war enters its third week。",
+        "title": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDB3elIzT25OVk8wQnFtMktXWW01QjFSWkNoS2JWZmlrRTE4c1djdFotRUlJWC1wbFRDM0pqMURMSk1SZGdZMjZrX0ozTE82SUFzZ2tjWHZVdm9qUUVMWUhfUVJSd2x5VGMwQ3NkM1dzdjcyel82WWlUamNIajdsdHpsQXZoZDd0UGluX0dLTQ?oc=5",
+        "published_at": "2026-03-14T17:57:45+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says U.S. struck Kharg Island, core of Iran’s oil economy；Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade；Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week。",
         "related_headlines": [
-          "Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub",
-          "Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade",
-          "Tehran says the US attacked it from the UAE as Iran war enters its third week",
           "Trump says U.S. struck Kharg Island, core of Iran’s oil economy",
-          "U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says"
+          "Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade",
+          "Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week",
+          "Iran war live: Tehran urges Middle East countries to ‘expel’ US military",
+          "Sen. Lindsey Graham Says Bombing of Kharg Island Will ‘Shorten the War’"
         ],
-        "content_context": "Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub；Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade；Tehran says the US attacked it from the UAE as Iran war enters its third week。\n\nRelated coverage: Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub\n\nRelated coverage: Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade\n\nRelated coverage: Tehran says the US attacked it from the UAE as Iran war enters its third week\n\nRelated coverage: Trump says U.S. struck Kharg Island, core of Iran’s oil economy\n\nRelated coverage: U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says",
-        "trend_score": 41.29,
+        "content_context": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says U.S. struck Kharg Island, core of Iran’s oil economy；Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade；Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week。\n\nRelated coverage: Trump says U.S. struck Kharg Island, core of Iran’s oil economy\n\nRelated coverage: Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade\n\nRelated coverage: Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week\n\nRelated coverage: Iran war live: Tehran urges Middle East countries to ‘expel’ US military\n\nRelated coverage: Sen. Lindsey Graham Says Bombing of Kharg Island Will ‘Shorten the War’",
+        "trend_score": 38.9,
         "trend_breakdown": {
-          "freshness": 0.869,
+          "freshness": 0.827,
           "engagement": 0.0,
-          "topic_overlap": 0.308,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -638,25 +654,77 @@
         ]
       },
       {
-        "source": "Axios",
+        "source": "The New York Times",
         "category": "news",
-        "title": "Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xYmR3LW1wMUN1amVMZHhhTC1rWTZjOFU0VHJxZU1ERmxrVmsxSndIbEo2eUFxcEFzVFhvajlFMjQ3MlVUX0JCNWJVZVpaN2pXemR6OFRETzRld2paem9DcG9FQ1NpTDhrc1MzNnIxTG5zUkxyUGc?oc=5",
-        "published_at": "2026-03-14T15:52:13+00:00",
-        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump claims international coalition will send war ships to reopen the strait of Hormuz；Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade；Pentagon Is Moving Additional Marines, Warships to the Middle East。",
+        "title": "Trump Proposes New White House Visitor Screening Center - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2JiMkhPRFRodF92WUpDc0xJR0c0OUJpRmd1WTZOeUtoVFB1UFVzUDJ6b0JkcHU4VnRjNThMcExEYjVqYVhIR2tiVlJDSTRheXdSX015TkhaRFlHMlFGUzE2U3g0SDhHd21rWExvNVY2dzJrU2RKbXJoY0VVOHBwWTY1NFc?oc=5",
+        "published_at": "2026-03-14T19:14:38+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Proposes New White House Visitor Screening Center；Trump seeks to replace White House visitor screening center with underground facility；The White House wants to build an underground center to provide security screening for visitors。",
         "related_headlines": [
-          "Trump claims international coalition will send war ships to reopen the strait of Hormuz",
-          "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
-          "Pentagon Is Moving Additional Marines, Warships to the Middle East",
-          "Trump administration has vowed to escort oil tankers through Strait of Hormuz. How would that work?",
-          "Trump calls for countries to send warships to reopen Hormuz"
+          "Trump Proposes New White House Visitor Screening Center",
+          "Trump seeks to replace White House visitor screening center with underground facility",
+          "The White House wants to build an underground center to provide security screening for visitors",
+          "White House proposes new visitor screening center to access grounds",
+          "White House proposes new underground visitor screening facility"
         ],
-        "content_context": "Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump claims international coalition will send war ships to reopen the strait of Hormuz；Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade；Pentagon Is Moving Additional Marines, Warships to the Middle East。\n\nRelated coverage: Trump claims international coalition will send war ships to reopen the strait of Hormuz\n\nRelated coverage: Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade\n\nRelated coverage: Pentagon Is Moving Additional Marines, Warships to the Middle East\n\nRelated coverage: Trump administration has vowed to escort oil tankers through Strait of Hormuz. How would that work?\n\nRelated coverage: Trump calls for countries to send warships to reopen Hormuz",
-        "trend_score": 33.8,
+        "content_context": "Trump Proposes New White House Visitor Screening Center - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Proposes New White House Visitor Screening Center；Trump seeks to replace White House visitor screening center with underground facility；The White House wants to build an underground center to provide security screening for visitors。\n\nRelated coverage: Trump Proposes New White House Visitor Screening Center\n\nRelated coverage: Trump seeks to replace White House visitor screening center with underground facility\n\nRelated coverage: The White House wants to build an underground center to provide security screening for visitors\n\nRelated coverage: White House proposes new visitor screening center to access grounds\n\nRelated coverage: White House proposes new underground visitor screening facility",
+        "trend_score": 38.08,
         "trend_breakdown": {
-          "freshness": 0.865,
+          "freshness": 0.88,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.4,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Reuters",
+        "category": "news",
+        "title": "Trump urges other nations to help secure shipping through Strait of Hormuz - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3lrY1d4Tkx1WXhjYmpUa3dnYzFFYkdqcTVKZ01iUFU2VWUwRm82NzZHYjdhQlp0cjRtN29wSXpldW5maTBucU11NWtvVWp6QVBjQXVhek5nVDdWUWVIelI5dEJJZnB5VUpVVmNHa0Q1V1NFU3JZVFo3bHNWYlVFMXhIaVNnZ1E3ZnkyQU5oR3FPNUtPWWNkR0lPTk03SEJFUlZ4U3BWTktES1pPYmg2U0NaVDI5V2dOZlBBMEx5bzM?oc=5",
+        "published_at": "2026-03-14T14:29:08+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump urges other nations to help secure shipping through Strait of Hormuz；Trump presses for help securing Strait of Hormuz as Iran threatens more retaliatory strikes；Trump urges UK and other nations to send ships to Strait of Hormuz。",
+        "related_headlines": [
+          "Trump urges other nations to help secure shipping through Strait of Hormuz",
+          "Trump presses for help securing Strait of Hormuz as Iran threatens more retaliatory strikes",
+          "Trump urges UK and other nations to send ships to Strait of Hormuz",
+          "Trump claims international coalition will send war ships to reopen the strait of Hormuz",
+          "Trump administration has vowed to escort oil tankers through Strait of Hormuz. How would that work?"
+        ],
+        "content_context": "Trump urges other nations to help secure shipping through Strait of Hormuz - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump urges other nations to help secure shipping through Strait of Hormuz；Trump presses for help securing Strait of Hormuz as Iran threatens more retaliatory strikes；Trump urges UK and other nations to send ships to Strait of Hormuz。\n\nRelated coverage: Trump urges other nations to help secure shipping through Strait of Hormuz\n\nRelated coverage: Trump presses for help securing Strait of Hormuz as Iran threatens more retaliatory strikes\n\nRelated coverage: Trump urges UK and other nations to send ships to Strait of Hormuz\n\nRelated coverage: Trump claims international coalition will send war ships to reopen the strait of Hormuz\n\nRelated coverage: Trump administration has vowed to escort oil tankers through Strait of Hormuz. How would that work?",
+        "trend_score": 36.27,
+        "trend_breakdown": {
+          "freshness": 0.682,
+          "engagement": 0.0,
+          "topic_overlap": 0.455,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - AP News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmpWN0lTaHpZdVhNT3lOaWh6WXlfLTRmc3Q0WUYyWlU0RzlFRENTa1EyOWIwTWtOM1Jsa2dRTVo3cW1RWHAzbnhfYmR4dmk0REZobkRqUm5FQkRSSFR1ZzJRMVBBSGMyWUZxQmd5d3RSd0k5ajBrcHI1dDY5RzBqQm1uQmpreG8tYkdiQnZYUmxOS1E?oc=5",
+        "published_at": "2026-03-14T15:25:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit；Sinema acknowledges affair with Senate bodyguard while in office；Kyrsten Sinema says in court filings she had a ‘romantic’ relationship with guard。",
+        "related_headlines": [
+          "Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit",
+          "Sinema acknowledges affair with Senate bodyguard while in office",
+          "Kyrsten Sinema says in court filings she had a ‘romantic’ relationship with guard",
+          "Ex-Dem senator admits to affair with former bodyguard in explosive court filing: 'Romantic and Intimate'",
+          "Former Sen. Kyrsten Sinema says affair with married man happened outside of NC, wants case dismissed"
+        ],
+        "content_context": "Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit；Sinema acknowledges affair with Senate bodyguard while in office；Kyrsten Sinema says in court filings she had a ‘romantic’ relationship with guard。\n\nRelated coverage: Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit\n\nRelated coverage: Sinema acknowledges affair with Senate bodyguard while in office\n\nRelated coverage: Kyrsten Sinema says in court filings she had a ‘romantic’ relationship with guard\n\nRelated coverage: Ex-Dem senator admits to affair with former bodyguard in explosive court filing: 'Romantic and Intimate'\n\nRelated coverage: Former Sen. Kyrsten Sinema says affair with married man happened outside of NC, wants case dismissed",
+        "trend_score": 28.85,
+        "trend_breakdown": {
+          "freshness": 0.72,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -668,47 +736,20 @@
         "title": "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUx1NnplblZQeDFWY0Ftdk5SU0VVc0NTT2lOWlMzUjNNYng4TFpmdFlfekR1dlFLci1RQWViVXlFLUVGbi11NFVxN09idktWVTN1Y3QtaXdRMmNKRU9tRTczZ3p2bDZsRzJudGdFaW01bWlQdGR2VFV1aVRPeDg4V3FZQzUtcEZCRzMybjA0TElUNF9tOXNfRElTakRWaDByQ2l4VA?oc=5",
         "published_at": "2026-03-14T09:02:06+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage；Iran unleashes oil shock to blunt US firepower。",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；Iran unleashes oil shock to blunt US firepower；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage。",
         "related_headlines": [
           "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem",
-          "A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage",
           "Iran unleashes oil shock to blunt US firepower",
+          "A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage",
           "Hegseth, Trump face perilous options in the Strait of Hormuz",
-          "How one of Iran's most destructive weapons could threaten the U.S."
+          "Iran, the Strait of Hormuz, and an Unprecedented Energy Crunch"
         ],
-        "content_context": "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage；Iran unleashes oil shock to blunt US firepower。\n\nRelated coverage: Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem\n\nRelated coverage: A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage\n\nRelated coverage: Iran unleashes oil shock to blunt US firepower\n\nRelated coverage: Hegseth, Trump face perilous options in the Strait of Hormuz\n\nRelated coverage: How one of Iran's most destructive weapons could threaten the U.S.",
-        "trend_score": 32.92,
+        "content_context": "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；Iran unleashes oil shock to blunt US firepower；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage。\n\nRelated coverage: Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem\n\nRelated coverage: Iran unleashes oil shock to blunt US firepower\n\nRelated coverage: A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage\n\nRelated coverage: Hegseth, Trump face perilous options in the Strait of Hormuz\n\nRelated coverage: Iran, the Strait of Hormuz, and an Unprecedented Energy Crunch",
+        "trend_score": 27.78,
         "trend_breakdown": {
-          "freshness": 0.58,
+          "freshness": 0.455,
           "engagement": 0.0,
           "topic_overlap": 0.5,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "CNBC",
-        "category": "news",
-        "title": "Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2FXZ201NDdHc3RBeGY3QWk2dkRkZWxuU3NIdGo2YkpsUXlpVzR1a3FaRWU0ZzBPOV9id0Y5dVdRN3p6MkZuWG10bml6RFYwcnF0akdOaF9WMjM4XzA2ckkxNkMzeUNMbFF1Q3B2VGk4bEtkN2pjU1FibEpDaTc1UFB2MjVnblhib0lwRV9xbU14WkpZZ0lmdjFjODdONnhZU3Z3QnY4MNIBrAFBVV95cUxQTjQyLVp1N3Q4TUhCZDFkYVVPendLbXE1V19uSDZmU1pzNm80VjNNbHRhWEg2czV1dXljVHRGSm15WTBBTjEwdnJxRDJva1NaY1JPNkVueFdQQkhzRVYzd0dxb0M5VE1scmpvWmZoX1ljUzZoRThSMWFoUVBaX0FBZFJPRFE0OW9MWVJyd3FMcG54SjM4TFFJR2Y4ZTJVZHRXcmRqLVhnNGR2S25H?oc=5",
-        "published_at": "2026-03-14T11:23:18+00:00",
-        "summary": "CNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters；Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub；Middle East war live: Trump calls on China, UK and Japan to send warships to force open Strait of Hormuz。",
-        "related_headlines": [
-          "Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters",
-          "Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub",
-          "Middle East war live: Trump calls on China, UK and Japan to send warships to force open Strait of Hormuz",
-          "UAE's Fujairah stops some oil loading operations after drone attack",
-          "Trump claims 'many countries' sending ships to keep Hormuz strait open"
-        ],
-        "content_context": "Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters - CNBC\n\nCNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters；Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub；Middle East war live: Trump calls on China, UK and Japan to send warships to force open Strait of Hormuz。\n\nRelated coverage: Some oil-loading operations in UAE hub of Fujairah suspended after fire: Reuters\n\nRelated coverage: Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub\n\nRelated coverage: Middle East war live: Trump calls on China, UK and Japan to send warships to force open Strait of Hormuz\n\nRelated coverage: UAE's Fujairah stops some oil loading operations after drone attack\n\nRelated coverage: Trump claims 'many countries' sending ships to keep Hormuz strait open",
-        "trend_score": 32.38,
-        "trend_breakdown": {
-          "freshness": 0.678,
-          "engagement": 0.0,
-          "topic_overlap": 0.25,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -722,18 +763,18 @@
         "title": "Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0RIZDhESGRwc0Q5ak00LVNQNFRVMVhqZHFGcGQ4M1VKcHhHR3lEd0YyQTdHNTlYRTlyUWFxUXgyUDBTdTlXSURLRTZwdGZlZlNhZWNFcVlWaEc2OGdsTm9zbVl0UGVIa2FXOGZJeFdhX1gtTV9namlJenJTWXlmZWNBSmhTLU5fRXRxa1E3UlJwN0VUcUR0dU5tU1UtR2owS3U5bW9aWGJMczVOS2hjTFc0NlpHOEVDZHc3XzZGNjI?oc=5",
         "published_at": "2026-03-14T14:51:18+00:00",
-        "summary": "Bring Me The News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued；FORECAST FIRST ALERT: Heavy snow develops by Saturday night；Minnesota preparing for March winter storm, impacts felt。",
+        "summary": "Bring Me The News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued；FORECAST FIRST ALERT: Heavy snow develops by Saturday night, blizzard warnings issued；Live: Winter storm moves into Minnesota。",
         "related_headlines": [
           "Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued",
-          "FORECAST FIRST ALERT: Heavy snow develops by Saturday night",
-          "Minnesota preparing for March winter storm, impacts felt",
+          "FORECAST FIRST ALERT: Heavy snow develops by Saturday night, blizzard warnings issued",
+          "Live: Winter storm moves into Minnesota",
           "A late-winter snowstorm is about to hit the Plains, Midwest and Great Lakes",
           "Live updates: Dangerous windstorm hits Chicago, Minneapolis as March blizzard targets millions"
         ],
-        "content_context": "Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News\n\nBring Me The News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued；FORECAST FIRST ALERT: Heavy snow develops by Saturday night；Minnesota preparing for March winter storm, impacts felt。\n\nRelated coverage: Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued\n\nRelated coverage: FORECAST FIRST ALERT: Heavy snow develops by Saturday night\n\nRelated coverage: Minnesota preparing for March winter storm, impacts felt\n\nRelated coverage: A late-winter snowstorm is about to hit the Plains, Midwest and Great Lakes\n\nRelated coverage: Live updates: Dangerous windstorm hits Chicago, Minneapolis as March blizzard targets millions",
-        "trend_score": 30.94,
+        "content_context": "Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News\n\nBring Me The News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued；FORECAST FIRST ALERT: Heavy snow develops by Saturday night, blizzard warnings issued；Live: Winter storm moves into Minnesota。\n\nRelated coverage: Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued\n\nRelated coverage: FORECAST FIRST ALERT: Heavy snow develops by Saturday night, blizzard warnings issued\n\nRelated coverage: Live: Winter storm moves into Minnesota\n\nRelated coverage: A late-winter snowstorm is about to hit the Plains, Midwest and Great Lakes\n\nRelated coverage: Live updates: Dangerous windstorm hits Chicago, Minneapolis as March blizzard targets millions",
+        "trend_score": 26.43,
         "trend_breakdown": {
-          "freshness": 0.822,
+          "freshness": 0.697,
           "engagement": 0.0,
           "topic_overlap": 0.083,
           "source_weight": 0.8,
@@ -742,23 +783,23 @@
         "domains": []
       },
       {
-        "source": "Politico",
+        "source": "BBC",
         "category": "news",
-        "title": "Senate Republicans worry they’re losing ground in the midterms - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGFZbmtISVNCOVF3ajNZNXZ4QkRqaE5oUzRTeXVHeXZLN3RXZ2RFQWtmZk85WFdhanYtTlZ4OG1kRmR3OURDSnI3SENmVS1ySUZOSENKUlJHa0NRdllPRFVfRnF2SEc0cklYVXdOcXR6NmlFd3VUY2I3blVxaHpUcEY3bm1YYnduQUZz?oc=5",
-        "published_at": "2026-03-14T14:00:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Senate Republicans worry they’re losing ground in the midterms；GOP senators warn Trump that shaky economy could spell election disaster；3/11/26☀️ AM:。",
+        "title": "More US Marines and warships being moved to Middle East, reports say - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVVlndS14TzlyVjhiazZPZ0VwYnIzVnNOeFpNWmxXNDlTT1ByS29nNlBDSmZSLW00b1lfeE1OVjdseVZBaGZMQlotOGhENERBSlN6OXVZYkhJUQ?oc=5",
+        "published_at": "2026-03-14T13:27:32+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：More US Marines and warships being moved to Middle East, reports say；Pentagon sends USS Tripoli, thousands of Marines to Middle East；How a Marine Unit in the Middle East Could Open New Phase of Iran War。",
         "related_headlines": [
-          "Senate Republicans worry they’re losing ground in the midterms",
-          "GOP senators warn Trump that shaky economy could spell election disaster",
-          "3/11/26☀️ AM:",
-          "Economic Warning Signs Pile Up for Republicans Ahead of Midterms",
-          "Trump just put Republicans' hold on the Senate at risk while sending the national debt higher, Morgan Stanley says"
+          "More US Marines and warships being moved to Middle East, reports say",
+          "Pentagon sends USS Tripoli, thousands of Marines to Middle East",
+          "How a Marine Unit in the Middle East Could Open New Phase of Iran War",
+          "U.S. is deploying Marines to Middle East as it pounds Iran",
+          "More Marines and Warships Head to Middle East as Hormuz Mission Intensifies"
         ],
-        "content_context": "Senate Republicans worry they’re losing ground in the midterms - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Senate Republicans worry they’re losing ground in the midterms；GOP senators warn Trump that shaky economy could spell election disaster；3/11/26☀️ AM:。\n\nRelated coverage: Senate Republicans worry they’re losing ground in the midterms\n\nRelated coverage: GOP senators warn Trump that shaky economy could spell election disaster\n\nRelated coverage: 3/11/26☀️ AM:\n\nRelated coverage: Economic Warning Signs Pile Up for Republicans Ahead of Midterms\n\nRelated coverage: Trump just put Republicans' hold on the Senate at risk while sending the national debt higher, Morgan Stanley says",
-        "trend_score": 28.32,
+        "content_context": "More US Marines and warships being moved to Middle East, reports say - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：More US Marines and warships being moved to Middle East, reports say；Pentagon sends USS Tripoli, thousands of Marines to Middle East；How a Marine Unit in the Middle East Could Open New Phase of Iran War。\n\nRelated coverage: More US Marines and warships being moved to Middle East, reports say\n\nRelated coverage: Pentagon sends USS Tripoli, thousands of Marines to Middle East\n\nRelated coverage: How a Marine Unit in the Middle East Could Open New Phase of Iran War\n\nRelated coverage: U.S. is deploying Marines to Middle East as it pounds Iran\n\nRelated coverage: More Marines and Warships Head to Middle East as Hormuz Mission Intensifies",
+        "trend_score": 23.0,
         "trend_breakdown": {
-          "freshness": 0.787,
+          "freshness": 0.639,
           "engagement": 0.0,
           "topic_overlap": 0.0,
           "source_weight": 0.8,
@@ -767,104 +808,56 @@
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "The Guardian",
         "category": "news",
-        "title": "‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUURGMDRUT0dNREt4aW5qaURWUVJONzl5dHRVM0VzLWNCTnQwc2hOeGdqTFYxVkZkUEtrdEJ5cmR6NWlQMzVMMUhxdmM5c1VnMTY3UGNRdUdaUWkxNXZObDJ1bERjclVZUlZiTzdGc2w1alUxX1RKRG9nQXlkbi01VHBRdnJyclpadEpBMld2TnUtdHNL?oc=5",
-        "published_at": "2026-03-14T09:03:50+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home；Iran war puts many in US on high alert, but synagogue attack shows limits；From sleeper cells to lone wolves, attacks & threats against US intensify。",
+        "title": "‘You are all worse than each other’: anti-regime Iranians turn on Trump - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2VxaUVBZVpSV2lIdWVoWVhHM0VXcG8wLTlGbHJ6NDFKRURCcWNiemt5RHEzQ0o4MzhaSm51TVY0YUdNU1k5VDJoZEJfRDRYM3NodWxJZXdZU1FQZ0ZYVFlkbGc0a29DcXdfLUt4ODJPaGU3bjVNWDJkNzBnRGV4NmRQTENka0xPUlpJ?oc=5",
+        "published_at": "2026-03-14T08:02:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘You are all worse than each other’: anti-regime Iranians turn on Trump；In Tehran, hope for change turns to panic: 'They are turning the country into ruins'；Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting。",
         "related_headlines": [
-          "‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home",
-          "Iran war puts many in US on high alert, but synagogue attack shows limits",
-          "From sleeper cells to lone wolves, attacks & threats against US intensify",
-          "Is the war with Iran making the homefront less safe?",
-          "Jihad in America: The Michigan Attack"
+          "‘You are all worse than each other’: anti-regime Iranians turn on Trump",
+          "In Tehran, hope for change turns to panic: 'They are turning the country into ruins'",
+          "Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting",
+          "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’",
+          "A glimpse of one Iranian’s life in Tehran during the war"
         ],
-        "content_context": "‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home；Iran war puts many in US on high alert, but synagogue attack shows limits；From sleeper cells to lone wolves, attacks & threats against US intensify。\n\nRelated coverage: ‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home\n\nRelated coverage: Iran war puts many in US on high alert, but synagogue attack shows limits\n\nRelated coverage: From sleeper cells to lone wolves, attacks & threats against US intensify\n\nRelated coverage: Is the war with Iran making the homefront less safe?\n\nRelated coverage: Jihad in America: The Michigan Attack",
-        "trend_score": 25.84,
+        "content_context": "‘You are all worse than each other’: anti-regime Iranians turn on Trump - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘You are all worse than each other’: anti-regime Iranians turn on Trump；In Tehran, hope for change turns to panic: 'They are turning the country into ruins'；Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting。\n\nRelated coverage: ‘You are all worse than each other’: anti-regime Iranians turn on Trump\n\nRelated coverage: In Tehran, hope for change turns to panic: 'They are turning the country into ruins'\n\nRelated coverage: Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting\n\nRelated coverage: Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’\n\nRelated coverage: A glimpse of one Iranian’s life in Tehran during the war",
+        "trend_score": 21.53,
         "trend_breakdown": {
-          "freshness": 0.581,
+          "freshness": 0.413,
           "engagement": 0.0,
-          "topic_overlap": 0.308,
+          "topic_overlap": 0.417,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "NPR",
+        "source": "Los Angeles Times",
         "category": "news",
-        "title": "House GOP leadership silent as more members post anti-Muslim statements - NPR",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTZFVFJVbmstbTVPbnBWNXY2WnBzNUloM0VCWlNoQVV6YVdHU2l4OHBjNjFmR3E0TjllOGJ0R3Z0Q2VWdEM4NWs0SndmbzJrQkFMRENRakhybjl0NEVkOGJrT3ZMazI2amZVMjhFd1BUdFlLQVlkcWNlM012YmlhQWVZSTN6UEt2LTkzTTBITEVybGc?oc=5",
-        "published_at": "2026-03-14T09:00:00+00:00",
-        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：House GOP leadership silent as more members post anti-Muslim statements；Multiple Republicans in Congress post openly anti-Muslim statements；Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot。",
+        "title": "Trump administration orders restart of oil drilling along California coast amid Iran war - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2E2N3ZqdmlTUkVFMkpIZDF3czNXZUhPYzN3SkZ1NFo4bWVEWVFTcW45SUo0YmNsdTlZbXVYYzFTY0hnR0l6ckp6dlBjc1lyVWRUTHNxV25WUmtaaUZLOFU0TURlbi1hNXpXMVNjMkVRNnpGMkpjRzl5UllaV3lpU3dFZ2R2czFjRWNRRUZ4MEttVXhJeDhOcHRGN0NCU0FXRU1zQ1ZEMnZlcjVSWlNEWHBLRXphVW5KcHRodXFtdw?oc=5",
+        "published_at": "2026-03-14T05:07:52+00:00",
+        "summary": "Los Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump administration orders restart of oil drilling along California coast amid Iran war；Trump administration invokes emergency powers to restart oil operations off California coast；U.S. Energy secretary directs Texas oil company to restore operations off California。",
         "related_headlines": [
-          "House GOP leadership silent as more members post anti-Muslim statements",
-          "Multiple Republicans in Congress post openly anti-Muslim statements",
-          "Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot",
-          "The Republican Who Wants to Banish His Own Constituents",
-          "Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership"
+          "Trump administration orders restart of oil drilling along California coast amid Iran war",
+          "Trump administration invokes emergency powers to restart oil operations off California coast",
+          "U.S. Energy secretary directs Texas oil company to restore operations off California",
+          "Trump turns to California offshore oil to help with Iran war",
+          "Trump administration directs Sable Offshore to restore Santa Ynez oil unit"
         ],
-        "content_context": "House GOP leadership silent as more members post anti-Muslim statements - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：House GOP leadership silent as more members post anti-Muslim statements；Multiple Republicans in Congress post openly anti-Muslim statements；Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot。\n\nRelated coverage: House GOP leadership silent as more members post anti-Muslim statements\n\nRelated coverage: Multiple Republicans in Congress post openly anti-Muslim statements\n\nRelated coverage: Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot\n\nRelated coverage: The Republican Who Wants to Banish His Own Constituents\n\nRelated coverage: Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership",
-        "trend_score": 22.28,
+        "content_context": "Trump administration orders restart of oil drilling along California coast amid Iran war - Los Angeles Times\n\nLos Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump administration orders restart of oil drilling along California coast amid Iran war；Trump administration invokes emergency powers to restart oil operations off California coast；U.S. Energy secretary directs Texas oil company to restore operations off California。\n\nRelated coverage: Trump administration orders restart of oil drilling along California coast amid Iran war\n\nRelated coverage: Trump administration invokes emergency powers to restart oil operations off California coast\n\nRelated coverage: U.S. Energy secretary directs Texas oil company to restore operations off California\n\nRelated coverage: Trump turns to California offshore oil to help with Iran war\n\nRelated coverage: Trump administration directs Sable Offshore to restore Santa Ynez oil unit",
+        "trend_score": 16.84,
         "trend_breakdown": {
-          "freshness": 0.578,
+          "freshness": 0.292,
           "engagement": 0.0,
-          "topic_overlap": 0.091,
+          "topic_overlap": 0.267,
           "source_weight": 0.8,
-          "domain_weight": 1.0
+          "domain_weight": 1.14
         },
-        "domains": []
-      },
-      {
-        "source": "CNN",
-        "category": "news",
-        "title": "TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’ - CNN",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMHg0NjVMd3oxdUJHSEduSVZLSUJjRGxlYnNXRXNoenFkMmtvVF96dU1qcTNzbkxIVUpyUDNqOXdpZFpyT2J6S1pQbzhjZFlUMUFlcGhPUjh2SlV0cVI4QjB1WEl2NXBRMEJN?oc=5",
-        "published_at": "2026-03-14T08:45:34+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’；Billionaire Trump Demands TSA Keep Working Without Pay；US airports ask for donations for unpaid TSA staff amid partial government shutdown。",
-        "related_headlines": [
-          "TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’",
-          "Billionaire Trump Demands TSA Keep Working Without Pay",
-          "US airports ask for donations for unpaid TSA staff amid partial government shutdown",
-          "Airport Security Workers to Miss Paycheck as Shutdown Drags On",
-          "Miss your flight after abnormally long TSA line? Don't expect a refund"
-        ],
-        "content_context": "TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’ - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’；Billionaire Trump Demands TSA Keep Working Without Pay；US airports ask for donations for unpaid TSA staff amid partial government shutdown。\n\nRelated coverage: TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’\n\nRelated coverage: Billionaire Trump Demands TSA Keep Working Without Pay\n\nRelated coverage: US airports ask for donations for unpaid TSA staff amid partial government shutdown\n\nRelated coverage: Airport Security Workers to Miss Paycheck as Shutdown Drags On\n\nRelated coverage: Miss your flight after abnormally long TSA line? Don't expect a refund",
-        "trend_score": 21.8,
-        "trend_breakdown": {
-          "freshness": 0.568,
-          "engagement": 0.0,
-          "topic_overlap": 0.083,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG1TamQ2eWNReWNfMVJqdmNtTGF3cWVkR2txTVl1RXQyTlMtdm52bXJHMTdjTWU1elJfRWdnMWtrdVJSUUhhZDd4eEtpUVRwV2FwOUhPTUNMQzNkVVdkbk1fTVBvNU9rSGFiUENCVVNOZlNwWk1vLTg5cVo1eTh3WVk3aGRyZ3lQ?oc=5",
-        "published_at": "2026-03-13T23:37:49+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack；Terror attacks at Michigan synagogue and Virginia university rattle sense of safety in American communities；Michigan synagogue attack: Suspect sat in parking lot two hours before ramming Temple Israel。",
-        "related_headlines": [
-          "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack",
-          "Terror attacks at Michigan synagogue and Virginia university rattle sense of safety in American communities",
-          "Michigan synagogue attack: Suspect sat in parking lot two hours before ramming Temple Israel",
-          "When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids",
-          "Temple Israel suspect seen on video buying $2k in fireworks, store says"
-        ],
-        "content_context": "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack；Terror attacks at Michigan synagogue and Virginia university rattle sense of safety in American communities；Michigan synagogue attack: Suspect sat in parking lot two hours before ramming Temple Israel。\n\nRelated coverage: Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack\n\nRelated coverage: Terror attacks at Michigan synagogue and Virginia university rattle sense of safety in American communities\n\nRelated coverage: Michigan synagogue attack: Suspect sat in parking lot two hours before ramming Temple Israel\n\nRelated coverage: When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids\n\nRelated coverage: Temple Israel suspect seen on video buying $2k in fireworks, store says",
-        "trend_score": 10.77,
-        "trend_breakdown": {
-          "freshness": 0.188,
-          "engagement": 0.0,
-          "topic_overlap": 0.25,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
+        "domains": [
+          "finance"
+        ]
       }
     ]
   },
@@ -876,11 +869,11 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "author": "msitarzewski",
       "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Shell",
       "score": 4329,
-      "comment_count": 6468,
-      "total_stars": 43188,
+      "comment_count": 6508,
+      "total_stars": 43470,
       "built_by": [
         "msitarzewski",
         "claude",
@@ -888,76 +881,12 @@
         "4shil",
         "victorkzam"
       ],
-      "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 43188\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
-      "trend_score": 86.85,
+      "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 43470\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
+      "trend_score": 94.08,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 1.0,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "author": "obra",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
-      "language": "Shell",
-      "score": 1451,
-      "comment_count": 6481,
-      "total_stars": 83058,
-      "built_by": [
-        "obra",
-        "claude",
-        "arittr",
-        "clkao",
-        "jjshanks"
-      ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1451\n\nTotal stars: 83058\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
-      "trend_score": 84.15,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.929,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "author": "anthropics",
-      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
-      "language": "Python",
-      "score": 411,
-      "comment_count": 1106,
-      "total_stars": 11162,
-      "built_by": [
-        "tobinsouth",
-        "noahzweben",
-        "claude",
-        "ThariqS",
-        "dicksontsai"
-      ],
-      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11162\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
-      "trend_score": 82.98,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.755,
-        "topic_overlap": 0.25,
+        "topic_overlap": 0.333,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -972,11 +901,11 @@
       "url": "https://github.com/lightpanda-io/browser",
       "author": "lightpanda-io",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Zig",
       "score": 2100,
-      "comment_count": 619,
-      "total_stars": 16834,
+      "comment_count": 625,
+      "total_stars": 16980,
       "built_by": [
         "karlseguin",
         "krichprollsch",
@@ -984,8 +913,8 @@
         "mookums",
         "nikneym"
       ],
-      "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16834\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
-      "trend_score": 80.43,
+      "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16980\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
+      "trend_score": 80.44,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 0.831,
@@ -1004,11 +933,11 @@
       "url": "https://github.com/volcengine/OpenViking",
       "author": "volcengine",
       "summary": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Python",
       "score": 1557,
-      "comment_count": 699,
-      "total_stars": 10161,
+      "comment_count": 711,
+      "total_stars": 10368,
       "built_by": [
         "qin-ctx",
         "zhoujh01",
@@ -1016,11 +945,11 @@
         "claude",
         "ZaynJarvis"
       ],
-      "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 10161\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
-      "trend_score": 79.93,
+      "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 10368\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
+      "trend_score": 79.95,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.818,
+        "engagement": 0.819,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1036,11 +965,11 @@
       "url": "https://github.com/p-e-w/heretic",
       "author": "p-e-w",
       "summary": "Fully automatic censorship removal for language models",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Python",
       "score": 661,
-      "comment_count": 1371,
-      "total_stars": 13489,
+      "comment_count": 1384,
+      "total_stars": 13642,
       "built_by": [
         "p-e-w",
         "spikymoth",
@@ -1048,11 +977,11 @@
         "red40maxxer",
         "kldzj"
       ],
-      "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13489\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
-      "trend_score": 79.15,
+      "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13642\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
+      "trend_score": 79.16,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.797,
+        "engagement": 0.798,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1068,11 +997,11 @@
       "url": "https://github.com/fishaudio/fish-speech",
       "author": "fishaudio",
       "summary": "SOTA Open Source TTS",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Python",
       "score": 377,
-      "comment_count": 2271,
-      "total_stars": 27141,
+      "comment_count": 2272,
+      "total_stars": 27181,
       "built_by": [
         "leng-yue",
         "github-actions",
@@ -1080,11 +1009,75 @@
         "AnyaCoder",
         "PoTaTo-Mika"
       ],
-      "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27141\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
-      "trend_score": 78.76,
+      "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27181\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
+      "trend_score": 78.75,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 0.787,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "author": "anthropics",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
+      "language": "Python",
+      "score": 411,
+      "comment_count": 1107,
+      "total_stars": 11236,
+      "built_by": [
+        "tobinsouth",
+        "noahzweben",
+        "claude",
+        "ThariqS",
+        "dicksontsai"
+      ],
+      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11236\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
+      "trend_score": 77.55,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.755,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "author": "pbakaus",
+      "summary": "The design language that makes your AI harness better at design.",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
+      "language": "JavaScript",
+      "score": 781,
+      "comment_count": 315,
+      "total_stars": 8110,
+      "built_by": [
+        "pbakaus",
+        "claude",
+        "VaishnavGunjari",
+        "whchi",
+        "JasonOA888"
+      ],
+      "content_context": "The design language that makes your AI harness better at design.\n\nLanguage: JavaScript\n\nStars today: 781\n\nTotal stars: 8110\n\nBuilt by: pbakaus, claude, VaishnavGunjari, whchi, JasonOA888",
+      "trend_score": 76.65,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.732,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1100,11 +1093,11 @@
       "url": "https://github.com/InsForge/InsForge",
       "author": "InsForge",
       "summary": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "TypeScript",
       "score": 477,
-      "comment_count": 424,
-      "total_stars": 4040,
+      "comment_count": 427,
+      "total_stars": 4107,
       "built_by": [
         "tonychang04",
         "Fermionic-Lyu",
@@ -1112,7 +1105,7 @@
         "jwfing",
         "claude"
       ],
-      "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 4040\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
+      "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 4107\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
       "trend_score": 76.03,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -1132,11 +1125,11 @@
       "url": "https://github.com/langflow-ai/openrag",
       "author": "langflow-ai",
       "summary": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Python",
       "score": 568,
-      "comment_count": 244,
-      "total_stars": 2621,
+      "comment_count": 245,
+      "total_stars": 2672,
       "built_by": [
         "phact",
         "edwinjosechittilappilly",
@@ -1144,7 +1137,7 @@
         "lucaseduoli",
         "aimurphy"
       ],
-      "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2621\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
+      "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2672\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
       "trend_score": 75.37,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -1164,11 +1157,11 @@
       "url": "https://github.com/dimensionalOS/dimos",
       "author": "dimensionalOS",
       "summary": "The Dimensional Framework",
-      "published_at": "2026-03-14T19:06:56.588582+00:00",
+      "published_at": "2026-03-14T22:07:25.546073+00:00",
       "language": "Python",
       "score": 64,
-      "comment_count": 152,
-      "total_stars": 805,
+      "comment_count": 153,
+      "total_stars": 833,
       "built_by": [
         "spomichter",
         "paul-nechifor",
@@ -1176,7 +1169,7 @@
         "alexlin2",
         "lukasapaukstys"
       ],
-      "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 805\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
+      "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 833\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
       "trend_score": 69.09,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -1192,109 +1185,55 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Prompt to make Claude more autonomous in web dev",
-      "url": "https://news.ycombinator.com/item?id=47379947",
-      "author": "louison11",
+      "title": "Ask HN: Do you care if coding agents use your generated code for training?",
+      "url": "https://news.ycombinator.com/item?id=47381738",
+      "author": "general_reveal",
       "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-03-14T19:01:08+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": "Tell your Claude to put this in MEMORY.md file for much more autonomous development sessions.<p>It's made my Claude work 2x easier in the last week. So many times it'd build something then I'd find a bug. Now it finds the bugs on its own and reiterates until it's sure everything works perfectly. It's so simple but it brings it to the next level in terms of autonomy.<p>Prompt:<p>\"Add this to your MEMORY.md file (or adapt the following to match our project best):<p>## Critical Rules<p>### Always test before delivering<p>- NEVER tell the user something works without verifying it yourself first<p>- After every code change: rebuild, restart server, then test the actual page/API response<p>- After rebuilding Next.js: ALWAYS restart the server — stale JS chunks from old builds cause client-side errors<p>- Test through the public URL, not just localhost<p>- Check both server-side rendering (curl the HTML) AND client-side (verify JS chunks load)<p>- *USE PLAYWRIGHT FOR UI TESTING* — don't just curl pages. Use Playwright with headless Chrome to actually render pages, click buttons, fill forms, and take screenshots. This is the ONLY way to catch client-side JS errors, broken layouts, and U...",
-      "trend_score": 59.35,
-      "trend_breakdown": {
-        "freshness": 0.996,
-        "engagement": 0.071,
-        "topic_overlap": 0.429,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
-      "url": "https://news.ycombinator.com/item?id=47379898",
-      "author": "katspaugh",
-      "score": 3,
-      "comment_count": 0,
-      "published_at": "2026-03-14T18:57:12+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": "Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day.<p>So I built this. One note per day. That's the whole deal.<p>- Can't edit yesterday. What's done is done. Keeps you from fussing over old entries instead of writing today's.<p>- Year view with dots showing which days you actually wrote. It's a streak chart. Works better than it should.<p>- No signup required. Opens right up, stores everything locally in your browser. Optional cloud sync if you want it<p>- E2E encrypted with AES-GCM, zero-knowledge, the whole nine yards.<p>Tech-wise: React, TypeScript, Vite, Zustand, IndexedDB. Supabase for optional sync. Deployed on Cloudflare. PWA-capable.<p>The name means \"one day\" in Japanese (いちにち).<p>The read-only past turned out to be the thing that actually made me stick with it. Can't waste time perfecting yesterday if yesterday won't let you in.<p>Live at <a href=\"https://ichinichi.app\" rel=\"nofollow\">https://ichinichi.app</a> | Source: <a href=\"https://github.com/katspaugh/ichinichi\" rel=\"nofollow\">https://github.com/katspaugh/ichinichi</a>",
-      "trend_score": 52.94,
-      "trend_breakdown": {
-        "freshness": 0.993,
-        "engagement": 0.09,
-        "topic_overlap": 0.1,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-      "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
-      "author": "uyzstvqs",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-03-14T19:06:25+00:00",
-      "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
-        "page_title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-        "page_description": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.",
-        "page_excerpt": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.\n\nThe payload can intercept cryptocurrency wallet addresses entered on websites and replace them with attacker-controlled addresses to divert funds to the threat actor.\n\nSince the AppsFlyer SDK is used by thousands of applications for marketing analytics (user engagement and retention), the impact extends to a significant number of end users."
-      },
-      "content_context": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack.\n\nThe AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. The payload can intercept cryptocurrency wallet addresses entered on websites and replace them with attacker-controlled addresses to divert funds to the threat actor. Since the AppsFlyer SDK is used by thousands of applications for marketing analytics (user engagement and retention), the impact extends to a significant number of end users.",
-      "trend_score": 51.8,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.045,
-        "topic_overlap": 0.111,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "finance",
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Widemem: AI memory layer with importance scoring and conflict resolution",
-      "url": "https://github.com/remete618/widemem-ai",
-      "author": "eyepaqio",
-      "score": 1,
       "comment_count": 1,
-      "published_at": "2026-03-14T19:04:23+00:00",
-      "summary": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai",
+      "published_at": "2026-03-14T22:03:54+00:00",
+      "summary": "I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?",
       "comment_highlights": [
-        "Built this because I kept running into the same problems with existing memory libraries:<p>1. Everything gets equal weight. A peanut allergy and a lunch preference sit at the same priority. So I added importance scoring (1-10) at extraction time, and retrieval ranks by a weighted mix of similarit..."
+        "I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: I just can’t see how things like Claude Code are not keeping your generated code for other purposes … Should developers care more about this?",
+      "trend_score": 60.16,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.107,
+        "topic_overlap": 0.4,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Vigil v1.1 – Open-source security ops platform with embedded AI brain",
+      "url": "https://github.com/vigil-agency/vigil",
+      "author": "vigil-agency",
+      "score": 2,
+      "comment_count": 1,
+      "published_at": "2026-03-14T21:59:02+00:00",
+      "summary": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil",
+      "comment_highlights": [
+        "Vigil is an open-source security operations platform. The v1.1 release adds an embedded security knowledge engine with 356 pre-built entries that answer in <1ms without calling an LLM.<p>What's in the brain: - 85 MITRE ATT&CK techniques (all 14 tactics, real CVEs, detection/mitigation) - 89 port-..."
       ],
       "linked_context": {
-        "resolved_url": "https://github.com/remete618/widemem-ai",
-        "page_title": "GitHub - remete618/widemem-ai: Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization",
-        "page_description": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai",
-        "page_excerpt": "An open-source AI memory layer that actually remembers what matters. Local-first, batteries-included, and opinionated about not forgetting your user's blood type.\n\nLook, AI memory has come a long way. Context windows are bigger, RAG pipelines are everywhere, and most frameworks have some form of \"remember this for later.\" It's not terrible anymore. But it's not great either. Most memory systems treat every fact the same — your user's blood type sits next to what they had for lunch, decaying at the same rate, with the same priority. Contradictions pile up...\n\nwidemem gives your AI a real memory — one that scores what matters, forgets what doesn't, and absolutely refuses to lose track of someone's prescritpion medication just because 72 hours passed and the decay function got bored. Think of it as long-term memory for LLMs, except it actually works and doesn't require a PhD to set up."
+        "resolved_url": "https://github.com/vigil-agency/vigil",
+        "page_title": "GitHub - vigil-agency/vigil: The Security Agency That Never Sleeps — AI-powered security operations platform",
+        "page_description": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil",
+        "page_excerpt": "Open-source, AI-powered security operations platform. Vulnerability scanning, autonomous agents, incident response, compliance tracking, and MCP server — all in a single Express.js process.\n\nThis starts Vigil + PostgreSQL 17. Scanner tools (nmap, nuclei, trivy, nikto) are included in the Docker image.\n\nUsers bring their own AI subscriptions. Vigil shells out to locally-installed CLI tools:"
       },
-      "content_context": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization - remete618/widemem-ai\n\nAn open-source AI memory layer that actually remembers what matters. Local-first, batteries-included, and opinionated about not forgetting your user's blood type. Look, AI memory has come a long way. Context windows are bigger, RAG pipelines are everywhere, and most frameworks have some form of \"remember this for later.\" It's not terrible anymore. But it's not great either. Most memory systems treat every fact the same — your user's blood type sits next to what they had for lunch, decaying at the same rate, with the same priority. Contradictions pile up... widemem gives your AI a real memory — one that scores what matters, forgets what doesn't, and absolutely refuses to lose track of someone's prescritpion medication just because 72 hours passed and the decay function got bored. Think of it as long-term memory for LLMs, except it actually works and doesn't require a PhD to set up.\n\nHN comment: Built this because I kept running into the same problems with existing memory libraries:<p>1. Everything gets equal weight. A peanut allergy and a lunch preference sit at the same priority. So I added importance scoring (1-10) at extraction time, and retrieval ranks by a weighted mix of similarit...",
-      "trend_score": 50.72,
+      "content_context": "The Security Agency That Never Sleeps — AI-powered security operations platform - vigil-agency/vigil\n\nOpen-source, AI-powered security operations platform. Vulnerability scanning, autonomous agents, incident response, compliance tracking, and MCP server — all in a single Express.js process. This starts Vigil + PostgreSQL 17. Scanner tools (nmap, nuclei, trivy, nikto) are included in the Docker image. Users bring their own AI subscriptions. Vigil shells out to locally-installed CLI tools:\n\nHN comment: Vigil is an open-source security operations platform. The v1.1 release adds an embedded security knowledge engine with 356 pre-built entries that answer in <1ms without calling an LLM.<p>What's in the brain: - 85 MITRE ATT&CK techniques (all 14 tactics, real CVEs, detection/mitigation) - 89 port-...",
+      "trend_score": 59.46,
       "trend_breakdown": {
-        "freshness": 0.998,
-        "engagement": 0.081,
-        "topic_overlap": 0.0,
+        "freshness": 0.994,
+        "engagement": 0.107,
+        "topic_overlap": 0.375,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1305,26 +1244,88 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Backed by Reddit Co-Founder, Indoor Urban Farm Concept Launches Franchise Model",
-      "url": "https://www.franchisetimes.com/franchise_news/backed-by-reddit-s-co-founder-indoor-urban-farm-concept-launches-franchise-model/article_ba367276-cfb0-4aef-8274-4e581755f6db.html",
-      "author": "matthest",
-      "score": 1,
+      "title": "Show HN: Costly – Open-source SDK that audits your LLM API costs",
+      "url": "https://www.getcostly.dev/",
+      "author": "itsdannyt",
+      "score": 2,
+      "comment_count": 1,
+      "published_at": "2026-03-14T21:57:33+00:00",
+      "summary": "One install. 7 detectors. Every wasted dollar, found.",
+      "comment_highlights": [
+        "Hey HN - I built Costly because the existing API dashboards (Anthropic, OpenAI, etc.) show you what you spent but not why.<p>I spent $97 last month on Anthropic calls and could see a massive spike on certain days, but had no way to know which feature caused it, whether I was running expensive mod..."
+      ],
+      "linked_context": {
+        "resolved_url": "https://www.getcostly.dev/",
+        "page_title": "Your AI is Costly. Let's fix that.",
+        "page_description": "One install. 7 detectors. Every wasted dollar, found.",
+        "page_excerpt": "I noticed your system prompt is 2,100 tokens and it's identical across all 14,000 calls this month. That's $89/mo on repeated text. Try enabling prompt caching — it'll cut that to near zero.\n\nOf real water consumed every 20–50 AI prompts. Your code has a water bill.\n\nWasted on cloud compute every year. Idle GPUs, redundant calls, oversized models."
+      },
+      "content_context": "One install. 7 detectors. Every wasted dollar, found.\n\nI noticed your system prompt is 2,100 tokens and it's identical across all 14,000 calls this month. That's $89/mo on repeated text. Try enabling prompt caching — it'll cut that to near zero. Of real water consumed every 20–50 AI prompts. Your code has a water bill. Wasted on cloud compute every year. Idle GPUs, redundant calls, oversized models.\n\nHN comment: Hey HN - I built Costly because the existing API dashboards (Anthropic, OpenAI, etc.) show you what you spent but not why.<p>I spent $97 last month on Anthropic calls and could see a massive spike on certain days, but had no way to know which feature caused it, whether I was running expensive mod...",
+      "trend_score": 57.82,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.107,
+        "topic_overlap": 0.3,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Learning Creative Coding",
+      "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+      "author": "ammerfest",
+      "score": 2,
       "comment_count": 0,
-      "published_at": "2026-03-14T19:05:51+00:00",
-      "summary": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to",
+      "published_at": "2026-03-14T22:02:48+00:00",
+      "summary": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.\n\nThis book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence.\n\n(Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.franchisetimes.com/franchise_news/backed-by-reddit-s-co-founder-indoor-urban-farm-concept-launches-franchise-model/article_ba367276-cfb0-4aef-8274-4e581755f6db.html",
-        "page_title": "Backed by Reddit’s Co-Founder, Indoor Urban Farm Concept Launches Franchise Model",
-        "page_description": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to",
-        "page_excerpt": "Since its founding in 2023, Area 2 Farms has been selling freshly grown produce directly to customers in the middle of major metro areas.\n\nAfter a few years spent proving the concept, co-founder and CEO Oren Falkowitz decided using franchising to start more farms in other urban areas. The Virginia-based brand announced this week the launch of its franchise system, with plans to target markets in Florida, Georgia, North Carolina, Ohio and Tennessee.\n\nEach indoor farm unit requires less than 5,000 square feet, on average, and a staff between six and eight workers. The farms, which include space for production and distribution, serve customers within a 10-mile radius, and operate with what’s called a community supported agriculture model. Area 2 Farms uses soil-based farming techniques, not hydroponics."
+        "resolved_url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+        "page_title": "Learning Creative Coding – Stig Møller Hansen",
+        "page_description": null,
+        "page_excerpt": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.\n\nThis book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence.\n\n(Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)"
       },
-      "content_context": "Virginia-based Area 2 Farms embraces the community supported agriculture model, selling fresh produce directly to consumers. With backing from Reddit co-founder Alexis Ohanian’s 776 Capital, the brand is looking to\n\nSince its founding in 2023, Area 2 Farms has been selling freshly grown produce directly to customers in the middle of major metro areas. After a few years spent proving the concept, co-founder and CEO Oren Falkowitz decided using franchising to start more farms in other urban areas. The Virginia-based brand announced this week the launch of its franchise system, with plans to target markets in Florida, Georgia, North Carolina, Ohio and Tennessee. Each indoor farm unit requires less than 5,000 square feet, on average, and a staff between six and eight workers. The farms, which include space for production and distribution, serve customers within a 10-mile radius, and operate with what’s called a community supported agriculture model. Area 2 Farms uses soil-based farming techniques, not hydroponics.",
-      "trend_score": 49.42,
+      "content_context": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination. This book maps the 45 most common frustrations you’ll face and shows you exactly how to work through and learn from each one. It won’t make coding easy, but it will make you stay curious, not furious, on your path to programming confidence. (Version 1.0.1 • 148 pages • No signup needed • 8,809 downloads)",
+      "trend_score": 57.37,
       "trend_breakdown": {
-        "freshness": 0.999,
-        "engagement": 0.045,
-        "topic_overlap": 0.0,
+        "freshness": 0.997,
+        "engagement": 0.071,
+        "topic_overlap": 0.333,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Anti-Slop: A GitHub action that detects and automatically closes AI slop PRs",
+      "url": "https://github.com/peakoss/anti-slop",
+      "author": "flykespice",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-03-14T21:58:10+00:00",
+      "summary": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/peakoss/anti-slop",
+        "page_title": "GitHub - peakoss/anti-slop: A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
+        "page_description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop",
+        "page_excerpt": "A GitHub Action that detects and automatically closes low-quality and AI slop PRs. It ships with 31 check rules covering PR branches, title, description, template, commit messages, file changes, user signals and contributor history.\n\nEverything is configurable through 54 options including checks, exemptions and failure actions, that you do not have to touch if you don't want to, as we've set sensible defaults.\n\nAnti Slop is currently v0 and subject to breaking changes prior to v1.0.0. Pin to a specific version or commit SHA if you need stability."
+      },
+      "content_context": "A GitHub action that detects and automatically closes low-quality and AI slop PRs. - peakoss/anti-slop\n\nA GitHub Action that detects and automatically closes low-quality and AI slop PRs. It ships with 31 check rules covering PR branches, title, description, template, commit messages, file changes, user signals and contributor history. Everything is configurable through 54 options including checks, exemptions and failure actions, that you do not have to touch if you don't want to, as we've set sensible defaults. Anti Slop is currently v0 and subject to breaking changes prior to v1.0.0. Pin to a specific version or commit SHA if you need stability.",
+      "trend_score": 56.14,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.09,
+        "topic_overlap": 0.25,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1337,162 +1338,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI社区热点聚焦于专业化AI代理与开发工具的创新。GitHub趋势榜上，多个项目获得高关注：msitarzewski/agency-agents提供模块化、人格化的AI代理集合；Superpowers探索智能体技能框架与开发方法论；Anthropic推出官方Claude插件目录，系统化扩展开发者生态。同时，基础设施工具如专为AI设计的无头浏览器Lightpanda、火山引擎开源的智能体上下文数据库OpenViking，以及智能体后端框架InsForge，共同推动AI应用开发效率。此外，文本转语音项目fish-speech和去审查化工具heretic也引发讨论，反映技术探索的多样性。",
+    "overview": "今日AI领域开源生态活跃，多个项目聚焦于AI智能体开发与工具链完善。字节跳动火山引擎开源了专为AI智能体设计的上下文数据库OpenViking，旨在统一管理智能体的记忆、资源与技能，支持分层传递与自我进化。同时，msitarzewski/agency-agents项目提供了一套模块化、人格化的AI代理集合，单日获星超4300，显示出开发者对构建“虚拟AI团队”的高度兴趣。在开发工具层面，Lightpanda作为专为AI和自动化设计的无头浏览器，以及InsForge这一为智能体开发构建的后端框架，均获得显著关注，反映了AI工程化进程中基础设施的持续创新。此外，Anthropic推出了官方的Claude代码插件目录，旨在构建可信的插件生态系统；而fish-speech作为SOTA开源TTS项目，以及Impeccable这一旨在提升AI设计能力的设计语言，也分别代表了语音合成与AI设计工具的前沿探索。",
     "named_hotspots": [
       {
         "name": "msitarzewski/agency-agents",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "一个名为'msitarzewski/agency-agents'的GitHub项目在技术社区中迅速流行，今日获得4329颗星，总星数达43188，显示出高关注度。该项目被描述为'一个完整的AI机构触手可及'，提供从前端专家到社区管理等多种专业化AI代理。",
-        "core_details": "该项目是一个用Shell语言编写的开源项目，由msitarzewski、claude、jnMetaCode、4shil和victorkzam共同构建。它旨在提供一系列具有个性、流程和已验证交付成果的AI代理，覆盖从技术开发到社区互动的多种角色，如'前端向导'、'Reddit社区忍者'、'奇想注入者'和'现实检查者'。",
-        "ai_take": "该项目体现了AI代理向专业化、人格化方向的发展趋势，通过模块化设计让用户能快速部署多样化的AI助手，可能降低企业或开发者构建定制化AI解决方案的门槛。",
-        "hype_check": "高星数和趋势分数表明社区兴趣浓厚，但需注意项目仍处于早期阶段，实际应用案例和稳定性待验证；Shell语言可能限制其跨平台或复杂场景的适用性。",
-        "value_check": "如果项目能持续维护并扩展代理功能，可为开发者提供实用的AI工具集，但价值取决于代理的实际效能和易用性；开源性质鼓励协作创新。",
-        "follow_up": "关注项目更新以评估代理性能，或尝试部署测试其在实际任务中的表现；可探索与其他AI框架的集成可能性。",
-        "evidence": "项目描述强调'每个代理都是具有个性、流程和已验证交付成果的专家'，GitHub数据支持其流行度，但缺乏用户评论或相关头条来佐证实际效果。"
-      },
-      {
-        "name": "Superpowers",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "GitHub项目obra/superpowers登上趋势榜，这是一个智能体技能框架与软件开发方法论项目，今日获1451星，总星数达83058。",
-        "core_details": "项目由obra、claude、arittr、clkao、jjshanks构建，使用Shell语言开发，旨在提供一套有效的智能体技能框架和软件开发方法。",
-        "ai_take": "该项目代表了AI驱动开发流程的实践探索，通过框架化智能体技能，可能提升软件开发的自动化与协作效率。",
-        "hype_check": "高星数与趋势排名显示社区关注度高，但需验证其在实际开发中的普适性与成熟度。",
-        "value_check": "作为开源框架，若方法论经实践验证有效，可为AI辅助开发提供结构化参考，潜在价值在于标准化智能体在开发中的角色。",
-        "follow_up": "关注项目后续版本更新、实际案例应用及社区反馈，以评估其长期影响力。",
-        "evidence": "GitHub趋势数据：今日星增1451，总星83058，项目描述为'智能体技能框架与软件开发方法论'。"
-      },
-      {
-        "name": "Claude 插件官方目录",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Anthropic在GitHub上推出了一个官方管理的Claude代码插件目录，该项目今日获得411颗星，总星数达11162。",
-        "core_details": "该项目是Anthropic官方维护的高质量Claude代码插件集合，主要使用Python语言开发，由tobinsouth、noahzweben等核心贡献者构建。",
-        "ai_take": "这表明Anthropic正在系统化地扩展Claude的开发者生态，通过官方认证的插件目录来提升工具的可信度和可用性，可能加速Claude在代码生成等领域的应用落地。",
-        "hype_check": "趋势分高达82.98，日增星数411，表明开发者社区对此关注度很高，但需观察实际插件质量和采用率。",
-        "value_check": "官方管理的插件目录能降低开发者筛选成本，提升Claude工具链的可靠性，但生态价值取决于后续插件的丰富度和维护质量。",
-        "follow_up": "关注该目录中插件的增长情况、实际应用案例以及Anthropic是否会推出相应的插件开发规范或认证机制。",
-        "evidence": "GitHub项目描述为“Anthropic官方管理的高质量Claude代码插件目录”，项目语言为Python，总星数11162，日增星数411，趋势分82.98。"
+        "what_happened": "一个名为'msitarzewski/agency-agents'的GitHub项目在技术社区中迅速流行，单日获得4329颗星，总星数达43470，显示出开发者对AI代理框架的高度兴趣。",
+        "core_details": "该项目是一个完整的AI代理集合，旨在提供'指尖上的AI机构'。它包含多种专业化代理，如前端专家、Reddit社区管理、创意注入者和现实检查员等，每个代理都具有独特的个性、流程和已验证的交付成果。项目使用Shell语言编写，由msitarzewski、claude、jnMetaCode等贡献者构建。",
+        "ai_take": "该项目体现了AI代理向专业化、人格化方向发展的趋势，通过模块化设计让用户能灵活组合不同功能的AI代理，类似于组建一个虚拟团队。这降低了使用复杂AI能力的门槛，可能推动更多个性化AI应用的开发。",
+        "hype_check": "高星数（日增4329，总计43470）和社区讨论（6508条评论）表明该项目确实引起了开发者社群的强烈关注。但需注意，高热度可能部分源于当前AI代理领域的热潮，实际应用效果和可扩展性仍需验证。",
+        "value_check": "项目提供了即用的AI代理模板，可加速开发者在特定场景（如社区管理、内容创作）中集成AI能力。其模块化设计具有实用价值，但依赖Shell语言可能限制其在非技术用户中的普及。",
+        "follow_up": "值得关注该项目的后续更新，尤其是代理的实战案例和用户反馈。同时，可对比其他AI代理框架（如AutoGPT）的差异，以评估其长期竞争力。",
+        "evidence": "项目描述强调'完整的AI机构'和'专业化专家代理'，GitHub数据（日增4329星、总星43470、6508评论）支持其高热度，技术栈为Shell语言，贡献者包括多个开发者。"
       },
       {
         "name": "Lightpanda",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "Lightpanda 是一个专为 AI 和自动化设计的无头浏览器项目，在 GitHub 上趋势热度高，单日获 2100 星，总星数达 16834。",
-        "core_details": "该项目使用 Zig 语言开发，由 karlseguin 等多位贡献者构建，旨在提供高效、适合 AI 驱动自动化的浏览器环境。",
-        "ai_take": "该项目直接针对 AI 和自动化场景优化，可能提升网页抓取、交互模拟等任务的性能和稳定性，为 AI 应用提供底层工具支持。",
-        "hype_check": "趋势分数 80.43 和单日大量星标表明社区关注度高，但作为较新的技术项目，实际生产环境中的成熟度和生态完善度仍需观察。",
-        "value_check": "无头浏览器是 AI 自动化工作流的关键组件，专为 AI 设计可能带来更好的资源控制和执行效率，具有明确的工具价值。",
-        "follow_up": "关注其版本更新、性能基准测试以及与主流 AI 框架的集成情况，以评估其长期实用性和开发者采纳度。",
-        "evidence": "GitHub 项目描述明确指出“专为 AI 和自动化设计”，语言为 Zig，星标数据反映社区热度。"
+        "source": "GitHub Trending",
+        "what_happened": "Lightpanda项目在GitHub趋势榜上获得高关注度，单日新增2100星标，总星标数达16980，表明其在AI和自动化领域的开源工具中受到开发者欢迎。",
+        "core_details": "Lightpanda是一个用Zig语言编写的无头浏览器，专为AI和自动化任务设计，由多位贡献者（karlseguin等）开发，当前在GitHub上趋势评分80.44，讨论热度较高（评论数625）。",
+        "ai_take": "该项目针对AI代理和自动化流程优化，可能提升网页交互效率，为AI应用提供轻量级浏览器控制方案，符合自动化工具与AI集成趋势。",
+        "hype_check": "高星标增长和趋势排名反映短期热度，但需观察长期维护和生态适配，以判断是否成为主流工具。",
+        "value_check": "作为开源无头浏览器，若性能稳定、易于集成，可降低AI开发中的网页自动化成本，但Zig语言的普及度可能影响采用范围。",
+        "follow_up": "关注项目更新频率、社区反馈及与主流AI框架（如LangChain）的整合案例，以评估其实用性。",
+        "evidence": "GitHub趋势数据：单日星标2100，总星标16980，语言为Zig，项目描述强调“为AI和自动化设计”。"
       },
       {
         "name": "OpenViking",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "火山引擎在GitHub上开源了OpenViking项目，这是一个专为AI智能体设计的上下文数据库，采用文件系统范式统一管理智能体所需的上下文（如记忆、资源和技能），支持分层上下文传递与自我进化。",
-        "core_details": "OpenViking是一个用Python编写的开源项目，旨在为AI智能体（例如openclaw）提供上下文管理解决方案。它通过类似文件系统的结构组织上下文，实现层次化的数据传递和系统的自我演进能力。项目在GitHub上单日获得1557颗星，总星数达10161，由火山引擎团队及贡献者开发维护。",
-        "ai_take": "该项目直接针对AI智能体开发中的核心挑战——上下文管理，提供了一种结构化、可扩展的解决方案，有望降低智能体系统的复杂性和提升其长期记忆与技能复用能力。",
-        "hype_check": "项目在GitHub趋势榜上热度较高（趋势分数79.93），单日获星数突出，反映了开发者社区对AI智能体基础设施工具的强烈关注。但需观察其实际生产环境中的采纳率和生态发展。",
-        "value_check": "作为开源项目，OpenViking为AI智能体研发提供了可直接使用的工具，降低了上下文管理的实现门槛。其文件系统范式可能带来更直观的调试和运维体验，但性能与大规模场景适配性有待验证。",
-        "follow_up": "关注OpenViking与主流智能体框架（如LangChain、AutoGPT）的集成进展，以及其在复杂任务场景中的实际案例。同时留意火山引擎是否会围绕该项目推出配套的云服务或企业解决方案。",
-        "evidence": "项目描述明确指出其设计目标、技术范式（文件系统管理上下文）和适用对象（AI智能体）。GitHub数据（单日星数1557、总星数10161、Python语言）和开发团队信息（volcengine及贡献者列表）提供了热度与背景佐证。"
+        "source": "github-trending",
+        "what_happened": "字节跳动火山引擎在GitHub上开源了专为AI智能体设计的上下文数据库OpenViking，该项目今日获得1557颗星，总星数已达10368，引发开发者社区关注。",
+        "core_details": "OpenViking是一个开源的上下文数据库，专门为AI智能体（如openclaw）设计。它通过文件系统范式，统一管理智能体所需的上下文（包括记忆、资源和技能），支持分层上下文传递和自我进化能力。项目主要使用Python语言开发。",
+        "ai_take": "该项目直接针对当前AI智能体开发中的核心挑战——上下文管理。通过引入类似文件系统的层次化结构和自我进化机制，它可能为构建更复杂、持久和可扩展的智能体系统提供基础设施支持，是AI工程化实践中的重要工具。",
+        "hype_check": "热度较高。作为字节跳动火山引擎的开源项目，其背景和针对AI智能体的明确应用场景吸引了大量关注。单日获星超1500，总星数破万，表明其在开发者社区中获得了快速认可和讨论。",
+        "value_check": "潜在价值显著。如果其“统一上下文管理”和“自我进化”的设计能有效落地，可以降低AI智能体开发的复杂性，提升智能体的长期记忆、技能复用和适应性能力，对推动智能体生态发展有实际工程价值。",
+        "follow_up": "需要关注其在实际智能体项目中的集成案例和性能表现，观察其与主流智能体框架（如LangChain、AutoGPT）的兼容性，以及社区围绕其构建的工具链和最佳实践。",
+        "evidence": "项目描述明确指出其设计目标、核心功能（统一管理记忆、资源、技能，支持分层传递和自我进化）及主要应用对象（AI智能体）。GitHub趋势数据（今日星数1557，总星数10368，语言Python）和创建者（volcengine，即字节跳动火山引擎）提供了热度与背景佐证。"
       },
       {
         "name": "p-e-w/heretic",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub项目p-e-w/heretic登上趋势榜，这是一个旨在为语言模型提供全自动审查移除功能的工具。",
-        "core_details": "该项目使用Python编写，今日新增661颗星，总星数达13489，由p-e-w、spikymoth、anrp、red40maxxer、kldzj等开发者构建，专注于通过技术手段自动消除语言模型中的审查机制。",
-        "ai_take": "该项目反映了AI社区对模型开放性和去审查化的技术探索，可能涉及模型微调或提示工程，以绕过内置的内容限制，但需注意其潜在的法律与伦理风险。",
-        "hype_check": "趋势热度较高（趋势分数79.15），表明在开发者中关注度显著，但实际应用场景和效果仍需验证，可能更多是技术实验性质。",
-        "value_check": "为研究模型行为或内容生成自由度提供了工具参考，但直接用于生产环境可能引发合规问题，价值主要体现在学术或实验层面。",
-        "follow_up": "可关注项目更新、用户反馈及类似工具（如“unfiltered LLM”项目）的发展，同时观察平台政策对此类技术的反应。",
-        "evidence": "项目描述为“全自动语言模型审查移除”，GitHub数据支持其流行度（总星数13489，今日星数661），无额外页面描述或评论摘要可用。"
+        "what_happened": "一个名为'heretic'的GitHub项目在趋势榜上获得关注，该项目旨在为语言模型提供全自动的审查移除功能。",
+        "core_details": "该项目由p-e-w等人开发，使用Python语言，今日新增661颗星，总星数达13642，拥有1384条评论，表明其在开发者社区中引起了广泛讨论和兴趣。",
+        "ai_take": "该项目直接针对AI语言模型中的内容审查机制，试图通过自动化工具移除或绕过内置的审查限制，这反映了开源社区对AI模型可控性和自由度的持续探索，但也可能引发关于AI伦理和安全使用的争议。",
+        "hype_check": "高星数和评论量显示项目热度显著，但需注意其技术实现的可靠性和潜在风险，可能更多是实验性或概念性项目，而非成熟解决方案。",
+        "value_check": "对于研究AI模型去中心化、内容过滤或伦理边界的技术人员具有参考价值，但普通用户应谨慎使用，以避免违反平台政策或法律风险。",
+        "follow_up": "关注项目后续更新、社区反馈以及可能的法律或伦理讨论，同时观察类似工具在AI开源生态中的发展。",
+        "evidence": "项目描述为'全自动语言模型审查移除'，GitHub数据支持其流行度（总星数13642，今日星数661，评论1384），语言为Python，由多名贡献者维护。"
       },
       {
         "name": "fish-speech",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "fishaudio/fish-speech 是一个开源的文本转语音（TTS）项目，在 GitHub 上成为热门趋势，今日获得 377 颗星，总星数达 27141，由 leng-yue 等开发者维护。",
-        "core_details": "该项目被描述为 SOTA（最先进）开源 TTS 工具，使用 Python 语言开发，在 GitHub 上拥有高关注度，今日星数增长显著，总星数超过 2.7 万，表明其在开发者社区中受到广泛认可。",
-        "ai_take": "fish-speech 作为开源 TTS 项目，可能推动了语音合成技术的可访问性和创新，为研究者和开发者提供了高质量的基准工具，有助于加速语音 AI 应用的开发。",
-        "hype_check": "项目在 GitHub 趋势榜上排名靠前，星数增长迅速，反映了社区对高质量开源 TTS 工具的需求和兴趣，但需注意其实际性能和应用场景是否与宣传一致。",
-        "value_check": "作为 SOTA 开源 TTS，该项目可能具有较高的技术价值，为语音合成领域贡献了代码和模型，但用户应评估其文档、易用性和社区支持，以确定其实用性。",
-        "follow_up": "关注项目的更新和版本发布，查看其在实际应用中的案例和用户反馈，并比较与其他 TTS 工具（如 Coqui TTS、Tacotron）的性能差异。",
-        "evidence": "GitHub 趋势数据：今日星数 377，总星数 27141，项目描述为 SOTA Open Source TTS，使用 Python 语言，由 fishaudio 组织维护。"
+        "what_happened": "fishaudio/fish-speech 是一个开源的文本转语音（TTS）项目，在 GitHub 上成为热门趋势，今日获得 377 颗星，总星数已达 27181。",
+        "core_details": "该项目使用 Python 语言开发，被描述为 SOTA（最先进）的开源 TTS 解决方案。主要贡献者包括 leng-yue、github-actions、pre-commit-ci、AnyaCoder 和 PoTaTo-Mika。",
+        "ai_take": "这表明开源社区对高质量、可访问的 TTS 技术有持续且强烈的需求。项目的高关注度可能源于其在语音合成质量、易用性或特定功能（如多语言支持、实时合成）上的创新。",
+        "hype_check": "趋势分 78.75 和今日显著的星数增长表明其当前热度很高，但需注意 GitHub 趋势可能受短期因素影响。",
+        "value_check": "作为 SOTA 开源 TTS，它为开发者、研究人员提供了免费、可修改的先进语音合成工具，降低了 AI 语音技术的应用门槛，具有明确的实用价值。",
+        "follow_up": "关注其版本更新、论文发布（如有）、社区讨论以及在实际应用（如内容创作、辅助技术、游戏）中的案例。",
+        "evidence": "项目在 GitHub 趋势榜上，语言为 Python，今日星增 377，总星 27181，描述为 SOTA Open Source TTS。"
+      },
+      {
+        "name": "Claude 官方插件目录",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic在GitHub上推出了一个官方托管的Claude代码插件目录，该项目今日获得411颗星，总星数达11236，主要由Python语言开发。",
+        "core_details": "该项目是Anthropic官方管理的高质量Claude代码插件集合，旨在为开发者提供一个可信的插件资源库。项目由tobinsouth、noahzweben等核心贡献者维护，目前已有1107条评论，显示出较高的社区参与度。",
+        "ai_take": "此举表明Anthropic正通过构建官方插件生态系统来增强Claude的开发工具链，可能旨在提升开发效率、确保插件质量，并巩固其在AI编程助手领域的生态地位。",
+        "hype_check": "项目在GitHub趋势榜上热度较高（趋势得分77.55），单日获星数显著，反映了开发者对Claude官方插件资源的强烈关注。但需注意，热度可能部分源于Anthropic的品牌效应和新发布效应。",
+        "value_check": "对于AI开发者和Claude用户，该目录提供了经过官方筛选的可靠插件，可降低集成风险、提升开发体验；对Anthropic而言，则有助于生态标准化和用户粘性增强。长期价值取决于插件的持续维护与多样性。",
+        "follow_up": "关注插件目录的更新频率、插件质量评估机制，以及Anthropic是否会推出配套的插件开发工具或认证计划。",
+        "evidence": "项目GitHub页面明确标注为“Anthropic官方管理的高质量Claude代码插件目录”，数据来自GitHub趋势榜的星数、语言及贡献者信息。"
+      },
+      {
+        "name": "Impeccable",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Impeccable的设计语言项目在GitHub趋势榜上热度飙升，单日获星781颗，总星数达8110颗，由开发者pbakaus主导，并得到Claude等AI工具及多位贡献者的支持。",
+        "core_details": "Impeccable是一个用JavaScript编写的设计语言项目，旨在通过特定的设计规范和工具，提升AI系统在视觉设计任务中的表现和能力，使其生成的设计输出更加精准、一致且符合美学标准。",
+        "ai_take": "该项目直接针对AI在设计领域的应用瓶颈，通过结构化设计语言来约束和引导AI的输出，有望降低AI生成设计的随机性，提升自动化设计流程的可靠性和专业性，是AI与设计工具深度结合的前沿探索。",
+        "hype_check": "高热度反映了开发者社区对AI增强设计工具的强烈兴趣，但作为新兴项目，其实际效果和行业采纳度仍需验证，需警惕技术炒作可能脱离当前AI设计能力的现实局限。",
+        "value_check": "若成功实施，可显著提升AI辅助设计效率，减少人工调整成本，对UI/UX设计、营销素材生成等领域具有潜在实用价值，但依赖社区生态建设和工具链完善。",
+        "follow_up": "关注项目后续版本迭代、实际集成案例以及与其他AI设计工具（如Figma插件、Canva AI等）的兼容性进展，以评估其长期影响力。",
+        "evidence": "项目描述明确指出其目标为“让AI在设计方面表现更佳”，GitHub数据（单日星数、总星数、贡献者列表）佐证其受关注程度，且技术栈为JavaScript，适合Web端AI设计应用集成。"
       },
       {
         "name": "InsForge",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "InsForge项目在GitHub趋势榜上受到关注，它是一个专为智能体开发设计的后端框架，旨在为智能体提供构建全栈应用所需的一切。",
-        "core_details": "InsForge是一个用TypeScript编写的开源项目，专注于支持智能体驱动开发，帮助开发者快速构建和部署全栈应用程序。项目由多位贡献者共同维护，包括tonychang04、Fermionic-Lyu等。",
-        "ai_take": "该项目代表了AI智能体开发工具链的演进，通过提供专门的后端支持，降低了智能体集成到全栈应用中的门槛，可能推动更多AI驱动的自动化开发流程。",
-        "hype_check": "项目在GitHub上单日获得477颗星，总星数达4040，显示出较高的社区关注度，但需观察其实际采用率和生态成熟度。",
-        "value_check": "对于从事智能体或自动化应用开发的团队，InsForge可能提供有价值的工具支持，但其长期价值取决于框架的稳定性、文档和社区贡献。",
-        "follow_up": "关注项目后续版本更新、实际案例以及与其他AI开发工具的集成情况，以评估其在实际生产环境中的适用性。",
-        "evidence": "项目描述明确指出其定位为“智能体开发的后端”，GitHub趋势数据反映其近期受欢迎程度，语言和贡献者信息提供了技术背景。"
+        "what_happened": "InsForge是一个专为智能体开发设计的后端框架，旨在为智能体提供构建全栈应用所需的一切能力。该项目在GitHub上趋势显著，单日获得477颗星，总星数达4107，主要由TypeScript编写。",
+        "core_details": "InsForge定位为“为智能体开发构建的后端”，专注于支持智能体驱动的全栈应用开发。项目由tonychang04、Fermionic-Lyu、Leo-rq-yu、jwfing和claude等贡献者构建，采用TypeScript语言，在GitHub上拥有高关注度，单日星数增长突出。",
+        "ai_take": "该项目直接针对AI智能体开发领域，通过提供专门的后端框架，降低了智能体构建全栈应用的技术门槛，可能推动更多AI驱动的自动化开发流程。",
+        "hype_check": "当前热度较高，单日星数增长显著，总星数已超4000，表明在开发者社区中受到关注，但实际采用率和生产环境效果尚待验证。",
+        "value_check": "如果框架能有效简化智能体开发流程，提升全栈应用构建效率，将具有实用价值，尤其适用于自动化开发和AI辅助编程场景。",
+        "follow_up": "关注项目后续版本更新、社区反馈以及在实际智能体项目中的应用案例，以评估其长期可行性和生态影响。",
+        "evidence": "GitHub趋势数据：单日星数477，总星数4107，项目描述明确为“为智能体开发构建的后端”，语言为TypeScript，贡献者列表包括多名开发者。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
         "item_name": "msitarzewski/agency-agents",
-        "content_summary": "这是一个完整的AI代理集合，提供从前端开发到Reddit社区管理等多种专业化AI代理。每个代理都具有独特的个性、流程和经过验证的交付成果。项目使用Shell语言，今日新增4329颗星，总星数达43188。",
-        "ai_comment": "该项目展示了AI代理的模块化和专业化趋势，将不同领域的任务交由具有特定‘人格’的AI处理，可能代表了未来AI协作开发的新范式。"
+        "content_summary": "该项目提供了一个完整的AI智能体集合，包含从前端专家到Reddit社区管理、从创意注入到现实核查等多种专业化智能体。每个智能体都具备独特的个性、工作流程和已验证的交付成果。项目使用Shell语言编写，今日新增星标4329个，总星标数达43470。",
+        "ai_comment": "一个高度模块化、角色化的AI智能体框架，旨在模拟一个完整的数字代理机构，体现了AI应用向专业化、人格化方向的发展趋势。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "obra/superpowers",
-        "content_summary": "这是一个有效的智能体技能框架和软件开发方法论。项目使用Shell语言，今日新增1451颗星，总星数高达83058。",
-        "ai_comment": "‘超级能力’框架的流行表明市场对结构化、可复用的AI智能体开发流程存在强烈需求，旨在提升AI在复杂任务中的可靠性和效率。"
+        "item_name": "lightpanda-io/browser",
+        "content_summary": "Lightpanda是一个专为AI和自动化设计的无头浏览器。项目使用Zig语言编写，今日新增星标2100个，总星标数16980。",
+        "ai_comment": "针对AI代理和自动化任务优化的浏览器内核，可能通过性能或API设计上的改进，更好地支持大规模、稳定的网页交互与数据抓取。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "anthropics/claude-plugins-official",
-        "content_summary": "这是Anthropic官方管理的高质量Claude代码插件目录。项目使用Python语言，今日新增411颗星，总星数为11162。",
-        "ai_comment": "Anthropic推出官方插件目录，旨在规范和丰富Claude AI的功能生态，通过社区筛选确保插件质量，有助于提升开发者的信任和使用体验。"
+        "item_name": "volcengine/OpenViking",
+        "content_summary": "OpenViking是一个专为AI智能体（如openclaw）设计的开源上下文数据库。它通过文件系统范式统一管理智能体所需的上下文（记忆、资源和技能），支持分层上下文传递和自我进化。项目使用Python语言，今日新增星标1557个，总星标数10368。",
+        "ai_comment": "火山引擎开源的智能体专用数据库，其文件系统抽象和分层管理能力，旨在解决智能体长期记忆、工具调用和技能演进等核心挑战。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Prompt to make Claude more autonomous in web dev",
-        "content_summary": "用户分享了一个提示词，旨在让Claude在Web开发中更加自主。该提示要求Claude将一系列关键规则存入MEMORY.md文件，包括在交付前必须自行测试、每次代码更改后重建并重启服务器、使用Playwright进行实际的UI测试（而非仅curl）以捕捉客户端错误等。发布者称此举使其与Claude的协作效率提升了一倍。",
-        "ai_comment": "这个实践强调了将系统化测试和验证流程内化到AI工作记忆中的重要性，是提升AI编码代理自主性和产出质量的有效技巧，减少了人工干预。"
+        "item_name": "Ask HN: Do you care if coding agents use your generated code for training?",
+        "content_summary": "一位开发者提问，质疑像Claude Code这样的编码助手是否会将用户生成的代码用于其他目的（如模型训练），并询问开发者是否应该更关注这个问题。评论中表达了对此类数据使用不透明的担忧。",
+        "ai_comment": "触及了AI辅助编程工具的核心伦理与隐私问题：用户产出的代码知识产权归属及被用于模型改进的知情同意权。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
-        "content_summary": "开发者展示了一款名为‘Ichinichi’（日语‘一日’）的日记应用。其核心设计是每天只能创建一条笔记，且无法编辑过去的条目，旨在鼓励用户专注当下而非修改过去。应用提供年度视图以点状图显示记录天数，数据默认本地存储于浏览器IndexedDB，支持端到端加密的云端同步选项。技术栈包括React、TypeScript、Vite等。",
-        "ai_comment": "该应用通过极简且带有约束性（不可编辑昨日）的设计，巧妙地解决了用户拖延和过度修饰旧记录的心理障碍，体现了‘少即是多’的产品哲学在习惯养成类工具中的应用。"
+        "item_name": "Vigil v1.1 – Open-source security ops platform with embedded AI brain",
+        "content_summary": "Vigil是一个开源、AI驱动的安全运营平台，集成了漏洞扫描、自主智能体、事件响应、合规性追踪和MCP服务器等功能。v1.1版本新增了一个嵌入式安全知识引擎，包含356个预构建条目，可在不调用大语言模型的情况下于1毫秒内给出答案，内容涵盖MITRE ATT&CK技术、端口知识等。",
+        "ai_comment": "将AI与安全运营深度结合，其嵌入式知识引擎通过预编译知识实现极速响应，展示了在特定专业领域（如安全）降低对通用LLM依赖、提升效率与可靠性的路径。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-        "content_context": "营销分析平台AppsFlyer的Web SDK本周遭暂时劫持，被植入用于窃取加密货币的恶意代码，构成一次供应链攻击。恶意负载能够拦截用户在网站上输入的加密货币钱包地址，并将其替换为攻击者控制的地址以转移资金。由于该SDK被数千个应用程序用于营销分析，此次事件影响了大量终端用户。",
-        "ai_comment": "这起针对广泛使用的商业SDK的供应链攻击事件，突显了第三方依赖库的安全风险极高，一旦被攻破，影响范围呈指数级扩散，对Web生态安全敲响了警钟。"
+        "item_name": "Show HN: Costly – Open-source SDK that audits your LLM API costs",
+        "content_summary": "Costly是一个开源SDK，用于审计LLM API调用成本。它通过7种检测器分析使用模式，识别浪费开销，例如重复的系统提示、闲置GPU、冗余调用或模型过大等问题，帮助开发者理解费用产生的具体原因而不仅仅是总金额。创建者提到因现有API仪表板无法定位费用激增根源而开发此工具。",
+        "ai_comment": "瞄准了AI应用规模化后面临的显性成本管控痛点，通过细粒度分析推动资源优化，是AI工程化和商业化进程中重要的辅助工具。"
       },
       {
         "source_group": "news",
-        "item_name": "Live Updates: Tehran threatens to retaliate after U.S. attacks vital Iranian oil hub - CBS News",
-        "content_summary": "CBS新闻报道，在美国袭击伊朗重要的石油枢纽哈尔克岛后，德黑兰威胁要进行报复。相关报道指出，美国从阿联酋发动了攻击，伊朗战争已进入第三周。特朗普声称美国打击了伊朗石油经济的核心。",
-        "ai_comment": "该事件标志着地区紧张局势的重大升级，对全球石油供应和地缘政治稳定构成直接威胁，市场需密切关注霍尔木兹海峡的通航状况及后续连锁反应。"
+        "item_name": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post",
+        "content_summary": "据《华盛顿邮报》报道，特朗普宣称美国袭击了伊朗石油经济的核心——哈尔克岛。相关报道还提及伊朗无视特朗普对霍尔木兹海峡封锁的威胁、德黑兰声称美国从阿联酋发动攻击以及伊朗战争进入第三周等动态。美国参议员林赛·格雷厄姆称轰炸哈尔克岛将“缩短战争”。",
+        "ai_comment": "地缘政治事件，涉及能源基础设施与关键航道安全，可能对全球能源市场及供应链产生重大影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios",
-        "content_summary": "Axios报道，特朗普声称将有一个国际联盟派遣军舰前往霍尔木兹海峡，以重新开放该海峡。他表示‘许多国家’将在伊朗封锁海峡的背景下派遣军舰。美国国防部正在向中东增派海军陆战队和军舰。",
-        "ai_comment": "特朗普的表态显示了以美国为首的联盟可能采取军事手段确保石油运输通道安全的意图，这将使该地区的军事对峙风险进一步加剧。"
+        "item_name": "Trump Proposes New White House Visitor Screening Center - The New York Times",
+        "content_summary": "《纽约时报》报道，特朗普提议新建白宫访客安检中心，计划用一处地下设施替代现有的安检中心，旨在为访客提供安全检查。",
+        "ai_comment": "涉及美国行政中心安保设施的升级计划，属于国内政治与安全事务。"
       },
       {
         "source_group": "news",
-        "item_name": "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times",
-        "content_summary": "《纽约时报》分析文章探讨了为何在石油面临的霍尔木兹海峡问题爆发前，各方几乎没有采取预防措施。文章提供了伊朗如何挟持霍尔木兹海峡的视觉指南，并指出伊朗通过发动石油冲击来削弱美国的火力优势。",
-        "ai_comment": "该分析揭示了全球能源供应链在关键节点上的脆弱性，以及地缘政治博弈中，预防性措施的缺失往往源于复杂的利益权衡和风险误判。"
+        "item_name": "Trump urges other nations to help secure shipping through Strait of Hormuz - Reuters",
+        "content_summary": "路透社报道，特朗普敦促其他国家协助保障霍尔木兹海峡的航运安全，并在伊朗威胁进行更多报复性打击之际呼吁英国等国派遣舰船。特朗普声称国际联盟将派遣军舰重新开放该海峡，其政府已誓言护送油轮通过。",
+        "ai_comment": "围绕关键海上通道（霍尔木兹海峡）的国际安全协作呼吁，与前述袭击事件相关联，凸显了该区域紧张局势及对全球能源运输的潜在冲击。"
       }
     ],
-    "closing_note": "总体来看，今日趋势凸显AI代理向垂直化、工具链向专业化发展的双重动力。开源项目在降低开发门槛、构建基础设施方面持续发力，但实际效能与生态成熟度仍需观察。开发者可关注这些工具与框架的集成案例，以评估其在生产环境中的长期价值。",
+    "closing_note": "总体来看，今日热点项目清晰地勾勒出AI开发的两个核心趋势：一是智能体（Agent）技术正从概念验证走向工程化实践，其上下文管理、模块化架构与专用开发框架成为关键创新点；二是AI工具链正朝着专业化、垂直化方向深化，覆盖从代码助手、语音合成到自动化设计等多个领域。开源社区的活跃度持续印证了AI技术快速迭代与生态共建的特征。然而，在关注技术热度的同时，也需理性评估项目的实际应用价值、长期维护前景以及与现有生态的整合能力。对于开发者而言，这些项目提供了丰富的工具箱，但成功应用仍需结合具体场景进行审慎的技术选型与验证。",
     "_errors": []
   }
 }
