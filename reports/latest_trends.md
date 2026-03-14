@@ -1,9 +1,9 @@
 # AI 热点日报
 
-> 更新时间：2026-03-14 16:37（北京时间）
+> 更新时间：2026-03-14 22:37（北京时间）
 
 ## 今日一句话
-今日 AI 热点主要集中在 msitarzewski/agency-agents、public-apis/public-apis、obra/superpowers，GitHub Trending 与 Reddit 仍是主要热度来源。
+今日 AI 热点主要集中在 msitarzewski/agency-agents、obra/superpowers、lightpanda-io/browser，GitHub Trending 与 Reddit 仍是主要热度来源。
 
 ## 数据概览
 - GitHub Trending：10
@@ -16,48 +16,48 @@
 
 ## GitHub Trending 观察
 ### 1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-- 热度：trend_score=86.84 | 语言=Shell | 今日星标=5745 | 总星标=41383 | forks=6238
+- 热度：trend_score=94.07 | 语言=Shell | 今日星标=4329 | 总星标=42449 | forks=6376
 - 看点：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-### 2. [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- 热度：trend_score=86.13 | 语言=Python | 今日星标=892 | 总星标=409830 | forks=44271
-- 看点：A collective list of free APIs
-### 3. [obra/superpowers](https://github.com/obra/superpowers)
-- 热度：trend_score=84.46 | 语言=Shell | 今日星标=2106 | 总星标=82314 | forks=6411
+### 2. [obra/superpowers](https://github.com/obra/superpowers)
+- 热度：trend_score=84.16 | 语言=Shell | 今日星标=1451 | 总星标=82671 | forks=6443
 - 看点：An agentic skills framework & software development methodology that works.
+### 3. [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+- 热度：trend_score=80.39 | 语言=Zig | 今日星标=2100 | 总星标=16562 | forks=604
+- 看点：Lightpanda: the headless browser designed for AI and automation
 
 ## Hacker News 观察
-### 1. [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
-- 热度：trend_score=54.1 | 热度分=2 | 评论=0 | 来源=hacker-news
-- 看点：Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.
-### 2. [A self-hosted intelligence terminal that watches the world for signals](https://github.com/calesthio/Crucix)
-- 热度：trend_score=50.55 | 热度分=1 | 评论=1 | 来源=hacker-news
-- 看点：Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix
-### 3. [Ask HN: What newsletters do you read every day or week?](https://news.ycombinator.com/item?id=47374561)
-- 热度：trend_score=49.34 | 热度分=1 | 评论=0 | 来源=hacker-news
-- 看点：这条 Hacker News 链接在开发者圈内获得了较高点赞和评论。
+### 1. [BunkerVM – Run AI agents in isolated Firecracker microVM sandboxes](https://github.com/ashishgituser/bunkervm)
+- 热度：trend_score=53.16 | 热度分=2 | 评论=0 | 来源=hacker-news
+- 看点：BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...
+### 2. [Ask HN: Would this eliminate bots for good?](https://news.ycombinator.com/item?id=47377046)
+- 热度：trend_score=50.48 | 热度分=1 | 评论=1 | 来源=hacker-news
+- 看点：Sell it to Mark Zuckerberg.
+### 3. [DroneClaw: Flying a Drone with Voice Commands](https://twitter.com/Viewforge/status/2032800448269398081)
+- 热度：trend_score=49.02 | 热度分=1 | 评论=0 | 来源=hacker-news
+- 看点：Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.
 
 ## 新闻头条观察
-### 1. [Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island - WSJ](https://news.google.com/rss/articles/CBMibkFVX3lxTE9yMkxEQUxCd19ONlZmSTFMQUNtOHhoeDdKZ2ZiN2MwcUhyM2IycWxrbHVkTUZLY2FBSXRHZ0RLLTZMaVduRHVFMUhlQndHQm1ENWZVb1FfLUhCcWJOQldmdlRkTmhSZTNZak9FeGJn?oc=5)
-- 热度：trend_score=40.46 | 来源=WSJ
-- 看点：WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island；Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub；Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next。
-### 2. [Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWpSWk5aRTlubzQ3WjJQZGZSYmpVQ2tIeXdhQWlSYmZMc3NISW9PVjJaUnZsb2E3UVRDRU1rUVFzdTBpZ0hhMGpKMjhuOVZhVUQxQUZFeGt3allIeFlrMGVBU0wtSFNKeWJ3ak5zenhvY1RSUm1LWUVGYndPQWNvRTZIMDFrOVVmUVZBbm41LTQ?oc=5)
-- 热度：trend_score=34.61 | 来源=The Washington Post
-- 看点：The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Veteran Army combat pilot mourned after shooting at Old Dominion University；Case against man prosecutors say sold gun to Old Dominion shooter provides new details on the attack；Old Dominion shooting is being investigated as act of terrorism, FBI director says。
-### 3. [Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaS1dTa3hBMS05aG1ZalBEeHdPU3p6ZXM2bDB0ekIyb0NzYVZOVzRHT0dKN2NWeWFhSkp5TUp5Y0I2NFAtRmM4V1IzLXhsRldDUk5oOU9vQ3dZOFBRMm84MVpqQ3dGUQ?oc=5)
-- 热度：trend_score=34.19 | 来源=Axios
-- 看点：Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Subpoenas against Fed chair Powell tossed in a scathing opinion；Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell；DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe。
+### 1. [Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlQxTy1qRU0zZy1ZMlVQaExCcGNiamVEaWhudXBHR0dxREZ5VDlPUkRqNFdtME5NYnNqNGtmZlhmdUlhd3ZRX2puU2dXZUtOemFLaHVxUmJRSE5JVjhHdVNZMFZUbXRqOU9HSENmd09NMVJMZHEzTVZLclBMd2ExSlo5VDFBN1BLWXNITERKeTlGRGhWVjJRcFptWThFQk5uQUh5c21lbFJzbHJiMURrbzd6LXBOUQ?oc=5)
+- 热度：trend_score=41.47 | 来源=Bloomberg.com
+- 看点：Bloomberg.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz；Iran War Live Updates: U.S. Bombs Iranian Oil Hub；Iran hits back after Trump says U.S. struck military targets on island vital to oil network。
+### 2. [Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’ - The Washington Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1lqSFJoTmdNZVpVVTZkXzlUVkwwel9JdEpQTmp2N3R4RFBfbm43MmRERDltWFE1SUt2bUx5SnpVb2oyaUNoVDJUOHpYUUJ0SmZVNkdOT0l6UjNiOVhBWUNXblZpTnpSakJyOWtFQWI0Z3BHVHhWcTFGN3Z1a3RlSnozLUQ4Slppcmc?oc=5)
+- 热度：trend_score=35.95 | 来源=The Washington Post
+- 看点：The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’；‘You are all worse than each other’: anti-regime Iranians turn on Trump；In Tehran, hope for change turns to panic: 'They are turning the country into ruins'。
+### 3. [US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXJlNE81dHhsY3RIZDBRNTNlUGZITnJ0eVJ5LUY3cjZHb3ZlVHJiR2VzcWFpOV9PdjdzUXcwWWgxLTlBelpXX3RFbm9JYUxZb2kwbVNDTmh1LWRfZ1hJZWdYbGtBOWVKZi1Bb2Zsak9mMHJZeFdBOURURjdqMHYwdlo2bnZXSDJ3M3VFVGxvcw?oc=5)
+- 热度：trend_score=34.65 | 来源=AP News
+- 看点：AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department；At War With Iran, U.S. Sees More Violence at Home；Iran war puts many in US on high alert, but synagogue attack shows limits。
 
 ## 热榜 Top 10
-1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | github-trending | trend_score=86.84
-2. [public-apis/public-apis](https://github.com/public-apis/public-apis) | github-trending | trend_score=86.13
-3. [obra/superpowers](https://github.com/obra/superpowers) | github-trending | trend_score=84.46
-4. [microsoft/BitNet](https://github.com/microsoft/BitNet) | github-trending | trend_score=83.06
-5. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | github-trending | trend_score=80.9
-6. [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | github-trending | trend_score=79.78
-7. [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | github-trending | trend_score=79.21
-8. [google/A2UI](https://github.com/google/A2UI) | github-trending | trend_score=77.92
-9. [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | github-trending | trend_score=75.92
-10. [dolthub/dolt](https://github.com/dolthub/dolt) | github-trending | trend_score=71.5
+1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | github-trending | trend_score=94.07
+2. [obra/superpowers](https://github.com/obra/superpowers) | github-trending | trend_score=84.16
+3. [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | github-trending | trend_score=80.39
+4. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | github-trending | trend_score=79.87
+5. [p-e-w/heretic](https://github.com/p-e-w/heretic) | github-trending | trend_score=79.12
+6. [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | github-trending | trend_score=78.77
+7. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | github-trending | trend_score=77.55
+8. [InsForge/InsForge](https://github.com/InsForge/InsForge) | github-trending | trend_score=76.01
+9. [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | github-trending | trend_score=75.33
+10. [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | github-trending | trend_score=69.0
 
 ## 备注
 - AI summary failed: Request timed out. (model=deepseek-ai/DeepSeek-V3.2, base_url=https://api.siliconflow.cn/v1)

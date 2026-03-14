@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T08:37:32.338843+00:00",
+  "generated_at": "2026-03-14T14:37:41.770275+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -15,11 +15,11 @@
         "url": "https://github.com/msitarzewski/agency-agents",
         "author": "msitarzewski",
         "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
         "language": "Shell",
-        "score": 5745,
-        "comment_count": 6238,
-        "total_stars": 41383,
+        "score": 4329,
+        "comment_count": 6376,
+        "total_stars": 42449,
         "built_by": [
           "msitarzewski",
           "claude",
@@ -27,44 +27,12 @@
           "4shil",
           "victorkzam"
         ],
-        "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 5745\n\nTotal stars: 41383\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
-        "trend_score": 86.84,
+        "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 42449\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
+        "trend_score": 94.07,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 1.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "public-apis/public-apis",
-        "url": "https://github.com/public-apis/public-apis",
-        "author": "public-apis",
-        "summary": "A collective list of free APIs",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
-        "language": "Python",
-        "score": 892,
-        "comment_count": 44271,
-        "total_stars": 409830,
-        "built_by": [
-          "matheusfelipeog",
-          "davemachado",
-          "pawelborkar",
-          "jbrooksuk",
-          "marekdano"
-        ],
-        "content_context": "A collective list of free APIs\n\nLanguage: Python\n\nStars today: 892\n\nTotal stars: 409830\n\nBuilt by: matheusfelipeog, davemachado, pawelborkar, jbrooksuk, marekdano",
-        "trend_score": 86.13,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.981,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.333,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -79,11 +47,11 @@
         "url": "https://github.com/obra/superpowers",
         "author": "obra",
         "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
         "language": "Shell",
-        "score": 2106,
-        "comment_count": 6411,
-        "total_stars": 82314,
+        "score": 1451,
+        "comment_count": 6443,
+        "total_stars": 82671,
         "built_by": [
           "obra",
           "claude",
@@ -91,75 +59,11 @@
           "clkao",
           "jjshanks"
         ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 2106\n\nTotal stars: 82314\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
-        "trend_score": 84.46,
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1451\n\nTotal stars: 82671\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
+        "trend_score": 84.16,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.937,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "microsoft/BitNet",
-        "url": "https://github.com/microsoft/BitNet",
-        "author": "microsoft",
-        "summary": "Official inference framework for 1-bit LLMs",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
-        "language": "Python",
-        "score": 2227,
-        "comment_count": 2900,
-        "total_stars": 34351,
-        "built_by": [
-          "potassiummmm",
-          "tsong-ms",
-          "younesbelkada",
-          "sd983527",
-          "XsquirrelC"
-        ],
-        "content_context": "Official inference framework for 1-bit LLMs\n\nLanguage: Python\n\nStars today: 2227\n\nTotal stars: 34351\n\nBuilt by: potassiummmm, tsong-ms, younesbelkada, sd983527, XsquirrelC",
-        "trend_score": 83.06,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.9,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "promptfoo/promptfoo",
-        "url": "https://github.com/promptfoo/promptfoo",
-        "author": "promptfoo",
-        "summary": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
-        "language": "TypeScript",
-        "score": 1668,
-        "comment_count": 1371,
-        "total_stars": 15528,
-        "built_by": [
-          "typpo",
-          "mldangelo",
-          "renovate",
-          "dependabot",
-          "sklein12"
-        ],
-        "content_context": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.\n\nLanguage: TypeScript\n\nStars today: 1668\n\nTotal stars: 15528\n\nBuilt by: typpo, mldangelo, renovate, dependabot, sklein12",
-        "trend_score": 80.9,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.844,
+          "engagement": 0.93,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -175,11 +79,11 @@
         "url": "https://github.com/lightpanda-io/browser",
         "author": "lightpanda-io",
         "summary": "Lightpanda: the headless browser designed for AI and automation",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
         "language": "Zig",
-        "score": 2093,
-        "comment_count": 579,
-        "total_stars": 16070,
+        "score": 2100,
+        "comment_count": 604,
+        "total_stars": 16562,
         "built_by": [
           "karlseguin",
           "krichprollsch",
@@ -187,11 +91,75 @@
           "mookums",
           "nikneym"
         ],
-        "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2093\n\nTotal stars: 16070\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
-        "trend_score": 79.78,
+        "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16562\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
+        "trend_score": 80.39,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.814,
+          "engagement": 0.83,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "volcengine/OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "author": "volcengine",
+        "summary": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
+        "language": "Python",
+        "score": 1557,
+        "comment_count": 674,
+        "total_stars": 9788,
+        "built_by": [
+          "qin-ctx",
+          "zhoujh01",
+          "MaojiaSheng",
+          "claude",
+          "ZaynJarvis"
+        ],
+        "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 9788\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
+        "trend_score": 79.87,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.817,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "author": "p-e-w",
+        "summary": "Fully automatic censorship removal for language models",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
+        "language": "Python",
+        "score": 661,
+        "comment_count": 1345,
+        "total_stars": 13267,
+        "built_by": [
+          "p-e-w",
+          "spikymoth",
+          "anrp",
+          "red40maxxer",
+          "kldzj"
+        ],
+        "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13267\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
+        "trend_score": 79.12,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.797,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -207,11 +175,11 @@
         "url": "https://github.com/fishaudio/fish-speech",
         "author": "fishaudio",
         "summary": "SOTA Open Source TTS",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
         "language": "Python",
-        "score": 559,
-        "comment_count": 2255,
-        "total_stars": 26977,
+        "score": 377,
+        "comment_count": 2263,
+        "total_stars": 27073,
         "built_by": [
           "leng-yue",
           "github-actions",
@@ -219,11 +187,11 @@
           "AnyaCoder",
           "PoTaTo-Mika"
         ],
-        "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 559\n\nTotal stars: 26977\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
-        "trend_score": 79.21,
+        "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27073\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
+        "trend_score": 78.77,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.799,
+          "engagement": 0.788,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -235,27 +203,59 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "google/A2UI",
-        "url": "https://github.com/google/A2UI",
-        "author": "google",
-        "summary": null,
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
-        "language": "TypeScript",
-        "score": 635,
-        "comment_count": 985,
-        "total_stars": 13142,
+        "title": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "author": "anthropics",
+        "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
+        "language": "Python",
+        "score": 411,
+        "comment_count": 1096,
+        "total_stars": 11050,
         "built_by": [
-          "jacobsimionato",
-          "gspencergoog",
-          "paullewis",
-          "wrenj",
-          "github-actions"
+          "tobinsouth",
+          "noahzweben",
+          "claude",
+          "ThariqS",
+          "dicksontsai"
         ],
-        "content_context": "Language: TypeScript\n\nStars today: 635\n\nTotal stars: 13142\n\nBuilt by: jacobsimionato, gspencergoog, paullewis, wrenj, github-actions",
-        "trend_score": 77.92,
+        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11050\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
+        "trend_score": 77.55,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.765,
+          "engagement": 0.756,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "InsForge/InsForge",
+        "url": "https://github.com/InsForge/InsForge",
+        "author": "InsForge",
+        "summary": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
+        "language": "TypeScript",
+        "score": 477,
+        "comment_count": 417,
+        "total_stars": 3931,
+        "built_by": [
+          "tonychang04",
+          "Fermionic-Lyu",
+          "Leo-rq-yu",
+          "jwfing",
+          "claude"
+        ],
+        "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 3931\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
+        "trend_score": 76.01,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.715,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -271,11 +271,11 @@
         "url": "https://github.com/langflow-ai/openrag",
         "author": "langflow-ai",
         "summary": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
         "language": "Python",
-        "score": 905,
-        "comment_count": 226,
-        "total_stars": 2417,
+        "score": 568,
+        "comment_count": 238,
+        "total_stars": 2537,
         "built_by": [
           "phact",
           "edwinjosechittilappilly",
@@ -283,11 +283,11 @@
           "lucaseduoli",
           "aimurphy"
         ],
-        "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 905\n\nTotal stars: 2417\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
-        "trend_score": 75.92,
+        "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2537\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
+        "trend_score": 75.33,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.713,
+          "engagement": 0.697,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -299,27 +299,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "dolthub/dolt",
-        "url": "https://github.com/dolthub/dolt",
-        "author": "dolthub",
-        "summary": "Dolt – Git for Data",
-        "published_at": "2026-03-14T08:37:25.942568+00:00",
-        "language": "Go",
-        "score": 60,
-        "comment_count": 677,
-        "total_stars": 21209,
+        "title": "dimensionalOS/dimos",
+        "url": "https://github.com/dimensionalOS/dimos",
+        "author": "dimensionalOS",
+        "summary": "The Dimensional Framework",
+        "published_at": "2026-03-14T14:37:19.383105+00:00",
+        "language": "Python",
+        "score": 64,
+        "comment_count": 145,
+        "total_stars": 736,
         "built_by": [
-          "zachmu",
-          "andy-wm-arthur",
-          "fulghum",
-          "coffeegoddd",
-          "reltuk"
+          "spomichter",
+          "paul-nechifor",
+          "leshy",
+          "alexlin2",
+          "lukasapaukstys"
         ],
-        "content_context": "Dolt – Git for Data\n\nLanguage: Go\n\nStars today: 60\n\nTotal stars: 21209\n\nBuilt by: zachmu, andy-wm-arthur, fulghum, coffeegoddd, reltuk",
-        "trend_score": 71.5,
+        "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 736\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
+        "trend_score": 69.0,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.596,
+          "engagement": 0.531,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -334,223 +334,168 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-        "author": "joozio",
+        "title": "BunkerVM – Run AI agents in isolated Firecracker microVM sandboxes",
+        "url": "https://github.com/ashishgituser/bunkervm",
+        "author": "ashishch111",
         "score": 2,
         "comment_count": 0,
-        "published_at": "2026-03-14T08:20:58+00:00",
-        "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "published_at": "2026-03-14T14:28:00+00:00",
+        "summary": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-          "page_title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-          "page_description": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-          "page_excerpt": "Unicode that’s invisible to the human eye was largely abandoned—until attackers took notice.\n\nResearchers say they’ve discovered a supply-chain attack flooding repositories with malicious packages that contain invisible code, a technique that’s flummoxing traditional defenses designed to detect such threats.\n\nThe researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9. Such supply-chain attacks have been common for nearly a decade . They usually work by uploading malicious packages with code and names that closely resemble those of widely used code libraries, with the objective of tricking developers into mistake..."
+          "resolved_url": "https://github.com/ashishgituser/bunkervm",
+          "page_title": "GitHub - ashishgituser/bunkervm: BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files.",
+          "page_description": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...",
+          "page_excerpt": "Docker Desktop for AI sandboxing. Double-click to install. Hardware-isolated VMs for your AI agents.\n\n3 AI agents, 3 isolated Firecracker VMs, running in parallel. Build, test, and security-scan — then nuke one VM and watch the others survive.\n\nhttps://github.com/ashishgituser/bunkervm/raw/main/docs/LangGraphMultiAgentTest.mp4"
         },
-        "content_context": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.\n\nUnicode that’s invisible to the human eye was largely abandoned—until attackers took notice. Researchers say they’ve discovered a supply-chain attack flooding repositories with malicious packages that contain invisible code, a technique that’s flummoxing traditional defenses designed to detect such threats. The researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9. Such supply-chain attacks have been common for nearly a decade . They usually work by uploading malicious packages with code and names that closely resemble those of widely used code libraries, with the objective of tricking developers into mistake...",
-        "trend_score": 54.1,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.07,
-          "topic_overlap": 0.2,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "A self-hosted intelligence terminal that watches the world for signals",
-        "url": "https://github.com/calesthio/Crucix",
-        "author": "calesthio",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-03-14T08:31:18+00:00",
-        "summary": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix",
-        "comment_highlights": [
-          "Hey HN,<p>I built this because I was constantly checking multiple sources to understand what’s happening globally — conflict events, satellite signals, macro indicators, flight activity, etc. A lot of this data is publicly available, but it’s scattered across dozens of APIs and feeds.<p>Crucix ag..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://github.com/calesthio/Crucix",
-          "page_title": "GitHub - calesthio/Crucix: Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-          "page_description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix",
-          "page_excerpt": "Your own intelligence terminal. 26 sources. One command. Zero cloud.\n\nCrucix pulls satellite fire detection, flight tracking, radiation monitoring, economic indicators, live market prices, conflict data, sanctions lists, and social sentiment from 26 open-source intelligence feeds — in parallel, every 15 minutes — and renders everything on a single self-contained Jarvis-style dashboard.\n\nHook it up to an LLM and it becomes a two-way intelligence assistant — pushing multi-tier alerts to Telegram and Discord when something meaningful changes, responding to commands like /brief and /sweep from your phone, and generating actionable trade ideas grounded in real cross-domain data. Your own analyst that watches the world while you sleep."
-        },
-        "content_context": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix\n\nYour own intelligence terminal. 26 sources. One command. Zero cloud. Crucix pulls satellite fire detection, flight tracking, radiation monitoring, economic indicators, live market prices, conflict data, sanctions lists, and social sentiment from 26 open-source intelligence feeds — in parallel, every 15 minutes — and renders everything on a single self-contained Jarvis-style dashboard. Hook it up to an LLM and it becomes a two-way intelligence assistant — pushing multi-tier alerts to Telegram and Discord when something meaningful changes, responding to commands like /brief and /sweep from your phone, and generating actionable trade ideas grounded in real cross-domain data. Your own analyst that watches the world while you sleep.\n\nHN comment: Hey HN,<p>I built this because I was constantly checking multiple sources to understand what’s happening globally — conflict events, satellite signals, macro indicators, flight activity, etc. A lot of this data is publicly available, but it’s scattered across dozens of APIs and feeds.<p>Crucix ag...",
-        "trend_score": 50.55,
-        "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.08,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Ask HN: What newsletters do you read every day or week?",
-        "url": "https://news.ycombinator.com/item?id=47374561",
-        "author": "chistev",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T08:34:46+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": "Found this old thread with the same topic from 2015 - https://news.ycombinator.com/item?id=9476097<p>Wanted to repost it to find interesting newsletters to follow.<p>Shameless plug, I run a newsletter myself - https://www.rxjourney.net/",
-        "trend_score": 49.34,
-        "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.044,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Stackco.st – see what other founders pay for their SaaS tools",
-        "url": "https://www.stackco.st",
-        "author": "pertti_studio",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-03-14T08:27:07+00:00",
-        "summary": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.",
-        "comment_highlights": [
-          "Hey HN, I'm Pieter, maker of stackco.st. The idea came from a simple frustration — every time I was evaluating a new tool, I'd google \"[tool name] pricing\" and get either the official pricing page or a two-year-old blog post. I never found what real founders at my stage actually paid, with their..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://www.stackco.st/",
-          "page_title": "stackco.st — See what it really costs to run a startup",
-          "page_description": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.",
-          "page_excerpt": null
-        },
-        "content_context": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.\n\nHN comment: Hey HN, I'm Pieter, maker of stackco.st. The idea came from a simple frustration — every time I was evaluating a new tool, I'd google \"[tool name] pricing\" and get either the official pricing page or a two-year-old blog post. I never found what real founders at my stage actually paid, with their...",
-        "trend_score": 47.86,
+        "content_context": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...\n\nDocker Desktop for AI sandboxing. Double-click to install. Hardware-isolated VMs for your AI agents. 3 AI agents, 3 isolated Firecracker VMs, running in parallel. Build, test, and security-scan — then nuke one VM and watch the others survive. https://github.com/ashishgituser/bunkervm/raw/main/docs/LangGraphMultiAgentTest.mp4",
+        "trend_score": 53.16,
         "trend_breakdown": {
           "freshness": 0.993,
-          "engagement": 0.08,
-          "topic_overlap": 0.286,
+          "engagement": 0.071,
+          "topic_overlap": 0.143,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: One MCP server that gives your AI agent access to 25,000 tools",
-        "url": "https://nerq.ai/gateway",
-        "author": "Agentindex",
+        "title": "Ask HN: Would this eliminate bots for good?",
+        "url": "https://news.ycombinator.com/item?id=47377046",
+        "author": "piratesAndSons",
         "score": 1,
         "comment_count": 1,
-        "published_at": "2026-03-14T08:31:08+00:00",
-        "summary": "Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right...",
+        "published_at": "2026-03-14T14:27:52+00:00",
+        "summary": "Sell it to Mark Zuckerberg.",
         "comment_highlights": [
-          "Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right..."
+          "Sell it to Mark Zuckerberg."
         ],
         "linked_context": {},
-        "content_context": "HN comment: Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right...",
-        "trend_score": 44.63,
+        "content_context": "I had an idea to eliminate the bot problem, or at the very least make it significantly harder to operate one. Here is my plan.<p>A new web browser built on a new HTTP protocol that accepts a human identity glove using cryptography. Instead of using your fingers directly on a mouse or trackpad, you wear a hardware glove that continuously records your pulse and your fingerprint, your machine information, and the average movement map that is unique to you as you interact with your device. The glove encrypts all of this information in real time. The browser then constantly verifies the glove hardware is present and active. No physical glove with a valid identity? No page loads.<p>What if someone tries to emulate the glove?<p>This is where the new browser becomes the second line of defense. It continuously checks the hardware signature and serial number of the glove. You can attempt to emulate it all you want, but the probability of simultaneously spoofing the correct fingerprint, a continuous and believable human pulse, a personalized movement map, and the exact hardware serial number is as close to impossible as any security system can get.<p>What do you all think of this as a prel...\n\nHN comment: Sell it to Mark Zuckerberg.",
+        "trend_score": 50.48,
         "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.08,
-          "topic_overlap": 0.1,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Autoresearch Hub",
-        "url": "http://autoresearchhub.com/",
-        "author": "EvgeniyZh",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T08:35:42+00:00",
-        "summary": "Paste the agent instructions into Claude Code on a machine with an H100 to start contributing",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "http://autoresearchhub.com/",
-          "page_title": "autolab",
-          "page_description": null,
-          "page_excerpt": "Paste the agent instructions into Claude Code on a machine with an H100 to start contributing"
-        },
-        "content_context": "Paste the agent instructions into Claude Code on a machine with an H100 to start contributing",
-        "trend_score": 41.84,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.044,
+          "freshness": 0.993,
+          "engagement": 0.081,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "State Department slashes fee to renounce US citizenship by 80%",
-        "url": "https://apnews.com/article/us-citizenship-state-department-ab78db7aced64919edff3de26eebb681",
-        "author": "Propelloni",
+        "title": "DroneClaw: Flying a Drone with Voice Commands",
+        "url": "https://twitter.com/Viewforge/status/2032800448269398081",
+        "author": "GPUboy",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-03-14T08:32:52+00:00",
-        "summary": "The State Department has slashed by about 80% the fee for Americans to formally renounce their U.S. citizenship.",
+        "published_at": "2026-03-14T14:33:59+00:00",
+        "summary": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://apnews.com/article/us-citizenship-state-department-ab78db7aced64919edff3de26eebb681",
-          "page_title": "State Department slashes fee to renounce US citizenship by 80% to $450",
-          "page_description": "The State Department has slashed by about 80% the fee for Americans to formally renounce their U.S. citizenship.",
-          "page_excerpt": "Secretary of State Marco Rubio attends a working lunch at the Shield of the Americas Summit, Saturday, March 7, 2026, at Trump National Doral Miami in Doral, Fla. (AP Photo/Rebecca Blackwell)\n\nWASHINGTON (AP) — The State Department has slashed by about 80% the fee for Americans to formally renounce their U.S. citizenship.\n\nAfter years of legal battles with several groups representing Americans wanting to give up their citizenship, the department on Friday published a final rule in the Federal Register that reduces the cost from $2,350 to $450."
-        },
-        "content_context": "The State Department has slashed by about 80% the fee for Americans to formally renounce their U.S. citizenship.\n\nSecretary of State Marco Rubio attends a working lunch at the Shield of the Americas Summit, Saturday, March 7, 2026, at Trump National Doral Miami in Doral, Fla. (AP Photo/Rebecca Blackwell) WASHINGTON (AP) — The State Department has slashed by about 80% the fee for Americans to formally renounce their U.S. citizenship. After years of legal battles with several groups representing Americans wanting to give up their citizenship, the department on Friday published a final rule in the Federal Register that reduces the cost from $2,350 to $450.",
-        "trend_score": 41.76,
-        "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.044,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Restoring the first recording of computer music (2018)",
-        "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-        "author": "OJFord",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-03-14T08:28:16+00:00",
-        "summary": "Listen to the earliest known recording of computer-generated music, captured in 1951 with a BBC portable acetate disc cutter.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-          "page_title": "Restoring the first recording of computer music",
-          "page_description": "Listen to the earliest known recording of computer-generated music, captured in 1951 with a BBC portable acetate disc cutter.",
+          "resolved_url": "https://twitter.com/Viewforge/status/2032800448269398081",
+          "page_title": "Rohan Arun (@Viewforge) on X",
+          "page_description": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
           "page_excerpt": null
         },
-        "content_context": "Listen to the earliest known recording of computer-generated music, captured in 1951 with a BBC portable acetate disc cutter.",
-        "trend_score": 41.63,
+        "content_context": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
+        "trend_score": 49.02,
         "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.044,
+          "freshness": 0.997,
+          "engagement": 0.045,
+          "topic_overlap": 0.4,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Zoë Kravitz: \"Bluetooth does not work\" [video]",
+        "url": "https://www.youtube.com/watch?v=6iva-qFZ29c",
+        "author": "sgt",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-03-14T14:31:58+00:00",
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/watch?v=6iva-qFZ29c",
+          "page_title": "- YouTube",
+          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "page_excerpt": null
+        },
+        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "trend_score": 44.76,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.045,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: FalconAI – AI-Powered Smart TV Streaming, Search and Voice Control",
+        "url": "https://www.falconai-tv.com/",
+        "author": "erind_musliu",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-03-14T14:34:46+00:00",
+        "summary": "FalconAI finds your favorite content instantly, no channel lists, no waiting.\n\nDiscover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device.\n\nType or say what you want to watch and let FalconAI understand your request instantly.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.falconai-tv.com/",
+          "page_title": "FalconAI - AI-powered IPTV with voice and smart search.",
+          "page_description": null,
+          "page_excerpt": "FalconAI finds your favorite content instantly, no channel lists, no waiting.\n\nDiscover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device.\n\nType or say what you want to watch and let FalconAI understand your request instantly."
+        },
+        "content_context": "Hi HN,<p>I built FalconAI, an AI-powered streaming platform that lets you find your favorite shows instantly—no channel lists, no waiting.<p>Key features:<p>Smart Search – AI finds videos and channels instantly.<p>Voice Control – just speak or type what you want to watch.<p>Instant Streaming – fast, no lag.<p>Personalized Recommendations – learns your preferences over time.<p>Works on Smart TVs, mobile, and desktop.<p>We’re currently offering Basic to Premium packages (€4.99–€14.99/month) and a demo is available for early users.<p>I’d love feedback from the HN community on the AI recommendation engine and overall experience.<p>Thanks!\n\nFalconAI finds your favorite content instantly, no channel lists, no waiting. Discover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device. Type or say what you want to watch and let FalconAI understand your request instantly.",
+        "trend_score": 44.09,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.045,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Vitest vs. Jest",
+        "url": "https://howtotestfrontend.com/resources/vitest-vs-jest-which-to-pick",
+        "author": "howToTestFE",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-03-14T14:27:52+00:00",
+        "summary": "Jest has served the JS community for years, but as of 2026 I strongly believe you should be only considering using Vitest going forward. Here are my reasons why!",
+        "comment_highlights": [
+          "Blog post comparing Vitest vs Jest"
+        ],
+        "linked_context": {
+          "resolved_url": "https://howtotestfrontend.com/resources/vitest-vs-jest-which-to-pick",
+          "page_title": "Vitest vs Jest: Why I would always pick Vitest over Jest in 2026 | How To Test Frontend",
+          "page_description": "Jest has served the JS community for years, but as of 2026 I strongly believe you should be only considering using Vitest going forward. Here are my reasons why!",
+          "page_excerpt": "Jest dominated testing for a decade. But Vitest (released in late 2021) changed things, and as of 2026, I believe it's the better choice for new projects.\n\nFirst released in 2014 (by Facebook), Jest was the clear dominant test runner for most of the last decade or so.\n\nIf you saw any JS test code, it was almost certainly going to be Jest. But then in late 2021/early 2022 Vitest was released and immediately everyone noticed how fast it was."
+        },
+        "content_context": "Jest has served the JS community for years, but as of 2026 I strongly believe you should be only considering using Vitest going forward. Here are my reasons why!\n\nJest dominated testing for a decade. But Vitest (released in late 2021) changed things, and as of 2026, I believe it's the better choice for new projects. First released in 2014 (by Facebook), Jest was the clear dominant test runner for most of the last decade or so. If you saw any JS test code, it was almost certainly going to be Jest. But then in late 2021/early 2022 Vitest was released and immediately everyone noticed how fast it was.\n\nHN comment: Blog post comparing Vitest vs Jest",
+        "trend_score": 42.78,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.081,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -560,20 +505,76 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Lessons learned converting a classic truck to EV",
-        "url": "https://old.reddit.com/r/EVConversion/comments/1rs1ass/lessons_learned_converting_a_classic_truck_to_ev/",
-        "author": "y1n0",
+        "title": "Debauit Announced as Debian Source Package Auditor",
+        "url": "https://www.phoronix.com/news/Debian-debaudit",
+        "author": "maxloh",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-03-14T14:35:36+00:00",
+        "summary": "Announced today was debaudit, a new set of tools and services designed to verify the integrity and reproducibility of Debian source packages.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.phoronix.com/news/Debian-debaudit",
+          "page_title": "debauit Announced As Debian Source Package Auditor",
+          "page_description": "Announced today was debaudit, a new set of tools and services designed to verify the integrity and reproducibility of Debian source packages.",
+          "page_excerpt": null
+        },
+        "content_context": "Announced today was debaudit, a new set of tools and services designed to verify the integrity and reproducibility of Debian source packages.",
+        "trend_score": 42.69,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.071,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The AI Powering Firefox's Shake to Summarize",
+        "url": "https://blog.mozilla.org/en/firefox/firefox-ai/ai-powering-firefox-shake-to-summarize/",
+        "author": "bundie",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-03-14T08:20:14+00:00",
+        "published_at": "2026-03-14T14:33:30+00:00",
+        "summary": "We recently released a feature in the Firefox iOS mobile app called “Shake to Summarize”. The reception was remarkably positive, earning an honorable m",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://blog.mozilla.org/en/firefox/firefox-ai/ai-powering-firefox-shake-to-summarize/",
+          "page_title": "Under the hood: The AI powering Firefox’s Shake to Summarize | The Mozilla Blog",
+          "page_description": "We recently released a feature in the Firefox iOS mobile app called “Shake to Summarize”. The reception was remarkably positive, earning an honorable m",
+          "page_excerpt": "We recently released a feature in the Firefox iOS mobile app called “ Shake to Summarize ”. The reception was remarkably positive, earning an honorable mention on Time Magazine’s best inventions of 2025 .\n\nFor anyone unfamiliar with Shake to Summarize, it’s just what the name implies: when you’re browsing a webpage, you can shake your phone to generate a short summary of the page’s content.\n\nThe gesture is fun, the feature is useful, and the whole thing feels simple and natural."
+        },
+        "content_context": "We recently released a feature in the Firefox iOS mobile app called “Shake to Summarize”. The reception was remarkably positive, earning an honorable m\n\nWe recently released a feature in the Firefox iOS mobile app called “ Shake to Summarize ”. The reception was remarkably positive, earning an honorable mention on Time Magazine’s best inventions of 2025 . For anyone unfamiliar with Shake to Summarize, it’s just what the name implies: when you’re browsing a webpage, you can shake your phone to generate a short summary of the page’s content. The gesture is fun, the feature is useful, and the whole thing feels simple and natural.",
+        "trend_score": 41.8,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "KDE resurrects feature it killed in Plasma 5.21",
+        "url": "https://www.neowin.net/news/good-news-for-kde-plasma-users-this-dead-feature-is-finally-being-resurrected/",
+        "author": "bundie",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-03-14T14:30:25+00:00",
         "summary": null,
         "comment_highlights": [],
         "linked_context": {},
         "content_context": null,
-        "trend_score": 41.41,
+        "trend_score": 41.71,
         "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.044,
+          "freshness": 0.995,
+          "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -583,25 +584,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Be Human",
-        "url": "https://www.usebox.net/jjm/blog/be-human/",
-        "author": "reidrac",
+        "title": "Why physical AI is becoming manufacturing's next advantage",
+        "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+        "author": "Brajeshwar",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-03-14T08:19:37+00:00",
-        "summary": "Don't be an LLM proxy.",
+        "published_at": "2026-03-14T14:29:43+00:00",
+        "summary": "From simulation‑driven development to real‑world execution, Microsoft and NVIDIA are helping manufacturers leverage AI to cross the industrial frontier with confidence.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.usebox.net/jjm/blog/be-human/",
-          "page_title": "Be human",
-          "page_description": "Don't be an LLM proxy.",
-          "page_excerpt": "Recently, Hacker News updated the comments section of their guidelines :\n\nDon’t post generated comments or AI-edited comments. HN is for conversation between humans.\n\nAnd increasingly this is turning to be a key point in human interaction online, which also affects workplace dynamics. I’m not referring only to remote work, because in all the companies I have worked for in the last 20 years there has always been a digital component: some sort of internal instant messaging, email, code reviews, etc."
+          "resolved_url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+          "page_title": "Why physical AI is becoming manufacturing’s next advantage",
+          "page_description": "From simulation‑driven development to real‑world execution, Microsoft and NVIDIA are helping manufacturers leverage AI to cross the industrial frontier with confidence.",
+          "page_excerpt": "From simulation‑driven development to real‑world execution, Microsoft and NVIDIA are helping manufacturers leverage AI to cross the industrial frontier with confidence.\n\nFor decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough.\n\nToday’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase of transformation will not be defined by isolated AI tools or individual robots, but by intelligence that can operate reliably in the physical world ."
         },
-        "content_context": "Don't be an LLM proxy.\n\nRecently, Hacker News updated the comments section of their guidelines : Don’t post generated comments or AI-edited comments. HN is for conversation between humans. And increasingly this is turning to be a key point in human interaction online, which also affects workplace dynamics. I’m not referring only to remote work, because in all the companies I have worked for in the last 20 years there has always been a digital component: some sort of internal instant messaging, email, code reviews, etc.",
-        "trend_score": 41.39,
+        "content_context": "From simulation‑driven development to real‑world execution, Microsoft and NVIDIA are helping manufacturers leverage AI to cross the industrial frontier with confidence.\n\nFrom simulation‑driven development to real‑world execution, Microsoft and NVIDIA are helping manufacturers leverage AI to cross the industrial frontier with confidence. For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase of transformation will not be defined by isolated AI tools or individual robots, but by intelligence that can operate reliably in the physical world .",
+        "trend_score": 41.7,
         "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.044,
+          "freshness": 0.994,
+          "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -611,25 +612,25 @@
     ],
     "news": [
       {
-        "source": "WSJ",
+        "source": "Bloomberg.com",
         "category": "news",
-        "title": "Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yMkxEQUxCd19ONlZmSTFMQUNtOHhoeDdKZ2ZiN2MwcUhyM2IycWxrbHVkTUZLY2FBSXRHZ0RLLTZMaVduRHVFMUhlQndHQm1ENWZVb1FfLUhCcWJOQldmdlRkTmhSZTNZak9FeGJn?oc=5",
-        "published_at": "2026-03-14T05:14:29+00:00",
-        "summary": "WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island；Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub；Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next。",
+        "title": "Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlQxTy1qRU0zZy1ZMlVQaExCcGNiamVEaWhudXBHR0dxREZ5VDlPUkRqNFdtME5NYnNqNGtmZlhmdUlhd3ZRX2puU2dXZUtOemFLaHVxUmJRSE5JVjhHdVNZMFZUbXRqOU9HSENmd09NMVJMZHEzTVZLclBMd2ExSlo5VDFBN1BLWXNITERKeTlGRGhWVjJRcFptWThFQk5uQUh5c21lbFJzbHJiMURrbzd6LXBOUQ?oc=5",
+        "published_at": "2026-03-14T11:58:14+00:00",
+        "summary": "Bloomberg.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz；Iran War Live Updates: U.S. Bombs Iranian Oil Hub；Iran hits back after Trump says U.S. struck military targets on island vital to oil network。",
         "related_headlines": [
-          "Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island",
-          "Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub",
-          "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-          "Middle East crisis live: Iran warns of retaliation after Trump says military targets on Kharg Island ‘obliterated’",
-          "US embassy in Baghdad hit by strike as Trump says military targets 'obliterated' on Iran's key oil island"
+          "Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz",
+          "Iran War Live Updates: U.S. Bombs Iranian Oil Hub",
+          "Iran hits back after Trump says U.S. struck military targets on island vital to oil network",
+          "Kharg Island: Why has it been targeted by the US?",
+          "Two Oil Tankers Seen at Kharg After Strikes, Satellite Firm Says"
         ],
-        "content_context": "Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island - WSJ\n\nWSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island；Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub；Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next。\n\nRelated coverage: Iran War News Live Updates: Trump Says U.S. Bombs ‘Obliterated’ Military Targets on Kharg Island\n\nRelated coverage: Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub\n\nRelated coverage: Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next\n\nRelated coverage: Middle East crisis live: Iran warns of retaliation after Trump says military targets on Kharg Island ‘obliterated’\n\nRelated coverage: US embassy in Baghdad hit by strike as Trump says military targets 'obliterated' on Iran's key oil island",
-        "trend_score": 40.46,
+        "content_context": "Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz - Bloomberg.com\n\nBloomberg.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz；Iran War Live Updates: U.S. Bombs Iranian Oil Hub；Iran hits back after Trump says U.S. struck military targets on island vital to oil network。\n\nRelated coverage: Trump Strikes Iran’s Kharg Oil Hub and Urges Reopening of Hormuz\n\nRelated coverage: Iran War Live Updates: U.S. Bombs Iranian Oil Hub\n\nRelated coverage: Iran hits back after Trump says U.S. struck military targets on island vital to oil network\n\nRelated coverage: Kharg Island: Why has it been targeted by the US?\n\nRelated coverage: Two Oil Tankers Seen at Kharg After Strikes, Satellite Firm Says",
+        "trend_score": 41.47,
         "trend_breakdown": {
-          "freshness": 0.859,
+          "freshness": 0.889,
           "engagement": 0.0,
-          "topic_overlap": 0.286,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -640,75 +641,23 @@
       {
         "source": "The Washington Post",
         "category": "news",
-        "title": "Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWpSWk5aRTlubzQ3WjJQZGZSYmpVQ2tIeXdhQWlSYmZMc3NISW9PVjJaUnZsb2E3UVRDRU1rUVFzdTBpZ0hhMGpKMjhuOVZhVUQxQUZFeGt3allIeFlrMGVBU0wtSFNKeWJ3ak5zenhvY1RSUm1LWUVGYndPQWNvRTZIMDFrOVVmUVZBbm41LTQ?oc=5",
-        "published_at": "2026-03-14T05:02:00+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Veteran Army combat pilot mourned after shooting at Old Dominion University；Case against man prosecutors say sold gun to Old Dominion shooter provides new details on the attack；Old Dominion shooting is being investigated as act of terrorism, FBI director says。",
+        "title": "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’ - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1lqSFJoTmdNZVpVVTZkXzlUVkwwel9JdEpQTmp2N3R4RFBfbm43MmRERDltWFE1SUt2bUx5SnpVb2oyaUNoVDJUOHpYUUJ0SmZVNkdOT0l6UjNiOVhBWUNXblZpTnpSakJyOWtFQWI0Z3BHVHhWcTFGN3Z1a3RlSnozLUQ4Slppcmc?oc=5",
+        "published_at": "2026-03-14T12:49:02+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’；‘You are all worse than each other’: anti-regime Iranians turn on Trump；In Tehran, hope for change turns to panic: 'They are turning the country into ruins'。",
         "related_headlines": [
-          "Veteran Army combat pilot mourned after shooting at Old Dominion University",
-          "Case against man prosecutors say sold gun to Old Dominion shooter provides new details on the attack",
-          "Old Dominion shooting is being investigated as act of terrorism, FBI director says",
-          "Timeline emerges in ODU shooting; ROTC members credited with stopping gunman",
-          "Norfolk neighbor builds memorial to honor Lieutenant Colonel Shah shot and killed in ODU attack"
+          "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’",
+          "‘You are all worse than each other’: anti-regime Iranians turn on Trump",
+          "In Tehran, hope for change turns to panic: 'They are turning the country into ruins'",
+          "Residents of Tehran tell AP of rising fear and isolation as bombs strike without warning",
+          "'What if we're left with ruins?': Doubts creep in for Iranians who supported war"
         ],
-        "content_context": "Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Veteran Army combat pilot mourned after shooting at Old Dominion University；Case against man prosecutors say sold gun to Old Dominion shooter provides new details on the attack；Old Dominion shooting is being investigated as act of terrorism, FBI director says。\n\nRelated coverage: Veteran Army combat pilot mourned after shooting at Old Dominion University\n\nRelated coverage: Case against man prosecutors say sold gun to Old Dominion shooter provides new details on the attack\n\nRelated coverage: Old Dominion shooting is being investigated as act of terrorism, FBI director says\n\nRelated coverage: Timeline emerges in ODU shooting; ROTC members credited with stopping gunman\n\nRelated coverage: Norfolk neighbor builds memorial to honor Lieutenant Colonel Shah shot and killed in ODU attack",
-        "trend_score": 34.61,
+        "content_context": "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’ - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’；‘You are all worse than each other’: anti-regime Iranians turn on Trump；In Tehran, hope for change turns to panic: 'They are turning the country into ruins'。\n\nRelated coverage: Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’\n\nRelated coverage: ‘You are all worse than each other’: anti-regime Iranians turn on Trump\n\nRelated coverage: In Tehran, hope for change turns to panic: 'They are turning the country into ruins'\n\nRelated coverage: Residents of Tehran tell AP of rising fear and isolation as bombs strike without warning\n\nRelated coverage: 'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
+        "trend_score": 35.95,
         "trend_breakdown": {
-          "freshness": 0.85,
+          "freshness": 0.925,
           "engagement": 0.0,
-          "topic_overlap": 0.25,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Axios",
-        "category": "news",
-        "title": "Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaS1dTa3hBMS05aG1ZalBEeHdPU3p6ZXM2bDB0ekIyb0NzYVZOVzRHT0dKN2NWeWFhSkp5TUp5Y0I2NFAtRmM4V1IzLXhsRldDUk5oOU9vQ3dZOFBRMm84MVpqQ3dGUQ?oc=5",
-        "published_at": "2026-03-14T04:37:09+00:00",
-        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Subpoenas against Fed chair Powell tossed in a scathing opinion；Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell；DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe。",
-        "related_headlines": [
-          "Subpoenas against Fed chair Powell tossed in a scathing opinion",
-          "Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell",
-          "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
-          "Judge blocks DOJ's criminal probe of Federal Reserve, blasting it as political",
-          "Judge says 'no evidence' to justify Federal Reserve probe"
-        ],
-        "content_context": "Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Subpoenas against Fed chair Powell tossed in a scathing opinion；Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell；DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe。\n\nRelated coverage: Subpoenas against Fed chair Powell tossed in a scathing opinion\n\nRelated coverage: Federal judge quashes Justice Department subpoenas of Fed Chair Jerome Powell\n\nRelated coverage: DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe\n\nRelated coverage: Judge blocks DOJ's criminal probe of Federal Reserve, blasting it as political\n\nRelated coverage: Judge says 'no evidence' to justify Federal Reserve probe",
-        "trend_score": 34.19,
-        "trend_breakdown": {
-          "freshness": 0.833,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "The Washington Post",
-        "category": "news",
-        "title": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWRFMTBBWmR3S1BTV3h0WS11SGtMM05hbURRc1ZsNE4yeUpGMkE?oc=5",
-        "published_at": "2026-03-14T02:02:16+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth vows thorough probe of school strike that Trump blamed on Iran；Pentagon elevates investigation into Iran school strike；Minab school bombing: what evidence is there that the US was responsible?。",
-        "related_headlines": [
-          "Hegseth vows thorough probe of school strike that Trump blamed on Iran",
-          "Pentagon elevates investigation into Iran school strike",
-          "Minab school bombing: what evidence is there that the US was responsible?",
-          "Fact-checking Trump's claim that Iran has Tomahawk missiles",
-          "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says - The New York Times"
-        ],
-        "content_context": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth vows thorough probe of school strike that Trump blamed on Iran；Pentagon elevates investigation into Iran school strike；Minab school bombing: what evidence is there that the US was responsible?。\n\nRelated coverage: Hegseth vows thorough probe of school strike that Trump blamed on Iran\n\nRelated coverage: Pentagon elevates investigation into Iran school strike\n\nRelated coverage: Minab school bombing: what evidence is there that the US was responsible?\n\nRelated coverage: Fact-checking Trump's claim that Iran has Tomahawk missiles\n\nRelated coverage: U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says - The New York Times",
-        "trend_score": 31.94,
-        "trend_breakdown": {
-          "freshness": 0.726,
-          "engagement": 0.0,
-          "topic_overlap": 0.364,
+          "topic_overlap": 0.167,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -717,100 +666,173 @@
       {
         "source": "AP News",
         "category": "news",
-        "title": "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - AP News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXB2SVc4UURhT245bzNxV0tCMi1RRGpOR3lmVnA2blNFNUxaWGFyTFpqN3o3TTFfUUFMOEF6NER5dnBraUhvcjhwQUR1QnZKZU55NS1fb2lkcFEySkhocl9EYk95VE1nYVJ2dnlIdzFsSG5jaUFSaHZ1VHFHbFNwdTlCbVA2ZWI2RDROU1kxQWFOMkl3eElTejljUWZiWC1hXzRkUDlNVk1mcW1lZEtJ?oc=5",
-        "published_at": "2026-03-14T02:15:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility；Mixed verdict reached in North Texas ICE center Antifa terror attack trial；Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center。",
+        "title": "US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - AP News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXJlNE81dHhsY3RIZDBRNTNlUGZITnJ0eVJ5LUY3cjZHb3ZlVHJiR2VzcWFpOV9PdjdzUXcwWWgxLTlBelpXX3RFbm9JYUxZb2kwbVNDTmh1LWRfZ1hJZWdYbGtBOWVKZi1Bb2Zsak9mMHJZeFdBOURURjdqMHYwdlo2bnZXSDJ3M3VFVGxvcw?oc=5",
+        "published_at": "2026-03-14T11:16:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department；At War With Iran, U.S. Sees More Violence at Home；Iran war puts many in US on high alert, but synagogue attack shows limits。",
+        "related_headlines": [
+          "US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department",
+          "At War With Iran, U.S. Sees More Violence at Home",
+          "Iran war puts many in US on high alert, but synagogue attack shows limits",
+          "Jihad in America: The Michigan Attack",
+          "From sleeper cells to lone wolves, attacks & threats against US intensify"
+        ],
+        "content_context": "US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department；At War With Iran, U.S. Sees More Violence at Home；Iran war puts many in US on high alert, but synagogue attack shows limits。\n\nRelated coverage: US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department\n\nRelated coverage: At War With Iran, U.S. Sees More Violence at Home\n\nRelated coverage: Iran war puts many in US on high alert, but synagogue attack shows limits\n\nRelated coverage: Jihad in America: The Michigan Attack\n\nRelated coverage: From sleeper cells to lone wolves, attacks & threats against US intensify",
+        "trend_score": 34.65,
+        "trend_breakdown": {
+          "freshness": 0.86,
+          "engagement": 0.0,
+          "topic_overlap": 0.231,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Hill",
+        "category": "news",
+        "title": "Hegseth, Trump face perilous options in the Strait of Hormuz - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6aDJrY2hSMWlsQmJaZWVLam5kZWVURmlHRTBtTjg4NHhaTGpJNmN1VnExUnEyZm9ybGdFVU1GWnBXRjd3RzRmaDJMQzZ5dFpHcjVQTnc0TjFOQkpPNDl2MkZwZlhfVk9CZmpNRVlCcldGUkEyX2hHRlFR0gF_QVVfeXFMUDhrRmNkd3EyUmtoU2dKa0RxSVg5MV8zMW04aHFJZHhsRWx6MXBwUi14NkJzMm5JN0xfYm93WXVXSHV1ODhLUk5EWDhwWGZXSGFTYjhzeEp1bUVReWhyczVodmhDbEwxY2hTTTNreEJINElMVnZJX2ZJTkdhQ0N0VQ?oc=5",
+        "published_at": "2026-03-14T10:05:39+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth, Trump face perilous options in the Strait of Hormuz；Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage。",
+        "related_headlines": [
+          "Hegseth, Trump face perilous options in the Strait of Hormuz",
+          "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem",
+          "A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage",
+          "Iran unleashes oil shock to blunt US firepower",
+          "How one of Iran's most destructive weapons could threaten the U.S."
+        ],
+        "content_context": "Hegseth, Trump face perilous options in the Strait of Hormuz - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth, Trump face perilous options in the Strait of Hormuz；Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem；A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage。\n\nRelated coverage: Hegseth, Trump face perilous options in the Strait of Hormuz\n\nRelated coverage: Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem\n\nRelated coverage: A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage\n\nRelated coverage: Iran unleashes oil shock to blunt US firepower\n\nRelated coverage: How one of Iran's most destructive weapons could threaten the U.S.",
+        "trend_score": 33.2,
+        "trend_breakdown": {
+          "freshness": 0.811,
+          "engagement": 0.0,
+          "topic_overlap": 0.25,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzFyNFZUZ29WQWcya3R4WHFFNjlXQjdNanIxbEJDNzNJSlpTVEtNak13UmgyZUNmaENwcF95SHUtRG1IS0V0X0E2OFYtanpRMFg5VDhvUjZjTFFxTEEzU2o1MGpkOTVJdnl4OE9hcW91RTdZMzIwWWNVSnlkQmJqVGZweXY0WGJ5WUpQMnFVRUdpUFJpSmJPeVViVDQwbU9HX2hlVFBtdlRiVjZGaXFGYWln0gG3AUFVX3lxTE9yOWpEV2JGMjNqUERsSUtUUFZjcUdjS1FZb1p2NHM4T05fN3loWXdhQ1JWOWJOX0JBSGFuSzVOcWZ0MDFwbDNaVkdzSURIY2hVbm5ac05CSURYSE52TXF0TGkwVF9EYzFhTnZrNkZ6UEhCZ25HZE5zdnhNNG04d3pldnhpWE5ZcVQ4RFg4RElNZnJnVEhBOGJEZ2FKaGdpdnhtMDhESmFDTkZKaVRKbVdiTTZmUjJTNA?oc=5",
+        "published_at": "2026-03-14T10:00:26+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors；Videos and satellite images show Iran's drone army puncturing U.S. and allied defenses；First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold。",
+        "related_headlines": [
+          "Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors",
+          "Videos and satellite images show Iran's drone army puncturing U.S. and allied defenses",
+          "First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold",
+          "Iran’s Cheap, Plentiful Weaponry Puts US Military Under Unprecedented Strain",
+          "Iran's Shahed war is turning into booming business for the world's small drone manufacturers"
+        ],
+        "content_context": "Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors；Videos and satellite images show Iran's drone army puncturing U.S. and allied defenses；First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold。\n\nRelated coverage: Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors\n\nRelated coverage: Videos and satellite images show Iran's drone army puncturing U.S. and allied defenses\n\nRelated coverage: First Ukraine, Now Iran: A New Era of Drone Warfare Takes Hold\n\nRelated coverage: Iran’s Cheap, Plentiful Weaponry Puts US Military Under Unprecedented Strain\n\nRelated coverage: Iran's Shahed war is turning into booming business for the world's small drone manufacturers",
+        "trend_score": 32.76,
+        "trend_breakdown": {
+          "freshness": 0.807,
+          "engagement": 0.0,
+          "topic_overlap": 0.231,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnQyVXVTWmRTWS1sWmlVU3lPZnRuZEc2NFl3RXUyUXd6b21BdFJkM0hmMVN4Z214UlMwZzhmanBXNmdRV0xiYmtpQlJ1WlJyQzhiSGc5amotRzdHVmN3U3NBc3RwZGpCczZGUUkyYlVsU2tPV01IYjR2YXRLTXk2UHdnLVNReWx0Wnlkekc3Nnh3M1FxallmYnBqWkRIcm03c1VKa0p3VU8wOWVPcVRtazJVNV9aR0RqdjN6aV80RdIBxAFBVV95cUxPb2xtUDF4X0dyZzlva2pZVDlEUndWenRkdGxHZmZMN3ctb01qalVxaHI3Ull0STJkREtjWVYyZ0hRb21EOWV4WUhidmRJRWJIcHBESndaYVotSkZ5aUMtcTVnOThvU0NlQUNnQnF5a2NXSk9oWERvUnVJRGNUTnB3ckFlWnZ2SXJzZXVXWlJDd3FHb3UwZ0VtelVVUlRsSFlFMlhmcG9qckdFX2xVb0Zkd2NwYVpkZ01Pd2VQazRKZ3ZEZ3hG?oc=5",
+        "published_at": "2026-03-14T09:36:12+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage；Synagogue attacker died of self-inflicted gunshot, had fireworks in truck: FBI；New Details Emerge About Suspects in 2 Potential Terror Attacks。",
+        "related_headlines": [
+          "Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage",
+          "Synagogue attacker died of self-inflicted gunshot, had fireworks in truck: FBI",
+          "New Details Emerge About Suspects in 2 Potential Terror Attacks",
+          "Michigan synagogue assailant had connections to Hezbollah members in Lebanon, sources say",
+          "When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids"
+        ],
+        "content_context": "Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage；Synagogue attacker died of self-inflicted gunshot, had fireworks in truck: FBI；New Details Emerge About Suspects in 2 Potential Terror Attacks。\n\nRelated coverage: Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage\n\nRelated coverage: Synagogue attacker died of self-inflicted gunshot, had fireworks in truck: FBI\n\nRelated coverage: New Details Emerge About Suspects in 2 Potential Terror Attacks\n\nRelated coverage: Michigan synagogue assailant had connections to Hezbollah members in Lebanon, sources say\n\nRelated coverage: When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids",
+        "trend_score": 31.89,
+        "trend_breakdown": {
+          "freshness": 0.791,
+          "engagement": 0.0,
+          "topic_overlap": 0.214,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "House GOP leadership silent as more members post anti-Muslim statements - NPR",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTZFVFJVbmstbTVPbnBWNXY2WnBzNUloM0VCWlNoQVV6YVdHU2l4OHBjNjFmR3E0TjllOGJ0R3Z0Q2VWdEM4NWs0SndmbzJrQkFMRENRakhybjl0NEVkOGJrT3ZMazI2amZVMjhFd1BUdFlLQVlkcWNlM012YmlhQWVZSTN6UEt2LTkzTTBITEVybGc?oc=5",
+        "published_at": "2026-03-14T09:00:00+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：House GOP leadership silent as more members post anti-Muslim statements；Multiple Republicans in Congress post openly anti-Muslim statements；Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot。",
+        "related_headlines": [
+          "House GOP leadership silent as more members post anti-Muslim statements",
+          "Multiple Republicans in Congress post openly anti-Muslim statements",
+          "Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot",
+          "The Republican Who Wants to Banish His Own Constituents",
+          "Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership"
+        ],
+        "content_context": "House GOP leadership silent as more members post anti-Muslim statements - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：House GOP leadership silent as more members post anti-Muslim statements；Multiple Republicans in Congress post openly anti-Muslim statements；Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot。\n\nRelated coverage: House GOP leadership silent as more members post anti-Muslim statements\n\nRelated coverage: Multiple Republicans in Congress post openly anti-Muslim statements\n\nRelated coverage: Furor over GOP's anti-Muslim posts leaves Mike Johnson in awkward spot\n\nRelated coverage: The Republican Who Wants to Banish His Own Constituents\n\nRelated coverage: Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership",
+        "trend_score": 29.01,
+        "trend_breakdown": {
+          "freshness": 0.765,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Al Jazeera",
+        "category": "news",
+        "title": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMXhQTXZ1RmFUcFRDWEs2SV9RM0ZxdEJIdGlfSUxlRWY4Q0xhbGdQWnI4OUdJM2RQTnlWNE5sSWxxM0pCUjFtZ3hvTFhKWUVhWDJoZDlwbUtRNVFoVFV3Ym1JZ3ZEeTVLZVZXOE0yUUtPZWZpanpXNzJkeThXM1VucXVXUktxZ1FsT1JHN2FyMFdaQllucEhDdnVhR3R4ZEtHT29Mc9IBqgFBVV95cUxQR2l4MXZSXzdJeW5CeFNfN3o3bHprTk84THpYRkgwcnZUWDJteS1kR0ladUFNWHd1bUxYLXAyZE05U0h4RTR6eHZwN1ZEaEZBLXRabGFoVVgyZmRkNFhzMW1YMUx0MWhRa3BRaVhHT1NSNnRMY2pES3k5Q3JHTmxFcExMTUJPdU9JNjNzc0w4NEF1elhRaEVzZXREN29aZ0txQ2xMaHpKVFF4UQ?oc=5",
+        "published_at": "2026-03-14T07:26:16+00:00",
+        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：US Embassy in Baghdad, Iraq attacked with missile that hits helipad；US embassy in Iraq's Baghdad hit in missiles attack, security sources say；US embassy in Baghdad targeted as Iran launches attacks during Operation Epic Fury。",
+        "related_headlines": [
+          "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
+          "US embassy in Iraq's Baghdad hit in missiles attack, security sources say",
+          "US embassy in Baghdad targeted as Iran launches attacks during Operation Epic Fury",
+          "War in the Middle East: Smoke rises from US embassy in Iraq after attack — as it happened",
+          "US embassy in Baghdad hit by strike as Trump says military targets 'obliterated' on Iran's key oil island"
+        ],
+        "content_context": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：US Embassy in Baghdad, Iraq attacked with missile that hits helipad；US embassy in Iraq's Baghdad hit in missiles attack, security sources say；US embassy in Baghdad targeted as Iran launches attacks during Operation Epic Fury。\n\nRelated coverage: US Embassy in Baghdad, Iraq attacked with missile that hits helipad\n\nRelated coverage: US embassy in Iraq's Baghdad hit in missiles attack, security sources say\n\nRelated coverage: US embassy in Baghdad targeted as Iran launches attacks during Operation Epic Fury\n\nRelated coverage: War in the Middle East: Smoke rises from US embassy in Iraq after attack — as it happened\n\nRelated coverage: US embassy in Baghdad hit by strike as Trump says military targets 'obliterated' on Iran's key oil island",
+        "trend_score": 27.21,
+        "trend_breakdown": {
+          "freshness": 0.7,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjdNNDd3Vm5EdzRteGlfbWw0ZThYR0VEWEtOVDlBOTlhU2I0YVBtdVRRSlNrdEcwWHdaR1JXV2stSnVEMFZudDhQZ1ZKUi1UQk1wSW01eXhqdG1UZklqcjhlTFBfT1JNTmNoMV9faHlWSm5SZmZ3R3drX1ZOSVhwN2pNbUNWYmMwMlNnRWpHNmhXUWVCeDliYnZXMHVrVVI4clByRTZDeXpmVkJnaEhUOTZCS1ZMUkJOSkNic2ZoT3BDaXRsempjd0t0aTBCaUtZZUJkLUktMVp4OGxiZ3J3OTZ1cw?oc=5",
+        "published_at": "2026-03-14T01:36:33+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility；Mixed verdict reached in North Texas ICE center Antifa terror attack trial；Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center。",
         "related_headlines": [
           "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility",
           "Mixed verdict reached in North Texas ICE center Antifa terror attack trial",
           "Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center",
-          "Anti-ICE protesters accused of being part of antifa found guilty of support for terrorism in Texas",
+          "Texas jury convicts protesters charged with plotting ‘antifa’ attack",
           "Jury delivers verdict in Prairieland ICE detention center shooting trial"
         ],
-        "content_context": "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility；Mixed verdict reached in North Texas ICE center Antifa terror attack trial；Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center。\n\nRelated coverage: 8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility\n\nRelated coverage: Mixed verdict reached in North Texas ICE center Antifa terror attack trial\n\nRelated coverage: Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center\n\nRelated coverage: Anti-ICE protesters accused of being part of antifa found guilty of support for terrorism in Texas\n\nRelated coverage: Jury delivers verdict in Prairieland ICE detention center shooting trial",
-        "trend_score": 30.44,
+        "content_context": "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility；Mixed verdict reached in North Texas ICE center Antifa terror attack trial；Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center。\n\nRelated coverage: 8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility\n\nRelated coverage: Mixed verdict reached in North Texas ICE center Antifa terror attack trial\n\nRelated coverage: Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center\n\nRelated coverage: Texas jury convicts protesters charged with plotting ‘antifa’ attack\n\nRelated coverage: Jury delivers verdict in Prairieland ICE detention center shooting trial",
+        "trend_score": 17.8,
         "trend_breakdown": {
-          "freshness": 0.734,
+          "freshness": 0.458,
           "engagement": 0.0,
-          "topic_overlap": 0.25,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "The Iran war's looming economic threat: Higher food prices - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmFLc3FkeGRvSm85ZlFjbnNVWVYwbVRWYnRDdVJuNEZUYTdScjhHTkxrSVpsTmFtWVFDVTJzaWRwN2l5ekZNbm9tYWtidHJ3N2VLUTc2VGlIY2hmOG5zUEVFU3RVbElQUy16S0NHNjVjcm0tZmpzS2hiZW1rRzB5cHRGX0NCNUZ4VWhKRg?oc=5",
-        "published_at": "2026-03-13T22:10:11+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Iran war's looming economic threat: Higher food prices；How the Iran war could start to impact U.S. retail prices；War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times。",
-        "related_headlines": [
-          "The Iran war's looming economic threat: Higher food prices",
-          "How the Iran war could start to impact U.S. retail prices",
-          "War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times",
-          "Fuel Shortages From War Begin to Threaten Global Food Supply",
-          "Fears of a food shock rise as midterms loom"
-        ],
-        "content_context": "The Iran war's looming economic threat: Higher food prices - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Iran war's looming economic threat: Higher food prices；How the Iran war could start to impact U.S. retail prices；War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times。\n\nRelated coverage: The Iran war's looming economic threat: Higher food prices\n\nRelated coverage: How the Iran war could start to impact U.S. retail prices\n\nRelated coverage: War With Iran Puts Further Strain on America’s Pessimistic Farmers - The New York Times\n\nRelated coverage: Fuel Shortages From War Begin to Threaten Global Food Supply\n\nRelated coverage: Fears of a food shock rise as midterms loom",
-        "trend_score": 28.63,
-        "trend_breakdown": {
-          "freshness": 0.564,
-          "engagement": 0.0,
-          "topic_overlap": 0.3,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG1TamQ2eWNReWNfMVJqdmNtTGF3cWVkR2txTVl1RXQyTlMtdm52bXJHMTdjTWU1elJfRWdnMWtrdVJSUUhhZDd4eEtpUVRwV2FwOUhPTUNMQzNkVVdkbk1fTVBvNU9rSGFiUENCVVNOZlNwWk1vLTg5cVo1eTh3WVk3aGRyZ3lQ?oc=5",
-        "published_at": "2026-03-13T23:37:49+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times；Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say；After their synagogue is attacked, a tight-knit Jewish community vows to keep coming together。",
-        "related_headlines": [
-          "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times",
-          "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
-          "After their synagogue is attacked, a tight-knit Jewish community vows to keep coming together",
-          "Temple Israel suspect seen on video buying $2k in fireworks, store says",
-          "When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids"
-        ],
-        "content_context": "Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times；Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say；After their synagogue is attacked, a tight-knit Jewish community vows to keep coming together。\n\nRelated coverage: Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times\n\nRelated coverage: Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say\n\nRelated coverage: After their synagogue is attacked, a tight-knit Jewish community vows to keep coming together\n\nRelated coverage: Temple Israel suspect seen on video buying $2k in fireworks, store says\n\nRelated coverage: When a West Bloomfield temple was attacked, a nearby cafe brought cookies and pizza to terrified kids",
-        "trend_score": 27.84,
-        "trend_breakdown": {
-          "freshness": 0.625,
-          "engagement": 0.0,
-          "topic_overlap": 0.333,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUxVbkh6Y2t2U2RQZDBlWFkyeWlDX1JxcVIxNlEyYXpzVW1zclpxR3REUjdxUlZjRnluM2J2R1AyR0xfdHBNM0h0Y2VDT1dfNlFjanoxS2dRaGdGWksyZDB4SjVKeW1RS1VvWVB3UUYxQ01ZS1lHRW1HTGtfUm1iY3pR?oc=5",
-        "published_at": "2026-03-13T21:31:21+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary；No change: Page still leads Berger by 23 in NC Senate District 26 after final county tallies；Sam Page holds slim lead over Phil Berger in NC Republican primary as counties certify votes。",
-        "related_headlines": [
-          "Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary",
-          "No change: Page still leads Berger by 23 in NC Senate District 26 after final county tallies",
-          "Sam Page holds slim lead over Phil Berger in NC Republican primary as counties certify votes",
-          "Berger continues to trail Page after final NC vote tally; recount possible",
-          "Election canvass upholds narrow leads in contentious Piedmont Triad primaries for state Senate, Guilford County commissioners"
-        ],
-        "content_context": "Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary；No change: Page still leads Berger by 23 in NC Senate District 26 after final county tallies；Sam Page holds slim lead over Phil Berger in NC Republican primary as counties certify votes。\n\nRelated coverage: Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary\n\nRelated coverage: No change: Page still leads Berger by 23 in NC Senate District 26 after final county tallies\n\nRelated coverage: Sam Page holds slim lead over Phil Berger in NC Republican primary as counties certify votes\n\nRelated coverage: Berger continues to trail Page after final NC vote tally; recount possible\n\nRelated coverage: Election canvass upholds narrow leads in contentious Piedmont Triad primaries for state Senate, Guilford County commissioners",
-        "trend_score": 23.35,
-        "trend_breakdown": {
-          "freshness": 0.537,
-          "engagement": 0.0,
-          "topic_overlap": 0.25,
+          "topic_overlap": 0.083,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -822,51 +844,24 @@
         "title": "Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq - Sacramento Bee",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTGN6bUxaeElpcXBSaHNNWVhWdlVSZHkwbk5TZ0dEMDFfREJKSGVxME1zQ0JrbHBmenZqekpDX0I5Z0c4VTlrTWNkRUNfMFpNX1VJYTRBRDFEdjRRdmM4VUtBdnVYUdIBZkFVX3lxTE5EZEZZZFVvdE5kc1B1QlBraHdyYXBLMHllb245UldDT2VrcVNMb0YyeW1KTFJ2UTFvMXBla1dVNDcxNHVYRUszdWJOSjdPekRULXBob2dWTmVvUE1WMTJHUnBqTzUtZw?oc=5",
         "published_at": "2026-03-13T23:27:00+00:00",
-        "summary": "Sacramento Bee 头条聚焦该事件，Google News 同时聚合到这些相关表述：Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq；Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View；Iran war updates: 6 U.S. service members killed in military plane crash; thousands of Marines reportedly being deployed to Middle East。",
+        "summary": "Sacramento Bee 头条聚焦该事件，Google News 同时聚合到这些相关表述：Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq；Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View；DeWine orders flags lowered in honor of Ohio Air National Guard airmen killed in Iraq plane crash。",
         "related_headlines": [
           "Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq",
           "Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View",
-          "Iran war updates: 6 U.S. service members killed in military plane crash; thousands of Marines reportedly being deployed to Middle East",
-          "13 U.S. Servicemembers Dead, 10 Seriously Wounded After Two Weeks of Epic Fury",
-          "Columbus high school graduate among 6 crew members killed in Iraq plane crash"
+          "DeWine orders flags lowered in honor of Ohio Air National Guard airmen killed in Iraq plane crash",
+          "3 Ohioans among 6 killed in US military aircraft crash in Iraq",
+          "13 U.S. Servicemembers Dead, 10 Seriously Wounded After Two Weeks of Epic Fury"
         ],
-        "content_context": "Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq - Sacramento Bee\n\nSacramento Bee 头条聚焦该事件，Google News 同时聚合到这些相关表述：Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq；Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View；Iran war updates: 6 U.S. service members killed in military plane crash; thousands of Marines reportedly being deployed to Middle East。\n\nRelated coverage: Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq\n\nRelated coverage: Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View\n\nRelated coverage: Iran war updates: 6 U.S. service members killed in military plane crash; thousands of Marines reportedly being deployed to Middle East\n\nRelated coverage: 13 U.S. Servicemembers Dead, 10 Seriously Wounded After Two Weeks of Epic Fury\n\nRelated coverage: Columbus high school graduate among 6 crew members killed in Iraq plane crash",
-        "trend_score": 22.24,
+        "content_context": "Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq - Sacramento Bee\n\nSacramento Bee 头条聚焦该事件，Google News 同时聚合到这些相关表述：Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq；Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View；DeWine orders flags lowered in honor of Ohio Air National Guard airmen killed in Iraq plane crash。\n\nRelated coverage: Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq\n\nRelated coverage: Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View\n\nRelated coverage: DeWine orders flags lowered in honor of Ohio Air National Guard airmen killed in Iraq plane crash\n\nRelated coverage: 3 Ohioans among 6 killed in US military aircraft crash in Iraq\n\nRelated coverage: 13 U.S. Servicemembers Dead, 10 Seriously Wounded After Two Weeks of Epic Fury",
+        "trend_score": 14.46,
         "trend_breakdown": {
-          "freshness": 0.618,
+          "freshness": 0.368,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.077,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
-      },
-      {
-        "source": "Politico",
-        "category": "news",
-        "title": "‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post - Politico",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFVweUtPSTVfdUVpOXlZRlVCMnBXM053UFZPenczU0ZQMTJrd3NVbi1NM0pmNVYwRVpiX1V2ODhTdjZMV3FmT1ZrbGh3dHA3OTQwMXRrSFFGNEU5bXZ2ODBsTl9QamdOek5tTzlhdVNFVGJLZzU1ZGdqanQ5QUIxRmhjbWZUNmc?oc=5",
-        "published_at": "2026-03-13T13:00:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post；Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.；Trump touted falling gas prices but now says 'we make a lot of money' as they go up。",
-        "related_headlines": [
-          "‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post",
-          "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.",
-          "Trump touted falling gas prices but now says 'we make a lot of money' as they go up",
-          "The world just smashed the emergency glass on oil prices. Now it’s up to Trump for a long-term fix",
-          "Trump suggests high oil prices are a positive after bragging about low gas prices last month"
-        ],
-        "content_context": "‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post；Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.；Trump touted falling gas prices but now says 'we make a lot of money' as they go up。\n\nRelated coverage: ‘Oh, boy’: Oil industry frets over Trump's profit-minded Iran post\n\nRelated coverage: Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.\n\nRelated coverage: Trump touted falling gas prices but now says 'we make a lot of money' as they go up\n\nRelated coverage: The world just smashed the emergency glass on oil prices. Now it’s up to Trump for a long-term fix\n\nRelated coverage: Trump suggests high oil prices are a positive after bragging about low gas prices last month",
-        "trend_score": 14.11,
-        "trend_breakdown": {
-          "freshness": 0.182,
-          "engagement": 0.0,
-          "topic_overlap": 0.364,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
       }
     ]
   },
@@ -878,11 +873,11 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "author": "msitarzewski",
       "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
       "language": "Shell",
-      "score": 5745,
-      "comment_count": 6238,
-      "total_stars": 41383,
+      "score": 4329,
+      "comment_count": 6376,
+      "total_stars": 42449,
       "built_by": [
         "msitarzewski",
         "claude",
@@ -890,44 +885,12 @@
         "4shil",
         "victorkzam"
       ],
-      "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 5745\n\nTotal stars: 41383\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
-      "trend_score": 86.84,
+      "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 4329\n\nTotal stars: 42449\n\nBuilt by: msitarzewski, claude, jnMetaCode, 4shil, victorkzam",
+      "trend_score": 94.07,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 1.0,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "author": "public-apis",
-      "summary": "A collective list of free APIs",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
-      "language": "Python",
-      "score": 892,
-      "comment_count": 44271,
-      "total_stars": 409830,
-      "built_by": [
-        "matheusfelipeog",
-        "davemachado",
-        "pawelborkar",
-        "jbrooksuk",
-        "marekdano"
-      ],
-      "content_context": "A collective list of free APIs\n\nLanguage: Python\n\nStars today: 892\n\nTotal stars: 409830\n\nBuilt by: matheusfelipeog, davemachado, pawelborkar, jbrooksuk, marekdano",
-      "trend_score": 86.13,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.981,
-        "topic_overlap": 0.0,
+        "topic_overlap": 0.333,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -942,11 +905,11 @@
       "url": "https://github.com/obra/superpowers",
       "author": "obra",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
       "language": "Shell",
-      "score": 2106,
-      "comment_count": 6411,
-      "total_stars": 82314,
+      "score": 1451,
+      "comment_count": 6443,
+      "total_stars": 82671,
       "built_by": [
         "obra",
         "claude",
@@ -954,75 +917,11 @@
         "clkao",
         "jjshanks"
       ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 2106\n\nTotal stars: 82314\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
-      "trend_score": 84.46,
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1451\n\nTotal stars: 82671\n\nBuilt by: obra, claude, arittr, clkao, jjshanks",
+      "trend_score": 84.16,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.937,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "author": "microsoft",
-      "summary": "Official inference framework for 1-bit LLMs",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
-      "language": "Python",
-      "score": 2227,
-      "comment_count": 2900,
-      "total_stars": 34351,
-      "built_by": [
-        "potassiummmm",
-        "tsong-ms",
-        "younesbelkada",
-        "sd983527",
-        "XsquirrelC"
-      ],
-      "content_context": "Official inference framework for 1-bit LLMs\n\nLanguage: Python\n\nStars today: 2227\n\nTotal stars: 34351\n\nBuilt by: potassiummmm, tsong-ms, younesbelkada, sd983527, XsquirrelC",
-      "trend_score": 83.06,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.9,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "promptfoo/promptfoo",
-      "url": "https://github.com/promptfoo/promptfoo",
-      "author": "promptfoo",
-      "summary": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
-      "language": "TypeScript",
-      "score": 1668,
-      "comment_count": 1371,
-      "total_stars": 15528,
-      "built_by": [
-        "typpo",
-        "mldangelo",
-        "renovate",
-        "dependabot",
-        "sklein12"
-      ],
-      "content_context": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.\n\nLanguage: TypeScript\n\nStars today: 1668\n\nTotal stars: 15528\n\nBuilt by: typpo, mldangelo, renovate, dependabot, sklein12",
-      "trend_score": 80.9,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.844,
+        "engagement": 0.93,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1038,11 +937,11 @@
       "url": "https://github.com/lightpanda-io/browser",
       "author": "lightpanda-io",
       "summary": "Lightpanda: the headless browser designed for AI and automation",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
       "language": "Zig",
-      "score": 2093,
-      "comment_count": 579,
-      "total_stars": 16070,
+      "score": 2100,
+      "comment_count": 604,
+      "total_stars": 16562,
       "built_by": [
         "karlseguin",
         "krichprollsch",
@@ -1050,11 +949,75 @@
         "mookums",
         "nikneym"
       ],
-      "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2093\n\nTotal stars: 16070\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
-      "trend_score": 79.78,
+      "content_context": "Lightpanda: the headless browser designed for AI and automation\n\nLanguage: Zig\n\nStars today: 2100\n\nTotal stars: 16562\n\nBuilt by: karlseguin, krichprollsch, francisbouvier, mookums, nikneym",
+      "trend_score": 80.39,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.814,
+        "engagement": 0.83,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "author": "volcengine",
+      "summary": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
+      "language": "Python",
+      "score": 1557,
+      "comment_count": 674,
+      "total_stars": 9788,
+      "built_by": [
+        "qin-ctx",
+        "zhoujh01",
+        "MaojiaSheng",
+        "claude",
+        "ZaynJarvis"
+      ],
+      "content_context": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.\n\nLanguage: Python\n\nStars today: 1557\n\nTotal stars: 9788\n\nBuilt by: qin-ctx, zhoujh01, MaojiaSheng, claude, ZaynJarvis",
+      "trend_score": 79.87,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.817,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "author": "p-e-w",
+      "summary": "Fully automatic censorship removal for language models",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
+      "language": "Python",
+      "score": 661,
+      "comment_count": 1345,
+      "total_stars": 13267,
+      "built_by": [
+        "p-e-w",
+        "spikymoth",
+        "anrp",
+        "red40maxxer",
+        "kldzj"
+      ],
+      "content_context": "Fully automatic censorship removal for language models\n\nLanguage: Python\n\nStars today: 661\n\nTotal stars: 13267\n\nBuilt by: p-e-w, spikymoth, anrp, red40maxxer, kldzj",
+      "trend_score": 79.12,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.797,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1070,11 +1033,11 @@
       "url": "https://github.com/fishaudio/fish-speech",
       "author": "fishaudio",
       "summary": "SOTA Open Source TTS",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
       "language": "Python",
-      "score": 559,
-      "comment_count": 2255,
-      "total_stars": 26977,
+      "score": 377,
+      "comment_count": 2263,
+      "total_stars": 27073,
       "built_by": [
         "leng-yue",
         "github-actions",
@@ -1082,11 +1045,11 @@
         "AnyaCoder",
         "PoTaTo-Mika"
       ],
-      "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 559\n\nTotal stars: 26977\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
-      "trend_score": 79.21,
+      "content_context": "SOTA Open Source TTS\n\nLanguage: Python\n\nStars today: 377\n\nTotal stars: 27073\n\nBuilt by: leng-yue, github-actions, pre-commit-ci, AnyaCoder, PoTaTo-Mika",
+      "trend_score": 78.77,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.799,
+        "engagement": 0.788,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1098,27 +1061,59 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "google/A2UI",
-      "url": "https://github.com/google/A2UI",
-      "author": "google",
-      "summary": null,
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
-      "language": "TypeScript",
-      "score": 635,
-      "comment_count": 985,
-      "total_stars": 13142,
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "author": "anthropics",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
+      "language": "Python",
+      "score": 411,
+      "comment_count": 1096,
+      "total_stars": 11050,
       "built_by": [
-        "jacobsimionato",
-        "gspencergoog",
-        "paullewis",
-        "wrenj",
-        "github-actions"
+        "tobinsouth",
+        "noahzweben",
+        "claude",
+        "ThariqS",
+        "dicksontsai"
       ],
-      "content_context": "Language: TypeScript\n\nStars today: 635\n\nTotal stars: 13142\n\nBuilt by: jacobsimionato, gspencergoog, paullewis, wrenj, github-actions",
-      "trend_score": 77.92,
+      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 411\n\nTotal stars: 11050\n\nBuilt by: tobinsouth, noahzweben, claude, ThariqS, dicksontsai",
+      "trend_score": 77.55,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.765,
+        "engagement": 0.756,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "author": "InsForge",
+      "summary": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
+      "language": "TypeScript",
+      "score": 477,
+      "comment_count": 417,
+      "total_stars": 3931,
+      "built_by": [
+        "tonychang04",
+        "Fermionic-Lyu",
+        "Leo-rq-yu",
+        "jwfing",
+        "claude"
+      ],
+      "content_context": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.\n\nLanguage: TypeScript\n\nStars today: 477\n\nTotal stars: 3931\n\nBuilt by: tonychang04, Fermionic-Lyu, Leo-rq-yu, jwfing, claude",
+      "trend_score": 76.01,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.715,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1134,11 +1129,11 @@
       "url": "https://github.com/langflow-ai/openrag",
       "author": "langflow-ai",
       "summary": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
       "language": "Python",
-      "score": 905,
-      "comment_count": 226,
-      "total_stars": 2417,
+      "score": 568,
+      "comment_count": 238,
+      "total_stars": 2537,
       "built_by": [
         "phact",
         "edwinjosechittilappilly",
@@ -1146,11 +1141,11 @@
         "lucaseduoli",
         "aimurphy"
       ],
-      "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 905\n\nTotal stars: 2417\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
-      "trend_score": 75.92,
+      "content_context": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.\n\nLanguage: Python\n\nStars today: 568\n\nTotal stars: 2537\n\nBuilt by: phact, edwinjosechittilappilly, mendonk, lucaseduoli, aimurphy",
+      "trend_score": 75.33,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.713,
+        "engagement": 0.697,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1162,27 +1157,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "dolthub/dolt",
-      "url": "https://github.com/dolthub/dolt",
-      "author": "dolthub",
-      "summary": "Dolt – Git for Data",
-      "published_at": "2026-03-14T08:37:25.942568+00:00",
-      "language": "Go",
-      "score": 60,
-      "comment_count": 677,
-      "total_stars": 21209,
+      "title": "dimensionalOS/dimos",
+      "url": "https://github.com/dimensionalOS/dimos",
+      "author": "dimensionalOS",
+      "summary": "The Dimensional Framework",
+      "published_at": "2026-03-14T14:37:19.383105+00:00",
+      "language": "Python",
+      "score": 64,
+      "comment_count": 145,
+      "total_stars": 736,
       "built_by": [
-        "zachmu",
-        "andy-wm-arthur",
-        "fulghum",
-        "coffeegoddd",
-        "reltuk"
+        "spomichter",
+        "paul-nechifor",
+        "leshy",
+        "alexlin2",
+        "lukasapaukstys"
       ],
-      "content_context": "Dolt – Git for Data\n\nLanguage: Go\n\nStars today: 60\n\nTotal stars: 21209\n\nBuilt by: zachmu, andy-wm-arthur, fulghum, coffeegoddd, reltuk",
-      "trend_score": 71.5,
+      "content_context": "The Dimensional Framework\n\nLanguage: Python\n\nStars today: 64\n\nTotal stars: 736\n\nBuilt by: spomichter, paul-nechifor, leshy, alexlin2, lukasapaukstys",
+      "trend_score": 69.0,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.596,
+        "engagement": 0.531,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1194,115 +1189,83 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-      "author": "joozio",
+      "title": "BunkerVM – Run AI agents in isolated Firecracker microVM sandboxes",
+      "url": "https://github.com/ashishgituser/bunkervm",
+      "author": "ashishch111",
       "score": 2,
       "comment_count": 0,
-      "published_at": "2026-03-14T08:20:58+00:00",
-      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "published_at": "2026-03-14T14:28:00+00:00",
+      "summary": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-        "page_title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "page_description": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "page_excerpt": "Unicode that’s invisible to the human eye was largely abandoned—until attackers took notice.\n\nResearchers say they’ve discovered a supply-chain attack flooding repositories with malicious packages that contain invisible code, a technique that’s flummoxing traditional defenses designed to detect such threats.\n\nThe researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9. Such supply-chain attacks have been common for nearly a decade . They usually work by uploading malicious packages with code and names that closely resemble those of widely used code libraries, with the objective of tricking developers into mistake..."
+        "resolved_url": "https://github.com/ashishgituser/bunkervm",
+        "page_title": "GitHub - ashishgituser/bunkervm: BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files.",
+        "page_description": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...",
+        "page_excerpt": "Docker Desktop for AI sandboxing. Double-click to install. Hardware-isolated VMs for your AI agents.\n\n3 AI agents, 3 isolated Firecracker VMs, running in parallel. Build, test, and security-scan — then nuke one VM and watch the others survive.\n\nhttps://github.com/ashishgituser/bunkervm/raw/main/docs/LangGraphMultiAgentTest.mp4"
       },
-      "content_context": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.\n\nUnicode that’s invisible to the human eye was largely abandoned—until attackers took notice. Researchers say they’ve discovered a supply-chain attack flooding repositories with malicious packages that contain invisible code, a technique that’s flummoxing traditional defenses designed to detect such threats. The researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9. Such supply-chain attacks have been common for nearly a decade . They usually work by uploading malicious packages with code and names that closely resemble those of widely used code libraries, with the objective of tricking developers into mistake...",
-      "trend_score": 54.1,
-      "trend_breakdown": {
-        "freshness": 0.988,
-        "engagement": 0.07,
-        "topic_overlap": 0.2,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "A self-hosted intelligence terminal that watches the world for signals",
-      "url": "https://github.com/calesthio/Crucix",
-      "author": "calesthio",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-03-14T08:31:18+00:00",
-      "summary": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix",
-      "comment_highlights": [
-        "Hey HN,<p>I built this because I was constantly checking multiple sources to understand what’s happening globally — conflict events, satellite signals, macro indicators, flight activity, etc. A lot of this data is publicly available, but it’s scattered across dozens of APIs and feeds.<p>Crucix ag..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://github.com/calesthio/Crucix",
-        "page_title": "GitHub - calesthio/Crucix: Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.",
-        "page_description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix",
-        "page_excerpt": "Your own intelligence terminal. 26 sources. One command. Zero cloud.\n\nCrucix pulls satellite fire detection, flight tracking, radiation monitoring, economic indicators, live market prices, conflict data, sanctions lists, and social sentiment from 26 open-source intelligence feeds — in parallel, every 15 minutes — and renders everything on a single self-contained Jarvis-style dashboard.\n\nHook it up to an LLM and it becomes a two-way intelligence assistant — pushing multi-tier alerts to Telegram and Discord when something meaningful changes, responding to commands like /brief and /sweep from your phone, and generating actionable trade ideas grounded in real cross-domain data. Your own analyst that watches the world while you sleep."
-      },
-      "content_context": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes. - calesthio/Crucix\n\nYour own intelligence terminal. 26 sources. One command. Zero cloud. Crucix pulls satellite fire detection, flight tracking, radiation monitoring, economic indicators, live market prices, conflict data, sanctions lists, and social sentiment from 26 open-source intelligence feeds — in parallel, every 15 minutes — and renders everything on a single self-contained Jarvis-style dashboard. Hook it up to an LLM and it becomes a two-way intelligence assistant — pushing multi-tier alerts to Telegram and Discord when something meaningful changes, responding to commands like /brief and /sweep from your phone, and generating actionable trade ideas grounded in real cross-domain data. Your own analyst that watches the world while you sleep.\n\nHN comment: Hey HN,<p>I built this because I was constantly checking multiple sources to understand what’s happening globally — conflict events, satellite signals, macro indicators, flight activity, etc. A lot of this data is publicly available, but it’s scattered across dozens of APIs and feeds.<p>Crucix ag...",
-      "trend_score": 50.55,
-      "trend_breakdown": {
-        "freshness": 0.996,
-        "engagement": 0.08,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Ask HN: What newsletters do you read every day or week?",
-      "url": "https://news.ycombinator.com/item?id=47374561",
-      "author": "chistev",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-03-14T08:34:46+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": "Found this old thread with the same topic from 2015 - https://news.ycombinator.com/item?id=9476097<p>Wanted to repost it to find interesting newsletters to follow.<p>Shameless plug, I run a newsletter myself - https://www.rxjourney.net/",
-      "trend_score": 49.34,
-      "trend_breakdown": {
-        "freshness": 0.998,
-        "engagement": 0.044,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Stackco.st – see what other founders pay for their SaaS tools",
-      "url": "https://www.stackco.st",
-      "author": "pertti_studio",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-03-14T08:27:07+00:00",
-      "summary": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.",
-      "comment_highlights": [
-        "Hey HN, I'm Pieter, maker of stackco.st. The idea came from a simple frustration — every time I was evaluating a new tool, I'd google \"[tool name] pricing\" and get either the official pricing page or a two-year-old blog post. I never found what real founders at my stage actually paid, with their..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://www.stackco.st/",
-        "page_title": "stackco.st — See what it really costs to run a startup",
-        "page_description": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.",
-        "page_excerpt": null
-      },
-      "content_context": "Real founders sharing their real monthly SaaS bills. Browse stacks, compare costs, find cheaper alternatives.\n\nHN comment: Hey HN, I'm Pieter, maker of stackco.st. The idea came from a simple frustration — every time I was evaluating a new tool, I'd google \"[tool name] pricing\" and get either the official pricing page or a two-year-old blog post. I never found what real founders at my stage actually paid, with their...",
-      "trend_score": 47.86,
+      "content_context": "BunkerVM is a tiny operating system that boots in 2 seconds and gives AI agents a safe, isolated Linux machine to work in. Install it with one command. No Docker. No cloud. No config files. - ashis...\n\nDocker Desktop for AI sandboxing. Double-click to install. Hardware-isolated VMs for your AI agents. 3 AI agents, 3 isolated Firecracker VMs, running in parallel. Build, test, and security-scan — then nuke one VM and watch the others survive. https://github.com/ashishgituser/bunkervm/raw/main/docs/LangGraphMultiAgentTest.mp4",
+      "trend_score": 53.16,
       "trend_breakdown": {
         "freshness": 0.993,
-        "engagement": 0.08,
-        "topic_overlap": 0.286,
+        "engagement": 0.071,
+        "topic_overlap": 0.143,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Ask HN: Would this eliminate bots for good?",
+      "url": "https://news.ycombinator.com/item?id=47377046",
+      "author": "piratesAndSons",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-03-14T14:27:52+00:00",
+      "summary": "Sell it to Mark Zuckerberg.",
+      "comment_highlights": [
+        "Sell it to Mark Zuckerberg."
+      ],
+      "linked_context": {},
+      "content_context": "I had an idea to eliminate the bot problem, or at the very least make it significantly harder to operate one. Here is my plan.<p>A new web browser built on a new HTTP protocol that accepts a human identity glove using cryptography. Instead of using your fingers directly on a mouse or trackpad, you wear a hardware glove that continuously records your pulse and your fingerprint, your machine information, and the average movement map that is unique to you as you interact with your device. The glove encrypts all of this information in real time. The browser then constantly verifies the glove hardware is present and active. No physical glove with a valid identity? No page loads.<p>What if someone tries to emulate the glove?<p>This is where the new browser becomes the second line of defense. It continuously checks the hardware signature and serial number of the glove. You can attempt to emulate it all you want, but the probability of simultaneously spoofing the correct fingerprint, a continuous and believable human pulse, a personalized movement map, and the exact hardware serial number is as close to impossible as any security system can get.<p>What do you all think of this as a prel...\n\nHN comment: Sell it to Mark Zuckerberg.",
+      "trend_score": 50.48,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.081,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "DroneClaw: Flying a Drone with Voice Commands",
+      "url": "https://twitter.com/Viewforge/status/2032800448269398081",
+      "author": "GPUboy",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-03-14T14:33:59+00:00",
+      "summary": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://twitter.com/Viewforge/status/2032800448269398081",
+        "page_title": "Rohan Arun (@Viewforge) on X",
+        "page_description": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
+        "page_excerpt": null
+      },
+      "content_context": "Introducing DroneClaw! 🤯 Flying a drone entirely with voice commands and a real time assistant.",
+      "trend_score": 49.02,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.045,
+        "topic_overlap": 0.4,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1311,23 +1274,54 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Show HN: One MCP server that gives your AI agent access to 25,000 tools",
-      "url": "https://nerq.ai/gateway",
-      "author": "Agentindex",
+      "title": "Zoë Kravitz: \"Bluetooth does not work\" [video]",
+      "url": "https://www.youtube.com/watch?v=6iva-qFZ29c",
+      "author": "sgt",
       "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-03-14T08:31:08+00:00",
-      "summary": "Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right...",
-      "comment_highlights": [
-        "Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right..."
-      ],
-      "linked_context": {},
-      "content_context": "HN comment: Creator here. We built nerq-gateway — an MCP server that acts as a gateway to 25,000+ other MCP servers.<p>Instead of configuring each MCP server manually in Claude/Cursor, you add one line to your config. Then ask your AI for anything — the gateway finds, trust-verifies, and recommends the right...",
-      "trend_score": 44.63,
+      "comment_count": 0,
+      "published_at": "2026-03-14T14:31:58+00:00",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.youtube.com/watch?v=6iva-qFZ29c",
+        "page_title": "- YouTube",
+        "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "page_excerpt": null
+      },
+      "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "trend_score": 44.76,
       "trend_breakdown": {
         "freshness": 0.996,
-        "engagement": 0.08,
-        "topic_overlap": 0.1,
+        "engagement": 0.045,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: FalconAI – AI-Powered Smart TV Streaming, Search and Voice Control",
+      "url": "https://www.falconai-tv.com/",
+      "author": "erind_musliu",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-03-14T14:34:46+00:00",
+      "summary": "FalconAI finds your favorite content instantly, no channel lists, no waiting.\n\nDiscover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device.\n\nType or say what you want to watch and let FalconAI understand your request instantly.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.falconai-tv.com/",
+        "page_title": "FalconAI - AI-powered IPTV with voice and smart search.",
+        "page_description": null,
+        "page_excerpt": "FalconAI finds your favorite content instantly, no channel lists, no waiting.\n\nDiscover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device.\n\nType or say what you want to watch and let FalconAI understand your request instantly."
+      },
+      "content_context": "Hi HN,<p>I built FalconAI, an AI-powered streaming platform that lets you find your favorite shows instantly—no channel lists, no waiting.<p>Key features:<p>Smart Search – AI finds videos and channels instantly.<p>Voice Control – just speak or type what you want to watch.<p>Instant Streaming – fast, no lag.<p>Personalized Recommendations – learns your preferences over time.<p>Works on Smart TVs, mobile, and desktop.<p>We’re currently offering Basic to Premium packages (€4.99–€14.99/month) and a demo is available for early users.<p>I’d love feedback from the HN community on the AI recommendation engine and overall experience.<p>Thanks!\n\nFalconAI finds your favorite content instantly, no channel lists, no waiting. Discover FalconAI’s AI-powered features: smart search, voice control, personalized recommendations, instant streaming, and easy access on any device. Type or say what you want to watch and let FalconAI understand your request instantly.",
+      "trend_score": 44.09,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.045,
+        "topic_overlap": 0.125,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
