@@ -138,6 +138,8 @@ def main() -> None:
     if summary_error:
         payload["notes"].append(summary_error)
     payload["summary"] = summary
+    if summary and summary.get("_errors"):
+        payload["notes"].extend([f"AI summary partial failure: {message}" for message in summary["_errors"]])
 
     _persist_outputs(payload)
     email_result = _run_email(MARKDOWN_OUTPUT_PATH)

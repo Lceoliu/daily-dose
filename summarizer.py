@@ -44,7 +44,7 @@ def _serialize_item(item: dict) -> dict[str, Any]:
 
 
 def _build_summary_input(payload: dict) -> dict[str, Any]:
-    top_trends = [_serialize_item(item) for item in payload.get("top_trends", [])[:12]]
+    top_trends = [_serialize_item(item) for item in payload.get("top_trends", [])[:10]]
     source_leaders = {}
     for source_name, items in (payload.get("items") or {}).items():
         source_leaders[source_name] = [_serialize_item(item) for item in items[:3]]
@@ -62,17 +62,14 @@ def _extract_json(text: str) -> dict | None:
     text = text.strip()
     if not text:
         return None
-
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
-
     start = text.find("{")
     end = text.rfind("}")
     if start == -1 or end == -1 or end <= start:
         return None
-
     try:
         return json.loads(text[start : end + 1])
     except json.JSONDecodeError:
@@ -82,14 +79,14 @@ def _extract_json(text: str) -> dict | None:
 def _build_default_follow_up(item: dict) -> str:
     category = item.get("category")
     if category == "github_trending":
-        return "明天继续看 star 增速、是否出现更多 issue 或二次讨论，以及是否有开发者开始真实集成。"
+        return "明天继续看 star 增速、更多 issue 或二次讨论，以及是否有开发者开始真实集成。"
     if category == "reddit":
         return "明天继续看讨论是否扩散到更多板块，以及是否出现原始信源或新增事实。"
     if category == "hacker_news":
         return "明天继续看评论区是否补出关键反驳、实际案例或更多技术上下文。"
     if category == "news":
         return "明天继续看是否有官方回应、后续细节或二级影响进入头条。"
-    return "明天继续看热度是否延续，以及是否出现更多可验证的新信息。"
+    return "明天继续看热度是否延续，以及是否出现更多可验证的信息。"
 
 
 def _default_hype_check(item: dict) -> str:
@@ -153,8 +150,8 @@ def _normalize_named_hotspots(summary: dict, payload: dict) -> list[dict[str, st
                 "kind": item.get("kind") or "topic",
                 "source": item.get("source") or matched.get("source") or "",
                 "what_happened": item.get("what_happened") or "",
-                "core_details": item.get("core_details") or item.get("why_hot") or item.get("what_happened") or "",
-                "ai_take": item.get("ai_take") or item.get("why_hot") or "",
+                "core_details": item.get("core_details") or item.get("what_happened") or "",
+                "ai_take": item.get("ai_take") or "",
                 "hype_check": item.get("hype_check") or _default_hype_check(matched),
                 "value_check": item.get("value_check") or _default_value_check(matched),
                 "follow_up": item.get("follow_up") or _build_default_follow_up(matched),
@@ -164,19 +161,13 @@ def _normalize_named_hotspots(summary: dict, payload: dict) -> list[dict[str, st
     return normalized
 
 
-def _normalize_source_briefs(summary: dict, payload: dict) -> list[dict[str, str]]:
-    items = summary.get("source_briefs") or []
-    if items:
-        return items
-    return _fallback_source_briefs(payload)
-
-
 def _normalize_summary(summary: dict, payload: dict) -> dict:
     return {
         "overview": summary.get("overview") or "",
         "named_hotspots": _normalize_named_hotspots(summary, payload),
-        "source_briefs": _normalize_source_briefs(summary, payload),
+        "source_briefs": summary.get("source_briefs") or _fallback_source_briefs(payload),
         "closing_note": summary.get("closing_note") or "",
+        "_errors": summary.get("_errors") or [],
     }
 
 
@@ -207,16 +198,13 @@ def _call_json(client, model: str, system_prompt: str, user_payload: dict) -> di
     return parsed
 
 
-def _hotspots_prompt() -> str:
+def _single_hotspot_prompt() -> str:
     return (
-        "You are writing the main hot-topics section of a Chinese AI daily briefing. "
-        "Use the provided content_context, page_description, page_excerpt, comment_highlights, "
-        "and related_headlines to summarize the actual substance of each item, not just the headline. "
+        "You are writing one entry for a Chinese AI daily briefing. "
+        "Given a single trend item, summarize the actual substance using content_context, "
+        "page_description, page_excerpt, comment_highlights, and related_headlines when available. "
         "All prose values must be in Simplified Chinese. "
         "Return valid JSON only with this exact schema: "
-        "{"
-        '"overview": string, '
-        '"named_hotspots": ['
         "{"
         '"name": string, '
         '"kind": string, '
@@ -228,19 +216,18 @@ def _hotspots_prompt() -> str:
         '"value_check": string, '
         '"follow_up": string, '
         '"evidence": string'
-        "}"
-        "], "
-        '"closing_note": string'
         "}. "
-        "Rules: "
-        "1. Mention only specific named entities from the input. "
-        "2. kind must be one of: project, company, model, product, event, person, research, topic. "
-        "3. named_hotspots should prioritize 6-10 items from the provided trends. "
-        "4. core_details must summarize the underlying content or discussion, using comments/excerpts when available. "
-        "5. ai_take should be your informed interpretation of why the item matters. "
-        "6. hype_check must explicitly judge whether it is mostly attention bait, mostly real signal, or mixed. "
-        "7. value_check must judge whether following this item tomorrow is worthwhile and why. "
-        "8. Keep the tone direct, analytical, and specific."
+        "kind must be one of: project, company, model, product, event, person, research, topic."
+    )
+
+
+def _overview_prompt() -> str:
+    return (
+        "You are writing the opening and closing of a Chinese AI daily briefing. "
+        "Use the already-analyzed hotspot entries to write a concise but specific overview and closing note. "
+        "All prose values must be in Simplified Chinese. "
+        "Return valid JSON only with this exact schema: "
+        '{"overview": string, "closing_note": string}.'
     )
 
 
@@ -248,8 +235,8 @@ def _source_briefs_prompt() -> str:
     return (
         "You are writing the source-specific content recap of a Chinese AI daily briefing. "
         "Summarize the concrete substance of the provided Reddit, Hacker News, and News items. "
-        "Do not just restate titles. Use comment_highlights, content_context, related_headlines, page_description, "
-        "and page_excerpt when available. "
+        "Do not just restate titles. Use comment_highlights, content_context, related_headlines, "
+        "page_description, and page_excerpt when available. "
         "All prose values must be in Simplified Chinese. "
         "Return valid JSON only with this exact schema: "
         "{"
@@ -261,12 +248,7 @@ def _source_briefs_prompt() -> str:
         '"ai_comment": string'
         "}"
         "]"
-        "}. "
-        "Rules: "
-        "1. Include at least one item each from reddit, hacker_news, and news if data exists. "
-        "2. content_summary should describe the actual content or discussion. "
-        "3. ai_comment should briefly assess what is signal versus noise and why the item matters. "
-        "4. Keep the tone compact and concrete."
+        "}."
     )
 
 
@@ -285,27 +267,43 @@ def summarize_payload(payload: dict) -> dict | None:
     client = OpenAI(**_client_kwargs())
     summary_input = _build_summary_input(payload)
 
-    hotspots_result: dict[str, Any] | None = None
-    source_briefs_result: dict[str, Any] | None = None
+    named_hotspots: list[dict[str, Any]] = []
     errors: list[str] = []
 
-    try:
-        hotspots_result = _call_json(
-            client,
-            model,
-            _hotspots_prompt(),
-            {
-                "generated_at": summary_input["generated_at"],
-                "counts": summary_input["counts"],
-                "notes": summary_input["notes"],
-                "top_trends": summary_input["top_trends"],
-            },
-        )
-    except Exception as exc:  # noqa: BLE001
-        errors.append(f"hotspots_call={exc}")
+    for item in summary_input["top_trends"][:8]:
+        try:
+            hotspot = _call_json(
+                client,
+                model,
+                _single_hotspot_prompt(),
+                {"item": item},
+            )
+            named_hotspots.append(hotspot)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"hotspot:{item.get('title')}: {exc}")
 
+    overview = ""
+    closing_note = ""
+    if named_hotspots:
+        try:
+            meta = _call_json(
+                client,
+                model,
+                _overview_prompt(),
+                {
+                    "generated_at": summary_input["generated_at"],
+                    "counts": summary_input["counts"],
+                    "named_hotspots": named_hotspots,
+                },
+            )
+            overview = meta.get("overview") or ""
+            closing_note = meta.get("closing_note") or ""
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"overview: {exc}")
+
+    source_briefs: list[dict[str, Any]] = []
     try:
-        source_briefs_result = _call_json(
+        source_result = _call_json(
             client,
             model,
             _source_briefs_prompt(),
@@ -314,18 +312,23 @@ def summarize_payload(payload: dict) -> dict | None:
                 "source_leaders": summary_input["source_leaders"],
             },
         )
+        source_briefs = source_result.get("source_briefs") or []
     except Exception as exc:  # noqa: BLE001
-        errors.append(f"source_briefs_call={exc}")
+        errors.append(f"source_briefs: {exc}")
 
-    if hotspots_result is None and source_briefs_result is None:
+    if not named_hotspots and not source_briefs:
         base_url = os.getenv("OPENAI_BASE_URL", "").strip() or "default-openai-base-url"
         detail = "; ".join(errors) or "unknown summary failure"
         raise RuntimeError(f"{detail} (model={model}, base_url={base_url})")
 
-    merged_summary = {
-        "overview": (hotspots_result or {}).get("overview") or "",
-        "named_hotspots": (hotspots_result or {}).get("named_hotspots") or [],
-        "source_briefs": (source_briefs_result or {}).get("source_briefs") or [],
-        "closing_note": (hotspots_result or {}).get("closing_note") or "",
-    }
-    return _normalize_summary(merged_summary, payload)
+    normalized = _normalize_summary(
+        {
+            "overview": overview,
+            "named_hotspots": named_hotspots,
+            "source_briefs": source_briefs,
+            "closing_note": closing_note,
+            "_errors": errors,
+        },
+        payload,
+    )
+    return normalized

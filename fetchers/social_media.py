@@ -10,6 +10,7 @@ from fetchers.content import build_text_block, clean_text, fetch_page_context
 
 DEFAULT_HEADERS = {
     "User-Agent": "daily-trends-bot/0.1 (+https://github.com/actions)",
+    "Accept": "application/json",
 }
 REQUEST_TIMEOUT = 20
 
@@ -28,20 +29,37 @@ def fetch_reddit_posts(
         subreddit_list = ["technology", "worldnews", "artificial"]
 
     items: list[dict] = []
+    fetch_errors: list[str] = []
+    successful_subreddits = 0
     for subreddit in subreddit_list:
-        try:
-            response = requests.get(
-                f"https://www.reddit.com/r/{subreddit}/hot.json",
-                params={
-                    "limit": max(limit_per_subreddit * 4, 20),
-                    "raw_json": 1,
-                },
-                headers=DEFAULT_HEADERS,
-                timeout=REQUEST_TIMEOUT,
-            )
-            response.raise_for_status()
-        except requests.RequestException:
+        response = None
+        last_error = None
+        for endpoint in (
+            f"https://www.reddit.com/r/{subreddit}/hot.json",
+            f"https://api.reddit.com/r/{subreddit}/hot",
+        ):
+            try:
+                response = requests.get(
+                    endpoint,
+                    params={
+                        "limit": max(limit_per_subreddit * 4, 20),
+                        "raw_json": 1,
+                    },
+                    headers=DEFAULT_HEADERS,
+                    timeout=REQUEST_TIMEOUT,
+                )
+                response.raise_for_status()
+                break
+            except requests.RequestException as exc:
+                last_error = exc
+                response = None
+
+        if response is None:
+            error_message = str(last_error) if last_error else "unknown reddit fetch error"
+            fetch_errors.append(f"r/{subreddit}: {error_message}")
             continue
+
+        successful_subreddits += 1
 
         payload = response.json()
         children = payload.get("data", {}).get("children", [])
@@ -71,6 +89,11 @@ def fetch_reddit_posts(
         max_age_hours=24,
         limit=len(subreddit_list) * limit_per_subreddit,
     )
+
+    if successful_subreddits == 0:
+        detail = "; ".join(fetch_errors[:3]) or "no subreddit fetch succeeded"
+        raise RuntimeError(f"all subreddit fetches failed: {detail}")
+
     return [_enrich_reddit_item(item) for item in filtered_items]
 
 
