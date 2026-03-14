@@ -178,8 +178,8 @@ def _client_kwargs() -> dict[str, Any]:
     return {
         "api_key": os.getenv("OPENAI_API_KEY"),
         "base_url": base_url,
-        "timeout": _env_int("OPENAI_TIMEOUT_SECONDS", 90),
-        "max_retries": _env_int("OPENAI_MAX_RETRIES", 2),
+        "timeout": _env_int("OPENAI_TIMEOUT_SECONDS", 180),
+        "max_retries": _env_int("OPENAI_MAX_RETRIES", 4),
     }
 
 
