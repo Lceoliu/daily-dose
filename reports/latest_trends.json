@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:31:08.344839+00:00",
+  "generated_at": "2026-10-11T00:40:18.903900+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,46 +11,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "mattpocock/skills",
-        "url": "https://github.com/mattpocock/skills",
-        "author": "mattpocock",
-        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
-        "language": "Shell",
-        "score": 1687,
-        "comment_count": 23689,
-        "total_stars": 282749,
-        "built_by": [
-          "mattpocock",
-          "claude",
-          "github-actions",
-          "gabimoncha"
-        ],
-        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1687\n\nTotal stars: 282749\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-        "trend_score": 94.83,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.924,
-          "topic_overlap": 0.5,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "author": "morluto",
         "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
         "language": "TypeScript",
-        "score": 14927,
-        "comment_count": 7574,
-        "total_stars": 46981,
+        "score": 25793,
+        "comment_count": 15263,
+        "total_stars": 72500,
         "built_by": [
           "morluto",
           "N0zoM1z0",
@@ -58,7 +27,7 @@
           "claude",
           "rudycelekli"
         ],
-        "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 14927\n\nTotal stars: 46981\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+        "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 25793\n\nTotal stars: 72500\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
         "trend_score": 86.84,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -74,28 +43,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "addyosmani/agent-skills",
-        "url": "https://github.com/addyosmani/agent-skills",
-        "author": "addyosmani",
-        "summary": "Production-grade engineering skills for AI coding agents.",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
-        "language": "JavaScript",
-        "score": 436,
-        "comment_count": 10868,
-        "total_stars": 104004,
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "author": "mattpocock",
+        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
+        "language": "Shell",
+        "score": 1736,
+        "comment_count": 23812,
+        "total_stars": 284492,
         "built_by": [
-          "addyosmani",
-          "nucliweb",
-          "federicobartoli",
+          "mattpocock",
           "claude",
-          "ayobamiseun"
+          "github-actions",
+          "gabimoncha"
         ],
-        "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 436\n\nTotal stars: 104004\n\nBuilt by: addyosmani, nucliweb, federicobartoli, claude, ayobamiseun",
-        "trend_score": 86.73,
+        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1736\n\nTotal stars: 284492\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+        "trend_score": 81.86,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.807,
-          "topic_overlap": 0.333,
+          "engagement": 0.869,
+          "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -110,23 +78,23 @@
         "url": "https://github.com/boykopovar/AnyPS5",
         "author": "boykopovar",
         "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
         "language": "C++",
-        "score": 5868,
-        "comment_count": 1828,
-        "total_stars": 22469,
+        "score": 5805,
+        "comment_count": 2258,
+        "total_stars": 26842,
         "built_by": [
           "claude",
-          "boykopovar",
           "oneandonlydean",
           "adriadam10",
+          "boykopovar",
           "SamG-Coder"
         ],
-        "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 5868\n\nTotal stars: 22469\n\nBuilt by: claude, boykopovar, oneandonlydean, adriadam10, SamG-Coder",
-        "trend_score": 82.15,
+        "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 5805\n\nTotal stars: 26842\n\nBuilt by: claude, oneandonlydean, adriadam10, boykopovar, SamG-Coder",
+        "trend_score": 80.42,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.876,
+          "engagement": 0.831,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -142,11 +110,11 @@
         "url": "https://github.com/storytold/artcraft",
         "author": "storytold",
         "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
         "language": "Rust",
-        "score": 3752,
-        "comment_count": 1748,
-        "total_stars": 11566,
+        "score": 3222,
+        "comment_count": 2287,
+        "total_stars": 14494,
         "built_by": [
           "echelon",
           "bflatastic",
@@ -154,11 +122,11 @@
           "wilwong",
           "Quicksticks-oss"
         ],
-        "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 3752\n\nTotal stars: 11566\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
-        "trend_score": 81.05,
+        "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 3222\n\nTotal stars: 14494\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
+        "trend_score": 79.19,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.848,
+          "engagement": 0.799,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -173,12 +141,12 @@
         "title": "cathrynlavery/diagram-design",
         "url": "https://github.com/cathrynlavery/diagram-design",
         "author": "cathrynlavery",
-        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
+        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
         "language": "HTML",
-        "score": 1739,
-        "comment_count": 3035,
-        "total_stars": 47909,
+        "score": 1190,
+        "comment_count": 3092,
+        "total_stars": 48946,
         "built_by": [
           "cathrynlavery",
           "github-actions",
@@ -186,11 +154,11 @@
           "claude",
           "mvanhorn"
         ],
-        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1739\n\nTotal stars: 47909\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
-        "trend_score": 80.31,
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1190\n\nTotal stars: 48946\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
+        "trend_score": 77.59,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.828,
+          "engagement": 0.756,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -202,88 +170,24 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "anthropics/knowledge-work-plugins",
-        "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "author": "anthropics",
-        "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
+        "title": "hugohe3/ppt-master",
+        "url": "https://github.com/hugohe3/ppt-master",
+        "author": "hugohe3",
+        "summary": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
         "language": "Python",
-        "score": 709,
-        "comment_count": 3247,
-        "total_stars": 28278,
+        "score": 461,
+        "comment_count": 4681,
+        "total_stars": 59441,
         "built_by": [
-          "github-actions",
-          "jordanecker-ant",
-          "bryan-anthropic",
+          "hugohe3",
           "claude",
-          "mattpic-ant"
+          "shenqili",
+          "WodenJay",
+          "kevindesuyo"
         ],
-        "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 709\n\nTotal stars: 28278\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
-        "trend_score": 78.4,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.778,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "alibaba/open-code-review",
-        "url": "https://github.com/alibaba/open-code-review",
-        "author": "alibaba",
-        "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
-        "language": "Go",
-        "score": 326,
-        "comment_count": 3263,
-        "total_stars": 45257,
-        "built_by": [
-          "lizhengfeng101",
-          "wu21-web",
-          "chethanuk",
-          "stay-foolish-forever",
-          "Qiyuanqiii"
-        ],
-        "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 326\n\nTotal stars: 45257\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, stay-foolish-forever, Qiyuanqiii",
-        "trend_score": 76.65,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.732,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "BerriAI/litellm",
-        "url": "https://github.com/BerriAI/litellm",
-        "author": "BerriAI",
-        "summary": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
-        "language": "Python",
-        "score": 95,
-        "comment_count": 12190,
-        "total_stars": 60677,
-        "built_by": [
-          "ishaan-jaff",
-          "mateo-berri",
-          "devin-ai-integration",
-          "yuneng-berri",
-          "Sameerlite"
-        ],
-        "content_context": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]\n\nLanguage: Python\n\nStars today: 95\n\nTotal stars: 60677\n\nBuilt by: ishaan-jaff, mateo-berri, devin-ai-integration, yuneng-berri, Sameerlite",
-        "trend_score": 76.26,
+        "content_context": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\n\nLanguage: Python\n\nStars today: 461\n\nTotal stars: 59441\n\nBuilt by: hugohe3, claude, shenqili, WodenJay, kevindesuyo",
+        "trend_score": 76.28,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 0.722,
@@ -298,25 +202,123 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "Robbyant/lingbot-map",
-        "url": "https://github.com/Robbyant/lingbot-map",
-        "author": "Robbyant",
-        "summary": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-        "published_at": "2026-10-10T01:31:02.080152+00:00",
-        "language": "Python",
-        "score": 110,
-        "comment_count": 1951,
-        "total_stars": 17709,
+        "title": "flutter/flutter",
+        "url": "https://github.com/flutter/flutter",
+        "author": "flutter",
+        "summary": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
+        "language": "Dart",
+        "score": 88,
+        "comment_count": 33599,
+        "total_stars": 179518,
         "built_by": [
-          "LinZhuoChen",
-          "justimyhxu",
-          "claude"
+          "skia-flutter-autoroll",
+          "engine-flutter-autoroll",
+          "abarth",
+          "Hixie",
+          "jason-simmons"
         ],
-        "content_context": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction\n\nLanguage: Python\n\nStars today: 110\n\nTotal stars: 17709\n\nBuilt by: LinZhuoChen, justimyhxu, claude",
-        "trend_score": 73.27,
+        "content_context": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\n\nLanguage: Dart\n\nStars today: 88\n\nTotal stars: 179518\n\nBuilt by: skia-flutter-autoroll, engine-flutter-autoroll, abarth, Hixie, jason-simmons",
+        "trend_score": 76.13,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.643,
+          "engagement": 0.718,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pytorch/pytorch",
+        "url": "https://github.com/pytorch/pytorch",
+        "author": "pytorch",
+        "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
+        "language": "Python",
+        "score": 84,
+        "comment_count": 31955,
+        "total_stars": 104140,
+        "built_by": [
+          "pytorchmergebot",
+          "malfet",
+          "ezyang",
+          "zou3519",
+          "cyyever"
+        ],
+        "content_context": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\nLanguage: Python\n\nStars today: 84\n\nTotal stars: 104140\n\nBuilt by: pytorchmergebot, malfet, ezyang, zou3519, cyyever",
+        "trend_score": 75.95,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.713,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "tensorflow/tensorflow",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "author": "tensorflow",
+        "summary": "An Open Source Machine Learning Framework for Everyone",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
+        "language": "C++",
+        "score": 26,
+        "comment_count": 78964,
+        "total_stars": 200726,
+        "built_by": [
+          "tensorflower-gardener",
+          "ezhulenev",
+          "akuegel",
+          "hawkinsp",
+          "mihaimaruseac"
+        ],
+        "content_context": "An Open Source Machine Learning Framework for Everyone\n\nLanguage: C++\n\nStars today: 26\n\nTotal stars: 200726\n\nBuilt by: tensorflower-gardener, ezhulenev, akuegel, hawkinsp, mihaimaruseac",
+        "trend_score": 75.05,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.689,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "author": "mksglu",
+        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "published_at": "2026-10-11T00:40:12.381931+00:00",
+        "language": "TypeScript",
+        "score": 178,
+        "comment_count": 1892,
+        "total_stars": 26315,
+        "built_by": [
+          "mksglu",
+          "github-actions",
+          "claude",
+          "ipedro",
+          "ousamabenyounes"
+        ],
+        "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 178\n\nTotal stars: 26315\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
+        "trend_score": 72.72,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.628,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -331,28 +333,21 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: Faplex – like `Claude agents` but all machines and harnesses",
-        "url": "https://github.com/kkrausse/faplex",
-        "author": "kkrausse",
-        "score": 3,
-        "comment_count": 1,
-        "published_at": "2026-10-10T01:06:03+00:00",
-        "summary": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex",
-        "comment_highlights": [
-          "Faplex ?"
-        ],
-        "linked_context": {
-          "resolved_url": "https://github.com/kkrausse/faplex",
-          "page_title": "GitHub - kkrausse/faplex: Like `claude agents`, but for Claude, Codex and OpenCode on all your machines",
-          "page_description": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex",
-          "page_excerpt": "Like claude agents , but for all your harnesses and machines.\n\nF ake a gent (multi) plex er: a status list for the Claude Code, Codex and OpenCode sessions you already have, on every machine you can ssh to. Fake because it multiplexes nothing. The harnesses keep their own sessions running; faplex reads what they report and opens the harness's own CLI on the row you pick.\n\nfaplex runs on Bun . Started through npm or npx it finds the bun on your PATH, and tells you how to install it if there is none."
-        },
-        "content_context": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex\n\nLike claude agents , but for all your harnesses and machines. F ake a gent (multi) plex er: a status list for the Claude Code, Codex and OpenCode sessions you already have, on every machine you can ssh to. Fake because it multiplexes nothing. The harnesses keep their own sessions running; faplex reads what they report and opens the harness's own CLI on the row you pick. faplex runs on Bun . Started through npm or npx it finds the bun on your PATH, and tells you how to install it if there is none.\n\nHN comment: Faplex ?",
-        "trend_score": 53.62,
+        "title": "Ask HN: Why aren't Americans rising up against tipping?",
+        "url": "https://news.ycombinator.com/item?id=50038458",
+        "author": "bjourne",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:20:23+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": "I've read lots of articles about how Americans hate their tipping culture. But tipping is optional so why don't they just stop? If you don't tip you both help society improve and you save money. Win-win.",
+        "trend_score": 52.45,
         "trend_breakdown": {
-          "freshness": 0.983,
-          "engagement": 0.116,
-          "topic_overlap": 0.111,
+          "freshness": 0.986,
+          "engagement": 0.061,
+          "topic_overlap": 0.143,
           "source_weight": 0.9,
           "domain_weight": 1.18
         },
@@ -363,45 +358,85 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "We Can Harden C",
-        "url": "https://cybersect.substack.com/p/we-can-harden-c",
-        "author": "otoburb",
-        "score": 1,
+        "title": "The 'black box' wastewater trade that rakes in millions for UK utility companies",
+        "url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+        "author": "cisc",
+        "score": 2,
         "comment_count": 0,
-        "published_at": "2026-10-10T01:09:07+00:00",
-        "summary": null,
+        "published_at": "2026-10-11T00:13:03+00:00",
+        "summary": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants",
         "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 50.18,
-        "trend_breakdown": {
-          "freshness": 0.985,
-          "engagement": 0.041,
-          "topic_overlap": 0.5,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
+        "linked_context": {
+          "resolved_url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+          "page_title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+          "page_description": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants",
+          "page_excerpt": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants\n\nWater companies in the UK made more than £340m in revenue last year by pouring billions of litres of industrial and commercial wastewater into sewage treatment works that experts say are not designed to remove most chemicals, leaving pollutants to pass into rivers, seas and farmland.\n\nWater companies in England are required by law to take industrial wastewater and issue permits called “trade-effluent consents” that allow businesses to send it to sewage works, though water companies can refuse applications."
         },
-        "domains": []
+        "content_context": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants\n\nExclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants Water companies in the UK made more than £340m in revenue last year by pouring billions of litres of industrial and commercial wastewater into sewage treatment works that experts say are not designed to remove most chemicals, leaving pollutants to pass into rivers, seas and farmland. Water companies in England are required by law to take industrial wastewater and issue permits called “trade-effluent consents” that allow businesses to send it to sewage works, though water companies can refuse applications.",
+        "trend_score": 50.07,
+        "trend_breakdown": {
+          "freshness": 0.981,
+          "engagement": 0.061,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "How to connect any AI assistant to governed enterprise data with MCP",
-        "url": "https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231",
-        "author": "wesleydias",
+        "title": "Supreme Court: 401(k) case over private funds and underperformance",
+        "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+        "author": "cramer4next",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-10T00:56:58+00:00",
-        "summary": "[flagged]",
-        "comment_highlights": [
-          "[flagged]"
-        ],
-        "linked_context": {},
-        "content_context": "HN comment: [flagged]",
-        "trend_score": 48.19,
+        "published_at": "2026-10-11T00:24:28+00:00",
+        "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+          "page_title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+          "page_description": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+          "page_excerpt": "The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.\n\nMany plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.\n\n\"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies,\" said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking D..."
+        },
+        "content_context": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.\n\nThe Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s. Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products. \"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies,\" said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking D...",
+        "trend_score": 49.62,
         "trend_breakdown": {
-          "freshness": 0.976,
-          "engagement": 0.041,
+          "freshness": 0.989,
+          "engagement": 0.039,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Veda: The First Agentic Hobby Operating System",
+        "url": "https://github.com/vahmoh25/Veda",
+        "author": "vahmohh",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:22:33+00:00",
+        "summary": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/vahmoh25/Veda",
+          "page_title": "GitHub - vahmoh25/Veda: The Agentic-Native Operating System",
+          "page_description": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.",
+          "page_excerpt": "Veda is an operating system with an AI agent built into it — not an assistant added to a desktop, but a part of the system that every application is made to work with. You talk to it the way you would talk to someone in the room — \"Hey Veda, switch my wallpaper to the dunes\" — and it does the work through the same operations as your keyboard and mouse, in any application, and asks you before an...\n\nEverything is written from scratch in Rust and lives in this repository: the UEFI bootloader, a capability-based microkernel, the drivers, the system services, the window system, the toolkit and the applications. A few mature crates provide the TCP/IP engine, TLS and cryptography (smoltcp, rustls, RustCrypto). Veda runs on x86-64 PCs and in QEMU.\n\nOperating systems were designed for a person at a keyboard. An assistant added to one later usually has to read the screen, imitate clicks or make do with the few applications that offer an API, and the system has no say in what it does. Veda tu..."
+        },
+        "content_context": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.\n\nVeda is an operating system with an AI agent built into it — not an assistant added to a desktop, but a part of the system that every application is made to work with. You talk to it the way you would talk to someone in the room — \"Hey Veda, switch my wallpaper to the dunes\" — and it does the work through the same operations as your keyboard and mouse, in any application, and asks you before an... Everything is written from scratch in Rust and lives in this repository: the UEFI bootloader, a capability-based microkernel, the drivers, the system services, the window system, the toolkit and the applications. A few mature crates provide the TCP/IP engine, TLS and cryptography (smoltcp, rustls, RustCrypto). Veda runs on x86-64 PCs and in QEMU. Operating systems were designed for a person at a keyboard. An assistant added to one later usually has to read the screen, imitate clicks or make do with the few applications that offer an API, and the system has no say in what it does. Veda tu...",
+        "trend_score": 49.49,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.061,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.18
@@ -413,197 +448,164 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Should I Hire a Dev or Can I Vibecode This?",
-        "url": "https://vibecodeornot.pixlw.com/",
-        "author": "altmanaltman",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-10-10T01:01:31+00:00",
-        "summary": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.",
-        "comment_highlights": [
-          "Meant for non-technical users who are building their own things (a lot these days) to understand if their current big idea is safe to vibecode and if its worth it to hire a professional instead."
-        ],
+        "title": "A minimal Rust TUI for managing GitHub repos and branches",
+        "url": "https://github.com/jorgeandrecastro/github-workflow",
+        "author": "drew0670",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:17:30+00:00",
+        "summary": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
+        "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://vibecodeornot.pixlw.com/",
-          "page_title": "Should I Hire a Dev or Can I Vibecode This?",
-          "page_description": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.",
+          "resolved_url": "https://github.com/jorgeandrecastro/github-workflow",
+          "page_title": "GitHub - jorgeandrecastro/github-workflow",
+          "page_description": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
           "page_excerpt": null
         },
-        "content_context": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.\n\nHN comment: Meant for non-technical users who are building their own things (a lot these days) to understand if their current big idea is safe to vibecode and if its worth it to hire a professional instead.",
-        "trend_score": 45.61,
-        "trend_breakdown": {
-          "freshness": 0.979,
-          "engagement": 0.074,
-          "topic_overlap": 0.2,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "I own you but I don't trust you",
-        "url": "https://axegon.com/#blog/i-own-you-but-i-dont-trust-you.md",
-        "author": "extr0pian",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-10T01:29:40+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://axegon.com/#blog/i-own-you-but-i-dont-trust-you.md",
-          "page_title": null,
-          "page_description": null,
-          "page_excerpt": null
-        },
-        "content_context": null,
-        "trend_score": 45.36,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.041,
-          "topic_overlap": 0.2,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "GlobalFoundries announces 7nm class FD-SOI process",
-        "url": "https://gf.com/news-and-events/news/gf-unveils-roadmap-to-deliver-worlds-most-advanced-platform-for-physical-ai/",
-        "author": "osnium123",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-10T00:57:10+00:00",
-        "summary": "New FDX Fusion platform extends GF's FD-SOI leadership with single-digit nanometer digital performance optimized for the physical world",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://gf.com/news-and-events/news/gf-unveils-roadmap-to-deliver-worlds-most-advanced-platform-for-physical-ai/",
-          "page_title": "GF unveils roadmap to deliver the world's most advanced FD-SOI platform for Physical AI | GlobalFoundries",
-          "page_description": "New FDX Fusion platform extends GF's FD-SOI leadership with single-digit nanometer digital performance optimized for the physical world",
-          "page_excerpt": "New FDX Fusion platform extends GF’s FD-SOI leadership as the first process technology in Europe to deliver single-digit nanometer digital performance optimized for the physical world\n\nDRESDEN, Germany, Oct. 9, 2026 – GlobalFoundries (Nasdaq: GFS) (GF) today unveiled plans for its new FDX Fusion ™ FD-SOI platform, purpose-built for the evolving requirements of Physical AI. Designed to be the world’s most advanced FD-SOI technology, FDX Fusion will bring leading features and performance for the unique requirements of STAC (Sense, Think, Act, Communicate) workloads. The company...\n\nThe first generation of FDX Fusion technology is expected to deliver seven nanometer class digital performance and is being developed from the ground up as the next major extension of GF’s FDX ™ FD-SOI roadmap. By combining advanced substrate engineering, front-end transistor innovation and back-end interconnect and integration capabilities with exceptional RF performance up to 0.5 THz ft/fmax,..."
-        },
-        "content_context": "New FDX Fusion platform extends GF's FD-SOI leadership with single-digit nanometer digital performance optimized for the physical world\n\nNew FDX Fusion platform extends GF’s FD-SOI leadership as the first process technology in Europe to deliver single-digit nanometer digital performance optimized for the physical world DRESDEN, Germany, Oct. 9, 2026 – GlobalFoundries (Nasdaq: GFS) (GF) today unveiled plans for its new FDX Fusion ™ FD-SOI platform, purpose-built for the evolving requirements of Physical AI. Designed to be the world’s most advanced FD-SOI technology, FDX Fusion will bring leading features and performance for the unique requirements of STAC (Sense, Think, Act, Communicate) workloads. The company... The first generation of FDX Fusion technology is expected to deliver seven nanometer class digital performance and is being developed from the ground up as the next major extension of GF’s FDX ™ FD-SOI roadmap. By combining advanced substrate engineering, front-end transistor innovation and back-end interconnect and integration capabilities with exceptional RF performance up to 0.5 THz ft/fmax,...",
-        "trend_score": 43.85,
-        "trend_breakdown": {
-          "freshness": 0.976,
-          "engagement": 0.041,
-          "topic_overlap": 0.167,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "1.7B-year-old fossils reveal a crucial clue to the rise of complex life",
-        "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-        "author": "docmechanic",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-10-10T01:02:29+00:00",
-        "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simpler microbes instead. The findings strengthen the idea that oxygen played a crucial role in the emergence of complex life.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-          "page_title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-          "page_description": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simpler microbes instead. The findings strengthen the idea that oxygen played a crucial role in the emergence of complex life.",
-          "page_excerpt": "Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of metres below the surface by mineral exploration companies decades ago.\n\nSome of these cores at the Northern Territory Geological Survey are mudstone – a type of sedimentary rock formed from hardened seafloor mud. The companies that drilled these cores were largely unaware that within these mudstones were fossils of microscopic organisms buried on the seafloor of an ancient inland sea that covered much of northern Australia over 1.5 billion years ago.\n\nAs our new study , published in Nature , shows, these fossils are crucial for addressing a longstanding puzzle about the major evolutionary leap that led to all complex life on Earth: the origin of eukaryotes."
-        },
-        "content_context": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simpler microbes instead. The findings strengthen the idea that oxygen played a crucial role in the emergence of complex life.\n\nStored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from drill holes bored hundreds of metres below the surface by mineral exploration companies decades ago. Some of these cores at the Northern Territory Geological Survey are mudstone – a type of sedimentary rock formed from hardened seafloor mud. The companies that drilled these cores were largely unaware that within these mudstones were fossils of microscopic organisms buried on the seafloor of an ancient inland sea that covered much of northern Australia over 1.5 billion years ago. As our new study , published in Nature , shows, these fossils are crucial for addressing a longstanding puzzle about the major evolutionary leap that led to all complex life on Earth: the origin of eukaryotes.",
-        "trend_score": 42.3,
-        "trend_breakdown": {
-          "freshness": 0.98,
-          "engagement": 0.083,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Substrate Independence",
-        "url": "https://www.edge.org/response-detail/27126",
-        "author": "sans_souse",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-10T01:26:36+00:00",
-        "summary": "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.\n\nThis website is hosted in perpetuity by the Internet Archive.\n\nWhat do waves, computations and conscious experiences have in common, that provides crucial clues about the future of intelligence? They all share an intriguing ability to take on a life of their own that’s rather independent of their physical substrate.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.edge.org/response-detail/27126",
-          "page_title": "Edge.org",
-          "page_description": null,
-          "page_excerpt": "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.\n\nThis website is hosted in perpetuity by the Internet Archive.\n\nWhat do waves, computations and conscious experiences have in common, that provides crucial clues about the future of intelligence? They all share an intriguing ability to take on a life of their own that’s rather independent of their physical substrate."
-        },
-        "content_context": "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves. This website is hosted in perpetuity by the Internet Archive. What do waves, computations and conscious experiences have in common, that provides crucial clues about the future of intelligence? They all share an intriguing ability to take on a life of their own that’s rather independent of their physical substrate.",
-        "trend_score": 41.68,
-        "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.041,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Stride – 25 minutes a day to make progress on your career",
-        "url": "https://www.withstride.app/",
-        "author": "LoganHoang",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-10T01:12:12+00:00",
-        "summary": "Stride AI shows university students what to do next: skills to learn, events to join, people to meet, and work to save in a career portfolio.",
-        "comment_highlights": [
-          "[flagged]"
-        ],
-        "linked_context": {
-          "resolved_url": "https://www.withstride.app/",
-          "page_title": "Stride AI | Career Roadmap for University Students",
-          "page_description": "Stride AI shows university students what to do next: skills to learn, events to join, people to meet, and work to save in a career portfolio.",
-          "page_excerpt": null
-        },
-        "content_context": "Stride AI shows university students what to do next: skills to learn, events to join, people to meet, and work to save in a career portfolio.\n\nHN comment: [flagged]",
-        "trend_score": 41.27,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.041,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "The Atari 800XL [2027 Hybrid Gaming Console]",
-        "url": "https://atari.com/pages/800xl",
-        "author": "radley",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-10T01:07:27+00:00",
-        "summary": "A recreation of the classic Atari 8-bit computer, featuring 25 built-in games, a full-size mechanical keyboard, working cartridge slot, and HDMI output. Pre-order now.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://atari.com/pages/800xl",
-          "page_title": "THE 800XL: Atari 8-Bit Computer Recreation",
-          "page_description": "A recreation of the classic Atari 8-bit computer, featuring 25 built-in games, a full-size mechanical keyboard, working cartridge slot, and HDMI output. Pre-order now.",
-          "page_excerpt": "A recreation of the classic Atari 8-bit computer, featuring 25 built-in games, a full-size mechanical keyboard, working cartridge slot, HDMI output, and more. Includes the THECXSTICK 8-button joystick.\n\nExperience the classic Atari 8-bit computer, now with HDMI output, 25 built-in games, and other modern updates. The 800XL retains the look and feel of the original, including a full-sized mechanical keyboard, baked in Atari BASIC, and a working cartridge slot, while adding features designed for modern displays and gaming setups.\n\nIncludes updated THECXSTICK, a modern recreation of the joystick with eight buttons. Connect additional controllers and USB storage devices via four USB-A ports."
-        },
-        "content_context": "A recreation of the classic Atari 8-bit computer, featuring 25 built-in games, a full-size mechanical keyboard, working cartridge slot, and HDMI output. Pre-order now.\n\nA recreation of the classic Atari 8-bit computer, featuring 25 built-in games, a full-size mechanical keyboard, working cartridge slot, HDMI output, and more. Includes the THECXSTICK 8-button joystick. Experience the classic Atari 8-bit computer, now with HDMI output, 25 built-in games, and other modern updates. The 800XL retains the look and feel of the original, including a full-sized mechanical keyboard, baked in Atari BASIC, and a working cartridge slot, while adding features designed for modern displays and gaming setups. Includes updated THECXSTICK, a modern recreation of the joystick with eight buttons. Connect additional controllers and USB storage devices via four USB-A ports.",
-        "trend_score": 41.14,
+        "content_context": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
+        "trend_score": 49.32,
         "trend_breakdown": {
           "freshness": 0.984,
-          "engagement": 0.041,
+          "engagement": 0.061,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Stop Reaching for WebSockets by Default: WebSockets vs. SSE vs. Long Polling",
+        "url": "https://medium.com/@anirbansingha20/websockets-vs-long-polling-vs-server-sent-events-fa9bc1644cb8",
+        "author": "birdculture",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:30:08+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.58,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.039,
+          "topic_overlap": 0.286,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Microsoft Launches Surface Laptop Ultra, Surface RTX Spark Dev Box",
+        "url": "https://www.servethehome.com/microsoft-launches-surface-laptop-ultra-surface-rtx-spark-dev-box/",
+        "author": "teleforce",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:20:40+00:00",
+        "summary": "Microsoft today launched its first two NVIDIA RTX Spark-powered systems, the Surface Laptop Ultra and Surface RTX Spark Dev box. Aimed at developers and other professionals, the high-end systems offer a fresh face to NVIDIA and Microsoft's Arm ecosystem efforts",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.servethehome.com/microsoft-launches-surface-laptop-ultra-surface-rtx-spark-dev-box/",
+          "page_title": "Microsoft Launches Surface Laptop Ultra, Surface RTX Spark Dev Box",
+          "page_description": "Microsoft today launched its first two NVIDIA RTX Spark-powered systems, the Surface Laptop Ultra and Surface RTX Spark Dev box. Aimed at developers and other professionals, the high-end systems offer a fresh face to NVIDIA and Microsoft's Arm ecosystem efforts",
+          "page_excerpt": "Microsoft today has formally launched its Surface Laptop Ultra, the first in a series of developer-focused machines from the company that are based around NVIDIA’s RTX Spark processor . The consumer iteration of NVIDIA’s GB10 chip, which has been gracing Linux-based AI mini-PCs for the past year as part of NVIDIA’s DGX Spark ecosystem, RTX Spark marks the chip’s formal entrance into the consume...\n\nItself the new face of Microsoft’s high-end laptop lineup, the Surface Laptop Ultra is a fresh effort to jump-start the Windows-on-Arm ecosystem with some powerful mobile hardware, all the while serving as Microsoft’s latest effort to woo developers and impress upon them the importance of developing for Arm, and not just for x86. The new Surface laptop is also a fresh broadside at perennial riv...\n\nConsequently, the Surface Laptop Ultra is set to become an important product for Microsoft on multiple levels. Even though it is not a laptop for the broadest parts of the consumer market – wit..."
+        },
+        "content_context": "Microsoft today launched its first two NVIDIA RTX Spark-powered systems, the Surface Laptop Ultra and Surface RTX Spark Dev box. Aimed at developers and other professionals, the high-end systems offer a fresh face to NVIDIA and Microsoft's Arm ecosystem efforts\n\nMicrosoft today has formally launched its Surface Laptop Ultra, the first in a series of developer-focused machines from the company that are based around NVIDIA’s RTX Spark processor . The consumer iteration of NVIDIA’s GB10 chip, which has been gracing Linux-based AI mini-PCs for the past year as part of NVIDIA’s DGX Spark ecosystem, RTX Spark marks the chip’s formal entrance into the consume... Itself the new face of Microsoft’s high-end laptop lineup, the Surface Laptop Ultra is a fresh effort to jump-start the Windows-on-Arm ecosystem with some powerful mobile hardware, all the while serving as Microsoft’s latest effort to woo developers and impress upon them the importance of developing for Arm, and not just for x86. The new Surface laptop is also a fresh broadside at perennial riv... Consequently, the Surface Laptop Ultra is set to become an important product for Microsoft on multiple levels. Even though it is not a laptop for the broadest parts of the consumer market – wit...",
+        "trend_score": 43.17,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.039,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Pulp Cover Treatments of Classic Works of Literature",
+        "url": "https://lithub.com/50-pulp-cover-treatments-of-classic-works-of-literature/",
+        "author": "ohjeez",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:24:10+00:00",
+        "summary": "Last month at CrimeReads, Rebecca Romney looked at a few classic detective novels that had, at one time or another, gotten makeovers as sexy pulps—because as we all know, the easiest way to sell so…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://lithub.com/50-pulp-cover-treatments-of-classic-works-of-literature/",
+          "page_title": "50 Pulp Cover Treatments of Classic Works of Literature",
+          "page_description": "Last month at CrimeReads, Rebecca Romney looked at a few classic detective novels that had, at one time or another, gotten makeovers as sexy pulps—because as we all know, the easiest way to sell so…",
+          "page_excerpt": "Last month at CrimeReads , Rebecca Romney looked at a few classic detective novels that had, at one time or another, gotten makeovers as sexy pulps—because as we all know, the easiest way to sell something is to make it look salacious (whether it actually is or not). But it isn’t only great detective novels that have gotten the pulp treatment. Classic works of literary fiction have existed as p...\n\nEmily Temple is the managing editor at Lit Hub. Her first novel, The Lightness , was published by William Morrow/HarperCollins in June 2020. You can buy it here.\n\nIf you buy books linked on our site, Lit Hub may earn a commission from Bookshop.org , whose fees support independent bookstores."
+        },
+        "content_context": "Last month at CrimeReads, Rebecca Romney looked at a few classic detective novels that had, at one time or another, gotten makeovers as sexy pulps—because as we all know, the easiest way to sell so…\n\nLast month at CrimeReads , Rebecca Romney looked at a few classic detective novels that had, at one time or another, gotten makeovers as sexy pulps—because as we all know, the easiest way to sell something is to make it look salacious (whether it actually is or not). But it isn’t only great detective novels that have gotten the pulp treatment. Classic works of literary fiction have existed as p... Emily Temple is the managing editor at Lit Hub. Her first novel, The Lightness , was published by William Morrow/HarperCollins in June 2020. You can buy it here. If you buy books linked on our site, Lit Hub may earn a commission from Bookshop.org , whose fees support independent bookstores.",
+        "trend_score": 42.49,
+        "trend_breakdown": {
+          "freshness": 0.989,
+          "engagement": 0.078,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
+        "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+        "author": "Boardsy",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:26:53+00:00",
+        "summary": "Use our Free Exhibition Display Tools to size, spec and cost your LED display before you buy | No sign-up required | Boardsy",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+          "page_title": "Free Exhibition Display Tools - Boardsy",
+          "page_description": "Use our Free Exhibition Display Tools to size, spec and cost your LED display before you buy | No sign-up required | Boardsy",
+          "page_excerpt": "Need a quote? Our team will spec this exactly for your space.\n\nNot sure which pitch? We will recommend the right screen for your budget.\n\nReady to plan your stand? Get a full spec and quote from Boardsy."
+        },
+        "content_context": "Use our Free Exhibition Display Tools to size, spec and cost your LED display before you buy | No sign-up required | Boardsy\n\nNeed a quote? Our team will spec this exactly for your space. Not sure which pitch? We will recommend the right screen for your budget. Ready to plan your stand? Get a full spec and quote from Boardsy.\n\nHN comment: [flagged]",
+        "trend_score": 42.06,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.061,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "'We cannot accept foxes in our landscape': the plan to save Australia's wildlife",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/11/fox-australia-threatened-native-species-wildlife-national-plan",
+        "author": "cisc",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-11T00:18:26+00:00",
+        "summary": "Draft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.theguardian.com/australia-news/2026/oct/11/fox-australia-threatened-native-species-wildlife-national-plan",
+          "page_title": "‘We cannot accept foxes as part of our landscape’: the plan to save Australia’s threatened wildlife",
+          "page_description": "Draft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk",
+          "page_excerpt": "Draft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nThey dart across playgrounds on dainty paws, sneak into back yard coops to eat suburban chickens and kill more than a million native animals every day."
+        },
+        "content_context": "Draft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk\n\nDraft national strategy accepts the wily invasive species can’t be eradicated but outlines steps to protect native animals most at risk Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here They dart across playgrounds on dainty paws, sneak into back yard coops to eat suburban chickens and kill more than a million native animals every day.",
+        "trend_score": 41.11,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.039,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -613,48 +615,72 @@
     ],
     "news": [
       {
-        "source": "The Washington Post",
+        "source": "AP News",
         "category": "news",
-        "title": "ICE shooting stirs fresh clash between Trump officials and New York City - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2FoczZvR1UxR3lvOXRYS3NsbXk5ekNBTV9pdmJqWkY4QUU1TnVDVXU2TFhXVFREVmlsSG4tNkFHcGNrcXJRcC1uZUtCMS1ZcXlhZDZrWG9aNTVNU2pJQlhjZ1hGd0w1YkdvWE4ya3FibGI0OWtmX1lmSWlzWDFJbUpISU1idlFOdUZaZjgzZ1luNjZRdFY1Nk9NZ29KYmp0UUF3aVdaMzRickFJR05sYjBYOG5ESzAtZ0RJMlg5T0I?oc=5",
-        "published_at": "2026-10-10T01:03:11+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE shooting stirs fresh clash between Trump officials and New York City；ICE shooting NYC: Judge blocks deportation of Oscar Belgal shot by agents in Marble Hill；US immigration officials defend ICE agents who shot man while his child was in the car。",
+        "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+        "published_at": "2026-10-10T21:50:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say；See more headlines & perspectives on Google News。",
         "related_headlines": [
-          "ICE shooting stirs fresh clash between Trump officials and New York City",
-          "ICE shooting NYC: Judge blocks deportation of Oscar Belgal shot by agents in Marble Hill",
-          "US immigration officials defend ICE agents who shot man while his child was in the car",
-          "ICE agent fires 7 rounds, shoots man in neck in NYC's Marble Hill, NYPD says",
-          "Mamdani’s Ability to Persuade Trump Hits Limit in Wake of ICE Shooting"
+          "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
+          "See more headlines & perspectives on Google News"
         ],
-        "content_context": "ICE shooting stirs fresh clash between Trump officials and New York City - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE shooting stirs fresh clash between Trump officials and New York City；ICE shooting NYC: Judge blocks deportation of Oscar Belgal shot by agents in Marble Hill；US immigration officials defend ICE agents who shot man while his child was in the car。\n\nRelated coverage: ICE shooting stirs fresh clash between Trump officials and New York City\n\nRelated coverage: ICE shooting NYC: Judge blocks deportation of Oscar Belgal shot by agents in Marble Hill\n\nRelated coverage: US immigration officials defend ICE agents who shot man while his child was in the car\n\nRelated coverage: ICE agent fires 7 rounds, shoots man in neck in NYC's Marble Hill, NYPD says\n\nRelated coverage: Mamdani’s Ability to Persuade Trump Hits Limit in Wake of ICE Shooting",
-        "trend_score": 41.45,
+        "content_context": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say；See more headlines & perspectives on Google News。\n\nRelated coverage: Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 39.74,
         "trend_breakdown": {
-          "freshness": 0.981,
+          "freshness": 0.882,
           "engagement": 0.0,
-          "topic_overlap": 0.385,
+          "topic_overlap": 0.5,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "Axios",
         "category": "news",
-        "title": "Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPc2NOTmVTTjdyM092d2VoNnRrWlNnQjlMQUVlYXJqUE9FWWg0TmNhaFZPZ3o4NVZMSmI0Mk0wRnVHYWc4VVNqcGlPcWhaU2w0TFJGNmdZeXhfamNnN3RvLTllNXYwekUzc1ROVGVR?oc=5",
-        "published_at": "2026-10-10T01:15:00+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race；James Talarico resurfaces after extended absence as his campaign pushes back；Trump wants Talarico and Paxton to debate. Talarico couldn’t be happier。",
+        "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
+        "published_at": "2026-10-10T21:54:31+00:00",
+        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：House Republican, invoking Reagan, moves to block Trump's Russia oil deal；Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick；Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms。",
         "related_headlines": [
-          "Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race",
-          "James Talarico resurfaces after extended absence as his campaign pushes back",
-          "Trump wants Talarico and Paxton to debate. Talarico couldn’t be happier",
-          "Spencer Pratt says he was told Democratic candidate Talarico is in mental health facility",
-          "James Talarico appears at Austin City Limits, nine days after he was last seen publicly on campaign trail"
+          "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+          "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
+          "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+          "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
+          "Trump Is an Easy Mark for Putin"
         ],
-        "content_context": "Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race；James Talarico resurfaces after extended absence as his campaign pushes back；Trump wants Talarico and Paxton to debate. Talarico couldn’t be happier。\n\nRelated coverage: Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race\n\nRelated coverage: James Talarico resurfaces after extended absence as his campaign pushes back\n\nRelated coverage: Trump wants Talarico and Paxton to debate. Talarico couldn’t be happier\n\nRelated coverage: Spencer Pratt says he was told Democratic candidate Talarico is in mental health facility\n\nRelated coverage: James Talarico appears at Austin City Limits, nine days after he was last seen publicly on campaign trail",
-        "trend_score": 40.52,
+        "content_context": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：House Republican, invoking Reagan, moves to block Trump's Russia oil deal；Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick；Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms。\n\nRelated coverage: House Republican, invoking Reagan, moves to block Trump's Russia oil deal\n\nRelated coverage: Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick\n\nRelated coverage: Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms\n\nRelated coverage: Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia\n\nRelated coverage: Trump Is an Easy Mark for Putin",
+        "trend_score": 39.63,
         "trend_breakdown": {
-          "freshness": 0.989,
+          "freshness": 0.885,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEpJbk0xd0tQeDlVR2ZvWXFnZDJyUldHTnRDV0hmaC1XOWZUbGdELW0zbTBVR3dTVWM2SGk2SDIxWVRhcjFCV2ZuR3VhYjBzbVNuZTNxaGlYQmY4Vk5lREgtX3VVV0prMXhYVW4tdVE3aDFpZTJrSjRYUTNLZjVaUGtR?oc=5",
+        "published_at": "2026-10-10T23:14:41+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say；Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes；Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis。",
+        "related_headlines": [
+          "Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say",
+          "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+          "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+          "Attack on Saudi airport leaves at least 12 dead, 309 wounded",
+          "Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World"
+        ],
+        "content_context": "Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say；Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes；Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis。\n\nRelated coverage: Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say\n\nRelated coverage: Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes\n\nRelated coverage: Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis\n\nRelated coverage: Attack on Saudi airport leaves at least 12 dead, 309 wounded\n\nRelated coverage: Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World",
+        "trend_score": 38.78,
+        "trend_breakdown": {
+          "freshness": 0.941,
           "engagement": 0.0,
           "topic_overlap": 0.308,
           "source_weight": 0.8,
@@ -663,25 +689,25 @@
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "Politico",
         "category": "news",
-        "title": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEZSTjhVeXlNb3otR1VDRE9jZW9ibmhKX1RlcDBvbndBMTlKODFNQk1TVWJTM2VocWd6SWRHOTgxQ2d5czgxZWV2X0hXbGk0MldPaDBORXRhMTN0WUlEY0hpbkdNQU13R3VfOVhRb21SbXhPMmF6T0dWYmVoUkZGcF9R?oc=5",
-        "published_at": "2026-10-09T21:25:46+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Paxton Said in Deposition That Donor Gave Him Stocks to Please God；Court fight over Paxton records escalates Texas Senate battle；Must-Win MAGA Candidate Exposed Blaming Wife in Fraud Probe。",
+        "title": "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader - Politico",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTVXT0VxQ0RQbUVXbjN2SEg5bnBITl94U0plVEtzZTdYMnM1RE1YUE94aUd2SmlhU2UxMGhvMkNTNGxYS19RSFpMMGNtZjdFNmE2U09WVWxwRC00RVc5TUhmMnpjN0p3YVFlX2JzWUEwcm1HYUFwWnZkRTVnVktNRjQzS2VPME0?oc=5",
+        "published_at": "2026-10-10T18:41:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader；Trump says Ukraine needs a new leader after diesel deal with Russia；Trump calls for replacing Ukraine’s Zelenskyy in tussle over Russian diesel deal。",
         "related_headlines": [
-          "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
-          "Court fight over Paxton records escalates Texas Senate battle",
-          "Must-Win MAGA Candidate Exposed Blaming Wife in Fraud Probe",
-          "Ken Paxton faced questions about wealth and investment tactics in 2014 deposition, Lauren McGaughy reveals",
-          "Bombshell deposition surfaces from scandal that got Ken Paxton indicted for fraud"
+          "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader",
+          "Trump says Ukraine needs a new leader after diesel deal with Russia",
+          "Trump calls for replacing Ukraine’s Zelenskyy in tussle over Russian diesel deal",
+          "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "Trump tells Ukraine to replace Zelensky over Russia fuel deal"
         ],
-        "content_context": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Paxton Said in Deposition That Donor Gave Him Stocks to Please God；Court fight over Paxton records escalates Texas Senate battle；Must-Win MAGA Candidate Exposed Blaming Wife in Fraud Probe。\n\nRelated coverage: Paxton Said in Deposition That Donor Gave Him Stocks to Please God\n\nRelated coverage: Court fight over Paxton records escalates Texas Senate battle\n\nRelated coverage: Must-Win MAGA Candidate Exposed Blaming Wife in Fraud Probe\n\nRelated coverage: Ken Paxton faced questions about wealth and investment tactics in 2014 deposition, Lauren McGaughy reveals\n\nRelated coverage: Bombshell deposition surfaces from scandal that got Ken Paxton indicted for fraud",
-        "trend_score": 38.61,
+        "content_context": "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader；Trump says Ukraine needs a new leader after diesel deal with Russia；Trump calls for replacing Ukraine’s Zelenskyy in tussle over Russian diesel deal。\n\nRelated coverage: Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader\n\nRelated coverage: Trump says Ukraine needs a new leader after diesel deal with Russia\n\nRelated coverage: Trump calls for replacing Ukraine’s Zelenskyy in tussle over Russian diesel deal\n\nRelated coverage: 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n\nRelated coverage: Trump tells Ukraine to replace Zelensky over Russia fuel deal",
+        "trend_score": 36.5,
         "trend_breakdown": {
-          "freshness": 0.83,
+          "freshness": 0.75,
           "engagement": 0.0,
-          "topic_overlap": 0.25,
+          "topic_overlap": 0.312,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -692,21 +718,21 @@
       {
         "source": "BBC",
         "category": "news",
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBienVVTnRKNXU2d0JqVGJDU3ljYlpadlltOE1jc3pkb3pacGFpQXhXUzZ5OUJESU5mUmdXekZ3eFNMeF8xajBwdHlYLUJNcFJqOE9ldHNXYXhVVXc?oc=5",
-        "published_at": "2026-10-10T00:45:51+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'；Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts；Trump strikes deal with Putin for Russian diesel。",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9waTZsVlNtdUJ0VTNrSW5fdHhGNDlza08wTWN3c2h2c2F6dkF1WEFGajV0U3ZfZXJReFNrNFlKTWNsRWVpVXpGR3lobzVfQW1CRmtGQjVmdnYtZWc?oc=5",
+        "published_at": "2026-10-10T22:02:07+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four dead and thousands without power after Hurricane Isaias lashes US；Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South；Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power。",
         "related_headlines": [
-          "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-          "Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts",
-          "Trump strikes deal with Putin for Russian diesel",
-          "Zelenskiy says letting Russia sell diesel to US is 'investment in war'",
-          "Trump Says He Will Import Russian Diesel Fuel Amid High Prices"
+          "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South",
+          "Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power",
+          "Four Dead After Isaias Crashes Into Gulf Coast",
+          "4 Killed as a Weakened Isaias Pushes Through the Southeast"
         ],
-        "content_context": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'；Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts；Trump strikes deal with Putin for Russian diesel。\n\nRelated coverage: Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'\n\nRelated coverage: Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts\n\nRelated coverage: Trump strikes deal with Putin for Russian diesel\n\nRelated coverage: Zelenskiy says letting Russia sell diesel to US is 'investment in war'\n\nRelated coverage: Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
-        "trend_score": 38.07,
+        "content_context": "Four dead and thousands without power after Hurricane Isaias lashes US - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four dead and thousands without power after Hurricane Isaias lashes US；Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South；Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power。\n\nRelated coverage: Four dead and thousands without power after Hurricane Isaias lashes US\n\nRelated coverage: Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South\n\nRelated coverage: Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power\n\nRelated coverage: Four Dead After Isaias Crashes Into Gulf Coast\n\nRelated coverage: 4 Killed as a Weakened Isaias Pushes Through the Southeast",
+        "trend_score": 35.25,
         "trend_breakdown": {
-          "freshness": 0.969,
+          "freshness": 0.89,
           "engagement": 0.0,
           "topic_overlap": 0.2,
           "source_weight": 0.8,
@@ -715,100 +741,75 @@
         "domains": []
       },
       {
-        "source": "CNN",
+        "source": "Los Angeles Times",
         "category": "news",
-        "title": "Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTJzaG5STXAtclZqTE5LcV9MTjVjQUp0SHVpNkJjeHZTOWFqZGJMdTU3dFNWajJ4X1NKV3RKdTd2MmtQYjRFNmNXdS1vZlN0Z2dJb2VIR2ZkekQ4MkJqQVZ1THJDNzhveGY2a2JEWXduUUNQcl94R25ZelZqc3k5TDV3?oc=5",
-        "published_at": "2026-10-10T01:22:00+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast；Live updates: Hurricane Isaias nears landfall in Panhandle；Hurricane Isaias making landfall along the Florida Panhandle tonight。",
+        "title": "Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGk1bmZld3FGMEl3aUxyODJPZ3M1ODJZZ01xV2U5UHRWR1dTdnd5U1BDT1puc2ZkOXpPZTlaWDZXX2lKa0xjM3ViV0U4MEZFRnBsUFFYZkZNanJhWHNNT2dFcVZTZkdUZGsxMlhvbkh2RnBmQWFoeTBSOVZGTlNCOEV2QUdCSmFQOUw5U2JBOHhoN2o0Q2dIb3JiSzVuMHhoTjFjekltQmxiTFQyLWJTbGFGNy14UDNvdWc?oc=5",
+        "published_at": "2026-10-10T21:30:00+00:00",
+        "summary": "Los Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches；Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal；Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect。",
         "related_headlines": [
-          "Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast",
-          "Live updates: Hurricane Isaias nears landfall in Panhandle",
-          "Hurricane Isaias making landfall along the Florida Panhandle tonight",
-          "Hurricane Isaias live tracker: Major Category 3 storm expected to make landfall along the Gulf Coast this evening; evacuations ordered in Alabama and Florida",
-          "Hurricane Isaias Georgia: Storm nearing landfall in western Florida Panhandle"
+          "Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches",
+          "Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal",
+          "Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect",
+          "Tropical Storm Rachel to fuel dangerous flash flood threat in the Southwest",
+          "Newport Beach closes piers as Tropical Storm Rachel threatens more flooding"
         ],
-        "content_context": "Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast；Live updates: Hurricane Isaias nears landfall in Panhandle；Hurricane Isaias making landfall along the Florida Panhandle tonight。\n\nRelated coverage: Hurricane Isaias live updates: Conditions deteriorate on Gulf Coast\n\nRelated coverage: Live updates: Hurricane Isaias nears landfall in Panhandle\n\nRelated coverage: Hurricane Isaias making landfall along the Florida Panhandle tonight\n\nRelated coverage: Hurricane Isaias live tracker: Major Category 3 storm expected to make landfall along the Gulf Coast this evening; evacuations ordered in Alabama and Florida\n\nRelated coverage: Hurricane Isaias Georgia: Storm nearing landfall in western Florida Panhandle",
-        "trend_score": 37.55,
+        "content_context": "Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches - Los Angeles Times\n\nLos Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches；Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal；Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect。\n\nRelated coverage: Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches\n\nRelated coverage: Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal\n\nRelated coverage: Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect\n\nRelated coverage: Tropical Storm Rachel to fuel dangerous flash flood threat in the Southwest\n\nRelated coverage: Newport Beach closes piers as Tropical Storm Rachel threatens more flooding",
+        "trend_score": 34.24,
         "trend_breakdown": {
-          "freshness": 0.994,
+          "freshness": 0.868,
           "engagement": 0.0,
-          "topic_overlap": 0.111,
+          "topic_overlap": 0.188,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "The Washington Post",
+        "source": "6abc Philadelphia",
         "category": "news",
-        "title": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnIxSGZ1cXZ1OGRKT21CTV9oa2U3WjJYSW9NS290alRJdHgxQWxxWHN5WTAwM25RTHZmTHl5WEtiRE14MEx3cGoyTHVwNWxLeHFzWmFRelNlek5SbGkwVHRSdjA4RTQ5cWNqallxamtiN3JZMm1JRFZNVk8tWmFveXJMR2U2STV2d1I2V25XMG5JRUdhNS1EdWx5bDJyUU5zcmxCSjFkbGJVUlF0YXlz?oc=5",
-        "published_at": "2026-10-09T22:32:56+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump hits International Criminal Court with sanctions after Nobel goes to former judge；EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize；Trump Administration Hits International Criminal Court With Severe Sanctions。",
+        "title": "Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder - 6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUpEc0YwVmMyLXVRbnI2RGh3dFpmUVJsSzRfYnNPQzlBX01SNmJEYk04Ql9leUdxUWFZNU92em1ReHFtUVNVb19LWk1CWWo5NVA5aFIyaExYUmdjT0RpNXN1UUhIb0UySGFyTXF4T00xUTNqcUFmbE1VUVllMW5xdFhHY1ZrekxWeVNnU3RqeE1xY1dNci1YVtIBngFBVV95cUxPenFWejNuWlluWEw4TnFITDMzQ2gyZlpjUzBuU1c0aHMyWmNobG93OV9yWWlkT0NFQ1VlQjV5dGxBbmV3V0NLQ0poaWpBVW5hWTVpUWp6S0t2bmo1MUl5Rml1cExOTmE2cDJzLU1JaDJkZjNkRWxLdF85cFo3dTZnQ1R2UmZDVWhKRmpLdE1tLWVya2NWOEx3NFYwZXJNZw?oc=5",
+        "published_at": "2026-10-10T22:22:33+00:00",
+        "summary": "6abc Philadelphia 头条聚焦该事件，Google News 同时聚合到这些相关表述：Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder；Officer shot 12 times, another shot 3 times in West Philadelphia；Gunman kills officer, injures another in West Philadelphia, officials say。",
         "related_headlines": [
-          "Trump hits International Criminal Court with sanctions after Nobel goes to former judge",
-          "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-          "Trump Administration Hits International Criminal Court With Severe Sanctions",
-          "As Navi Pillay wins Nobel Peace Prize, US takes unprecedented action to cripple the court she served on",
-          "US sanctions global court as judge awarded Nobel Peace Prize"
+          "Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder",
+          "Officer shot 12 times, another shot 3 times in West Philadelphia",
+          "Gunman kills officer, injures another in West Philadelphia, officials say",
+          "One Philadelphia Police Officer Killed, Another Shot 12 Times in Ambush Attack",
+          "1 Philadelphia police officer dead, another critical after being ambushed in West Philly"
         ],
-        "content_context": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump hits International Criminal Court with sanctions after Nobel goes to former judge；EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize；Trump Administration Hits International Criminal Court With Severe Sanctions。\n\nRelated coverage: Trump hits International Criminal Court with sanctions after Nobel goes to former judge\n\nRelated coverage: EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize\n\nRelated coverage: Trump Administration Hits International Criminal Court With Severe Sanctions\n\nRelated coverage: As Navi Pillay wins Nobel Peace Prize, US takes unprecedented action to cripple the court she served on\n\nRelated coverage: US sanctions global court as judge awarded Nobel Peace Prize",
-        "trend_score": 35.24,
+        "content_context": "Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder - 6abc Philadelphia\n\n6abc Philadelphia 头条聚焦该事件，Google News 同时聚合到这些相关表述：Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder；Officer shot 12 times, another shot 3 times in West Philadelphia；Gunman kills officer, injures another in West Philadelphia, officials say。\n\nRelated coverage: Philadelphia officer Shane Seiber killed in the line of duty, another wounded; suspect Eric Lewis charged with murder\n\nRelated coverage: Officer shot 12 times, another shot 3 times in West Philadelphia\n\nRelated coverage: Gunman kills officer, injures another in West Philadelphia, officials say\n\nRelated coverage: One Philadelphia Police Officer Killed, Another Shot 12 Times in Ambush Attack\n\nRelated coverage: 1 Philadelphia police officer dead, another critical after being ambushed in West Philly",
+        "trend_score": 33.62,
         "trend_breakdown": {
-          "freshness": 0.876,
+          "freshness": 0.904,
           "engagement": 0.0,
-          "topic_overlap": 0.231,
+          "topic_overlap": 0.067,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Fox News",
+        "source": "The Guardian",
         "category": "news",
-        "title": "Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1RrbWxxMU11ZGQ4N29Kb0JHQ3hTTDJRY0d4eDdkaG1VdXVjRjdwdDVHbjEyY3pTb1VlVXd4OHVZaVd4c3JhMml3Wm80MXM3d21jRWpwQjR5TGtGeDVSaVk3LVBqNzRGdEFwSUN3czlhTjFaQVo0YWNKS0EwdXF0dXJqblE3Y3djbWJwZzd6S1FjVGJ4RklERmp2ZVQ?oc=5",
-        "published_at": "2026-10-09T23:20:20+00:00",
-        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict；Houthi strikes on Riyadh airport killed three Saudis as war escalates；Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments。",
+        "title": "Christa Pike out of hospital and back in prison after botched execution attempt - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnpBUVdaXzFZWGxtM2ZFcy1vdmFHNzdtTlBrUE9HNktHUnEwLVg2SG9kNnJMUWJjUXJQN25LRXJ3UFZFZFdURFFkRk9RQWRFZWRhVGtvWVpYTi0zQ3liMWhtbjRQbDd3aVNZNlp3aXBGVS1kZTN0NU1BaGR5aG9aZUZCY2xDOGpQTEdKV1NQVQ?oc=5",
+        "published_at": "2026-10-10T19:39:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Christa Pike out of hospital and back in prison after botched execution attempt；Christa Pike Discharged From Hospital After Surviving Execution Attempt；Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say。",
         "related_headlines": [
-          "Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict",
-          "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
-          "Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments",
-          "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes",
-          "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response"
+          "Christa Pike out of hospital and back in prison after botched execution attempt",
+          "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+          "Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say",
+          "Tennessee execution survivor Christa Pike released from hospital, returned to prison",
+          "Christa Pike released from hospital following botched execution, attorneys say"
         ],
-        "content_context": "Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict；Houthi strikes on Riyadh airport killed three Saudis as war escalates；Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments。\n\nRelated coverage: Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict\n\nRelated coverage: Houthi strikes on Riyadh airport killed three Saudis as war escalates\n\nRelated coverage: Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments\n\nRelated coverage: Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes\n\nRelated coverage: Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-        "trend_score": 33.87,
+        "content_context": "Christa Pike out of hospital and back in prison after botched execution attempt - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Christa Pike out of hospital and back in prison after botched execution attempt；Christa Pike Discharged From Hospital After Surviving Execution Attempt；Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say。\n\nRelated coverage: Christa Pike out of hospital and back in prison after botched execution attempt\n\nRelated coverage: Christa Pike Discharged From Hospital After Surviving Execution Attempt\n\nRelated coverage: Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say\n\nRelated coverage: Tennessee execution survivor Christa Pike released from hospital, returned to prison\n\nRelated coverage: Christa Pike released from hospital following botched execution, attorneys say",
+        "trend_score": 32.83,
         "trend_breakdown": {
-          "freshness": 0.909,
+          "freshness": 0.791,
           "engagement": 0.0,
-          "topic_overlap": 0.071,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Axios",
-        "category": "news",
-        "title": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29GaWlaWjVIek81VDNFancwa2ZzeFBmRzl3UGtIWmRVUXVxS1dUdUdVanJaR2Z2WDZRWk1YbWNOTWV2NHdVMEVzNlFSMGhHZ01sc1hyMDQ1eU9uaG9zTjZGaGpkbWIzbmoyUC1SWlBIbDNEcUM0YmlvYlFUb25mT2N5cmhQd1U?oc=5",
-        "published_at": "2026-10-09T22:59:59+00:00",
-        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：JD Vance says he won't watch livestream execution of Fort Hood shooter；Hegseth wants America to watch a firing squad execution. It’s drawing backlash；Execution of Fort Hood gunman to be livestreamed, Pentagon says。",
-        "related_headlines": [
-          "JD Vance says he won't watch livestream execution of Fort Hood shooter",
-          "Hegseth wants America to watch a firing squad execution. It’s drawing backlash",
-          "Execution of Fort Hood gunman to be livestreamed, Pentagon says",
-          "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
-          "FCC Chair Brendan Carr Says Pete Hegseth Has Final Say On Broadcasting Fort Hood Shooter's Execution"
-        ],
-        "content_context": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：JD Vance says he won't watch livestream execution of Fort Hood shooter；Hegseth wants America to watch a firing squad execution. It’s drawing backlash；Execution of Fort Hood gunman to be livestreamed, Pentagon says。\n\nRelated coverage: JD Vance says he won't watch livestream execution of Fort Hood shooter\n\nRelated coverage: Hegseth wants America to watch a firing squad execution. It’s drawing backlash\n\nRelated coverage: Execution of Fort Hood gunman to be livestreamed, Pentagon says\n\nRelated coverage: For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle\n\nRelated coverage: FCC Chair Brendan Carr Says Pete Hegseth Has Final Say On Broadcasting Fort Hood Shooter's Execution",
-        "trend_score": 32.22,
-        "trend_breakdown": {
-          "freshness": 0.895,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -817,45 +818,48 @@
       {
         "source": "NBC News",
         "category": "news",
-        "title": "State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjVwbi1aeGdFTWtPNkZUazlrUXo1THJXYmRjbHpYRkRRXzVTZmJZdDRaOXFwa0NUZ0hlOFd0TFFWVmZubkNxWTBaSXRCc0x5T21LRWVsREs3NDBlc1RYTWM5cVYtT3NzbE43bWs4UVo1RzJFRzZpc29XVjJvdFpSQ1A3Z0hTVE56MjF5YmJCcXlISnA4ZDlNU0J0MUFqZjBPVTNmSHV5WGxWdVpZVUpod3lXVWRkVnhvY2lFNEdrOGV1QWF1TnNpLU1vSTJ3TnB2?oc=5",
-        "published_at": "2026-10-09T20:55:52+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand；See more headlines & perspectives on Google News。",
+        "title": "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFsNzU2elJOenJjb0dLYjVqLWg2aWdqMnh6WDFxOVlLbm5ORmRwREhsRkZMWEZXTmo2WV9hSnR1cjdUZlF5TWlqdnkwSTdtajNiOFByLWRXMVVNSnRZTEc0NXB4Zzh1bTkybUJnVVJYaHZPR1NJajVSaHA1cmFyVmdPTy1ZRGNnSlNpbkN5dmQ2RWtSMGRRcA?oc=5",
+        "published_at": "2026-10-10T18:15:17+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan；Army caught off guard by Hegseth’s order to make firing squad execution public；‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution。",
         "related_headlines": [
-          "State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand",
-          "See more headlines & perspectives on Google News"
+          "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan",
+          "Army caught off guard by Hegseth’s order to make firing squad execution public",
+          "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
+          "Pope Leo declares death penalty ‘inadmissible’ as his native U.S. plans to livestream execution",
+          "Firing squad execution of Fort Hood shooter Nidal Hasan scheduled for December"
         ],
-        "content_context": "State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand；See more headlines & perspectives on Google News。\n\nRelated coverage: State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand\n\nRelated coverage: See more headlines & perspectives on Google News",
-        "trend_score": 30.35,
+        "content_context": "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan；Army caught off guard by Hegseth’s order to make firing squad execution public；‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution。\n\nRelated coverage: Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan\n\nRelated coverage: Army caught off guard by Hegseth’s order to make firing squad execution public\n\nRelated coverage: ‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution\n\nRelated coverage: Pope Leo declares death penalty ‘inadmissible’ as his native U.S. plans to livestream execution\n\nRelated coverage: Firing squad execution of Fort Hood shooter Nidal Hasan scheduled for December",
+        "trend_score": 32.53,
         "trend_breakdown": {
-          "freshness": 0.809,
+          "freshness": 0.733,
           "engagement": 0.0,
-          "topic_overlap": 0.077,
+          "topic_overlap": 0.385,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "ABC7 Los Angeles",
+        "source": "The New York Times",
         "category": "news",
-        "title": "High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGZXaEk0TUN6cG9zbGxwdGJ6dk9EcWVHVF9vQmJkTFhJa095eXlEUHNFRkpiTUhiRHh4d3lYVllTQUtXWGJ0Z3h6WGNPYmhNRklLREdiOHZ6OERKVFNKSHRiSHg4ekVhYWpwdXliWUFyWVRCRGRPWGczMDBpX2x5ODl0d01QZUpzbEdfU2kzM244eG1oSVFEbnpqR0lJdFUtZEVUZ0N1OXBZOUlYMHRwWFctTFRWT3NQOVNwRG16SQ?oc=5",
-        "published_at": "2026-10-09T21:18:35+00:00",
-        "summary": "ABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts；Tropical Storm Watch | Sandbag and emergency resources for San Diego County；Flood watches, wind advisories issued throughout Utah ahead of Rachel's arrival。",
+        "title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUVVWTNZUjRndWgyYUdLbmNIZW8zTExlSk5DVVppb3UtT0NUUENpLXhmRHpBYXBLYTYxRHBOZTk1RjJmSzM4eDRudFhITGo2ZHRjNG1NVEE5VW1FVGNCZVo1NzE0VmNMRU1WUHRsTVlrQVR6NEp4OHdBaF9Fc2JQU2MzdW4?oc=5",
+        "published_at": "2026-10-10T17:48:20+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle；‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account；Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo。",
         "related_headlines": [
-          "High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts",
-          "Tropical Storm Watch | Sandbag and emergency resources for San Diego County",
-          "Flood watches, wind advisories issued throughout Utah ahead of Rachel's arrival",
-          "Ocean floods into Newport Beach; streets fill with salt water",
-          "High surf floods Newport Beach as Tropical Storm Rachel-driven waves pound coast"
+          "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+          "‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account",
+          "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo",
+          "Read Guilfoyle’s texts to GOP donor Deters: ‘You’ll literally cost me my ambassadorship’",
+          "Kimberly Guilfoyle associate says when she asked him for $100K, it was \"quid pro quo\""
         ],
-        "content_context": "High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts - ABC7 Los Angeles\n\nABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts；Tropical Storm Watch | Sandbag and emergency resources for San Diego County；Flood watches, wind advisories issued throughout Utah ahead of Rachel's arrival。\n\nRelated coverage: High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts\n\nRelated coverage: Tropical Storm Watch | Sandbag and emergency resources for San Diego County\n\nRelated coverage: Flood watches, wind advisories issued throughout Utah ahead of Rachel's arrival\n\nRelated coverage: Ocean floods into Newport Beach; streets fill with salt water\n\nRelated coverage: High surf floods Newport Beach as Tropical Storm Rachel-driven waves pound coast",
-        "trend_score": 29.69,
+        "content_context": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle；‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account；Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo。\n\nRelated coverage: Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle\n\nRelated coverage: ‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account\n\nRelated coverage: Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo\n\nRelated coverage: Read Guilfoyle’s texts to GOP donor Deters: ‘You’ll literally cost me my ambassadorship’\n\nRelated coverage: Kimberly Guilfoyle associate says when she asked him for $100K, it was \"quid pro quo\"",
+        "trend_score": 31.52,
         "trend_breakdown": {
-          "freshness": 0.825,
+          "freshness": 0.714,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.364,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -867,46 +871,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "author": "mattpocock",
-      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
-      "language": "Shell",
-      "score": 1687,
-      "comment_count": 23689,
-      "total_stars": 282749,
-      "built_by": [
-        "mattpocock",
-        "claude",
-        "github-actions",
-        "gabimoncha"
-      ],
-      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1687\n\nTotal stars: 282749\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-      "trend_score": 94.83,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.924,
-        "topic_overlap": 0.5,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "author": "morluto",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
       "language": "TypeScript",
-      "score": 14927,
-      "comment_count": 7574,
-      "total_stars": 46981,
+      "score": 25793,
+      "comment_count": 15263,
+      "total_stars": 72500,
       "built_by": [
         "morluto",
         "N0zoM1z0",
@@ -914,7 +887,7 @@
         "claude",
         "rudycelekli"
       ],
-      "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 14927\n\nTotal stars: 46981\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+      "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 25793\n\nTotal stars: 72500\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
       "trend_score": 86.84,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -930,28 +903,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "author": "addyosmani",
-      "summary": "Production-grade engineering skills for AI coding agents.",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
-      "language": "JavaScript",
-      "score": 436,
-      "comment_count": 10868,
-      "total_stars": 104004,
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "mattpocock",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
+      "language": "Shell",
+      "score": 1736,
+      "comment_count": 23812,
+      "total_stars": 284492,
       "built_by": [
-        "addyosmani",
-        "nucliweb",
-        "federicobartoli",
+        "mattpocock",
         "claude",
-        "ayobamiseun"
+        "github-actions",
+        "gabimoncha"
       ],
-      "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 436\n\nTotal stars: 104004\n\nBuilt by: addyosmani, nucliweb, federicobartoli, claude, ayobamiseun",
-      "trend_score": 86.73,
+      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1736\n\nTotal stars: 284492\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+      "trend_score": 81.86,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.807,
-        "topic_overlap": 0.333,
+        "engagement": 0.869,
+        "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -966,23 +938,23 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "author": "boykopovar",
       "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
       "language": "C++",
-      "score": 5868,
-      "comment_count": 1828,
-      "total_stars": 22469,
+      "score": 5805,
+      "comment_count": 2258,
+      "total_stars": 26842,
       "built_by": [
         "claude",
-        "boykopovar",
         "oneandonlydean",
         "adriadam10",
+        "boykopovar",
         "SamG-Coder"
       ],
-      "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 5868\n\nTotal stars: 22469\n\nBuilt by: claude, boykopovar, oneandonlydean, adriadam10, SamG-Coder",
-      "trend_score": 82.15,
+      "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 5805\n\nTotal stars: 26842\n\nBuilt by: claude, oneandonlydean, adriadam10, boykopovar, SamG-Coder",
+      "trend_score": 80.42,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.876,
+        "engagement": 0.831,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -998,11 +970,11 @@
       "url": "https://github.com/storytold/artcraft",
       "author": "storytold",
       "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
       "language": "Rust",
-      "score": 3752,
-      "comment_count": 1748,
-      "total_stars": 11566,
+      "score": 3222,
+      "comment_count": 2287,
+      "total_stars": 14494,
       "built_by": [
         "echelon",
         "bflatastic",
@@ -1010,11 +982,11 @@
         "wilwong",
         "Quicksticks-oss"
       ],
-      "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 3752\n\nTotal stars: 11566\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
-      "trend_score": 81.05,
+      "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 3222\n\nTotal stars: 14494\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
+      "trend_score": 79.19,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.848,
+        "engagement": 0.799,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1029,12 +1001,12 @@
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "author": "cathrynlavery",
-      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
       "language": "HTML",
-      "score": 1739,
-      "comment_count": 3035,
-      "total_stars": 47909,
+      "score": 1190,
+      "comment_count": 3092,
+      "total_stars": 48946,
       "built_by": [
         "cathrynlavery",
         "github-actions",
@@ -1042,11 +1014,11 @@
         "claude",
         "mvanhorn"
       ],
-      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1739\n\nTotal stars: 47909\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
-      "trend_score": 80.31,
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1190\n\nTotal stars: 48946\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
+      "trend_score": 77.59,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.828,
+        "engagement": 0.756,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1058,88 +1030,24 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "author": "anthropics",
-      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
+      "title": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "author": "hugohe3",
+      "summary": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
       "language": "Python",
-      "score": 709,
-      "comment_count": 3247,
-      "total_stars": 28278,
+      "score": 461,
+      "comment_count": 4681,
+      "total_stars": 59441,
       "built_by": [
-        "github-actions",
-        "jordanecker-ant",
-        "bryan-anthropic",
+        "hugohe3",
         "claude",
-        "mattpic-ant"
+        "shenqili",
+        "WodenJay",
+        "kevindesuyo"
       ],
-      "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 709\n\nTotal stars: 28278\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
-      "trend_score": 78.4,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.778,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "author": "alibaba",
-      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
-      "language": "Go",
-      "score": 326,
-      "comment_count": 3263,
-      "total_stars": 45257,
-      "built_by": [
-        "lizhengfeng101",
-        "wu21-web",
-        "chethanuk",
-        "stay-foolish-forever",
-        "Qiyuanqiii"
-      ],
-      "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 326\n\nTotal stars: 45257\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, stay-foolish-forever, Qiyuanqiii",
-      "trend_score": 76.65,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.732,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "author": "BerriAI",
-      "summary": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
-      "language": "Python",
-      "score": 95,
-      "comment_count": 12190,
-      "total_stars": 60677,
-      "built_by": [
-        "ishaan-jaff",
-        "mateo-berri",
-        "devin-ai-integration",
-        "yuneng-berri",
-        "Sameerlite"
-      ],
-      "content_context": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]\n\nLanguage: Python\n\nStars today: 95\n\nTotal stars: 60677\n\nBuilt by: ishaan-jaff, mateo-berri, devin-ai-integration, yuneng-berri, Sameerlite",
-      "trend_score": 76.26,
+      "content_context": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\n\nLanguage: Python\n\nStars today: 461\n\nTotal stars: 59441\n\nBuilt by: hugohe3, claude, shenqili, WodenJay, kevindesuyo",
+      "trend_score": 76.28,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 0.722,
@@ -1154,25 +1062,123 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "author": "Robbyant",
-      "summary": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "published_at": "2026-10-10T01:31:02.080152+00:00",
-      "language": "Python",
-      "score": 110,
-      "comment_count": 1951,
-      "total_stars": 17709,
+      "title": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "author": "flutter",
+      "summary": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
+      "language": "Dart",
+      "score": 88,
+      "comment_count": 33599,
+      "total_stars": 179518,
       "built_by": [
-        "LinZhuoChen",
-        "justimyhxu",
-        "claude"
+        "skia-flutter-autoroll",
+        "engine-flutter-autoroll",
+        "abarth",
+        "Hixie",
+        "jason-simmons"
       ],
-      "content_context": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction\n\nLanguage: Python\n\nStars today: 110\n\nTotal stars: 17709\n\nBuilt by: LinZhuoChen, justimyhxu, claude",
-      "trend_score": 73.27,
+      "content_context": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\n\nLanguage: Dart\n\nStars today: 88\n\nTotal stars: 179518\n\nBuilt by: skia-flutter-autoroll, engine-flutter-autoroll, abarth, Hixie, jason-simmons",
+      "trend_score": 76.13,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.643,
+        "engagement": 0.718,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "author": "pytorch",
+      "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
+      "language": "Python",
+      "score": 84,
+      "comment_count": 31955,
+      "total_stars": 104140,
+      "built_by": [
+        "pytorchmergebot",
+        "malfet",
+        "ezyang",
+        "zou3519",
+        "cyyever"
+      ],
+      "content_context": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\nLanguage: Python\n\nStars today: 84\n\nTotal stars: 104140\n\nBuilt by: pytorchmergebot, malfet, ezyang, zou3519, cyyever",
+      "trend_score": 75.95,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.713,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "author": "tensorflow",
+      "summary": "An Open Source Machine Learning Framework for Everyone",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
+      "language": "C++",
+      "score": 26,
+      "comment_count": 78964,
+      "total_stars": 200726,
+      "built_by": [
+        "tensorflower-gardener",
+        "ezhulenev",
+        "akuegel",
+        "hawkinsp",
+        "mihaimaruseac"
+      ],
+      "content_context": "An Open Source Machine Learning Framework for Everyone\n\nLanguage: C++\n\nStars today: 26\n\nTotal stars: 200726\n\nBuilt by: tensorflower-gardener, ezhulenev, akuegel, hawkinsp, mihaimaruseac",
+      "trend_score": 75.05,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.689,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "author": "mksglu",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "published_at": "2026-10-11T00:40:12.381931+00:00",
+      "language": "TypeScript",
+      "score": 178,
+      "comment_count": 1892,
+      "total_stars": 26315,
+      "built_by": [
+        "mksglu",
+        "github-actions",
+        "claude",
+        "ipedro",
+        "ousamabenyounes"
+      ],
+      "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 178\n\nTotal stars: 26315\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
+      "trend_score": 72.72,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.628,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1184,28 +1190,21 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Show HN: Faplex – like `Claude agents` but all machines and harnesses",
-      "url": "https://github.com/kkrausse/faplex",
-      "author": "kkrausse",
-      "score": 3,
-      "comment_count": 1,
-      "published_at": "2026-10-10T01:06:03+00:00",
-      "summary": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex",
-      "comment_highlights": [
-        "Faplex ?"
-      ],
-      "linked_context": {
-        "resolved_url": "https://github.com/kkrausse/faplex",
-        "page_title": "GitHub - kkrausse/faplex: Like `claude agents`, but for Claude, Codex and OpenCode on all your machines",
-        "page_description": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex",
-        "page_excerpt": "Like claude agents , but for all your harnesses and machines.\n\nF ake a gent (multi) plex er: a status list for the Claude Code, Codex and OpenCode sessions you already have, on every machine you can ssh to. Fake because it multiplexes nothing. The harnesses keep their own sessions running; faplex reads what they report and opens the harness's own CLI on the row you pick.\n\nfaplex runs on Bun . Started through npm or npx it finds the bun on your PATH, and tells you how to install it if there is none."
-      },
-      "content_context": "Like `claude agents`, but for Claude, Codex and OpenCode on all your machines - kkrausse/faplex\n\nLike claude agents , but for all your harnesses and machines. F ake a gent (multi) plex er: a status list for the Claude Code, Codex and OpenCode sessions you already have, on every machine you can ssh to. Fake because it multiplexes nothing. The harnesses keep their own sessions running; faplex reads what they report and opens the harness's own CLI on the row you pick. faplex runs on Bun . Started through npm or npx it finds the bun on your PATH, and tells you how to install it if there is none.\n\nHN comment: Faplex ?",
-      "trend_score": 53.62,
+      "title": "Ask HN: Why aren't Americans rising up against tipping?",
+      "url": "https://news.ycombinator.com/item?id=50038458",
+      "author": "bjourne",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-11T00:20:23+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": "I've read lots of articles about how Americans hate their tipping culture. But tipping is optional so why don't they just stop? If you don't tip you both help society improve and you save money. Win-win.",
+      "trend_score": 52.45,
       "trend_breakdown": {
-        "freshness": 0.983,
-        "engagement": 0.116,
-        "topic_overlap": 0.111,
+        "freshness": 0.986,
+        "engagement": 0.061,
+        "topic_overlap": 0.143,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1216,45 +1215,85 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "We Can Harden C",
-      "url": "https://cybersect.substack.com/p/we-can-harden-c",
-      "author": "otoburb",
-      "score": 1,
+      "title": "The 'black box' wastewater trade that rakes in millions for UK utility companies",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+      "author": "cisc",
+      "score": 2,
       "comment_count": 0,
-      "published_at": "2026-10-10T01:09:07+00:00",
-      "summary": null,
+      "published_at": "2026-10-11T00:13:03+00:00",
+      "summary": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants",
       "comment_highlights": [],
-      "linked_context": {},
-      "content_context": null,
-      "trend_score": 50.18,
-      "trend_breakdown": {
-        "freshness": 0.985,
-        "engagement": 0.041,
-        "topic_overlap": 0.5,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
+      "linked_context": {
+        "resolved_url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+        "page_title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+        "page_description": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants",
+        "page_excerpt": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants\n\nWater companies in the UK made more than £340m in revenue last year by pouring billions of litres of industrial and commercial wastewater into sewage treatment works that experts say are not designed to remove most chemicals, leaving pollutants to pass into rivers, seas and farmland.\n\nWater companies in England are required by law to take industrial wastewater and issue permits called “trade-effluent consents” that allow businesses to send it to sewage works, though water companies can refuse applications."
       },
-      "domains": []
+      "content_context": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants\n\nExclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants Water companies in the UK made more than £340m in revenue last year by pouring billions of litres of industrial and commercial wastewater into sewage treatment works that experts say are not designed to remove most chemicals, leaving pollutants to pass into rivers, seas and farmland. Water companies in England are required by law to take industrial wastewater and issue permits called “trade-effluent consents” that allow businesses to send it to sewage works, though water companies can refuse applications.",
+      "trend_score": 50.07,
+      "trend_breakdown": {
+        "freshness": 0.981,
+        "engagement": 0.061,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
     },
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "How to connect any AI assistant to governed enterprise data with MCP",
-      "url": "https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231",
-      "author": "wesleydias",
+      "title": "Supreme Court: 401(k) case over private funds and underperformance",
+      "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+      "author": "cramer4next",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-10-10T00:56:58+00:00",
-      "summary": "[flagged]",
-      "comment_highlights": [
-        "[flagged]"
-      ],
-      "linked_context": {},
-      "content_context": "HN comment: [flagged]",
-      "trend_score": 48.19,
+      "published_at": "2026-10-11T00:24:28+00:00",
+      "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+        "page_title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+        "page_description": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+        "page_excerpt": "The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.\n\nMany plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.\n\n\"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies,\" said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking D..."
+      },
+      "content_context": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.\n\nThe Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s. Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products. \"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies,\" said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking D...",
+      "trend_score": 49.62,
       "trend_breakdown": {
-        "freshness": 0.976,
-        "engagement": 0.041,
+        "freshness": 0.989,
+        "engagement": 0.039,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "url": "https://github.com/vahmoh25/Veda",
+      "author": "vahmohh",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-11T00:22:33+00:00",
+      "summary": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/vahmoh25/Veda",
+        "page_title": "GitHub - vahmoh25/Veda: The Agentic-Native Operating System",
+        "page_description": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.",
+        "page_excerpt": "Veda is an operating system with an AI agent built into it — not an assistant added to a desktop, but a part of the system that every application is made to work with. You talk to it the way you would talk to someone in the room — \"Hey Veda, switch my wallpaper to the dunes\" — and it does the work through the same operations as your keyboard and mouse, in any application, and asks you before an...\n\nEverything is written from scratch in Rust and lives in this repository: the UEFI bootloader, a capability-based microkernel, the drivers, the system services, the window system, the toolkit and the applications. A few mature crates provide the TCP/IP engine, TLS and cryptography (smoltcp, rustls, RustCrypto). Veda runs on x86-64 PCs and in QEMU.\n\nOperating systems were designed for a person at a keyboard. An assistant added to one later usually has to read the screen, imitate clicks or make do with the few applications that offer an API, and the system has no say in what it does. Veda tu..."
+      },
+      "content_context": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.\n\nVeda is an operating system with an AI agent built into it — not an assistant added to a desktop, but a part of the system that every application is made to work with. You talk to it the way you would talk to someone in the room — \"Hey Veda, switch my wallpaper to the dunes\" — and it does the work through the same operations as your keyboard and mouse, in any application, and asks you before an... Everything is written from scratch in Rust and lives in this repository: the UEFI bootloader, a capability-based microkernel, the drivers, the system services, the window system, the toolkit and the applications. A few mature crates provide the TCP/IP engine, TLS and cryptography (smoltcp, rustls, RustCrypto). Veda runs on x86-64 PCs and in QEMU. Operating systems were designed for a person at a keyboard. An assistant added to one later usually has to read the screen, imitate clicks or make do with the few applications that offer an API, and the system has no say in what it does. Veda tu...",
+      "trend_score": 49.49,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.061,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.18
@@ -1266,216 +1305,194 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Should I Hire a Dev or Can I Vibecode This?",
-      "url": "https://vibecodeornot.pixlw.com/",
-      "author": "altmanaltman",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-10-10T01:01:31+00:00",
-      "summary": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.",
-      "comment_highlights": [
-        "Meant for non-technical users who are building their own things (a lot these days) to understand if their current big idea is safe to vibecode and if its worth it to hire a professional instead."
-      ],
-      "linked_context": {
-        "resolved_url": "https://vibecodeornot.pixlw.com/",
-        "page_title": "Should I Hire a Dev or Can I Vibecode This?",
-        "page_description": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.",
-        "page_excerpt": null
-      },
-      "content_context": "Describe your project and Vibes Meter scores how confidently you can vibecode it yourself vs. when you should hire a developer. A free tool by Pixlw.\n\nHN comment: Meant for non-technical users who are building their own things (a lot these days) to understand if their current big idea is safe to vibecode and if its worth it to hire a professional instead.",
-      "trend_score": 45.61,
-      "trend_breakdown": {
-        "freshness": 0.979,
-        "engagement": 0.074,
-        "topic_overlap": 0.2,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "I own you but I don't trust you",
-      "url": "https://axegon.com/#blog/i-own-you-but-i-dont-trust-you.md",
-      "author": "extr0pian",
-      "score": 1,
+      "title": "A minimal Rust TUI for managing GitHub repos and branches",
+      "url": "https://github.com/jorgeandrecastro/github-workflow",
+      "author": "drew0670",
+      "score": 2,
       "comment_count": 0,
-      "published_at": "2026-10-10T01:29:40+00:00",
-      "summary": null,
+      "published_at": "2026-10-11T00:17:30+00:00",
+      "summary": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://axegon.com/#blog/i-own-you-but-i-dont-trust-you.md",
-        "page_title": null,
-        "page_description": null,
+        "resolved_url": "https://github.com/jorgeandrecastro/github-workflow",
+        "page_title": "GitHub - jorgeandrecastro/github-workflow",
+        "page_description": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
         "page_excerpt": null
       },
-      "content_context": null,
-      "trend_score": 45.36,
+      "content_context": "Contribute to jorgeandrecastro/github-workflow development by creating an account on GitHub.",
+      "trend_score": 49.32,
       "trend_breakdown": {
-        "freshness": 0.999,
-        "engagement": 0.041,
-        "topic_overlap": 0.2,
+        "freshness": 0.984,
+        "engagement": 0.061,
+        "topic_overlap": 0.0,
         "source_weight": 0.9,
-        "domain_weight": 1.0
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     }
   ],
   "notes": [
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目持续引领技术潮流，多个项目在GitHub趋势榜上表现突出。焦点集中在AI代理技能库与工具生态的构建上，例如mattpocock/skills和agent-skills项目，致力于为工程师和AI编码代理提供生产级技能，推动开发流程的自动化与标准化。同时，逆向工程与跨平台移植工具如REA和AnyPS5展示了AI在自动化分析及软件兼容性方面的潜力。此外，阿里巴巴开源的open-code-review项目将LLM Agent与传统代码审查结合，Anthropic推出的knowledge-work-plugins则旨在扩展Claude在知识工作场景的生态，均体现了AI工具向企业级、专业化应用深化的趋势。创意工具ArtCraft和图表资源库diagram-design也反映了AI在创意产业及开发者工具链中的多样化渗透。",
+    "overview": "今日AI领域热点聚焦于开源工具的自动化与智能化创新。GitHub趋势榜上，多个项目凭借AI赋能实现突破：REA项目将智能体与逆向工程结合，单日获星超2.5万，展现了自动化安全分析的前沿方向；PPT-Master利用AI将文档自动转换为原生PowerPoint演示文稿，凸显办公自动化的潜力；ArtCraft作为“意图驱动”的创意引擎，为艺术设计提供算法辅助。同时，diagram-design等工具库针对AI编程助手生态提供专用组件，反映出开发者对高效工具链的持续需求。成熟框架如PyTorch和Flutter保持稳定热度，支撑着AI应用开发与部署的基础生态。",
     "named_hotspots": [
+      {
+        "name": "REA (Reverse Engineer Anything)",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 REA 的开源项目在 GitHub 趋势榜上热度飙升，单日获星超过 2.5 万，总星数已达 7.25 万。",
+        "core_details": "REA 是一个使用 TypeScript 编写的项目，旨在利用智能体（Agents）技术对任何事物进行逆向工程，覆盖范围从应用程序行为分析到原生二进制文件。项目由 morluto 等人创建和维护。",
+        "ai_take": "该项目将 AI 智能体与逆向工程深度结合，代表了自动化安全分析和软件理解的一个前沿方向。通过智能体来模拟和执行复杂的逆向任务，可能显著降低安全研究和技术分析的门槛。",
+        "hype_check": "热度极高，单日暴涨的星数表明其概念或初步实现击中了开发者社区对自动化、AI 赋能安全工具的强烈兴趣和需求。",
+        "value_check": "若项目成熟，可为安全研究人员、恶意软件分析师和软件开发者提供一个强大的自动化分析工具，潜在价值在于提升逆向工程效率和探索新的软件分析范式。",
+        "follow_up": "关注其后续版本更新、实际用例展示以及社区围绕其构建的工具生态。需要验证其在实际复杂二进制或应用场景中的分析能力与可靠性。",
+        "evidence": "项目描述明确指出其目标为“使用智能体对任何事物进行逆向工程”，GitHub 数据（单日星数 25793，总星数 72500，语言 TypeScript）支持其当前受关注程度。"
+      },
       {
         "name": "mattpocock/skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub项目'mattpocock/skills'登上趋势榜，这是一个面向工程师的AI代理技能库，源自作者的.agents目录，使用Shell语言编写。",
-        "core_details": "该项目由mattpocock创建，旨在为工程师提供实用的AI代理技能。项目语言为Shell，今日新增1687颗星，总星数达282749，由mattpocock、claude、github-actions和gabimoncha共同构建。",
-        "ai_take": "该项目展示了AI代理技能在工程实践中的具体应用，通过开源方式共享技能库，有助于推动AI工具在开发流程中的集成与标准化。",
-        "hype_check": "趋势分高达94.83，单日获星超1600，总星数近30万，表明其在开发者社区中关注度极高，但需注意其实际应用效果可能因场景而异。",
-        "value_check": "作为开源技能库，它降低了工程师使用AI代理的门槛，提供了可复用的实践案例，但技能的有效性依赖于具体执行环境和用户需求。",
-        "follow_up": "关注该项目后续的技能更新、社区反馈以及在实际工程中的落地案例，评估其长期价值。",
-        "evidence": "项目描述为'Skills for Real Engineers. Straight from my .agents directory.'，数据包括今日1687星、总星282749、趋势分94.83，构建者包含claude等AI相关工具。"
-      },
-      {
-        "name": "REA",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为REA的GitHub项目在技术社区中迅速走红，单日获得近1.5万星标，总星标数已超过4.6万。",
-        "core_details": "REA是一个用TypeScript编写的开源项目，旨在利用智能体（agents）技术对任何事物进行逆向工程，覆盖范围从应用程序行为到原生二进制文件。项目由morluto等开发者主导构建。",
-        "ai_take": "该项目将AI智能体与逆向工程深度结合，展示了AI在自动化分析、代码理解和系统行为解析方面的潜力，可能降低逆向工程的技术门槛并提升效率。",
-        "hype_check": "极高的单日星标增长和社区讨论热度表明其概念或实现引起了开发者广泛兴趣，但需观察其实际应用成熟度与长期维护情况。",
-        "value_check": "若项目能稳定实现其宣称的广泛逆向工程能力，将为安全研究、软件分析和学习提供强大工具；但其技术普适性和可靠性仍需实际验证。",
-        "follow_up": "关注项目后续版本迭代、实际用例分享以及社区反馈，以评估其技术可行性与生态影响。",
-        "evidence": "项目在GitHub趋势榜排名靠前，单日星标增长14927，总星标46981，讨论数7574，说明其受到技术社区高度关注。"
-      },
-      {
-        "name": "agent-skills",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为'agent-skills'的GitHub项目在趋势榜上获得关注，该项目专注于为AI编码代理提供生产级工程技能。",
-        "core_details": "该项目由addyosmani、nucliweb、federicobartoli、claude和ayobamiseun共同构建，使用JavaScript语言开发。今日获得436颗星，总星数已达104,004，显示出较高的社区关注度。",
-        "ai_take": "该项目旨在提升AI编码代理的工程能力，使其能够处理更复杂、更接近生产环境的编码任务，反映了AI在软件开发自动化领域的应用深化。",
-        "hype_check": "趋势分数高达86.73，总星数超过10万，表明该项目在开发者社区中引起了显著关注和讨论，热度较高。",
-        "value_check": "项目直接针对AI编码代理的生产级技能，具有明确的实用价值，可能对提升开发效率、代码质量和自动化水平有积极影响。",
-        "follow_up": "关注项目后续的更新、实际应用案例以及社区反馈，以评估其长期影响和在实际生产环境中的表现。",
-        "evidence": "项目描述明确指出'Production-grade engineering skills for AI coding agents'，且GitHub数据（今日星数436，总星数104,004，趋势分数86.73）支持其受关注程度。"
+        "what_happened": "GitHub项目'mattpocock/skills'登上趋势榜，这是一个面向工程师的技能库，源自作者的.agents目录，今日获1736星，总星数达284492。",
+        "core_details": "项目由mattpocock、claude、github-actions和gabimoncha共同构建，使用Shell语言编写，旨在提供实用工程技能，当前在GitHub趋势中热度较高。",
+        "ai_take": "该项目展示了AI辅助工具（如claude）在代码库管理和技能自动化中的实际应用，反映了AI如何融入工程师的日常工作流以提升效率。",
+        "hype_check": "高趋势分数（81.86）和单日大量星标表明社区关注度激增，但需注意这可能受短期趋势或营销影响，而非长期技术突破。",
+        "value_check": "作为开源技能库，它为工程师提供了可复用的工具和脚本，具有实用价值，但具体内容深度和适用性需用户自行评估。",
+        "follow_up": "关注项目后续更新以验证其持续影响力，或探索类似AI增强的开发工具趋势。",
+        "evidence": "GitHub趋势数据：今日星标1736，总星标284492，语言为Shell，构建者包括AI工具claude。"
       },
       {
         "name": "AnyPS5",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "一个名为AnyPS5的GitHub项目在趋势榜上获得高关注，该项目旨在自动将PS5可执行文件移植到Linux和Windows平台。",
-        "core_details": "该项目由boykopovar等人开发，使用C++语言编写，今日新增星标5868个，总星标数已达22469个，表明其在开发者社区中受到广泛关注。",
-        "ai_take": "该项目展示了AI辅助工具在逆向工程和跨平台移植领域的应用潜力，通过自动化流程降低手动移植的复杂性，可能推动游戏和软件生态的跨平台兼容性发展。",
-        "hype_check": "高星标增长和趋势排名显示项目热度显著，但实际效果和稳定性需经更多实际应用验证，且涉及版权和法律风险需谨慎评估。",
-        "value_check": "若技术可行，该项目能为开发者提供高效的跨平台移植工具，降低开发成本，但需确保符合相关平台的法律法规和许可协议。",
-        "follow_up": "关注项目后续更新、实际案例应用以及社区反馈，同时留意索尼等平台方的法律回应。",
-        "evidence": "项目描述明确指出其功能为自动PS5可执行文件移植，GitHub数据支持其高关注度，语言和贡献者信息提供技术背景。"
+        "source": "GitHub Trending",
+        "what_happened": "一个名为AnyPS5的开源项目在GitHub上趋势飙升，该项目旨在实现PS5可执行文件向Linux和Windows的自动移植。",
+        "core_details": "该项目由boykopovar等人开发，使用C++语言编写，今日获得5805颗星，总星数已达26842，显示出极高的社区关注度。",
+        "ai_take": "虽然项目本身不直接涉及AI，但其自动化移植工具的开发理念与AI驱动的自动化、逆向工程领域有潜在交集，可能为未来游戏兼容性或模拟器研究提供技术基础。",
+        "hype_check": "高星数和高趋势分（80.42）表明该项目在开发者社区中引起了广泛兴趣，可能源于对PS5平台破解或跨平台游戏运行的强烈需求，但需注意法律和版权风险。",
+        "value_check": "该项目为逆向工程和跨平台移植提供了实用工具，对研究游戏架构、操作系统兼容性的开发者具有技术参考价值，但实际应用需谨慎评估合规性。",
+        "follow_up": "关注项目后续更新是否涉及更复杂的二进制分析或AI辅助代码转换，以及社区如何应对可能的平台法律限制。",
+        "evidence": "项目GitHub页面显示其描述为“Tool for automatic PS5 executables porting to Linux and Windows”，且今日星数增长显著，总星数超过2.6万，证实其热门程度。"
       },
       {
         "name": "ArtCraft",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "ArtCraft是一个面向艺术家、设计师和电影制作人的意图驱动创作引擎，近期在GitHub上趋势显著，今日获得3752颗星，总星数达11566。",
-        "core_details": "该项目由storytold开发，使用Rust语言编写，核心贡献者包括echelon、bflatastic等。它旨在提供一个工具，帮助创意工作者通过更结构化的方式进行艺术创作。",
-        "ai_take": "ArtCraft作为创作引擎，可能整合了AI辅助设计或生成功能，以增强艺术家的创意流程，体现了AI在创意产业中工具化的趋势。",
-        "hype_check": "趋势分数81.05和较高的星数增长表明社区关注度快速上升，但需观察其实际应用案例和用户反馈，以判断是否只是技术热点的短期追捧。",
-        "value_check": "对于创意专业人士，如果引擎能有效提升工作效率或开启新的创作方式，具有实用价值；但作为开源项目，其成熟度和稳定性仍需验证。",
-        "follow_up": "关注项目更新、用户案例以及是否整合更先进的AI模型，如生成艺术或设计自动化功能。",
-        "evidence": "GitHub趋势数据：今日星数3752，总星数11566，语言为Rust，项目描述为“意图驱动创作引擎”。"
+        "what_happened": "ArtCraft 是一个面向艺术家、设计师和电影制作人的“意图驱动”创作引擎，近期在 GitHub 趋势榜上热度显著，单日获星 3222 颗，总星数已达 14494。",
+        "core_details": "该项目由 storytold 组织开发，主要贡献者包括 echelon、bflatastic 等。项目使用 Rust 语言编写，定位为帮助创意工作者进行“有意图的”艺术创作和设计。",
+        "ai_take": "ArtCraft 可能通过程序化生成或辅助工具，将创作意图（如风格、结构、规则）转化为具体视觉或媒体输出，体现了 AI 或算法在创意流程中作为“引擎”而非单纯工具的角色。",
+        "hype_check": "高单日获星数和总星数表明其在开发者与创意技术社群中受到高度关注，可能因其 Rust 实现、创意工具定位或开源协作模式而引发兴趣。",
+        "value_check": "若引擎能有效降低复杂创意项目的技术门槛，或提供新颖的创作工作流，其对艺术、设计及影视行业可能有实际工具价值；但需验证其成熟度与落地案例。",
+        "follow_up": "关注其版本更新、实际应用案例（如短片、设计项目）、以及是否集成主流创意软件（如 Blender、Adobe 套件）。",
+        "evidence": "GitHub 仓库描述其为“intentional crafting engine”，语言为 Rust，单日 stars 增长 3222，总 stars 14494，项目链接：https://github.com/storytold/artcraft。"
       },
       {
         "name": "diagram-design",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub 项目 'diagram-design' 今日获得 1739 颗星，总星数达 47909，成为趋势项目。该项目专注于为 Claude Code、Codex、GitHub Copilot 等 AI 工具提供编辑图表设计。",
-        "core_details": "该项目提供了 42 种图表类型，采用自包含的 HTML + SVG 格式，强调无阴影、不使用 Mermaid 图表库。项目语言为 HTML，由 cathrynlavery 等人构建，包括 GitHub Actions 和 Claude AI 的贡献。",
-        "ai_take": "该项目直接服务于 AI 开发工具（如 Claude、GitHub Copilot）的文档和可视化需求，体现了 AI 工具生态中对于高质量、轻量级图表解决方案的需求，可能提升 AI 代码生成和解释的可读性。",
-        "hype_check": "高趋势分数（80.31）和单日大量获星表明其在开发者社区中受到关注，但需注意这可能源于其简洁实用的设计理念，而非技术突破。",
-        "value_check": "为 AI 和开发工具提供即用型图表资源，具有实际应用价值，尤其适合需要快速集成可视化元素的文档或演示场景。",
-        "follow_up": "关注项目后续是否扩展更多图表类型或集成到主流 AI 工具链中，以及社区反馈如何影响其发展。",
-        "evidence": "项目描述强调“42 种图表类型”、“自包含 HTML+SVG”、“无 Mermaid”，GitHub 数据：今日星数 1739，总星数 47909，语言 HTML，构建者包括 cathrynlavery 和 Claude AI。"
+        "what_happened": "GitHub 项目 'diagram-design' 今日获得 1190 颗星，总星数达 48946，在趋势榜上热度较高。",
+        "core_details": "该项目是一个用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 的编辑图表设计库，包含 44 种图表类型。采用自包含的 HTML + SVG 实现，无阴影，并明确表示不使用 Mermaid 图表库。",
+        "ai_take": "该项目直接服务于多种AI编程助手（如Claude Code、GitHub Copilot）的文档或界面设计，其简洁、自包含的SVG图表方案可能旨在为AI工具链提供更轻量、可控的可视化组件，反映了AI开发工具生态中对专用、高效设计资产的需求。",
+        "hype_check": "趋势分数77.59和单日大量获星表明其在开发者社区中关注度快速上升，可能因其'No Mermaid slop'的鲜明主张和针对热门AI工具的专用性引发了共鸣。",
+        "value_check": "为AI编程工具提供了一套现成的、可直接集成的图表设计资源，能提升相关项目的文档或UI的专业性和一致性，具有明确的工具链实用价值。",
+        "follow_up": "关注该项目是否会集成到上述AI工具的官方文档或插件中，以及其设计原则（如无阴影、纯SVG）是否会在前端或技术文档领域形成更广泛的影响。",
+        "evidence": "项目描述明确指出其用途、包含的图表类型、技术栈（HTML+SVG）以及设计理念（'No shadows. No Mermaid slop'）。今日星数增长和总星数提供了流行度数据。"
       },
       {
-        "name": "knowledge-work-plugins",
+        "name": "PPT-Master",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Anthropic在GitHub上开源了一个名为'knowledge-work-plugins'的插件仓库，该项目主要为知识工作者在Claude Cowork中使用而设计，今日获得709颗星，总星数已达28278。",
-        "core_details": "该项目是一个Python语言编写的开源插件集合，旨在增强Claude Cowork平台的功能，帮助知识工作者提升效率。项目由Anthropic团队（包括github-actions、jordanecker-ant、bryan-anthropic、claude、mattpic-ant等贡献者）构建和维护。",
-        "ai_take": "这表明Anthropic正通过开源策略扩展其AI助手Claude的生态系统，特别是针对企业级和知识密集型应用场景。开源插件库能吸引开发者社区参与，加速工具创新和集成，巩固Claude在专业工作场景中的实用性。",
-        "hype_check": "项目在GitHub趋势榜上热度较高（趋势分78.4），单日获星量可观，总星数已积累至近3万，显示出开发者社区对Anthropic生态工具的关注和认可。但需注意，热度部分源于其背靠Anthropic的品牌效应和Claude的用户基础。",
-        "value_check": "对知识工作者和开发者而言，该项目提供了可直接使用或定制的工具插件，能降低在Claude平台上构建工作流的技术门槛。开源模式有利于透明协作和功能快速迭代，长期可能推动AI辅助知识工作的标准化。",
-        "follow_up": "关注该仓库的后续更新频率、插件种类扩展以及实际集成案例；同时观察Anthropic是否会围绕此项目推出更多开发者支持计划或商业化路径。",
-        "evidence": "数据来自GitHub趋势榜：项目由'anthropics'官方账号发布，语言为Python，今日星数709，总星数28278，讨论数3247，项目描述明确指向'为知识工作者在Claude Cowork中使用'。"
+        "what_happened": "一个名为PPT-Master的AI项目在GitHub上趋势飙升，该项目能够将文档或主题转换为原生的PowerPoint演示文稿，具备丰富的自动化功能。",
+        "core_details": "PPT-Master由Hugo He开发，使用Python语言编写。它能生成包含原生形状、过渡效果、动画、数据驱动的图表和表格的PowerPoint文件，支持从演讲者笔记生成音频旁白，并允许用户使用自定义的.pptx模板。项目今日获得461颗星，总星数已达59441，显示出极高的社区关注度。",
+        "ai_take": "该项目展示了AI在办公自动化领域的深度应用潜力，特别是通过自然语言处理与文档生成技术，将内容创作与演示设计流程自动化，可能显著提升工作效率并降低制作专业演示文稿的门槛。",
+        "hype_check": "趋势分数高达76.28，总星数近6万且今日增长迅速，表明其在开发者社区中引起了强烈兴趣和实际试用，但需观察其实际生产环境中的稳定性和泛化能力。",
+        "value_check": "对于需要频繁制作演示文稿的商务、教育或报告场景具有明确实用价值，自动化图表生成和模板支持是关键优势，但输出质量可能高度依赖输入文档的结构与清晰度。",
+        "follow_up": "关注其版本更新是否扩展输入格式（如Markdown、PDF），集成到主流办公套件的可能性，以及用户反馈中关于复杂布局处理和数据可视化的准确性。",
+        "evidence": "项目描述明确指出AI将文档/主题转为原生PPT，支持形状、动画、图表、音频旁白和自定义模板；GitHub数据证实其Python实现、高星数和今日增长趋势。"
       },
       {
-        "name": "alibaba/open-code-review",
+        "name": "Flutter",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "阿里巴巴开源了一个名为open-code-review的代码审查工具，该项目在GitHub上趋势榜中热度较高，今日获得326颗星，总星数已达45257。",
-        "core_details": "该项目是一个安全、快速、高效的代码审查工具，已在阿里巴巴大规模实践中得到验证。它采用混合架构，结合了确定性流水线和LLM Agent，能够提供精确的行级注释，并内置了多语言规则集，用于检测如空指针异常、线程安全、XSS和SQL注入等常见问题。工具兼容OpenAI和Anthropic的模型，主要使用Go语言开发。",
-        "ai_take": "该项目代表了AI在代码审查领域的应用趋势，通过集成LLM Agent，增强了传统静态分析工具的能力，使其能够提供更智能、上下文相关的代码建议，有助于提升开发效率和代码质量。",
-        "hype_check": "热度较高，基于其在GitHub上的趋势排名和星数增长，反映出开发者社区对高效、智能代码审查工具的关注。阿里巴巴的品牌背书和实战验证也增加了其可信度。",
-        "value_check": "实际价值显著，工具结合了规则引擎和AI，能自动化检测多种代码缺陷，减少人工审查负担，适用于大规模企业开发环境，潜在提升软件安全性和维护性。",
-        "follow_up": "关注该项目的后续更新、社区反馈以及在阿里巴巴内部的实际应用案例，以评估其长期效果和可扩展性。",
-        "evidence": "项目描述强调了其安全、高效和经过阿里巴巴规模实战测试的特点，具体功能包括混合架构、精确行级注释、内置多语言规则集以及对OpenAI和Anthropic的兼容性。GitHub数据支持其流行度，如总星数45257和今日星数增长326。"
+        "source": "GitHub Trending",
+        "what_happened": "Flutter项目在GitHub趋势榜上热度上升，单日新增88颗星，总星数达到179,518，显示出持续的开发者关注度。",
+        "core_details": "Flutter是一个由Google支持的开源UI工具包，使用Dart语言，旨在帮助开发者快速构建跨平台（如移动端及其他平台）的漂亮应用。项目由skia-flutter-autoroll、engine-flutter-autoroll、abarth、Hixie、jason-simmons等贡献者维护。",
+        "ai_take": "Flutter本身不直接涉及AI，但其跨平台开发能力可加速AI驱动的移动应用部署，例如集成机器学习模型进行实时处理。",
+        "hype_check": "趋势合理，Flutter作为成熟的跨平台框架，持续更新和社区活跃支撑了其热度，但需注意这反映的是常规开发工具的关注度，而非突破性AI进展。",
+        "value_check": "高价值，Flutter降低了多平台应用开发成本，提升了效率，对AI应用生态有间接促进作用，但核心价值在于UI/UX工具链而非AI创新。",
+        "follow_up": "关注Flutter与AI框架（如TensorFlow Lite）的集成案例，或观察其在边缘计算设备上的应用扩展。",
+        "evidence": "GitHub趋势数据：单日增星88，总星179,518；项目描述强调“快速构建跨平台应用”；语言为Dart；贡献者列表显示活跃维护。"
+      },
+      {
+        "name": "PyTorch",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "PyTorch 项目在 GitHub 趋势榜上热度上升，今日新增 84 颗星，总星数达 104,140，显示出持续的社区关注度。",
+        "core_details": "PyTorch 是一个基于 Python 的开源机器学习库，提供张量计算和动态神经网络构建，并支持强大的 GPU 加速。项目由 pytorchmergebot、malfet、ezyang、zou3519、cyyever 等核心贡献者维护。",
+        "ai_take": "作为深度学习领域的主流框架之一，PyTorch 的动态图设计和易用性使其在研究和工业界广受欢迎，其热度反映了 AI 开发社区对灵活、高效工具的需求。",
+        "hype_check": "热度合理，PyTorch 长期处于活跃状态，今日趋势得分 75.95 和较高的总星数表明其稳定影响力，并非短期炒作。",
+        "value_check": "高价值，PyTorch 是 AI 开发的核心基础设施，支持从研究到部署的全流程，社区贡献活跃（评论数 31,955），生态成熟。",
+        "follow_up": "关注 PyTorch 2.0 等版本更新、与 Triton 等编译器的集成进展，以及其在边缘计算和移动端的优化动态。",
+        "evidence": "GitHub 趋势数据：今日星增 84，总星 104,140，趋势得分 75.95；项目描述强调“Python 中的张量和动态神经网络及 GPU 加速”。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "mattpocock/skills",
-        "content_summary": "该项目名为“Skills for Real Engineers”，是一个从作者个人“.agents”目录中提取的、面向真实工程师的技能集合。它是一个Shell语言项目，今日新增1687颗星，总星数达282749。项目由mattpocock、claude、github-actions和gabimoncha共同构建。",
-        "ai_comment": "该项目定位为AI编码代理的工程技能库，反映了开发者社区对提升AI代理实际工程能力的持续关注。"
-      },
-      {
-        "source_group": "github_trending",
         "item_name": "morluto/rea",
-        "content_summary": "该项目名为“rea”，是一个使用智能体（agents）进行逆向工程的工具，其范围涵盖从应用程序行为到原生二进制文件的逆向分析。它是一个TypeScript语言项目，今日新增14927颗星，总星数达46981。项目由morluto、N0zoM1z0、kaoru0822-kitauji、claude和rudycelekli共同构建。",
-        "ai_comment": "该项目将AI智能体应用于逆向工程领域，展示了AI在底层软件分析和安全研究中的潜力，是当前AI赋能开发工具的热点方向。"
+        "content_summary": "该项目是一个使用智能体（agents）进行逆向工程的工具，支持从应用程序行为到原生二进制文件的逆向分析。项目采用TypeScript语言开发，今日新增星标25793个，总星标数达72500个。",
+        "ai_comment": "逆向工程工具结合AI智能体，可能提升自动化分析能力，反映了AI在安全与开发领域的深入应用趋势。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "addyosmani/agent-skills",
-        "content_summary": "该项目名为“agent-skills”，旨在为AI编码代理提供生产级（Production-grade）的工程技能。它是一个JavaScript语言项目，今日新增436颗星，总星数达104004。项目由addyosmani、nucliweb、federicobartoli、claude和ayobamiseun共同构建。",
-        "ai_comment": "该项目强调“生产级”技能，表明AI编码代理的发展正从实验性功能转向满足企业级可靠性和质量标准的需求。"
+        "item_name": "mattpocock/skills",
+        "content_summary": "该项目提供面向真实工程师的技能工具集，源自作者的.agents目录。项目采用Shell语言，今日新增星标1736个，总星标数高达284492个。",
+        "ai_comment": "工程师技能工具集的流行，表明开发者社区对实用、可复用的自动化脚本需求旺盛，AI辅助开发工具可能进一步普及。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "boykopovar/AnyPS5",
+        "content_summary": "这是一个用于将PS5可执行文件自动移植到Linux和Windows系统的工具。项目采用C++语言，今日新增星标5805个，总星标数为26842个。",
+        "ai_comment": "游戏平台可执行文件的跨平台移植工具，可能降低游戏移植门槛，但需关注其合法性与对游戏开发生态的影响。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: Faplex – like `Claude agents` but all machines and harnesses",
-        "content_summary": "Faplex是一个工具，其功能类似于“Claude agents”，但旨在管理用户所有机器和测试工具（harnesses）上的Claude、Codex和OpenCode会话。它是一个假的多路复用器（Fake agent multiplexer），本身不进行多路复用，而是读取各个工具报告的状态，并允许用户通过其CLI界面选择并打开对应工具的会话。该项目基于Bun运行时，可通过npm或npx启动。",
-        "ai_comment": "该项目是对现有AI代理会话管理工具的扩展，试图解决在多机器、多工具环境下统一管理和访问AI会话的痛点，体现了工具链整合的趋势。"
+        "item_name": "Ask HN: Why aren't Americans rising up against tipping?",
+        "content_summary": "用户提问：既然许多文章称美国人厌恶小费文化，且小费本质上是可选的，为何人们不直接停止支付小费？这样既能推动社会改善，又能节省个人开支。",
+        "ai_comment": "问题触及了文化习惯与社会压力之间的深层矛盾，个体理性选择与集体行动困境在此凸显，AI在分析社会行为模式时可能提供新视角。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "How to connect any AI assistant to governed enterprise data with MCP",
-        "content_summary": "该文章介绍了如何使用模型上下文协议（MCP）将任何AI助手连接到受治理的企业数据。然而，该帖子在Hacker News上已被标记（flagged），具体原因未在提供的信息中说明。",
-        "ai_comment": "尽管内容被标记，但主题本身（通过MCP连接AI与企业数据）是当前企业AI集成的关键挑战，涉及数据安全与访问控制。"
+        "item_name": "The 'black box' wastewater trade that rakes in millions for UK utility companies",
+        "content_summary": "独家报道披露，英国水务公司去年通过处理工业和商业废水收入超过3.4亿英镑。这些废水被排放到污水处理厂，但许多处理厂无法有效去除化学污染物，导致污染物最终进入河流、海洋和农田。尽管法律要求水务公司接收工业废水并发放“贸易废水许可”，但公司有权拒绝申请。",
+        "ai_comment": "环境监管与商业利益的冲突案例，凸显了工业废水处理的技术短板与政策漏洞，AI在环境监测与污染物溯源方面可能有应用潜力。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Supreme Court: 401(k) case over private funds and underperformance",
+        "content_summary": "美国最高法院正在审理一起涉及英特尔401(k)退休计划的案件，其结果可能影响雇主在401(k)计划中纳入私募基金等另类投资的意愿。许多计划发起人目前处于观望状态，等待最高法院裁决及劳工部关于另类投资的新规最终确定。",
+        "ai_comment": "此案可能重塑退休金投资规则，影响数万亿美元资产配置。AI在投资组合管理与风险评估中的作用，或因此类监管变化而更受关注。"
       },
       {
         "source_group": "news",
-        "item_name": "ICE shooting stirs fresh clash between Trump officials and New York City - The Washington Post",
-        "content_summary": "《华盛顿邮报》头条报道了美国移民和海关执法局（ICE）特工在纽约市Marble Hill地区开枪击伤一名男子（奥斯卡·贝尔加尔）的事件，该男子的孩子当时也在车内。此事引发了特朗普政府官员与纽约市当局的新一轮冲突。相关报道还包括：法官阻止了对被击伤男子的驱逐；ICE官员为涉事特工辩护；以及事件对特朗普顾问曼达尼影响力的影响。",
-        "ai_comment": "此新闻事件涉及移民执法、地方与联邦政府冲突以及司法程序，是当前美国政治与社会议题的焦点之一，但内容本身与AI技术无直接关联。"
+        "item_name": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+        "content_summary": "美国宾夕法尼亚州伊利市发生枪击事件，警方称包括嫌疑人在内共9人死亡。AP News头条报道，Google News聚合了相关新闻。",
+        "ai_comment": "枪击事件再次引发公共安全讨论，AI在舆情监控、紧急响应信息整合方面可能发挥作用，但需注意数据准确性与伦理边界。"
       },
       {
         "source_group": "news",
-        "item_name": "Midterm Election Updates: James Talarico's Absence Rattles Texas Senate Race - The New York Times",
-        "content_summary": "《纽约时报》报道了德州参议院选举的中期选举动态，焦点在于民主党候选人詹姆斯·塔拉里科的长时间缺席搅动了选情。他消失多日后重新露面，其竞选团队对此进行了回应。前总统特朗普呼吁塔拉里科与对手帕克斯顿进行辩论，而塔拉里科对此表示欢迎。另有报道称，塔拉里科可能身处心理健康机构，但他后来出现在奥斯汀城市极限音乐节上。",
-        "ai_comment": "这是一则关于美国中期选举和地方政治竞选的新闻，涉及候选人行为、竞选策略和公众舆论，属于政治领域报道。"
+        "item_name": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios",
+        "content_summary": "一名众议院共和党人援引里根政策，提出动议以阻止特朗普政府与俄罗斯的石油交易。相关报道提及两党可能出台法案禁止美国购买俄罗斯石油，以及特朗普在中期选举前数周与普京达成柴油进口协议，这标志着美国政策的急剧逆转。",
+        "ai_comment": "地缘政治与能源政策交织，凸显美国内部分歧。AI在分析国际关系动态、能源市场影响方面可能有辅助决策价值。"
       },
       {
         "source_group": "news",
-        "item_name": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God - The New York Times",
-        "content_summary": "《纽约时报》报道，德州总检察长肯·帕克斯顿在一份证词中称，一位捐赠者给他股票是为了“取悦上帝”。此事源于一起导致帕克斯顿因欺诈被起诉的丑闻。相关报道还包括：围绕帕克斯顿记录的法庭斗争升级了德州参议院的竞选战；这位被视为MAGA阵营必须赢下的候选人被曝在欺诈调查中指责妻子；以及2014年证词中对其财富和投资手段的质疑细节被披露。",
-        "ai_comment": "此新闻涉及美国政治人物的财务丑闻、司法调查与选举政治的交叉影响，是政治与法律领域的报道。"
+        "item_name": "Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say - NBC News",
+        "content_summary": "沙特官员称，利雅得机场遭袭导致12人死亡（包括一名美国人），数百人受伤。相关报道指出，这是胡塞武装连日袭击后机场再次遇袭，美国正考虑加入对抗胡塞武装的战斗。",
+        "ai_comment": "袭击事件加剧地区紧张局势，可能影响全球能源与安全格局。AI在冲突预警、情报分析领域的应用，再次成为关注焦点。"
       }
     ],
-    "closing_note": "总体来看，今日热点凸显了AI开源项目正从通用能力向垂直、专业的工程与创作场景快速落地。开发者社区对能提升效率、降低门槛的AI工具展现出极高热情，但项目的长期价值仍需在实际应用与生态整合中验证。建议持续关注这些项目的版本迭代、社区反馈及合规性进展，以把握AI工具化的实际走向与机遇。",
+    "closing_note": "今日趋势显示，AI正深度融入开发工具链与专业工作流，从逆向工程到创意设计，自动化与智能化工具不断涌现。这些项目虽处不同阶段，但共同指向降低技术门槛、提升效率的实用方向。值得持续关注其实际落地能力、与现有生态的整合进展，以及社区如何推动这些工具从概念验证走向成熟应用。",
     "_errors": []
   }
 }
