@@ -1,0 +1,1414 @@
+{
+  "generated_at": "2026-10-12T00:58:16.557837+00:00",
+  "counts": {
+    "github_trending": 8,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "author": "morluto",
+        "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "TypeScript",
+        "score": 25599,
+        "comment_count": 23096,
+        "total_stars": 105025,
+        "built_by": [
+          "morluto",
+          "N0zoM1z0",
+          "kaoru0822-kitauji",
+          "claude",
+          "rudycelekli"
+        ],
+        "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 25599\n\nTotal stars: 105025\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "boykopovar/AnyPS5",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "author": "boykopovar",
+        "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "C++",
+        "score": 3952,
+        "comment_count": 2586,
+        "total_stars": 30147,
+        "built_by": [
+          "claude",
+          "adriadam10",
+          "oneandonlydean",
+          "boykopovar",
+          "MarcZX100"
+        ],
+        "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 3952\n\nTotal stars: 30147\n\nBuilt by: claude, adriadam10, oneandonlydean, boykopovar, MarcZX100",
+        "trend_score": 79.27,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.801,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "author": "storytold",
+        "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "Rust",
+        "score": 2957,
+        "comment_count": 2937,
+        "total_stars": 17936,
+        "built_by": [
+          "echelon",
+          "bflatastic",
+          "ArEnSc",
+          "wilwong",
+          "Quicksticks-oss"
+        ],
+        "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 2957\n\nTotal stars: 17936\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
+        "trend_score": 78.88,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.791,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "bilawalsidhu/gods-eye-view",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "author": "bilawalsidhu",
+        "summary": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "JavaScript",
+        "score": 886,
+        "comment_count": 10379,
+        "total_stars": 51700,
+        "built_by": [
+          "samehkhamis",
+          "claude",
+          "asturksever",
+          "bilawalsidhu",
+          "manjunath22466"
+        ],
+        "content_context": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\nLanguage: JavaScript\n\nStars today: 886\n\nTotal stars: 51700\n\nBuilt by: samehkhamis, claude, asturksever, bilawalsidhu, manjunath22466",
+        "trend_score": 78.47,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.78,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pytorch/pytorch",
+        "url": "https://github.com/pytorch/pytorch",
+        "author": "pytorch",
+        "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "Python",
+        "score": 315,
+        "comment_count": 32123,
+        "total_stars": 104495,
+        "built_by": [
+          "pytorchmergebot",
+          "malfet",
+          "ezyang",
+          "zou3519",
+          "cyyever"
+        ],
+        "content_context": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\nLanguage: Python\n\nStars today: 315\n\nTotal stars: 104495\n\nBuilt by: pytorchmergebot, malfet, ezyang, zou3519, cyyever",
+        "trend_score": 78.21,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.773,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "author": "cathrynlavery",
+        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "HTML",
+        "score": 1083,
+        "comment_count": 3199,
+        "total_stars": 50366,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "parveen0029",
+          "claude",
+          "mvanhorn"
+        ],
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1083\n\nTotal stars: 50366\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
+        "trend_score": 76.93,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.739,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "chrislgarry/Apollo-11",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "author": "chrislgarry",
+        "summary": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "Assembly",
+        "score": 466,
+        "comment_count": 8101,
+        "total_stars": 74258,
+        "built_by": [
+          "wopian",
+          "chrislgarry",
+          "dwiyatci",
+          "proudindiv",
+          "oldmud0"
+        ],
+        "content_context": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.\n\nLanguage: Assembly\n\nStars today: 466\n\nTotal stars: 74258\n\nBuilt by: wopian, chrislgarry, dwiyatci, proudindiv, oldmud0",
+        "trend_score": 76.72,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.734,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "author": "lyogavin",
+        "summary": "AirLLM 70B inference with single 4GB GPU",
+        "published_at": "2026-10-12T00:57:54.480320+00:00",
+        "language": "Jupyter Notebook",
+        "score": 548,
+        "comment_count": 3819,
+        "total_stars": 36493,
+        "built_by": [
+          "lyogavin",
+          "cursoragent",
+          "eltociear",
+          "NavodPeiris",
+          "claude"
+        ],
+        "content_context": "AirLLM 70B inference with single 4GB GPU\n\nLanguage: Jupyter Notebook\n\nStars today: 548\n\nTotal stars: 36493\n\nBuilt by: lyogavin, cursoragent, eltociear, NavodPeiris, claude",
+        "trend_score": 75.8,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.71,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Doory – Open-Source Canva",
+        "url": "https://github.com/shaongitbd/doory",
+        "author": "acley",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:48:27+00:00",
+        "summary": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/shaongitbd/doory",
+          "page_title": "GitHub - shaongitbd/doory: Open source canva alternative",
+          "page_description": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.",
+          "page_excerpt": "See it in action · Features · Templates · Doory vs Canva · Self-host · FAQ\n\nDoory is a full design editor that runs in your browser. Make posters, social posts, stories, slides, invitations, resumes, thumbnails and business cards: start from a template or a blank page, edit everything, and export to PNG, JPG, SVG, PDF, MP4 or GIF. Every feature is free, nobody needs an account to start, and you can run the whole thing on your own server.\n\nA real, unedited recording: pick a template, rename the band, recolour the dates, add a star, export."
+        },
+        "content_context": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.\n\nSee it in action · Features · Templates · Doory vs Canva · Self-host · FAQ Doory is a full design editor that runs in your browser. Make posters, social posts, stories, slides, invitations, resumes, thumbnails and business cards: start from a template or a blank page, edit everything, and export to PNG, JPG, SVG, PDF, MP4 or GIF. Every feature is free, nobody needs an account to start, and you can run the whole thing on your own server. A real, unedited recording: pick a template, rename the band, recolour the dates, add a star, export.",
+        "trend_score": 54.19,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.038,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Moon Mission That's a High-Tech Cave Hunt",
+        "url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+        "author": "rbanffy",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:20:34+00:00",
+        "summary": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+          "page_title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+          "page_description": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
+          "page_excerpt": "The chief aim of NASA's Artemis Program is to create a \"sustained program of lunar exploration and development.\" Beyond returning astronauts to the Moon for the first time since the Apollo Era, NASA and other space agencies hope to build the infrastructure that will enable regular, long-duration missions to the lunar surface. In addition to targeting the South Pole-Aitken Basin, NASA is eyeing...\n\nMeanwhile, space agencies need to send large amounts of cargo and robotic explorers to the surface. This includes the Geophysical Instruments for Marius Lunar pit Investigation (GIMLI), a Planetary Science Institute-led proposal that will investigate a \"skylight,\" a hole in an old lunar lava tube, to see if a large cave system extends beyond it. Such a location could provide a safe place for as...\n\nThe mission team will be led by PSI Associate Director and Senior Scientist Than Putzig. The work will be carried out in partnership with the Norwegian Space Agency , while Honeybee Robotics wil..."
+        },
+        "content_context": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.\n\nThe chief aim of NASA's Artemis Program is to create a \"sustained program of lunar exploration and development.\" Beyond returning astronauts to the Moon for the first time since the Apollo Era, NASA and other space agencies hope to build the infrastructure that will enable regular, long-duration missions to the lunar surface. In addition to targeting the South Pole-Aitken Basin, NASA is eyeing... Meanwhile, space agencies need to send large amounts of cargo and robotic explorers to the surface. This includes the Geophysical Instruments for Marius Lunar pit Investigation (GIMLI), a Planetary Science Institute-led proposal that will investigate a \"skylight,\" a hole in an old lunar lava tube, to see if a large cave system extends beyond it. Such a location could provide a safe place for as... The mission team will be led by PSI Associate Director and Senior Scientist Than Putzig. The work will be carried out in partnership with the Norwegian Space Agency , while Honeybee Robotics wil...",
+        "trend_score": 49.37,
+        "trend_breakdown": {
+          "freshness": 0.974,
+          "engagement": 0.076,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Whey up: Protein powder prices soar as global demand grows",
+        "url": "https://www.cbc.ca/news/business/whey-up-protein-powder-prices-soar-as-global-demand-grows-9.7369910",
+        "author": "BiraIgnacio",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:31:30+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.68,
+        "trend_breakdown": {
+          "freshness": 0.981,
+          "engagement": 0.038,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Engineering Ethics Should Be Part of Technical Training",
+        "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+        "author": "rbanffy",
+        "score": 2,
+        "comment_count": 2,
+        "published_at": "2026-10-12T00:23:38+00:00",
+        "summary": "Adding social responsibility to technical training prepares students to protect the public good",
+        "comment_highlights": [
+          "very sad this kind of garbage is on ieee"
+        ],
+        "linked_context": {
+          "resolved_url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+          "page_title": "We Need to Embed Ethics Into Our Engineering Courses",
+          "page_description": "Adding social responsibility to technical training prepares students to protect the public good",
+          "page_excerpt": "Adding social responsibility to technical training prepares students to protect the public good\n\nCynthia J. Finelli is a professor of Electrical Engineering and Computer Science and Education at the University of Michigan.\n\nSusan M. Lord is a professor and Founding Chair of Integrated Engineering at the University of San Diego."
+        },
+        "content_context": "Adding social responsibility to technical training prepares students to protect the public good\n\nAdding social responsibility to technical training prepares students to protect the public good Cynthia J. Finelli is a professor of Electrical Engineering and Computer Science and Education at the University of Michigan. Susan M. Lord is a professor and Founding Chair of Integrated Engineering at the University of San Diego.\n\nHN comment: very sad this kind of garbage is on ieee",
+        "trend_score": 45.95,
+        "trend_breakdown": {
+          "freshness": 0.976,
+          "engagement": 0.109,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Ethiopian Economic Miracle",
+        "url": "https://theborys.substack.com/p/the-ethiopian-economic-miracle",
+        "author": "kspacewalk2",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:47:55+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 42.11,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.06,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "What Makes a Good Notebook",
+        "url": "https://scrively.org/what-makes-a-good-notebook-etchr-lab-interview/",
+        "author": "andsoitis",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:34:31+00:00",
+        "summary": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://scrively.org/what-makes-a-good-notebook-etchr-lab-interview/",
+          "page_title": "Interview with Scrively: What Makes a Good Notebook?",
+          "page_description": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.",
+          "page_excerpt": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.\n\nUsually, I’m the one putting stationery through its paces here on Scrively. This time, the questions came my way.\n\nThe team at Etchr Lab , makers of sketchbooks and art supplies, invited me to talk about how I choose and use notebooks. At the time of our conversation, they were exploring how their experience with paper, covers and lay-flat construction might translate into a notebook for everyday writing. What would stationery enthusiasts want from it, and what would make it worth choosing?"
+        },
+        "content_context": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.\n\nEtchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh. Usually, I’m the one putting stationery through its paces here on Scrively. This time, the questions came my way. The team at Etchr Lab , makers of sketchbooks and art supplies, invited me to talk about how I choose and use notebooks. At the time of our conversation, they were exploring how their experience with paper, covers and lay-flat construction might translate into a notebook for everyday writing. What would stationery enthusiasts want from it, and what would make it worth choosing?",
+        "trend_score": 41.73,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.06,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Sysco Situation Just Got Worse [video]",
+        "url": "https://www.youtube.com/shorts/SVm9M7Ag3lk",
+        "author": "mikhael",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:55:37+00:00",
+        "summary": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/shorts/SVm9M7Ag3lk",
+          "page_title": "The Sysco Situation Just Got Worse...",
+          "page_description": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+          "page_excerpt": null
+        },
+        "content_context": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+        "trend_score": 41.63,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.038,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Things that don't bother me as your manager",
+        "url": "https://twitter.com/EmmaBostian/status/2107555593531588648",
+        "author": "LouisLazaris",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:52:02+00:00",
+        "summary": "13 things that don’t bother me as your manager 🙅‍♀️ 1. Leaving a meeting that isn’t useful to you. If you’re not needed and you’re not getting anything from it, take the time back. There are plenty of other meetings, I promise 📆",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/EmmaBostian/status/2107555593531588648",
+          "page_title": "Emma Bostian (@EmmaBostian) on X",
+          "page_description": "13 things that don’t bother me as your manager 🙅‍♀️ 1. Leaving a meeting that isn’t useful to you. If you’re not needed and you’re not getting anything from it, take the time back. There are plenty of other meetings, I promise 📆",
+          "page_excerpt": null
+        },
+        "content_context": "13 things that don’t bother me as your manager 🙅‍♀️ 1. Leaving a meeting that isn’t useful to you. If you’re not needed and you’re not getting anything from it, take the time back. There are plenty of other meetings, I promise 📆",
+        "trend_score": 41.52,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.038,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Creative Fuel Prompts",
+        "url": "https://fromthepencup.wordpress.com/2026/10/02/creative-fuel-prompts/",
+        "author": "andsoitis",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:29:35+00:00",
+        "summary": "A recent email from Anna Brones + the book Art Cure + a stack of unused sketchbooks + my usual morning shower created ripe conditions for another creative project. Anna’s email presented a li…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://fromthepencup.wordpress.com/2026/10/02/creative-fuel-prompts/",
+          "page_title": "Creative Fuel Prompts",
+          "page_description": "A recent email from Anna Brones + the book Art Cure + a stack of unused sketchbooks + my usual morning shower created ripe conditions for another creative project. Anna’s email presented a li…",
+          "page_excerpt": "A recent email from Anna Brones + the book Art Cure + a stack of unused sketchbooks + my usual morning shower created ripe conditions for another creative project. Anna’s email presented a list of 31 Creative Fuel Prompts for Inktober. Instead of deleting this list because it seems kind of daunting for this insecure, wannabe artist, I let it simmer—and my brain simmers best in the steam of a ho...\n\nI’m reading Art Cure: The Science Of How Art Saves Lives for a book group discussion, and though I’m finding it bit too academic to be riveting, it’s interesting enough to keep reading. One thing is clear—consistently engaging in the arts is beneficial to our brains and well-being in a myriad of ways. Even simple crafting counts. (Good news for this serial crafter!) With this in mind, I decided...\n\nUsing the small “viewfinder” that came with a set of Blackwing Volumes pencils, I drew 31 boxes on a single page of a large sketchbook. My intention is to randomly fill each box with a drawing..."
+        },
+        "content_context": "A recent email from Anna Brones + the book Art Cure + a stack of unused sketchbooks + my usual morning shower created ripe conditions for another creative project. Anna’s email presented a li…\n\nA recent email from Anna Brones + the book Art Cure + a stack of unused sketchbooks + my usual morning shower created ripe conditions for another creative project. Anna’s email presented a list of 31 Creative Fuel Prompts for Inktober. Instead of deleting this list because it seems kind of daunting for this insecure, wannabe artist, I let it simmer—and my brain simmers best in the steam of a ho... I’m reading Art Cure: The Science Of How Art Saves Lives for a book group discussion, and though I’m finding it bit too academic to be riveting, it’s interesting enough to keep reading. One thing is clear—consistently engaging in the arts is beneficial to our brains and well-being in a myriad of ways. Even simple crafting counts. (Good news for this serial crafter!) With this in mind, I decided... Using the small “viewfinder” that came with a set of Blackwing Volumes pencils, I drew 31 boxes on a single page of a large sketchbook. My intention is to randomly fill each box with a drawing...",
+        "trend_score": 40.89,
+        "trend_breakdown": {
+          "freshness": 0.98,
+          "engagement": 0.038,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10356879/",
+        "author": "bookofjoe",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-12T00:26:50+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10356879/",
+          "page_title": "Checking your browser - reCAPTCHA",
+          "page_description": null,
+          "page_excerpt": null
+        },
+        "content_context": null,
+        "trend_score": 40.82,
+        "trend_breakdown": {
+          "freshness": 0.978,
+          "engagement": 0.038,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRDJoSExmM24xR3N0eW5LRy1rYUJyV3BTbURWenNJTlcwWlRsNUxJV2NyN0VzM2JYSFlOODJqdmdXekhFanJkRWE5NzJ4eVVDT1c4RFM2d2RHNzJtcGV3YkJzZmZqYVhISXBRWkt3bHRyQlJHdlY0OFJRT21zTUpxZk83akZZSmh3X2pKRlcwU1VzSjhvVFc2bk10MWdPclo3bXQtdGMzTFRFcFZNNERhVVdiTjRRUQ?oc=5",
+        "published_at": "2026-10-12T00:49:21+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad；Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan；Lawmakers push back on Trump’s fuel deal with Russia。",
+        "related_headlines": [
+          "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
+          "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan",
+          "Lawmakers push back on Trump’s fuel deal with Russia",
+          "Trump’s diesel deal with Putin drives a wedge through the Western alliance",
+          "US Republicans, Democrats want Trump to reverse course on Russia diesel"
+        ],
+        "content_context": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad；Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan；Lawmakers push back on Trump’s fuel deal with Russia。\n\nRelated coverage: Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad\n\nRelated coverage: Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan\n\nRelated coverage: Lawmakers push back on Trump’s fuel deal with Russia\n\nRelated coverage: Trump’s diesel deal with Putin drives a wedge through the Western alliance\n\nRelated coverage: US Republicans, Democrats want Trump to reverse course on Russia diesel",
+        "trend_score": 41.6,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.0,
+          "topic_overlap": 0.364,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
+        "published_at": "2026-10-11T22:33:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct；Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount；Trump considering firing Kimberly Guilfoyle after embarrassing revelations, source says。",
+        "related_headlines": [
+          "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct",
+          "Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount",
+          "Trump considering firing Kimberly Guilfoyle after embarrassing revelations, source says",
+          "Exclusive | At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays",
+          "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle"
+        ],
+        "content_context": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct；Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount；Trump considering firing Kimberly Guilfoyle after embarrassing revelations, source says。\n\nRelated coverage: AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct\n\nRelated coverage: Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount\n\nRelated coverage: Trump considering firing Kimberly Guilfoyle after embarrassing revelations, source says\n\nRelated coverage: Exclusive | At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays\n\nRelated coverage: Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+        "trend_score": 37.29,
+        "trend_breakdown": {
+          "freshness": 0.899,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12 - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR094dC1TQTlURWVUOFpLQUc0a1kxa1cwM1h5aDQ3bmxzdk9jdk50VU9UaEVNbjFtVHpWNGZ5STNpeFB2RlJBUGxheVYza29vbnowUXMzYUh5VmVzTVR2WjhFQjU5M0RlZE9DWkI0UGtCZDEtMF9wUG9vcmtPalI1REsxYXNOYzhNNTJmaGh6Y2tVdVF6Z2F2WXdWMHEtbC11R1dXdnpyZmhkZmQtNWNpZFBvM2tkeS01WC1oRVVfRQ?oc=5",
+        "published_at": "2026-10-11T22:52:41+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12；Saudi and Yemeni Airports Hit in New Round of Strikes；Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war。",
+        "related_headlines": [
+          "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+          "Saudi and Yemeni Airports Hit in New Round of Strikes",
+          "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
+          "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+          "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13"
+        ],
+        "content_context": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12 - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12；Saudi and Yemeni Airports Hit in New Round of Strikes；Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war。\n\nRelated coverage: Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12\n\nRelated coverage: Saudi and Yemeni Airports Hit in New Round of Strikes\n\nRelated coverage: Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war\n\nRelated coverage: Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike\n\nRelated coverage: Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+        "trend_score": 36.55,
+        "trend_breakdown": {
+          "freshness": 0.913,
+          "engagement": 0.0,
+          "topic_overlap": 0.231,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
+        "published_at": "2026-10-11T21:36:40+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Ukraine and Russia have agreed 'energy ceasefire'；Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire；Zelenskyy says Russia violated energy truce announced by Trump。",
+        "related_headlines": [
+          "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+          "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+          "Zelenskyy says Russia violated energy truce announced by Trump",
+          "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
+          "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details"
+        ],
+        "content_context": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Ukraine and Russia have agreed 'energy ceasefire'；Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire；Zelenskyy says Russia violated energy truce announced by Trump。\n\nRelated coverage: Trump says Ukraine and Russia have agreed 'energy ceasefire'\n\nRelated coverage: Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire\n\nRelated coverage: Zelenskyy says Russia violated energy truce announced by Trump\n\nRelated coverage: Russia strikes power plant in Ukraine after Trump announces energy ceasefire\n\nRelated coverage: Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+        "trend_score": 36.29,
+        "trend_breakdown": {
+          "freshness": 0.86,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "The tenant activist at the center of Mamdani’s housing gamble - Politico",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazhDZUowamp3VldINUphZlRsR2oyN052RWFYU2doY2pmNmxvVVJfMGhVaTdEY3g5LVVxSWY2V0xMOExrVGtQUDVwU3UtMVJheHNha1ZxTF9RX092Y2U1VXZkM2VWLW4zZkh5QmVpZnNDSlVhTzJGam8xV0NEeDllUm1GWEZtZ044TzZQcEw3Y2RDVzB4UUdn?oc=5",
+        "published_at": "2026-10-11T20:00:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：The tenant activist at the center of Mamdani’s housing gamble。",
+        "related_headlines": [
+          "The tenant activist at the center of Mamdani’s housing gamble"
+        ],
+        "content_context": "The tenant activist at the center of Mamdani’s housing gamble - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：The tenant activist at the center of Mamdani’s housing gamble。\n\nRelated coverage: The tenant activist at the center of Mamdani’s housing gamble",
+        "trend_score": 35.14,
+        "trend_breakdown": {
+          "freshness": 0.793,
+          "engagement": 0.0,
+          "topic_overlap": 0.143,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "Las Vegas Review-Journal",
+        "category": "news",
+        "title": "Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge - Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXlXZmIwdElzeWxaeEMySFNMNFR1T3V5clJ3dVFyZU5pYzZDRVZySjFaMVd6Smx3UGlqa1g1NHpIb0tkZ0xwM0x2UU9rR0tZOG81NXF5U2JlUGlOaGpKZ29yRkliY0s0QWJ5QjVYUk16UmhSWFRTNV9hUi1rS3JORUJ1c1ZWZlBTZUh6QThRclFKcXplTExTWk9RZzc?oc=5",
+        "published_at": "2026-10-11T22:17:55+00:00",
+        "summary": "Las Vegas Review-Journal 头条聚焦该事件，Google News 同时聚合到这些相关表述：Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge；Flash flooding sends water rushing through streets near Las Vegas strip；Tropical Storm Rachel downgraded as high winds and rain turn inward。",
+        "related_headlines": [
+          "Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge",
+          "Flash flooding sends water rushing through streets near Las Vegas strip",
+          "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+          "Some California beaches forced to close after 'unusually high' ocean water levels from Tropical Storm Rachel",
+          "Waves from Tropical Storm Rachel hit the Californian coast"
+        ],
+        "content_context": "Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge - Las Vegas Review-Journal\n\nLas Vegas Review-Journal 头条聚焦该事件，Google News 同时聚合到这些相关表述：Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge；Flash flooding sends water rushing through streets near Las Vegas strip；Tropical Storm Rachel downgraded as high winds and rain turn inward。\n\nRelated coverage: Las Vegas on the verge of all-time rainfall record as Rachel’s storms surge\n\nRelated coverage: Flash flooding sends water rushing through streets near Las Vegas strip\n\nRelated coverage: Tropical Storm Rachel downgraded as high winds and rain turn inward\n\nRelated coverage: Some California beaches forced to close after 'unusually high' ocean water levels from Tropical Storm Rachel\n\nRelated coverage: Waves from Tropical Storm Rachel hit the Californian coast",
+        "trend_score": 31.99,
+        "trend_breakdown": {
+          "freshness": 0.889,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEpUYXVFNWlYeno0Z19ubU9GWmlULV9tVzY2RS05VjEwUlJ2YjFxdE9fTHZvUGdYMkhuRERlZkhvVlRPYlMtRjVBRHlyNzJwbU1xOWNkaGFnZWFDU0xCRVFBNHJXSC1CeXNhVkluTkFUTzNVcGw3NmNJMWM0cUlvM2xjN09QSGlxMzc2X1ozeHczNmplZlY3aWlKaVVXZWlfUHdKMlVIdWFQQdIBrwFBVV95cUxQcXVSZ052dVlSRjEzYkVFX2FRVlpnS1J0c2w5d3FkeDV4Yng3aHdDM3Z6eVlHbXh5QjZIZVZoLTBzbFd4bnExR3JTNGJYUXBJSmk5dGR6aDJEZFRWMDhrX25uRVNpWDU3aVBDbDQ0NzZtMmpjNUtLSmh1NEE4NUt1eFZkVV9CMlRPZWl0SUdhVEJIcHl6Y3pON2lOckJxdk56aFkzTzAxTkptc1lSXzBz?oc=5",
+        "published_at": "2026-10-11T20:34:39+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops；Leader Lauds Police Force for Safeguarding Iran’s Security；Law Enforcement Forces Stood Firm and Resolute Amidst Wartime Conditions。",
+        "related_headlines": [
+          "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops",
+          "Leader Lauds Police Force for Safeguarding Iran’s Security",
+          "Law Enforcement Forces Stood Firm and Resolute Amidst Wartime Conditions",
+          "Iran’s security indicators improve despite two wars, military chief says",
+          "Mojtaba Khamenei Hails Police as a “Pillar” as Bombing and Recession Undercut Show of Strength"
+        ],
+        "content_context": "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops；Leader Lauds Police Force for Safeguarding Iran’s Security；Law Enforcement Forces Stood Firm and Resolute Amidst Wartime Conditions。\n\nRelated coverage: Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops\n\nRelated coverage: Leader Lauds Police Force for Safeguarding Iran’s Security\n\nRelated coverage: Law Enforcement Forces Stood Firm and Resolute Amidst Wartime Conditions\n\nRelated coverage: Iran’s security indicators improve despite two wars, military chief says\n\nRelated coverage: Mojtaba Khamenei Hails Police as a “Pillar” as Bombing and Recession Undercut Show of Strength",
+        "trend_score": 31.87,
+        "trend_breakdown": {
+          "freshness": 0.817,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXJNaVZnS3F0M1R5N1ZmM1RTTGg5X19Jb252amRSTFItOFJPZXpTY0ZrR0NWN0VHcGZYdGl4X0NTMDZGSnNyLXZJR0RjVTR6Tm5od0NiS2VFczlkRUVNUjl5U0t1MGprUlNiVWNOa09BRmQ4VlFMR2VYWHF4TjBoQ3NuekJlM09KR1QxbllLQTliTGNNaGphWnV4WTN1MXpRMThSUWlZUdIBrAFBVV95cUxQU2Y1Y3M1OF9OZXpUdXR4aUlYclBIa24tYXJRZnBvZnhQTUM2VEZjM0JFN1VBUlRzSlZIQzkwX1hPWG0yNHU2cHUxV0lXWjhjN2JOd2hKUERkM0YwQnRGUzJWT3hkNVhKNzBkRDJyMFNhTjZITFFZb3ZlYnFjdldmZFJXa0ZsVHhCdUFaRlpid0V2MklNTTk0QmFDRmdFYVBNRGxrU25BMzlob0hv?oc=5",
+        "published_at": "2026-10-11T18:08:32+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hurricane Isaias’ devastating aftermath comes into focus in striking images；Isaias brought flooding, dangerous winds and tornadoes to the Southeast；Hurricane Isaias in Video and Pictures。",
+        "related_headlines": [
+          "Hurricane Isaias’ devastating aftermath comes into focus in striking images",
+          "Isaias brought flooding, dangerous winds and tornadoes to the Southeast",
+          "Hurricane Isaias in Video and Pictures",
+          "Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power",
+          "Inside Isaias: Saildrone documents the wild environment inside the deadly hurricane before violent landfall"
+        ],
+        "content_context": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hurricane Isaias’ devastating aftermath comes into focus in striking images；Isaias brought flooding, dangerous winds and tornadoes to the Southeast；Hurricane Isaias in Video and Pictures。\n\nRelated coverage: Hurricane Isaias’ devastating aftermath comes into focus in striking images\n\nRelated coverage: Isaias brought flooding, dangerous winds and tornadoes to the Southeast\n\nRelated coverage: Hurricane Isaias in Video and Pictures\n\nRelated coverage: Impact of Isaias: Officials confirm 2 storm-related deaths in Florida, 430K without power\n\nRelated coverage: Inside Isaias: Saildrone documents the wild environment inside the deadly hurricane before violent landfall",
+        "trend_score": 28.96,
+        "trend_breakdown": {
+          "freshness": 0.715,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Hill",
+        "category": "news",
+        "title": "Mullin says livestreaming Hasan execution is part of ‘restoring American values’ - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGRDMUl5SUtTWnFDN0tBWEJsRFo5VUtuS0x4QlVSS2gyMDZwT1RyeDZEN0s4dTh3Q3dOdTloQ1ppNktCclpmaTVLQ19UUFZ2akFHbm1zRG5zOEl6aHd3aGhFZWE3dElJaEpNOUMxWXRabHdMZFBRR2FYTXgtV0dFYTlqZEQwSUhxRFdNNUJ4Sk91X1dpdHJB0gGcAUFVX3lxTE5SbDhhTmFRcS1hS2o4VnBuN1VUVzhPNk9rZ0RKelVleTVmVjJ4cGlCRkM4UFgybHZERFlnVDRSOVFvUHc0enh2dEtYTVg3NkZQMXZzNXp4eFYyNmxkSWFpV2FtTVRtbGFfdnFFN0NSOFFSaWJyZVhRaDBYUWpWRE5xUmJybFV6eG00ZmhJNzNlcnJ2TlU4bWlfbkx0bg?oc=5",
+        "published_at": "2026-10-11T16:46:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mullin says livestreaming Hasan execution is part of ‘restoring American values’；Opinion | Fill the government with barbarians, you get barbaric government；US Homeland Security secretary sees no ‘risk’ from livestreamed execution。",
+        "related_headlines": [
+          "Mullin says livestreaming Hasan execution is part of ‘restoring American values’",
+          "Opinion | Fill the government with barbarians, you get barbaric government",
+          "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+          "Veteran shot 7 times in Fort Hood massacre has a warning for Americans planning to watch execution",
+          "Emmer says he’s ‘so happy’ Trump will decide whether to stream public execution"
+        ],
+        "content_context": "Mullin says livestreaming Hasan execution is part of ‘restoring American values’ - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mullin says livestreaming Hasan execution is part of ‘restoring American values’；Opinion | Fill the government with barbarians, you get barbaric government；US Homeland Security secretary sees no ‘risk’ from livestreamed execution。\n\nRelated coverage: Mullin says livestreaming Hasan execution is part of ‘restoring American values’\n\nRelated coverage: Opinion | Fill the government with barbarians, you get barbaric government\n\nRelated coverage: US Homeland Security secretary sees no ‘risk’ from livestreamed execution\n\nRelated coverage: Veteran shot 7 times in Fort Hood massacre has a warning for Americans planning to watch execution\n\nRelated coverage: Emmer says he’s ‘so happy’ Trump will decide whether to stream public execution",
+        "trend_score": 26.89,
+        "trend_breakdown": {
+          "freshness": 0.658,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court - Politico",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0xfV2stYzdHN3BTRnZQUVlGal95V2drRU5iTElmRHp2T2hMUk92VW5oOEJXc2hBTnhiMmswcmdPSDktNGNucHNfX1B4RTd4bmdOQzRFbmk4QU1NUXQxMlIwRmxETXk5Y25UTlBjb2FkZDVYeXdudVd5ZlpaejVWWVc1blcwZ3RqZXRXVTllbnFuTk9Gb0RwMk16RjdWMVZ2YTl1RkxEZ0VFaXpTZmRXVV82NHRKUzJIQzZVYVJzVzRfQTRVNi1j?oc=5",
+        "published_at": "2026-10-11T14:41:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court；Judge orders Trump to halt taxpayer-funded ads with hours left in administration’s push；Judge orders Trump admin to stop airing challenged government-funded ads immediately。",
+        "related_headlines": [
+          "Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court",
+          "Judge orders Trump to halt taxpayer-funded ads with hours left in administration’s push",
+          "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
+          "Trump propaganda ads funded by taxpayers to stop, DHS says",
+          "Judge orders Trump administration to cancel taxpayer-funded promotional TV ads"
+        ],
+        "content_context": "Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court；Judge orders Trump to halt taxpayer-funded ads with hours left in administration’s push；Judge orders Trump admin to stop airing challenged government-funded ads immediately。\n\nRelated coverage: Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court\n\nRelated coverage: Judge orders Trump to halt taxpayer-funded ads with hours left in administration’s push\n\nRelated coverage: Judge orders Trump admin to stop airing challenged government-funded ads immediately\n\nRelated coverage: Trump propaganda ads funded by taxpayers to stop, DHS says\n\nRelated coverage: Judge orders Trump administration to cancel taxpayer-funded promotional TV ads",
+        "trend_score": 23.03,
+        "trend_breakdown": {
+          "freshness": 0.571,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "TypeScript",
+      "score": 25599,
+      "comment_count": 23096,
+      "total_stars": 105025,
+      "built_by": [
+        "morluto",
+        "N0zoM1z0",
+        "kaoru0822-kitauji",
+        "claude",
+        "rudycelekli"
+      ],
+      "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 25599\n\nTotal stars: 105025\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "author": "boykopovar",
+      "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "C++",
+      "score": 3952,
+      "comment_count": 2586,
+      "total_stars": 30147,
+      "built_by": [
+        "claude",
+        "adriadam10",
+        "oneandonlydean",
+        "boykopovar",
+        "MarcZX100"
+      ],
+      "content_context": "Tool for automatic PS5 executables porting to Linux and Windows\n\nLanguage: C++\n\nStars today: 3952\n\nTotal stars: 30147\n\nBuilt by: claude, adriadam10, oneandonlydean, boykopovar, MarcZX100",
+      "trend_score": 79.27,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.801,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "author": "storytold",
+      "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "Rust",
+      "score": 2957,
+      "comment_count": 2937,
+      "total_stars": 17936,
+      "built_by": [
+        "echelon",
+        "bflatastic",
+        "ArEnSc",
+        "wilwong",
+        "Quicksticks-oss"
+      ],
+      "content_context": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\nLanguage: Rust\n\nStars today: 2957\n\nTotal stars: 17936\n\nBuilt by: echelon, bflatastic, ArEnSc, wilwong, Quicksticks-oss",
+      "trend_score": 78.88,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.791,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "author": "bilawalsidhu",
+      "summary": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "JavaScript",
+      "score": 886,
+      "comment_count": 10379,
+      "total_stars": 51700,
+      "built_by": [
+        "samehkhamis",
+        "claude",
+        "asturksever",
+        "bilawalsidhu",
+        "manjunath22466"
+      ],
+      "content_context": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\nLanguage: JavaScript\n\nStars today: 886\n\nTotal stars: 51700\n\nBuilt by: samehkhamis, claude, asturksever, bilawalsidhu, manjunath22466",
+      "trend_score": 78.47,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.78,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "author": "pytorch",
+      "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "Python",
+      "score": 315,
+      "comment_count": 32123,
+      "total_stars": 104495,
+      "built_by": [
+        "pytorchmergebot",
+        "malfet",
+        "ezyang",
+        "zou3519",
+        "cyyever"
+      ],
+      "content_context": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\nLanguage: Python\n\nStars today: 315\n\nTotal stars: 104495\n\nBuilt by: pytorchmergebot, malfet, ezyang, zou3519, cyyever",
+      "trend_score": 78.21,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.773,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "author": "cathrynlavery",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "HTML",
+      "score": 1083,
+      "comment_count": 3199,
+      "total_stars": 50366,
+      "built_by": [
+        "cathrynlavery",
+        "github-actions",
+        "parveen0029",
+        "claude",
+        "mvanhorn"
+      ],
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1083\n\nTotal stars: 50366\n\nBuilt by: cathrynlavery, github-actions, parveen0029, claude, mvanhorn",
+      "trend_score": 76.93,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.739,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "author": "chrislgarry",
+      "summary": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "Assembly",
+      "score": 466,
+      "comment_count": 8101,
+      "total_stars": 74258,
+      "built_by": [
+        "wopian",
+        "chrislgarry",
+        "dwiyatci",
+        "proudindiv",
+        "oldmud0"
+      ],
+      "content_context": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.\n\nLanguage: Assembly\n\nStars today: 466\n\nTotal stars: 74258\n\nBuilt by: wopian, chrislgarry, dwiyatci, proudindiv, oldmud0",
+      "trend_score": 76.72,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.734,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "author": "lyogavin",
+      "summary": "AirLLM 70B inference with single 4GB GPU",
+      "published_at": "2026-10-12T00:57:54.480320+00:00",
+      "language": "Jupyter Notebook",
+      "score": 548,
+      "comment_count": 3819,
+      "total_stars": 36493,
+      "built_by": [
+        "lyogavin",
+        "cursoragent",
+        "eltociear",
+        "NavodPeiris",
+        "claude"
+      ],
+      "content_context": "AirLLM 70B inference with single 4GB GPU\n\nLanguage: Jupyter Notebook\n\nStars today: 548\n\nTotal stars: 36493\n\nBuilt by: lyogavin, cursoragent, eltociear, NavodPeiris, claude",
+      "trend_score": 75.8,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.71,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "author": "acley",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:48:27+00:00",
+      "summary": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/shaongitbd/doory",
+        "page_title": "GitHub - shaongitbd/doory: Open source canva alternative",
+        "page_description": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.",
+        "page_excerpt": "See it in action · Features · Templates · Doory vs Canva · Self-host · FAQ\n\nDoory is a full design editor that runs in your browser. Make posters, social posts, stories, slides, invitations, resumes, thumbnails and business cards: start from a template or a blank page, edit everything, and export to PNG, JPG, SVG, PDF, MP4 or GIF. Every feature is free, nobody needs an account to start, and you can run the whole thing on your own server.\n\nA real, unedited recording: pick a template, rename the band, recolour the dates, add a star, export."
+      },
+      "content_context": "Open source canva alternative. Contribute to shaongitbd/doory development by creating an account on GitHub.\n\nSee it in action · Features · Templates · Doory vs Canva · Self-host · FAQ Doory is a full design editor that runs in your browser. Make posters, social posts, stories, slides, invitations, resumes, thumbnails and business cards: start from a template or a blank page, edit everything, and export to PNG, JPG, SVG, PDF, MP4 or GIF. Every feature is free, nobody needs an account to start, and you can run the whole thing on your own server. A real, unedited recording: pick a template, rename the band, recolour the dates, add a star, export.",
+      "trend_score": 54.19,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.038,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "The Moon Mission That's a High-Tech Cave Hunt",
+      "url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+      "author": "rbanffy",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:20:34+00:00",
+      "summary": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+        "page_title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+        "page_description": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
+        "page_excerpt": "The chief aim of NASA's Artemis Program is to create a \"sustained program of lunar exploration and development.\" Beyond returning astronauts to the Moon for the first time since the Apollo Era, NASA and other space agencies hope to build the infrastructure that will enable regular, long-duration missions to the lunar surface. In addition to targeting the South Pole-Aitken Basin, NASA is eyeing...\n\nMeanwhile, space agencies need to send large amounts of cargo and robotic explorers to the surface. This includes the Geophysical Instruments for Marius Lunar pit Investigation (GIMLI), a Planetary Science Institute-led proposal that will investigate a \"skylight,\" a hole in an old lunar lava tube, to see if a large cave system extends beyond it. Such a location could provide a safe place for as...\n\nThe mission team will be led by PSI Associate Director and Senior Scientist Than Putzig. The work will be carried out in partnership with the Norwegian Space Agency , while Honeybee Robotics wil..."
+      },
+      "content_context": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.\n\nThe chief aim of NASA's Artemis Program is to create a \"sustained program of lunar exploration and development.\" Beyond returning astronauts to the Moon for the first time since the Apollo Era, NASA and other space agencies hope to build the infrastructure that will enable regular, long-duration missions to the lunar surface. In addition to targeting the South Pole-Aitken Basin, NASA is eyeing... Meanwhile, space agencies need to send large amounts of cargo and robotic explorers to the surface. This includes the Geophysical Instruments for Marius Lunar pit Investigation (GIMLI), a Planetary Science Institute-led proposal that will investigate a \"skylight,\" a hole in an old lunar lava tube, to see if a large cave system extends beyond it. Such a location could provide a safe place for as... The mission team will be led by PSI Associate Director and Senior Scientist Than Putzig. The work will be carried out in partnership with the Norwegian Space Agency , while Honeybee Robotics wil...",
+      "trend_score": 49.37,
+      "trend_breakdown": {
+        "freshness": 0.974,
+        "engagement": 0.076,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Whey up: Protein powder prices soar as global demand grows",
+      "url": "https://www.cbc.ca/news/business/whey-up-protein-powder-prices-soar-as-global-demand-grows-9.7369910",
+      "author": "BiraIgnacio",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:31:30+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 46.68,
+      "trend_breakdown": {
+        "freshness": 0.981,
+        "engagement": 0.038,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Engineering Ethics Should Be Part of Technical Training",
+      "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+      "author": "rbanffy",
+      "score": 2,
+      "comment_count": 2,
+      "published_at": "2026-10-12T00:23:38+00:00",
+      "summary": "Adding social responsibility to technical training prepares students to protect the public good",
+      "comment_highlights": [
+        "very sad this kind of garbage is on ieee"
+      ],
+      "linked_context": {
+        "resolved_url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+        "page_title": "We Need to Embed Ethics Into Our Engineering Courses",
+        "page_description": "Adding social responsibility to technical training prepares students to protect the public good",
+        "page_excerpt": "Adding social responsibility to technical training prepares students to protect the public good\n\nCynthia J. Finelli is a professor of Electrical Engineering and Computer Science and Education at the University of Michigan.\n\nSusan M. Lord is a professor and Founding Chair of Integrated Engineering at the University of San Diego."
+      },
+      "content_context": "Adding social responsibility to technical training prepares students to protect the public good\n\nAdding social responsibility to technical training prepares students to protect the public good Cynthia J. Finelli is a professor of Electrical Engineering and Computer Science and Education at the University of Michigan. Susan M. Lord is a professor and Founding Chair of Integrated Engineering at the University of San Diego.\n\nHN comment: very sad this kind of garbage is on ieee",
+      "trend_score": 45.95,
+      "trend_breakdown": {
+        "freshness": 0.976,
+        "engagement": 0.109,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "The Ethiopian Economic Miracle",
+      "url": "https://theborys.substack.com/p/the-ethiopian-economic-miracle",
+      "author": "kspacewalk2",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:47:55+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 42.11,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.06,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "What Makes a Good Notebook",
+      "url": "https://scrively.org/what-makes-a-good-notebook-etchr-lab-interview/",
+      "author": "andsoitis",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:34:31+00:00",
+      "summary": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://scrively.org/what-makes-a-good-notebook-etchr-lab-interview/",
+        "page_title": "Interview with Scrively: What Makes a Good Notebook?",
+        "page_description": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.",
+        "page_excerpt": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.\n\nUsually, I’m the one putting stationery through its paces here on Scrively. This time, the questions came my way.\n\nThe team at Etchr Lab , makers of sketchbooks and art supplies, invited me to talk about how I choose and use notebooks. At the time of our conversation, they were exploring how their experience with paper, covers and lay-flat construction might translate into a notebook for everyday writing. What would stationery enthusiasts want from it, and what would make it worth choosing?"
+      },
+      "content_context": "Etchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh.\n\nEtchr Lab asks Scrively what makes a good notebook – from fountain-pen paper and useful formats to covers, page counts and the pleasure of starting afresh. Usually, I’m the one putting stationery through its paces here on Scrively. This time, the questions came my way. The team at Etchr Lab , makers of sketchbooks and art supplies, invited me to talk about how I choose and use notebooks. At the time of our conversation, they were exploring how their experience with paper, covers and lay-flat construction might translate into a notebook for everyday writing. What would stationery enthusiasts want from it, and what would make it worth choosing?",
+      "trend_score": 41.73,
+      "trend_breakdown": {
+        "freshness": 0.984,
+        "engagement": 0.06,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "The Sysco Situation Just Got Worse [video]",
+      "url": "https://www.youtube.com/shorts/SVm9M7Ag3lk",
+      "author": "mikhael",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-12T00:55:37+00:00",
+      "summary": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.youtube.com/shorts/SVm9M7Ag3lk",
+        "page_title": "The Sysco Situation Just Got Worse...",
+        "page_description": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+        "page_excerpt": null
+      },
+      "content_context": "Sysco just announced a $29 billion deal to buy a huge competitor, Restaurant Depot.Restaurant Depot is a lifeline for small restaurants and food trucks.If it...",
+      "trend_score": 41.63,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.038,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域热点聚焦于开源工具的突破与创新。逆向工程智能体REA单日获星超2.5万，彰显AI赋能代码分析的潜力；AirLLM项目声称能以4GB显存运行700亿参数模型，为大模型轻量化部署带来新可能。同时，创作引擎ArtCraft、跨平台移植工具AnyPS5及服务于AI编程的diagram-design图表库，分别从创意生产、系统软件和开发者工具维度展示了AI生态的多元化发展。经典项目如PyTorch保持稳定热度，而'God's Eye View'卫星模拟器与阿波罗11号源代码则体现了技术的历史纵深与跨界融合。",
+    "named_hotspots": [
+      {
+        "name": "REA",
+        "kind": "project",
+        "source": "GitHub",
+        "what_happened": "一个名为REA的开源项目在GitHub上趋势飙升，单日获得超过2.5万星标，总星标数已突破10.5万。",
+        "core_details": "REA是一个用TypeScript编写的工具，旨在利用智能体（agents）技术对任何事物进行逆向工程，范围涵盖从应用程序行为到原生二进制文件。项目由开发者morluto等人创建和维护。",
+        "ai_take": "该项目将智能体技术与逆向工程深度结合，展示了AI在自动化代码分析、安全研究和软件理解方面的潜力，可能降低逆向工程的技术门槛并提升效率。",
+        "hype_check": "极高的单日星标增长和总关注度表明其在开发者社区中引发了强烈兴趣，可能契合了当前对AI赋能开发工具和安全分析的热潮。",
+        "value_check": "作为一个开源工具，它提供了具体的逆向工程解决方案，若功能如其所述，对安全研究员、软件工程师和学术研究具有实用价值。",
+        "follow_up": "关注其后续版本更新、实际应用案例以及社区反馈，以评估其技术成熟度和在实际逆向工程场景中的有效性。",
+        "evidence": "项目描述明确指出其目标为“使用智能体对任何事物进行逆向工程”，GitHub趋势数据（单日星标25599，总星标105025）和TypeScript语言实现提供了佐证。"
+      },
+      {
+        "name": "AnyPS5",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为AnyPS5的GitHub项目在趋势榜上获得高关注，该项目旨在自动将PS5可执行文件移植到Linux和Windows平台。",
+        "core_details": "该项目由boykopovar等人开发，使用C++语言编写。今日新增星标3952个，总星标数达30147个，项目讨论区有2586条评论，显示出较高的社区活跃度。",
+        "ai_take": "该项目本身不直接涉及AI技术，但其自动化移植工具的开发思路可能启发AI辅助的代码转换或跨平台适配研究，尤其是在游戏和系统软件领域。",
+        "hype_check": "高星标增长和讨论量表明项目在开发者社区中受到强烈关注，可能源于对PS5平台破解或跨平台游戏运行的技术兴趣，但需注意法律和版权风险。",
+        "value_check": "若技术可行，该项目可为开发者提供跨平台开发工具，降低移植成本，但实际效果取决于PS5系统复杂性及法律合规性，目前仍属早期探索阶段。",
+        "follow_up": "关注项目后续更新是否解决实际移植案例，以及索尼等版权方的法律回应；同时可观察类似工具在游戏移植生态中的技术演进。",
+        "evidence": "项目GitHub页面显示语言为C++，星标数据及作者信息；趋势评分79.27分反映短期热度，但缺乏页面描述或摘录等详细技术说明。"
+      },
+      {
+        "name": "ArtCraft",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "ArtCraft是一个为艺术家、设计师和电影制作人设计的意图驱动创作引擎，近期在GitHub上趋势热度显著，今日新增星标数达2957，总星标数已累积至17936。",
+        "core_details": "该项目由storytold开发，使用Rust语言编写，核心贡献者包括echelon、bflatastic、ArEnSc、wilwong和Quicksticks-oss。它旨在通过引擎化工具支持创意工作流程，专注于艺术与设计的意图实现。",
+        "ai_take": "ArtCraft作为创作引擎，可能整合了AI辅助设计或生成功能，以提升艺术创作的效率与表现力，反映了AI在创意产业中工具化、引擎化的趋势。",
+        "hype_check": "热度较高，在GitHub趋势榜上排名靠前，单日星标增长近3000，表明其在开发者与创意社群中受到广泛关注，但实际应用案例和成熟度尚需观察。",
+        "value_check": "对于艺术家和设计师而言，该项目提供了潜在的定制化创作工具，价值在于可能降低技术门槛、增强创作控制；但作为开源项目，其稳定性和社区支持是关键变量。",
+        "follow_up": "关注其版本更新、用户案例及与AI生成工具的集成进展，以评估其在实际创意工作流中的实用性和影响力。",
+        "evidence": "GitHub趋势数据：今日星标增长2957，总星标17936，语言为Rust，项目描述为“意图驱动创作引擎”，开发者列表明确。"
+      },
+      {
+        "name": "God's Eye View",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为'God's Eye View'的开源项目在GitHub上迅速走红，它是一款在浏览器中运行的间谍卫星模拟器，但使用的数据是真实的。该项目提供了在逼真3D地球上的实时开源空间情报。",
+        "core_details": "该项目由bilawalsidhu等人开发，使用JavaScript语言编写。当前单日获得886颗星，总星数已达51700，显示出极高的社区关注度。项目本质上是一个交互式的空间情报平台，允许用户在浏览器中模拟卫星视角，访问真实的地理空间数据。",
+        "ai_take": "该项目本身并非AI模型，但其构建过程中可能利用了AI辅助工具（如Claude）。它代表了地理空间数据可视化与开源情报（OSINT）的融合趋势，为公众提供了接近专业级卫星分析能力的工具。未来可能与AI驱动的图像识别、变化检测等能力结合，增强其分析价值。",
+        "hype_check": "高。单日近900星的增长和超过5万的总星数表明其在开发者社区中引起了强烈兴趣。概念新颖（'真实数据的间谍卫星模拟器'）且具有直观的演示价值，容易引发传播。但需注意，其核心是数据可视化与集成，而非底层数据生产或尖端AI算法。",
+        "value_check": "高。项目降低了访问和探索实时地理空间数据的门槛，具有教育、研究、新闻调查乃至人道主义监测等潜在应用价值。开源性质促进了透明度和协作，符合'公民科学'和开放数据运动精神。技术栈（JavaScript/Web）确保了易用性和可及性。",
+        "follow_up": "关注其后续是否集成更多数据源（如合成孔径雷达SAR、多光谱数据）或AI分析功能（自动目标识别、变化检测）。观察是否有基于此项目的衍生应用或商业化尝试。同时，需留意此类工具可能引发的隐私与伦理讨论。",
+        "evidence": "项目GitHub仓库描述为'A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.'，语言为JavaScript，由bilawalsidhu等人构建，总星数51700，单日增长886星。"
+      },
+      {
+        "name": "PyTorch",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "PyTorch 项目在 GitHub 趋势榜上热度上升，今日新增 315 颗星，总星数达 104,495。",
+        "core_details": "PyTorch 是一个基于 Python 的开源机器学习库，提供张量计算和动态神经网络功能，并具备强大的 GPU 加速能力。项目主要由 pytorchmergebot、malfet、ezyang、zou3519、cyyever 等贡献者维护。",
+        "ai_take": "作为深度学习研究和应用的主流框架之一，PyTorch 的动态计算图设计和易用性使其在学术界和工业界广受欢迎，持续的 GitHub 热度反映了其活跃的社区和生态。",
+        "hype_check": "热度合理，作为核心 AI 框架，其 GitHub 活动（如星标增长、贡献者活跃度）是衡量项目健康和社区影响力的直接指标。",
+        "value_check": "高价值。PyTorch 是 AI 基础设施的关键组成部分，支持从研究原型到生产部署的广泛工作流，其开源性质和持续更新对推动 AI 技术进步至关重要。",
+        "follow_up": "关注 PyTorch 2.0+ 版本的性能优化、编译器（如 TorchDynamo）进展，以及其在边缘计算、大模型训练等场景的应用案例。",
+        "evidence": "GitHub 趋势数据：今日星标增长 315，总星标 104,495，项目描述强调“Python 中的张量和动态神经网络，具备强大的 GPU 加速”。"
+      },
+      {
+        "name": "diagram-design",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 diagram-design 的 GitHub 项目在趋势榜上获得关注，该项目专注于为多种 AI 编程工具提供编辑图表设计。",
+        "core_details": "该项目由 cathrynlavery 创建，提供了 44 种图表类型，专为 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid 和 Pi 等 AI 编程工具设计。其核心特点是使用自包含的 HTML + SVG 格式，明确声明“无阴影”和“无 Mermaid 的混乱”。项目语言为 HTML，今日获星 1083，总星数已达 50366。",
+        "ai_take": "该项目直接服务于 AI 辅助编程生态，其图表设计旨在清晰、简洁地可视化与 AI 代码生成、工具工作流相关的概念，反映了开发者对提升 AI 工具文档和说明材料视觉质量的关注。",
+        "hype_check": "趋势分 76.93 和单日千星增长表明其热度很高，但需注意这可能源于其解决了一个具体痛点（如对现有图表工具的不满）或满足了开发者社区对高质量、轻量级可视化资源的需求，而非技术上的重大突破。",
+        "value_check": "对于使用相关 AI 编程工具的开发者、技术写作者或教育者而言，这是一个实用的资源库，能快速生成专业、一致的示意图，提升文档和演示文稿的质量。其“自包含”和拒绝“Mermaid slop”的定位，可能吸引追求代码简洁性和视觉控制力的用户。",
+        "follow_up": "可关注该项目是否会集成到更多开发工具链中，或衍生出更复杂的图表生成工具。同时，观察社区（如 issue 和 PR）如何扩展其图表库或应用于其他 AI 开发场景。",
+        "evidence": "项目描述明确列出支持的 AI 工具（Claude Code, Codex, GitHub Copilot 等）、44 种图表类型、技术栈（HTML+SVG）及设计原则（No shadows. No Mermaid slop.）。GitHub 数据（今日星 1083，总星 50366）证实了其流行度。"
+      },
+      {
+        "name": "阿波罗11号制导计算机源代码",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "阿波罗11号制导计算机（AGC）的原始源代码仓库在GitHub上再次受到关注，今日获得466颗星，总星数已达74258。",
+        "core_details": "该项目由chrislgarry等人维护，包含了阿波罗11号任务中指令舱和登月舱的制导计算机完整汇编语言源代码。它作为历史技术档案被完整托管在GitHub上。",
+        "ai_take": "虽然项目本身是历史代码，但作为早期嵌入式系统和实时计算范式的典范，对理解计算发展史、可靠系统设计及软硬件协同仍有参考价值，可视为“计算考古学”的重要标本。",
+        "hype_check": "热度主要源于对航天历史和技术遗产的持久兴趣，而非技术突破；周期性在GitHub趋势榜出现反映社区对经典工程成就的致敬心态。",
+        "value_check": "作为开源的历史档案，其核心价值在于教育和研究：为计算机科学、航天工程和历史学者提供第一手材料，但无直接现代工程复用性。",
+        "follow_up": "可关注NASA其他历史项目的开源化进程，或现代航天器软件（如SpaceX）的开源生态对比；对嵌入式系统历史感兴趣者可研究VxWorks等后续航天软件体系。",
+        "evidence": "项目README明确标注为原始阿波罗11号AGC源代码；GitHub数据显今日获星466、总星74258；语言标记为Assembly；由多位贡献者维护。"
+      },
+      {
+        "name": "AirLLM",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为AirLLM的开源项目在GitHub上趋势飙升，它声称能够在仅配备4GB显存的单个GPU上运行700亿参数的大型语言模型推理。",
+        "core_details": "该项目由用户lyogavin创建，使用Jupyter Notebook语言编写。它在一天内获得了548颗星，总星数已达到36493。项目核心是实现了对超大规模模型（如70B参数模型）的高效内存压缩与推理优化，突破了硬件限制。",
+        "ai_take": "如果技术属实，这代表了边缘计算和资源受限环境下部署大模型的重要突破，可能降低AI应用门槛，推动模型轻量化与普惠化发展。",
+        "hype_check": "项目热度很高（趋势分75.8），但需谨慎验证其实际性能指标、推理速度与精度损失，社区反馈（3819条评论）是重要参考。",
+        "value_check": "潜在价值巨大，可为研究机构、个人开发者和小型企业提供低成本的大模型实验与部署方案，但需评估其技术成熟度与生产环境稳定性。",
+        "follow_up": "关注项目后续更新、性能评测报告以及实际应用案例，并观察是否有类似技术（如模型量化、内存优化）的生态发展。",
+        "evidence": "项目GitHub页面显示其专注于“AirLLM 70B inference with single 4GB GPU”，高星数与讨论量反映了社区的高度关注。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "morluto/rea",
+        "content_summary": "该项目是一个使用智能体（agents）进行逆向工程的工具，覆盖范围从应用程序行为到原生二进制文件。它是一个TypeScript项目，今日获得25599颗星，总星数达105025颗。",
+        "ai_comment": "逆向工程工具正借助AI智能体技术提升自动化能力，这可能降低安全研究和软件分析的门槛。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "boykopovar/AnyPS5",
+        "content_summary": "这是一个用于将PS5可执行文件自动移植到Linux和Windows系统的工具。项目使用C++编写，今日获得3952颗星，总星数为30147颗。",
+        "ai_comment": "游戏主机程序向PC平台的自动化移植工具受到关注，反映了跨平台兼容性需求的增长。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "storytold/artcraft",
+        "content_summary": "ArtCraft是一个为艺术家、设计师和电影制作人设计的意向性创作引擎。项目使用Rust语言开发，今日获得2957颗星，总星数达17936颗。",
+        "ai_comment": "面向创意工作者的专用引擎出现，表明开发工具正朝着更垂直、更专业化的方向发展。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Doory – Open-Source Canva",
+        "content_summary": "Doory是一个开源的Canva替代品，是一个在浏览器中运行的完整设计编辑器。用户可制作海报、社交媒体帖子、幻灯片、简历等多种设计，支持从模板或空白页开始，编辑所有元素，并导出为PNG、JPG、SVG、PDF、MP4或GIF格式。所有功能免费，无需账户即可使用，并可自行托管。",
+        "ai_comment": "开源设计工具挑战主流SaaS产品，强调免费、隐私和自托管，可能吸引对成本和数据控制敏感的用户。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "The Moon Mission That's a High-Tech Cave Hunt",
+        "content_summary": "NASA选择了一项由行星科学研究所（PSI）领导的提案，旨在调查月球坑洞（“天窗”）是否连接着一个大型地下洞穴系统。该任务名为“马里乌斯月球坑洞地球物理仪器调查”（GIMLI），目标是寻找未来月球基地的潜在地点。任务将与挪威航天局合作，并由Honeybee Robotics提供支持。",
+        "ai_comment": "月球洞穴探测成为Artemis计划的关键部分，地下空间可能为长期驻留提供辐射防护和温度稳定的环境。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Whey up: Protein powder prices soar as global demand grows",
+        "content_summary": "该新闻报道了全球乳清蛋白粉价格因需求增长而飙升的情况。",
+        "ai_comment": "健康与健身趋势推动蛋白质补充剂需求，其价格波动反映了全球供应链和消费模式的变化。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
+        "content_summary": "报道聚焦于美国前总统特朗普对乌克兰总统泽连斯基的攻击以及与俄罗斯的柴油交易，这些行为在美国国内外引发了批评。多篇相关报道指出，两党议员均呼吁特朗普政府立即改变对俄柴油计划，该交易被认为在西方联盟中制造了裂痕。",
+        "ai_comment": "外交政策与能源交易交织，凸显了美国国内政治分歧及其对跨大西洋关系的潜在影响。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct",
+        "content_summary": "据美联社报道，特朗普和参议员卢比奥正考虑解雇美国驻希腊大使金伯利·吉尔福伊尔，原因是其不当行为指控不断增加，包括在达沃斯炫耀私人飞机旅行和奢华住宿等。相关报道描述了希腊方面对此事的无奈与愤慨。",
+        "ai_comment": "高级外交官的行为争议可能损害美国外交形象，并引发对官员选拔和监督机制的审视。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+        "content_summary": "沙特阿拉伯在机场遭袭导致至少12人死亡后，誓言对胡塞武装进行报复。新一轮袭击同时波及沙特和也门的机场。有专家警告中东战争背景下可能出现“快速目标”。报道还提及特朗普表示将考虑加入沙特对抗伊朗支持的胡塞武装。",
+        "ai_comment": "也门冲突持续升级，机场等民用基础设施成为袭击目标，加剧了地区紧张局势和大国介入的风险。"
+      }
+    ],
+    "closing_note": "今日趋势反映出AI技术正持续渗透至开发、安全、创意及地理空间等多元场景，工具化与普惠化成为关键方向。开发者社区对能降低门槛、提升效率的开源解决方案展现出极高热情，但实际应用中的技术成熟度、性能表现与合规性仍需持续观察。明日可重点关注REA与AirLLM的技术验证进展，以及新兴工具在真实工作流中的落地反馈。",
+    "_errors": []
+  }
+}
