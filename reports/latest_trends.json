@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:16:58.362840+00:00",
+  "generated_at": "2026-10-16T00:04:43.568719+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -15,11 +15,11 @@
         "url": "https://github.com/morluto/rea",
         "author": "morluto",
         "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
         "language": "TypeScript",
-        "score": 41034,
-        "comment_count": 60051,
-        "total_stars": 241352,
+        "score": 32314,
+        "comment_count": 67562,
+        "total_stars": 269477,
         "built_by": [
           "morluto",
           "N0zoM1z0",
@@ -27,7 +27,7 @@
           "claude",
           "rudycelekli"
         ],
-        "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 41034\n\nTotal stars: 241352\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+        "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 32314\n\nTotal stars: 269477\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
         "trend_score": 86.84,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -43,15 +43,79 @@
       {
         "source": "github-trending",
         "category": "github_trending",
+        "title": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "author": "affaan-m",
+        "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "JavaScript",
+        "score": 1013,
+        "comment_count": 41699,
+        "total_stars": 280356,
+        "built_by": [
+          "affaan-m",
+          "haelyra",
+          "claude",
+          "montjeffrey",
+          "dependabot"
+        ],
+        "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1013\n\nTotal stars: 280356\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
+        "trend_score": 79.26,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.8,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "author": "anthropics",
+        "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "Python",
+        "score": 307,
+        "comment_count": 4321,
+        "total_stars": 39061,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "tobinsouth"
+        ],
+        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 307\n\nTotal stars: 39061\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, tobinsouth",
+        "trend_score": 78.77,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.645,
+          "topic_overlap": 0.25,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
         "title": "debpalash/VoiceStudio",
         "url": "https://github.com/debpalash/VoiceStudio",
         "author": "debpalash",
         "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
         "language": "Python",
-        "score": 3538,
-        "comment_count": 7314,
-        "total_stars": 66297,
+        "score": 3024,
+        "comment_count": 7556,
+        "total_stars": 69035,
         "built_by": [
           "debpalash",
           "claude",
@@ -59,11 +123,11 @@
           "kevin9327",
           "jaketame"
         ],
-        "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 3538\n\nTotal stars: 66297\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
-        "trend_score": 78.76,
+        "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 3024\n\nTotal stars: 69035\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+        "trend_score": 78.72,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.787,
+          "engagement": 0.786,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -75,155 +139,59 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "vxcontrol/pentagi",
-        "url": "https://github.com/vxcontrol/pentagi",
-        "author": "vxcontrol",
-        "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Go",
-        "score": 1025,
-        "comment_count": 4421,
-        "total_stars": 29424,
+        "title": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "author": "NationalSecurityAgency",
+        "summary": "Ghidra is a software reverse engineering (SRE) framework",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "Java",
+        "score": 1369,
+        "comment_count": 9901,
+        "total_stars": 88723,
         "built_by": [
-          "sirozha",
+          "ryanmkurtz",
+          "ghidra1",
+          "dragonmacher",
+          "nsadeveloper789",
+          "caheckman"
+        ],
+        "content_context": "Ghidra is a software reverse engineering (SRE) framework\n\nLanguage: Java\n\nStars today: 1369\n\nTotal stars: 88723\n\nBuilt by: ryanmkurtz, ghidra1, dragonmacher, nsadeveloper789, caheckman",
+        "trend_score": 77.59,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.756,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "author": "obra",
+        "summary": "An agentic skills framework & software development methodology that works.",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "Shell",
+        "score": 582,
+        "comment_count": 26781,
+        "total_stars": 299873,
+        "built_by": [
+          "obra",
+          "arittr",
           "claude",
-          "asdek",
-          "mason5052",
-          "cursoragent"
+          "clkao",
+          "gaurav0107"
         ],
-        "content_context": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\n\nLanguage: Go\n\nStars today: 1025\n\nTotal stars: 29424\n\nBuilt by: sirozha, claude, asdek, mason5052, cursoragent",
-        "trend_score": 75.55,
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 582\n\nTotal stars: 299873\n\nBuilt by: obra, arittr, claude, clkao, gaurav0107",
+        "trend_score": 77.47,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.703,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "ifixai-ai/iFixAi",
-        "url": "https://github.com/ifixai-ai/iFixAi",
-        "author": "ifixai-ai",
-        "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Python",
-        "score": 2109,
-        "comment_count": 1503,
-        "total_stars": 27376,
-        "built_by": [
-          "rudycelekli",
-          "n-papaioannou",
-          "stefyi-4355",
-          "Sebabaian",
-          "github-actions"
-        ],
-        "content_context": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.\n\nLanguage: Python\n\nStars today: 2109\n\nTotal stars: 27376\n\nBuilt by: rudycelekli, n-papaioannou, stefyi-4355, Sebabaian, github-actions",
-        "trend_score": 75.27,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.695,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "rust-lang/rust",
-        "url": "https://github.com/rust-lang/rust",
-        "author": "rust-lang",
-        "summary": "Empowering everyone to build reliable and efficient software.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Rust",
-        "score": 207,
-        "comment_count": 18701,
-        "total_stars": 120018,
-        "built_by": [
-          "bors",
-          "matthiaskrgr",
-          "RalfJung",
-          "GuillaumeGomez",
-          "matklad"
-        ],
-        "content_context": "Empowering everyone to build reliable and efficient software.\n\nLanguage: Rust\n\nStars today: 207\n\nTotal stars: 120018\n\nBuilt by: bors, matthiaskrgr, RalfJung, GuillaumeGomez, matklad",
-        "trend_score": 74.68,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.68,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "mksglu/context-mode",
-        "url": "https://github.com/mksglu/context-mode",
-        "author": "mksglu",
-        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "TypeScript",
-        "score": 947,
-        "comment_count": 2044,
-        "total_stars": 29108,
-        "built_by": [
-          "mksglu",
-          "github-actions",
-          "claude",
-          "ipedro",
-          "ousamabenyounes"
-        ],
-        "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 947\n\nTotal stars: 29108\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
-        "trend_score": 74.19,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.667,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "xtool-org/xtool",
-        "url": "https://github.com/xtool-org/xtool",
-        "author": "xtool-org",
-        "summary": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Swift",
-        "score": 1502,
-        "comment_count": 485,
-        "total_stars": 10787,
-        "built_by": [
-          "kabiroberai",
-          "reklis",
-          "erikbdev",
-          "mvanhorn",
-          "pawlowskialex"
-        ],
-        "content_context": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.\n\nLanguage: Swift\n\nStars today: 1502\n\nTotal stars: 10787\n\nBuilt by: kabiroberai, reklis, erikbdev, mvanhorn, pawlowskialex",
-        "trend_score": 72.84,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.631,
+          "engagement": 0.753,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -239,11 +207,11 @@
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "author": "K-Dense-AI",
         "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
         "language": "Python",
-        "score": 163,
-        "comment_count": 4420,
-        "total_stars": 49312,
+        "score": 1091,
+        "comment_count": 4487,
+        "total_stars": 50444,
         "built_by": [
           "timothykassis",
           "cursoragent",
@@ -251,11 +219,11 @@
           "github-actions",
           "claude"
         ],
-        "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 163\n\nTotal stars: 49312\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
-        "trend_score": 71.96,
+        "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 1091\n\nTotal stars: 50444\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
+        "trend_score": 75.89,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.608,
+          "engagement": 0.712,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -267,27 +235,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "HKUDS/CLI-Anything",
-        "url": "https://github.com/HKUDS/CLI-Anything",
-        "author": "HKUDS",
-        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Python",
-        "score": 103,
-        "comment_count": 4773,
-        "total_stars": 52475,
+        "title": "JuliusBrussee/caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "author": "JuliusBrussee",
+        "summary": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "Go",
+        "score": 433,
+        "comment_count": 6519,
+        "total_stars": 112523,
         "built_by": [
-          "yuh-yang",
+          "JuliusBrussee",
           "claude",
-          "AiMiDi",
-          "omerarslan0",
-          "hito0512"
+          "github-actions",
+          "nikpushkarski",
+          "AmirF194"
         ],
-        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 103\n\nTotal stars: 52475\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-        "trend_score": 71.19,
+        "content_context": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\nLanguage: Go\n\nStars today: 433\n\nTotal stars: 112523\n\nBuilt by: JuliusBrussee, claude, github-actions, nikpushkarski, AmirF194",
+        "trend_score": 74.66,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.588,
+          "engagement": 0.679,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -299,27 +267,58 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "nvm-sh/nvm",
-        "url": "https://github.com/nvm-sh/nvm",
-        "author": "nvm-sh",
-        "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-        "published_at": "2026-10-15T00:16:51.662949+00:00",
-        "language": "Shell",
-        "score": 52,
-        "comment_count": 10517,
-        "total_stars": 95449,
+        "title": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "author": "mksglu",
+        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "TypeScript",
+        "score": 904,
+        "comment_count": 2082,
+        "total_stars": 29785,
         "built_by": [
-          "ljharb",
-          "PeterDaveHello",
-          "creationix",
-          "koenpunt",
-          "lukechilds"
+          "mksglu",
+          "github-actions",
+          "claude",
+          "ipedro",
+          "ousamabenyounes"
         ],
-        "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 52\n\nTotal stars: 95449\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
-        "trend_score": 71.11,
+        "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 904\n\nTotal stars: 29785\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
+        "trend_score": 74.31,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.586,
+          "engagement": 0.67,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "author": "ruvnet",
+        "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "published_at": "2026-10-16T00:04:36.833691+00:00",
+        "language": "TypeScript",
+        "score": 147,
+        "comment_count": 8926,
+        "total_stars": 75103,
+        "built_by": [
+          "ruvnet",
+          "claude",
+          "rudycelekli",
+          "proffesor-for-testing"
+        ],
+        "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 147\n\nTotal stars: 75103\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
+        "trend_score": 73.04,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.637,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -334,86 +333,24 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "author": "sbulaev",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-10-15T00:07:08+00:00",
-        "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-          "page_title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-          "page_description": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-          "page_excerpt": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.\n\nIt took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships.\n\nOnly those with special clearance are supposed to access that room. But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020. In a press release Tuesday announcing his arrest, the FBI alleged that chatbot logs and CCTV footage suggested that Alfozan—who worked as an OpenAI engineer fo..."
-        },
-        "content_context": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.\n\nOpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges. It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships. Only those with special clearance are supposed to access that room. But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020. In a press release Tuesday announcing his arrest, the FBI alleged that chatbot logs and CCTV footage suggested that Alfozan—who worked as an OpenAI engineer fo...",
-        "trend_score": 53.98,
-        "trend_breakdown": {
-          "freshness": 0.993,
-          "engagement": 0.071,
-          "topic_overlap": 0.182,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Copy Paste manager for M chip Macs",
-        "url": "https://frazer.github.io/clipM/",
-        "author": "frazer",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-10-15T00:14:45+00:00",
-        "summary": "Full-featured copy & paste manager for Apple silicon Macs.",
-        "comment_highlights": [
-          "Hi everyone with an M chip #Mac, I just spent months pouring my heart into this project, and polishing it as beautifully as I could. Want the best copy paste manager ever? <a href=\"https://github.com/Frazer/clipM\" rel=\"nofollow\">https://github.com/Frazer/clipM</a> Free, open source. Has snippets,..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://frazer.github.io/clipM/",
-          "page_title": "clip'M",
-          "page_description": "Full-featured copy & paste manager for Apple silicon Macs.",
-          "page_excerpt": "Press / and start typing. clip'M filters your history instantly so you are not scrolling through yesterday’s noise to find the one line you copied an hour ago.\n\nNeed screenshots only? Hit / then Tab or click the image button for image-only search — perfect when you remember what it looked like, not what it said.\n\nOrganize reusable text into folders — email, phone, addresses, boilerplate — and open them from the same menu you already use for clipboard history."
-        },
-        "content_context": "Full-featured copy & paste manager for Apple silicon Macs.\n\nPress / and start typing. clip'M filters your history instantly so you are not scrolling through yesterday’s noise to find the one line you copied an hour ago. Need screenshots only? Hit / then Tab or click the image button for image-only search — perfect when you remember what it looked like, not what it said. Organize reusable text into folders — email, phone, addresses, boilerplate — and open them from the same menu you already use for clipboard history.\n\nHN comment: Hi everyone with an M chip #Mac, I just spent months pouring my heart into this project, and polishing it as beautifully as I could. Want the best copy paste manager ever? <a href=\"https://github.com/Frazer/clipM\" rel=\"nofollow\">https://github.com/Frazer/clipM</a> Free, open source. Has snippets,...",
-        "trend_score": 50.1,
-        "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.064,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Custom server to revive neato bots",
-        "url": "https://github.com/vacuula/vacuula",
-        "author": "matttah",
+        "title": "Show HN: Pasteface - Record, transcribe and copy speech locally in your terminal",
+        "url": "https://github.com/blairjordan/pasteface",
+        "author": "bearware",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-14T23:48:38+00:00",
-        "summary": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula",
+        "published_at": "2026-10-15T23:59:51+00:00",
+        "summary": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://github.com/vacuula/vacuula",
-          "page_title": "GitHub - vacuula/vacuula: custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula",
-          "page_description": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula",
-          "page_excerpt": "Vacuula is made as an all-in-one solution to repair and control your broken Neato Robot vacuum.\n\nYour robot not listed here? Get in touch! ¹Sadly we were not able to fit the OG BotVac Connected into the initial release, sorry about this, support for this robot is in the works and here very soon!\n\nDo you have a Gen4 robot that is in \" r a i n b o w m o d e \"? Different colors flashing and the robot does not start? Contact us in the discord . There we can help you repair your robot!"
+          "resolved_url": "https://github.com/blairjordan/pasteface",
+          "page_title": "GitHub - blairjordan/pasteface: Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription.",
+          "page_description": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface",
+          "page_excerpt": "Organize recordings into named transcript tabs, keep recording while earlier chunks transcribe, and copy the results to your clipboard. Transcribe on your machine with whisper.cpp or use OpenAI’s transcription API.\n\nInstall a current stable Rust toolchain and FFmpeg. Local transcription also requires a separate whisper.cpp executable and model; see Transcription settings .\n\nInstall the native dependencies for the default build, which includes the tray:"
         },
-        "content_context": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula\n\nVacuula is made as an all-in-one solution to repair and control your broken Neato Robot vacuum. Your robot not listed here? Get in touch! ¹Sadly we were not able to fit the OG BotVac Connected into the initial release, sorry about this, support for this robot is in the works and here very soon! Do you have a Gen4 robot that is in \" r a i n b o w m o d e \"? Different colors flashing and the robot does not start? Contact us in the discord . There we can help you repair your robot!",
-        "trend_score": 48.18,
+        "content_context": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface\n\nOrganize recordings into named transcript tabs, keep recording while earlier chunks transcribe, and copy the results to your clipboard. Transcribe on your machine with whisper.cpp or use OpenAI’s transcription API. Install a current stable Rust toolchain and FFmpeg. Local transcription also requires a separate whisper.cpp executable and model; see Transcription settings . Install the native dependencies for the default build, which includes the tray:",
+        "trend_score": 48.96,
         "trend_breakdown": {
-          "freshness": 0.98,
+          "freshness": 0.997,
           "engagement": 0.036,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
@@ -426,55 +363,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Nvidia reportedly halts GeForce RTX 5090 production",
-        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-        "author": "kristianp",
+        "title": "45 years later, the Sinclair ULA design documents surface",
+        "url": "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+        "author": "khalidkhair",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-14T23:44:41+00:00",
-        "summary": "No more GB202 for consumers?",
+        "published_at": "2026-10-16T00:03:04+00:00",
+        "summary": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-          "page_title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship",
-          "page_description": "No more GB202 for consumers?",
-          "page_excerpt": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works .\n\nNvidia has reportedly ceased selling its GB202 graphics processors for consumer-grade GeForce RTX 5090-series add-in-boards (AIBs), including 'D' variants for the Chinese market, according to a leaked notice from an unknown factory cited by @hongxing2020 , who tends to have insights into the graphics card market. Another prominent leaker @Zed__Wang confirmed the report and said that from now on...\n\n\"According to a notification from the factory, Nvidia will no longer manufacture any RTX 5090 models, including the D variants,\" a message cited by @hongxing2020 reads. \"Going forward, the highest-end GeForce graphics card will be the RTX 5080 24GB, while the RTX 5080 16GB version will be discontinued. Please spread the word.\""
+          "resolved_url": "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+          "page_title": "45 Years Later, The Sinclair ULA Design Documents Surface",
+          "page_description": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…",
+          "page_excerpt": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their limited hardware. If there was one component that was key to their success it was the Ferranti ULA, or Uncommitted Logic Array, a clever way to make an ASIC from a chip containing a library of logic parts read...\n\nThe documents were picked up on eBay, and contain folders with printouts, engineering drawings, and hand written design notes. They cover the full range of Sinclair products of the era, including the ZX81 and Spectrum, the ZX printer , the Microdrive , the Spectrum Interface 1, and even the curious little flat screen TV. Oddly the IP is now held by the satellite broadcaster Sky as the holder of...\n\nIf you’re curious about the ULA and Ferranti, we linked to a period film about it ."
         },
-        "content_context": "No more GB202 for consumers?\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . Nvidia has reportedly ceased selling its GB202 graphics processors for consumer-grade GeForce RTX 5090-series add-in-boards (AIBs), including 'D' variants for the Chinese market, according to a leaked notice from an unknown factory cited by @hongxing2020 , who tends to have insights into the graphics card market. Another prominent leaker @Zed__Wang confirmed the report and said that from now on... \"According to a notification from the factory, Nvidia will no longer manufacture any RTX 5090 models, including the D variants,\" a message cited by @hongxing2020 reads. \"Going forward, the highest-end GeForce graphics card will be the RTX 5080 24GB, while the RTX 5080 16GB version will be discontinued. Please spread the word.\"",
-        "trend_score": 48.04,
+        "content_context": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…\n\nIn the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their limited hardware. If there was one component that was key to their success it was the Ferranti ULA, or Uncommitted Logic Array, a clever way to make an ASIC from a chip containing a library of logic parts read... The documents were picked up on eBay, and contain folders with printouts, engineering drawings, and hand written design notes. They cover the full range of Sinclair products of the era, including the ZX81 and Spectrum, the ZX printer , the Microdrive , the Spectrum Interface 1, and even the curious little flat screen TV. Oddly the IP is now held by the satellite broadcaster Sky as the holder of... If you’re curious about the ULA and Ferranti, we linked to a period film about it .",
+        "trend_score": 44.16,
         "trend_breakdown": {
-          "freshness": 0.978,
+          "freshness": 0.999,
           "engagement": 0.036,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
-        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "author": "gmays",
-        "score": 12,
-        "comment_count": 0,
-        "published_at": "2026-10-14T23:59:37+00:00",
-        "summary": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "page_title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog",
-          "page_description": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
-          "page_excerpt": "Today, we release LFM2.5-24B-A2B , a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device. It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B .\n\nLFM2.5-24B-A2B is competitive with Qwen3.6-35B-A3B, a model with ~50% more total and active parameters, on five of eight agentic and tool-use benchmarks, scoring 48.09 on LiveClaw versus 38.19 and 27.69 on AutomationBench versus 8.72. Because only 2B parameters are active per token, it runs up to 1.7× faster than comparable MoEs on-device, with 184 tokens/s on an Apple M5 Max and up to 21K outp...\n\nThe base (LFM2.5-24B-A2B-Base) and post-trained (LFM2.5-24B-A2B) models are open-weight and available today on Hugging Face and our Playground . Check out our docs on how to run and fine-tune it locally."
-        },
-        "content_context": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.\n\nToday, we release LFM2.5-24B-A2B , a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device. It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B . LFM2.5-24B-A2B is competitive with Qwen3.6-35B-A3B, a model with ~50% more total and active parameters, on five of eight agentic and tool-use benchmarks, scoring 48.09 on LiveClaw versus 38.19 and 27.69 on AutomationBench versus 8.72. Because only 2B parameters are active per token, it runs up to 1.7× faster than comparable MoEs on-device, with 184 tokens/s on an Apple M5 Max and up to 21K outp... The base (LFM2.5-24B-A2B-Base) and post-trained (LFM2.5-24B-A2B) models are open-weight and available today on Hugging Face and our Playground . Check out our docs on how to run and fine-tune it locally.",
-        "trend_score": 46.74,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.132,
           "topic_overlap": 0.143,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -484,111 +391,109 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "YouTube Is Looking to Expand into Audiobooks",
-        "url": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876",
-        "author": "mikelgan",
-        "score": 1,
+        "title": "Xbox Labs",
+        "url": "https://twitter.com/asha_shar/status/2110083127741702241",
+        "author": "astlouis44",
+        "score": 4,
         "comment_count": 0,
-        "published_at": "2026-10-14T23:53:42+00:00",
-        "summary": "[dead]",
-        "comment_highlights": [
-          "[dead]"
-        ],
-        "linked_context": {},
-        "content_context": "HN comment: [dead]",
-        "trend_score": 46.71,
+        "published_at": "2026-10-15T23:55:47+00:00",
+        "summary": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/asha_shar/status/2110083127741702241",
+          "page_title": "ASHA (@asha_shar) on X",
+          "page_description": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+          "page_excerpt": null
+        },
+        "content_context": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+        "trend_score": 42.88,
         "trend_breakdown": {
-          "freshness": 0.984,
-          "engagement": 0.036,
+          "freshness": 0.994,
+          "engagement": 0.083,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.14
+          "domain_weight": 1.0
         },
-        "domains": [
-          "finance"
-        ]
+        "domains": []
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "New Material Acquired by Mistral",
-        "url": "https://newmaterial.ai/stories/newmaterial-joins-mistral",
-        "author": "acossta",
-        "score": 1,
+        "title": "What causes AI fatigue for engineers and how to ease the strain",
+        "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+        "author": "devonnull",
+        "score": 4,
         "comment_count": 0,
-        "published_at": "2026-10-15T00:15:35+00:00",
-        "summary": "New Material builds AI-native products, workflows and ventures.",
+        "published_at": "2026-10-15T23:43:23+00:00",
+        "summary": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://newmaterial.ai/stories/newmaterial-joins-mistral",
-          "page_title": "New Material joins Mistral to design the frontier Â· New Material",
-          "page_description": "New Material builds AI-native products, workflows and ventures.",
-          "page_excerpt": "Mistral acquires New Material to bring a design-first approach to frontier AI, tightening the feedback loop between customer solutions and product.\n\nWe founded New Material with the conviction that for AI to find durable adoption, human-centred design needs to be embedded from initial idea all the way through to implementation â employing a cross-disciplinary approach across tooling, data, model training, product design and engineering.\n\nSix years later, we have shipped award-winning AI-native tools, products and ventures across automotive, retail, legal and healthcare with partners such as Ford, Rafael Nadal, Wellcome Trust and AmLaw 50 firms among others."
+          "resolved_url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+          "page_title": "What causes AI fatigue for engineers and how to ease the strain",
+          "page_description": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.",
+          "page_excerpt": "AI fatigue is hitting some development teams hard. In our original research study , engineering, product and technology leaders from US healthcare companies told us they’re feeling pressured to evaluate a firehose of new AI trends and tools while struggling to navigate AI-generated code alongside legacy systems.\n\nThis isn’t entirely new. The industry has gone through waves like this before, from the rise of the internet and the advent of social media to mobile development and every new round of web technology in between. But the rapid progression of LLMs speeds up this cycle, which can leave teams to feel like they’re losing control.\n\nHere’s what our study uncovered about the causes of AI fatigue and some practical ideas for successfully navigating these pain points."
         },
-        "content_context": "New Material builds AI-native products, workflows and ventures.\n\nMistral acquires New Material to bring a design-first approach to frontier AI, tightening the feedback loop between customer solutions and product. We founded New Material with the conviction that for AI to find durable adoption, human-centred design needs to be embedded from initial idea all the way through to implementation â employing a cross-disciplinary approach across tooling, data, model training, product design and engineering. Six years later, we have shipped award-winning AI-native tools, products and ventures across automotive, retail, legal and healthcare with partners such as Ford, Rafael Nadal, Wellcome Trust and AmLaw 50 firms among others.",
-        "trend_score": 46.08,
+        "content_context": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.\n\nAI fatigue is hitting some development teams hard. In our original research study , engineering, product and technology leaders from US healthcare companies told us they’re feeling pressured to evaluate a firehose of new AI trends and tools while struggling to navigate AI-generated code alongside legacy systems. This isn’t entirely new. The industry has gone through waves like this before, from the rise of the internet and the advent of social media to mobile development and every new round of web technology in between. But the rapid progression of LLMs speeds up this cycle, which can leave teams to feel like they’re losing control. Here’s what our study uncovered about the causes of AI fatigue and some practical ideas for successfully navigating these pain points.",
+        "trend_score": 42.53,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.083,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Timestral",
+        "url": "https://mistral.ai/news/timestral/",
+        "author": "NathaP",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-15T23:40:06+00:00",
+        "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://mistral.ai/news/timestral/",
+          "page_title": "Timestral: Mistral's time-series foundation models | Mistral",
+          "page_description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+          "page_excerpt": "Timestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parameters), it balances accuracy and efficiency, running efficiently on CPUs and excelling in zero-shot foreca...\n\nToday, we’re releasing Timestral, our first family of time-series foundation models. Our largest model, at just 209M parameters, ranks first on all three of the field's main public benchmarks, GIFT-Eval, TIME, and fev-bench, outperforming the previous state of the art with only two-thirds of the model parameters.\n\nTimestral delivers probabilistic, multivariate forecasts and supports past-only and known-future covariates. Our family of models sits on the Pareto front of forecasting accuracy versus model size, delivering leading performance at each size. Results have been submitted to the G..."
+        },
+        "content_context": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\n\nTimestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parameters), it balances accuracy and efficiency, running efficiently on CPUs and excelling in zero-shot foreca... Today, we’re releasing Timestral, our first family of time-series foundation models. Our largest model, at just 209M parameters, ranks first on all three of the field's main public benchmarks, GIFT-Eval, TIME, and fev-bench, outperforming the previous state of the art with only two-thirds of the model parameters. Timestral delivers probabilistic, multivariate forecasts and supports past-only and known-future covariates. Our family of models sits on the Pareto front of forecasting accuracy versus model size, delivering leading performance at each size. Results have been submitted to the G...",
+        "trend_score": 41.6,
+        "trend_breakdown": {
+          "freshness": 0.983,
+          "engagement": 0.057,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "InkBoy, 30-frame-per-second grayscale Game Boy, open sourced",
+        "url": "https://www.theregister.com/offbeat/2026/10/15/youtuber-built-30-frame-per-second-grayscale-game-boy-then-open-sourced-it-for-all-e-paper-displays/5303394",
+        "author": "0in",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-16T00:03:44+00:00",
+        "summary": "Not afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.theregister.com/offbeat/2026/10/15/youtuber-built-30-frame-per-second-grayscale-game-boy-then-open-sourced-it-for-all-e-paper-displays/5303394",
+          "page_title": "YouTuber built 30-frame-per-second grayscale Game Boy, then open sourced it for all e-paper displays",
+          "page_description": "Not afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today",
+          "page_excerpt": "Not afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today\n\nSure, running emulated Game Boy games at 30 fps with four shades of gray on an E Ink screen is cool, but you know what's cooler? A custom open source E Ink driver that could theoretically let any display do the same thing.\n\nYouTuber Bo Made It published a video last week demonstrating what he calls the InkBoy on a tiny ESP32-S3-powered e-paper board. It looks just about as good as the old-fashioned olive-green screen on the original Game Boy, which isn’t saying much, but it’s an impressive feat to make this work on a cheap stock e-paper screen."
+        },
+        "content_context": "Not afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today\n\nNot afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today Sure, running emulated Game Boy games at 30 fps with four shades of gray on an E Ink screen is cool, but you know what's cooler? A custom open source E Ink driver that could theoretically let any display do the same thing. YouTuber Bo Made It published a video last week demonstrating what he calls the InkBoy on a tiny ESP32-S3-powered e-paper board. It looks just about as good as the old-fashioned olive-green screen on the original Game Boy, which isn’t saying much, but it’s an impressive feat to make this work on a cheap stock e-paper screen.",
+        "trend_score": 41.6,
         "trend_breakdown": {
           "freshness": 0.999,
           "engagement": 0.036,
-          "topic_overlap": 0.25,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Democrats fear more 'October surprises' after 'bullshit' raid",
-        "url": "https://news.lavx.hu/article/democrats-fear-more-october-surprises-after-bullshit-raid-on-ilhan-omar-s-home",
-        "author": "abdelhousni",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-10-14T23:49:48+00:00",
-        "summary": "The search of Rep. Ilhan Omar's Washington, D.C., home by federal agents has Democrats worried about further politically charged investigations before the election, with some calling the move 'bullshit.'",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://news.lavx.hu/article/democrats-fear-more-october-surprises-after-bullshit-raid-on-ilhan-omar-s-home",
-          "page_title": "Democrats fear more 'October surprises' after 'bullshit' raid on Ilhan Omar's home",
-          "page_description": "The search of Rep. Ilhan Omar's Washington, D.C., home by federal agents has Democrats worried about further politically charged investigations before the election, with some calling the move 'bullshit.'",
-          "page_excerpt": "The search of Rep. Ilhan Omar's Washington, D.C., home by federal agents has Democrats worried about further politically charged investigations before the election, with some calling the move 'bullshit.'\n\nDemocrats are bracing for more politically charged federal actions after Homeland Security Investigations agents searched the Washington, D.C., home of Rep. Ilhan Omar (D-Minn.) on Oct. 12, an episode several lawmakers called \"bullshit\" and a potential \"October surprise.\"\n\nThe raid, which took place in the congresswoman's Capitol Hill neighborhood, drew immediate condemnation from Democratic colleagues who said the timing and targeting smacked of political retribution. Omar, a Somali-American and one of the most prominent progressive voices in Congress, has been a frequent target of Republican criticism and former President Trump's rhetoric."
-        },
-        "content_context": "The search of Rep. Ilhan Omar's Washington, D.C., home by federal agents has Democrats worried about further politically charged investigations before the election, with some calling the move 'bullshit.'\n\nThe search of Rep. Ilhan Omar's Washington, D.C., home by federal agents has Democrats worried about further politically charged investigations before the election, with some calling the move 'bullshit.' Democrats are bracing for more politically charged federal actions after Homeland Security Investigations agents searched the Washington, D.C., home of Rep. Ilhan Omar (D-Minn.) on Oct. 12, an episode several lawmakers called \"bullshit\" and a potential \"October surprise.\" The raid, which took place in the congresswoman's Capitol Hill neighborhood, drew immediate condemnation from Democratic colleagues who said the timing and targeting smacked of political retribution. Omar, a Somali-American and one of the most prominent progressive voices in Congress, has been a frequent target of Republican criticism and former President Trump's rhetoric.",
-        "trend_score": 44.23,
-        "trend_breakdown": {
-          "freshness": 0.981,
-          "engagement": 0.071,
-          "topic_overlap": 0.125,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "One-Shot San Francisco Homeless Shooter from Y Combinator Alum",
-        "url": "https://twitter.com/plbiojout/status/2110182960658018732",
-        "author": "tclancy",
-        "score": 1,
-        "comment_count": 2,
-        "published_at": "2026-10-14T23:55:05+00:00",
-        "summary": "348 games already played! You can try the multiplayer too now!",
-        "comment_highlights": [
-          "Really sums up Our Modern Times. I was hoping the entire persona was an AI, but no such luck. <a href=\"https://www.linkedin.com/in/plbiojout/\" rel=\"nofollow\">https://www.linkedin.com/in/plbiojout/</a>",
-          "Boring."
-        ],
-        "linked_context": {
-          "resolved_url": "https://x.com/plbiojout/status/2110182960658018732",
-          "page_title": "Pierre-Louis Biojout (PLB) (@plbiojout) on X",
-          "page_description": "348 games already played! You can try the multiplayer too now!",
-          "page_excerpt": null
-        },
-        "content_context": "348 games already played! You can try the multiplayer too now!\n\nHN comment: Really sums up Our Modern Times. I was hoping the entire persona was an AI, but no such luck. <a href=\"https://www.linkedin.com/in/plbiojout/\" rel=\"nofollow\">https://www.linkedin.com/in/plbiojout/</a>\n\nHN comment: Boring.",
-        "trend_score": 42.43,
-        "trend_breakdown": {
-          "freshness": 0.985,
-          "engagement": 0.081,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -598,22 +503,108 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Readers Digest: How Dentists Rip Us Off (1977) [pdf]",
-        "url": "https://asset.cdocs.com/uploads/forum/attachments/258722/ReaderDigestArticle.pdf",
-        "author": "hooch",
+        "title": "Proof-based general-purpose computing with Magnetar",
+        "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+        "author": "khalidkhair",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-14T23:52:00+00:00",
-        "summary": null,
+        "published_at": "2026-10-16T00:03:21+00:00",
+        "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security:",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://asset.cdocs.com/uploads/forum/attachments/258722/ReaderDigestArticle.pdf",
-          "content_type": "application/pdf"
+          "resolved_url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+          "page_title": "Magnetar brings faster, simpler, quantum-ready zero-knowledge proofs",
+          "page_description": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security:",
+          "page_excerpt": "Every result a computer produces comes with an implicit question: did the program run as claimed and produce correct outputs? Today, answering that question often requires a degree of trust alongside verification. We trust the operator, the vendor, the counterparty, or the agent, and we rely on contracts, audits, and logs to establish that trust.\n\nZero-knowledge proofs offer a fundamentally different approach to establishing trust. A program runs, and along with its output it produces a short proof, a cryptographic certificate that this program, on these inputs, produced this output. The proof is small and fast to check. Whoever receives it can confirm the result in milliseconds without rerunning the program, and can pass the proof on to...\n\nThis changes what correctness means in the real world. A result no longer has to be trusted because of who produced it. It can be checked because of what accompanies it. An AI agent acting on someone’s behalf could attach a proof that each actio..."
         },
-        "content_context": null,
-        "trend_score": 40.92,
+        "content_context": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security:\n\nEvery result a computer produces comes with an implicit question: did the program run as claimed and produce correct outputs? Today, answering that question often requires a degree of trust alongside verification. We trust the operator, the vendor, the counterparty, or the agent, and we rely on contracts, audits, and logs to establish that trust. Zero-knowledge proofs offer a fundamentally different approach to establishing trust. A program runs, and along with its output it produces a short proof, a cryptographic certificate that this program, on these inputs, produced this output. The proof is small and fast to check. Whoever receives it can confirm the result in milliseconds without rerunning the program, and can pass the proof on to... This changes what correctness means in the real world. A result no longer has to be trusted because of who produced it. It can be checked because of what accompanies it. An AI agent acting on someone’s behalf could attach a proof that each actio...",
+        "trend_score": 41.59,
         "trend_breakdown": {
-          "freshness": 0.983,
+          "freshness": 0.999,
+          "engagement": 0.036,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "End-to-end encrypted relays for OCapN",
+        "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+        "author": "ryukafalz",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-15T23:53:15+00:00",
+        "summary": "Creating a direct connection between any two computers (not just from client to server) over the internet is notoriously difficult. Many home networks are behind NATs which prevent new inbound connections. Sometimes these NATs are from the ISP (carrier-grade NATs) which are impossible to work around with port forwarding and/or UPnP. While hole punching techniques can break through NATs, it's fa...\n\nRelays are servers, accessible over the public internet, that act as a proxy between two computers that cannot directly connect. In Goblins 0.12 we introduced a federated relay named \"prelay\". While OCapN traffic is encrypted in transit, the prelay crucially lacks end-to-end encryption (E2EE) . E2EE secures all the messages so they can only be read by their intended recipient, preventing inteme...\n\nHaving a relay that we could recommend has become even more of a critical part of the OCapN story as we've developed Hoot , our Scheme to WebAssembly compiler. The web is a challenging environm...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+          "page_title": "End-to-end encrypted relays for OCapN â Spritely Institute",
+          "page_description": null,
+          "page_excerpt": "Creating a direct connection between any two computers (not just from client to server) over the internet is notoriously difficult. Many home networks are behind NATs which prevent new inbound connections. Sometimes these NATs are from the ISP (carrier-grade NATs) which are impossible to work around with port forwarding and/or UPnP. While hole punching techniques can break through NATs, it's fa...\n\nRelays are servers, accessible over the public internet, that act as a proxy between two computers that cannot directly connect. In Goblins 0.12 we introduced a federated relay named \"prelay\". While OCapN traffic is encrypted in transit, the prelay crucially lacks end-to-end encryption (E2EE) . E2EE secures all the messages so they can only be read by their intended recipient, preventing inteme...\n\nHaving a relay that we could recommend has become even more of a critical part of the OCapN story as we've developed Hoot , our Scheme to WebAssembly compiler. The web is a challenging environm..."
+        },
+        "content_context": "Creating a direct connection between any two computers (not just from client to server) over the internet is notoriously difficult. Many home networks are behind NATs which prevent new inbound connections. Sometimes these NATs are from the ISP (carrier-grade NATs) which are impossible to work around with port forwarding and/or UPnP. While hole punching techniques can break through NATs, it's fa... Relays are servers, accessible over the public internet, that act as a proxy between two computers that cannot directly connect. In Goblins 0.12 we introduced a federated relay named \"prelay\". While OCapN traffic is encrypted in transit, the prelay crucially lacks end-to-end encryption (E2EE) . E2EE secures all the messages so they can only be read by their intended recipient, preventing inteme... Having a relay that we could recommend has become even more of a critical part of the OCapN story as we've developed Hoot , our Scheme to WebAssembly compiler. The web is a challenging environm...",
+        "trend_score": 41.31,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.036,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Mosquito Joe FDD teardown: 66% fee load, 380% termination spike",
+        "url": "https://muse.ai/s/mosquito-joe-fdd-teardown-ch6bxnotxfxldxe",
+        "author": "FDDTeardown",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-15T23:48:40+00:00",
+        "summary": "View this shared creation on Muse",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://muse.ai/s/mosquito-joe-fdd-teardown-ch6bxnotxfxldxe",
+          "page_title": "Mosquito Joe Fdd Teardown",
+          "page_description": "View this shared creation on Muse",
+          "page_excerpt": null
+        },
+        "content_context": "View this shared creation on Muse",
+        "trend_score": 41.18,
+        "trend_breakdown": {
+          "freshness": 0.989,
+          "engagement": 0.036,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Argon now avaliable for pro users on ANTIGRAVITY",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "author": "applesauce3572",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-15T23:43:09+00:00",
+        "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "page_title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "page_description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+          "page_excerpt": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model.\n\nGemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform , for Google AI Ultra subscribers in Google Antigravity , and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search .\n\nArgon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. Its depth and precision across multi-step tasks leads Argon to outperform other frontier models on benchmarks across domains , ranking #1 on the Vals Index , which measures model performance across critical economic sectors like finance, coding, legal, and tax work."
+        },
+        "content_context": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.\n\nWe’re giving developers, enterprises, scientists, and consumers access to our latest frontier model. Gemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform , for Google AI Ultra subscribers in Google Antigravity , and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search . Argon excels at deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. Its depth and precision across multi-step tasks leads Argon to outperform other frontier models on benchmarks across domains , ranking #1 on the Vals Index , which measures model performance across critical economic sectors like finance, coding, legal, and tax work.",
+        "trend_score": 41.03,
+        "trend_breakdown": {
+          "freshness": 0.985,
           "engagement": 0.036,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
@@ -624,75 +615,53 @@
     ],
     "news": [
       {
-        "source": "CBS News",
+        "source": "Reuters",
         "category": "news",
-        "title": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWNnT0RuNnU4WThDck1WTmlBbVI5VWU1QUFicXFrWmlZRzM1YjFMTHVwQ25VLUVNSE8ydnRGaUZFejhJQXdmbkxLajdRc3dNTjV2UzNjaFJLWmk1ZXlyMmcxSE1VOFJNVy1HTFJUX1RPWHJuNVQtUGdaQnV2dkJzRjZLd0I3SldJN1JCdkZUMUlLeG82bzBMbnd2RGs5UUtKUkpmSmk4VngyZjZGUUJLY1NCeDVUU1pKRFBaTmhDTC0?oc=5",
-        "published_at": "2026-10-14T22:51:12+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Florida man arrested on murder charge in ex-fiancée's 2011 disappearance；Orlando police arrest Dale Smith, ex-fiancé to missing woman Michelle Parker；Man whose ex-fiancée vanished after 2011 ‘The People’s Court’ appearance arrested on murder charge。",
+        "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
+        "published_at": "2026-10-15T20:27:35+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports；Secret documents reveal donors behind $330 million for Trump’s ballroom；You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom。",
         "related_headlines": [
-          "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance",
-          "Orlando police arrest Dale Smith, ex-fiancé to missing woman Michelle Parker",
-          "Man whose ex-fiancée vanished after 2011 ‘The People’s Court’ appearance arrested on murder charge",
-          "Michelle Parker disappearance: Police make arrest | Full press conference",
-          "Orlando police: Michelle Parker’s ex-fiancé charged with murder 15 years after disappearance"
+          "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
+          "Secret documents reveal donors behind $330 million for Trump’s ballroom",
+          "You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom",
+          "Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom",
+          "What 3 big WA companies donated to Trump's ballroom"
         ],
-        "content_context": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Florida man arrested on murder charge in ex-fiancée's 2011 disappearance；Orlando police arrest Dale Smith, ex-fiancé to missing woman Michelle Parker；Man whose ex-fiancée vanished after 2011 ‘The People’s Court’ appearance arrested on murder charge。\n\nRelated coverage: Florida man arrested on murder charge in ex-fiancée's 2011 disappearance\n\nRelated coverage: Orlando police arrest Dale Smith, ex-fiancé to missing woman Michelle Parker\n\nRelated coverage: Man whose ex-fiancée vanished after 2011 ‘The People’s Court’ appearance arrested on murder charge\n\nRelated coverage: Michelle Parker disappearance: Police make arrest | Full press conference\n\nRelated coverage: Orlando police: Michelle Parker’s ex-fiancé charged with murder 15 years after disappearance",
-        "trend_score": 35.46,
+        "content_context": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports；Secret documents reveal donors behind $330 million for Trump’s ballroom；You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom。\n\nRelated coverage: Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports\n\nRelated coverage: Secret documents reveal donors behind $330 million for Trump’s ballroom\n\nRelated coverage: You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom\n\nRelated coverage: Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom\n\nRelated coverage: What 3 big WA companies donated to Trump's ballroom",
+        "trend_score": 41.22,
         "trend_breakdown": {
-          "freshness": 0.94,
+          "freshness": 0.849,
           "engagement": 0.0,
-          "topic_overlap": 0.1,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "finance",
+          "technology"
+        ]
       },
       {
-        "source": "The Guardian",
+        "source": "WSJ",
         "category": "news",
-        "title": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxJYVNyVzk0TVpjbU9Ea3FOMndGeGE5Vk5felFlYTYtaTBNVGpmYlAzVFd4WVY2WDBYNGdtZ3Q4UTktN1BBbDJVX3ZyUUZINFZWMTFpNUZGcjFHdk11ZEljQ0laME9qMkNhN01sajRVU29DUUQ2c2l3SG5HR203Z2pyZTdKTmJtQmJPZHY1NDA2MXBIVGtJ?oc=5",
-        "published_at": "2026-10-14T22:22:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says；Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship；Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe。",
+        "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2N3OVRrMGk5ZldLM3V5TGc2SUpQNVJteVBPMndlc01iN2Vrdnk1RW5aZFFKQmdRei1WSHMzSVNGU2hlNEEwaHJ1ZklGbWRUTHpFQ2pzN1BfTGdDVUZRcmpVM2NOOUU0NWZ3QkRWY1VxY09BUzB5RGU3dFNWXzdKX2VXZE1sTG9WSTM4bVZCbmpiM0FMWWFveGFLaEVWOFF1NGxfdlF2RlhGeW9CU0JnQQ?oc=5",
+        "published_at": "2026-10-15T22:01:00+00:00",
+        "summary": "WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：New York City Comptroller Defends Decision Not to Invest in Israeli Bonds；NYC comptroller walks back pledge to buy Israel bonds；NYC Comptroller Levine changes course on Israel bond investments, drawing praise from Mamdani。",
         "related_headlines": [
-          "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",
-          "Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship",
-          "Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe",
-          "Can Trump Strip Ilhan Omar of Her Citizenship? Here's How the Process Works",
-          "Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’s records in sprawling immigration fraud probe"
+          "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
+          "NYC comptroller walks back pledge to buy Israel bonds",
+          "NYC Comptroller Levine changes course on Israel bond investments, drawing praise from Mamdani",
+          "‘Indefensible,’ Jewish leaders say of NYC comptroller opting to abort city’s Israel Bonds investments",
+          "Mark Levine will not buy Israel bonds, breaking campaign pledge"
         ],
-        "content_context": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says；Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship；Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe。\n\nRelated coverage: Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says\n\nRelated coverage: Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship\n\nRelated coverage: Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe\n\nRelated coverage: Can Trump Strip Ilhan Omar of Her Citizenship? Here's How the Process Works\n\nRelated coverage: Exclusive: Judge limited Justice Department access to Rep. Ilhan Omar’s records in sprawling immigration fraud probe",
-        "trend_score": 34.58,
+        "content_context": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds - WSJ\n\nWSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：New York City Comptroller Defends Decision Not to Invest in Israeli Bonds；NYC comptroller walks back pledge to buy Israel bonds；NYC Comptroller Levine changes course on Israel bond investments, drawing praise from Mamdani。\n\nRelated coverage: New York City Comptroller Defends Decision Not to Invest in Israeli Bonds\n\nRelated coverage: NYC comptroller walks back pledge to buy Israel bonds\n\nRelated coverage: NYC Comptroller Levine changes course on Israel bond investments, drawing praise from Mamdani\n\nRelated coverage: ‘Indefensible,’ Jewish leaders say of NYC comptroller opting to abort city’s Israel Bonds investments\n\nRelated coverage: Mark Levine will not buy Israel bonds, breaking campaign pledge",
+        "trend_score": 40.83,
         "trend_breakdown": {
-          "freshness": 0.92,
+          "freshness": 0.914,
           "engagement": 0.0,
-          "topic_overlap": 0.091,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Fox Business",
-        "category": "news",
-        "title": "Dems call Trump 'a total failure' over inflation as White House cites economic growth - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHAzcXBCUVJteGw5LXB4cU51VElKcmlxSy12amlsOWRJVmMzcjd4VEZLNjNfY192dFhMT0c2eFIyZjZJTTZMcUtMRXNfQU96c0VVRFhUek94OTRLV1RQNUJmS3Y5UjFGZUJNY3dIQmZ4ZEdmS0tOX00tSi1PcjdIekd3enBUUlE1eUlRem1NX241NFltLXFzc293UEdYUUNHUERxelVxVHVKeDhobzFQb3BRYU93cG550gG-AUFVX3lxTFB6UVB6anEyQnRmSTZEdWpuQVJSMW0tRmdfZ2k3aEhDbTVGd3FaMkRxN2lwRmZockhWMFljdHBlakU0NkxKVGtTOUc4WFZUNGVudFYxajgwTUV0LW1kdjZ0Z3N2S2pGZ1M4TDF4YmtiZmxKY09tRzBSc1RsLUVWNjR5QzZIc0pWMHh6MjJFcTR1QlFiZE5seGp6OEZYX0Uwd25laWQtTXVJS3o0d2FZblYySUdSRGNWaXRHa3dDMFE?oc=5",
-        "published_at": "2026-10-14T18:21:00+00:00",
-        "summary": "Fox Business 头条聚焦该事件，Google News 同时聚合到这些相关表述：Dems call Trump 'a total failure' over inflation as White House cites economic growth；Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too；In this deep-red city, rising costs test Trump’s affordability message。",
-        "related_headlines": [
-          "Dems call Trump 'a total failure' over inflation as White House cites economic growth",
-          "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too",
-          "In this deep-red city, rising costs test Trump’s affordability message",
-          "Going Hungry in Trump’s Economy",
-          "Prices Rise as Election Nears, Worrying Republicans"
-        ],
-        "content_context": "Dems call Trump 'a total failure' over inflation as White House cites economic growth - Fox Business\n\nFox Business 头条聚焦该事件，Google News 同时聚合到这些相关表述：Dems call Trump 'a total failure' over inflation as White House cites economic growth；Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too；In this deep-red city, rising costs test Trump’s affordability message。\n\nRelated coverage: Dems call Trump 'a total failure' over inflation as White House cites economic growth\n\nRelated coverage: Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too\n\nRelated coverage: In this deep-red city, rising costs test Trump’s affordability message\n\nRelated coverage: Going Hungry in Trump’s Economy\n\nRelated coverage: Prices Rise as Election Nears, Worrying Republicans",
-        "trend_score": 33.5,
-        "trend_breakdown": {
-          "freshness": 0.753,
-          "engagement": 0.0,
-          "topic_overlap": 0.143,
+          "topic_overlap": 0.182,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -701,100 +670,25 @@
         ]
       },
       {
-        "source": "Politico",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Trump says Taiwan will buy Alaska LNG. The project is still in flux. - Politico",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb28zRTRabTR6UjhNbklINlV3MDNLanVsd1RhUjlOYXJxdlFnTnNZalIwRlBzalIwRHRHNjVsSjY2Vm1kNHhJellzUFF0QnNwUkdEY2xDMS12a3Nrd1VDTjVta091SGlHQ2xQY19lTlVBMk80NDNiWmQtS1lZSUpMcGFYZEhLZw?oc=5",
-        "published_at": "2026-10-14T19:38:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Taiwan will buy Alaska LNG. The project is still in flux.；Taiwan plans to buy liquefied natural gas from Alaska pipeline project；Trump rallies in Wasilla with promises of additional foreign investment in gas line。",
+        "title": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0ZORHZZWGZOckxJMEEycklIZk1vaUgxNmNsUGZ5dVlIMXV3R1RGU3dWVnk3U3RIR0FDMU9OdmE3VWUwbGs5Ny0yZE5CWENHNUdHQlNXeGV3V2tPbDl2Q2E3Qi1hVE9yWjhMT0ZpdUc4dFY4anBDeDZqdVZMSzdFSjhVX0lIN1JLRE5GY1RWQjhfYnNxajNVbnVNVnhsV282M0dyZ19NYmpDT0d2OTllS0ZZNWlzWTc2Y2MzQTVUbjBLQUdYaC1rbQ?oc=5",
+        "published_at": "2026-10-15T22:07:15+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution；Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter；Vermonters relieved and conflicted after Trump backs off execution livestream。",
         "related_headlines": [
-          "Trump says Taiwan will buy Alaska LNG. The project is still in flux.",
-          "Taiwan plans to buy liquefied natural gas from Alaska pipeline project",
-          "Trump rallies in Wasilla with promises of additional foreign investment in gas line",
-          "Taiwan and Trump confirm plans for Alaska LNG cooperation",
-          "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says"
+          "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution",
+          "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+          "Vermonters relieved and conflicted after Trump backs off execution livestream",
+          "Trump shuts down Hegseth plan to livestream military execution",
+          "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter"
         ],
-        "content_context": "Trump says Taiwan will buy Alaska LNG. The project is still in flux. - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Taiwan will buy Alaska LNG. The project is still in flux.；Taiwan plans to buy liquefied natural gas from Alaska pipeline project；Trump rallies in Wasilla with promises of additional foreign investment in gas line。\n\nRelated coverage: Trump says Taiwan will buy Alaska LNG. The project is still in flux.\n\nRelated coverage: Taiwan plans to buy liquefied natural gas from Alaska pipeline project\n\nRelated coverage: Trump rallies in Wasilla with promises of additional foreign investment in gas line\n\nRelated coverage: Taiwan and Trump confirm plans for Alaska LNG cooperation\n\nRelated coverage: Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-        "trend_score": 33.39,
+        "content_context": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution；Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter；Vermonters relieved and conflicted after Trump backs off execution livestream。\n\nRelated coverage: Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution\n\nRelated coverage: Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter\n\nRelated coverage: Vermonters relieved and conflicted after Trump backs off execution livestream\n\nRelated coverage: Trump shuts down Hegseth plan to livestream military execution\n\nRelated coverage: Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter",
+        "trend_score": 38.4,
         "trend_breakdown": {
-          "freshness": 0.806,
+          "freshness": 0.918,
           "engagement": 0.0,
-          "topic_overlap": 0.273,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’ - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5",
-        "published_at": "2026-10-14T20:14:53+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’；A New World of Lung Cancer Therapy Awaits Pope Leo；Pope lung cancer news: Chicago doctors explain Pope Leo XIV's lung adenocarcinoma diagnosis as local Catholics offer prayers。",
-        "related_headlines": [
-          "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",
-          "A New World of Lung Cancer Therapy Awaits Pope Leo",
-          "Pope lung cancer news: Chicago doctors explain Pope Leo XIV's lung adenocarcinoma diagnosis as local Catholics offer prayers",
-          "‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy",
-          "Pope Leo XIV has lung cancer called adenocarcinoma. Here’s what that means"
-        ],
-        "content_context": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’ - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’；A New World of Lung Cancer Therapy Awaits Pope Leo；Pope lung cancer news: Chicago doctors explain Pope Leo XIV's lung adenocarcinoma diagnosis as local Catholics offer prayers。\n\nRelated coverage: Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’\n\nRelated coverage: A New World of Lung Cancer Therapy Awaits Pope Leo\n\nRelated coverage: Pope lung cancer news: Chicago doctors explain Pope Leo XIV's lung adenocarcinoma diagnosis as local Catholics offer prayers\n\nRelated coverage: ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy\n\nRelated coverage: Pope Leo XIV has lung cancer called adenocarcinoma. Here’s what that means",
-        "trend_score": 32.95,
-        "trend_breakdown": {
-          "freshness": 0.832,
-          "engagement": 0.0,
-          "topic_overlap": 0.188,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Axios",
-        "category": "news",
-        "title": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation - Axios",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHdxWXlmN2ZYWklDT2FlREFOVjhVN3VqWTNJX084YW0tVktrMVY4UTUxa3hMa2Y5M1BvZkRHdUhmSjE5LUNsbTJUSGQxZDJEdF9kaVB2T0l3T0RUSFZhTW9iODktOVZpMmpTMFN3ZXVRV2dfWXY5Vy1iM2FxSm0ySXN3?oc=5",
-        "published_at": "2026-10-14T20:36:33+00:00",
-        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation；Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates；Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky。",
-        "related_headlines": [
-          "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
-          "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-          "Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky",
-          "Elon Musk’s SpaceX imposes stunning restrictions on Ukraine that could have deadly consequences",
-          "GOP rep warns that Trump’s agenda is ‘dead’ unless he reverses course on Ukraine"
-        ],
-        "content_context": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation；Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates；Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky。\n\nRelated coverage: Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation\n\nRelated coverage: Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates\n\nRelated coverage: Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky\n\nRelated coverage: Elon Musk’s SpaceX imposes stunning restrictions on Ukraine that could have deadly consequences\n\nRelated coverage: GOP rep warns that Trump’s agenda is ‘dead’ unless he reverses course on Ukraine",
-        "trend_score": 32.27,
-        "trend_breakdown": {
-          "freshness": 0.847,
-          "engagement": 0.0,
-          "topic_overlap": 0.111,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Hill",
-        "category": "news",
-        "title": "GOP gets another Supreme Court win in TV political ad fight - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUU50MHpGdE1Xc3BxRFo0RDRvQk1UdG5MYWtXWTJJMkN1Qzg0R2VacGZyYTEzRkRwZm0yS25WbloxLXVmdGpwRzVrZEdFTFNlVnJWd1BjRk4wdW95RUFybWh6QTFHeHVPZk9qbk9UUVVPV1luT21pUmpSLWZPdjR2LTRuRnJVS0dFNmxkLU5tZjJLaHQ1TGfSAZsBQVVfeXFMT3E5ZkFsZklZWTlxSkEtWVlOekRLY3R3QWRSVnJuYWVrMjRVVjJBcWZVZmZGd0lubUM3M3JneGhzVmwwZzlLV08waE54V0gxNERzVDJXZlN1cEozazlrX1BXZmhjaTQzWlQ2ZWwwMVBZT3ZuU2JnMnE5ZDRwbFdjVHJHM1puZ2U4MHZqUXcySUhwMmZhRzJjeTJnalk?oc=5",
-        "published_at": "2026-10-14T20:36:00+00:00",
-        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：GOP gets another Supreme Court win in TV political ad fight；US Supreme Court again backs Republicans in clash over political ad rates；Supreme Court again sides with Trump in campaign ad dispute。",
-        "related_headlines": [
-          "GOP gets another Supreme Court win in TV political ad fight",
-          "US Supreme Court again backs Republicans in clash over political ad rates",
-          "Supreme Court again sides with Trump in campaign ad dispute",
-          "Supreme Court Again Sides With Republicans in Political TV Ad Fight",
-          "Supreme Court backs GOP again on political advertising rates ahead of midterms"
-        ],
-        "content_context": "GOP gets another Supreme Court win in TV political ad fight - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：GOP gets another Supreme Court win in TV political ad fight；US Supreme Court again backs Republicans in clash over political ad rates；Supreme Court again sides with Trump in campaign ad dispute。\n\nRelated coverage: GOP gets another Supreme Court win in TV political ad fight\n\nRelated coverage: US Supreme Court again backs Republicans in clash over political ad rates\n\nRelated coverage: Supreme Court again sides with Trump in campaign ad dispute\n\nRelated coverage: Supreme Court Again Sides With Republicans in Political TV Ad Fight\n\nRelated coverage: Supreme Court backs GOP again on political advertising rates ahead of midterms",
-        "trend_score": 32.25,
-        "trend_breakdown": {
-          "freshness": 0.847,
-          "engagement": 0.0,
-          "topic_overlap": 0.111,
+          "topic_overlap": 0.333,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -803,48 +697,70 @@
       {
         "source": "The New York Times",
         "category": "news",
-        "title": "Sexual Assault Report at Chicago Frat Upends Another Elite Campus - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHpHVnlXbHhLRUlWaVh1bnZhNUN3aV9oM1p4TEZZbnY5NW1jV05LQUltcHBuX25fMUNQb3hfSkp5VWZuYUIyTnlUTGhYaHFrM2gtMWo5d1ducU5NSGl1bGdSWjlPOWIzRXBKRHZyTVc3UUV1cHFpQjFkUTZsWHFMN0dQRUlONkpOcmpjbzNPSlI?oc=5",
-        "published_at": "2026-10-14T18:43:01+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sexual Assault Report at Chicago Frat Upends Another Elite Campus；Group cheered as woman was sexually assaulted at University of Chicago frat house, police report says；Woman alleges sexual assault in bathroom at off-campus fraternity near University of Chicago in police report。",
+        "title": "ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yNFh5UnVvXzdoc1dRQl90YVJIS2x3MjlCeUNyNUYyTWhNblpiaUlxSjdLM09HbGFwQUdROVJZRGJBZDU3am1Bbkk3LThIUWthUXFEcEl3UVBncHJ2VDNNYW56bDJxOU4zQ3lyTUctVkdNODFtQ3d5Qnhlcw?oc=5",
+        "published_at": "2026-10-15T22:21:54+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years.；ICE agent driving vehicle that struck and injured Houston man is placed on administrative leave；Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence。",
         "related_headlines": [
-          "Sexual Assault Report at Chicago Frat Upends Another Elite Campus",
-          "Group cheered as woman was sexually assaulted at University of Chicago frat house, police report says",
-          "Woman alleges sexual assault in bathroom at off-campus fraternity near University of Chicago in police report",
-          "Group Reportedly Cheered Sexual Assault At UChicago Frat House: Report",
-          "Sexual assault reported at frat house near University of Chicago"
+          "ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years.",
+          "ICE agent driving vehicle that struck and injured Houston man is placed on administrative leave",
+          "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence",
+          "Houston ICE crash: Initial suspect named, remains wanted",
+          "Houston DA Considering Criminal Charges for ICE Agent Who Ran Over Fleeing Man"
         ],
-        "content_context": "Sexual Assault Report at Chicago Frat Upends Another Elite Campus - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sexual Assault Report at Chicago Frat Upends Another Elite Campus；Group cheered as woman was sexually assaulted at University of Chicago frat house, police report says；Woman alleges sexual assault in bathroom at off-campus fraternity near University of Chicago in police report。\n\nRelated coverage: Sexual Assault Report at Chicago Frat Upends Another Elite Campus\n\nRelated coverage: Group cheered as woman was sexually assaulted at University of Chicago frat house, police report says\n\nRelated coverage: Woman alleges sexual assault in bathroom at off-campus fraternity near University of Chicago in police report\n\nRelated coverage: Group Reportedly Cheered Sexual Assault At UChicago Frat House: Report\n\nRelated coverage: Sexual assault reported at frat house near University of Chicago",
-        "trend_score": 30.32,
+        "content_context": "ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years. - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years.；ICE agent driving vehicle that struck and injured Houston man is placed on administrative leave；Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence。\n\nRelated coverage: ICE Called Him a Wanted Man. His Family Said He Had Been Dead Nine Years.\n\nRelated coverage: ICE agent driving vehicle that struck and injured Houston man is placed on administrative leave\n\nRelated coverage: Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence\n\nRelated coverage: Houston ICE crash: Initial suspect named, remains wanted\n\nRelated coverage: Houston DA Considering Criminal Charges for ICE Agent Who Ran Over Fleeing Man",
+        "trend_score": 37.43,
         "trend_breakdown": {
-          "freshness": 0.768,
+          "freshness": 0.929,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.25,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Forbes",
+        "source": "AP News",
         "category": "news",
-        "title": "Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2E4TEpxa3h4WW5MLVJFOE84Y2FXandDTmlFY0E5TUJzVy13SUgxZnN2TWNYbEpzNjBmU1V2OS1JNmJsZjBVY3BzVDZjZnp1WGZsRDNQQkoySmdRbXUxZno5LVBQUzFyTGpsU2p3WmtadFJhNEdlY0p6clI3UVVOZ09ITXBQZ3NVTzBlYkJfRl9TdHpubWlBdTVGSDZtSUJtLWRqXzNZUWNpNkVkNWV4N1hwa2EwX0xnNFZHb1NSTXlkcDdlZklPVkRCbndsa2xZOUE?oc=5",
-        "published_at": "2026-10-14T16:09:00+00:00",
-        "summary": "Forbes 头条聚焦该事件，Google News 同时聚合到这些相关表述：Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests；Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary；'Partisan hackery': Pepperdine alums blast Katie Zacharia's Trump appointment。",
+        "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
+        "published_at": "2026-10-15T23:16:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Authorities investigate letters with 'suspicious substances' sent to congressional, election offices；See more headlines & perspectives on Google News。",
         "related_headlines": [
-          "Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests",
-          "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
-          "'Partisan hackery': Pepperdine alums blast Katie Zacharia's Trump appointment",
-          "Katie Zacharia presented herself as a lawyer. She’s not",
-          "Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud"
+          "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+          "See more headlines & perspectives on Google News"
         ],
-        "content_context": "Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests - Forbes\n\nForbes 头条聚焦该事件，Google News 同时聚合到这些相关表述：Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests；Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary；'Partisan hackery': Pepperdine alums blast Katie Zacharia's Trump appointment。\n\nRelated coverage: Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests\n\nRelated coverage: Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary\n\nRelated coverage: 'Partisan hackery': Pepperdine alums blast Katie Zacharia's Trump appointment\n\nRelated coverage: Katie Zacharia presented herself as a lawyer. She’s not\n\nRelated coverage: Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud",
-        "trend_score": 23.8,
+        "content_context": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Authorities investigate letters with 'suspicious substances' sent to congressional, election offices；See more headlines & perspectives on Google News。\n\nRelated coverage: Authorities investigate letters with 'suspicious substances' sent to congressional, election offices\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 36.38,
         "trend_breakdown": {
-          "freshness": 0.661,
+          "freshness": 0.966,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead - CNN",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ucy03Y1N5V2ctYVlsQ29jQTE5WWdHQ0dtYU5LWTBQS0tuQXh4ODFEM082WXNaUHk1OGFYcW1hLWN2M1pRTFY5MWNqWHVUMXNxYWM2WXZieWNnbEJ1VTByRThtX01GSGFhS21lV1VNcw?oc=5",
+        "published_at": "2026-10-15T20:57:24+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead；3 children, 1 adult dead after shooting at Bend elementary school; Suspected shooter dead；Active shooter reported at Bend elementary school。",
+        "related_headlines": [
+          "Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead",
+          "3 children, 1 adult dead after shooting at Bend elementary school; Suspected shooter dead",
+          "Active shooter reported at Bend elementary school",
+          "Multiple people injured in shooting at Oregon elementary school, suspect fatally shot: Police",
+          "3 children, shooter dead after shooting at Bend elementary school"
+        ],
+        "content_context": "Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead；3 children, 1 adult dead after shooting at Bend elementary school; Suspected shooter dead；Active shooter reported at Bend elementary school。\n\nRelated coverage: Bend, Oregon school shooting: 3 children, 1 adult killed, source says. Shooter is also dead\n\nRelated coverage: 3 children, 1 adult dead after shooting at Bend elementary school; Suspected shooter dead\n\nRelated coverage: Active shooter reported at Bend elementary school\n\nRelated coverage: Multiple people injured in shooting at Oregon elementary school, suspect fatally shot: Police\n\nRelated coverage: 3 children, shooter dead after shooting at Bend elementary school",
+        "trend_score": 36.24,
+        "trend_breakdown": {
+          "freshness": 0.87,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -853,23 +769,98 @@
       {
         "source": "Politico",
         "category": "news",
-        "title": "House control all but gone, top Republicans privately concede - Politico",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa19RZ2cyTnpRbE4xTTg1Y2tvMVhCTEFaNDB2SUxQM2pzN08xaUZVMENHMUhpYnNUVlVQWUwydWZfR0owdTIyLXJEa3BlOGZMT01zMmt2RllUcHY0ak1GN0hrYkVpc3BmWTAzeVZ1YkZfYzd0YXJ6Q2lwV1NiOFZfSTlRV3dmYVg0enpkaktKWQ?oc=5",
-        "published_at": "2026-10-14T08:45:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：House control all but gone, top Republicans privately concede；House Republicans are secretly admitting that they will lose the majority in November: report；Republicans’ Guardrails are Collapsing。",
+        "title": "DOJ sues California, demands it purge voter rolls for alleged noncitizens - Politico",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96djc4Zy1RZS1BUkJ1RlBiZERzY2FCUUV0RDF3WUI0bThZd19xMU9WZmR2N1VfTUNuUVdzMmttS0xrd0tZTTZuVVBua3VIVDBmMk5qVEdzbjA3VmFXZ3hhQ3ZBRm5TclRoajh6LXJweHdkSVAxSTNKZk5vZko?oc=5",
+        "published_at": "2026-10-15T20:34:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：DOJ sues California, demands it purge voter rolls for alleged noncitizens；Trump Administration Sues California Over Voter Rolls；Justice Dept. sues California officials over 20K alleged noncitizen voters。",
         "related_headlines": [
-          "House control all but gone, top Republicans privately concede",
-          "House Republicans are secretly admitting that they will lose the majority in November: report",
-          "Republicans’ Guardrails are Collapsing",
-          "Trump Aides Admit the House is a Lost Cause",
-          "Toxic Trump? President makes midterms all about him but some Republicans are inching away"
+          "DOJ sues California, demands it purge voter rolls for alleged noncitizens",
+          "Trump Administration Sues California Over Voter Rolls",
+          "Justice Dept. sues California officials over 20K alleged noncitizen voters",
+          "Justice Department sues California, claiming it's mailing ballots to more than 20,000 noncitizens",
+          "DOJ gave California a voter list, a 48-hour deadline — and a threat of court action"
         ],
-        "content_context": "House control all but gone, top Republicans privately concede - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：House control all but gone, top Republicans privately concede；House Republicans are secretly admitting that they will lose the majority in November: report；Republicans’ Guardrails are Collapsing。\n\nRelated coverage: House control all but gone, top Republicans privately concede\n\nRelated coverage: House Republicans are secretly admitting that they will lose the majority in November: report\n\nRelated coverage: Republicans’ Guardrails are Collapsing\n\nRelated coverage: Trump Aides Admit the House is a Lost Cause\n\nRelated coverage: Toxic Trump? President makes midterms all about him but some Republicans are inching away",
-        "trend_score": 19.1,
+        "content_context": "DOJ sues California, demands it purge voter rolls for alleged noncitizens - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：DOJ sues California, demands it purge voter rolls for alleged noncitizens；Trump Administration Sues California Over Voter Rolls；Justice Dept. sues California officials over 20K alleged noncitizen voters。\n\nRelated coverage: DOJ sues California, demands it purge voter rolls for alleged noncitizens\n\nRelated coverage: Trump Administration Sues California Over Voter Rolls\n\nRelated coverage: Justice Dept. sues California officials over 20K alleged noncitizen voters\n\nRelated coverage: Justice Department sues California, claiming it's mailing ballots to more than 20,000 noncitizens\n\nRelated coverage: DOJ gave California a voter list, a 48-hour deadline — and a threat of court action",
+        "trend_score": 32.33,
         "trend_breakdown": {
-          "freshness": 0.353,
+          "freshness": 0.854,
           "engagement": 0.0,
-          "topic_overlap": 0.4,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWs3UkY2VGZZUWpseFBDNE1xV2FPQlZhekZqeF9Nejdxb2JJbVZBZVQwUnFzam9tY0l0cFFCNEk1VG02djBxeFpmUVNleEtlUmkxTlFpNkgyWmNUZnd1S3AtV29vRTRSZHlvejFiMjVVaE10WEtIVzkwdGNSVURiTG9BM2dPNW8tc2pkdHpFWTFic0NkTnc?oc=5",
+        "published_at": "2026-10-15T20:48:59+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer；Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam；Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?。",
+        "related_headlines": [
+          "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer",
+          "Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
+          "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+          "Trump called Katie Zacharia an 'attorney,' but she didn't pass the bar exam. Who is the new White House press secretary?",
+          "Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud"
+        ],
+        "content_context": "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer；Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam；Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?。\n\nRelated coverage: White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer\n\nRelated coverage: Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam\n\nRelated coverage: Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?\n\nRelated coverage: Trump called Katie Zacharia an 'attorney,' but she didn't pass the bar exam. Who is the new White House press secretary?\n\nRelated coverage: Hi, I’m Your New Press Secretary, and It’s My First Time Reading Words Out Loud",
+        "trend_score": 32.05,
+        "trend_breakdown": {
+          "freshness": 0.864,
+          "engagement": 0.0,
+          "topic_overlap": 0.059,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "A super El Niño winter is coming and the first official forecast is in - CNN",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMkplWjNqMnNic2hGZWF0VmJaektiTDZOSE5QRzRPNEpoUzltRGYtZXJxNC1SYmFoektfRnVQMVYwQ2NIUUl1MzJGWjg2QmltZnJzdnZIOERUZ1hsZHlqOUp1bTdZR1VFUXJKZFBfeXhIdld4NEE?oc=5",
+        "published_at": "2026-10-15T16:26:16+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A super El Niño winter is coming and the first official forecast is in；What a ‘Godzilla’ El Niño could mean for snow across Alaska this winter；US winter is likely to be wetter and warmer, forecasters say, with more snow in the south。",
+        "related_headlines": [
+          "A super El Niño winter is coming and the first official forecast is in",
+          "What a ‘Godzilla’ El Niño could mean for snow across Alaska this winter",
+          "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+          "NASA Satellites Observe Historic 2026 El Niño",
+          "El Nino looms large over U.S. Winter Outlook"
+        ],
+        "content_context": "A super El Niño winter is coming and the first official forecast is in - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A super El Niño winter is coming and the first official forecast is in；What a ‘Godzilla’ El Niño could mean for snow across Alaska this winter；US winter is likely to be wetter and warmer, forecasters say, with more snow in the south。\n\nRelated coverage: A super El Niño winter is coming and the first official forecast is in\n\nRelated coverage: What a ‘Godzilla’ El Niño could mean for snow across Alaska this winter\n\nRelated coverage: US winter is likely to be wetter and warmer, forecasters say, with more snow in the south\n\nRelated coverage: NASA Satellites Observe Historic 2026 El Niño\n\nRelated coverage: El Nino looms large over U.S. Winter Outlook",
+        "trend_score": 29.11,
+        "trend_breakdown": {
+          "freshness": 0.682,
+          "engagement": 0.0,
+          "topic_overlap": 0.286,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC 5 Chicago",
+        "category": "news",
+        "title": "Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple - NBC 5 Chicago",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVk0tSjZ5VjM5VWhlQjdHeFJTS1MtN0t2UjFfR0ZJS0tZZ29WSXc3R0I0UHRSRFhqeVNSMktMNjhGaTc1WGxZY21Jd2xEY0xQTTYtelBvX1FpRUFEcWVPbFp3am9RQUk3ZHZrN3M2Sm9xdXRBcGszY1AxMGJ4VU5EWTdUS3lzMnBRckFITkt6bS1SaDE5Nmgzd25BYzctTVpzV0g2N25uckQ0cEIwWlU2S0VQcVFpNkNQY1NMcTNkZDdUbWRJbmxZMFBFTnBobkhNci1ELUtFNV80SlZP0gHkAUFVX3lxTE5VN3RfMmlzUGxucVgzZVIxZ3BwOVRaZFlKcUZjR2NOaTdPWGlnenA4N0hKSkZ4N0pMdjNKRmtWSlJUaGk2WWVhRnhRSGFhcDlGTHlSek5PeWRvZVFDWEYwYU5WUW5QOS1JWEJzY2dKTDRORnU3dkdMcF96VlFyaTRWVjNLNGlnQV8xWGZGczhrRkNDS1NYUFl4N21IeDFjVGpueUdXbVZOQVFvQndqbjRLN0pPNWtoX0hFcGhRMDBHb2ZLYlB1Z1hTUk1ReDF6SzN6NTRLMGgycEUteHNDMFc5STFhNA?oc=5",
+        "published_at": "2026-10-15T16:09:43+00:00",
+        "summary": "NBC 5 Chicago 头条聚焦该事件，Google News 同时聚合到这些相关表述：Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple；Teen Arrested Over Plan to Attack Hindu Temple, Officials Say；Jammed rifle prevented an apparent mass murder plot at worship center in Aurora。",
+        "related_headlines": [
+          "Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple",
+          "Teen Arrested Over Plan to Attack Hindu Temple, Officials Say",
+          "Jammed rifle prevented an apparent mass murder plot at worship center in Aurora",
+          "Palatine man Alexandros Paporakis, 19, charged with terrorism offenses in alleged mass shooting plot targeting Aurora Hindu temple",
+          "Authorities say coworker’s call to police may have prevented Palatine man from carrying out mass shooting"
+        ],
+        "content_context": "Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple - NBC 5 Chicago\n\nNBC 5 Chicago 头条聚焦该事件，Google News 同时聚合到这些相关表述：Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple；Teen Arrested Over Plan to Attack Hindu Temple, Officials Say；Jammed rifle prevented an apparent mass murder plot at worship center in Aurora。\n\nRelated coverage: Details emerge as ‘brave individual' helps foil alleged mass shooting plot at suburban Hindu temple\n\nRelated coverage: Teen Arrested Over Plan to Attack Hindu Temple, Officials Say\n\nRelated coverage: Jammed rifle prevented an apparent mass murder plot at worship center in Aurora\n\nRelated coverage: Palatine man Alexandros Paporakis, 19, charged with terrorism offenses in alleged mass shooting plot targeting Aurora Hindu temple\n\nRelated coverage: Authorities say coworker’s call to police may have prevented Palatine man from carrying out mass shooting",
+        "trend_score": 26.26,
+        "trend_breakdown": {
+          "freshness": 0.67,
+          "engagement": 0.0,
+          "topic_overlap": 0.133,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -885,11 +876,11 @@
       "url": "https://github.com/morluto/rea",
       "author": "morluto",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
       "language": "TypeScript",
-      "score": 41034,
-      "comment_count": 60051,
-      "total_stars": 241352,
+      "score": 32314,
+      "comment_count": 67562,
+      "total_stars": 269477,
       "built_by": [
         "morluto",
         "N0zoM1z0",
@@ -897,7 +888,7 @@
         "claude",
         "rudycelekli"
       ],
-      "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 41034\n\nTotal stars: 241352\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
+      "content_context": "Reverse engineer anything with agents, from app behavior down to native binaries.\n\nLanguage: TypeScript\n\nStars today: 32314\n\nTotal stars: 269477\n\nBuilt by: morluto, N0zoM1z0, kaoru0822-kitauji, claude, rudycelekli",
       "trend_score": 86.84,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -913,15 +904,79 @@
     {
       "source": "github-trending",
       "category": "github_trending",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "JavaScript",
+      "score": 1013,
+      "comment_count": 41699,
+      "total_stars": 280356,
+      "built_by": [
+        "affaan-m",
+        "haelyra",
+        "claude",
+        "montjeffrey",
+        "dependabot"
+      ],
+      "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1013\n\nTotal stars: 280356\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
+      "trend_score": 79.26,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.8,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "author": "anthropics",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "Python",
+      "score": 307,
+      "comment_count": 4321,
+      "total_stars": 39061,
+      "built_by": [
+        "github-actions",
+        "jordanecker-ant",
+        "bryan-anthropic",
+        "claude",
+        "tobinsouth"
+      ],
+      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 307\n\nTotal stars: 39061\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, tobinsouth",
+      "trend_score": 78.77,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.645,
+        "topic_overlap": 0.25,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "author": "debpalash",
       "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
       "language": "Python",
-      "score": 3538,
-      "comment_count": 7314,
-      "total_stars": 66297,
+      "score": 3024,
+      "comment_count": 7556,
+      "total_stars": 69035,
       "built_by": [
         "debpalash",
         "claude",
@@ -929,11 +984,11 @@
         "kevin9327",
         "jaketame"
       ],
-      "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 3538\n\nTotal stars: 66297\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
-      "trend_score": 78.76,
+      "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 3024\n\nTotal stars: 69035\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+      "trend_score": 78.72,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.787,
+        "engagement": 0.786,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -945,155 +1000,59 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "author": "vxcontrol",
-      "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Go",
-      "score": 1025,
-      "comment_count": 4421,
-      "total_stars": 29424,
+      "title": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "author": "NationalSecurityAgency",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "Java",
+      "score": 1369,
+      "comment_count": 9901,
+      "total_stars": 88723,
       "built_by": [
-        "sirozha",
+        "ryanmkurtz",
+        "ghidra1",
+        "dragonmacher",
+        "nsadeveloper789",
+        "caheckman"
+      ],
+      "content_context": "Ghidra is a software reverse engineering (SRE) framework\n\nLanguage: Java\n\nStars today: 1369\n\nTotal stars: 88723\n\nBuilt by: ryanmkurtz, ghidra1, dragonmacher, nsadeveloper789, caheckman",
+      "trend_score": 77.59,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.756,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "obra",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "Shell",
+      "score": 582,
+      "comment_count": 26781,
+      "total_stars": 299873,
+      "built_by": [
+        "obra",
+        "arittr",
         "claude",
-        "asdek",
-        "mason5052",
-        "cursoragent"
+        "clkao",
+        "gaurav0107"
       ],
-      "content_context": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\n\nLanguage: Go\n\nStars today: 1025\n\nTotal stars: 29424\n\nBuilt by: sirozha, claude, asdek, mason5052, cursoragent",
-      "trend_score": 75.55,
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 582\n\nTotal stars: 299873\n\nBuilt by: obra, arittr, claude, clkao, gaurav0107",
+      "trend_score": 77.47,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.703,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "author": "ifixai-ai",
-      "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Python",
-      "score": 2109,
-      "comment_count": 1503,
-      "total_stars": 27376,
-      "built_by": [
-        "rudycelekli",
-        "n-papaioannou",
-        "stefyi-4355",
-        "Sebabaian",
-        "github-actions"
-      ],
-      "content_context": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.\n\nLanguage: Python\n\nStars today: 2109\n\nTotal stars: 27376\n\nBuilt by: rudycelekli, n-papaioannou, stefyi-4355, Sebabaian, github-actions",
-      "trend_score": 75.27,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.695,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "author": "rust-lang",
-      "summary": "Empowering everyone to build reliable and efficient software.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Rust",
-      "score": 207,
-      "comment_count": 18701,
-      "total_stars": 120018,
-      "built_by": [
-        "bors",
-        "matthiaskrgr",
-        "RalfJung",
-        "GuillaumeGomez",
-        "matklad"
-      ],
-      "content_context": "Empowering everyone to build reliable and efficient software.\n\nLanguage: Rust\n\nStars today: 207\n\nTotal stars: 120018\n\nBuilt by: bors, matthiaskrgr, RalfJung, GuillaumeGomez, matklad",
-      "trend_score": 74.68,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.68,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "author": "mksglu",
-      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "TypeScript",
-      "score": 947,
-      "comment_count": 2044,
-      "total_stars": 29108,
-      "built_by": [
-        "mksglu",
-        "github-actions",
-        "claude",
-        "ipedro",
-        "ousamabenyounes"
-      ],
-      "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 947\n\nTotal stars: 29108\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
-      "trend_score": 74.19,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.667,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "xtool-org/xtool",
-      "url": "https://github.com/xtool-org/xtool",
-      "author": "xtool-org",
-      "summary": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Swift",
-      "score": 1502,
-      "comment_count": 485,
-      "total_stars": 10787,
-      "built_by": [
-        "kabiroberai",
-        "reklis",
-        "erikbdev",
-        "mvanhorn",
-        "pawlowskialex"
-      ],
-      "content_context": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.\n\nLanguage: Swift\n\nStars today: 1502\n\nTotal stars: 10787\n\nBuilt by: kabiroberai, reklis, erikbdev, mvanhorn, pawlowskialex",
-      "trend_score": 72.84,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.631,
+        "engagement": 0.753,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1109,11 +1068,11 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "author": "K-Dense-AI",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
       "language": "Python",
-      "score": 163,
-      "comment_count": 4420,
-      "total_stars": 49312,
+      "score": 1091,
+      "comment_count": 4487,
+      "total_stars": 50444,
       "built_by": [
         "timothykassis",
         "cursoragent",
@@ -1121,11 +1080,11 @@
         "github-actions",
         "claude"
       ],
-      "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 163\n\nTotal stars: 49312\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
-      "trend_score": 71.96,
+      "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 1091\n\nTotal stars: 50444\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
+      "trend_score": 75.89,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.608,
+        "engagement": 0.712,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1137,27 +1096,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "author": "HKUDS",
-      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Python",
-      "score": 103,
-      "comment_count": 4773,
-      "total_stars": 52475,
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "author": "JuliusBrussee",
+      "summary": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "Go",
+      "score": 433,
+      "comment_count": 6519,
+      "total_stars": 112523,
       "built_by": [
-        "yuh-yang",
+        "JuliusBrussee",
         "claude",
-        "AiMiDi",
-        "omerarslan0",
-        "hito0512"
+        "github-actions",
+        "nikpushkarski",
+        "AmirF194"
       ],
-      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 103\n\nTotal stars: 52475\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-      "trend_score": 71.19,
+      "content_context": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\nLanguage: Go\n\nStars today: 433\n\nTotal stars: 112523\n\nBuilt by: JuliusBrussee, claude, github-actions, nikpushkarski, AmirF194",
+      "trend_score": 74.66,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.588,
+        "engagement": 0.679,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1169,27 +1128,58 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "author": "nvm-sh",
-      "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "published_at": "2026-10-15T00:16:51.662949+00:00",
-      "language": "Shell",
-      "score": 52,
-      "comment_count": 10517,
-      "total_stars": 95449,
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "author": "mksglu",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "TypeScript",
+      "score": 904,
+      "comment_count": 2082,
+      "total_stars": 29785,
       "built_by": [
-        "ljharb",
-        "PeterDaveHello",
-        "creationix",
-        "koenpunt",
-        "lukechilds"
+        "mksglu",
+        "github-actions",
+        "claude",
+        "ipedro",
+        "ousamabenyounes"
       ],
-      "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 52\n\nTotal stars: 95449\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
-      "trend_score": 71.11,
+      "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 904\n\nTotal stars: 29785\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
+      "trend_score": 74.31,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.586,
+        "engagement": 0.67,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "author": "ruvnet",
+      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "published_at": "2026-10-16T00:04:36.833691+00:00",
+      "language": "TypeScript",
+      "score": 147,
+      "comment_count": 8926,
+      "total_stars": 75103,
+      "built_by": [
+        "ruvnet",
+        "claude",
+        "rudycelekli",
+        "proffesor-for-testing"
+      ],
+      "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 147\n\nTotal stars: 75103\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
+      "trend_score": 73.04,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.637,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1201,86 +1191,24 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "author": "sbulaev",
-      "score": 3,
-      "comment_count": 0,
-      "published_at": "2026-10-15T00:07:08+00:00",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "page_title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "page_description": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-        "page_excerpt": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.\n\nIt took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships.\n\nOnly those with special clearance are supposed to access that room. But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020. In a press release Tuesday announcing his arrest, the FBI alleged that chatbot logs and CCTV footage suggested that Alfozan—who worked as an OpenAI engineer fo..."
-      },
-      "content_context": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.\n\nOpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges. It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships. Only those with special clearance are supposed to access that room. But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020. In a press release Tuesday announcing his arrest, the FBI alleged that chatbot logs and CCTV footage suggested that Alfozan—who worked as an OpenAI engineer fo...",
-      "trend_score": 53.98,
-      "trend_breakdown": {
-        "freshness": 0.993,
-        "engagement": 0.071,
-        "topic_overlap": 0.182,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Copy Paste manager for M chip Macs",
-      "url": "https://frazer.github.io/clipM/",
-      "author": "frazer",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-10-15T00:14:45+00:00",
-      "summary": "Full-featured copy & paste manager for Apple silicon Macs.",
-      "comment_highlights": [
-        "Hi everyone with an M chip #Mac, I just spent months pouring my heart into this project, and polishing it as beautifully as I could. Want the best copy paste manager ever? <a href=\"https://github.com/Frazer/clipM\" rel=\"nofollow\">https://github.com/Frazer/clipM</a> Free, open source. Has snippets,..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://frazer.github.io/clipM/",
-        "page_title": "clip'M",
-        "page_description": "Full-featured copy & paste manager for Apple silicon Macs.",
-        "page_excerpt": "Press / and start typing. clip'M filters your history instantly so you are not scrolling through yesterday’s noise to find the one line you copied an hour ago.\n\nNeed screenshots only? Hit / then Tab or click the image button for image-only search — perfect when you remember what it looked like, not what it said.\n\nOrganize reusable text into folders — email, phone, addresses, boilerplate — and open them from the same menu you already use for clipboard history."
-      },
-      "content_context": "Full-featured copy & paste manager for Apple silicon Macs.\n\nPress / and start typing. clip'M filters your history instantly so you are not scrolling through yesterday’s noise to find the one line you copied an hour ago. Need screenshots only? Hit / then Tab or click the image button for image-only search — perfect when you remember what it looked like, not what it said. Organize reusable text into folders — email, phone, addresses, boilerplate — and open them from the same menu you already use for clipboard history.\n\nHN comment: Hi everyone with an M chip #Mac, I just spent months pouring my heart into this project, and polishing it as beautifully as I could. Want the best copy paste manager ever? <a href=\"https://github.com/Frazer/clipM\" rel=\"nofollow\">https://github.com/Frazer/clipM</a> Free, open source. Has snippets,...",
-      "trend_score": 50.1,
-      "trend_breakdown": {
-        "freshness": 0.998,
-        "engagement": 0.064,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "author": "matttah",
+      "title": "Show HN: Pasteface - Record, transcribe and copy speech locally in your terminal",
+      "url": "https://github.com/blairjordan/pasteface",
+      "author": "bearware",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-10-14T23:48:38+00:00",
-      "summary": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula",
+      "published_at": "2026-10-15T23:59:51+00:00",
+      "summary": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://github.com/vacuula/vacuula",
-        "page_title": "GitHub - vacuula/vacuula: custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula",
-        "page_description": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula",
-        "page_excerpt": "Vacuula is made as an all-in-one solution to repair and control your broken Neato Robot vacuum.\n\nYour robot not listed here? Get in touch! ¹Sadly we were not able to fit the OG BotVac Connected into the initial release, sorry about this, support for this robot is in the works and here very soon!\n\nDo you have a Gen4 robot that is in \" r a i n b o w m o d e \"? Different colors flashing and the robot does not start? Contact us in the discord . There we can help you repair your robot!"
+        "resolved_url": "https://github.com/blairjordan/pasteface",
+        "page_title": "GitHub - blairjordan/pasteface: Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription.",
+        "page_description": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface",
+        "page_excerpt": "Organize recordings into named transcript tabs, keep recording while earlier chunks transcribe, and copy the results to your clipboard. Transcribe on your machine with whisper.cpp or use OpenAI’s transcription API.\n\nInstall a current stable Rust toolchain and FFmpeg. Local transcription also requires a separate whisper.cpp executable and model; see Transcription settings .\n\nInstall the native dependencies for the default build, which includes the tray:"
       },
-      "content_context": "custom server for the undead robot vacuum cleaners - revive your Neato with the power of Vacuula - vacuula/vacuula\n\nVacuula is made as an all-in-one solution to repair and control your broken Neato Robot vacuum. Your robot not listed here? Get in touch! ¹Sadly we were not able to fit the OG BotVac Connected into the initial release, sorry about this, support for this robot is in the works and here very soon! Do you have a Gen4 robot that is in \" r a i n b o w m o d e \"? Different colors flashing and the robot does not start? Contact us in the discord . There we can help you repair your robot!",
-      "trend_score": 48.18,
+      "content_context": "Record, transcribe, and copy speech from your terminal. Named transcript tabs, queued recordings, and local or OpenAI transcription. - blairjordan/pasteface\n\nOrganize recordings into named transcript tabs, keep recording while earlier chunks transcribe, and copy the results to your clipboard. Transcribe on your machine with whisper.cpp or use OpenAI’s transcription API. Install a current stable Rust toolchain and FFmpeg. Local transcription also requires a separate whisper.cpp executable and model; see Transcription settings . Install the native dependencies for the default build, which includes the tray:",
+      "trend_score": 48.96,
       "trend_breakdown": {
-        "freshness": 0.98,
+        "freshness": 0.997,
         "engagement": 0.036,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
@@ -1293,56 +1221,110 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Nvidia reportedly halts GeForce RTX 5090 production",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-      "author": "kristianp",
+      "title": "45 years later, the Sinclair ULA design documents surface",
+      "url": "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+      "author": "khalidkhair",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-10-14T23:44:41+00:00",
-      "summary": "No more GB202 for consumers?",
+      "published_at": "2026-10-16T00:03:04+00:00",
+      "summary": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-        "page_title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship",
-        "page_description": "No more GB202 for consumers?",
-        "page_excerpt": "When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works .\n\nNvidia has reportedly ceased selling its GB202 graphics processors for consumer-grade GeForce RTX 5090-series add-in-boards (AIBs), including 'D' variants for the Chinese market, according to a leaked notice from an unknown factory cited by @hongxing2020 , who tends to have insights into the graphics card market. Another prominent leaker @Zed__Wang confirmed the report and said that from now on...\n\n\"According to a notification from the factory, Nvidia will no longer manufacture any RTX 5090 models, including the D variants,\" a message cited by @hongxing2020 reads. \"Going forward, the highest-end GeForce graphics card will be the RTX 5080 24GB, while the RTX 5080 16GB version will be discontinued. Please spread the word.\""
+        "resolved_url": "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+        "page_title": "45 Years Later, The Sinclair ULA Design Documents Surface",
+        "page_description": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…",
+        "page_excerpt": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their limited hardware. If there was one component that was key to their success it was the Ferranti ULA, or Uncommitted Logic Array, a clever way to make an ASIC from a chip containing a library of logic parts read...\n\nThe documents were picked up on eBay, and contain folders with printouts, engineering drawings, and hand written design notes. They cover the full range of Sinclair products of the era, including the ZX81 and Spectrum, the ZX printer , the Microdrive , the Spectrum Interface 1, and even the curious little flat screen TV. Oddly the IP is now held by the satellite broadcaster Sky as the holder of...\n\nIf you’re curious about the ULA and Ferranti, we linked to a period film about it ."
       },
-      "content_context": "No more GB202 for consumers?\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . Nvidia has reportedly ceased selling its GB202 graphics processors for consumer-grade GeForce RTX 5090-series add-in-boards (AIBs), including 'D' variants for the Chinese market, according to a leaked notice from an unknown factory cited by @hongxing2020 , who tends to have insights into the graphics card market. Another prominent leaker @Zed__Wang confirmed the report and said that from now on... \"According to a notification from the factory, Nvidia will no longer manufacture any RTX 5090 models, including the D variants,\" a message cited by @hongxing2020 reads. \"Going forward, the highest-end GeForce graphics card will be the RTX 5080 24GB, while the RTX 5080 16GB version will be discontinued. Please spread the word.\"",
-      "trend_score": 48.04,
+      "content_context": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their lim…\n\nIn the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often packing a surprising level of sophistication in their limited hardware. If there was one component that was key to their success it was the Ferranti ULA, or Uncommitted Logic Array, a clever way to make an ASIC from a chip containing a library of logic parts read... The documents were picked up on eBay, and contain folders with printouts, engineering drawings, and hand written design notes. They cover the full range of Sinclair products of the era, including the ZX81 and Spectrum, the ZX printer , the Microdrive , the Spectrum Interface 1, and even the curious little flat screen TV. Oddly the IP is now held by the satellite broadcaster Sky as the holder of... If you’re curious about the ULA and Ferranti, we linked to a period film about it .",
+      "trend_score": 44.16,
       "trend_breakdown": {
-        "freshness": 0.978,
+        "freshness": 0.999,
         "engagement": 0.036,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "author": "gmays",
-      "score": 12,
-      "comment_count": 0,
-      "published_at": "2026-10-14T23:59:37+00:00",
-      "summary": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "page_title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog",
-        "page_description": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
-        "page_excerpt": "Today, we release LFM2.5-24B-A2B , a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device. It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B .\n\nLFM2.5-24B-A2B is competitive with Qwen3.6-35B-A3B, a model with ~50% more total and active parameters, on five of eight agentic and tool-use benchmarks, scoring 48.09 on LiveClaw versus 38.19 and 27.69 on AutomationBench versus 8.72. Because only 2B parameters are active per token, it runs up to 1.7× faster than comparable MoEs on-device, with 184 tokens/s on an Apple M5 Max and up to 21K outp...\n\nThe base (LFM2.5-24B-A2B-Base) and post-trained (LFM2.5-24B-A2B) models are open-weight and available today on Hugging Face and our Playground . Check out our docs on how to run and fine-tune it locally."
-      },
-      "content_context": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.\n\nToday, we release LFM2.5-24B-A2B , a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device. It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B . LFM2.5-24B-A2B is competitive with Qwen3.6-35B-A3B, a model with ~50% more total and active parameters, on five of eight agentic and tool-use benchmarks, scoring 48.09 on LiveClaw versus 38.19 and 27.69 on AutomationBench versus 8.72. Because only 2B parameters are active per token, it runs up to 1.7× faster than comparable MoEs on-device, with 184 tokens/s on an Apple M5 Max and up to 21K outp... The base (LFM2.5-24B-A2B-Base) and post-trained (LFM2.5-24B-A2B) models are open-weight and available today on Hugging Face and our Playground . Check out our docs on how to run and fine-tune it locally.",
-      "trend_score": 46.74,
-      "trend_breakdown": {
-        "freshness": 0.988,
-        "engagement": 0.132,
         "topic_overlap": 0.143,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Xbox Labs",
+      "url": "https://twitter.com/asha_shar/status/2110083127741702241",
+      "author": "astlouis44",
+      "score": 4,
+      "comment_count": 0,
+      "published_at": "2026-10-15T23:55:47+00:00",
+      "summary": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://x.com/asha_shar/status/2110083127741702241",
+        "page_title": "ASHA (@asha_shar) on X",
+        "page_description": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+        "page_excerpt": null
+      },
+      "content_context": "Today we're standing up XBOX LABS (https://t.co/dJSufI1vni). Here is the note that I sent to the team: Team, The first video games emerged some 75 years ago. In the time since, there have been booms and busts, but every year there are more great games to play, more devices to play them, and best o…",
+      "trend_score": 42.88,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.083,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "What causes AI fatigue for engineers and how to ease the strain",
+      "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+      "author": "devonnull",
+      "score": 4,
+      "comment_count": 0,
+      "published_at": "2026-10-15T23:43:23+00:00",
+      "summary": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+        "page_title": "What causes AI fatigue for engineers and how to ease the strain",
+        "page_description": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.",
+        "page_excerpt": "AI fatigue is hitting some development teams hard. In our original research study , engineering, product and technology leaders from US healthcare companies told us they’re feeling pressured to evaluate a firehose of new AI trends and tools while struggling to navigate AI-generated code alongside legacy systems.\n\nThis isn’t entirely new. The industry has gone through waves like this before, from the rise of the internet and the advent of social media to mobile development and every new round of web technology in between. But the rapid progression of LLMs speeds up this cycle, which can leave teams to feel like they’re losing control.\n\nHere’s what our study uncovered about the causes of AI fatigue and some practical ideas for successfully navigating these pain points."
+      },
+      "content_context": "AI fatigue is setting in for engineering teams. Our research shows most feel pressure to assess every AI trend, struggle to evaluate tools, and wrestle with evaluating AI-generated code. Here’s some practical advice for navigating the pain points.\n\nAI fatigue is hitting some development teams hard. In our original research study , engineering, product and technology leaders from US healthcare companies told us they’re feeling pressured to evaluate a firehose of new AI trends and tools while struggling to navigate AI-generated code alongside legacy systems. This isn’t entirely new. The industry has gone through waves like this before, from the rise of the internet and the advent of social media to mobile development and every new round of web technology in between. But the rapid progression of LLMs speeds up this cycle, which can leave teams to feel like they’re losing control. Here’s what our study uncovered about the causes of AI fatigue and some practical ideas for successfully navigating these pain points.",
+      "trend_score": 42.53,
+      "trend_breakdown": {
+        "freshness": 0.985,
+        "engagement": 0.083,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Timestral",
+      "url": "https://mistral.ai/news/timestral/",
+      "author": "NathaP",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-15T23:40:06+00:00",
+      "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://mistral.ai/news/timestral/",
+        "page_title": "Timestral: Mistral's time-series foundation models | Mistral",
+        "page_description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+        "page_excerpt": "Timestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parameters), it balances accuracy and efficiency, running efficiently on CPUs and excelling in zero-shot foreca...\n\nToday, we’re releasing Timestral, our first family of time-series foundation models. Our largest model, at just 209M parameters, ranks first on all three of the field's main public benchmarks, GIFT-Eval, TIME, and fev-bench, outperforming the previous state of the art with only two-thirds of the model parameters.\n\nTimestral delivers probabilistic, multivariate forecasts and supports past-only and known-future covariates. Our family of models sits on the Pareto front of forecasting accuracy versus model size, delivering leading performance at each size. Results have been submitted to the G..."
+      },
+      "content_context": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\n\nTimestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parameters), it balances accuracy and efficiency, running efficiently on CPUs and excelling in zero-shot foreca... Today, we’re releasing Timestral, our first family of time-series foundation models. Our largest model, at just 209M parameters, ranks first on all three of the field's main public benchmarks, GIFT-Eval, TIME, and fev-bench, outperforming the previous state of the art with only two-thirds of the model parameters. Timestral delivers probabilistic, multivariate forecasts and supports past-only and known-future covariates. Our family of models sits on the Pareto front of forecasting accuracy versus model size, delivering leading performance at each size. Results have been submitted to the G...",
+      "trend_score": 41.6,
+      "trend_breakdown": {
+        "freshness": 0.983,
+        "engagement": 0.057,
+        "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1353,162 +1335,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目表现活跃，GitHub趋势榜涌现多个高热度项目。核心热点聚焦于AI智能体与专业领域的深度结合：REA项目将智能体用于自动化逆向工程，单日获超4.1万星标，引发广泛关注；Pentagi和iFixAi分别探索AI在自动化渗透测试与智能体审计中的应用，提升安全与可靠性；VoiceStudio作为本地化语音合成方案，支持多语言处理；context-mode则针对AI编程助手的上下文管理进行优化，提升开发效率。此外，scientific-agent-skills项目提供科学领域技能库，Rust语言仓库持续受捧，xtool项目尝试打破iOS开发平台限制。整体来看，AI正加速向开发工具、安全、科研等垂直领域渗透，推动工具智能化与普惠化。",
+    "overview": "今日AI领域热点聚焦于开源工具与智能体（Agent）生态的蓬勃发展。逆向工程框架REA凭借智能体自动化概念单日获星超3.2万，引领安全分析新范式。同时，针对AI编码代理的优化工具（如ECC、Caveman）及官方插件目录（Claude Code Plugins）持续涌现，旨在提升开发效率与成本效益。此外，完全本地化的语音合成工具VoiceStudio与科学领域技能库scientific-agent-skills，分别展示了AI在多媒体与垂直专业场景的深入应用。成熟项目如Ghidra与superpowers的热度回升，则反映了市场对基础工具与方法论的持续需求。",
     "named_hotspots": [
       {
-        "name": "REA (Reverse Engineer Anything)",
+        "name": "REA",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为REA（Reverse Engineer Anything）的开源项目在GitHub上迅速走红，单日获得超过4.1万星标，总星标数超过24万，成为技术社区的热门话题。",
-        "core_details": "REA是一个使用TypeScript编写的开源项目，旨在利用智能体（Agents）技术对任何事物进行逆向工程，覆盖范围从应用程序行为分析到原生二进制文件。项目由开发者morluto主导，并有多位贡献者参与。",
-        "ai_take": "该项目将AI智能体与逆向工程深度结合，展示了AI在自动化代码分析、安全研究和软件理解方面的潜力，可能降低逆向工程的技术门槛并提升效率。",
-        "hype_check": "极高的单日星标增长和社区讨论热度表明其概念切中了开发者对自动化、智能化开发工具的需求，但作为新兴项目，其实际稳定性、安全性和应用广度仍需时间验证。",
-        "value_check": "如果项目成熟，可为安全研究人员、软件开发者及教育领域提供强大的自动化分析工具，但需警惕其在恶意软件分析或版权规避方面的潜在滥用风险。",
-        "follow_up": "关注项目后续的版本迭代、实际用例分享及社区反馈，观察其是否能够建立可持续的开发者生态并产出实际可用的工具链。",
-        "evidence": "项目在GitHub趋势榜排名靠前（趋势分86.84），单日星标数41034，总星标241352，语言为TypeScript，项目描述明确指向“使用智能体逆向工程任何事物”。"
+        "what_happened": "一个名为REA的开源项目在GitHub上趋势飙升，单日获星超过3.2万，总星数已超26.9万。该项目旨在利用智能体（agents）技术，实现从应用程序行为到原生二进制文件的全方位逆向工程。",
+        "core_details": "REA是一个用TypeScript编写的开源逆向工程工具项目。它由开发者morluto主导，并有多位贡献者参与。其核心目标是构建一个能够通过智能体自动化执行复杂逆向工程任务的框架，覆盖从高层应用行为分析到底层二进制代码解析的广泛范围。",
+        "ai_take": "该项目将AI智能体与逆向工程深度结合，代表了自动化安全分析和软件理解的一个前沿方向。通过智能体协调复杂任务，可能显著降低逆向工程的技术门槛并提升效率，对安全研究、漏洞挖掘和遗留系统分析具有潜在变革意义。",
+        "hype_check": "极高的单日获星数和总星数表明其在开发者社区中引发了巨大关注和共鸣。这反映了市场对自动化、智能化安全工具及AI赋能传统技术领域的强烈需求。热度真实，但需观察其长期技术实现与生态发展。",
+        "value_check": "若项目成功实现其愿景，将为安全研究人员、软件工程师和数字取证领域提供强大的自动化分析工具，可能改变逆向工程的工作流程。其开源性质也有利于社区协作和知识积累。当前价值主要体现在概念吸引力和社区共识上。",
+        "follow_up": "关注其后续版本发布、实际用例展示、社区活跃度以及是否形成稳定的工具链或平台。同时，可留意其在CTF竞赛、企业安全评估或软件兼容性分析等场景的实际应用反馈。",
+        "evidence": "项目在GitHub趋势榜排名靠前（趋势得分86.84），拥有269,477个总星和32,314个单日新增星。项目描述明确指出其目标为“用智能体逆向工程任何东西，从应用行为到原生二进制”。主要开发者为morluto。"
+      },
+      {
+        "name": "ECC",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为ECC的代理性能优化系统在GitHub上趋势飙升，单日获星1013个，总星数已超过28万。",
+        "core_details": "该项目是一个为Claude Code、Codex、Opencode、Cursor等AI编码代理设计的性能优化系统，核心功能包括技能、本能、记忆、安全模块以及研究优先的开发模式。项目使用JavaScript语言开发，由affaan-m等开发者维护。",
+        "ai_take": "该项目针对当前流行的AI编码代理（如Claude、Cursor）进行深度优化，通过系统化整合技能、记忆和安全模块，旨在提升代理的代码生成效率与可靠性，反映了开发者社区对专业化AI工具链的强烈需求。",
+        "hype_check": "高热度（日增千星、总星数极高）表明该项目切中了AI编码工具的性能痛点，但需注意其仍处于活跃开发阶段，实际生产环境中的稳定性与兼容性有待大规模验证。",
+        "value_check": "对于依赖AI编码代理的开发者而言，该项目提供了可定制的性能优化框架，潜在价值在于提升开发工作流效率；但对于普通用户，学习与集成成本可能较高。",
+        "follow_up": "关注其版本更新是否扩展支持更多AI代理（如GPT Engineer），以及社区是否出现基于该系统的衍生工具或成功案例。",
+        "evidence": "GitHub仓库描述明确指出其功能范围（技能、本能、记忆、安全）和目标平台（Claude Code、Cursor等），且数据指标（日增星数、总星数）公开可查。"
+      },
+      {
+        "name": "Claude Code Plugins 官方目录",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic 在 GitHub 上发布并维护了一个官方、高质量的 Claude 代码插件目录仓库。",
+        "core_details": "该仓库是 Anthropic 官方管理的 Claude 代码插件目录，旨在收录高质量插件。项目主要使用 Python 语言，今日新增 307 颗星，总星数已达 39061，由 github-actions、jordanecker-ant、bryan-anthropic、claude、tobinsouth 等构建和维护。",
+        "ai_take": "这表明 Anthropic 正在系统化地构建和完善 Claude 的开发者生态，通过官方认证的插件目录来提升工具的可发现性、可靠性和集成体验，有助于吸引更多开发者基于 Claude 进行构建。",
+        "hype_check": "趋势热度较高（趋势得分 78.77），单日获星数可观，总星数已接近 4 万，显示开发者社区对此官方目录的关注和认可。",
+        "value_check": "对 Claude 开发者和用户具有明确价值：提供了一个经过官方筛选的可靠插件来源，能降低集成风险，提升开发效率，并可能促进插件开发的标准化。",
+        "follow_up": "关注该仓库的插件数量增长、质量审核机制、以及未来是否会有更详细的分类、评分或与 Claude 产品更深的集成功能。",
+        "evidence": "GitHub 仓库描述为“Official, Anthropic-managed directory of high quality Claude Code Plugins”，项目语言为 Python，由 Anthropic 相关账号维护，具体数据包括今日星数 307，总星数 39061。"
       },
       {
         "name": "VoiceStudio",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "一个名为VoiceStudio的开源项目在GitHub上成为趋势，它被描述为完全本地化的ElevenLabs替代方案，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作等功能，支持646种语言。",
-        "core_details": "该项目由debpalash等人开发，使用Python语言编写。今日获得3538颗星，总星数已达66297，显示出较高的社区关注度。",
-        "ai_take": "VoiceStudio作为开源工具，降低了高质量语音合成与处理技术的门槛，可能推动语音AI应用的普及和创新，特别是在多语言支持和本地化部署方面具有优势。",
-        "hype_check": "项目因开源、全本地化和广泛的语言支持而受到关注，但实际性能、易用性和与ElevenLabs等商业产品的对比仍需进一步验证。",
-        "value_check": "对于开发者、研究人员或需要定制化语音解决方案的用户，VoiceStudio提供了可自由修改和部署的选项，潜在价值在于其灵活性和成本控制。",
-        "follow_up": "关注项目的更新频率、社区反馈以及实际应用案例，以评估其长期稳定性和功能完善程度。",
-        "evidence": "信息基于GitHub趋势页面数据，包括项目描述、星数统计和开发者信息。"
+        "source": "GitHub Trending",
+        "what_happened": "开源项目VoiceStudio登上GitHub趋势榜，单日获3024星，总星数达69035，被描述为完全本地化的开源版ElevenLabs替代方案。",
+        "core_details": "VoiceStudio是一个基于Python开发的开源语音工具，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作功能，支持646种语言，强调完全本地化运行。",
+        "ai_take": "该项目展示了开源社区在语音AI领域的快速追赶能力，通过本地化部署解决了数据隐私和云端依赖问题，多语言支持覆盖长尾需求，可能降低语音合成与处理技术的使用门槛。",
+        "hype_check": "高星数反映社区关注度，但作为新兴项目，实际性能、易用性与商业方案（如ElevenLabs）的差距仍需验证；完全本地化对计算资源要求可能较高。",
+        "value_check": "开源特性允许透明定制和集成，646语言支持具备差异化优势；若稳定性达标，可为中小开发者、内容创作者及隐私敏感场景提供可行替代方案。",
+        "follow_up": "关注项目版本迭代质量、社区实际应用反馈，以及与其他开源语音工具（如Coqui TTS）的生态整合可能性。",
+        "evidence": "GitHub项目页显示：单日获星3024，总星69035，作者为debpalash等，描述为“开源、完全本地的ElevenLabs替代方案”，功能涵盖语音克隆至有声书制作，支持646种语言。"
       },
       {
-        "name": "Pentagi",
+        "name": "Ghidra",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为Pentagi的GitHub项目在趋势榜上热度显著，该项目被描述为一个完全自主的AI智能体系统，专门用于执行复杂的渗透测试任务。",
-        "core_details": "该项目由vxcontrol组织开发，主要编程语言为Go。今日新增星标数达1025，总星标数已累积至29424，显示出较高的社区关注度。项目贡献者包括sirozha、claude、asdek、mason5052和cursoragent。",
-        "ai_take": "该项目代表了AI在网络安全领域，特别是自动化渗透测试方面的前沿应用。通过构建自主AI智能体来执行复杂的安全评估任务，可能提升测试效率、覆盖范围和响应速度，是AI赋能安全运维（SecOps）的一个具体实践。",
-        "hype_check": "热度较高且合理。高星标数和趋势排名反映了开发者社区对自动化安全工具及AI在渗透测试中应用的强烈兴趣。项目定位清晰，直击安全测试中的人力密集和重复性痛点。",
-        "value_check": "潜在价值显著。若能可靠运行，可为安全团队提供持续、可扩展的自动化测试能力，辅助发现漏洞，增强系统安全态势。其开源性质也有利于社区审查、协作与改进。",
-        "follow_up": "需关注其实际测试效果、误报率、与现有安全工具的集成能力，以及在不同环境中的适应性和安全性（避免自身被利用）。社区讨论和后续版本更新是重要观察点。",
-        "evidence": "项目描述明确指出为“完全自主的AI智能体系统，能够执行复杂的渗透测试任务”。GitHub数据（语言：Go，今日星标：1025，总星标：29424）和贡献者列表提供了项目活跃度与背景支持。"
+        "what_happened": "美国国家安全局（NSA）开源的软件逆向工程框架Ghidra在GitHub趋势榜上热度上升，今日新增星标1369个，总星标数达88723。",
+        "core_details": "Ghidra是一个由Java编写的软件逆向工程（SRE）框架，由美国国家安全局开发并开源，用于二进制代码分析。项目当前在GitHub上由多位贡献者维护，包括ryanmkurtz、ghidra1等。",
+        "ai_take": "虽然Ghidra本身并非AI工具，但其在二进制代码分析、漏洞挖掘和恶意软件研究中的应用，为AI驱动的安全分析（如自动化漏洞检测、代码模式识别）提供了重要的基础工具和数据源。",
+        "hype_check": "热度主要源于其官方背景（NSA开源）和在安全研究社区的长期口碑，今日趋势上升可能由特定安全事件或社区活动驱动，但作为成熟项目，短期波动属正常。",
+        "value_check": "对安全研究人员和逆向工程师具有高实用价值，提供了强大的反汇编、调试和脚本扩展能力；开源性质降低了使用门槛，但需注意其美国官方背景可能引发的合规考量。",
+        "follow_up": "关注其在自动化安全分析中与AI工具（如符号执行、神经网络检测）的集成进展，以及开源社区对插件生态的持续贡献。",
+        "evidence": "GitHub项目页显示语言为Java，今日星标增长1369，总星标88723，作者为NationalSecurityAgency，项目描述确认为软件逆向工程框架。"
       },
       {
-        "name": "iFixAi",
+        "name": "superpowers",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "iFixAi项目在GitHub上趋势飙升，今日获得2109颗星，总星数达27376，是一个用于AI智能体独立审计的开源工具。",
-        "core_details": "iFixAi是一个Python项目，旨在通过人工或智能体自身运行审计，快速回答“AI智能体是否按预期工作”这一关键问题，承诺在120秒内提供答案。项目由多位贡献者共同构建。",
-        "ai_take": "该项目直接应对AI智能体经济中的可信度与可靠性挑战，通过自动化审计降低部署风险，可能推动智能体在关键任务中的更广泛应用。",
-        "hype_check": "趋势分数75.27和单日大量星标表明社区高度关注，但需验证其审计准确性与实际部署效果，避免过度依赖快速评估。",
-        "value_check": "作为开源工具，iFixAi提供了可访问的审计方案，可能帮助开发者提升智能体透明度；但其长期价值取决于审计方法的严谨性与行业采纳度。",
-        "follow_up": "关注项目更新以了解审计功能扩展，并观察是否出现实际用例报告或集成案例。",
-        "evidence": "项目描述强调“独立审计AI智能体”和“120秒内提供答案”，GitHub数据支持其流行度（总星27376，今日星2109）。"
+        "what_happened": "GitHub项目'superpowers'今日登上趋势榜，这是一个基于代理技能的框架与软件开发方法论。",
+        "core_details": "该项目由用户'obra'主导开发，主要使用Shell语言编写。今日新增582颗星，总星数已达299,873，项目贡献者包括obra、arittr、claude、clkao和gaurav0107。",
+        "ai_take": "该项目定位为'代理技能框架'，暗示其可能旨在通过定义和组合可复用的'技能'模块，来构建或指导AI代理（如自主软件代理）的开发流程，属于AI工程化或智能体（Agent）开发方法论范畴。",
+        "hype_check": "趋势热度较高（趋势得分77.47），且拥有近30万的庞大总星数，表明其在开发者社区中长期受到广泛关注和认可，并非短期炒作。",
+        "value_check": "作为方法论框架，其核心价值在于提供一套可工作的实践体系，可能帮助团队更系统化地设计和开发基于AI代理的软件，提升开发效率与智能体能力构建的规范性。",
+        "follow_up": "可关注其GitHub仓库中的文档、示例及讨论区，以了解具体技能定义、框架架构以及实际应用案例。",
+        "evidence": "项目描述明确为'An agentic skills framework & software development methodology that works.'，且数据来自GitHub Trending官方榜单。"
       },
       {
-        "name": "rust-lang/rust",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "Rust编程语言官方仓库在GitHub趋势榜上热度上升，单日新增207颗星，总星数达120018，展现了社区持续的关注与贡献。",
-        "core_details": "该项目是Rust编程语言的核心仓库，致力于构建可靠高效的软件，由bors、matthiaskrgr、RalfJung、GuillaumeGomez、matklad等主要贡献者维护，当前趋势评分为74.68。",
-        "ai_take": "Rust以其内存安全和高性能特性，在AI基础设施、系统编程和边缘计算中日益重要，为开发可靠AI系统提供了底层支持。",
-        "hype_check": "热度合理，Rust作为现代系统编程语言，在开发者社区中持续受到推崇，其趋势上升反映了实际技术需求而非短暂炒作。",
-        "value_check": "高价值，Rust在构建安全、并发和高性能软件方面具有显著优势，对AI、操作系统和嵌入式领域贡献巨大，社区活跃度证明了其长期影响力。",
-        "follow_up": "关注Rust在AI模型部署、硬件加速和WebAssembly等前沿领域的应用进展，以及相关生态工具如Tokio、Wasmtime的发展。",
-        "evidence": "基于GitHub趋势数据：单日新增207星，总星120018，趋势评分74.68，语言为Rust，由核心团队维护，项目描述强调可靠高效软件开发。"
-      },
-      {
-        "name": "context-mode",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为 context-mode 的 GitHub 开源项目在开发者社区中迅速流行，单日获得近千星标，总星标数已超过2.9万。该项目专注于为AI编程助手优化上下文窗口管理。",
-        "core_details": "该项目是一个用 TypeScript 编写的工具，核心功能包括：对AI编码代理的工具输出进行沙盒化处理（据称可减少98%的无关输出）、持久化会话记忆，以及通过 MCP（Model Context Protocol）和钩子机制，在多达17个平台上强制执行路由规则。这旨在解决AI助手在处理复杂、多步骤编码任务时上下文窗口被低效信息填满的问题。",
-        "ai_take": "该项目直接针对当前AI编程工具（如GitHub Copilot、Claude Code等）的一个核心痛点：有限的上下文窗口如何被高效利用。通过智能过滤和路由工具输出，它能显著提升AI代理在长会话、多文件项目中的编码效率和连贯性，是提升AI辅助开发工作流的关键基础设施层。",
-        "hype_check": "高。项目在GitHub上热度飙升，单日近千星的增长速度和庞大的总星标数，表明它精准击中了开发者社区对更高效AI编程工具的迫切需求。其宣称的“98%输出减少”是吸引眼球的关键指标。",
-        "value_check": "潜在价值高。如果其宣称的优化效果在真实开发场景中得以验证，该项目可以成为连接各类AI编码代理与开发环境的标准化中间件，降低AI工具的使用成本，并可能推动AI编程助手工作流的最佳实践。",
-        "follow_up": "需要关注其在实际项目中的集成案例和性能基准测试，以验证其“98%减少”的具体含义和实际收益。同时，观察其支持的17个平台列表以及MCP协议的采用情况，这关系到其生态扩展能力。",
-        "evidence": "项目在GitHub趋势榜排名靠前（趋势分74.19），单日获947星，总星29108，语言为TypeScript。项目描述明确指出其三大核心功能：上下文窗口优化、沙盒化工具输出（减少98%）、持久化会话记忆及通过MCP+钩子在17个平台进行路由。创建者为 mksglu，贡献者包括claude等，表明其与AI开发社区紧密相关。"
-      },
-      {
-        "name": "xtool",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为 xtool 的开源项目在 GitHub 趋势榜上热度飙升，单日获得超过1500颗星，总星数已超过一万。该项目旨在成为跨平台的 Xcode 替代方案。",
-        "core_details": "xtool 是一个用 Swift 语言编写的工具，核心功能是允许开发者使用 Swift Package Manager (SwiftPM) 在 Linux、Windows 和 macOS 上构建和部署 iOS 应用程序，从而摆脱对苹果 Xcode 开发环境的平台依赖。项目由多位开发者共同维护。",
-        "ai_take": "该项目本身不直接涉及AI，但其降低iOS开发门槛、促进跨平台工具链发展的理念，与AI时代追求开发效率和工具普惠的趋势相符。未来，此类基础开发工具的成熟可能为AI驱动的跨平台应用开发、自动化测试和部署铺平道路。",
-        "hype_check": "热度很高，反映了开发者社区对打破苹果生态系统壁垒、实现真正跨平台iOS开发的强烈需求。单日暴涨的星数显示了市场的关注和期待。",
-        "value_check": "价值显著。它为不使用macOS的开发者（如使用Linux或Windows的开发者或CI/CD环境）提供了编译和构建iOS应用的可能性，有助于扩大iOS开发者群体，并可能降低开发环境成本。",
-        "follow_up": "需要关注其功能完整性（如调试、界面构建器支持）、与最新Swift版本和iOS SDK的同步情况，以及在实际生产项目中的采用率和稳定性。",
-        "evidence": "项目描述明确指出是“跨平台Xcode替代品”，支持在三大主流操作系统上通过SwiftPM构建iOS应用。GitHub数据（日增1502星，总星10787，语言Swift）和项目维护者信息均支持以上总结。"
-      },
-      {
-        "name": "scientific-agent-skills",
+        "name": "K-Dense-AI/scientific-agent-skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub项目'scientific-agent-skills'登上趋势榜，这是一个旨在将任何AI智能体转变为AI科学家的技能库。",
-        "core_details": "该项目提供了177个经过验证的即用型技能和覆盖生物学、化学、医学及药物发现领域的100多个科学数据库。它兼容Cursor、Claude Code、Codex、Pi、Antigravity以及开放的Agent Skills标准，据称已被全球超过25万名科学家使用。项目采用Python语言开发，今日新增163颗星，总星数达49312。",
-        "ai_take": "该项目通过提供标准化的、经过验证的科学技能库，显著降低了构建专业科学AI智能体的门槛，有望加速科研自动化进程，特别是在生命科学和药物研发领域。",
-        "hype_check": "项目描述中“#1 Agent Skills library”和“250,000+ scientists worldwide”等表述缺乏第三方验证数据支撑，热度可能部分源于营销宣传。但其高星数和活跃度（4420条评论）表明在开发者社区中确实获得了广泛关注和实际应用尝试。",
-        "value_check": "核心价值在于其集成的技能和数据库的广度与即用性，为科研人员提供了一个现成的工具集，可能提升文献调研、数据分析和假设生成等工作的效率。兼容多种主流AI编码环境增强了其普适性。",
-        "follow_up": "关注其技能验证的具体方法论、数据库的更新频率与授权情况，以及在实际科研项目中的落地案例和效能提升的具体量化报告。",
-        "evidence": "证据来源于GitHub项目页面描述：项目目标、技能与数据库数量、兼容平台、用户规模声称（25万+科学家）、编程语言（Python）、以及客观的GitHub数据（今日星增163，总星49312，评论数4420）。"
+        "what_happened": "GitHub 项目 K-Dense-AI/scientific-agent-skills 登上趋势榜，该项目旨在将任何 AI 代理转变为 AI 科学家，提供科学领域的技能库。",
+        "core_details": "该项目是一个面向科学领域的 AI 代理技能库，号称全球排名第一，已被超过 25 万名科学家使用。它包含 177 个经过验证的即用型技能，并集成了 100 多个涵盖生物学、化学、医学和药物发现领域的科学数据库。项目兼容 Cursor、Claude Code、Codex、Pi、Antigravity 以及开放的 Agent Skills 标准，使用 Python 语言开发。当前单日获星 1091 个，总星数已达 50444。",
+        "ai_take": "该项目通过标准化的技能库和丰富的科学数据库，显著降低了构建专业科学 AI 代理的门槛，有望加速科研自动化进程，特别是在生物医药等数据密集型领域。",
+        "hype_check": "项目数据（用户量、星数）和“#1”的宣传语表明其受到高度关注和社区认可，但“被 25 万+科学家使用”的说法需要更具体的用户构成数据来佐证其广泛性。",
+        "value_check": "核心价值在于提供了一个集中、验证过的科学工具集，能提升 AI 代理在专业领域的可靠性和效率。其兼容多种主流 AI 开发环境（如 Cursor、Claude Code）增强了实用性和可扩展性。",
+        "follow_up": "关注其技能库的更新频率、与更多科学数据库的集成进展，以及在实际科研项目（如药物筛选、文献分析）中的落地案例和效果评估。",
+        "evidence": "证据来源于 GitHub 项目页面描述：项目定位、技能与数据库数量、兼容平台、用户量（25万+）、编程语言（Python）及星数数据（单日 1091，总计 50444）。"
+      },
+      {
+        "name": "Caveman",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Caveman的GitHub项目在技术社区中迅速走红，它通过模拟“原始人”式的极简语言风格，声称能为编码代理（AI助手）减少高达65%的令牌使用量。",
+        "core_details": "该项目由JuliusBrussee等人用Go语言开发，其核心是一个“技能”或代理工具，旨在优化AI编码助手（如Claude）的提示词。它倡导使用极其简化的词汇和语法（类似“原始人说话”），以减少与大语言模型交互时消耗的令牌数，从而可能提升效率并降低成本。项目在GitHub上单日获星433个，总星数已超过11万，显示出极高的关注度。",
+        "ai_take": "这反映了AI应用层一个有趣的优化方向：提示词工程（Prompt Engineering）正从追求精确表达，向追求极致效率（令牌经济性）演进。它验证了通过精心设计的、非自然的简化语言与AI交互，可能大幅提升任务执行的性价比，这对依赖API调用的AI代理开发具有直接参考价值。",
+        "hype_check": "高。项目概念简单、直观且幽默（“为什么用很多词，几个词就够”），极易引发开发者共鸣和传播。其宣称的65%令牌削减效果非常吸引眼球，在AI成本日益受关注的背景下，迅速成为热点。但具体效果可能因任务、模型而异，需实际验证。",
+        "value_check": "中高。核心价值在于为AI代理开发提供了一个具体的、可实践的令牌优化思路和工具原型。如果其方法被证实广泛有效，将直接帮助开发者降低API调用成本，并可能启发更多高效的“低令牌”交互模式。但作为单个项目，其普适性和长期维护价值待观察。",
+        "follow_up": "关注该项目后续的更新、实际应用案例以及社区对其方法有效性的独立测试报告。同时，观察是否有类似优化提示词或压缩通信的框架、工具出现，这可能会成为一个小的技术趋势。",
+        "evidence": "项目GitHub仓库描述、极高的星标增长数（单日433，总数112523）以及其明确提出的“削减65%令牌”的核心主张，共同构成了其受关注和宣称价值的直接证据。项目语言为Go，也表明其定位为可集成的工具。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
         "item_name": "morluto/rea",
-        "content_summary": "一个名为REA的TypeScript项目，旨在使用智能体（agents）对任何事物进行逆向工程，范围涵盖从应用程序行为到原生二进制文件。该项目今日获得大量关注，新增星标数超过4万，总星标数已超过24万。",
-        "ai_comment": "这是一个高热度、高星标的AI驱动逆向工程项目，展示了AI在安全分析和软件理解领域的强大应用潜力。"
+        "content_summary": "该项目是一个使用智能体进行逆向工程的工具，支持从应用程序行为到原生二进制文件的逆向分析。项目采用TypeScript语言开发，今日新增大量关注。",
+        "ai_comment": "逆向工程工具与AI智能体结合，可能降低安全研究和软件分析的门槛。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "debpalash/VoiceStudio",
-        "content_summary": "VoiceStudio是一个开源、完全本地化的语音工具，定位为ElevenLabs的替代品。它提供语音克隆、语音设计、视频配音、听写、转录以及支持646种语言的电子书创建功能。该项目使用Python编写，今日星标增长显著。",
-        "ai_comment": "该项目体现了AI语音合成与处理技术的民主化趋势，其多语言支持和本地化特性对开发者和创作者有重要价值。"
+        "item_name": "affaan-m/ECC",
+        "content_summary": "这是一个面向Claude Code、Codex等AI编程助手的智能体性能优化系统，集成了技能、本能、记忆、安全等功能，并采用研究优先的开发模式。项目使用JavaScript语言。",
+        "ai_comment": "专注于优化AI编程助手性能，反映了开发者对提升AI辅助编程体验的持续需求。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "vxcontrol/pentagi",
-        "content_summary": "Pentagi是一个用Go语言编写的、能够执行复杂渗透测试任务的完全自主AI智能体系统。该项目今日星标数有显著增长。",
-        "ai_comment": "将AI智能体应用于自动化渗透测试，是网络安全领域的前沿探索，可能提升安全评估的效率和深度。"
+        "item_name": "anthropics/claude-plugins-official",
+        "content_summary": "这是由Anthropic官方维护的高质量Claude Code插件目录，旨在为Claude代码助手提供经过管理的优质插件资源。项目使用Python语言。",
+        "ai_comment": "官方插件目录的建立有助于规范Claude生态，提升插件质量和安全性。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "content_summary": "FBI逮捕了一名OpenAI工程师，指控其在公司限制级高管会议室的厕纸中隐藏录音设备，用于窃听关于技术进展、政府合作和商业伙伴关系等高度机密信息的讨论。该工程师为沙特阿拉伯籍，是美国永久合法居民，面临最高5年监禁和25万美元罚款。OpenAI在设备放置两天后才察觉。",
-        "ai_comment": "此事件凸显了AI巨头公司内部面临的安全与间谍风险，涉及技术机密保护和地缘政治因素，对行业安全实践敲响警钟。"
+        "item_name": "Pasteface - Record, transcribe and copy speech locally in your terminal",
+        "content_summary": "Pasteface是一个终端工具，支持录制、转录语音并复制结果到剪贴板。它提供命名转录标签、队列录制功能，并支持本地（使用whisper.cpp）或OpenAI API进行转录。安装需要Rust工具链和FFmpeg。",
+        "ai_comment": "将语音转录集成到终端工作流，为开发者提供了便捷的本地或云端语音输入转文本方案。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Copy Paste manager for M chip Macs",
-        "content_description": "clip‘M是一款专为Apple Silicon Mac设计的全功能剪贴板历史管理工具。它支持通过快捷键快速搜索历史记录，可按文本或图片筛选，并能将常用文本（如邮件、地址）整理到文件夹中以便快速调用。项目作者在Hacker News评论中表示该项目是免费开源的，并倾注了大量心血进行打磨。",
-        "ai_comment": "这是一个针对特定硬件平台（M芯片Mac）精心打磨的生产力工具，其开源和免费特性有助于在开发者社区中推广。"
+        "item_name": "45 years later, the Sinclair ULA design documents surface",
+        "content_summary": "一份关于Sinclair早期8位家用电脑（如ZX81、Spectrum）关键组件——Ferranti ULA（未定制逻辑阵列）的设计文件在45年后浮出水面。这些在eBay上获得的文件包含打印稿、工程图纸和手写笔记，涵盖了ZX打印机、Microdrive等多种产品。目前相关知识产权由卫星广播公司Sky持有。",
+        "ai_comment": "历史技术文档的发现为计算机考古和复古计算爱好者提供了宝贵的原始资料。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Custom server to revive neato bots",
-        "content_summary": "Vacuula是一个旨在修复和控制已损坏的Neato品牌扫地机器人的一体化自定义服务器解决方案。它可以帮助用户让无法正常工作的机器人“复活”，特别是针对出现“彩虹灯模式”（多种颜色闪烁且无法启动）等问题的特定型号。项目页面提供了联系Discord社区以获得帮助的途径。",
-        "ai_comment": "该项目反映了硬件爱好者社区对“维修权”的实践，通过软件方案延长智能硬件寿命，对抗计划性报废。"
+        "item_name": "Xbox Labs",
+        "summary": "微软宣布成立Xbox Labs，旨在探索游戏和游戏设备的未来。内部备忘录回顾了75年游戏发展史，并展望了未来将有更多优秀游戏和设备出现。",
+        "ai_comment": "Xbox成立实验室可能专注于游戏技术的前沿探索，如云游戏、AI或新交互形式。"
       },
       {
         "source_group": "news",
-        "item_name": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance",
-        "content_summary": "佛罗里达州一名男子因其前未婚妻Michelle Parker在2011年失踪案被控谋杀罪遭逮捕。该女子在2011年参加电视节目《人民法庭》后失踪，此案已悬置15年。奥兰多警方召开了新闻发布会宣布逮捕消息。",
-        "ai_comment": "这是一起时隔多年的悬案取得突破性进展的社会新闻，体现了现代刑侦技术或调查持续性的价值。"
+        "item_name": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
+        "content_summary": "据《华盛顿邮报》报道，英伟达和苹果各捐赠了2500万美元用于特朗普的宴会厅项目。泄露的文件揭示了为该宴会厅筹集3.3亿美元背后的捐赠者名单，微软、亚马逊等其他科技巨头也在捐赠之列。",
+        "ai_comment": "科技巨头参与政治相关捐赠引发关注，涉及企业政治献金与公共关系的讨论。"
       },
       {
         "source_group": "news",
-        "item_name": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",
-        "content_summary": "据消息人士称，美国联邦调查人员扣押了众议员伊尔汗·奥马尔的手机，并向其亲属发出了传票，这是一项刑事调查的一部分。相关报道指出，调查目的可能是为了构建剥夺其公民身份的案例，并与移民欺诈调查有关。有独家报道称法官已限制司法部对奥马尔记录的部分访问权限。",
-        "ai_comment": "此事件涉及美国政治人物、移民问题与司法调查，具有高度的政治敏感性和法律复杂性。"
+        "item_name": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
+        "content_summary": "纽约市主计长为不投资以色列债券的决定进行辩护，此举改变了竞选时的承诺。该决定引发了犹太领袖的批评，同时也获得了一些人士的赞扬。",
+        "ai_comment": "地方政府投资决策与国际政治议题挂钩，凸显了经济行为背后的政治和伦理考量。"
       },
       {
         "source_group": "news",
-        "item_name": "Dems call Trump 'a total failure' over inflation as White House cites economic growth",
-        "content_summary": "民主党人批评特朗普在通胀问题上“完全失败”，而白宫则引用经济增长数据作为回应。相关报道讨论了特朗普试图在中期选举前压低物价的努力、深红城市中不断上涨的生活成本对其经济主张的考验，以及大选临近物价上涨令共和党人担忧等话题。",
-        "ai_comment": "这反映了美国大选周期内，通胀和经济表现成为两党政治攻防的核心议题，经济数据被赋予强烈的政治解读。"
+        "item_name": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution",
+        "content_summary": "特朗普取消了原计划通过直播方式执行胡德堡枪击案凶手死刑的方案。该决定是在两党共同反对后做出的，令一些佛蒙特州民众感到既宽慰又矛盾。",
+        "ai_comment": "关于死刑执行是否应公开直播的争议，触及了司法透明、受害者家属感受与公众道德的复杂平衡。"
       }
     ],
-    "closing_note": "今日趋势显示，AI开源社区正从通用模型转向解决具体领域痛点，如逆向工程、安全测试、科研辅助等。这些项目虽受热捧，但实际成熟度与长期价值仍需通过版本迭代、实际用例和社区反馈来验证。开发者需关注工具的实际效能与潜在风险，理性评估其适用场景。我们将持续追踪这些项目的生态发展与应用落地。",
+    "closing_note": "整体来看，开发者社区正积极推动AI技术的工程化与普惠化，从底层逆向工程到高层应用开发，智能体与开源工具的融合成为关键驱动力。关注这些项目的后续迭代与实际落地效果，将有助于把握AI赋能各行业的具体路径与潜在挑战。",
     "_errors": []
   }
 }
