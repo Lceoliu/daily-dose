@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:09:04.318909+00:00",
+  "generated_at": "2026-10-17T23:44:13.092677+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,15 +11,47 @@
       {
         "source": "github-trending",
         "category": "github_trending",
+        "title": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "author": "anthropics",
+        "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
+        "language": "TypeScript",
+        "score": 168,
+        "comment_count": 26877,
+        "total_stars": 151713,
+        "built_by": [
+          "actions-user",
+          "poteat",
+          "claude",
+          "bcherny",
+          "ant-kurt"
+        ],
+        "content_context": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\n\nLanguage: TypeScript\n\nStars today: 168\n\nTotal stars: 151713\n\nBuilt by: actions-user, poteat, claude, bcherny, ant-kurt",
+        "trend_score": 103.01,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.854,
+          "topic_overlap": 1.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
         "title": "anthropics/claude-plugins-official",
         "url": "https://github.com/anthropics/claude-plugins-official",
         "author": "anthropics",
         "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
         "language": "Python",
-        "score": 1552,
-        "comment_count": 4401,
-        "total_stars": 40524,
+        "score": 1383,
+        "comment_count": 4462,
+        "total_stars": 41711,
         "built_by": [
           "github-actions",
           "jordanecker-ant",
@@ -27,12 +59,12 @@
           "claude",
           "mhegazy"
         ],
-        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 1552\n\nTotal stars: 40524\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mhegazy",
-        "trend_score": 88.79,
+        "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 1383\n\nTotal stars: 41711\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mhegazy",
+        "trend_score": 93.78,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.908,
-          "topic_overlap": 0.25,
+          "engagement": 0.897,
+          "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -47,11 +79,11 @@
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "author": "K-Dense-AI",
         "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
         "language": "Python",
-        "score": 1158,
-        "comment_count": 4560,
-        "total_stars": 51485,
+        "score": 879,
+        "comment_count": 4624,
+        "total_stars": 52227,
         "built_by": [
           "timothykassis",
           "cursoragent",
@@ -59,43 +91,11 @@
           "github-actions",
           "claude"
         ],
-        "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 1158\n\nTotal stars: 51485\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
-        "trend_score": 88.14,
+        "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 879\n\nTotal stars: 52227\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
+        "trend_score": 92.75,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.891,
-          "topic_overlap": 0.25,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "cursor/plugins",
-        "url": "https://github.com/cursor/plugins",
-        "author": "cursor",
-        "summary": "Cursor plugin specification and official plugins",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
-        "language": "TypeScript",
-        "score": 278,
-        "comment_count": 1161,
-        "total_stars": 11941,
-        "built_by": [
-          "cursoragent",
-          "poteto",
-          "minupalaniappan",
-          "ericzakariasson",
-          "roshansada"
-        ],
-        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 278\n\nTotal stars: 11941\n\nBuilt by: cursoragent, poteto, minupalaniappan, ericzakariasson, roshansada",
-        "trend_score": 87.39,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.729,
+          "engagement": 0.87,
           "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -111,11 +111,11 @@
         "url": "https://github.com/affaan-m/ECC",
         "author": "affaan-m",
         "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
         "language": "JavaScript",
-        "score": 1057,
-        "comment_count": 41849,
-        "total_stars": 281489,
+        "score": 1145,
+        "comment_count": 41982,
+        "total_stars": 282470,
         "built_by": [
           "affaan-m",
           "haelyra",
@@ -123,106 +123,11 @@
           "montjeffrey",
           "dependabot"
         ],
-        "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1057\n\nTotal stars: 281489\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
-        "trend_score": 86.84,
+        "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1145\n\nTotal stars: 282470\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
+        "trend_score": 86.85,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 1.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "author": "obra",
-        "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
-        "language": "Shell",
-        "score": 973,
-        "comment_count": 26844,
-        "total_stars": 300677,
-        "built_by": [
-          "obra",
-          "arittr",
-          "claude",
-          "clkao",
-          "gaurav0107"
-        ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 973\n\nTotal stars: 300677\n\nBuilt by: obra, arittr, claude, clkao, gaurav0107",
-        "trend_score": 85.77,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.972,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "debpalash/VoiceStudio",
-        "url": "https://github.com/debpalash/VoiceStudio",
-        "author": "debpalash",
-        "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
-        "language": "Python",
-        "score": 2301,
-        "comment_count": 7780,
-        "total_stars": 71149,
-        "built_by": [
-          "debpalash",
-          "claude",
-          "velixio",
-          "kevin9327",
-          "jaketame"
-        ],
-        "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 2301\n\nTotal stars: 71149\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
-        "trend_score": 85.45,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.963,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "ruvnet/ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "author": "ruvnet",
-        "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
-        "language": "TypeScript",
-        "score": 672,
-        "comment_count": 8966,
-        "total_stars": 75624,
-        "built_by": [
-          "ruvnet",
-          "claude",
-          "rudycelekli",
-          "proffesor-for-testing"
-        ],
-        "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 672\n\nTotal stars: 75624\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
-        "trend_score": 82.71,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.891,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -238,11 +143,11 @@
         "url": "https://github.com/android/skills",
         "author": "android",
         "summary": null,
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
         "language": "Kotlin",
-        "score": 36,
-        "comment_count": 535,
-        "total_stars": 8060,
+        "score": 368,
+        "comment_count": 554,
+        "total_stars": 8410,
         "built_by": [
           "android-devrel-github-bot",
           "simona-anomis",
@@ -250,12 +155,108 @@
           "bentrengrove",
           "vinishavathwani"
         ],
-        "content_context": "Language: Kotlin\n\nStars today: 36\n\nTotal stars: 8060\n\nBuilt by: android-devrel-github-bot, simona-anomis, JoseAlcerreca, bentrengrove, vinishavathwani",
-        "trend_score": 80.91,
+        "content_context": "Language: Kotlin\n\nStars today: 368\n\nTotal stars: 8410\n\nBuilt by: android-devrel-github-bot, simona-anomis, JoseAlcerreca, bentrengrove, vinishavathwani",
+        "trend_score": 86.48,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.558,
+          "engagement": 0.705,
           "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "author": "MadsLorentzen",
+        "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
+        "language": "Python",
+        "score": 1397,
+        "comment_count": 16923,
+        "total_stars": 50337,
+        "built_by": [
+          "claude",
+          "MadsLorentzen",
+          "ayobamiseun",
+          "oscarbol09",
+          "jakob1379"
+        ],
+        "content_context": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nLanguage: Python\n\nStars today: 1397\n\nTotal stars: 50337\n\nBuilt by: claude, MadsLorentzen, ayobamiseun, oscarbol09, jakob1379",
+        "trend_score": 85.56,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.966,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "author": "debpalash",
+        "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
+        "language": "Python",
+        "score": 2135,
+        "comment_count": 8018,
+        "total_stars": 73278,
+        "built_by": [
+          "debpalash",
+          "claude",
+          "velixio",
+          "kevin9327",
+          "jaketame"
+        ],
+        "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 2135\n\nTotal stars: 73278\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+        "trend_score": 85.13,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.955,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "author": "stablyai",
+        "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
+        "language": "TypeScript",
+        "score": 829,
+        "comment_count": 6109,
+        "total_stars": 95377,
+        "built_by": [
+          "nwparker",
+          "brennanb2025",
+          "AmethystLiang",
+          "Jinwoo-H",
+          "orca-ide"
+        ],
+        "content_context": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\nLanguage: TypeScript\n\nStars today: 829\n\nTotal stars: 95377\n\nBuilt by: nwparker, brennanb2025, AmethystLiang, Jinwoo-H, orca-ide",
+        "trend_score": 82.29,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.88,
+          "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -270,11 +271,11 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "author": "HKUDS",
         "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
         "language": "Python",
-        "score": 281,
-        "comment_count": 4845,
-        "total_stars": 53485,
+        "score": 580,
+        "comment_count": 4904,
+        "total_stars": 54040,
         "built_by": [
           "yuh-yang",
           "claude",
@@ -282,11 +283,11 @@
           "omerarslan0",
           "hito0512"
         ],
-        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 281\n\nTotal stars: 53485\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-        "trend_score": 79.36,
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 580\n\nTotal stars: 54040\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 80.99,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.803,
+          "engagement": 0.846,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -298,27 +299,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "mksglu/context-mode",
-        "url": "https://github.com/mksglu/context-mode",
-        "author": "mksglu",
-        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "published_at": "2026-10-17T00:08:58.700880+00:00",
-        "language": "TypeScript",
-        "score": 449,
-        "comment_count": 2125,
-        "total_stars": 30221,
+        "title": "akitaonrails/ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "author": "akitaonrails",
+        "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "published_at": "2026-10-17T23:44:08.269699+00:00",
+        "language": "Rust",
+        "score": 208,
+        "comment_count": 715,
+        "total_stars": 9906,
         "built_by": [
-          "mksglu",
-          "github-actions",
+          "akitaonrails",
           "claude",
-          "ipedro",
-          "ousamabenyounes"
+          "djalmajr",
+          "viniciusdsandrade",
+          "everton-dgn"
         ],
-        "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 449\n\nTotal stars: 30221\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
-        "trend_score": 78.89,
+        "content_context": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\nLanguage: Rust\n\nStars today: 208\n\nTotal stars: 9906\n\nBuilt by: akitaonrails, claude, djalmajr, viniciusdsandrade, everton-dgn",
+        "trend_score": 74.74,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.791,
+          "engagement": 0.681,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -333,107 +334,223 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "He Joined the Military. They Reported His Wife to ICE",
-        "url": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/",
-        "author": "Elefante",
+        "title": "Does code quality still matter when AI writes the code?",
+        "url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+        "author": "nathan_f77",
         "score": 2,
-        "comment_count": 1,
-        "published_at": "2026-10-16T23:36:01+00:00",
-        "summary": "is there a non-paywall link?",
+        "comment_count": 2,
+        "published_at": "2026-10-17T23:33:53+00:00",
+        "summary": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.",
         "comment_highlights": [
-          "is there a non-paywall link?"
+          "Define: Quality.<p>If you mean, readability, that's different from Defect-free software. Or software that meets requirements.<p>Which do you mean?"
         ],
-        "linked_context": {},
-        "content_context": "HN comment: is there a non-paywall link?",
-        "trend_score": 50.65,
-        "trend_breakdown": {
-          "freshness": 0.977,
-          "engagement": 0.107,
-          "topic_overlap": 0.429,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Things to Do API",
-        "url": "https://thingstodoapi.com/",
-        "author": "invalidmonk",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-10-16T23:58:34+00:00",
-        "summary": "Fast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.",
-        "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://thingstodoapi.com/",
-          "page_title": "Things To Do API",
-          "page_description": "Fast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.",
-          "page_excerpt": "The knowledge base for shows, talks, pop-ups, markets, festivals, and more."
+          "resolved_url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+          "page_title": "Does code quality still matter when AI writes the code?",
+          "page_description": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.",
+          "page_excerpt": "I can ask Claude Code or Codex to investigate parts of DocSpring that I would struggle to keep in my head at once. They often find problems faster than I can. That has changed how I think about a codebase we've spent more than nine years building.\n\nI've been seeing versions of this argument on X: if an agent can understand and change complicated code, perhaps technical debt matters much less now. Why spend time refactoring something a model can already work through?\n\nI wanted to test that against our own experience. As a small team, we've tried to write clear code and useful tests while keeping DocSpring moving. AI has expanded how much of the application we can investigate and improve. It also gives us a long list of possible improvements, each of which still needs review and testing."
         },
-        "content_context": "I built an api/mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.<p>I've been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls / web search, but slow.<p>you can scrape on demand too, but i wanted a faster data set and couldn't find an existing provider for the mix of event types I was searching for.<p>the methodology for it is to find influential accounts/posters/etc. and do a fan out across things that they co-post with.<p>mcp: `claude mcp add --transport http thingstodo <a href=\"https://api.thingstodoapi.com/mcp\" rel=\"nofollow\">https://api.thingstodoapi.com/mcp</a>`<p>I'm considering adding other cities. If you're building something that needs local event data, would something like this be useful and where would you want coverage?\n\nFast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.\n\nThe knowledge base for shows, talks, pop-ups, markets, festivals, and more.",
-        "trend_score": 48.44,
+        "content_context": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.\n\nI can ask Claude Code or Codex to investigate parts of DocSpring that I would struggle to keep in my head at once. They often find problems faster than I can. That has changed how I think about a codebase we've spent more than nine years building. I've been seeing versions of this argument on X: if an agent can understand and change complicated code, perhaps technical debt matters much less now. Why spend time refactoring something a model can already work through? I wanted to test that against our own experience. As a small team, we've tried to write clear code and useful tests while keeping DocSpring moving. AI has expanded how much of the application we can investigate and improve. It also gives us a long list of possible improvements, each of which still needs review and testing.\n\nHN comment: Define: Quality.<p>If you mean, readability, that's different from Defect-free software. Or software that meets requirements.<p>Which do you mean?",
+        "trend_score": 55.71,
         "trend_breakdown": {
           "freshness": 0.993,
-          "engagement": 0.071,
-          "topic_overlap": 0.333,
+          "engagement": 0.127,
+          "topic_overlap": 0.167,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Meta confirms smart glasses were recording without being activated",
-        "url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
-        "author": "greenchair",
-        "score": 6,
-        "comment_count": 1,
-        "published_at": "2026-10-16T23:36:27+00:00",
-        "summary": "The company has since fixed the issue.",
-        "comment_highlights": [
-          "> ...videos recorded by Meta smart glasses were being sent to offshore Meta workers in Kenya for data labeling used to train AI models. These videos included disturbing clips and intimate moments including bathroom footage of users who likely did not realize that their recordings were being viewe..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
-          "page_title": "Meta confirms smart glasses were recording without being activated",
-          "page_description": "The company has since fixed the issue.",
-          "page_excerpt": "Yet another major privacy issue has hit a Meta-owned company.\n\nThis time it's a Meta product that certainly could not afford to have any privacy issues: Meta Ray-Ban smart glasses.\n\nAccording to numerous reports from users, Meta's smart glasses have been making audio recordings of their conversations without the user's permission."
-        },
-        "content_context": "The company has since fixed the issue.\n\nYet another major privacy issue has hit a Meta-owned company. This time it's a Meta product that certainly could not afford to have any privacy issues: Meta Ray-Ban smart glasses. According to numerous reports from users, Meta's smart glasses have been making audio recordings of their conversations without the user's permission.\n\nHN comment: > ...videos recorded by Meta smart glasses were being sent to offshore Meta workers in Kenya for data labeling used to train AI models. These videos included disturbing clips and intimate moments including bathroom footage of users who likely did not realize that their recordings were being viewe...",
-        "trend_score": 44.67,
-        "trend_breakdown": {
-          "freshness": 0.977,
-          "engagement": 0.162,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Bleached corals thrive within days",
-        "url": "https://www.nature.com/articles/d41586-026-03266-x",
-        "author": "alkyon",
+        "title": "Open Math Model: The OS for collaborative math research and scientific computing",
+        "url": "https://www.openmathmodel.org/",
+        "author": "JohnHammersley",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-16T23:38:27+00:00",
-        "summary": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
+        "published_at": "2026-10-17T23:37:29+00:00",
+        "summary": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.nature.com/articles/d41586-026-03266-x",
-          "page_title": "‘Incredible’: bleached corals thrive within days when touching healthy neighbour",
-          "page_description": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
-          "page_excerpt": "This video shows a bleached coral fragment brought back to health within weeks through fusion with a vibrant fragment from the same individual. Credit: Danny Collins\n\nScientists have rapidly restored bleached coral in a laboratory by placing it in contact with a healthy fragment, giving hope for reversing widespread coral decline.\n\nRising sea temperatures are stressing corals, causing the animals to expel the symbiotic algae that live in their tissues and give them their colour — a process known as bleaching. Because the photosynthetic algae (Symbiodiniaceae) provide corals with most of their nutrients, without them, the marine organisms are likely to starve and die."
+          "resolved_url": "https://www.openmathmodel.org/",
+          "page_title": "Open Math OS | Collaborative Math Research & Scientific Computing",
+          "page_description": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.",
+          "page_excerpt": "Built on open frontier models, with the mathematical community in control of its data.\n\nIs 1 + 3 + ⋯ + (2n − 1) always a perfect square? Check it, prove it in Lean, and add it to the paper.\n\nYes—the first n odd numbers sum to n². The Lean proof and the write-up are ready for your review."
         },
-        "content_context": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.\n\nThis video shows a bleached coral fragment brought back to health within weeks through fusion with a vibrant fragment from the same individual. Credit: Danny Collins Scientists have rapidly restored bleached coral in a laboratory by placing it in contact with a healthy fragment, giving hope for reversing widespread coral decline. Rising sea temperatures are stressing corals, causing the animals to expel the symbiotic algae that live in their tissues and give them their colour — a process known as bleaching. Because the photosynthetic algae (Symbiodiniaceae) provide corals with most of their nutrients, without them, the marine organisms are likely to starve and die.",
-        "trend_score": 44.65,
+        "content_context": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.\n\nBuilt on open frontier models, with the mathematical community in control of its data. Is 1 + 3 + ⋯ + (2n − 1) always a perfect square? Check it, prove it in Lean, and add it to the paper. Yes—the first n odd numbers sum to n². The Lean proof and the write-up are ready for your review.",
+        "trend_score": 55.29,
         "trend_breakdown": {
-          "freshness": 0.979,
+          "freshness": 0.995,
+          "engagement": 0.045,
+          "topic_overlap": 0.286,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A retired Penn professor has been blocking Uber Eats robots",
+        "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+        "author": "johnnyApplePRNG",
+        "score": 6,
+        "comment_count": 0,
+        "published_at": "2026-10-17T23:31:48+00:00",
+        "summary": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+          "page_title": "A retired Penn professor has been blocking Uber Eats robots for months. This week, she got arrested for it",
+          "page_description": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.",
+          "page_excerpt": "Retired Penn professor Carolyn Marvin has been blocking Uber Eats robots on delivery runs for months. She was arrested Wednesday for disorderly conduct, but contends she is lawfully protesting.\n\nOn Wednesday afternoon, Carolyn Marvin was leaving her flu shot appointment when she spotted an Uber Eats robot rolling down the Center City sidewalk. So she did what she has done for months whenever she's had the time: stand in front of it.\n\nMarvin, 78, said she's not sure how many times she's blocked the path of these robots, which hit the streets of Philadelphia in March . The University of Pennsylvania professor emeritus has made a practice of it to protest \"corporations that displace human delivery workers in order to enrich their own bottom line.\" Her past encounters have circulated online . The Wednesday incident was the firs..."
+        },
+        "content_context": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.\n\nRetired Penn professor Carolyn Marvin has been blocking Uber Eats robots on delivery runs for months. She was arrested Wednesday for disorderly conduct, but contends she is lawfully protesting. On Wednesday afternoon, Carolyn Marvin was leaving her flu shot appointment when she spotted an Uber Eats robot rolling down the Center City sidewalk. So she did what she has done for months whenever she's had the time: stand in front of it. Marvin, 78, said she's not sure how many times she's blocked the path of these robots, which hit the streets of Philadelphia in March . The University of Pennsylvania professor emeritus has made a practice of it to protest \"corporations that displace human delivery workers in order to enrich their own bottom line.\" Her past encounters have circulated online . The Wednesday incident was the firs...",
+        "trend_score": 54.39,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.125,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
+        "author": "cybermango",
+        "score": 3,
+        "comment_count": 1,
+        "published_at": "2026-10-17T23:33:37+00:00",
+        "summary": "<a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>",
+        "comment_highlights": [
+          "<a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: <a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>",
+        "trend_score": 52.87,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.125,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Serve Nix closures to k8s pods",
+        "url": "https://github.com/Kranzes/nix-store-csi",
+        "author": "kranzes",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-17T23:24:52+00:00",
+        "summary": "Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/Kranzes/nix-store-csi",
+          "page_title": "GitHub - Kranzes/nix-store-csi: Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes",
+          "page_description": "Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi",
+          "page_excerpt": "nix-store-csi mounts Nix store paths in Kubernetes pods. A pod lists store paths in an inline volume. The plugin fetches their closure from binary caches into a store shared by the node, then mounts a view holding only that closure at the pod's /nix/store . Pods can run in the runner image, which holds tini, or in any other image.\n\nnix-store-csi unpack fills a store the way the plugin does, so you can try it with podman:\n\nnix-snapshotter also runs Nix store paths in Kubernetes, as a containerd snapshotter that mounts them as image layers. nix-store-csi mounts them as a volume instead:"
+        },
+        "content_context": "I’ve been working on a Nix CSI for kubernetes since NixCon when I realized that everyone seems to working towards killing OCI layers (and images) in Kubernetes deployments.<p>I’m hoping to get people to give it a spin and report back to me bugs, feature requests or general feedback. I don’t have a lot of data on how this scales and that makes it hard to decide whether to justify adding a feature or not (e.g. cache locality scheduling).<p>An LLM was used in the development of this project.\n\nServes Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi\n\nnix-store-csi mounts Nix store paths in Kubernetes pods. A pod lists store paths in an inline volume. The plugin fetches their closure from binary caches into a store shared by the node, then mounts a view holding only that closure at the pod's /nix/store . Pods can run in the runner image, which holds tini, or in any other image. nix-store-csi unpack fills a store the way the plugin does, so you can try it with podman: nix-snapshotter also runs Nix store paths in Kubernetes, as a containerd snapshotter that mounts them as image layers. nix-store-csi mounts them as a volume instead:",
+        "trend_score": 52.34,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.045,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
+        "url": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway",
+        "author": "diogenes_l402",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-17T23:28:15+00:00",
+        "summary": "⚡ Multi-Protocol AI Microservice Gateway (35 Live Endpoints: L402 Lightning, x402 Solana, MPP Base) & Model Context Protocol (MCP) Server for Autonomous Agents - stand-out-of-my-sun/diogenes-l4...",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway",
+          "page_title": "GitHub - stand-out-of-my-sun/diogenes-l402-gateway: ⚡ Multi-Protocol AI Microservice Gateway (35 Live Endpoints: L402 Lightning, x402 Solana, MPP Base) & Model Context Protocol (MCP) Server for Autonomous Agents",
+          "page_description": "⚡ Multi-Protocol AI Microservice Gateway (35 Live Endpoints: L402 Lightning, x402 Solana, MPP Base) & Model Context Protocol (MCP) Server for Autonomous Agents - stand-out-of-my-sun/diogenes-l4...",
+          "page_excerpt": "Zero API keys. Zero subscriptions. Instant pay-per-request intelligence for autonomous AI agents. Settle via Bitcoin Lightning (L402) , Solana USDC (x402) , or Base USDC (MPP) . Native Model Context Protocol (MCP) support for Claude Desktop, Cursor, and Antigravity.\n\nAdd this to your Claude Desktop configuration ( claude_desktop_config.json ) or Cursor MCP settings:\n\nEquip your ElizaOS autonomous agents with Diogenes security guardrails and Solana token risk evaluations:"
+        },
+        "content_context": "⚡ Multi-Protocol AI Microservice Gateway (35 Live Endpoints: L402 Lightning, x402 Solana, MPP Base) & Model Context Protocol (MCP) Server for Autonomous Agents - stand-out-of-my-sun/diogenes-l4...\n\nZero API keys. Zero subscriptions. Instant pay-per-request intelligence for autonomous AI agents. Settle via Bitcoin Lightning (L402) , Solana USDC (x402) , or Base USDC (MPP) . Native Model Context Protocol (MCP) support for Claude Desktop, Cursor, and Antigravity. Add this to your Claude Desktop configuration ( claude_desktop_config.json ) or Cursor MCP settings: Equip your ElizaOS autonomous agents with Diogenes security guardrails and Solana token risk evaluations:\n\nHN comment: [flagged]",
+        "trend_score": 48.92,
+        "trend_breakdown": {
+          "freshness": 0.989,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+        "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+        "author": "mdp2021",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-17T23:26:35+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.73,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.071,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Weak Links Start to Show in A.I. Borrowing",
+        "url": "https://www.nytimes.com/2026/10/17/business/-debt-coreweave-oracle-softbank.htmlai",
+        "author": "tangled",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-17T23:42:31+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 45.46,
+        "trend_breakdown": {
+          "freshness": 0.999,
           "engagement": 0.045,
           "topic_overlap": 0.2,
           "source_weight": 0.9,
@@ -444,55 +561,22 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-        "url": "https://fakeipedia.org",
-        "author": "darajava",
+        "title": "I run my one-person business with ~17 narrow AI agents",
+        "url": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
+        "author": "agentofone",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-16T23:52:04+00:00",
-        "summary": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://fakeipedia.org/",
-          "page_title": "Fakeipedia — Choose a Wiki",
-          "page_description": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.",
-          "page_excerpt": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.\n\nSince a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain.\n\nSince 1982, humans have shared their cities, courts, and kitchens with millions of gossipy, litigious, unionized animals."
-        },
-        "content_context": "Hi HN!<p>Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.<p>I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.<p>If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.<p>I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.\n\nAn encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.\n\nAn encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality. Since a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain. Since 1982, humans have shared their cities, courts, and kitchens with millions of gossipy, litigious, unionized animals.",
-        "trend_score": 44.43,
+        "published_at": "2026-10-17T23:43:05+00:00",
+        "summary": "[flagged]",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: [flagged]",
+        "trend_score": 41.87,
         "trend_breakdown": {
-          "freshness": 0.988,
+          "freshness": 0.999,
           "engagement": 0.045,
-          "topic_overlap": 0.167,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Canadian Study Proposes Linux to Replace Windows in Government",
-        "url": "https://linuxstans.com/canadian-study-proposes-a-national-linux-distribution-to-replace-windows-in-government/",
-        "author": "dxs",
-        "score": 3,
-        "comment_count": 1,
-        "published_at": "2026-10-17T00:00:56+00:00",
-        "summary": "A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.",
-        "comment_highlights": [
-          "Use macs. Linux on the Desktop is terrible and only results in frustration.<p>Macs are what Linux on the Desktop has promised for the last two decades."
-        ],
-        "linked_context": {
-          "resolved_url": "https://linuxstans.com/canadian-study-proposes-a-national-linux-distribution-to-replace-windows-in-government/",
-          "page_title": "Canada Could Replace Windows With Its Own Linux. Should It?",
-          "page_description": "A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.",
-          "page_excerpt": "A Western University professor wants Canada to stop depending on Microsoft for government desktops and build a national Linux distribution instead. In a paper published online October 6 in Digital Policy, Regulation and Governance , Joshua M. Pearce argues that a Debian-based operating system maintained by a Canadian public body could save federal departments hundreds of millions of dollars ove...\n\nPearce made the case for a general audience in The Conversation on October 14. The article then reached r/linux, where it collected about 2,800 upvotes and a long argument over whether Ottawa can run a software project this size. The savings estimate is large. So is the list of open questions.\n\nThe journal lists the paper as a Viewpoint article . Its method is a comparative policy analysis of six state-backed Linux distributions, from China, Russia, India, France, Germany and South Korea, measured against Canadian procurement rules and trade obligations. The plan that comes out of it has..."
-        },
-        "content_context": "A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.\n\nA Western University professor wants Canada to stop depending on Microsoft for government desktops and build a national Linux distribution instead. In a paper published online October 6 in Digital Policy, Regulation and Governance , Joshua M. Pearce argues that a Debian-based operating system maintained by a Canadian public body could save federal departments hundreds of millions of dollars ove... Pearce made the case for a general audience in The Conversation on October 14. The article then reached r/linux, where it collected about 2,800 upvotes and a long argument over whether Ottawa can run a software project this size. The savings estimate is large. So is the list of open questions. The journal lists the paper as a Viewpoint article . Its method is a comparative policy analysis of six state-backed Linux distributions, from China, Russia, India, France, Germany and South Korea, measured against Canadian procurement rules and trade obligations. The plan that comes out of it has...\n\nHN comment: Use macs. Linux on the Desktop is terrible and only results in frustration.<p>Macs are what Linux on the Desktop has promised for the last two decades.",
-        "trend_score": 44.22,
-        "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.125,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -502,110 +586,24 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Dam Removals Are Bringing Fish Back Across the Northeastern United States",
-        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "author": "sohkamyung",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-10-16T23:47:31+00:00",
-        "summary": "While the demolition of big dams in the West gets more attention, many of these often-obsolete obstructions are also coming out of northeastern streams and rivers—and herring are returning in droves",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-          "page_title": "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
-          "page_description": "While the demolition of big dams in the West gets more attention, many of these often-obsolete obstructions are also coming out of northeastern streams and rivers—and herring are returning in droves",
-          "page_excerpt": "In 1859, a committee of farmers in Billerica, Massachusetts, having grown irked by a dam on the Concord River, hired a surveyor to justify its destruction. The dam, which powered a textile factory owned by an industrialist named Charles Talbot, was allegedly flooding their fields and spoiling their hay; now they wanted the wall and its reservoir gone. They hoped the surveyor’s evidence would pe...\n\nAside from the paycheck, the now-legendary author had another motivation to take the Concord job: He despised the Talbot Mills Dam. A decade earlier, Thoreau had published the travelogue A Week on the Concord and Merrimack Rivers , in which he inveighed against the dam for blocking the passage of spawning fish, especially American shad. “Poor shad! Where is thy redress?” Thoreau wrote . Althoug...\n\nFor many fish-blocking dams, however, it hasn’t taken “a few thousands of years” to level them after all. Since 1912, more than 2,300 dams have been purged from waterways in the United States,..."
-        },
-        "content_context": "While the demolition of big dams in the West gets more attention, many of these often-obsolete obstructions are also coming out of northeastern streams and rivers—and herring are returning in droves\n\nIn 1859, a committee of farmers in Billerica, Massachusetts, having grown irked by a dam on the Concord River, hired a surveyor to justify its destruction. The dam, which powered a textile factory owned by an industrialist named Charles Talbot, was allegedly flooding their fields and spoiling their hay; now they wanted the wall and its reservoir gone. They hoped the surveyor’s evidence would pe... Aside from the paycheck, the now-legendary author had another motivation to take the Concord job: He despised the Talbot Mills Dam. A decade earlier, Thoreau had published the travelogue A Week on the Concord and Merrimack Rivers , in which he inveighed against the dam for blocking the passage of spawning fish, especially American shad. “Poor shad! Where is thy redress?” Thoreau wrote . Althoug... For many fish-blocking dams, however, it hasn’t taken “a few thousands of years” to level them after all. Since 1912, more than 2,300 dams have been purged from waterways in the United States,...",
-        "trend_score": 44.13,
-        "trend_breakdown": {
-          "freshness": 0.985,
-          "engagement": 0.071,
-          "topic_overlap": 0.111,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Arpbleed: A 23-year-old DragonFly BSD kernel memory leak",
-        "url": "https://nathan.sapwell.net/posts/cve-2026-110912-arpbleed/",
-        "author": "khalidkhair",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-10-16T23:51:40+00:00",
-        "summary": "My first CVE, found and published: DragonFly BSD has trusted the attacker-controlled ARP ar_hln and ar_pln length bytes since the 2003 import, and one crafted request from the same L2 segment leaks up to 249 bytes of kernel heap and 251 bytes of kernel stack, kernel pointers included.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://nathan.sapwell.net/posts/cve-2026-110912-arpbleed/",
-          "page_title": "CVE-2026-110912: Arpbleed",
-          "page_description": "My first CVE, found and published: DragonFly BSD has trusted the attacker-controlled ARP ar_hln and ar_pln length bytes since the 2003 import, and one crafted request from the same L2 segment leaks up to 249 bytes of kernel heap and 251 bytes of kernel stack, kernel pointers included.",
-          "page_excerpt": "CVE-2026-110912 is my first published CVE! The fix is merged upstream and the record is live in the database. It lives in a 23-year-old corner of DragonFly BSD. The ARP input path trusts two one-byte length fields from any packet on the wire. Ask for a 200-byte hardware address and the kernel builds its reply with a 200-byte memcpy out of a 6-byte buffer, and sends the excess back to you. Same...\n\nThere is one video for this one. It covers the story behind the find and runs the PoC live against a stock DragonFly 6.4.2-RELEASE install.\n\nARP is an old protocol from 1982, published as RFC 826 by David C. Plummer. Its job is mapping protocol addresses to hardware addresses, for our purposes IPv4 to Ethernet MAC, and its packet format carries two one-byte length fields:"
-        },
-        "content_context": "My first CVE, found and published: DragonFly BSD has trusted the attacker-controlled ARP ar_hln and ar_pln length bytes since the 2003 import, and one crafted request from the same L2 segment leaks up to 249 bytes of kernel heap and 251 bytes of kernel stack, kernel pointers included.\n\nCVE-2026-110912 is my first published CVE! The fix is merged upstream and the record is live in the database. It lives in a 23-year-old corner of DragonFly BSD. The ARP input path trusts two one-byte length fields from any packet on the wire. Ask for a 200-byte hardware address and the kernel builds its reply with a 200-byte memcpy out of a 6-byte buffer, and sends the excess back to you. Same... There is one video for this one. It covers the story behind the find and runs the PoC live against a stock DragonFly 6.4.2-RELEASE install. ARP is an old protocol from 1982, published as RFC 826 by David C. Plummer. Its job is mapping protocol addresses to hardware addresses, for our purposes IPv4 to Ethernet MAC, and its packet format carries two one-byte length fields:",
-        "trend_score": 42.25,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.071,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Proton Computer",
-        "url": "https://app.proton.computer/",
-        "author": "handfuloflight",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-10-16T23:34:59+00:00",
-        "summary": "One Proton: 8 vCPUs and 2 GB of guaranteed RAM that scales to 64 GB. $20 a month, billed by the second.",
-        "comment_highlights": [
-          "Kind of a confusing name in my opinion, seems like a good price. A great price even... What is this?"
-        ],
-        "linked_context": {
-          "resolved_url": "https://app.proton.computer/",
-          "page_title": "Proton — 8 vCPUs, $20 a month, billed by the second",
-          "page_description": "One Proton: 8 vCPUs and 2 GB of guaranteed RAM that scales to 64 GB. $20 a month, billed by the second.",
-          "page_excerpt": "A persistent Linux computer with 8 virtual CPUs and 2 GB of guaranteed RAM that scales up to 64 GB when your work needs it. One flat price, billed by the second.\n\n$20 covers 730 running hours, paid from your Cube balance. Memory growth costs nothing extra. Stop a computer to stop charges. If your balance runs out, computers are suspended and their disks preserved. Growth above 2 GB depends on available host capacity.\n\nInstall your tools, run long jobs, and leave your agents working. Closing your laptop leaves your computer running."
-        },
-        "content_context": "One Proton: 8 vCPUs and 2 GB of guaranteed RAM that scales to 64 GB. $20 a month, billed by the second.\n\nA persistent Linux computer with 8 virtual CPUs and 2 GB of guaranteed RAM that scales up to 64 GB when your work needs it. One flat price, billed by the second. $20 covers 730 running hours, paid from your Cube balance. Memory growth costs nothing extra. Stop a computer to stop charges. If your balance runs out, computers are suspended and their disks preserved. Growth above 2 GB depends on available host capacity. Install your tools, run long jobs, and leave your agents working. Closing your laptop leaves your computer running.\n\nHN comment: Kind of a confusing name in my opinion, seems like a good price. A great price even... What is this?",
-        "trend_score": 42.08,
-        "trend_breakdown": {
-          "freshness": 0.976,
-          "engagement": 0.081,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Project Normandy",
-        "url": "https://en.wikipedia.org/wiki/Project_Normandy",
-        "author": "jacquesm",
+        "title": "Overlooked Brown fat in our bodies linked to wide range of health benefits",
+        "url": "https://www.nature.com/articles/d41586-026-03302-w",
+        "author": "cybermango",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-16T23:35:29+00:00",
-        "summary": "Project Normandy was a top secret Church of Scientology operation wherein the church planned to take over the city of Clearwater, Florida , by infiltrating government offices and media centers. Gabe Cazares , who was the mayor of Clearwater at the time, used the term \"the occupation of Clearwater\" [ 1 ] and later characterized it as a \" paramilitary operation by a terrorist group\". [ 2 ]\n\nIn the 1970s, the Church of Scientology Corporation used a front group, called the \"United Churches of Florida\", to purchase the Fort Harrison Hotel for $3 million. The church established their headquarters in the Fort Harrison Hotel, and dubbed it their Flag Land Base .\n\nIn 1977, an FBI raid on Scientology headquarters uncovered internal Church of Scientology documents marked \"Top Secret\" that referred to their secret operation to take over Clearwater as \"Project Normandy\". The document states its purpose as \"obtain[ing] enough data on the Clearwater area to be able to determine what groups and in...",
+        "published_at": "2026-10-17T23:41:45+00:00",
+        "summary": "Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://en.wikipedia.org/wiki/Project_Normandy",
-          "page_title": "Project Normandy - Wikipedia",
-          "page_description": null,
-          "page_excerpt": "Project Normandy was a top secret Church of Scientology operation wherein the church planned to take over the city of Clearwater, Florida , by infiltrating government offices and media centers. Gabe Cazares , who was the mayor of Clearwater at the time, used the term \"the occupation of Clearwater\" [ 1 ] and later characterized it as a \" paramilitary operation by a terrorist group\". [ 2 ]\n\nIn the 1970s, the Church of Scientology Corporation used a front group, called the \"United Churches of Florida\", to purchase the Fort Harrison Hotel for $3 million. The church established their headquarters in the Fort Harrison Hotel, and dubbed it their Flag Land Base .\n\nIn 1977, an FBI raid on Scientology headquarters uncovered internal Church of Scientology documents marked \"Top Secret\" that referred to their secret operation to take over Clearwater as \"Project Normandy\". The document states its purpose as \"obtain[ing] enough data on the Clearwater area to be able to determine what groups and in..."
+          "resolved_url": "https://www.nature.com/articles/d41586-026-03302-w",
+          "page_title": "Overlooked brown fat in our bodies linked to wide range of health benefits",
+          "page_description": "Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.",
+          "page_excerpt": "Brown fat (shown here in a light-microscopy image) burns calories to generate heat. Credit: Ziad M. El-Zaatari/Science Photo Library\n\nWhen people think of fat, they typically picture the jiggly tissue around the belly that stores extra calories. That’s white fat . But there’s another type, called brown fat , that does the opposite. Typically found around the neck, armpits and in the chest, brown fat burns calories to generate heat and has been linked to health benefits.\n\nFat cells have a ‘memory’ of obesity — hinting at why it’s hard to keep weight off"
         },
-        "content_context": "Project Normandy was a top secret Church of Scientology operation wherein the church planned to take over the city of Clearwater, Florida , by infiltrating government offices and media centers. Gabe Cazares , who was the mayor of Clearwater at the time, used the term \"the occupation of Clearwater\" [ 1 ] and later characterized it as a \" paramilitary operation by a terrorist group\". [ 2 ] In the 1970s, the Church of Scientology Corporation used a front group, called the \"United Churches of Florida\", to purchase the Fort Harrison Hotel for $3 million. The church established their headquarters in the Fort Harrison Hotel, and dubbed it their Flag Land Base . In 1977, an FBI raid on Scientology headquarters uncovered internal Church of Scientology documents marked \"Top Secret\" that referred to their secret operation to take over Clearwater as \"Project Normandy\". The document states its purpose as \"obtain[ing] enough data on the Clearwater area to be able to determine what groups and in...",
-        "trend_score": 40.97,
+        "content_context": "Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.\n\nBrown fat (shown here in a light-microscopy image) burns calories to generate heat. Credit: Ziad M. El-Zaatari/Science Photo Library When people think of fat, they typically picture the jiggly tissue around the belly that stores extra calories. That’s white fat . But there’s another type, called brown fat , that does the opposite. Typically found around the neck, armpits and in the chest, brown fat burns calories to generate heat and has been linked to health benefits. Fat cells have a ‘memory’ of obesity — hinting at why it’s hard to keep weight off",
+        "trend_score": 41.83,
         "trend_breakdown": {
-          "freshness": 0.977,
+          "freshness": 0.998,
           "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
@@ -616,25 +614,25 @@
     ],
     "news": [
       {
-        "source": "ABC7 Los Angeles",
+        "source": "CBS News",
         "category": "news",
-        "title": "Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5",
-        "published_at": "2026-10-16T23:38:00+00:00",
-        "summary": "ABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal；Norte fire ravages homes, spreads to 465 acres in San Clemente, San Juan Capistrano；New wildfire in Southern California explodes in size, burning multiple homes。",
+        "title": "In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzMkI2OExjcDBBRDRORVVNNGRfNmxmTmtoR3VEakFyQzY5QVh2LVk4TlJDMFEyQkFiaXFaSHhjNVJPemRDYTRGaWlQQnRLdzV5N1N6aG52alNPSERMaWEwVWt0ZEVMemdkNHkyNWNHT2Fzd3Vp?oc=5",
+        "published_at": "2026-10-17T20:48:51+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\"；Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf；Trump promises big investment in KY facility 'if the Republicans win'。",
         "related_headlines": [
-          "Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal",
-          "Norte fire ravages homes, spreads to 465 acres in San Clemente, San Juan Capistrano",
-          "New wildfire in Southern California explodes in size, burning multiple homes",
-          "California Firefighters Race to Save Homes in Orange County",
-          "Interactive 3D map shows Norte Fire perimeter, evacuation zones"
+          "In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\"",
+          "Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf",
+          "Trump promises big investment in KY facility 'if the Republicans win'",
+          "President Trump holds midterm rally in Highland Heights, Kentucky",
+          "President Trump holds rally in Highland Heights Saturday"
         ],
-        "content_context": "Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal - ABC7 Los Angeles\n\nABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal；Norte fire ravages homes, spreads to 465 acres in San Clemente, San Juan Capistrano；New wildfire in Southern California explodes in size, burning multiple homes。\n\nRelated coverage: Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal\n\nRelated coverage: Norte fire ravages homes, spreads to 465 acres in San Clemente, San Juan Capistrano\n\nRelated coverage: New wildfire in Southern California explodes in size, burning multiple homes\n\nRelated coverage: California Firefighters Race to Save Homes in Orange County\n\nRelated coverage: Interactive 3D map shows Norte Fire perimeter, evacuation zones",
-        "trend_score": 40.56,
+        "content_context": "In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\" - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\"；Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf；Trump promises big investment in KY facility 'if the Republicans win'。\n\nRelated coverage: In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\"\n\nRelated coverage: Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf\n\nRelated coverage: Trump promises big investment in KY facility 'if the Republicans win'\n\nRelated coverage: President Trump holds midterm rally in Highland Heights, Kentucky\n\nRelated coverage: President Trump holds rally in Highland Heights Saturday",
+        "trend_score": 35.98,
         "trend_breakdown": {
-          "freshness": 0.978,
+          "freshness": 0.878,
           "engagement": 0.0,
-          "topic_overlap": 0.333,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -643,23 +641,23 @@
       {
         "source": "AP News",
         "category": "news",
-        "title": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
-        "published_at": "2026-10-16T22:34:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump rallies with top Republicans in critical battleground state of Georgia；Former NFL All-Pro running back joins President Trump for Georgia midterms rally；Trump in Georgia falsely claims election of Jon Ossoff was illegitimate。",
+        "title": "Fisherman, 71, killed by 12-foot alligator alongside Florida lake - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWs0Y0xMUzZxN3Z1anpnTDJOMDNUVDR2eFpIV0NrVjlzem9XUFhXTjZ0MnFVbUNvUkgzV280T0hTSkVlR21TRHBJR3RqdjhCMUc3NTNqakVfNVgxZ2tENFhnbkVUSXZENDJKZFdOeWo0dU5Vb0FnRjFSVUlMVVdqaTF1dkcybFdnelhWSllfOXlyWjZuWWV6N2xCLXVmek9nOUJV?oc=5",
+        "published_at": "2026-10-17T21:00:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fisherman, 71, killed by 12-foot alligator alongside Florida lake；Alligator kills 71-year-old man fishing in Florida；Man killed in suspected alligator attack in Winter Garden。",
         "related_headlines": [
-          "Trump rallies with top Republicans in critical battleground state of Georgia",
-          "Former NFL All-Pro running back joins President Trump for Georgia midterms rally",
-          "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-          "Trump in Georgia Touts Manufacturing Gains as GOP Targets Ossoff",
-          "Friday Round Table: Trump’s Rescue Mission"
+          "Fisherman, 71, killed by 12-foot alligator alongside Florida lake",
+          "Alligator kills 71-year-old man fishing in Florida",
+          "Man killed in suspected alligator attack in Winter Garden",
+          "Florida fisher dragged into water and killed by 12ft alligator",
+          "71-year-old man dies after alligator attack while fishing in Florida, police say"
         ],
-        "content_context": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump rallies with top Republicans in critical battleground state of Georgia；Former NFL All-Pro running back joins President Trump for Georgia midterms rally；Trump in Georgia falsely claims election of Jon Ossoff was illegitimate。\n\nRelated coverage: Trump rallies with top Republicans in critical battleground state of Georgia\n\nRelated coverage: Former NFL All-Pro running back joins President Trump for Georgia midterms rally\n\nRelated coverage: Trump in Georgia falsely claims election of Jon Ossoff was illegitimate\n\nRelated coverage: Trump in Georgia Touts Manufacturing Gains as GOP Targets Ossoff\n\nRelated coverage: Friday Round Table: Trump’s Rescue Mission",
-        "trend_score": 38.96,
+        "content_context": "Fisherman, 71, killed by 12-foot alligator alongside Florida lake - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fisherman, 71, killed by 12-foot alligator alongside Florida lake；Alligator kills 71-year-old man fishing in Florida；Man killed in suspected alligator attack in Winter Garden。\n\nRelated coverage: Fisherman, 71, killed by 12-foot alligator alongside Florida lake\n\nRelated coverage: Alligator kills 71-year-old man fishing in Florida\n\nRelated coverage: Man killed in suspected alligator attack in Winter Garden\n\nRelated coverage: Florida fisher dragged into water and killed by 12ft alligator\n\nRelated coverage: 71-year-old man dies after alligator attack while fishing in Florida, police say",
+        "trend_score": 35.89,
         "trend_breakdown": {
-          "freshness": 0.934,
+          "freshness": 0.886,
           "engagement": 0.0,
-          "topic_overlap": 0.333,
+          "topic_overlap": 0.25,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -668,175 +666,98 @@
       {
         "source": "NBC News",
         "category": "news",
-        "title": "Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanRwdThYMkttOXhKWFZsMXdlbXgtay1xZWxNWG9ycm9yZWZrQjlQNUtZSVRyenFtOEJNRVdOQ3dITzZqRWRMRlctclhZMWtZRXZvVjlvcF9EZUFHTUFucHphZWE3R1NKTVJIemRDdDkwZXFmUVFvSnpVbmw3Ulh0cWdubjdtSXpCZDRyUDJpSUtURXJ4elU3VkE3QUx1V2phQ2thWmJqdUt1UmJnR0Z4RXdn?oc=5",
-        "published_at": "2026-10-16T22:36:34+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole；Amber Guyger leaves prison after serving 7 years in Botham Jean's death；Former Dallas police officer Amber Guyger released from prison after murder conviction。",
+        "title": "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’ - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc?oc=5",
+        "published_at": "2026-10-17T22:31:00+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’；Teacher fought US school attacker before armed dad shot suspect 'multiple times'；Second vigil carries pain, heaviness as community learns more details about Bend school shooting。",
         "related_headlines": [
-          "Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole",
-          "Amber Guyger leaves prison after serving 7 years in Botham Jean's death",
-          "Former Dallas police officer Amber Guyger released from prison after murder conviction",
-          "Amber Guyger released on parole Friday, 8 years after Botham Jean's murder",
-          "Amber Guyger, police officer who murdered black neighbor in his home, released from prison"
-        ],
-        "content_context": "Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole；Amber Guyger leaves prison after serving 7 years in Botham Jean's death；Former Dallas police officer Amber Guyger released from prison after murder conviction。\n\nRelated coverage: Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole\n\nRelated coverage: Amber Guyger leaves prison after serving 7 years in Botham Jean's death\n\nRelated coverage: Former Dallas police officer Amber Guyger released from prison after murder conviction\n\nRelated coverage: Amber Guyger released on parole Friday, 8 years after Botham Jean's murder\n\nRelated coverage: Amber Guyger, police officer who murdered black neighbor in his home, released from prison",
-        "trend_score": 36.69,
-        "trend_breakdown": {
-          "freshness": 0.936,
-          "engagement": 0.0,
-          "topic_overlap": 0.188,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "CBS News",
-        "category": "news",
-        "title": "Oregon school shooter identified, used shotgun bought by mother, sources say - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzNWZTVjSGdjd1FZSnRTMW5QR1N0cXAteFc1bDVOSy1DaEdDaHlfcHV0bjJLUVNRQjJzVF8yQUMta00yRHRxS3pmYzZzU3JLU3pyMG5nTTlIaHl6Z3dOSGZsQUdvQ0ZIX2NONlZ1WkRPSVBKdl80UEppZl82YmN3ZG8xVkhTMDVVYk4wamFR?oc=5",
-        "published_at": "2026-10-16T22:06:16+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon school shooter identified, used shotgun bought by mother, sources say；Bend, Oregon school shooting: What we know about the bystander who killed the teen shooter；Oregon teacher fought school attacker before armed dad killed suspect。",
-        "related_headlines": [
-          "Oregon school shooter identified, used shotgun bought by mother, sources say",
-          "Bend, Oregon school shooting: What we know about the bystander who killed the teen shooter",
-          "Oregon teacher fought school attacker before armed dad killed suspect",
+          "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’",
+          "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+          "Second vigil carries pain, heaviness as community learns more details about Bend school shooting",
           "Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children",
-          "What to Say When Your Child Asks About a School Shooting, According to Experts"
+          "What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom"
         ],
-        "content_context": "Oregon school shooter identified, used shotgun bought by mother, sources say - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon school shooter identified, used shotgun bought by mother, sources say；Bend, Oregon school shooting: What we know about the bystander who killed the teen shooter；Oregon teacher fought school attacker before armed dad killed suspect。\n\nRelated coverage: Oregon school shooter identified, used shotgun bought by mother, sources say\n\nRelated coverage: Bend, Oregon school shooting: What we know about the bystander who killed the teen shooter\n\nRelated coverage: Oregon teacher fought school attacker before armed dad killed suspect\n\nRelated coverage: Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children\n\nRelated coverage: What to Say When Your Child Asks About a School Shooting, According to Experts",
-        "trend_score": 35.6,
+        "content_context": "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’ - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’；Teacher fought US school attacker before armed dad shot suspect 'multiple times'；Second vigil carries pain, heaviness as community learns more details about Bend school shooting。\n\nRelated coverage: Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’\n\nRelated coverage: Teacher fought US school attacker before armed dad shot suspect 'multiple times'\n\nRelated coverage: Second vigil carries pain, heaviness as community learns more details about Bend school shooting\n\nRelated coverage: Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children\n\nRelated coverage: What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom",
+        "trend_score": 35.4,
         "trend_breakdown": {
-          "freshness": 0.915,
+          "freshness": 0.949,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.077,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Reuters",
+        "source": "AP News",
         "category": "news",
-        "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5",
-        "published_at": "2026-10-16T20:05:56+00:00",
-        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israeli settlers burn olive trees, injure journalist in West Bank attack；Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks；Israeli settlers attack Palestinians during West Bank olive harvest and beat U.S. photojournalist。",
+        "title": "Clashes, fires and looting break out as protesters rally across France, joining students - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmRHbHlmZUhGb2xmVFZXeFBmNTFodEJ3U2xmUkZmZDhzdGR2aTEzTHRXOVRIWmx1REtWbHpGY2NQQUFVSk9PaHY3dFRjSUVqZUM3LURoSWlQQ3dDNlEtMnpmQmY3bVJtZEJWNV9vd0hDczg4OGV3UGJ0QmFWX0xLTHpzQ2c3ME5XcE9PN3Zidl9tV0xESXY5aW9R?oc=5",
+        "published_at": "2026-10-17T19:59:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Clashes, fires and looting break out as protesters rally across France, joining students；Half a million protesters sweep France in major show of youth unrest；Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest。",
         "related_headlines": [
-          "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-          "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-          "Israeli settlers attack Palestinians during West Bank olive harvest and beat U.S. photojournalist",
-          "Israeli settlers attack Palestinians and Washington Post photographer in West Bank",
-          "Israeli settlers attack American journalist and Palestinians during olive harvest in West Bank"
+          "Clashes, fires and looting break out as protesters rally across France, joining students",
+          "Half a million protesters sweep France in major show of youth unrest",
+          "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+          "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+          "'No place for violence,' Macron says, as protesters clash with police in cities across France"
         ],
-        "content_context": "Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israeli settlers burn olive trees, injure journalist in West Bank attack；Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks；Israeli settlers attack Palestinians during West Bank olive harvest and beat U.S. photojournalist。\n\nRelated coverage: Israeli settlers burn olive trees, injure journalist in West Bank attack\n\nRelated coverage: Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks\n\nRelated coverage: Israeli settlers attack Palestinians during West Bank olive harvest and beat U.S. photojournalist\n\nRelated coverage: Israeli settlers attack Palestinians and Washington Post photographer in West Bank\n\nRelated coverage: Israeli settlers attack American journalist and Palestinians during olive harvest in West Bank",
-        "trend_score": 34.11,
+        "content_context": "Clashes, fires and looting break out as protesters rally across France, joining students - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Clashes, fires and looting break out as protesters rally across France, joining students；Half a million protesters sweep France in major show of youth unrest；Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest。\n\nRelated coverage: Clashes, fires and looting break out as protesters rally across France, joining students\n\nRelated coverage: Half a million protesters sweep France in major show of youth unrest\n\nRelated coverage: Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest\n\nRelated coverage: Unrest Mars Day of Protest in France, as Student Movement Turns National\n\nRelated coverage: 'No place for violence,' Macron says, as protesters clash with police in cities across France",
+        "trend_score": 34.37,
         "trend_breakdown": {
-          "freshness": 0.831,
+          "freshness": 0.844,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "BBC",
-        "category": "news",
-        "title": "White House press secretary Katie Zacharia leaving role days after taking job - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enFoUTNVcWhHMTM1eUc5cm9OamJYOXdSWkdIS2lqZ1ljZmdLUGJXLWF1MXVaYmNDalVEUHBtdnRuNldCa1kxRFoyRDJqcnFLd2d6Xzd3?oc=5",
-        "published_at": "2026-10-16T20:43:23+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House press secretary Katie Zacharia leaving role days after taking job；Katie Zacharia Is Ousted After 5 Days as White House Press Secretary；Katie Zacharia’s firing was foreshadowed by a chilly Fox News reception。",
-        "related_headlines": [
-          "White House press secretary Katie Zacharia leaving role days after taking job",
-          "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary",
-          "Katie Zacharia’s firing was foreshadowed by a chilly Fox News reception",
-          "White House scrambles over questions on new press secretary’s background",
-          "The new White House press secretary is out, and Anthony Scaramucci has thoughts"
-        ],
-        "content_context": "White House press secretary Katie Zacharia leaving role days after taking job - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House press secretary Katie Zacharia leaving role days after taking job；Katie Zacharia Is Ousted After 5 Days as White House Press Secretary；Katie Zacharia’s firing was foreshadowed by a chilly Fox News reception。\n\nRelated coverage: White House press secretary Katie Zacharia leaving role days after taking job\n\nRelated coverage: Katie Zacharia Is Ousted After 5 Days as White House Press Secretary\n\nRelated coverage: Katie Zacharia’s firing was foreshadowed by a chilly Fox News reception\n\nRelated coverage: White House scrambles over questions on new press secretary’s background\n\nRelated coverage: The new White House press secretary is out, and Anthony Scaramucci has thoughts",
-        "trend_score": 33.32,
-        "trend_breakdown": {
-          "freshness": 0.857,
-          "engagement": 0.0,
-          "topic_overlap": 0.154,
+          "topic_overlap": 0.25,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "ABC7 Los Angeles",
+        "source": "CNN",
         "category": "news",
-        "title": "Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says - ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZkt0d0wwbTFVWkJvMXpzVjlLYXBwWUk4OWltNjdicWYxWjJfdkd1WkdkbHFudzBvSHpVUGZWelVQR1RMb0xZSjFwZ2FZZVo5ZVlYUXNmaEU1UWg2dXNUYlBQdTRxazBzSG9ueWQ5bXp0UHhGbEhsLUo0SHVVaXNIV1p4V0VScGJvaUNCemNkX3l6LWRxUjZnaE5mSTBBMFZVdXdya29UbEg5VklwX1hjQ3VTZ3pmT0p3anY5aHJFbFBjYWhnRS1ESNIBzgFBVV95cUxQZ2lXTm12SmFfellPN2xBVC1iUnJSdXRyWnVzT05jSFU4UjlFazBndmhfMkdDbVdqNFkzZGdTVjFTTUZmbmpBQXRDNGVZcVEzbmpVa040UHJ1T2VXUlItc0ZRS081S2owTEtuSjFuaHF6MzVNVjBLRTAwMWQxOTM0RmNrbU5tdFN5dDZnQ1JxNmhRdFpxVGk5aXFwWGh0dTVfX2xidWViSkxLWXNCYWhlZmdoRWtrelpiX1JEZ1VlZy1JVFlmWkJNcWwyQnREZw?oc=5",
-        "published_at": "2026-10-16T17:01:29+00:00",
-        "summary": "ABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says；After Six Flags Roller Coaster Death, Critics Call for Federal Oversight；Family of Six Flags victim's niece speaks out after she witnessed uncle's tragic fall。",
+        "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex - CNN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOEJ6REVSSGpqUnhpVVlBVFRVbE0yOUtJUVVHS25sNHc0bGNYNUpaQ3pkV3ZqdGlLS3NzZ196ZVZaQTctQkJWb3RCODF2Rmh5UEhPdDQ5emM0T0lVTVZfOThHQ3BWSExEVnl0TmZIWjlKeEhP?oc=5",
+        "published_at": "2026-10-17T21:55:50+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex；Large emergency response at Stryker Sports Complex after ‘incident’；‘Tragedy’: 1 child, 1 adult killed in ‘mass casualty’ incident at Stryker Sports Complex。",
         "related_headlines": [
-          "Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says",
-          "After Six Flags Roller Coaster Death, Critics Call for Federal Oversight",
-          "Family of Six Flags victim's niece speaks out after she witnessed uncle's tragic fall",
-          "Cobb officials to address Six Flags tragedy ahead of park reopening",
-          "Family of US man who died on Six Flags ride question if death was preventable"
+          "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
+          "Large emergency response at Stryker Sports Complex after ‘incident’",
+          "‘Tragedy’: 1 child, 1 adult killed in ‘mass casualty’ incident at Stryker Sports Complex",
+          "One Child, One Adult Killed as Truck Plows Through Soccer Game",
+          "Two killed, multiple injured when truck hits crowd at Wichita youth soccer game"
         ],
-        "content_context": "Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says - ABC7 Los Angeles\n\nABC7 Los Angeles 头条聚焦该事件，Google News 同时聚合到这些相关表述：Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says；After Six Flags Roller Coaster Death, Critics Call for Federal Oversight；Family of Six Flags victim's niece speaks out after she witnessed uncle's tragic fall。\n\nRelated coverage: Goliath Six Flags death: Hassan Kariem, who died after Georgia roller coaster incident, sat next to niece on ride, family says\n\nRelated coverage: After Six Flags Roller Coaster Death, Critics Call for Federal Oversight\n\nRelated coverage: Family of Six Flags victim's niece speaks out after she witnessed uncle's tragic fall\n\nRelated coverage: Cobb officials to address Six Flags tragedy ahead of park reopening\n\nRelated coverage: Family of US man who died on Six Flags ride question if death was preventable",
-        "trend_score": 29.88,
+        "content_context": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex；Large emergency response at Stryker Sports Complex after ‘incident’；‘Tragedy’: 1 child, 1 adult killed in ‘mass casualty’ incident at Stryker Sports Complex。\n\nRelated coverage: 2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex\n\nRelated coverage: Large emergency response at Stryker Sports Complex after ‘incident’\n\nRelated coverage: ‘Tragedy’: 1 child, 1 adult killed in ‘mass casualty’ incident at Stryker Sports Complex\n\nRelated coverage: One Child, One Adult Killed as Truck Plows Through Soccer Game\n\nRelated coverage: Two killed, multiple injured when truck hits crowd at Wichita youth soccer game",
+        "trend_score": 34.36,
         "trend_breakdown": {
-          "freshness": 0.703,
+          "freshness": 0.925,
           "engagement": 0.0,
-          "topic_overlap": 0.286,
+          "topic_overlap": 0.067,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Young Voters Say They Are Turning Their Backs on Trump and His Party - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlNmcUtPMEtVUXpKd3pkRGJyWlBTT0lhck5QWVhLQ3huZVR5SGJPWjFpVkNqQjRFaVhHT1BHb0xoXzBDOUNhanhyR3NhSTZ4Y0t0cVFlb3ZObkR2NlVNYWVMTE9zcnI3U3hneFk2LUhQQmxzTmkxVE16OGRNbGRUZlpHR3BRVnJWTUFfTA?oc=5",
-        "published_at": "2026-10-16T14:04:11+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Young Voters Say They Are Turning Their Backs on Trump and His Party；'Everything got worse': Gen Z express frustration, regret after Trump vote；The Men Who Regret Trump—But Won’t Vote Blue。",
+        "title": "Trump signs order putting Russia sanctions on hold, drawing bipartisan anger - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
+        "published_at": "2026-10-17T20:58:55+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump signs order putting Russia sanctions on hold, drawing bipartisan anger；Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor；Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen。",
         "related_headlines": [
-          "Young Voters Say They Are Turning Their Backs on Trump and His Party",
-          "'Everything got worse': Gen Z express frustration, regret after Trump vote",
-          "The Men Who Regret Trump—But Won’t Vote Blue",
-          "I Went Home to South Carolina to Ask Young Voters About Trump and the Economy",
-          "\"I Voted For Trump, But He’s Killing Me Right Now\": These 8 Screenshots Of Regretful Trump Supporters Complaining About Their Votes Are Going Super Viral"
+          "Trump signs order putting Russia sanctions on hold, drawing bipartisan anger",
+          "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+          "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+          "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy",
+          "Retiring Republicans bash Trump’s sanctions pullback"
         ],
-        "content_context": "Young Voters Say They Are Turning Their Backs on Trump and His Party - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Young Voters Say They Are Turning Their Backs on Trump and His Party；'Everything got worse': Gen Z express frustration, regret after Trump vote；The Men Who Regret Trump—But Won’t Vote Blue。\n\nRelated coverage: Young Voters Say They Are Turning Their Backs on Trump and His Party\n\nRelated coverage: 'Everything got worse': Gen Z express frustration, regret after Trump vote\n\nRelated coverage: The Men Who Regret Trump—But Won’t Vote Blue\n\nRelated coverage: I Went Home to South Carolina to Ask Young Voters About Trump and the Economy\n\nRelated coverage: \"I Voted For Trump, But He’s Killing Me Right Now\": These 8 Screenshots Of Regretful Trump Supporters Complaining About Their Votes Are Going Super Viral",
-        "trend_score": 26.21,
+        "content_context": "Trump signs order putting Russia sanctions on hold, drawing bipartisan anger - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump signs order putting Russia sanctions on hold, drawing bipartisan anger；Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor；Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen。\n\nRelated coverage: Trump signs order putting Russia sanctions on hold, drawing bipartisan anger\n\nRelated coverage: Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor\n\nRelated coverage: Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen\n\nRelated coverage: Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy\n\nRelated coverage: Retiring Republicans bash Trump’s sanctions pullback",
+        "trend_score": 33.2,
         "trend_breakdown": {
-          "freshness": 0.58,
+          "freshness": 0.885,
           "engagement": 0.0,
-          "topic_overlap": 0.333,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Guardian",
-        "category": "news",
-        "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBLQ0Q5T3dsMXljX0NTM0JhN2lMMXBIUkFyb0RaN3FaQ1FNNTNMVGo4Zjd6Wk1uTkFpNnlKa3pZcVJtejJrMzdZODRzbDVpWTMzQTQtc3lSTjl4NmF4dUYxanJNclllNWU3b3ItQ1lvQTh6RXh1V2pKNUlJUFBVaUhpVm1MZ000TDRnUmFOUjh0clNkcllOVWVER182WXRaMzFEaXMxZHFNbGNnRWc?oc=5",
-        "published_at": "2026-10-16T15:39:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Starlink access still not fully restored for Ukraine’s military, says Zelenskyy；EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say；Senators Demand Investigation Into Ukraine Satellite Disruption。",
-        "related_headlines": [
-          "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-          "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say",
-          "Senators Demand Investigation Into Ukraine Satellite Disruption",
-          "Exclusive: Musk approached Trump to slow down Starlink in Ukraine",
-          "Trump Denies He or Musk Limited Ukraine's Satellite Service"
-        ],
-        "content_context": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Starlink access still not fully restored for Ukraine’s military, says Zelenskyy；EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say；Senators Demand Investigation Into Ukraine Satellite Disruption。\n\nRelated coverage: Starlink access still not fully restored for Ukraine’s military, says Zelenskyy\n\nRelated coverage: EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say\n\nRelated coverage: Senators Demand Investigation Into Ukraine Satellite Disruption\n\nRelated coverage: Exclusive: Musk approached Trump to slow down Starlink in Ukraine\n\nRelated coverage: Trump Denies He or Musk Limited Ukraine's Satellite Service",
-        "trend_score": 26.16,
-        "trend_breakdown": {
-          "freshness": 0.646,
-          "engagement": 0.0,
-          "topic_overlap": 0.182,
+          "topic_overlap": 0.083,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -845,23 +766,98 @@
       {
         "source": "Fox News",
         "category": "news",
-        "title": "Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnppMmVkaU5DTndSb1BkNU9HMEV3Umg4Smtvc1FmOENmQXJFSFdZendMMWdVTkU0bF9lU1JkNTZ4aHdOTElZRU05cnpxMlByWlRaazFubkVIbERNT2dmamRubllTVExfeU1LYmZpNC0yUjItaEpZNnIxRElScUszVHYzbEd6X2hQSXo5akdFelN1a0Jia1YyVDZIVnhWTEpfN083dFVpS2o2TmZQa2tSc2xmMmJFVWZQU0Q1a0FHWlnSAcYBQVVfeXFMT3JEbG1wbXB5VWtScmVObUFtbFhjVzhWQ203ZUQwdnFYT3YwV2N5QmIySGQxTU5EZktvZ0ZHYVIwRkc3NE44NGQzVk9GVlFPWThrZTNQR0VMVUVpeXo1X1p0eDZYOUNjMnplYU1qMnplTlJ2SzVhRGZTLW9LRlZtOGNyX0lVRVNueUtvTzdhYktFN2p1TlljemhDLXRPNlFPSVlBT1ZoTDRNenh5NEppLVI1VE5saFJrMHhsdW9jdmhydkphQUpn?oc=5",
-        "published_at": "2026-10-16T15:48:57+00:00",
-        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home；Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.；DHS Secretary Mullin calls Ilhan Omar probe a \"strong case,\" says agents executed multiple search warrants。",
+        "title": "Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHBhaFFtSWNuUnlBcEMzZnRMNU1tWW9XWU9WYkdMNTRiTGhhaUR0X3gyU19TVWFHeXl4ZHBoQ3Zxa1ctdWc1T1NMS0dMbGNmcm9qbE5kb25mVHBTdnpGM19KR3VpN0dMWlotWG40NEE2bjA3X184eTQ0aVE2RVhnYjJWVlliYkQ5Tzh0Z2hsVnRtY1RMRjRxcldSVmRKZUFxSHA2bHM2SGlNR3dDcnk5SzFQZkQ?oc=5",
+        "published_at": "2026-10-17T18:51:40+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Texas, Minnesota candidates fuel latest 2026 midterm election news；Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate；Buy SpaceX ahead of earnings, says Evercore ISI。",
         "related_headlines": [
-          "Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home",
-          "Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.",
-          "DHS Secretary Mullin calls Ilhan Omar probe a \"strong case,\" says agents executed multiple search warrants",
-          "US probes Omar's decades-old immigration paperwork with eye toward deportation, sources say",
-          "Exclusive | In New Letter, Ilhan Omar Fights Back Against Home Search"
+          "Texas, Minnesota candidates fuel latest 2026 midterm election news",
+          "Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate",
+          "Buy SpaceX ahead of earnings, says Evercore ISI",
+          "Republicans eye a potential opportunity in Minnesota in a tough midterm climate",
+          "Minnesota has signs of potential Democratic troubles in midterms"
         ],
-        "content_context": "Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home；Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.；DHS Secretary Mullin calls Ilhan Omar probe a \"strong case,\" says agents executed multiple search warrants。\n\nRelated coverage: Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home\n\nRelated coverage: Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.\n\nRelated coverage: DHS Secretary Mullin calls Ilhan Omar probe a \"strong case,\" says agents executed multiple search warrants\n\nRelated coverage: US probes Omar's decades-old immigration paperwork with eye toward deportation, sources say\n\nRelated coverage: Exclusive | In New Letter, Ilhan Omar Fights Back Against Home Search",
-        "trend_score": 25.5,
+        "content_context": "Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Texas, Minnesota candidates fuel latest 2026 midterm election news；Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate；Buy SpaceX ahead of earnings, says Evercore ISI。\n\nRelated coverage: Texas, Minnesota candidates fuel latest 2026 midterm election news\n\nRelated coverage: Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate\n\nRelated coverage: Buy SpaceX ahead of earnings, says Evercore ISI\n\nRelated coverage: Republicans eye a potential opportunity in Minnesota in a tough midterm climate\n\nRelated coverage: Minnesota has signs of potential Democratic troubles in midterms",
+        "trend_score": 31.89,
         "trend_breakdown": {
-          "freshness": 0.653,
+          "freshness": 0.797,
           "engagement": 0.0,
-          "topic_overlap": 0.125,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "PBS",
+        "category": "news",
+        "title": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms - PBS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzJPYWtKS25aZHE2ZFZEeC1tcXZvUGhpNHh4R3p2QXVCazJnV3BUYkxsQUdZZnY1dGdzaFZPSG5GT0dFRnFyRVF6T09MNy04YWwyVU5nT0Z4MjVzbWJUZnJpZFp3WFphNnpxQ3JwZmpWUlFHZXB0Qm5kWXZUeFRZZEJhWTUyQ3k2M003aWNsRXp0LWt4RWtWNUlYNWhtLUw0ZDQteFNCSkxYZ2I3YnVoemowemZadw?oc=5",
+        "published_at": "2026-10-17T18:26:29+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms；New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote；Hundreds at Dallas No Kings rally urged to carry concerns to ballot box。",
+        "related_headlines": [
+          "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms",
+          "New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote",
+          "Hundreds at Dallas No Kings rally urged to carry concerns to ballot box",
+          "No Kings turns its focus to voting this weekend. Here's what we know",
+          "Photos show No Kings rallies across America"
+        ],
+        "content_context": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms；New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote；Hundreds at Dallas No Kings rally urged to carry concerns to ballot box。\n\nRelated coverage: No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms\n\nRelated coverage: New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote\n\nRelated coverage: Hundreds at Dallas No Kings rally urged to carry concerns to ballot box\n\nRelated coverage: No Kings turns its focus to voting this weekend. Here's what we know\n\nRelated coverage: Photos show No Kings rallies across America",
+        "trend_score": 29.51,
+        "trend_breakdown": {
+          "freshness": 0.779,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Fast-moving California wildfire burns homes as people are ordered to leave - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQnpkeHh1U2lVU0NmaXZGZG5fVlRhOHFHcUx5QjRQWk12dEpjQnl2RXlQQVIxQV82ZklHSVFHM0pQRUJWN0RlMlFPY1VkYVBmY2tGSUxTb18teWM?oc=5",
+        "published_at": "2026-10-17T19:13:21+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fast-moving California wildfire burns homes as people are ordered to leave；Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal；‘All I could see was flames’: Norte fire hollows out Orange County homes。",
+        "related_headlines": [
+          "Fast-moving California wildfire burns homes as people are ordered to leave",
+          "Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal",
+          "‘All I could see was flames’: Norte fire hollows out Orange County homes",
+          "Several wildfires burning in Southern California on Saturday",
+          "New wildfire in Southern California explodes in size, burning multiple homes"
+        ],
+        "content_context": "Fast-moving California wildfire burns homes as people are ordered to leave - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fast-moving California wildfire burns homes as people are ordered to leave；Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal；‘All I could see was flames’: Norte fire hollows out Orange County homes。\n\nRelated coverage: Fast-moving California wildfire burns homes as people are ordered to leave\n\nRelated coverage: Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal\n\nRelated coverage: ‘All I could see was flames’: Norte fire hollows out Orange County homes\n\nRelated coverage: Several wildfires burning in Southern California on Saturday\n\nRelated coverage: New wildfire in Southern California explodes in size, burning multiple homes",
+        "trend_score": 29.23,
+        "trend_breakdown": {
+          "freshness": 0.812,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Axios",
+        "category": "news",
+        "title": "Katie Zacharia ousted as White House press secretary - Axios",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLYlR1VXU5QWVxeF92dllTUENoLVI5REV2REVCMjJTRlpueEcyeWVzNzdUejJZWWE3QU1HZTFiUjZ0VHlWU01BcnFUS2ktclE1WWlQaktaTlJZS0ZBVmZjMExjdFNuNUNHdjFBamVmTU4zbGtaTXhNdw?oc=5",
+        "published_at": "2026-10-17T10:09:19+00:00",
+        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Katie Zacharia ousted as White House press secretary；A Five-Day Tour for Katie Zacharia；Zacharia posts altered photos of Trump’s Oval Office desk。",
+        "related_headlines": [
+          "Katie Zacharia ousted as White House press secretary",
+          "A Five-Day Tour for Katie Zacharia",
+          "Zacharia posts altered photos of Trump’s Oval Office desk",
+          "Susie Wiles helped set up Fox interview ahead of press secretary’s exit",
+          "Why Trump decided to fire Katie Zacharia as press secretary after just five days: ‘Did anyone vet her?’ | CNN Politics"
+        ],
+        "content_context": "Katie Zacharia ousted as White House press secretary - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：Katie Zacharia ousted as White House press secretary；A Five-Day Tour for Katie Zacharia；Zacharia posts altered photos of Trump’s Oval Office desk。\n\nRelated coverage: Katie Zacharia ousted as White House press secretary\n\nRelated coverage: A Five-Day Tour for Katie Zacharia\n\nRelated coverage: Zacharia posts altered photos of Trump’s Oval Office desk\n\nRelated coverage: Susie Wiles helped set up Fox interview ahead of press secretary’s exit\n\nRelated coverage: Why Trump decided to fire Katie Zacharia as press secretary after just five days: ‘Did anyone vet her?’ | CNN Politics",
+        "trend_score": 15.63,
+        "trend_breakdown": {
+          "freshness": 0.434,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -873,15 +869,47 @@
     {
       "source": "github-trending",
       "category": "github_trending",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "author": "anthropics",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
+      "language": "TypeScript",
+      "score": 168,
+      "comment_count": 26877,
+      "total_stars": 151713,
+      "built_by": [
+        "actions-user",
+        "poteat",
+        "claude",
+        "bcherny",
+        "ant-kurt"
+      ],
+      "content_context": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\n\nLanguage: TypeScript\n\nStars today: 168\n\nTotal stars: 151713\n\nBuilt by: actions-user, poteat, claude, bcherny, ant-kurt",
+      "trend_score": 103.01,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.854,
+        "topic_overlap": 1.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "author": "anthropics",
       "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
       "language": "Python",
-      "score": 1552,
-      "comment_count": 4401,
-      "total_stars": 40524,
+      "score": 1383,
+      "comment_count": 4462,
+      "total_stars": 41711,
       "built_by": [
         "github-actions",
         "jordanecker-ant",
@@ -889,12 +917,12 @@
         "claude",
         "mhegazy"
       ],
-      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 1552\n\nTotal stars: 40524\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mhegazy",
-      "trend_score": 88.79,
+      "content_context": "Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\nLanguage: Python\n\nStars today: 1383\n\nTotal stars: 41711\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mhegazy",
+      "trend_score": 93.78,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.908,
-        "topic_overlap": 0.25,
+        "engagement": 0.897,
+        "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -909,11 +937,11 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "author": "K-Dense-AI",
       "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
       "language": "Python",
-      "score": 1158,
-      "comment_count": 4560,
-      "total_stars": 51485,
+      "score": 879,
+      "comment_count": 4624,
+      "total_stars": 52227,
       "built_by": [
         "timothykassis",
         "cursoragent",
@@ -921,43 +949,11 @@
         "github-actions",
         "claude"
       ],
-      "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 1158\n\nTotal stars: 51485\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
-      "trend_score": 88.14,
+      "content_context": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\nLanguage: Python\n\nStars today: 879\n\nTotal stars: 52227\n\nBuilt by: timothykassis, cursoragent, borealBytes, github-actions, claude",
+      "trend_score": 92.75,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.891,
-        "topic_overlap": 0.25,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "author": "cursor",
-      "summary": "Cursor plugin specification and official plugins",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
-      "language": "TypeScript",
-      "score": 278,
-      "comment_count": 1161,
-      "total_stars": 11941,
-      "built_by": [
-        "cursoragent",
-        "poteto",
-        "minupalaniappan",
-        "ericzakariasson",
-        "roshansada"
-      ],
-      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 278\n\nTotal stars: 11941\n\nBuilt by: cursoragent, poteto, minupalaniappan, ericzakariasson, roshansada",
-      "trend_score": 87.39,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.729,
+        "engagement": 0.87,
         "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -973,11 +969,11 @@
       "url": "https://github.com/affaan-m/ECC",
       "author": "affaan-m",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
       "language": "JavaScript",
-      "score": 1057,
-      "comment_count": 41849,
-      "total_stars": 281489,
+      "score": 1145,
+      "comment_count": 41982,
+      "total_stars": 282470,
       "built_by": [
         "affaan-m",
         "haelyra",
@@ -985,106 +981,11 @@
         "montjeffrey",
         "dependabot"
       ],
-      "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1057\n\nTotal stars: 281489\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
-      "trend_score": 86.84,
+      "content_context": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\nLanguage: JavaScript\n\nStars today: 1145\n\nTotal stars: 282470\n\nBuilt by: affaan-m, haelyra, claude, montjeffrey, dependabot",
+      "trend_score": 86.85,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 1.0,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "author": "obra",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
-      "language": "Shell",
-      "score": 973,
-      "comment_count": 26844,
-      "total_stars": 300677,
-      "built_by": [
-        "obra",
-        "arittr",
-        "claude",
-        "clkao",
-        "gaurav0107"
-      ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 973\n\nTotal stars: 300677\n\nBuilt by: obra, arittr, claude, clkao, gaurav0107",
-      "trend_score": 85.77,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.972,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "author": "debpalash",
-      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
-      "language": "Python",
-      "score": 2301,
-      "comment_count": 7780,
-      "total_stars": 71149,
-      "built_by": [
-        "debpalash",
-        "claude",
-        "velixio",
-        "kevin9327",
-        "jaketame"
-      ],
-      "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 2301\n\nTotal stars: 71149\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
-      "trend_score": 85.45,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.963,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "author": "ruvnet",
-      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
-      "language": "TypeScript",
-      "score": 672,
-      "comment_count": 8966,
-      "total_stars": 75624,
-      "built_by": [
-        "ruvnet",
-        "claude",
-        "rudycelekli",
-        "proffesor-for-testing"
-      ],
-      "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 672\n\nTotal stars: 75624\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
-      "trend_score": 82.71,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.891,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1100,11 +1001,11 @@
       "url": "https://github.com/android/skills",
       "author": "android",
       "summary": null,
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
       "language": "Kotlin",
-      "score": 36,
-      "comment_count": 535,
-      "total_stars": 8060,
+      "score": 368,
+      "comment_count": 554,
+      "total_stars": 8410,
       "built_by": [
         "android-devrel-github-bot",
         "simona-anomis",
@@ -1112,12 +1013,108 @@
         "bentrengrove",
         "vinishavathwani"
       ],
-      "content_context": "Language: Kotlin\n\nStars today: 36\n\nTotal stars: 8060\n\nBuilt by: android-devrel-github-bot, simona-anomis, JoseAlcerreca, bentrengrove, vinishavathwani",
-      "trend_score": 80.91,
+      "content_context": "Language: Kotlin\n\nStars today: 368\n\nTotal stars: 8410\n\nBuilt by: android-devrel-github-bot, simona-anomis, JoseAlcerreca, bentrengrove, vinishavathwani",
+      "trend_score": 86.48,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.558,
+        "engagement": 0.705,
         "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "author": "MadsLorentzen",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
+      "language": "Python",
+      "score": 1397,
+      "comment_count": 16923,
+      "total_stars": 50337,
+      "built_by": [
+        "claude",
+        "MadsLorentzen",
+        "ayobamiseun",
+        "oscarbol09",
+        "jakob1379"
+      ],
+      "content_context": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nLanguage: Python\n\nStars today: 1397\n\nTotal stars: 50337\n\nBuilt by: claude, MadsLorentzen, ayobamiseun, oscarbol09, jakob1379",
+      "trend_score": 85.56,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.966,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "author": "debpalash",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
+      "language": "Python",
+      "score": 2135,
+      "comment_count": 8018,
+      "total_stars": 73278,
+      "built_by": [
+        "debpalash",
+        "claude",
+        "velixio",
+        "kevin9327",
+        "jaketame"
+      ],
+      "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 2135\n\nTotal stars: 73278\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+      "trend_score": 85.13,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.955,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "author": "stablyai",
+      "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
+      "language": "TypeScript",
+      "score": 829,
+      "comment_count": 6109,
+      "total_stars": 95377,
+      "built_by": [
+        "nwparker",
+        "brennanb2025",
+        "AmethystLiang",
+        "Jinwoo-H",
+        "orca-ide"
+      ],
+      "content_context": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\nLanguage: TypeScript\n\nStars today: 829\n\nTotal stars: 95377\n\nBuilt by: nwparker, brennanb2025, AmethystLiang, Jinwoo-H, orca-ide",
+      "trend_score": 82.29,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.88,
+        "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -1132,11 +1129,11 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "author": "HKUDS",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
       "language": "Python",
-      "score": 281,
-      "comment_count": 4845,
-      "total_stars": 53485,
+      "score": 580,
+      "comment_count": 4904,
+      "total_stars": 54040,
       "built_by": [
         "yuh-yang",
         "claude",
@@ -1144,11 +1141,11 @@
         "omerarslan0",
         "hito0512"
       ],
-      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 281\n\nTotal stars: 53485\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-      "trend_score": 79.36,
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 580\n\nTotal stars: 54040\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 80.99,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.803,
+        "engagement": 0.846,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1160,27 +1157,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "author": "mksglu",
-      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "published_at": "2026-10-17T00:08:58.700880+00:00",
-      "language": "TypeScript",
-      "score": 449,
-      "comment_count": 2125,
-      "total_stars": 30221,
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "author": "akitaonrails",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "published_at": "2026-10-17T23:44:08.269699+00:00",
+      "language": "Rust",
+      "score": 208,
+      "comment_count": 715,
+      "total_stars": 9906,
       "built_by": [
-        "mksglu",
-        "github-actions",
+        "akitaonrails",
         "claude",
-        "ipedro",
-        "ousamabenyounes"
+        "djalmajr",
+        "viniciusdsandrade",
+        "everton-dgn"
       ],
-      "content_context": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\nLanguage: TypeScript\n\nStars today: 449\n\nTotal stars: 30221\n\nBuilt by: mksglu, github-actions, claude, ipedro, ousamabenyounes",
-      "trend_score": 78.89,
+      "content_context": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\nLanguage: Rust\n\nStars today: 208\n\nTotal stars: 9906\n\nBuilt by: akitaonrails, claude, djalmajr, viniciusdsandrade, everton-dgn",
+      "trend_score": 74.74,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.791,
+        "engagement": 0.681,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1192,304 +1189,313 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "He Joined the Military. They Reported His Wife to ICE",
-      "url": "https://www.theatlantic.com/politics/2026/10/army-wife-ice-deportation-texas/689012/",
-      "author": "Elefante",
+      "title": "Does code quality still matter when AI writes the code?",
+      "url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+      "author": "nathan_f77",
       "score": 2,
-      "comment_count": 1,
-      "published_at": "2026-10-16T23:36:01+00:00",
-      "summary": "is there a non-paywall link?",
+      "comment_count": 2,
+      "published_at": "2026-10-17T23:33:53+00:00",
+      "summary": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.",
       "comment_highlights": [
-        "is there a non-paywall link?"
+        "Define: Quality.<p>If you mean, readability, that's different from Defect-free software. Or software that meets requirements.<p>Which do you mean?"
       ],
-      "linked_context": {},
-      "content_context": "HN comment: is there a non-paywall link?",
-      "trend_score": 50.65,
-      "trend_breakdown": {
-        "freshness": 0.977,
-        "engagement": 0.107,
-        "topic_overlap": 0.429,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Things to Do API",
-      "url": "https://thingstodoapi.com/",
-      "author": "invalidmonk",
-      "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-10-16T23:58:34+00:00",
-      "summary": "Fast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.",
-      "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://thingstodoapi.com/",
-        "page_title": "Things To Do API",
-        "page_description": "Fast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.",
-        "page_excerpt": "The knowledge base for shows, talks, pop-ups, markets, festivals, and more."
+        "resolved_url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+        "page_title": "Does code quality still matter when AI writes the code?",
+        "page_description": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.",
+        "page_excerpt": "I can ask Claude Code or Codex to investigate parts of DocSpring that I would struggle to keep in my head at once. They often find problems faster than I can. That has changed how I think about a codebase we've spent more than nine years building.\n\nI've been seeing versions of this argument on X: if an agent can understand and change complicated code, perhaps technical debt matters much less now. Why spend time refactoring something a model can already work through?\n\nI wanted to test that against our own experience. As a small team, we've tried to write clear code and useful tests while keeping DocSpring moving. AI has expanded how much of the application we can investigate and improve. It also gives us a long list of possible improvements, each of which still needs review and testing."
       },
-      "content_context": "I built an api/mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.<p>I've been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls / web search, but slow.<p>you can scrape on demand too, but i wanted a faster data set and couldn't find an existing provider for the mix of event types I was searching for.<p>the methodology for it is to find influential accounts/posters/etc. and do a fan out across things that they co-post with.<p>mcp: `claude mcp add --transport http thingstodo <a href=\"https://api.thingstodoapi.com/mcp\" rel=\"nofollow\">https://api.thingstodoapi.com/mcp</a>`<p>I'm considering adding other cities. If you're building something that needs local event data, would something like this be useful and where would you want coverage?\n\nFast, accurate, localized events API for agentic applications: every show, concert, pop-up, market and party as JSON, over REST or MCP. Free to start.\n\nThe knowledge base for shows, talks, pop-ups, markets, festivals, and more.",
-      "trend_score": 48.44,
+      "content_context": "We reviewed recent agent-assisted work on DocSpring and replayed specific failures. The most useful improvements made behavior easier to find and harder to accidentally change.\n\nI can ask Claude Code or Codex to investigate parts of DocSpring that I would struggle to keep in my head at once. They often find problems faster than I can. That has changed how I think about a codebase we've spent more than nine years building. I've been seeing versions of this argument on X: if an agent can understand and change complicated code, perhaps technical debt matters much less now. Why spend time refactoring something a model can already work through? I wanted to test that against our own experience. As a small team, we've tried to write clear code and useful tests while keeping DocSpring moving. AI has expanded how much of the application we can investigate and improve. It also gives us a long list of possible improvements, each of which still needs review and testing.\n\nHN comment: Define: Quality.<p>If you mean, readability, that's different from Defect-free software. Or software that meets requirements.<p>Which do you mean?",
+      "trend_score": 55.71,
       "trend_breakdown": {
         "freshness": 0.993,
-        "engagement": 0.071,
-        "topic_overlap": 0.333,
+        "engagement": 0.127,
+        "topic_overlap": 0.167,
         "source_weight": 0.9,
-        "domain_weight": 1.0
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     },
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Meta confirms smart glasses were recording without being activated",
-      "url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
-      "author": "greenchair",
-      "score": 6,
-      "comment_count": 1,
-      "published_at": "2026-10-16T23:36:27+00:00",
-      "summary": "The company has since fixed the issue.",
-      "comment_highlights": [
-        "> ...videos recorded by Meta smart glasses were being sent to offshore Meta workers in Kenya for data labeling used to train AI models. These videos included disturbing clips and intimate moments including bathroom footage of users who likely did not realize that their recordings were being viewe..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
-        "page_title": "Meta confirms smart glasses were recording without being activated",
-        "page_description": "The company has since fixed the issue.",
-        "page_excerpt": "Yet another major privacy issue has hit a Meta-owned company.\n\nThis time it's a Meta product that certainly could not afford to have any privacy issues: Meta Ray-Ban smart glasses.\n\nAccording to numerous reports from users, Meta's smart glasses have been making audio recordings of their conversations without the user's permission."
-      },
-      "content_context": "The company has since fixed the issue.\n\nYet another major privacy issue has hit a Meta-owned company. This time it's a Meta product that certainly could not afford to have any privacy issues: Meta Ray-Ban smart glasses. According to numerous reports from users, Meta's smart glasses have been making audio recordings of their conversations without the user's permission.\n\nHN comment: > ...videos recorded by Meta smart glasses were being sent to offshore Meta workers in Kenya for data labeling used to train AI models. These videos included disturbing clips and intimate moments including bathroom footage of users who likely did not realize that their recordings were being viewe...",
-      "trend_score": 44.67,
-      "trend_breakdown": {
-        "freshness": 0.977,
-        "engagement": 0.162,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Bleached corals thrive within days",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "author": "alkyon",
+      "title": "Open Math Model: The OS for collaborative math research and scientific computing",
+      "url": "https://www.openmathmodel.org/",
+      "author": "JohnHammersley",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-10-16T23:38:27+00:00",
-      "summary": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
+      "published_at": "2026-10-17T23:37:29+00:00",
+      "summary": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.nature.com/articles/d41586-026-03266-x",
-        "page_title": "‘Incredible’: bleached corals thrive within days when touching healthy neighbour",
-        "page_description": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
-        "page_excerpt": "This video shows a bleached coral fragment brought back to health within weeks through fusion with a vibrant fragment from the same individual. Credit: Danny Collins\n\nScientists have rapidly restored bleached coral in a laboratory by placing it in contact with a healthy fragment, giving hope for reversing widespread coral decline.\n\nRising sea temperatures are stressing corals, causing the animals to expel the symbiotic algae that live in their tissues and give them their colour — a process known as bleaching. Because the photosynthetic algae (Symbiodiniaceae) provide corals with most of their nutrients, without them, the marine organisms are likely to starve and die."
+        "resolved_url": "https://www.openmathmodel.org/",
+        "page_title": "Open Math OS | Collaborative Math Research & Scientific Computing",
+        "page_description": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.",
+        "page_excerpt": "Built on open frontier models, with the mathematical community in control of its data.\n\nIs 1 + 3 + ⋯ + (2n − 1) always a perfect square? Check it, prove it in Lean, and add it to the paper.\n\nYes—the first n odd numbers sum to n². The Lean proof and the write-up are ready for your review."
       },
-      "content_context": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.\n\nThis video shows a bleached coral fragment brought back to health within weeks through fusion with a vibrant fragment from the same individual. Credit: Danny Collins Scientists have rapidly restored bleached coral in a laboratory by placing it in contact with a healthy fragment, giving hope for reversing widespread coral decline. Rising sea temperatures are stressing corals, causing the animals to expel the symbiotic algae that live in their tissues and give them their colour — a process known as bleaching. Because the photosynthetic algae (Symbiodiniaceae) provide corals with most of their nutrients, without them, the marine organisms are likely to starve and die.",
-      "trend_score": 44.65,
+      "content_context": "Open Math OS brings open AI models, scientific computing, and collaboration into one research workspace, with the mathematical community in control of its data.\n\nBuilt on open frontier models, with the mathematical community in control of its data. Is 1 + 3 + ⋯ + (2n − 1) always a perfect square? Check it, prove it in Lean, and add it to the paper. Yes—the first n odd numbers sum to n². The Lean proof and the write-up are ready for your review.",
+      "trend_score": 55.29,
       "trend_breakdown": {
-        "freshness": 0.979,
+        "freshness": 0.995,
         "engagement": 0.045,
-        "topic_overlap": 0.2,
+        "topic_overlap": 0.286,
         "source_weight": 0.9,
-        "domain_weight": 1.0
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     },
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "url": "https://fakeipedia.org",
-      "author": "darajava",
-      "score": 1,
+      "title": "A retired Penn professor has been blocking Uber Eats robots",
+      "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+      "author": "johnnyApplePRNG",
+      "score": 6,
       "comment_count": 0,
-      "published_at": "2026-10-16T23:52:04+00:00",
-      "summary": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.",
+      "published_at": "2026-10-17T23:31:48+00:00",
+      "summary": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://fakeipedia.org/",
-        "page_title": "Fakeipedia — Choose a Wiki",
-        "page_description": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.",
-        "page_excerpt": "An encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.\n\nSince a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain.\n\nSince 1982, humans have shared their cities, courts, and kitchens with millions of gossipy, litigious, unionized animals."
+        "resolved_url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l",
+        "page_title": "A retired Penn professor has been blocking Uber Eats robots for months. This week, she got arrested for it",
+        "page_description": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.",
+        "page_excerpt": "Retired Penn professor Carolyn Marvin has been blocking Uber Eats robots on delivery runs for months. She was arrested Wednesday for disorderly conduct, but contends she is lawfully protesting.\n\nOn Wednesday afternoon, Carolyn Marvin was leaving her flu shot appointment when she spotted an Uber Eats robot rolling down the Center City sidewalk. So she did what she has done for months whenever she's had the time: stand in front of it.\n\nMarvin, 78, said she's not sure how many times she's blocked the path of these robots, which hit the streets of Philadelphia in March . The University of Pennsylvania professor emeritus has made a practice of it to protest \"corporations that displace human delivery workers in order to enrich their own bottom line.\" Her past encounters have circulated online . The Wednesday incident was the firs..."
       },
-      "content_context": "Hi HN!<p>Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.<p>I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.<p>If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.<p>I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.\n\nAn encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality.\n\nAn encyclopedia of different worlds. Explore the histories, people, and peculiarities of an alternate reality. Since a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain. Since 1982, humans have shared their cities, courts, and kitchens with millions of gossipy, litigious, unionized animals.",
-      "trend_score": 44.43,
+      "content_context": "Carolyn Marvin, 78, said she is exercising her First Amendment right to protest — and will do it again.\n\nRetired Penn professor Carolyn Marvin has been blocking Uber Eats robots on delivery runs for months. She was arrested Wednesday for disorderly conduct, but contends she is lawfully protesting. On Wednesday afternoon, Carolyn Marvin was leaving her flu shot appointment when she spotted an Uber Eats robot rolling down the Center City sidewalk. So she did what she has done for months whenever she's had the time: stand in front of it. Marvin, 78, said she's not sure how many times she's blocked the path of these robots, which hit the streets of Philadelphia in March . The University of Pennsylvania professor emeritus has made a practice of it to protest \"corporations that displace human delivery workers in order to enrich their own bottom line.\" Her past encounters have circulated online . The Wednesday incident was the firs...",
+      "trend_score": 54.39,
       "trend_breakdown": {
-        "freshness": 0.988,
+        "freshness": 0.991,
+        "engagement": 0.125,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
+      "author": "cybermango",
+      "score": 3,
+      "comment_count": 1,
+      "published_at": "2026-10-17T23:33:37+00:00",
+      "summary": "<a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>",
+      "comment_highlights": [
+        "<a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: <a href=\"https://archive.vn/av7li\" rel=\"nofollow\">https://archive.vn/av7li</a>",
+      "trend_score": 52.87,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.125,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Serve Nix closures to k8s pods",
+      "url": "https://github.com/Kranzes/nix-store-csi",
+      "author": "kranzes",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-17T23:24:52+00:00",
+      "summary": "Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/Kranzes/nix-store-csi",
+        "page_title": "GitHub - Kranzes/nix-store-csi: Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes",
+        "page_description": "Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi",
+        "page_excerpt": "nix-store-csi mounts Nix store paths in Kubernetes pods. A pod lists store paths in an inline volume. The plugin fetches their closure from binary caches into a store shared by the node, then mounts a view holding only that closure at the pod's /nix/store . Pods can run in the runner image, which holds tini, or in any other image.\n\nnix-store-csi unpack fills a store the way the plugin does, so you can try it with podman:\n\nnix-snapshotter also runs Nix store paths in Kubernetes, as a containerd snapshotter that mounts them as image layers. nix-store-csi mounts them as a volume instead:"
+      },
+      "content_context": "I’ve been working on a Nix CSI for kubernetes since NixCon when I realized that everyone seems to working towards killing OCI layers (and images) in Kubernetes deployments.<p>I’m hoping to get people to give it a spin and report back to me bugs, feature requests or general feedback. I don’t have a lot of data on how this scales and that makes it hard to decide whether to justify adding a feature or not (e.g. cache locality scheduling).<p>An LLM was used in the development of this project.\n\nServes Nix store closures from binary caches to Kubernetes pods as CSI volumes - Kranzes/nix-store-csi\n\nnix-store-csi mounts Nix store paths in Kubernetes pods. A pod lists store paths in an inline volume. The plugin fetches their closure from binary caches into a store shared by the node, then mounts a view holding only that closure at the pod's /nix/store . Pods can run in the runner image, which holds tini, or in any other image. nix-store-csi unpack fills a store the way the plugin does, so you can try it with podman: nix-snapshotter also runs Nix store paths in Kubernetes, as a containerd snapshotter that mounts them as image layers. nix-store-csi mounts them as a volume instead:",
+      "trend_score": 52.34,
+      "trend_breakdown": {
+        "freshness": 0.987,
         "engagement": 0.045,
         "topic_overlap": 0.167,
         "source_weight": 0.9,
-        "domain_weight": 1.0
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     }
   ],
   "notes": [
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域热点聚焦于开源生态与智能体框架的蓬勃发展。GitHub趋势榜上，Anthropic推出官方Claude插件目录，旨在系统化构建开发者生态；多个智能体框架项目如'superpowers'、'ruflo'、'ECC'热度飙升，反映了社区对模块化、高性能AI代理开发工具的强烈需求。同时，VoiceStudio作为完全本地化的语音AI替代方案获得广泛关注，展现了开源社区在降低技术门槛与保护数据隐私方面的积极进展。",
+    "overview": "今日AI领域热点高度聚焦于开发者工具与开源生态的蓬勃发展。Anthropic引领潮流，其开源的Claude Code终端智能编码工具及官方Claude插件目录均登上GitHub趋势榜，标志着AI编程助手正从通用对话向深度集成、上下文感知的“智能体”角色演进。同时，多个围绕AI智能体性能优化（如ECC）、垂直应用（如AI求职助手ai-job-search）及本地化替代方案（如语音工具VoiceStudio）的开源项目也获得爆炸性关注，反映出社区正积极将大模型能力工程化为具体、可部署的解决方案，以提升效率并降低使用门槛。",
     "named_hotspots": [
       {
-        "name": "Claude 插件官方目录",
+        "name": "Claude Code",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Anthropic 在 GitHub 上推出了一个官方管理的 Claude 代码插件目录，该项目迅速登上趋势榜。",
-        "core_details": "该项目是 Anthropic 官方维护的高质量 Claude 代码插件目录，主要编程语言为 Python。发布当日即获得 1552 颗星，总星数已达 40524，显示出极高的社区关注度。",
-        "ai_take": "此举标志着 Anthropic 正在系统化地构建 Claude 的开发者生态。通过官方认证和集中管理插件，旨在提升 Claude 作为开发工具的可扩展性、安全性和用户体验，与 GitHub Copilot 等竞品在生态建设上展开竞争。",
-        "hype_check": "高。项目发布首日即获得大量关注（日增星数 1552），总星数超 4 万，表明开发者社区对 Claude 扩展能力抱有强烈兴趣和期待。",
-        "value_check": "高。官方目录为开发者提供了经过审核的高质量插件资源，降低了集成风险，有助于加速 Claude 在代码生成、调试等场景的应用落地和生态繁荣。",
-        "follow_up": "关注该目录中具体插件的功能、使用量以及开发者社区的反馈，观察 Anthropic 是否会围绕此目录推出更完善的插件开发、分发和盈利机制。",
-        "evidence": "项目描述明确指出为“Anthropic官方管理的高质量Claude代码插件目录”，GitHub趋势数据（日增星数1552，总星数40524）证实了其热度。"
+        "what_happened": "Anthropic在GitHub上开源的Claude Code项目成为趋势，这是一个基于终端的智能编码工具。",
+        "core_details": "Claude Code是一个代理式编码工具，它驻留在终端中，能够理解用户的代码库。它通过自然语言命令帮助开发者执行常规任务、解释复杂代码以及处理Git工作流，旨在提升编码速度。该项目使用TypeScript语言开发，今日新增168颗星，总星数已达151,713。",
+        "ai_take": "该项目将大型语言模型（如Claude）的能力直接集成到开发者的核心工作环境（终端）中，代表了AI辅助编程从聊天界面向深度集成、上下文感知的工具演进的重要一步。它强调对现有代码库的理解和通过自然语言执行具体操作，是AI向“智能体”或“副驾驶”角色发展的体现。",
+        "hype_check": "热度较高。项目由知名AI公司Anthropic发布，且总星数已超15万，表明其已获得开发者社区的广泛关注和认可。登上GitHub趋势榜进一步印证了其当前受关注度。",
+        "value_check": "潜在价值显著。对于开发者而言，它有望将自然语言交互深度融入开发生命周期，简化重复性任务和代码理解过程，可能实质性提升开发效率与体验。其开源性质也有利于社区共建和生态扩展。",
+        "follow_up": "关注其在实际开发环境中的稳定性和准确性表现，以及社区围绕其构建的插件或扩展生态。同时，可对比观察其他类似终端AI编码工具（如Cursor、Windsurf等）的发展。",
+        "evidence": "信息来源于GitHub趋势页面，项目描述明确指出其功能为“代理式编码工具”、“理解代码库”、“通过自然语言命令执行任务”。项目由Anthropic官方账号发布，数据指标（星数、趋势分数）客观可查。"
       },
       {
-        "name": "scientific-agent-skills",
+        "name": "Claude 官方插件目录",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "GitHub 开源项目 'scientific-agent-skills' 今日获得 1158 颗星，总星数达 51485，在趋势榜上热度较高。该项目旨在将任何 AI 智能体转变为 AI 科学家。",
-        "core_details": "该项目是一个面向科学领域的智能体技能库，自称被全球超过 25 万名科学家使用。它提供了 177 个经过验证的即用型技能，并集成了 100 多个涵盖生物学、化学、医学和药物发现领域的科学数据库。项目使用 Python 语言开发，兼容 Cursor、Claude Code、Codex、Pi、Antigravity 等多种 AI 编码工具和开放的 Agent Skills 标准。",
-        "ai_take": "该项目通过提供结构化的科学技能和数据库接口，降低了构建专业科学 AI 智能体的门槛，可能推动 AI 在科研自动化、数据分析和跨学科发现中的应用。",
-        "hype_check": "项目声称拥有大量用户和技能，在 GitHub 上确实获得了极高的关注度（超 5 万星），表明社区需求旺盛。但“#1”和“25万+科学家”等表述需要独立验证。",
-        "value_check": "核心价值在于整合了大量科学领域的专业知识和数据源，为开发者提供了一个现成的、可扩展的工具包，有望提升科研效率和 AI 智能体在专业领域的实用性。",
-        "follow_up": "关注其技能库的更新频率、与更多 AI 平台/框架的集成进展，以及在实际科研项目中的应用案例和效果评估。",
-        "evidence": "项目描述、GitHub 星数趋势（今日+1158，总计 51485）、兼容平台列表以及声明的技能和数据库数量构成了主要依据。"
+        "what_happened": "Anthropic 在 GitHub 上推出了一个官方托管的 Claude 代码插件目录，该项目今日获得大量关注，登上趋势榜。",
+        "core_details": "该项目是 Anthropic 官方维护的高质量 Claude 代码插件集合，主要编程语言为 Python。项目今日新增 1383 颗星，总星数已达 41711，显示出极高的社区热度。",
+        "ai_take": "此举标志着 Anthropic 正在系统化地构建 Claude 的开发者生态。通过官方认证和集中管理插件，旨在提升 Claude 作为开发工具的可扩展性、安全性和易用性，巩固其在 AI 编程助手领域的竞争力。",
+        "hype_check": "热度极高。项目单日获星超千颗，总星数庞大，且由官方直接推动，表明市场对 Claude 生态扩展有强烈期待和信心。",
+        "value_check": "价值明确。为开发者提供了经过审核的高质量插件资源，降低了集成与使用门槛，有助于加速 Claude 在代码生成、调试等场景的实际应用与创新。",
+        "follow_up": "关注该目录中具体插件的功能、使用数据以及 Anthropic 后续是否会推出更完善的插件开发、分发与商业支持体系。",
+        "evidence": "项目在 GitHub 趋势榜排名靠前（趋势分 93.78），由官方账号 ‘anthropics’ 发布，今日星数增长显著，总星数已超 4 万，证明其受关注程度。"
       },
       {
-        "name": "Cursor插件",
+        "name": "K-Dense-AI/scientific-agent-skills",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Cursor的插件规范及官方插件库在GitHub上成为热门项目，单日获星278个，总星数达11941。",
-        "core_details": "该项目由cursoragent、poteto、minupalaniappan、ericzakariasson、roshansada等开发者构建，使用TypeScript语言编写，提供了Cursor插件的开发规范及一系列官方插件。",
-        "ai_take": "该项目展示了AI代码编辑器Cursor正在构建一个开放的插件生态系统，通过标准化规范降低开发门槛，鼓励社区贡献，以扩展其核心的AI辅助编程能力。",
-        "hype_check": "热度较高（趋势分87.39），表明开发者社区对增强Cursor这类AI编程工具的功能有持续兴趣和参与热情。",
-        "value_check": "为Cursor用户和开发者提供了明确的插件开发指南和可靠的基础插件，有助于提升开发效率并丰富编辑器功能，具有明确的实用价值。",
-        "follow_up": "关注该仓库的更新，以了解新官方插件的发布及插件规范的演进；社区开发者可基于此规范创建第三方插件。",
-        "evidence": "项目在GitHub Trending上榜，单日获星278，总星数11941，语言为TypeScript，由多位贡献者维护。"
+        "source": "github-trending",
+        "what_happened": "K-Dense-AI在GitHub上发布了一个名为'scientific-agent-skills'的开源项目，旨在将任何AI智能体转化为AI科学家。该项目已成为科学领域排名第一的智能体技能库，被全球超过25万名科学家使用。",
+        "core_details": "该项目提供了177个经过验证的即用型技能和覆盖生物学、化学、医学及药物发现等领域的100多个科学数据库。它兼容多种AI开发工具，包括Cursor、Claude Code、Codex、Pi、Antigravity，并遵循开放的Agent Skills标准。项目采用Python语言开发，目前在GitHub上已获得52227颗星，今日新增879颗星，显示出极高的关注度。",
+        "ai_take": "该项目通过标准化、模块化的技能库，显著降低了构建科学AI智能体的门槛，有望加速AI在科研领域的应用渗透，特别是在药物发现和跨学科研究中提升效率。",
+        "hype_check": "高热度合理，因为项目直接针对科研AI的痛点（数据访问和技能集成），且用户基数（25万+科学家）和GitHub星数（超5.2万）证明了其实际影响力，但需注意其技能库的领域覆盖深度可能因学科而异。",
+        "value_check": "核心价值在于整合了大量经过验证的科学数据库和技能，减少了重复开发工作；开源和兼容多平台增强了可扩展性；但对非英语或特定区域科学数据的支持未明确提及，可能影响全球化适用性。",
+        "follow_up": "关注其技能库的更新频率、新增数据库领域（如材料科学或气候研究），以及是否与大型科研机构（如CERN或NIH）建立合作，以评估其长期生态建设。",
+        "evidence": "项目描述中明确提到'250,000+ scientists worldwide'、'177 ready-to-use validated skills'、'100+ scientific databases'及兼容工具列表；GitHub数据（总星数52227、今日新增879）佐证了其流行度。"
       },
       {
         "name": "ECC",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为ECC的代理性能优化系统在GitHub上趋势飙升，单日获星1057，总星数达281,489，由affaan-m等开发者构建。",
-        "core_details": "ECC是一个专注于代理性能优化的系统，旨在为Claude Code、Codex、Opencode、Cursor等AI编码工具提供技能、本能、记忆、安全及研究优先的开发支持。项目使用JavaScript语言开发，拥有活跃的社区参与，评论数达41,849。",
-        "ai_take": "该项目反映了AI代理开发中性能优化的关键需求，通过集成技能、记忆和安全模块，可能提升AI编码工具的响应速度和准确性，是AI工程化实践的重要探索。",
-        "hype_check": "趋势分数高达86.84，单日获星破千，表明其在开发者社区中受到高度关注，但需验证实际应用效果是否匹配热度。",
-        "value_check": "作为开源项目，ECC提供了可复用的优化框架，可能降低AI代理开发门槛，但依赖特定工具链（如Claude Code），通用性有待观察。",
-        "follow_up": "关注其版本更新是否扩展支持更多AI工具，以及社区反馈如何影响性能指标优化。",
-        "evidence": "GitHub趋势数据：单日星数1057，总星281,489，语言JavaScript，项目描述明确指向AI代理性能优化。"
+        "what_happened": "一个名为ECC的代理性能优化系统在GitHub上趋势飙升，单日获星1145个，总星数已达282470，由affaan-m等人开发，主要使用JavaScript语言。",
+        "core_details": "ECC是一个为Claude Code、Codex、Opencode、Cursor等AI代码代理设计的性能优化系统，专注于技能、本能、记忆、安全性和研究优先的开发。",
+        "ai_take": "该项目直接针对AI代码代理的性能瓶颈，通过系统化优化提升其效率与可靠性，反映了开发者社区对增强AI编程工具实际效用的迫切需求。",
+        "hype_check": "高星数与趋势排名表明其在开发者中关注度极高，但需注意其仍处于活跃开发阶段，由社区驱动，成熟度与长期维护性待观察。",
+        "value_check": "对于依赖AI代码辅助的开发者，ECC可能提供关键的优化层，提升工作流效率；其开源性质允许社区贡献与定制，增加了实用价值。",
+        "follow_up": "关注其版本更新、实际集成案例以及是否被主流AI代码工具官方采纳，以评估其长期影响力。",
+        "evidence": "GitHub仓库显示项目描述、语言为JavaScript、单日星数增长数据及总星数，证实其热度与核心定位。"
       },
       {
-        "name": "superpowers",
+        "name": "Android Skills",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "GitHub项目'superpowers'在趋势榜上热度飙升，今日新增星标973个，总星标数已超过30万。",
-        "core_details": "该项目由用户obra等人创建，是一个“智能体技能框架与软件开发方法论”，旨在提供一个可工作的框架。项目主要使用Shell语言编写，在技术社区中获得了广泛关注和讨论，评论数超过2.6万条。",
-        "ai_take": "该项目定位为“智能体技能框架”，直接切入当前AI Agent开发的热点领域。其高星标和讨论量表明，社区对实用、可落地的AI Agent开发方法论和工具存在强烈需求。",
-        "hype_check": "热度极高。日增近千星标和超过30万的总星标数，在GitHub趋势榜上排名靠前（趋势得分85.77），表明其在开发者社区中引发了巨大关注和讨论热潮。",
-        "value_check": "潜在价值高。作为一个旨在“工作”的框架和方法论，如果其设计能有效降低AI Agent的开发门槛或提升开发效率，将具有显著的实用价值。但其具体实现细节、成熟度和实际应用案例尚需进一步考察。",
-        "follow_up": "建议深入项目仓库，查看README、代码结构、示例和Issue讨论，以评估其框架设计、功能完整性和社区活跃度。同时，可关注是否有基于此框架的实际项目或应用出现。",
-        "evidence": "证据包括：项目在GitHub趋势榜的高排名（趋势得分85.77）、极高的星标增长数据（今日+973，总计300677）、大量的社区互动（评论数26844）以及项目描述中明确的“智能体技能框架”定位。"
+        "what_happened": "Android官方GitHub仓库'skills'今日获得368颗星，总星数达8410，在Kotlin语言项目中趋势显著。",
+        "core_details": "该项目由android-devrel-github-bot、simona-anomis、JoseAlcerreca、bentrengrove、vinishavathwani等贡献者构建，使用Kotlin语言开发，专注于Android技能相关资源或工具。",
+        "ai_take": "该项目虽未直接涉及AI，但作为Android官方资源，可能包含与AI集成相关的开发技能或示例，助力开发者构建智能应用。",
+        "hype_check": "趋势分86.48和单日高星数表明社区关注度强劲，但需注意这主要反映Android开发生态的活跃度，而非AI特定突破。",
+        "value_check": "对于Android开发者，此项目提供官方维护的技能资源，具有实用价值；但AI从业者需评估其与AI开发的相关性。",
+        "follow_up": "关注仓库更新以了解是否新增AI/ML集成示例，或查看相关Android开发者文档获取AI工具指南。",
+        "evidence": "数据来自GitHub Trending：今日星数368，总星8410，语言Kotlin，贡献者列表，趋势分86.48。"
+      },
+      {
+        "name": "ai-job-search",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为 ai-job-search 的开源项目在 GitHub 上趋势飙升，单日获星 1397 颗，总星数已超过 5 万。该项目定位为“在您机器上运行的求职助手”，是一个基于 Claude Code 构建的 AI 求职申请框架。",
+        "core_details": "该项目由 MadsLorentzen 等人开发，使用 Python 语言。其核心功能是利用 AI（特别是 Claude）自动化求职流程，包括评估职位描述、定制化修改简历、撰写求职信以及准备面试。项目强调“分叉并拥有它”，鼓励用户自行部署和控制。",
+        "ai_take": "该项目展示了生成式 AI 在垂直应用场景（求职）中的具体落地。它并非通用聊天机器人，而是将大模型能力（如 Claude 的代码与文本生成能力）工程化为一个可复用的自动化工作流，降低了个人用户使用 AI 提升求职效率的门槛。",
+        "hype_check": "高热度合理。项目切中了全球求职市场的普遍痛点（流程繁琐、个性化要求高），并提供了“私有化部署”的解决方案，符合当前对数据隐私和定制化的需求。单日超千星的增长和庞大的总星数（5万+）与评论数（近1.7万）表明其引起了开发者与求职者的强烈共鸣。",
+        "value_check": "实用价值明确。它将 AI 从“对话演示”转化为可实际运行的工具，用户可以通过此框架系统化地管理求职申请，有望提升申请质量和效率。其开源属性允许社区贡献和适配不同地区/行业的求职需求。",
+        "follow_up": "值得关注其后续迭代，例如是否支持更多大模型（如 GPT、本地模型）、是否增加对中文求职市场（如招聘平台对接、中文简历格式）的适配，以及社区是否会衍生出针对不同职业的定制化模板。",
+        "evidence": "项目描述明确指出其功能：“评估职位描述、定制简历、撰写求职信、准备面试”。GitHub 数据：语言为 Python，单日获星 1397，总星数 50337，评论数 16923，证实了其高关注度与活跃度。"
       },
       {
         "name": "VoiceStudio",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为VoiceStudio的开源项目在GitHub上趋势飙升，单日获星2301颗，总星数达71149，被描述为完全本地化的ElevenLabs替代方案。",
-        "core_details": "VoiceStudio是一个基于Python的开源项目，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作功能，支持646种语言，强调完全本地化运行。项目由debpalash等人构建。",
-        "ai_take": "该项目代表了开源社区在语音AI领域的重大进展，通过本地化部署降低了使用门槛和数据隐私风险，多语言支持能力（646种语言）可能对全球化应用和低资源语言社区产生积极影响。",
-        "hype_check": "高星数和趋势排名表明开发者社区对开源、本地化语音工具需求强烈，但需验证其实际性能是否与商业方案（如ElevenLabs）相当，特别是语音质量和语言覆盖的准确性。",
-        "value_check": "作为开源替代方案，它可能降低语音AI技术的获取成本，促进创新和定制化开发；完全本地化特性对数据敏感型用户（如企业、研究机构）具有吸引力。",
-        "follow_up": "关注项目的更新频率、社区贡献质量以及实际应用案例；比较其与ElevenLabs等商业产品在关键指标（如语音自然度、延迟）上的差异。",
-        "evidence": "项目GitHub页面描述其为“开源、完全本地的ElevenLabs替代品”，功能列表包括语音克隆等六项核心能力，并明确标注支持646种语言；数据来自GitHub趋势榜单（单日获星2301，总星71149）。"
+        "source": "github-trending",
+        "what_happened": "一个名为VoiceStudio的开源项目在GitHub上趋势飙升，单日获得2135颗星，总星数已达73278，被定位为完全本地化的ElevenLabs替代方案。",
+        "core_details": "VoiceStudio是一个基于Python开发的开源语音工具，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作等功能，并声称支持646种语言。项目由debpalash等人构建，在开发者社区中引发了广泛关注。",
+        "ai_take": "该项目代表了开源社区在语音AI领域的重大进展，通过提供完全本地化的解决方案，降低了用户对云端服务的依赖，增强了隐私性和可访问性，可能推动语音合成与处理技术的民主化。",
+        "hype_check": "趋势分数高达85.13，单日星数增长显著，表明其在开发者中获得了爆炸性关注；但作为新兴项目，其实际性能、语言支持的准确度及大规模应用的稳定性仍需验证。",
+        "value_check": "若功能如其所述，VoiceStudio将为内容创作者、开发者和企业提供低成本、高定制化的语音工具，尤其对多语言支持和本地处理有需求的用户具有高价值；开源性质也便于社区协作改进。",
+        "follow_up": "关注其版本更新以评估功能成熟度，测试多语言语音生成质量，并观察是否形成持续的开发者生态；同时可对比ElevenLabs等商业服务的实际差距。",
+        "evidence": "项目GitHub页面描述其为“开源、完全本地的ElevenLabs替代品”，支持646种语言的语音相关功能；趋势数据来自GitHub-trending，单日星数2135、总星73278、讨论数8018，证实其高热度。"
       },
       {
-        "name": "ruflo",
+        "name": "Orca",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "开源项目 ruflo 在 GitHub 趋势榜上热度显著，今日新增 672 颗星，总星数已达 75624，表明其在开发者社区中受到广泛关注。",
-        "core_details": "ruflo 被描述为“原始智能体框架”，是一个基于 TypeScript 开发的工具，旨在帮助用户部署智能多智能体集群、协调自主工作流以及构建对话式 AI 系统。其核心特性包括自适应记忆、自学习智能、联邦架构、向量 RAG 集成，并原生支持 Claude Code、Codex、Hermes 等多种模型。",
-        "ai_take": "该项目定位为高级智能体编排框架，通过集成记忆、学习和多模型支持，旨在降低构建复杂、可协作的自主 AI 系统的门槛，反映了当前 AI 工程向模块化、可组合智能体工作流发展的趋势。",
-        "hype_check": "高星数和趋势排名显示了强烈的社区兴趣，但作为框架类项目，其实际生产就绪度、大规模部署的稳定性以及相较于其他智能体框架（如 LangChain、AutoGen）的差异化优势，仍需通过实际应用案例来验证。",
-        "value_check": "如果其宣称的“自适应记忆”、“自学习”和“联邦”能力能有效实现，将为开发企业级、可进化的多智能体应用提供强大基础设施，具有较高的潜在工程价值。其 TypeScript 基础也利于 Web 和全栈开发者生态集成。",
-        "follow_up": "关注其版本迭代、文档完善度、社区案例以及是否出现基于 ruflo 构建的成功商业或开源应用，以评估其长期生态活力与实际影响力。",
-        "evidence": "项目在 GitHub 趋势榜排名靠前（趋势得分 82.71），今日获星 672，总星数 75624，由 ruvnet 等开发者维护。项目描述明确了其作为智能体框架的定位与核心功能集。"
-      },
-      {
-        "name": "android/skills",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Android官方GitHub仓库'skills'今日获得36颗星，总星数达8060，在Kotlin语言项目中趋势显著。",
-        "core_details": "该项目由Android开发团队（包括android-devrel-github-bot、simona-anomis、JoseAlcerreca等）维护，是一个Kotlin语言项目，专注于技能相关开发，今日趋势评分80.91，总讨论数535。",
-        "ai_take": "作为Android官方项目，它可能涉及AI/ML技能集成或开发者工具，反映Android生态对智能功能的持续投入，但具体AI内容需进一步确认。",
-        "hype_check": "趋势评分高且星数增长稳定，表明在开发者社区中受关注，但需注意这是官方项目，热度可能部分源于品牌效应而非突破性创新。",
-        "value_check": "对于Android开发者，此项目可能提供实用技能或最佳实践参考，有助于提升开发效率，但实际价值取决于项目具体内容是否与当前需求匹配。",
-        "follow_up": "建议访问GitHub仓库查看代码和文档，以了解是否包含AI相关功能如TensorFlow Lite集成或ML Kit示例。",
-        "evidence": "基于GitHub趋势数据：语言Kotlin、今日星数36、总星数8060、维护者列表、趋势评分80.91，但缺少页面描述和摘要等详细内容。"
+        "what_happened": "stablyai 在 GitHub 上开源的 Orca 项目今日获得 829 颗星，总星数已达 95377，成为热门趋势项目。",
+        "core_details": "Orca 是一个用于管理和运行多种编码智能体（如 Grok Bot、Claude Code）的平台，支持用户使用自己的订阅来运行任何编码智能体。该项目基于 TypeScript 开发，可在桌面、移动设备和远程运行时上使用。",
+        "ai_take": "该项目通过集成多种主流编码智能体，提供了一个统一的代理管理平台，可能简化开发者使用不同 AI 编码助手的流程，体现了多智能体协作在开发工具中的实用化趋势。",
+        "hype_check": "项目热度较高，单日获星数可观且总星数接近 10 万，表明其在开发者社区中受到了广泛关注和认可。",
+        "value_check": "Orca 通过支持用户自有订阅运行智能体，可能为开发者提供了更灵活、成本可控的 AI 编码工具集成方案，具有明确的实用价值。",
+        "follow_up": "关注其后续版本更新是否支持更多智能体类型，以及在实际开发工作流中的集成深度和用户体验反馈。",
+        "evidence": "项目描述明确指出其功能为“运行任何编码智能体”，技术栈为 TypeScript，并由 stablyai 团队的多位成员构建。GitHub 趋势数据（今日 829 星，总星 95377）提供了热度佐证。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
+        "item_name": "anthropics/claude-code",
+        "content_summary": "Claude Code 是一个基于终端的智能编码工具，能够理解代码库，通过自然语言命令执行常规任务、解释复杂代码和处理 Git 工作流，从而帮助开发者更快地编码。该项目使用 TypeScript 编写，今日新增 168 颗星，总星数达 151,713。",
+        "ai_comment": "该项目代表了 AI 辅助编程工具的最新进展，将自然语言交互深度集成到开发工作流中，可能显著提升开发效率。"
+      },
+      {
+        "source_group": "github_trending",
         "item_name": "anthropics/claude-plugins-official",
-        "content_summary": "Anthropic官方管理的Claude代码插件高质量目录。该项目是一个Python语言编写的仓库，今日获得1552颗星，总星数达40524。",
-        "ai_comment": "这是Anthropic官方维护的Claude插件生态的核心目录，标志着其开发者生态的正式化和扩展。"
+        "content_summary": "这是 Anthropic 官方管理的高质量 Claude Code 插件目录。项目使用 Python 编写，今日新增 1,383 颗星，总星数达 41,711。",
+        "ai_comment": "官方插件目录的建立有助于规范 Claude Code 的插件生态，促进高质量工具的开发与共享，是构建 AI 编程平台生态系统的关键一步。"
       },
       {
         "source_group": "github_trending",
         "item_name": "K-Dense-AI/scientific-agent-skills",
-        "content_summary": "一个旨在将任何AI智能体转变为AI科学家的技能库。提供177个经过验证的即用技能和100多个涵盖生物学、化学、医学和药物发现领域的科学数据库。声称已被全球超过25万名科学家使用，兼容Cursor、Claude Code等多种平台。今日获得1158颗星。",
-        "ai_comment": "该项目展示了AI在专业科学领域的工具化进程，通过标准化的技能库降低科学研究的AI应用门槛。"
-      },
-      {
-        "source_group": "github_trending",
-        "item_name": "cursor/plugins",
-        "content_summary": "Cursor编辑器的插件规范及官方插件仓库。该项目使用TypeScript语言，今日获得278颗星，总星数11941。",
-        "ai_comment": "Cursor作为AI原生代码编辑器，其插件规范的发布有助于统一和丰富其扩展生态。"
+        "content_summary": "这是一个旨在将任何 AI 智能体转变为 AI 科学家的技能库。它提供 177 个经过验证的即用型技能和 100 多个涵盖生物学、化学、医学和药物发现领域的科学数据库，已被全球超过 250,000 名科学家使用。兼容 Cursor、Claude Code、Codex 等多种工具。项目使用 Python 编写，今日新增 879 颗星，总星数达 52,227。",
+        "ai_comment": "该项目将 AI 能力与专业科学领域知识深度结合，为科研工作者提供了强大的 AI 辅助工具，有望加速科学发现进程。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "He Joined the Military. They Reported His Wife to ICE",
-        "content_summary": "一篇来自《大西洋月刊》的报道，讲述一名军人入伍后，其妻子被报告给美国移民及海关执法局（ICE）面临驱逐的故事。Hacker News上的讨论主要关注文章是否存在非付费墙链接。",
-        "ai_comment": "该事件涉及移民政策与军人家庭的交叉点，引发了关于制度公平性的讨论。技术社区对此类社会议题的关注点常在于信息获取渠道。"
+        "item_name": "Does code quality still matter when AI writes the code?",
+        "content_summary": "文章基于 DocSpring 团队使用 Claude Code 等 AI 编码助手的经验进行探讨。作者指出，AI 能够快速调查和理解复杂的代码部分，甚至比人类更快地发现问题，这改变了他对已构建九年的代码库的看法。文章探讨了在 AI 能够理解和修改复杂代码的背景下，技术债务是否仍然重要，以及代码质量（可读性、无缺陷、满足需求等不同维度）的意义是否需要重新评估。",
+        "ai_comment": "这篇文章触及了 AI 时代软件开发的核心矛盾：当 AI 能处理混乱代码时，人类是否还需要追求极致的代码质量？答案可能在于，高质量代码的核心价值——易于人类理解和协作——在 AI 辅助下依然关键，但衡量标准可能需要调整。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: Things to Do API",
-        "content_summary": "一个为智能体应用提供的快速、准确、本地化活动API，覆盖演出、音乐会、快闪活动、市集和派对等信息，以JSON格式通过REST或MCP协议提供。创建者最初因个人应用开发需要而构建，目前主要覆盖旧金山湾区，其方法是通过有影响力的账号进行信息扩散收集。提供免费起步方案。",
-        "ai_comment": "这是AI智能体获取实时本地事件数据的基础设施尝试，解决了现有搜索方案速度慢、数据分散的问题，符合AI应用对结构化实时信息的需求趋势。"
+        "item_name": "Open Math Model: The OS for collaborative math research and scientific computing",
+        "content_summary": "Open Math OS 是一个集成了开源 AI 模型、科学计算和协作功能的研究工作空间，旨在让数学社区掌控自己的数据。它基于开源前沿模型构建，允许用户验证数学猜想（例如前 n 个奇数之和是否为完全平方数），在 Lean 中形式化证明，并直接整合到论文草稿中。",
+        "ai_comment": "该项目将形式化验证、AI 和协作平台结合，为数学研究提供了革命性的工具，可能极大地提升数学发现的严谨性和协作效率。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Meta confirms smart glasses were recording without being activated",
-        "content_context": "Meta公司确认其Ray-Ban智能眼镜存在未经用户激活即进行录音的问题，并表示已修复。报道提及，此前有用户视频被发送至肯尼亚的数据标注员用于AI模型训练，其中包含私密时刻。",
-        "content_summary": "Meta公司证实其Ray-Ban智能眼镜存在隐私漏洞，在未经用户许可的情况下录制音频。该公司表示已修复此问题。报道还关联到此前事件，即用户视频（包括浴室等私密画面）被发送至海外进行AI数据标注。",
-        "ai_comment": "这起事件凸显了集成AI的消费级硬件面临的严峻隐私挑战，尤其是在数据收集用于模型训练的场景下，用户知情与控制权至关重要。"
+        "item_name": "A retired Penn professor has been blocking Uber Eats robots",
+        "content_summary": "78 岁的宾夕法尼亚大学荣休教授 Carolyn Marvin 数月来一直在费城街头阻挡 Uber Eats 的送货机器人，以抗议企业用机器人取代人类送货员、追求利润的行为。她于周三因行为不检被捕，但她声称这是在合法行使第一修正案赋予的抗议权利。此事在网络上引发关注。",
+        "ai_comment": "该事件凸显了自动化技术普及过程中的社会冲突与伦理争议，反映了部分公众对技术取代人类工作岗位的担忧和直接反抗。"
       },
       {
         "source_group": "news",
-        "item_name": "Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal - ABC7 Los Angeles",
-        "content_summary": "南加州圣安娜风期间，洛杉矶县和橙县发生灌木丛火灾，引发人员疏散。相关报道聚焦于“Norte”火灾已蔓延至465英亩，摧毁房屋，以及一场新的野火迅速扩大并烧毁多栋住宅。消防人员正在橙县全力抢救房屋。",
-        "ai_comment": "极端天气条件加剧了加州火灾风险，对应急响应和居民安全构成持续挑战。"
+        "item_name": "In Kentucky midterm campaign stop, Trump says he \"can do stuff that is unbelievable\" - CBS News",
+        "content_summary": "美国前总统特朗普在肯塔基州的中期选举竞选活动中发表讲话，声称自己“能做令人难以置信的事情”。相关报道还提及他承诺如果共和党获胜，将对肯塔基州的设施进行大规模投资。",
+        "ai_comment": "此为政治新闻，与 AI 技术无直接关联，但反映了当前美国政治生态的一部分。"
       },
       {
         "source_group": "news",
-        "item_name": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News",
-        "content_summary": "美国前总统特朗普在关键摇摆州佐治亚州与顶级共和党人举行集会，为中期选举造势。前NFL全明星跑卫加入集会。特朗普在集会上错误地声称参议员乔恩·奥索夫的当选不合法，并宣扬制造业增长。",
-        "ai_comment": "此举是特朗普参与中期选举政治动员的体现，相关争议性言论可能影响佐治亚州选情。"
+        "item_name": "Fisherman, 71, killed by 12-foot alligator alongside Florida lake - AP News",
+        "content_summary": "美国佛罗里达州一名 71 岁的渔民在湖边钓鱼时，被一条 12 英尺长的短吻鳄袭击并拖入水中身亡。警方称这是一起疑似鳄鱼攻击事件。",
+        "ai_comment": "此为突发社会安全事件，与 AI 技术无直接关联。"
       },
       {
         "source_group": "news",
-        "item_name": "Amber Guyger, ex-Dallas police officer who killed man after mistakenly entering his apartment, is released on parole - NBC News",
-        "content_summary": "前达拉斯警察安柏·盖格在误入他人公寓并枪杀男子博瑟姆·琼斯后，于服刑7年后获假释出狱。她因谋杀罪被判刑，目前已获释。",
-        "ai_comment": "此案曾引发全美对警察执法、种族及司法公正的广泛讨论，其假释再次将案件置于公众视野。"
+        "item_name": "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’ - NBC News",
+        "content_summary": "俄勒冈州一所小学发生枪击案，造成包括一名 5 岁儿童在内的多人死亡。报道描述了受害者家庭的悲痛，并提及一名教师曾与袭击者搏斗，随后一名武装父亲多次开枪击中嫌疑人。社区举行了第二次守夜活动。",
+        "ai_comment": "此为美国校园枪击案的社会悲剧新闻，与 AI 技术无直接关联。"
       }
     ],
-    "closing_note": "总体来看，开发者社区正通过开源协作，加速AI工具在编程、科研、语音等领域的实用化与生态构建。建议持续关注这些高热度项目的版本迭代、实际应用案例及社区反馈，以把握技术落地的最新动态。",
+    "closing_note": "总体来看，今日趋势揭示了AI技术落地的一个清晰路径：通过开源项目，将前沿模型能力（如Claude）转化为模块化、可定制且注重隐私与本地控制的实用工具。从编码、科研到求职、语音处理，开发者社区正以前所未有的速度构建AI应用生态。值得持续关注的是，这些高热度项目在实际生产环境中的稳定性、准确性表现，以及它们如何相互集成、形成更强大的工作流。AI的实用化竞赛，已在代码仓库中悄然加速。",
     "_errors": []
   }
 }
