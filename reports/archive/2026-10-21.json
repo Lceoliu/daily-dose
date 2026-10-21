@@ -1,0 +1,1489 @@
+{
+  "generated_at": "2026-10-21T00:23:22.251675+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "author": "MadsLorentzen",
+        "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "Python",
+        "score": 3861,
+        "comment_count": 18884,
+        "total_stars": 60532,
+        "built_by": [
+          "claude",
+          "MadsLorentzen",
+          "ayobamiseun",
+          "rudycelekli",
+          "oscarbol09"
+        ],
+        "content_context": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nLanguage: Python\n\nStars today: 3861\n\nTotal stars: 60532\n\nBuilt by: claude, MadsLorentzen, ayobamiseun, rudycelekli, oscarbol09",
+        "trend_score": 86.82,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anomalyco/opencode",
+        "url": "https://github.com/anomalyco/opencode",
+        "author": "anomalyco",
+        "summary": "The open source coding agent.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "TypeScript",
+        "score": 1240,
+        "comment_count": 29211,
+        "total_stars": 218901,
+        "built_by": [
+          "thdxr",
+          "rekram1-node",
+          "adamdotdevin",
+          "opencode-agent",
+          "kitlangton"
+        ],
+        "content_context": "The open source coding agent.\n\nLanguage: TypeScript\n\nStars today: 1240\n\nTotal stars: 218901\n\nBuilt by: thdxr, rekram1-node, adamdotdevin, opencode-agent, kitlangton",
+        "trend_score": 84.97,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.951,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "author": "Comfy-Org",
+        "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "Python",
+        "score": 1206,
+        "comment_count": 16660,
+        "total_stars": 140745,
+        "built_by": [
+          "comfyanonymous",
+          "bigcat88",
+          "pythongosssss",
+          "comfyui-wiki",
+          "rattus128"
+        ],
+        "content_context": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\n\nLanguage: Python\n\nStars today: 1206\n\nTotal stars: 140745\n\nBuilt by: comfyanonymous, bigcat88, pythongosssss, comfyui-wiki, rattus128",
+        "trend_score": 83.85,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.922,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "msitarzewski/agency-agents",
+        "url": "https://github.com/msitarzewski/agency-agents",
+        "author": "msitarzewski",
+        "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "Shell",
+        "score": 562,
+        "comment_count": 26228,
+        "total_stars": 162336,
+        "built_by": [
+          "msitarzewski",
+          "rudycelekli",
+          "claude",
+          "epowelljr",
+          "Hotragn"
+        ],
+        "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 562\n\nTotal stars: 162336\n\nBuilt by: msitarzewski, rudycelekli, claude, epowelljr, Hotragn",
+        "trend_score": 82.91,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.897,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "author": "DietrichGebert",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "JavaScript",
+        "score": 1208,
+        "comment_count": 9223,
+        "total_stars": 169626,
+        "built_by": [
+          "DietrichGebert",
+          "claude",
+          "ousamabenyounes",
+          "Lakshya77089",
+          "dhedhialy"
+        ],
+        "content_context": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\nLanguage: JavaScript\n\nStars today: 1208\n\nTotal stars: 169626\n\nBuilt by: DietrichGebert, claude, ousamabenyounes, Lakshya77089, dhedhialy",
+        "trend_score": 82.74,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.892,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "author": "stablyai",
+        "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "TypeScript",
+        "score": 1565,
+        "comment_count": 6317,
+        "total_stars": 99715,
+        "built_by": [
+          "nwparker",
+          "brennanb2025",
+          "Jinwoo-H",
+          "AmethystLiang",
+          "orca-ide"
+        ],
+        "content_context": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\nLanguage: TypeScript\n\nStars today: 1565\n\nTotal stars: 99715\n\nBuilt by: nwparker, brennanb2025, Jinwoo-H, AmethystLiang, orca-ide",
+        "trend_score": 82.63,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.89,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "author": "Graphify-Labs",
+        "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "Python",
+        "score": 802,
+        "comment_count": 12542,
+        "total_stars": 130223,
+        "built_by": [
+          "claude",
+          "safishamsi",
+          "ayushcodes10",
+          "rajatnagda45",
+          "abhay-codes07"
+        ],
+        "content_context": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\nLanguage: Python\n\nStars today: 802\n\nTotal stars: 130223\n\nBuilt by: claude, safishamsi, ayushcodes10, rajatnagda45, abhay-codes07",
+        "trend_score": 82.35,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.882,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "author": "ruvnet",
+        "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "TypeScript",
+        "score": 684,
+        "comment_count": 9160,
+        "total_stars": 77833,
+        "built_by": [
+          "ruvnet",
+          "claude",
+          "rudycelekli",
+          "proffesor-for-testing"
+        ],
+        "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 684\n\nTotal stars: 77833\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
+        "trend_score": 81.39,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.857,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "author": "cloudflare",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "JavaScript",
+        "score": 1712,
+        "comment_count": 2134,
+        "total_stars": 34175,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ],
+        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 1712\n\nTotal stars: 34175\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+        "trend_score": 80.8,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.842,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "headroomlabs-ai/headroom",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "author": "headroomlabs-ai",
+        "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "published_at": "2026-10-21T00:22:37.130292+00:00",
+        "language": "Python",
+        "score": 549,
+        "comment_count": 5958,
+        "total_stars": 76752,
+        "built_by": [
+          "chopratejas",
+          "JerrettDavis",
+          "claude",
+          "abhay-codes07",
+          "gglucass"
+        ],
+        "content_context": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.\n\nLanguage: Python\n\nStars today: 549\n\nTotal stars: 76752\n\nBuilt by: chopratejas, JerrettDavis, claude, abhay-codes07, gglucass",
+        "trend_score": 80.06,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.822,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Kilk – an offline, native macOS code and text editor with encoding detection",
+        "url": "https://apps.apple.com/ca/app/kilk-text-editor/id6816437134?mt=12",
+        "author": "OxinStudio",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:14:45+00:00",
+        "summary": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://apps.apple.com/ca/app/kilk-text-editor/id6816437134?mt=12",
+          "page_title": "Kilk Text Editor App - App Store",
+          "page_description": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.",
+          "page_excerpt": "Pay once, keep it. Kilk opens old Persian, Arabic, Chinese and Cyrillic files correctly, brings back your work after a crash, and never touches the network. Kilk is a fast, native Mac text and code editor for people who want a simple tool that works, with no account, no subscription and no data collection. FILES IN ANY ENCODING Kilk recognizes old files that other editors turn into gibberish. T...\n\nThe developer, Oxin Studio Inc. , indicated that the appâs privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the developerâs privacy policy .\n\nTo help you better understand the developerâs responses, see Privacy Definitions and Examples ."
+        },
+        "content_context": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.\n\nPay once, keep it. Kilk opens old Persian, Arabic, Chinese and Cyrillic files correctly, brings back your work after a crash, and never touches the network. Kilk is a fast, native Mac text and code editor for people who want a simple tool that works, with no account, no subscription and no data collection. FILES IN ANY ENCODING Kilk recognizes old files that other editors turn into gibberish. T... The developer, Oxin Studio Inc. , indicated that the appâs privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the developerâs privacy policy . To help you better understand the developerâs responses, see Privacy Definitions and Examples .\n\nHN comment: [flagged]",
+        "trend_score": 51.46,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.043,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+        "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+        "author": "andsoitis",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:13:06+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+          "content_type": "application/pdf"
+        },
+        "content_context": null,
+        "trend_score": 51.41,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.043,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Compromised CA with private key password of \"4\"",
+        "url": "https://chaos.social/@fluepke/117474156947559280",
+        "author": "kesor",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:18:09+00:00",
+        "summary": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://chaos.social/@fluepke/117474156947559280",
+          "page_title": "Flüpke (@fluepke@chaos.social)",
+          "page_description": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+          "page_excerpt": null
+        },
+        "content_context": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+        "trend_score": 46.21,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.043,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Xbox CTO teases Halo 3 in WebAssembly",
+        "url": "https://twitter.com/scottvanvliet/status/2112671760131010982",
+        "author": "astlouis44",
+        "score": 4,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:18:38+00:00",
+        "summary": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/scottvanvliet/status/2112671760131010982",
+          "page_title": "Scott Van Vliet (@scottvanvliet) on X",
+          "page_description": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+          "page_excerpt": null
+        },
+        "content_context": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+        "trend_score": 43.51,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.1,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Microagi: Accelerating Embodied AGI",
+        "url": "https://www.microagi.ai/",
+        "author": "doener",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:11:30+00:00",
+        "summary": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.microagi.ai/",
+          "page_title": "Accelerating embodied AGI",
+          "page_description": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+          "page_excerpt": null
+        },
+        "content_context": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+        "trend_score": 42.31,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.068,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Mysterious World of Jandek",
+        "url": "https://en.wikipedia.org/wiki/Jandek",
+        "author": "DASD",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:06:13+00:00",
+        "summary": "Jandek is the musical project of Sterling Smith (born October 26, 1945), a Houston, Texas -based American lo-fi folk singer. [ 3 ] Since 1978, Jandek has independently released over 120 albums while granting an interview extremely rarely and providing no biographical information, releasing on a self-made label, \"Corwood Industries\". [ 3 ] Jandek often plays an idiosyncratic and frequently atona...\n\nA review of the debut album Ready for the House (1978) in OP Magazine , the first ever national press given to Jandek, referred to the artist as Sterling Smith. [ 4 ] Smith has kept his personal history secret, revealing only one story about his pre-Corwood years: he wrote seven novels but burned them upon rejection from New York publishers. [ 5 ]\n\nIn a 1985 private phone conversation with John Trubee for Spin , Smith mentioned that he was working at that time as a machinist. [ 6 ] [ 7 ]",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://en.wikipedia.org/wiki/Jandek",
+          "page_title": "Jandek - Wikipedia",
+          "page_description": null,
+          "page_excerpt": "Jandek is the musical project of Sterling Smith (born October 26, 1945), a Houston, Texas -based American lo-fi folk singer. [ 3 ] Since 1978, Jandek has independently released over 120 albums while granting an interview extremely rarely and providing no biographical information, releasing on a self-made label, \"Corwood Industries\". [ 3 ] Jandek often plays an idiosyncratic and frequently atona...\n\nA review of the debut album Ready for the House (1978) in OP Magazine , the first ever national press given to Jandek, referred to the artist as Sterling Smith. [ 4 ] Smith has kept his personal history secret, revealing only one story about his pre-Corwood years: he wrote seven novels but burned them upon rejection from New York publishers. [ 5 ]\n\nIn a 1985 private phone conversation with John Trubee for Spin , Smith mentioned that he was working at that time as a machinist. [ 6 ] [ 7 ]"
+        },
+        "content_context": "Jandek is the musical project of Sterling Smith (born October 26, 1945), a Houston, Texas -based American lo-fi folk singer. [ 3 ] Since 1978, Jandek has independently released over 120 albums while granting an interview extremely rarely and providing no biographical information, releasing on a self-made label, \"Corwood Industries\". [ 3 ] Jandek often plays an idiosyncratic and frequently atona... A review of the debut album Ready for the House (1978) in OP Magazine , the first ever national press given to Jandek, referred to the artist as Sterling Smith. [ 4 ] Smith has kept his personal history secret, revealing only one story about his pre-Corwood years: he wrote seven novels but burned them upon rejection from New York publishers. [ 5 ] In a 1985 private phone conversation with John Trubee for Spin , Smith mentioned that he was working at that time as a machinist. [ 6 ] [ 7 ]",
+        "trend_score": 42.16,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.068,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Important Changes to House Rules",
+        "url": "https://www.airbnb.com/resources/hosting-homes/a/important-changes-to-house-rules-21",
+        "author": "htunnicliff",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:18:37+00:00",
+        "summary": "Write Airbnb house rules that protect your home and create better guest experiences. View Airbnb host tips and house rules examples.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.airbnb.com/resources/hosting-homes/a/important-changes-to-house-rules-21",
+          "page_title": "Important changes to house rules - Resource Center - Airbnb",
+          "page_description": "Write Airbnb house rules that protect your home and create better guest experiences. View Airbnb host tips and house rules examples.",
+          "page_excerpt": "House rules help guests understand your expectations. Starting today, we’re making house rules easier for you to set and for guests to read and follow. We’re also introducing a new house rules policy that takes effect November 20, 2026.\n\nNow you can choose from 7 standard rules and add reasonable requests, all in one place in the Listing editor. Your checkout instructions no longer appear in a separate tab.\n\nIt’s a good idea to review your house rules to see how these changes affect your listing and make any edits necessary. New options include adding a maximum number of overnight guests and requiring guests to lock up at checkout."
+        },
+        "content_context": "Write Airbnb house rules that protect your home and create better guest experiences. View Airbnb host tips and house rules examples.\n\nHouse rules help guests understand your expectations. Starting today, we’re making house rules easier for you to set and for guests to read and follow. We’re also introducing a new house rules policy that takes effect November 20, 2026. Now you can choose from 7 standard rules and add reasonable requests, all in one place in the Listing editor. Your checkout instructions no longer appear in a separate tab. It’s a good idea to review your house rules to see how these changes affect your listing and make any edits necessary. New options include adding a maximum number of overnight guests and requiring guests to lock up at checkout.",
+        "trend_score": 41.72,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.043,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Cyber Risk Discourse Is Broken",
+        "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+        "author": "gmays",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:17:28+00:00",
+        "summary": "Open-weights, ideology, and acknowledging trade-offs.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+          "page_title": "The Cyber Risk Discourse is Broken",
+          "page_description": "Open-weights, ideology, and acknowledging trade-offs.",
+          "page_excerpt": "I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will somehow actually be stopped) or that China is a threat and doesn’t care about AI safety — that I feel we’re going to end up making policy decisions that both limit American AI competitiveness and increases long-term cyber risk. I feel...\n\nMuch has been written about the views of various players in this debate, which I summarize as follows:\n\nOpen weight models pose an untenable risk to society’s functionality , occupied by frontier lab leadership and the national security community in the U.S."
+        },
+        "content_context": "Open-weights, ideology, and acknowledging trade-offs.\n\nI’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will somehow actually be stopped) or that China is a threat and doesn’t care about AI safety — that I feel we’re going to end up making policy decisions that both limit American AI competitiveness and increases long-term cyber risk. I feel... Much has been written about the views of various players in this debate, which I summarize as follows: Open weight models pose an untenable risk to society’s functionality , occupied by frontier lab leadership and the national security community in the U.S.",
+        "trend_score": 41.69,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.043,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Starting the R3Forth REPL",
+        "url": "https://www.youtube.com/watch?v=RAKLhs8BKJQ",
+        "author": "phreda4",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:14:09+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 41.59,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.043,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Easily share Bitwarden vault items with a link",
+        "url": "https://bitwarden.com/blog/easily-share-vault-items-with-a-link/",
+        "author": "thunderbong",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-21T00:13:01+00:00",
+        "summary": "Now any account with premium features can easily share a vault item with a secure, encrypted link! Learn more about how to use share via link to collaborate with anyone.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://bitwarden.com/blog/easily-share-vault-items-with-a-link/",
+          "page_title": "Easily share vault items with a link | Bitwarden",
+          "page_description": "Now any account with premium features can easily share a vault item with a secure, encrypted link! Learn more about how to use share via link to collaborate with anyone.",
+          "page_excerpt": "Bitwarden premium users and paid organization members can now share vault items with anyone, even those who don’t use Bitwarden, through a secure link. This makes it easy to collaborate with contractors, teams from partner organizations, or even a family member.\n\nShare via link is now available for Bitwarden accounts with premium features. Use it in the Bitwarden extension and desktop and web apps, with support for mobile coming in a later release.\n\nFind the item to share in the vault, click on the three-dot menu, and click Share via link"
+        },
+        "content_context": "Now any account with premium features can easily share a vault item with a secure, encrypted link! Learn more about how to use share via link to collaborate with anyone.\n\nBitwarden premium users and paid organization members can now share vault items with anyone, even those who don’t use Bitwarden, through a secure link. This makes it easy to collaborate with contractors, teams from partner organizations, or even a family member. Share via link is now available for Bitwarden accounts with premium features. Use it in the Bitwarden extension and desktop and web apps, with support for mobile coming in a later release. Find the item to share in the vault, click on the three-dot menu, and click Share via link",
+        "trend_score": 41.56,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.043,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "The Guardian",
+        "category": "news",
+        "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
+        "published_at": "2026-10-20T23:38:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy；Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo；Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio。",
+        "related_headlines": [
+          "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+          "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio",
+          "U.S. restores intelligence sharing with Ukraine, Zelensky says",
+          "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened"
+        ],
+        "content_context": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy；Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo；Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio。\n\nRelated coverage: US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy\n\nRelated coverage: Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo\n\nRelated coverage: Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio\n\nRelated coverage: U.S. restores intelligence sharing with Ukraine, Zelensky says\n\nRelated coverage: Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+        "trend_score": 39.23,
+        "trend_breakdown": {
+          "freshness": 0.968,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk1VWWh6WU13ZjhvVmJYLVh5VUphYmdvYXJrR0NrZ2Y4dnZxcWxkM0xibVZrbU9ZSGJsZklweFNVbWVfcjJaZjJTMWg0amthNGhSbnFweVNhb2tFbTRmRFNaNDFXTUV3enQzbTlDTDI0Vm9lemlVN2NRVWhPWmRDRWc2VXFaT3NvNEF5dXBacnFXc2RU?oc=5",
+        "published_at": "2026-10-20T21:40:31+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground；Hottest 2026 Midterm Races—Talarico Up 2 Points In Texas Senate Race In Latest Poll (Updated Daily)；Final midterm election polls: Talarico, Abbott lead as early voting begins。",
+        "related_headlines": [
+          "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
+          "Hottest 2026 Midterm Races—Talarico Up 2 Points In Texas Senate Race In Latest Poll (Updated Daily)",
+          "Final midterm election polls: Talarico, Abbott lead as early voting begins",
+          "Suburban women souring on Paxton could doom him in tight race",
+          "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting"
+        ],
+        "content_context": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground；Hottest 2026 Midterm Races—Talarico Up 2 Points In Texas Senate Race In Latest Poll (Updated Daily)；Final midterm election polls: Talarico, Abbott lead as early voting begins。\n\nRelated coverage: In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground\n\nRelated coverage: Hottest 2026 Midterm Races—Talarico Up 2 Points In Texas Senate Race In Latest Poll (Updated Daily)\n\nRelated coverage: Final midterm election polls: Talarico, Abbott lead as early voting begins\n\nRelated coverage: Suburban women souring on Paxton could doom him in tight race\n\nRelated coverage: James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting",
+        "trend_score": 37.75,
+        "trend_breakdown": {
+          "freshness": 0.887,
+          "engagement": 0.0,
+          "topic_overlap": 0.364,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5",
+        "published_at": "2026-10-20T23:08:58+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Russia, sensing victory, cheers Trump’s latest shift against Ukraine；US relationship with Ukraine faces deepening strain；Trump’s October Surprise Is a Pivot to Putin。",
+        "related_headlines": [
+          "Russia, sensing victory, cheers Trump’s latest shift against Ukraine",
+          "US relationship with Ukraine faces deepening strain",
+          "Trump’s October Surprise Is a Pivot to Putin",
+          "Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky",
+          "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia"
+        ],
+        "content_context": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Russia, sensing victory, cheers Trump’s latest shift against Ukraine；US relationship with Ukraine faces deepening strain；Trump’s October Surprise Is a Pivot to Putin。\n\nRelated coverage: Russia, sensing victory, cheers Trump’s latest shift against Ukraine\n\nRelated coverage: US relationship with Ukraine faces deepening strain\n\nRelated coverage: Trump’s October Surprise Is a Pivot to Putin\n\nRelated coverage: Starlink Suspicions and a Frantic Warning: Inside Trump’s Turn on Zelensky\n\nRelated coverage: US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
+        "trend_score": 37.05,
+        "trend_breakdown": {
+          "freshness": 0.948,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUlmWHN2WXhyNEpYYjJuSEUxdF90a0t4Zk8zZ2RkM3BxbHB1cHhuVlU5QWVGc21Nd0ZSZmVCVER2MlBIZDNGNXdDVUpkSWxzM3pKYjdQRG80VzBRak5QRVU5YlVrLVJ3ajg2dEJWQVliVXVhSnFGbEExbXVJZ1lEUm1mM3NLNU9JQTBiWDlQSm1JbXdJdWxWNWRyNmpVQjc0ZXfSAacBQVVfeXFMTkJjckY3a1ljdGtobGRRQnhreTBTZEJxS2lXNzNmNTh4ZWhIeHZVNDRzT3JLNEhIUHdpN1Y5Mk9DM2lxMXoydEVORlA5SGpCT1NJTVI4SFBwUTBiblphMVNUbkNtdFlldVJWMmg1YTVCV2VrbTRmMnNwVlpfYTY3Ym00RzlWVmtiVjhRb2VnN1BRaTloSWZYUk16c3pDQjM0Ulhnb0pPNVE?oc=5",
+        "published_at": "2026-10-20T22:08:05+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3；Trump calls judge in East Potomac case a 'crazed lunatic' as interior official testifies on who ordered hundreds of trees cut at historic golf course；'Trash Island' or DC landmark? How a golf course landed Trump in a messy legal dispute。",
+        "related_headlines": [
+          "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3",
+          "Trump calls judge in East Potomac case a 'crazed lunatic' as interior official testifies on who ordered hundreds of trees cut at historic golf course",
+          "'Trash Island' or DC landmark? How a golf course landed Trump in a messy legal dispute",
+          "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming",
+          "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ"
+        ],
+        "content_context": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3；Trump calls judge in East Potomac case a 'crazed lunatic' as interior official testifies on who ordered hundreds of trees cut at historic golf course；'Trash Island' or DC landmark? How a golf course landed Trump in a messy legal dispute。\n\nRelated coverage: Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3\n\nRelated coverage: Trump calls judge in East Potomac case a 'crazed lunatic' as interior official testifies on who ordered hundreds of trees cut at historic golf course\n\nRelated coverage: 'Trash Island' or DC landmark? How a golf course landed Trump in a messy legal dispute\n\nRelated coverage: The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming\n\nRelated coverage: Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+        "trend_score": 36.31,
+        "trend_breakdown": {
+          "freshness": 0.906,
+          "engagement": 0.0,
+          "topic_overlap": 0.231,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots - Politico",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGw0Z0M0aENuRHpaZl9Sc2hzS0hfLTFycVhsd19VNkNoVjB1UGE4V1AzZ29FN0hHVlZhTXRybTlWTXUwdkc0dDZHOXRoekR0UjFEZTg0bHFtQnBCdjVWQm95S3YzNXVDTVdZa0w0aFFWekFySUZnOUREOEgtMEdzVXNrU09QYXFhZHQya1FRZkVMUGZQT0prVDFuckNDOWtVYWNYNVhjUkpNbk4zME1CZ2dTQUlsQWNiRWpSR3NqYTRNYVpkaXBRSkN3S1VFTTJVcUE?oc=5",
+        "published_at": "2026-10-20T21:23:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots；Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses；FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence。",
+        "related_headlines": [
+          "‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots",
+          "Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses",
+          "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence",
+          "France riots become Republican midterm boogeyman",
+          "What Trump’s Comments About France Say About Him"
+        ],
+        "content_context": "‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots；Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses；FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence。\n\nRelated coverage: ‘France should serve as a wakeup call’: Republicans find a closing message in Paris riots\n\nRelated coverage: Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses\n\nRelated coverage: FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence\n\nRelated coverage: France riots become Republican midterm boogeyman\n\nRelated coverage: What Trump’s Comments About France Say About Him",
+        "trend_score": 34.16,
+        "trend_breakdown": {
+          "freshness": 0.875,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mSVJUZm90YVlMRWxJSGp6V3dzRnZlM0JZOU1KQUxBV0NJc1Q5eVdnbmVpV29NMk51WlVSUzl6ZW1ydlJGU21BdnNnR203eE9vbXZ5ZHFySjRUb29Ka0NGeUFyb0VlWmNvcWxscld1cU5BdUNRaldyeWNB?oc=5",
+        "published_at": "2026-10-20T19:34:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\"；Trump says U.S. will pay fraud whistleblowers, and he'll decide who is paid；Trump to present YouTuber $10,000 check in new anti-fraud reward program。",
+        "related_headlines": [
+          "Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\"",
+          "Trump says U.S. will pay fraud whistleblowers, and he'll decide who is paid",
+          "Trump to present YouTuber $10,000 check in new anti-fraud reward program",
+          "Trump announces $25 million whistleblower program for alleged government fraud",
+          "Trump launches $25 million whistleblower incentive program; Nick Shirley receives first payout"
+        ],
+        "content_context": "Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\" - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\"；Trump says U.S. will pay fraud whistleblowers, and he'll decide who is paid；Trump to present YouTuber $10,000 check in new anti-fraud reward program。\n\nRelated coverage: Trump says U.S. will compensate fraud whistleblowers, and he'll decide who gets paid: \"I will be very generous\"\n\nRelated coverage: Trump says U.S. will pay fraud whistleblowers, and he'll decide who is paid\n\nRelated coverage: Trump to present YouTuber $10,000 check in new anti-fraud reward program\n\nRelated coverage: Trump announces $25 million whistleblower program for alleged government fraud\n\nRelated coverage: Trump launches $25 million whistleblower incentive program; Nick Shirley receives first payout",
+        "trend_score": 33.69,
+        "trend_breakdown": {
+          "freshness": 0.799,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRF9rTUJ3Yk4yZ0hZY3ZMTS05RlBULVAtMGN2d25PVG96OGVKcGV1c2pVd0wyQWphdnZhYWhNMDZZUXc5NEg2ak90VkFWb0hsUGVMNGkyTmczUmN3UlhsSHNZcm1SeGVPeTdnbnNESmwtZGk3Z0gxbUpBc3BIR1Jwc25CZE8tU0l6WmtjT29VQ21PT0pOQzlDZDZMWHY1UjNHcU5LNHoxaU9SNGZxVTh4QjBUNVRnbU120gG-AUFVX3lxTE8zLXhWcjAtZjB3bFFmWm9IRnBmUEFaem50d2FscEFWUkRCUk9abFM2aTJ1Wkk2Qm1na3JBMUpwOXhtMlhKNWhaeXYzX1lDQVBoNzFGYnJZMmVWQjMxTWpCM0QtWE5ta055V1FzVDBhajllWVZQNERQdFhRc2ExZ042NHM2R2FuOE16QkdpTV93Tmx4TVJNN2J0dDdwRE1zVUFzV1V5emlTVDNmR21adXEzeU9POGZCaEhpcjgxQmc?oc=5",
+        "published_at": "2026-10-20T20:08:22+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts；Investigators interview Rep. Ilhan Omar’s sister；Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.。",
+        "related_headlines": [
+          "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts",
+          "Investigators interview Rep. Ilhan Omar’s sister",
+          "Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.",
+          "Feds have DNA evidence that could prove Ilhan Omar wed her brother, committed immigration fraud: sources",
+          "Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship"
+        ],
+        "content_context": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts；Investigators interview Rep. Ilhan Omar’s sister；Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.。\n\nRelated coverage: Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts\n\nRelated coverage: Investigators interview Rep. Ilhan Omar’s sister\n\nRelated coverage: Trump officials scrutinized Omar in 2019. They didn’t find citizenship issues.\n\nRelated coverage: Feds have DNA evidence that could prove Ilhan Omar wed her brother, committed immigration fraud: sources\n\nRelated coverage: Ilhan Omar Investigation Aims to Build Case for Stripping Her Citizenship",
+        "trend_score": 33.05,
+        "trend_breakdown": {
+          "freshness": 0.823,
+          "engagement": 0.0,
+          "topic_overlap": 0.214,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother - CNN",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TmlDb2hFLXJ1Vml3b2cxT0lxZ2hMRmQzZ1hTM2xSc3dzcWloRFYzSVFPelFGMHJzTGk3SFRweUpKbjFWTTBmQ2JQWlBaWWxhU3h3bm45enhNMExGZFN0REUzalJIOEE4WTBUcms0VQ?oc=5",
+        "published_at": "2026-10-20T19:38:54+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother；Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier；Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash。",
+        "related_headlines": [
+          "Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother",
+          "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier",
+          "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+          "Ohio governor’s race in uproar over video featuring Democrat’s estranged mother",
+          "Ohio gubernatorial candidate Amy Acton’s campaign condemns ad featuring her estranged mother"
+        ],
+        "content_context": "Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother；Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier；Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash。\n\nRelated coverage: Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother\n\nRelated coverage: Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier\n\nRelated coverage: Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash\n\nRelated coverage: Ohio governor’s race in uproar over video featuring Democrat’s estranged mother\n\nRelated coverage: Ohio gubernatorial candidate Amy Acton’s campaign condemns ad featuring her estranged mother",
+        "trend_score": 31.35,
+        "trend_breakdown": {
+          "freshness": 0.802,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Los Angeles Times",
+        "category": "news",
+        "title": "California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmdrZ3ZkQWF3Tl9kN21tODlhYm5FMjNXeHh3VDBzRGJ0QnFYLUFvcXc3UFVKQkk2ZkVnOTlzY1pSaXNJNGFYZ2RaSUdXQmFUcmZrT25MUTc3cGpId0pZMXFncE5lS3Vyb1NpNk9fQUNLMnFTd1NsRnZTcndqVWVMREdPaGpVRWswMTB6cjVnc3Z1dFFCdkhmT0RGMVRSV3NW?oc=5",
+        "published_at": "2026-10-20T18:47:00+00:00",
+        "summary": "Los Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：California residents accused by feds of voter fraud react with shock, confusion and anger；DoJ’s suspected non-citizens list includes ‘high percentage’ of those born in US, LA officials say；Feds tease new ‘batch’ of noncitizen California voters as L.A. slams previous list。",
+        "related_headlines": [
+          "California residents accused by feds of voter fraud react with shock, confusion and anger",
+          "DoJ’s suspected non-citizens list includes ‘high percentage’ of those born in US, LA officials say",
+          "Feds tease new ‘batch’ of noncitizen California voters as L.A. slams previous list",
+          "Did the Trump administration just prove that voter fraud in California is a non-factor?",
+          "Vacaville, Sacramento residents among 28 charged in California voter fraud crackdown"
+        ],
+        "content_context": "California residents accused by feds of voter fraud react with shock, confusion and anger - Los Angeles Times\n\nLos Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：California residents accused by feds of voter fraud react with shock, confusion and anger；DoJ’s suspected non-citizens list includes ‘high percentage’ of those born in US, LA officials say；Feds tease new ‘batch’ of noncitizen California voters as L.A. slams previous list。\n\nRelated coverage: California residents accused by feds of voter fraud react with shock, confusion and anger\n\nRelated coverage: DoJ’s suspected non-citizens list includes ‘high percentage’ of those born in US, LA officials say\n\nRelated coverage: Feds tease new ‘batch’ of noncitizen California voters as L.A. slams previous list\n\nRelated coverage: Did the Trump administration just prove that voter fraud in California is a non-factor?\n\nRelated coverage: Vacaville, Sacramento residents among 28 charged in California voter fraud crackdown",
+        "trend_score": 30.05,
+        "trend_breakdown": {
+          "freshness": 0.766,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUtCaGZVU3AzWmlNZzl0QlEzR1dwdldMVFFRSnE2cmxhdzRUeG9aWlAtdWx4akQxb2gxZG03VWdkYlc3M3Y1QTNqZEN3R1FkZ1FzcFNBVDFhTFJnd2FjMWY1ZWJVcVh2dkZMU3d0dW1hMGJZMmw3b09WNUF4dWVhYUxlNWh0OENUb1FWUEU4d25odXV1VXdjNm9vZ3JrQndOcmJaanNPMk9sLTBXTTJTRFdtNnhlZEtPcWc?oc=5",
+        "published_at": "2026-10-20T15:28:24+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment；What’s Behind the Protests in France and What Happens Next；French government extends curfews after riots sweep across the country。",
+        "related_headlines": [
+          "As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment",
+          "What’s Behind the Protests in France and What Happens Next",
+          "French government extends curfews after riots sweep across the country",
+          "France’s crisis sounds familiar. Is America next?",
+          "How France’s worst rioting in years erupted and how the government responded"
+        ],
+        "content_context": "As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment；What’s Behind the Protests in France and What Happens Next；French government extends curfews after riots sweep across the country。\n\nRelated coverage: As violent riots and looting rock France, far-right leader Marine Le Pen is seizing the moment\n\nRelated coverage: What’s Behind the Protests in France and What Happens Next\n\nRelated coverage: French government extends curfews after riots sweep across the country\n\nRelated coverage: France’s crisis sounds familiar. Is America next?\n\nRelated coverage: How France’s worst rioting in years erupted and how the government responded",
+        "trend_score": 26.05,
+        "trend_breakdown": {
+          "freshness": 0.628,
+          "engagement": 0.0,
+          "topic_overlap": 0.214,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "author": "MadsLorentzen",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "Python",
+      "score": 3861,
+      "comment_count": 18884,
+      "total_stars": 60532,
+      "built_by": [
+        "claude",
+        "MadsLorentzen",
+        "ayobamiseun",
+        "rudycelekli",
+        "oscarbol09"
+      ],
+      "content_context": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\nLanguage: Python\n\nStars today: 3861\n\nTotal stars: 60532\n\nBuilt by: claude, MadsLorentzen, ayobamiseun, rudycelekli, oscarbol09",
+      "trend_score": 86.82,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "author": "anomalyco",
+      "summary": "The open source coding agent.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "TypeScript",
+      "score": 1240,
+      "comment_count": 29211,
+      "total_stars": 218901,
+      "built_by": [
+        "thdxr",
+        "rekram1-node",
+        "adamdotdevin",
+        "opencode-agent",
+        "kitlangton"
+      ],
+      "content_context": "The open source coding agent.\n\nLanguage: TypeScript\n\nStars today: 1240\n\nTotal stars: 218901\n\nBuilt by: thdxr, rekram1-node, adamdotdevin, opencode-agent, kitlangton",
+      "trend_score": 84.97,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.951,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "author": "Comfy-Org",
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "Python",
+      "score": 1206,
+      "comment_count": 16660,
+      "total_stars": 140745,
+      "built_by": [
+        "comfyanonymous",
+        "bigcat88",
+        "pythongosssss",
+        "comfyui-wiki",
+        "rattus128"
+      ],
+      "content_context": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\n\nLanguage: Python\n\nStars today: 1206\n\nTotal stars: 140745\n\nBuilt by: comfyanonymous, bigcat88, pythongosssss, comfyui-wiki, rattus128",
+      "trend_score": 83.85,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.922,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "author": "msitarzewski",
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "Shell",
+      "score": 562,
+      "comment_count": 26228,
+      "total_stars": 162336,
+      "built_by": [
+        "msitarzewski",
+        "rudycelekli",
+        "claude",
+        "epowelljr",
+        "Hotragn"
+      ],
+      "content_context": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nLanguage: Shell\n\nStars today: 562\n\nTotal stars: 162336\n\nBuilt by: msitarzewski, rudycelekli, claude, epowelljr, Hotragn",
+      "trend_score": 82.91,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.897,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "author": "DietrichGebert",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "JavaScript",
+      "score": 1208,
+      "comment_count": 9223,
+      "total_stars": 169626,
+      "built_by": [
+        "DietrichGebert",
+        "claude",
+        "ousamabenyounes",
+        "Lakshya77089",
+        "dhedhialy"
+      ],
+      "content_context": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\nLanguage: JavaScript\n\nStars today: 1208\n\nTotal stars: 169626\n\nBuilt by: DietrichGebert, claude, ousamabenyounes, Lakshya77089, dhedhialy",
+      "trend_score": 82.74,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.892,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "author": "stablyai",
+      "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "TypeScript",
+      "score": 1565,
+      "comment_count": 6317,
+      "total_stars": 99715,
+      "built_by": [
+        "nwparker",
+        "brennanb2025",
+        "Jinwoo-H",
+        "AmethystLiang",
+        "orca-ide"
+      ],
+      "content_context": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\nLanguage: TypeScript\n\nStars today: 1565\n\nTotal stars: 99715\n\nBuilt by: nwparker, brennanb2025, Jinwoo-H, AmethystLiang, orca-ide",
+      "trend_score": 82.63,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.89,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "author": "Graphify-Labs",
+      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "Python",
+      "score": 802,
+      "comment_count": 12542,
+      "total_stars": 130223,
+      "built_by": [
+        "claude",
+        "safishamsi",
+        "ayushcodes10",
+        "rajatnagda45",
+        "abhay-codes07"
+      ],
+      "content_context": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\nLanguage: Python\n\nStars today: 802\n\nTotal stars: 130223\n\nBuilt by: claude, safishamsi, ayushcodes10, rajatnagda45, abhay-codes07",
+      "trend_score": 82.35,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.882,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "author": "ruvnet",
+      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "TypeScript",
+      "score": 684,
+      "comment_count": 9160,
+      "total_stars": 77833,
+      "built_by": [
+        "ruvnet",
+        "claude",
+        "rudycelekli",
+        "proffesor-for-testing"
+      ],
+      "content_context": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\nLanguage: TypeScript\n\nStars today: 684\n\nTotal stars: 77833\n\nBuilt by: ruvnet, claude, rudycelekli, proffesor-for-testing",
+      "trend_score": 81.39,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.857,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "author": "cloudflare",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "JavaScript",
+      "score": 1712,
+      "comment_count": 2134,
+      "total_stars": 34175,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 1712\n\nTotal stars: 34175\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+      "trend_score": 80.8,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.842,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai",
+      "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "published_at": "2026-10-21T00:22:37.130292+00:00",
+      "language": "Python",
+      "score": 549,
+      "comment_count": 5958,
+      "total_stars": 76752,
+      "built_by": [
+        "chopratejas",
+        "JerrettDavis",
+        "claude",
+        "abhay-codes07",
+        "gglucass"
+      ],
+      "content_context": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.\n\nLanguage: Python\n\nStars today: 549\n\nTotal stars: 76752\n\nBuilt by: chopratejas, JerrettDavis, claude, abhay-codes07, gglucass",
+      "trend_score": 80.06,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.822,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Kilk – an offline, native macOS code and text editor with encoding detection",
+      "url": "https://apps.apple.com/ca/app/kilk-text-editor/id6816437134?mt=12",
+      "author": "OxinStudio",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-21T00:14:45+00:00",
+      "summary": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.",
+      "comment_highlights": [
+        "[flagged]"
+      ],
+      "linked_context": {
+        "resolved_url": "https://apps.apple.com/ca/app/kilk-text-editor/id6816437134?mt=12",
+        "page_title": "Kilk Text Editor App - App Store",
+        "page_description": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.",
+        "page_excerpt": "Pay once, keep it. Kilk opens old Persian, Arabic, Chinese and Cyrillic files correctly, brings back your work after a crash, and never touches the network. Kilk is a fast, native Mac text and code editor for people who want a simple tool that works, with no account, no subscription and no data collection. FILES IN ANY ENCODING Kilk recognizes old files that other editors turn into gibberish. T...\n\nThe developer, Oxin Studio Inc. , indicated that the appâs privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the developerâs privacy policy .\n\nTo help you better understand the developerâs responses, see Privacy Definitions and Examples ."
+      },
+      "content_context": "Download Kilk Text Editor by Oxin Studio Inc. on the App Store. See screenshots, ratings and reviews, user tips and more apps like Kilk Text Editor.\n\nPay once, keep it. Kilk opens old Persian, Arabic, Chinese and Cyrillic files correctly, brings back your work after a crash, and never touches the network. Kilk is a fast, native Mac text and code editor for people who want a simple tool that works, with no account, no subscription and no data collection. FILES IN ANY ENCODING Kilk recognizes old files that other editors turn into gibberish. T... The developer, Oxin Studio Inc. , indicated that the appâs privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the developerâs privacy policy . To help you better understand the developerâs responses, see Privacy Definitions and Examples .\n\nHN comment: [flagged]",
+      "trend_score": 51.46,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.043,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+      "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+      "author": "andsoitis",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-21T00:13:06+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+        "content_type": "application/pdf"
+      },
+      "content_context": null,
+      "trend_score": 51.41,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.043,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Compromised CA with private key password of \"4\"",
+      "url": "https://chaos.social/@fluepke/117474156947559280",
+      "author": "kesor",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-21T00:18:09+00:00",
+      "summary": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://chaos.social/@fluepke/117474156947559280",
+        "page_title": "Flüpke (@fluepke@chaos.social)",
+        "page_description": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+        "page_excerpt": null
+      },
+      "content_context": "The private key (D) is 4. No joke. Verification: openssl pkey -in key.pem -pubout -outform DER | openssl dgst -sha256 openssl x509 -in cert.pem -pubkey -noout | openssl pkey -pubin -outform DER | openssl dgst -sha256",
+      "trend_score": 46.21,
+      "trend_breakdown": {
+        "freshness": 0.996,
+        "engagement": 0.043,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Xbox CTO teases Halo 3 in WebAssembly",
+      "url": "https://twitter.com/scottvanvliet/status/2112671760131010982",
+      "author": "astlouis44",
+      "score": 4,
+      "comment_count": 0,
+      "published_at": "2026-10-21T00:18:38+00:00",
+      "summary": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://x.com/scottvanvliet/status/2112671760131010982",
+        "page_title": "Scott Van Vliet (@scottvanvliet) on X",
+        "page_description": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+        "page_excerpt": null
+      },
+      "content_context": "I've been cooking up retro vibes in XBOX LABS. Tell @asha_shar and I your favorite era!",
+      "trend_score": 43.51,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.1,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Microagi: Accelerating Embodied AGI",
+      "url": "https://www.microagi.ai/",
+      "author": "doener",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-21T00:11:30+00:00",
+      "summary": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.microagi.ai/",
+        "page_title": "Accelerating embodied AGI",
+        "page_description": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+        "page_excerpt": null
+      },
+      "content_context": "microagi is a data research lab working on end-to-end physical AGI, with a focus on reliable real-world deployments.",
+      "trend_score": 42.31,
+      "trend_breakdown": {
+        "freshness": 0.992,
+        "engagement": 0.068,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目热度集中，多个项目在GitHub趋势榜上表现突出。其中，ai-job-search项目单日获星超3800，展示了AI在垂直求职场景的自动化应用；OpenCode、ComfyUI、Ponytail等项目则分别聚焦于编码代理、图像生成界面和“懒惰智能”开发理念，体现了AI工具向专业化、模块化和效率化发展的趋势。此外，msitarzewski/agency-agents、Orca、ruflo等项目均围绕多智能体协作与编排框架展开，而Graphify则致力于将代码库转换为可查询的知识图谱。整体来看，开发者社区正积极推动AI从单一模型能力向复杂、可定制的工作流和智能体系统演进。",
+    "named_hotspots": [
+      {
+        "name": "ai-job-search",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为 ai-job-search 的 GitHub 项目在今日趋势中热度飙升，单日获得 3861 颗星，总星数已达 60532。该项目定位为“在您机器上运行的求职工具”，是一个基于 Claude Code 构建的 AI 求职申请框架。",
+        "core_details": "该项目由 MadsLorentzen 等人开发，使用 Python 语言编写。其核心功能是利用 AI（特别是 Claude Code）自动化求职流程，包括评估职位描述、定制简历、撰写求职信以及准备面试。项目强调“分叉并拥有它”，鼓励用户自行部署和控制。",
+        "ai_take": "该项目展示了 AI 在垂直应用场景（求职）中的具体落地，将大语言模型的文本生成与理解能力转化为一套可执行的自动化工作流。它代表了 AI 从通用对话向赋能个人生产力工具发展的趋势，特别是通过本地化部署来增强用户对数据和流程的控制权。",
+        "hype_check": "高热度反映了市场对 AI 提升求职效率工具的强烈需求，尤其是当前就业市场竞争激烈的背景下。单日暴涨的星数表明其概念（AI+求职自动化）极具吸引力，但需注意热度可能部分源于对“自动化求职”这一新颖概念的短期好奇，而非对项目成熟度的认可。",
+        "value_check": "潜在价值在于为求职者提供了一套结构化的 AI 辅助方案，可能提升申请材料的匹配度和准备效率。其开源性质允许社区贡献和定制。主要风险在于：1) 自动化生成内容的质量和个性化程度可能有限；2) 过度依赖 AI 可能导致申请材料缺乏独特性；3) 需要用户具备一定的技术能力来部署和配置。",
+        "follow_up": "关注项目后续的版本迭代、社区反馈以及实际使用案例。观察是否有企业或招聘平台对此类工具的反应，以及是否会出现类似的商业化产品。同时，需留意关于 AI 生成求职材料的伦理讨论及相关平台的政策变化。",
+        "evidence": "项目描述明确指出其功能为“评估职位描述、定制简历、撰写求职信、准备面试”，并基于 Claude Code 构建。GitHub 趋势数据（日增星数 3861，总星数 60532，Python 语言）支持其当前受关注的程度。项目标语“在您机器上运行的求职工具”和“分叉并拥有它”强调了其本地化、用户自主控制的特性。"
+      },
+      {
+        "name": "opencode",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "开源编码代理项目 OpenCode 在 GitHub 趋势榜上获得高关注度，单日新增 1240 颗星，总星数已超过 21.8 万。",
+        "core_details": "OpenCode 是一个用 TypeScript 构建的开源编码代理项目，由 anomalyco 组织维护，主要贡献者包括 thdxr、rekram1-node、adamdotdevin 等。项目定位为“开源编码代理”，旨在提供自动化代码生成或辅助编程功能。",
+        "ai_take": "该项目代表了 AI 在代码生成和自动化编程辅助领域的开源实践，可能通过代理架构提升开发效率，是当前 AI 赋能软件开发趋势的一部分。",
+        "hype_check": "高趋势分数（84.97）和单日大量星标增长表明社区兴趣浓厚，但需验证其实际功能成熟度与生产就绪性。",
+        "value_check": "作为开源项目，它降低了开发者使用 AI 编码工具的门槛，但价值取决于其代理能力的可靠性、可扩展性及与现有开发流程的整合效果。",
+        "follow_up": "关注其版本更新、实际用例反馈以及与其他 AI 编码工具（如 GitHub Copilot）的差异化特性。",
+        "evidence": "GitHub 仓库数据显示项目语言为 TypeScript，总星数 218901，单日增长 1240 星，趋势分数 84.97，项目描述为“开源编码代理”。"
+      },
+      {
+        "name": "ComfyUI",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "ComfyUI在GitHub趋势榜上热度显著，单日获1206颗星，总星数达140745，表明其在AI图像生成社区持续受到高度关注。",
+        "core_details": "ComfyUI是一个基于Python开发的、强大且模块化的扩散模型图形用户界面、API和后端，采用图/节点接口设计。项目团队包括comfyanonymous、bigcat88等贡献者，强调其作为“世界上最快的本地推理引擎”的定位。",
+        "ai_take": "该项目通过节点化、模块化的界面，降低了使用扩散模型进行图像生成和实验的技术门槛，提升了工作流的灵活性和效率，是开源AI工具生态中的重要组成部分。",
+        "hype_check": "热度真实，基于GitHub的星标增长和社区活跃度（评论数16660）可见其影响力，但“最快”的宣称需结合具体硬件和基准测试验证。",
+        "value_check": "为研究人员、艺术家和开发者提供了可定制、高性能的本地推理方案，支持扩散模型的快速迭代和应用开发，具有明确的实用价值。",
+        "follow_up": "关注其版本更新、节点生态扩展以及与其他AI工具（如Stable Diffusion）的集成进展。",
+        "evidence": "GitHub仓库数据：单日星标增长1206，总星标140745，语言为Python，项目描述强调其模块化设计和高速推理能力。"
+      },
+      {
+        "name": "msitarzewski/agency-agents",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub项目'msitarzewski/agency-agents'登上趋势榜，这是一个提供完整AI代理集合的开源项目，旨在模拟一个功能齐全的AI机构。",
+        "core_details": "该项目提供一系列具有特定角色和个性的AI代理，例如前端开发专家、Reddit社区运营专家、创意注入者和现实核查者等。每个代理都是拥有特定流程和已验证交付成果的专家。项目使用Shell语言编写，今日新增562颗星，总星数已达162,336。",
+        "ai_take": "该项目体现了AI应用向专业化、角色化和流程化发展的趋势。通过将不同任务封装成具有'人格'的代理，它探索了如何让AI更贴近人类协作模式，可能为构建复杂、多步骤的自动化工作流提供新范式。",
+        "hype_check": "热度较高。项目总星数超16万且单日增长显著，表明其在开发者社区中持续受到关注。概念'完整AI机构'和'专家代理'的包装颇具吸引力，但需注意其实际能力深度可能因具体代理而异。",
+        "value_check": "价值在于提供了一个可立即使用和扩展的AI代理工具箱，降低了构建复杂AI协作系统的门槛。对于希望快速集成特定领域AI能力的开发者或团队具有实用价值。开源性质也便于社区贡献和定制。",
+        "follow_up": "关注其代理列表的持续扩展、具体代理在实际项目中的应用案例，以及社区围绕该项目构建的生态系统和工具集成。",
+        "evidence": "项目描述明确指出其为'一个完整的AI机构'，包含从'前端向导到Reddit社区忍者'等多种专家代理。GitHub趋势数据（今日562星，总计162,336星）证明了其流行度。"
+      },
+      {
+        "name": "Ponytail",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Ponytail的GitHub项目在趋势榜上热度飙升，该项目旨在让AI代理像团队中最懒惰的资深开发者一样思考，其核心理念是“最好的代码是你从未写过的代码”。",
+        "core_details": "Ponytail是一个JavaScript项目，由DietrichGebert等人构建。它在一天内获得了1208颗星，总星数已达169626，显示出极高的社区关注度。项目通过引导AI代理采用极简、高效的开发思维，专注于减少不必要的代码编写。",
+        "ai_take": "该项目反映了AI在软件开发中向“懒惰智能”方向的演进，即利用AI自动化决策，避免过度工程化，提升开发效率。这与当前AI代理追求实用性和最小可行产品的趋势相符，可能推动更智能的代码生成和重构工具的发展。",
+        "hype_check": "热度很高，单日获星超千颗，总星数近17万，表明其在开发者社区中引起了广泛共鸣。但需注意，其理念是否能在复杂项目中普适，仍需实践检验。",
+        "value_check": "价值在于提倡的“少写代码”哲学，这有助于降低维护成本、提高代码质量。对于追求效率的团队，此类工具可能带来实质性生产力提升，但具体效果取决于AI代理的实际执行能力。",
+        "follow_up": "关注项目后续更新，看其是否集成到主流开发工具中，以及社区案例如何验证其在实际项目中的效果。同时，可对比类似AI代理项目，评估其独特优势。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，单日星数增长数据（1208颗）和总星数（169626）作为热度证据；项目描述明确其目标为模拟“最懒惰的资深开发者”，强调代码最小化理念。"
+      },
+      {
+        "name": "Orca",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Orca项目在GitHub趋势榜上热度显著，单日新增星标数达1565，总星标数已接近10万，显示出开发者社区的高度关注。",
+        "core_details": "Orca是一个用于管理和运行多智能体（如Grok Bot、Claude Code等）的平台，支持用户使用自己的订阅运行各类编码智能体。项目基于TypeScript开发，可在桌面、移动及远程运行时环境中使用。由stablyai团队维护，核心贡献者包括nwparker、brennanb2025等。",
+        "ai_take": "该项目体现了AI智能体编排与多模型协作的趋势，通过统一平台集成不同编码智能体，可能降低开发者使用AI辅助编程的门槛，并探索智能体协同工作的新范式。",
+        "hype_check": "高星标增长和社区讨论量（评论数超6300）表明项目确实引发了广泛兴趣，但需注意其仍处于开发阶段，实际生产就绪性和稳定性有待验证。",
+        "value_check": "若项目能有效整合不同智能体的优势，提供稳定的运行时和订阅管理，将为开发者提供灵活的AI编程工具选择，具有实用潜力。但具体性能、兼容性和长期维护能力是关键变量。",
+        "follow_up": "关注项目后续版本更新、智能体集成扩展情况以及用户实际部署反馈，特别是与Claude、Grok等模型的深度集成效果。",
+        "evidence": "项目GitHub页面描述其为“运行智能体舰队的地方”，支持多平台；趋势数据（日增1565星，总星99715，评论6317）证实其高关注度；技术栈为TypeScript，符合现代Web工具趋势。"
+      },
+      {
+        "name": "Graphify-Labs/graphify",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为Graphify的GitHub项目在趋势榜上热度飙升，单日获得802颗星，总星数已超过13万。该项目旨在将代码库、文档、SQL模式、配置文件和PDF等转换为可查询的知识图谱。",
+        "core_details": "Graphify是一个Python项目，提供了一种称为“/graphify”的技能，可与Claude Code、Cursor、Codex和Gemini CLI等工具集成。其核心特点是使用本地确定性AST（抽象语法树）解析技术，无需向量数据库，并能解释知识图谱中的每条边。项目由Graphify-Labs团队及多位贡献者开发。",
+        "ai_take": "该项目通过将非结构化或半结构化技术文档（如代码和配置文件）转化为结构化的知识图谱，增强了AI代码助手对复杂代码库的理解和查询能力。其“无需向量存储”的方法可能意味着更高的解析确定性和可解释性，为AI辅助编程提供了更透明、可靠的知识基础。",
+        "hype_check": "高热度（日增802星，总星超13万）表明开发者社区对此类能提升代码理解和导航效率的工具需求强烈。但需注意，热度可能部分源于其与当前流行的AI编程助手（如Claude、Cursor）的集成概念，实际生产环境的适用性和性能有待更多验证。",
+        "value_check": "潜在价值显著：1）为大型或遗留代码库提供了一种结构化的知识管理方案；2）通过可解释的图谱关系，可能降低代码维护和新人上手的认知负荷；3）与主流AI编程工具链的集成设计，提升了工具实用性。挑战在于处理超大规模或高度动态代码库时的扩展性与实时性。",
+        "follow_up": "关注其后续版本更新，特别是对更多编程语言和文档格式的支持情况。观察是否有基于该项目构建的实际案例研究，以评估其在企业级代码库中的效果。同时，可对比其“无向量存储”图谱方法与基于嵌入的检索增强生成（RAG）在代码问答任务中的优劣。",
+        "evidence": "项目描述明确指出其功能：“将任何代码库及其文档、SQL模式、配置、PDF等转换为可查询的知识图谱”，并强调技术特点为“本地确定性AST解析，每条边可解释，无需向量存储”。GitHub数据（日增星数、总星数、语言为Python）及与Claude Code等工具的集成信息均来自提供的原始数据。"
+      },
+      {
+        "name": "ruflo",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "ruflo项目在GitHub趋势榜上热度飙升，单日获星684颗，总星数已达77833，显示出开发者社区的高度关注。",
+        "core_details": "ruflo被描述为'原始智能体框架'，是一个基于TypeScript开发的开源项目。其核心功能是部署智能多智能体集群、协调自主工作流以及构建对话式AI系统。关键特性包括自适应记忆、自学习智能、联邦架构、向量RAG集成，并原生支持Claude Code/Codex/Hermes等多种模型。",
+        "ai_take": "该项目代表了当前AI工程化的重要方向——从单一模型调用转向复杂多智能体系统的编排与管理。其强调的'自适应记忆'和'自学习智能'指向了构建更持续、更自主AI系统的趋势，而'联邦'特性则可能涉及分布式或隐私保护的协作模式。",
+        "hype_check": "热度较高且真实。高星数（近7.8万）和单日显著增长表明其已获得开发者社区的实质性认可，并非短期营销炒作。项目描述的功能集合（多智能体、工作流、RAG）也切中了当前AI应用开发的关键痛点。",
+        "value_check": "潜在价值高。如果其宣称的'智能体框架'能力能够稳定实现，将显著降低构建复杂、可协作AI系统的门槛。原生集成多种前沿模型（如Claude系列）也提升了其作为统一开发平台的实用性。",
+        "follow_up": "建议关注其实际部署案例、API文档的成熟度以及社区活跃度（如Issue和PR的讨论质量），以评估其生产就绪程度。同时，可对比其他智能体框架（如LangChain、AutoGen）的差异与优势。",
+        "evidence": "证据来源于GitHub趋势数据：项目单日获星684，总星77833，语言为TypeScript。项目描述明确列出了其核心功能与特性。高关注度表明社区对其技术方向的兴趣。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "MadsLorentzen/ai-job-search",
+        "content_summary": "这是一个运行在本地机器上的AI求职应用框架，基于Claude Code构建。它能够评估招聘信息、定制简历、撰写求职信以及准备面试。项目强调用户可以复刻并完全掌控它。",
+        "ai_comment": "该项目将AI能力深度集成到求职流程中，体现了AI在提升个人生产力方面的具体应用，其本地化特性也关注了数据隐私。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "anomalyco/opencode",
+        "content_summary": "这是一个开源的编码智能体项目。",
+        "ai_comment": "作为开源编码助手，它可能旨在提供类似GitHub Copilot的功能，但具有更高的可定制性和透明度，反映了AI编程工具的开源化趋势。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "Comfy-Org/ComfyUI",
+        "content_summary": "这是一个功能强大且模块化的扩散模型图形用户界面、API和后端，采用图/节点接口。它自称是世界上速度最快的本地推理引擎。",
+        "ai_comment": "该项目代表了AI生成式图像工具向更专业、可定制化工作流发展的方向，其节点式界面深受高级用户欢迎。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Kilk – an offline, native macOS code and text editor with encoding detection",
+        "content_summary": "Kilk是一款适用于macOS的离线、原生代码和文本编辑器，主打强大的编码检测功能。它能正确打开旧式的波斯语、阿拉伯语、中文和西里尔语编码文件，并在崩溃后恢复工作，且完全不连接网络。该编辑器采用一次性买断制，无需账户、订阅，也不收集数据。",
+        "ai_comment": "这款编辑器迎合了追求简洁、隐私和兼容性的专业用户需求，特别是在处理多语言和历史文件方面，其离线特性在当前云服务普及的背景下显得独特。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+        "content_summary": "这是一份关于不同代际AI工具对“编写代码”与“交付代码”生产力影响的学术论文。",
+        "ai_comment": "该研究可能量化了AI编程助手从早期到现代版本对软件开发生命周期不同阶段的实际影响，对评估AI工具的投资回报率有参考价值。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Compromised CA with private key password of \"4\"",
+        "content_summary": "披露了一个安全事件，某个受损的证书颁发机构（CA）的私钥密码被设置为极其简单的数字“4”。帖子提供了使用OpenSSL命令验证此漏洞的方法。",
+        "ai_comment": "此事件凸显了关键基础设施中令人震惊的安全疏忽，即使是CA也可能存在基础性安全漏洞，对整个PKI（公钥基础设施）信任链构成威胁。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
+        "content_summary": "乌克兰总统泽连斯基表示，美国已恢复与乌克兰共享关于俄罗斯袭击的情报。相关报道指出，在泽连斯基与特朗普特使在奥斯陆会谈后，早期预警系统“现在开始运作”，并且此次恢复是在与参议员鲁比奥通话后实现的。",
+        "ai_comment": "这表明美乌在军事情报合作上可能经历了一段中断或紧张期后有所恢复，是俄乌冲突中外部支持动态变化的一个信号。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground - The New York Times",
+        "content_summary": "报道聚焦德克萨斯州参议院选举中，现任参议员帕克斯顿与挑战者塔拉里科在关键战场上的角逐。最新民调显示塔拉里科领先2个百分点，早期投票已开始。有分析指出郊区女性选民对帕克斯顿的支持率下降可能影响选情。",
+        "ai_comment": "这反映了美国中期选举中地方关键席位的激烈竞争，选民结构（如郊区女性）的动向可能成为决定胜负的重要因素。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post",
+        "content_summary": "报道称，俄罗斯感觉到胜利在望，并对特朗普最新转向反对乌克兰的立场表示欢迎。文章指出美乌关系面临深度紧张，特朗普的“十月惊奇”被描述为转向普京。同时有报道提及对星链的怀疑以及内部紧急警告等因素。",
+        "ai_comment": "此报道将美国国内政治变化与俄乌冲突的国际局势直接关联，显示了美国政策倾向对地缘政治战场的即时且显著的影响。"
+      }
+    ],
+    "closing_note": "今日热点凸显了AI开源生态的活力，项目多聚焦于解决实际生产力问题——从求职、编码到图像生成。值得注意的是，多智能体框架与专业化工具并进，反映出AI应用正从通用能力向深度集成与自主协作迈进。然而，高热度常伴随概念新颖性，实际成熟度与长期价值仍需观察具体落地反馈。开发者可关注这些项目的后续迭代与社区案例，以评估其技术深度与实用边界。",
+    "_errors": []
+  }
+}
