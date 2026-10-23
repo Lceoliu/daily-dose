@@ -1,0 +1,1453 @@
+{
+  "generated_at": "2026-10-23T00:23:48.918272+00:00",
+  "counts": {
+    "github_trending": 9,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "author": "DietrichGebert",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "JavaScript",
+        "score": 1948,
+        "comment_count": 9436,
+        "total_stars": 173446,
+        "built_by": [
+          "DietrichGebert",
+          "claude",
+          "ousamabenyounes",
+          "Lakshya77089",
+          "dhedhialy"
+        ],
+        "content_context": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\nLanguage: JavaScript\n\nStars today: 1948\n\nTotal stars: 173446\n\nBuilt by: DietrichGebert, claude, ousamabenyounes, Lakshya77089, dhedhialy",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "author": "Graphify-Labs",
+        "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "Python",
+        "score": 1408,
+        "comment_count": 12721,
+        "total_stars": 132930,
+        "built_by": [
+          "claude",
+          "safishamsi",
+          "ayushcodes10",
+          "rajatnagda45",
+          "abhay-codes07"
+        ],
+        "content_context": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\nLanguage: Python\n\nStars today: 1408\n\nTotal stars: 132930\n\nBuilt by: claude, safishamsi, ayushcodes10, rajatnagda45, abhay-codes07",
+        "trend_score": 86.62,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.994,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "supabase/supabase",
+        "url": "https://github.com/supabase/supabase",
+        "author": "supabase",
+        "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "TypeScript",
+        "score": 693,
+        "comment_count": 16999,
+        "total_stars": 113478,
+        "built_by": [
+          "joshenlim",
+          "kiwicopple",
+          "MildTomato",
+          "saltcod",
+          "alaister"
+        ],
+        "content_context": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.\n\nLanguage: TypeScript\n\nStars today: 693\n\nTotal stars: 113478\n\nBuilt by: joshenlim, kiwicopple, MildTomato, saltcod, alaister",
+        "trend_score": 85.4,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.962,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "author": "cloudflare",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "JavaScript",
+        "score": 2979,
+        "comment_count": 2462,
+        "total_stars": 39544,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ],
+        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2979\n\nTotal stars: 39544\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+        "trend_score": 85.18,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.956,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "php/php-src",
+        "url": "https://github.com/php/php-src",
+        "author": "php",
+        "summary": "The PHP Interpreter",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "C",
+        "score": 287,
+        "comment_count": 8309,
+        "total_stars": 41145,
+        "built_by": [
+          "dstogov",
+          "nikic",
+          "weltling",
+          "cmb69",
+          "iliaal"
+        ],
+        "content_context": "The PHP Interpreter\n\nLanguage: C\n\nStars today: 287\n\nTotal stars: 41145\n\nBuilt by: dstogov, nikic, weltling, cmb69, iliaal",
+        "trend_score": 81.7,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.865,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "author": "anthropics",
+        "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "Python",
+        "score": 303,
+        "comment_count": 3530,
+        "total_stars": 31585,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mattpic-ant"
+        ],
+        "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 303\n\nTotal stars: 31585\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
+        "trend_score": 80.09,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.822,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "luongnv89/claude-howto",
+        "url": "https://github.com/luongnv89/claude-howto",
+        "author": "luongnv89",
+        "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "Python",
+        "score": 177,
+        "comment_count": 5386,
+        "total_stars": 43186,
+        "built_by": [
+          "luongnv89",
+          "claude",
+          "edocltd",
+          "toanalien",
+          "lzw-git-all"
+        ],
+        "content_context": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\nLanguage: Python\n\nStars today: 177\n\nTotal stars: 43186\n\nBuilt by: luongnv89, claude, edocltd, toanalien, lzw-git-all",
+        "trend_score": 79.59,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.809,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "fastapi/fastapi",
+        "url": "https://github.com/fastapi/fastapi",
+        "author": "fastapi",
+        "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "Python",
+        "score": 101,
+        "comment_count": 10087,
+        "total_stars": 103734,
+        "built_by": [
+          "tiangolo",
+          "github-actions",
+          "YuriiMotov",
+          "pre-commit-ci"
+        ],
+        "content_context": "FastAPI framework, high performance, easy to learn, fast to code, ready for production\n\nLanguage: Python\n\nStars today: 101\n\nTotal stars: 103734\n\nBuilt by: tiangolo, github-actions, YuriiMotov, pre-commit-ci",
+        "trend_score": 79.45,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.806,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Meloong-Git/PCL",
+        "url": "https://github.com/Meloong-Git/PCL",
+        "author": "Meloong-Git",
+        "summary": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+        "published_at": "2026-10-23T00:23:26.400099+00:00",
+        "language": "Visual Basic .NET",
+        "score": 119,
+        "comment_count": 1199,
+        "total_stars": 8684,
+        "built_by": [
+          "LTCatt",
+          "allMagicNB",
+          "RyogiMutsuki",
+          "wyc-26",
+          "Pigeon0v0"
+        ],
+        "content_context": "Minecraft 启动器 Plain Craft Launcher（PCL）。\n\nLanguage: Visual Basic .NET\n\nStars today: 119\n\nTotal stars: 8684\n\nBuilt by: LTCatt, allMagicNB, RyogiMutsuki, wyc-26, Pigeon0v0",
+        "trend_score": 75.52,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.702,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Making a smart TV dumb and then smart",
+        "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+        "author": "animalhot",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:10:45+00:00",
+        "summary": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/anubhavmalhotra/r2d2-tv",
+          "page_title": "GitHub - anubhavmalhotra/r2d2-tv: Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs",
+          "page_description": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv",
+          "page_excerpt": "Demo: https://anubhavmalhotra.com/vibing/r2d2-webos/r2d2-demo.mp4\n\nA local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs. A Linux compute host runs Chromium and the voice models; the TV provides the display, applications, and remote control.\n\nThe TV components run as root and modify vendor system services on one specific firmware build. This is unsupported, may void your warranty, and can leave the TV unusable until a reboot or a factory reset. Use it at your own risk."
+        },
+        "content_context": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.<p>My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.<p>While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience.<p>It was liberating to finally free the TV of bloatware and make it truly personalized!\n\nLocal home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv\n\nDemo: https://anubhavmalhotra.com/vibing/r2d2-webos/r2d2-demo.mp4 A local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs. A Linux compute host runs Chromium and the voice models; the TV provides the display, applications, and remote control. The TV components run as root and modify vendor system services on one specific firmware build. This is unsupported, may void your warranty, and can leave the TV unusable until a reboot or a factory reset. Use it at your own risk.",
+        "trend_score": 54.35,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.074,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Bloom – an org-mode compatible Android app for managing notes and tasks",
+        "url": "https://github.com/rrajath/bloom",
+        "author": "rrajath",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:22:31+00:00",
+        "summary": "A task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/rrajath/bloom",
+          "page_title": "GitHub - rrajath/bloom: A task management and note-taking app for Android that is compatible with org-mode",
+          "page_description": "A task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom",
+          "page_excerpt": "A native Android Org-mode note-taking app: a first-class mobile companion for Emacs org-mode users.\n\nBloom edits plain .org files in a folder you choose. There is no account, no proprietary database, and no export step: the files on disk are your notes, byte-for-byte, and they sync to your laptop with whatever tool you already trust (Syncthing is the recommended pairing). If you stop using Bloom tomorrow, your notes are exactly where they always were.\n\nCI runs the unit tests on every push and the Compose UI tests nightly. Maestro end-to-end flows live in .maestro/ ."
+        },
+        "content_context": "TL;DR: Made an android app for note-taking and task management compatible with org-mode and I'd love for you to try it. It has a ton of features and a lot of quality of life improvements. If you use Emacs and use an Android phone, this would be a great companion app for you.<p>What is Bloom and why does it exist? Bloom is an org-mode compatible Android app for note-taking and task management. I was a long time Orgzly Revived user and there were certain pain points I wanted solved, like capture templates, bookmarks, nicer UI, better themes, handling sync conflicts, etc. I wanted to solve this for myself and spent a few months working on the app. I announced it on r/emacs (<a href=\"https://www.reddit.com/r/emacs/comments/1w35r88/grove_an_android_app_for_notetaking_and_task\" rel=\"nofollow\">https://www.reddit.com/r/emacs/comments/1w35r88/grove_an_and...</a>) a few weeks ago and it is now available on F-Droid and Play Store.<p>Features<p>I want to list out some of the features here (copied over from my announcement post on r/emacs):<p>- Beautiful UI with read and edit modes that offer a really nice viewing experience (rendering headings, plain text, formatted content, tags, dates, dr...\n\nA task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom\n\nA native Android Org-mode note-taking app: a first-class mobile companion for Emacs org-mode users. Bloom edits plain .org files in a folder you choose. There is no account, no proprietary database, and no export step: the files on disk are your notes, byte-for-byte, and they sync to your lapto...",
+        "trend_score": 51.6,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.047,
+          "topic_overlap": 0.1,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+        "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+        "author": "choult",
+        "score": 2,
+        "comment_count": 3,
+        "published_at": "2026-10-23T00:06:50+00:00",
+        "summary": "No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...",
+        "comment_highlights": [
+          "No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...",
+          "This wouldn't be needed if banks supported something like PSD2.<p>I would love to connect systems to my bank in a safe way, but I can either do this, release the AI (I don't by the way) or shell out money to a service like Monarch, which relies in Plaid for all of its connections.<p>The banks bro...",
+          "<a href=\"https://archive.is/20261022212208/https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access\" rel=\"nofollow\">https://archive.is/20261022212208/https://www.axios.com/2026...</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...\n\nHN comment: This wouldn't be needed if banks supported something like PSD2.<p>I would love to connect systems to my bank in a safe way, but I can either do this, release the AI (I don't by the way) or shell out money to a service like Monarch, which relies in Plaid for all of its connections.<p>The banks bro...\n\nHN comment: <a href=\"https://archive.is/20261022212208/https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access\" rel=\"nofollow\">https://archive.is/20261022212208/https://www.axios.com/2026...</a>",
+        "trend_score": 50.95,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.148,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "What FDE Means at OpenAI",
+        "url": "https://openai.com/index/forward-deployed-engineering-means/",
+        "author": "shenli3514",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-23T00:19:00+00:00",
+        "summary": "What forward deployed engineering means at OpenAI",
+        "comment_highlights": [
+          "Full Disk Encryption, obviously"
+        ],
+        "linked_context": {
+          "resolved_url": "https://openai.com/index/forward-deployed-engineering-means/",
+          "page_title": "What FDE means at OpenAI",
+          "page_description": "What forward deployed engineering means at OpenAI",
+          "page_excerpt": "What we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact. By: Colin Jarvis, Head of Forward Deployed Engineering at OpenAI\n\nWhen Codex came out, someone on the team asked me, “What do we do when Codex can just one-shot the use cases we spent the last few months building?”\n\nThat question gets to the heart of what FDE means at OpenAI. We work alongside customers to understand their hardest problems and build solutions they can depend on. What we learn helps shape our products and gives Research concrete problems to solve."
+        },
+        "content_context": "What forward deployed engineering means at OpenAI\n\nWhat we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact. By: Colin Jarvis, Head of Forward Deployed Engineering at OpenAI When Codex came out, someone on the team asked me, “What do we do when Codex can just one-shot the use cases we spent the last few months building?” That question gets to the heart of what FDE means at OpenAI. We work alongside customers to understand their hardest problems and build solutions they can depend on. What we learn helps shape our products and gives Research concrete problems to solve.\n\nHN comment: Full Disk Encryption, obviously",
+        "trend_score": 50.74,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.084,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "author": "csh0",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:14:14+00:00",
+        "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+          "page_title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear | TechCrunch",
+          "page_description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+          "page_excerpt": "Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors including In-Q-Tel, Sequoia, and 8VC. The round values the company at $1.2 billion.\n\nThese are dogs that perform tasks that are dangerous for humans or difficult for machines, like bomb detection, searches, and other specialized operations. In its launch announcement, the company said that more than 80% of the working dogs used by the U.S. military come from Europe and less than half of them are fit for service.\n\nSo not only is there a dwindling supply of working dogs for these tasks, but the U.S. has also become increasingly reliant on foreign nations for dogs that play an important role in the U.S. military and in law enforcement. That is key for what Warhound is trying to do. The..."
+        },
+        "content_context": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.\n\nColossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors including In-Q-Tel, Sequoia, and 8VC. The round values the company at $1.2 billion. These are dogs that perform tasks that are dangerous for humans or difficult for machines, like bomb detection, searches, and other specialized operations. In its launch announcement, the company said that more than 80% of the working dogs used by the U.S. military come from Europe and less than half of them are fit for service. So not only is there a dwindling supply of working dogs for these tasks, but the U.S. has also become increasingly reliant on foreign nations for dogs that play an important role in the U.S. military and in law enforcement. That is key for what Warhound is trying to do. The...",
+        "trend_score": 50.21,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.074,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
+        "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
+        "author": "toomuchtodo",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:05:56+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 48.24,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.074,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
+        "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+        "author": "bookofjoe",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-10-23T00:06:18+00:00",
+        "summary": "<a href=\"https://archive.ph/39LUc\" rel=\"nofollow\">https://archive.ph/39LUc</a>",
+        "comment_highlights": [
+          "<a href=\"https://archive.ph/39LUc\" rel=\"nofollow\">https://archive.ph/39LUc</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: <a href=\"https://archive.ph/39LUc\" rel=\"nofollow\">https://archive.ph/39LUc</a>",
+        "trend_score": 43.5,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.111,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Elon Musk Just Threatened the Coming Democratic Majority",
+        "url": "https://www.thebignewsletter.com/p/elon-musk-just-threatened-the-coming",
+        "author": "chmaynard",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:09:53+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 43.04,
+        "trend_breakdown": {
+          "freshness": 0.99,
+          "engagement": 0.093,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Never-Before-Seen Images Reveal Damage at U.S. Bases in Middle East",
+        "url": "https://meidasnews.com/news/so-much-worse-than-people-realize-never-before-seen-images-reveal-damage-at-u-s-bases-as-troops-describe-being-abandoned",
+        "author": "slowin",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:16:10+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 42.61,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.074,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "America is Booming into a Ghost Town [video]",
+        "url": "https://www.youtube.com/watch?v=rX0RuKswLAo",
+        "author": "idbnstra",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-23T00:00:58+00:00",
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/watch?v=rX0RuKswLAo",
+          "page_title": "- YouTube",
+          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "page_excerpt": null
+        },
+        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "trend_score": 42.18,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.074,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTQzWEp3dGV0T1ZtNHdaam5JYy1hQlpoQmtzMEVvaFc3cjNMTjQ0dEd3R2xjdUZzQjA0RnJ6NU1PMUI0SFhiU1I4NTZlM3RvZ080RDJjaUtBUDV3UHBMNHNxdWJIQkdTUUYwaW8td2J4c1V1bHdZdU01Ymk2a2pIM1BPa3hfQTA0amRFWFc0OEkzcXZ3WUVHTW1YN0duRWs2Z1VOa3VtUU5tS1lsZy1TYU9UbGozeFkzZzByS1hFbEtncTVHM3c?oc=5",
+        "published_at": "2026-10-22T22:05:38+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Supreme Court says New Hampshire student IDs can’t be used to vote in November；Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire；Supreme Court sides with GOP in New Hampshire student ID voting fight。",
+        "related_headlines": [
+          "Supreme Court says New Hampshire student IDs can’t be used to vote in November",
+          "Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire",
+          "Supreme Court sides with GOP in New Hampshire student ID voting fight",
+          "Supreme Court Backs Republicans in New Hampshire Voter-ID Clash",
+          "New Hampshire’s SCOTUS appeal puts student voter ID law in flux"
+        ],
+        "content_context": "Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Supreme Court says New Hampshire student IDs can’t be used to vote in November；Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire；Supreme Court sides with GOP in New Hampshire student ID voting fight。\n\nRelated coverage: Supreme Court says New Hampshire student IDs can’t be used to vote in November\n\nRelated coverage: Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire\n\nRelated coverage: Supreme Court sides with GOP in New Hampshire student ID voting fight\n\nRelated coverage: Supreme Court Backs Republicans in New Hampshire Voter-ID Clash\n\nRelated coverage: New Hampshire’s SCOTUS appeal puts student voter ID law in flux",
+        "trend_score": 37.47,
+        "trend_breakdown": {
+          "freshness": 0.904,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWN4Sm1oU1NrZ0h5QlMyMG9nZnJyRGhnaDc4OGNKd0JfMWJXWENEZUh2MHJucG9tbFozNGUxQ2MzVzFCeXMxbUVfZXF1bGdKdF9lMHNtUFViNmhOWEJiYWZmNFc5aGpta1loY0NmQWxzc2xhS1pCNHlsWVhLdFlvbG1sZWtYRWE5TGhUbGlocERXWmxoWTN3S0J0QnpNTW1YNFlEQk9KNA?oc=5",
+        "published_at": "2026-10-22T22:03:15+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat；Multiple protesters removed during President Trump’s Greenville rally；Trump rallies NC for Republicans as money dries up, ratings favor Democrats。",
+        "related_headlines": [
+          "Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat",
+          "Multiple protesters removed during President Trump’s Greenville rally",
+          "Trump rallies NC for Republicans as money dries up, ratings favor Democrats",
+          "Multiple protestors kicked out of campaign rally during Trump’s speech in North Carolina",
+          "The Chronicle went to Trump’s Greenville rally. Here’s what we saw"
+        ],
+        "content_context": "Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat；Multiple protesters removed during President Trump’s Greenville rally；Trump rallies NC for Republicans as money dries up, ratings favor Democrats。\n\nRelated coverage: Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat\n\nRelated coverage: Multiple protesters removed during President Trump’s Greenville rally\n\nRelated coverage: Trump rallies NC for Republicans as money dries up, ratings favor Democrats\n\nRelated coverage: Multiple protestors kicked out of campaign rally during Trump’s speech in North Carolina\n\nRelated coverage: The Chronicle went to Trump’s Greenville rally. Here’s what we saw",
+        "trend_score": 36.18,
+        "trend_breakdown": {
+          "freshness": 0.902,
+          "engagement": 0.0,
+          "topic_overlap": 0.231,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdTc2tHclB1RmRzLWhFYmVZMVVvSVpiZXUwZEw5MDh5cW53Tk4yMEhPcFBwYUJhdXNiZENfMXFXeWV3N3BxQm5TR2hLR0pCZ2NSQkdZUGxvSnFWdndZQ3FjYVZfb2xzVzV3alRzemhyYzhmQS0xcjktRnVtU1ZZb2hzQmQ3c1VUWEJIRg?oc=5",
+        "published_at": "2026-10-22T22:35:06+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：New York City Passes Horse Carriage Ban, Ending a Central Park Tradition；NYC Council passes law to phase out horse-drawn carriages by 2028；Breaking news: New York City ends the use of carriage horses。",
+        "related_headlines": [
+          "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+          "NYC Council passes law to phase out horse-drawn carriages by 2028",
+          "Breaking news: New York City ends the use of carriage horses",
+          "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their future",
+          "Mamdani expected to face legal trouble over PETA-backed horse carriage ban"
+        ],
+        "content_context": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：New York City Passes Horse Carriage Ban, Ending a Central Park Tradition；NYC Council passes law to phase out horse-drawn carriages by 2028；Breaking news: New York City ends the use of carriage horses。\n\nRelated coverage: New York City Passes Horse Carriage Ban, Ending a Central Park Tradition\n\nRelated coverage: NYC Council passes law to phase out horse-drawn carriages by 2028\n\nRelated coverage: Breaking news: New York City ends the use of carriage horses\n\nRelated coverage: Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their future\n\nRelated coverage: Mamdani expected to face legal trouble over PETA-backed horse carriage ban",
+        "trend_score": 34.62,
+        "trend_breakdown": {
+          "freshness": 0.925,
+          "engagement": 0.0,
+          "topic_overlap": 0.083,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother - CNN",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdy15dmRBVlg4UFRYM243MFZ3OURqeXNMLXZ2WnpaZjRFcTFONlY2aEZOc1ZTaUx2dEdtMnB4SDV5Z2xwQ0FXanZvVWFiOGp2SXpfVGhJUmFFRDQzbkZGSG9ZNzRDVWpxOVRDUVptdFh3bjFkdjRBVUs5RHViU3NWWQ?oc=5",
+        "published_at": "2026-10-22T21:08:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother；Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad；Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump。",
+        "related_headlines": [
+          "Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother",
+          "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+          "Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump",
+          "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+          "The Ad Dividing the Republican Party"
+        ],
+        "content_context": "Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother；Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad；Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump。\n\nRelated coverage: Live updates: Trump tells Ramaswamy not to take down controversial ad featuring his opponent’s estranged mother\n\nRelated coverage: Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad\n\nRelated coverage: Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump\n\nRelated coverage: 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother\n\nRelated coverage: The Ad Dividing the Republican Party",
+        "trend_score": 34.3,
+        "trend_breakdown": {
+          "freshness": 0.864,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "Canada tells diplomats to steer clear of US midterm candidates - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQy1kbUJvdmw0MzFZZWNYRTIzcXNYdk1DeEdSR0ZaV2xMY0piQnpNelNKRTczWkIyN3pzOXFwbVkxNzFSSFpzSmRhRzNyLWVHTW9YTDdLcUg5TWJfdjdjdlBROU1waUltUF81S2FrV08xanN0OXVDZXBWRnBfU0htTjlSQWstSWoyNEpsdU91RGItVlIxeVlvbkVRUm5nSFBiZlRJZElUNTJxQ0I4MWFUZUNSNA?oc=5",
+        "published_at": "2026-10-22T21:06:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Canada tells diplomats to steer clear of US midterm candidates；Canadian diplomats barred interacting with US midterm candidates: Reports；Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.。",
+        "related_headlines": [
+          "Canada tells diplomats to steer clear of US midterm candidates",
+          "Canadian diplomats barred interacting with US midterm candidates: Reports",
+          "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+          "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
+          "Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference"
+        ],
+        "content_context": "Canada tells diplomats to steer clear of US midterm candidates - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Canada tells diplomats to steer clear of US midterm candidates；Canadian diplomats barred interacting with US midterm candidates: Reports；Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.。\n\nRelated coverage: Canada tells diplomats to steer clear of US midterm candidates\n\nRelated coverage: Canadian diplomats barred interacting with US midterm candidates: Reports\n\nRelated coverage: Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.\n\nRelated coverage: Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference\n\nRelated coverage: Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference",
+        "trend_score": 33.05,
+        "trend_breakdown": {
+          "freshness": 0.863,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblM5N2lNR1dGazZJNVFnYkhPeUU4bmlXTWJQX3JMX1ZNanBaM21EaTRzT0d0YUx4Rkg2bjQ1bXlSMjNFOWNKTGJ3WFcyQ0lTUUp1TmxSUlJQWV9qZjRONDY5SFZWQVRHd1l6c2ZsRmtONzYzTms4OGFzYlp2MUl6bTFPanBpaFNPbkI2cWxUS1pVdXpBcDl3Vk9uOExYd29JUlE?oc=5",
+        "published_at": "2026-10-22T20:06:19+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Netanyahu says U.S. and Israel must topple Iranian regime；U.S. Reportedly Considering Major Strikes on Iran After Midterms；Netanyahu promises Iran regime change: Can Israel topple Tehran government?。",
+        "related_headlines": [
+          "Netanyahu says U.S. and Israel must topple Iranian regime",
+          "U.S. Reportedly Considering Major Strikes on Iran After Midterms",
+          "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+          "Israeli military conducts massive \"power projection\" operation near Iran's border",
+          "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections"
+        ],
+        "content_context": "Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Netanyahu says U.S. and Israel must topple Iranian regime；U.S. Reportedly Considering Major Strikes on Iran After Midterms；Netanyahu promises Iran regime change: Can Israel topple Tehran government?。\n\nRelated coverage: Netanyahu says U.S. and Israel must topple Iranian regime\n\nRelated coverage: U.S. Reportedly Considering Major Strikes on Iran After Midterms\n\nRelated coverage: Netanyahu promises Iran regime change: Can Israel topple Tehran government?\n\nRelated coverage: Israeli military conducts massive \"power projection\" operation near Iran's border\n\nRelated coverage: U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+        "trend_score": 31.34,
+        "trend_breakdown": {
+          "freshness": 0.821,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFgwMUQtazBmeEZLNG9KSmZ2MkpheUZSazZYS05oTks0cHJUaXlBTTVsM3Y5NnNIU19kaWlzamx0WkNLNkUwNHpqQ3o4QWxTblJ2TlhYMXpldWRWay1Cc0VxZWxWdU9wOVJueHJacnlLS2VPVWZGb3V4aFU2d1pwZDNMSW5SWFVVd1FnS1o2eHRpRmfSAZgBQVVfeXFMUEpLdE1XS1dRZXFKR3JtT3hLOTE2cmVETl9jbGs0cmY0akMzbmFpQ1ZPYWUwQlFtVldDY090YUgzTkR1aUJOM0V5V2g2UUVmTjdKQWVsb0JDeEFUT0RNMVVvTHd3eUc4VGJrTWtRdTE1SmVaMng4V3BKVFdPWEVleEhzMjFoQ0ZOX084eFBUd1U1TkNTRnpUcko?oc=5",
+        "published_at": "2026-10-22T18:54:03+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources；Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out；Why you should be VERY suspicious of Ilhan Omar’s latest plea for cash。",
+        "related_headlines": [
+          "Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources",
+          "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+          "Why you should be VERY suspicious of Ilhan Omar’s latest plea for cash",
+          "Can Trump deport Ilhan Omar? What to know about the immigration investigation",
+          "The House GOP’s imminent decision on the Omar raid"
+        ],
+        "content_context": "Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources；Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out；Why you should be VERY suspicious of Ilhan Omar’s latest plea for cash。\n\nRelated coverage: Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources\n\nRelated coverage: Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out\n\nRelated coverage: Why you should be VERY suspicious of Ilhan Omar’s latest plea for cash\n\nRelated coverage: Can Trump deport Ilhan Omar? What to know about the immigration investigation\n\nRelated coverage: The House GOP’s imminent decision on the Omar raid",
+        "trend_score": 30.96,
+        "trend_breakdown": {
+          "freshness": 0.771,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Federal judge restricts DHS field operations looking for noncitizen voters - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXN0am5OcXFwRmh4Qkh5NUs4Rlc2TVNzeDJXXzZ2a0JVcDRaeEpBM1ZqNG1iaGV5OFJzcFFFMWpCUzZ6X1h3YXRpMndyeHFGR0J0a1RkWmhBUW1GejF4Y3FoVzhueUJqMW1GX1JLZVVrc1VHVkxhb3hfQkxfV0gxWnptV3RZMDl3WHJ3?oc=5",
+        "published_at": "2026-10-22T19:16:20+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal judge restricts DHS field operations looking for noncitizen voters；US judge orders Trump administration to halt noncitizen voting investigation；DOJ monitoring plans and DHS voter checks raise concerns of election interference。",
+        "related_headlines": [
+          "Federal judge restricts DHS field operations looking for noncitizen voters",
+          "US judge orders Trump administration to halt noncitizen voting investigation",
+          "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
+          "Armed federal agents knock on doors looking for noncitizen voters",
+          "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud"
+        ],
+        "content_context": "Federal judge restricts DHS field operations looking for noncitizen voters - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal judge restricts DHS field operations looking for noncitizen voters；US judge orders Trump administration to halt noncitizen voting investigation；DOJ monitoring plans and DHS voter checks raise concerns of election interference。\n\nRelated coverage: Federal judge restricts DHS field operations looking for noncitizen voters\n\nRelated coverage: US judge orders Trump administration to halt noncitizen voting investigation\n\nRelated coverage: DOJ monitoring plans and DHS voter checks raise concerns of election interference\n\nRelated coverage: Armed federal agents knock on doors looking for noncitizen voters\n\nRelated coverage: Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+        "trend_score": 28.31,
+        "trend_breakdown": {
+          "freshness": 0.786,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Guardian",
+        "category": "news",
+        "title": "Pete Hegseth’s staff break priceless historic globe he requested for office - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbno2NVY0S2tqdHMxYTNWNFF5TG02YzNYU3RCVzFSREQzeG8wb284bzJCZVRoeGJxRUxJaUIxVE95ZG9XRzRWcTJ6Q1BXWWRmX1RsSlR5NmdLSVUzUzFjYmpNdG1BbmZpVUlHdG00MUlieDg1RTNVeE5TazUtXzBkQlpUUVRfeTdZeWtwc2VHaU91bV9JblJFZWVIc3pKY2pUVVE?oc=5",
+        "published_at": "2026-10-22T19:15:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pete Hegseth’s staff break priceless historic globe he requested for office；Hegseth wanted Eisenhower’s globe for his office. His staff broke it.；'Accidents happen': Hegseth's staff damage historical Eisenhower globe。",
+        "related_headlines": [
+          "Pete Hegseth’s staff break priceless historic globe he requested for office",
+          "Hegseth wanted Eisenhower’s globe for his office. His staff broke it.",
+          "'Accidents happen': Hegseth's staff damage historical Eisenhower globe",
+          "Hegseth’s Staff Destroyed Priceless Artifact From Former President",
+          "The historic significance of the WWII-era globe damaged by Pete Hegseth's staff"
+        ],
+        "content_context": "Pete Hegseth’s staff break priceless historic globe he requested for office - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pete Hegseth’s staff break priceless historic globe he requested for office；Hegseth wanted Eisenhower’s globe for his office. His staff broke it.；'Accidents happen': Hegseth's staff damage historical Eisenhower globe。\n\nRelated coverage: Pete Hegseth’s staff break priceless historic globe he requested for office\n\nRelated coverage: Hegseth wanted Eisenhower’s globe for his office. His staff broke it.\n\nRelated coverage: 'Accidents happen': Hegseth's staff damage historical Eisenhower globe\n\nRelated coverage: Hegseth’s Staff Destroyed Priceless Artifact From Former President\n\nRelated coverage: The historic significance of the WWII-era globe damaged by Pete Hegseth's staff",
+        "trend_score": 28.28,
+        "trend_breakdown": {
+          "freshness": 0.786,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Newsweek",
+        "category": "news",
+        "title": "The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMl9VcEVXZUpZVklkX1R3SnpGci1seWhyMFVrQXozSkU0RjBGWmVrRVNtOGpmYjQ5M2FjUTkzYjlyMy0wUFJORTFnWHlob3luNUhuU04xYnVZQmYxWEFtMlVidGF6UWkwQnlRcUVxNWlZd2tuZWZ6Rw?oc=5",
+        "published_at": "2026-10-22T12:14:00+00:00",
+        "summary": "Newsweek 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump；‘There Is No Immunity to Donald Trump’；NEWSLETTER: Trump's midterm calculus scrambles Ukraine policy。",
+        "related_headlines": [
+          "The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump",
+          "‘There Is No Immunity to Donald Trump’",
+          "NEWSLETTER: Trump's midterm calculus scrambles Ukraine policy",
+          "Opinion | Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
+          "Trump says Russia 'has been fine on Ukraine' as he makes new deals with Putin. Will his strategy pay off?"
+        ],
+        "content_context": "The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump - Newsweek\n\nNewsweek 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump；‘There Is No Immunity to Donald Trump’；NEWSLETTER: Trump's midterm calculus scrambles Ukraine policy。\n\nRelated coverage: The Only Thing More Dangerous for Ukraine Than Putin Is a Defeated Trump\n\nRelated coverage: ‘There Is No Immunity to Donald Trump’\n\nRelated coverage: NEWSLETTER: Trump's midterm calculus scrambles Ukraine policy\n\nRelated coverage: Opinion | Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.\n\nRelated coverage: Trump says Russia 'has been fine on Ukraine' as he makes new deals with Putin. Will his strategy pay off?",
+        "trend_score": 19.35,
+        "trend_breakdown": {
+          "freshness": 0.493,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "author": "DietrichGebert",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "JavaScript",
+      "score": 1948,
+      "comment_count": 9436,
+      "total_stars": 173446,
+      "built_by": [
+        "DietrichGebert",
+        "claude",
+        "ousamabenyounes",
+        "Lakshya77089",
+        "dhedhialy"
+      ],
+      "content_context": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\nLanguage: JavaScript\n\nStars today: 1948\n\nTotal stars: 173446\n\nBuilt by: DietrichGebert, claude, ousamabenyounes, Lakshya77089, dhedhialy",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "author": "Graphify-Labs",
+      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "Python",
+      "score": 1408,
+      "comment_count": 12721,
+      "total_stars": 132930,
+      "built_by": [
+        "claude",
+        "safishamsi",
+        "ayushcodes10",
+        "rajatnagda45",
+        "abhay-codes07"
+      ],
+      "content_context": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\nLanguage: Python\n\nStars today: 1408\n\nTotal stars: 132930\n\nBuilt by: claude, safishamsi, ayushcodes10, rajatnagda45, abhay-codes07",
+      "trend_score": 86.62,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.994,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "author": "supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "TypeScript",
+      "score": 693,
+      "comment_count": 16999,
+      "total_stars": 113478,
+      "built_by": [
+        "joshenlim",
+        "kiwicopple",
+        "MildTomato",
+        "saltcod",
+        "alaister"
+      ],
+      "content_context": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.\n\nLanguage: TypeScript\n\nStars today: 693\n\nTotal stars: 113478\n\nBuilt by: joshenlim, kiwicopple, MildTomato, saltcod, alaister",
+      "trend_score": 85.4,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.962,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "author": "cloudflare",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "JavaScript",
+      "score": 2979,
+      "comment_count": 2462,
+      "total_stars": 39544,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2979\n\nTotal stars: 39544\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+      "trend_score": 85.18,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.956,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "author": "php",
+      "summary": "The PHP Interpreter",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "C",
+      "score": 287,
+      "comment_count": 8309,
+      "total_stars": 41145,
+      "built_by": [
+        "dstogov",
+        "nikic",
+        "weltling",
+        "cmb69",
+        "iliaal"
+      ],
+      "content_context": "The PHP Interpreter\n\nLanguage: C\n\nStars today: 287\n\nTotal stars: 41145\n\nBuilt by: dstogov, nikic, weltling, cmb69, iliaal",
+      "trend_score": 81.7,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.865,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "author": "anthropics",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "Python",
+      "score": 303,
+      "comment_count": 3530,
+      "total_stars": 31585,
+      "built_by": [
+        "github-actions",
+        "jordanecker-ant",
+        "bryan-anthropic",
+        "claude",
+        "mattpic-ant"
+      ],
+      "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 303\n\nTotal stars: 31585\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
+      "trend_score": 80.09,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.822,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "author": "luongnv89",
+      "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "Python",
+      "score": 177,
+      "comment_count": 5386,
+      "total_stars": 43186,
+      "built_by": [
+        "luongnv89",
+        "claude",
+        "edocltd",
+        "toanalien",
+        "lzw-git-all"
+      ],
+      "content_context": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\nLanguage: Python\n\nStars today: 177\n\nTotal stars: 43186\n\nBuilt by: luongnv89, claude, edocltd, toanalien, lzw-git-all",
+      "trend_score": 79.59,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.809,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "author": "fastapi",
+      "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "Python",
+      "score": 101,
+      "comment_count": 10087,
+      "total_stars": 103734,
+      "built_by": [
+        "tiangolo",
+        "github-actions",
+        "YuriiMotov",
+        "pre-commit-ci"
+      ],
+      "content_context": "FastAPI framework, high performance, easy to learn, fast to code, ready for production\n\nLanguage: Python\n\nStars today: 101\n\nTotal stars: 103734\n\nBuilt by: tiangolo, github-actions, YuriiMotov, pre-commit-ci",
+      "trend_score": 79.45,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.806,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "author": "Meloong-Git",
+      "summary": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "published_at": "2026-10-23T00:23:26.400099+00:00",
+      "language": "Visual Basic .NET",
+      "score": 119,
+      "comment_count": 1199,
+      "total_stars": 8684,
+      "built_by": [
+        "LTCatt",
+        "allMagicNB",
+        "RyogiMutsuki",
+        "wyc-26",
+        "Pigeon0v0"
+      ],
+      "content_context": "Minecraft 启动器 Plain Craft Launcher（PCL）。\n\nLanguage: Visual Basic .NET\n\nStars today: 119\n\nTotal stars: 8684\n\nBuilt by: LTCatt, allMagicNB, RyogiMutsuki, wyc-26, Pigeon0v0",
+      "trend_score": 75.52,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.702,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "author": "animalhot",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-23T00:10:45+00:00",
+      "summary": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/anubhavmalhotra/r2d2-tv",
+        "page_title": "GitHub - anubhavmalhotra/r2d2-tv: Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs",
+        "page_description": "Local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv",
+        "page_excerpt": "Demo: https://anubhavmalhotra.com/vibing/r2d2-webos/r2d2-demo.mp4\n\nA local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs. A Linux compute host runs Chromium and the voice models; the TV provides the display, applications, and remote control.\n\nThe TV components run as root and modify vendor system services on one specific firmware build. This is unsupported, may void your warranty, and can leave the TV unusable until a reboot or a factory reset. Use it at your own risk."
+      },
+      "content_context": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.<p>My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.<p>While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience.<p>It was liberating to finally free the TV of bloatware and make it truly personalized!\n\nLocal home screen, private remote browser, and push-to-talk voice assistant for webOS TVs - anubhavmalhotra/r2d2-tv\n\nDemo: https://anubhavmalhotra.com/vibing/r2d2-webos/r2d2-demo.mp4 A local home screen, private remote browser, and push-to-talk voice assistant for webOS TVs. A Linux compute host runs Chromium and the voice models; the TV provides the display, applications, and remote control. The TV components run as root and modify vendor system services on one specific firmware build. This is unsupported, may void your warranty, and can leave the TV unusable until a reboot or a factory reset. Use it at your own risk.",
+      "trend_score": 54.35,
+      "trend_breakdown": {
+        "freshness": 0.991,
+        "engagement": 0.074,
+        "topic_overlap": 0.2,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Bloom – an org-mode compatible Android app for managing notes and tasks",
+      "url": "https://github.com/rrajath/bloom",
+      "author": "rrajath",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-23T00:22:31+00:00",
+      "summary": "A task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/rrajath/bloom",
+        "page_title": "GitHub - rrajath/bloom: A task management and note-taking app for Android that is compatible with org-mode",
+        "page_description": "A task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom",
+        "page_excerpt": "A native Android Org-mode note-taking app: a first-class mobile companion for Emacs org-mode users.\n\nBloom edits plain .org files in a folder you choose. There is no account, no proprietary database, and no export step: the files on disk are your notes, byte-for-byte, and they sync to your laptop with whatever tool you already trust (Syncthing is the recommended pairing). If you stop using Bloom tomorrow, your notes are exactly where they always were.\n\nCI runs the unit tests on every push and the Compose UI tests nightly. Maestro end-to-end flows live in .maestro/ ."
+      },
+      "content_context": "TL;DR: Made an android app for note-taking and task management compatible with org-mode and I'd love for you to try it. It has a ton of features and a lot of quality of life improvements. If you use Emacs and use an Android phone, this would be a great companion app for you.<p>What is Bloom and why does it exist? Bloom is an org-mode compatible Android app for note-taking and task management. I was a long time Orgzly Revived user and there were certain pain points I wanted solved, like capture templates, bookmarks, nicer UI, better themes, handling sync conflicts, etc. I wanted to solve this for myself and spent a few months working on the app. I announced it on r/emacs (<a href=\"https://www.reddit.com/r/emacs/comments/1w35r88/grove_an_android_app_for_notetaking_and_task\" rel=\"nofollow\">https://www.reddit.com/r/emacs/comments/1w35r88/grove_an_and...</a>) a few weeks ago and it is now available on F-Droid and Play Store.<p>Features<p>I want to list out some of the features here (copied over from my announcement post on r/emacs):<p>- Beautiful UI with read and edit modes that offer a really nice viewing experience (rendering headings, plain text, formatted content, tags, dates, dr...\n\nA task management and note-taking app for Android that is compatible with org-mode - rrajath/bloom\n\nA native Android Org-mode note-taking app: a first-class mobile companion for Emacs org-mode users. Bloom edits plain .org files in a folder you choose. There is no account, no proprietary database, and no export step: the files on disk are your notes, byte-for-byte, and they sync to your lapto...",
+      "trend_score": 51.6,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.047,
+        "topic_overlap": 0.1,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "author": "choult",
+      "score": 2,
+      "comment_count": 3,
+      "published_at": "2026-10-23T00:06:50+00:00",
+      "summary": "No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...",
+      "comment_highlights": [
+        "No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...",
+        "This wouldn't be needed if banks supported something like PSD2.<p>I would love to connect systems to my bank in a safe way, but I can either do this, release the AI (I don't by the way) or shell out money to a service like Monarch, which relies in Plaid for all of its connections.<p>The banks bro...",
+        "<a href=\"https://archive.is/20261022212208/https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access\" rel=\"nofollow\">https://archive.is/20261022212208/https://www.axios.com/2026...</a>"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: No scoop here, the submitter 10 hours ago edited out the clickbait (9 points, 2 comments) <a href=\"https://news.ycombinator.com/item?id=50195390\">https://news.ycombinator.com/item?id=50195390</a><p>But we have news from the-decoder (4 points) <a href=\"https://news.ycombinator.com/item?id=50199840...\n\nHN comment: This wouldn't be needed if banks supported something like PSD2.<p>I would love to connect systems to my bank in a safe way, but I can either do this, release the AI (I don't by the way) or shell out money to a service like Monarch, which relies in Plaid for all of its connections.<p>The banks bro...\n\nHN comment: <a href=\"https://archive.is/20261022212208/https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access\" rel=\"nofollow\">https://archive.is/20261022212208/https://www.axios.com/2026...</a>",
+      "trend_score": 50.95,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.148,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "What FDE Means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means/",
+      "author": "shenli3514",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-10-23T00:19:00+00:00",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "comment_highlights": [
+        "Full Disk Encryption, obviously"
+      ],
+      "linked_context": {
+        "resolved_url": "https://openai.com/index/forward-deployed-engineering-means/",
+        "page_title": "What FDE means at OpenAI",
+        "page_description": "What forward deployed engineering means at OpenAI",
+        "page_excerpt": "What we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact. By: Colin Jarvis, Head of Forward Deployed Engineering at OpenAI\n\nWhen Codex came out, someone on the team asked me, “What do we do when Codex can just one-shot the use cases we spent the last few months building?”\n\nThat question gets to the heart of what FDE means at OpenAI. We work alongside customers to understand their hardest problems and build solutions they can depend on. What we learn helps shape our products and gives Research concrete problems to solve."
+      },
+      "content_context": "What forward deployed engineering means at OpenAI\n\nWhat we do, how we work, and how we solve enterprise’s toughest problems to deliver real impact. By: Colin Jarvis, Head of Forward Deployed Engineering at OpenAI When Codex came out, someone on the team asked me, “What do we do when Codex can just one-shot the use cases we spent the last few months building?” That question gets to the heart of what FDE means at OpenAI. We work alongside customers to understand their hardest problems and build solutions they can depend on. What we learn helps shape our products and gives Research concrete problems to solve.\n\nHN comment: Full Disk Encryption, obviously",
+      "trend_score": 50.74,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.084,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "author": "csh0",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-23T00:14:14+00:00",
+      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "page_title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear | TechCrunch",
+        "page_description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "page_excerpt": "Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors including In-Q-Tel, Sequoia, and 8VC. The round values the company at $1.2 billion.\n\nThese are dogs that perform tasks that are dangerous for humans or difficult for machines, like bomb detection, searches, and other specialized operations. In its launch announcement, the company said that more than 80% of the working dogs used by the U.S. military come from Europe and less than half of them are fit for service.\n\nSo not only is there a dwindling supply of working dogs for these tasks, but the U.S. has also become increasingly reliant on foreign nations for dogs that play an important role in the U.S. military and in law enforcement. That is key for what Warhound is trying to do. The..."
+      },
+      "content_context": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.\n\nColossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors including In-Q-Tel, Sequoia, and 8VC. The round values the company at $1.2 billion. These are dogs that perform tasks that are dangerous for humans or difficult for machines, like bomb detection, searches, and other specialized operations. In its launch announcement, the company said that more than 80% of the working dogs used by the U.S. military come from Europe and less than half of them are fit for service. So not only is there a dwindling supply of working dogs for these tasks, but the U.S. has also become increasingly reliant on foreign nations for dogs that play an important role in the U.S. military and in law enforcement. That is key for what Warhound is trying to do. The...",
+      "trend_score": 50.21,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.074,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
+      "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
+      "author": "toomuchtodo",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-10-23T00:05:56+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 48.24,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.074,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目持续活跃，GitHub趋势榜呈现多元化热点。Cloudflare开源的security-audit-skill以近3000单日星数引发关注，旨在通过AI代理实现自动化安全审计；Anthropic推出的knowledge-work-plugins则聚焦知识工作者场景，扩展Claude生态工具链。代码生成领域出现新范式，Ponytail项目倡导“最懒惰开发者”思维，推动AI生成代码从重“量”向重“质”转变；而Graphify-Labs/graphify通过知识图谱技术增强AI代码助手的上下文理解能力。基础设施层面，Supabase作为AI应用后端平台保持高热，FastAPI在模型部署场景持续受捧，PHP解释器则展现传统语言在AI时代的持续生命力。这些项目共同反映出AI工具正朝着更专业化、集成化和效率优化的方向发展。",
+    "named_hotspots": [
+      {
+        "name": "Ponytail",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Ponytail的GitHub项目在技术社区中迅速走红，其核心理念是让AI代理像房间里最懒惰的高级开发人员一样思考，强调“最好的代码是你从未写过的代码”。",
+        "core_details": "Ponytail是一个用JavaScript编写的开源项目，旨在优化AI代理的代码生成逻辑，通过模拟资深开发者的“懒惰”思维，减少不必要的代码编写，提升开发效率。项目由DietrichGebert等人创建，今日获得1948颗星，总星数已达173446，显示出极高的社区关注度。",
+        "ai_take": "该项目体现了AI在代码生成领域的新趋势：不再追求生成更多代码，而是通过智能判断减少冗余工作。这符合AI辅助开发向“质”而非“量”转变的方向，可能推动更高效的编程实践和工具设计。",
+        "hype_check": "项目在GitHub上单日获星近2000，总星数超17万，表明其在开发者社区中引发了强烈共鸣。但需注意，其理念虽吸引人，实际效果取决于具体实现和场景适配，可能存在过度理想化的风险。",
+        "value_check": "如果Ponytail能有效减少AI生成的冗余代码，将直接提升开发效率和代码质量，降低维护成本。其开源性质允许社区验证和改进，但长期价值需观察实际应用案例和工具集成情况。",
+        "follow_up": "关注该项目后续版本更新、用户反馈以及是否被集成到主流开发工具中。同时，可对比类似项目（如基于AI的代码优化工具），评估其独特性和可持续影响。",
+        "evidence": "项目GitHub页面描述其核心理念为“让AI代理像最懒惰的高级开发人员一样思考”，并强调“最好的代码是你从未写过的代码”。数据上，今日获星1948，总星数173446，语言为JavaScript，由DietrichGebert等人构建。"
+      },
+      {
+        "name": "Graphify-Labs/graphify",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "Graphify-Labs/graphify 是一个开源项目，旨在将代码库、文档、SQL 模式、配置文件和 PDF 等转换为可查询的知识图谱。它作为一个 /graphify 技能，支持 Claude Code、Cursor、Codex 和 Gemini CLI 等工具，通过本地确定性 AST 解析实现，无需向量存储，且每条边都有解释。",
+        "core_details": "该项目使用 Python 语言开发，今日获得 1408 颗星，总星数达 132930。由 claude、safishamsi、ayushcodes10、rajatnagda45 和 abhay-codes07 等贡献者构建。其核心功能包括将多种格式的代码和文档转换为知识图谱，支持本地解析，确保可解释性和确定性。",
+        "ai_take": "该项目通过知识图谱技术增强 AI 代码助手（如 Claude、Cursor）的上下文理解能力，使开发者能更高效地查询和分析复杂代码库。它避免了传统向量存储的模糊性，提供精确的 AST 解析，有助于提升代码理解和维护的准确性。",
+        "hype_check": "该项目在 GitHub 上趋势得分高（86.62），今日星数增长显著（1408），总星数超过 13 万，表明在开发者社区中受到广泛关注和认可。其无需向量存储的确定性方法可能吸引了寻求更可靠代码分析工具的用户。",
+        "value_check": "对于处理大型或复杂代码库的团队，该项目能提供结构化的知识图谱查询，可能提高代码导航和文档理解的效率。其开源性质和与主流 AI 工具的集成，使其具有较高的实用价值和可扩展性。",
+        "follow_up": "关注 Graphify-Labs 的 GitHub 仓库以获取更新，或尝试集成到 Claude Code、Cursor 等工具中测试其在实际项目中的效果。",
+        "evidence": "根据 GitHub 趋势数据，项目描述为“将任何代码库及其文档、SQL 模式、配置和 PDF 转换为可查询的知识图谱”，并强调本地 AST 解析和无需向量存储。数据包括语言为 Python，星数增长和贡献者信息。"
+      },
+      {
+        "name": "Supabase",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Supabase项目在GitHub趋势榜上热度显著，今日新增693颗星，总星数达113478，表明开发者社区对其持续关注。",
+        "core_details": "Supabase是一个基于Postgres的开源开发平台，提供专用Postgres数据库，用于构建Web、移动和AI应用。项目主要使用TypeScript语言开发，由joshenlim、kiwicopple等核心贡献者维护。",
+        "ai_take": "Supabase作为后端即服务（BaaS）平台，通过简化数据库管理和实时功能，降低了AI应用开发的后端门槛，尤其适合需要快速迭代和数据处理的应用场景。",
+        "hype_check": "趋势分85.4和高星数反映其受欢迎度，但需注意开源项目热度可能受短期活动或营销影响，需结合长期贡献和采用率评估。",
+        "value_check": "Supabase提供开源替代方案，减少对专有云服务的依赖，其Postgres基础和实时功能对AI应用开发有实用价值，但需评估与特定AI框架的集成深度。",
+        "follow_up": "关注Supabase在AI生态中的集成案例，如与机器学习框架或向量数据库的兼容性，以及社区反馈和版本更新。",
+        "evidence": "GitHub趋势数据：今日新增693星，总星113478，语言TypeScript，项目描述强调用于AI应用开发。"
+      },
+      {
+        "name": "security-audit-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Cloudflare在GitHub上开源了一个名为security-audit-skill的项目，这是一个用于多阶段安全审计的编码代理技能，能够生成独立验证且机器可读的审计结果。",
+        "core_details": "该项目由literally-dan、CooperSheroy和kennysarnoski-jarvis构建，使用JavaScript语言开发。在GitHub上，它今日获得了2979颗星，总星数达到39544，并有2462条评论，趋势评分为85.18，显示出较高的社区关注度。",
+        "ai_take": "该项目代表了AI在安全审计领域的应用进展，通过编码代理自动化多阶段审计流程，可能提升审计效率和准确性，但需验证其在实际复杂环境中的可靠性。",
+        "hype_check": "高星数和趋势评分表明社区对该工具的兴趣浓厚，可能源于Cloudflare的品牌效应和安全审计的普遍需求，但需注意开源项目的实际采用率和效果可能因场景而异。",
+        "value_check": "如果工具能有效生成机器可读的审计结果，可集成到开发流程中，帮助团队早期发现安全漏洞，具有潜在实用价值，但依赖具体实现质量和社区反馈。",
+        "follow_up": "关注项目后续更新、用户案例以及是否被集成到主流开发或安全平台中，以评估其长期影响。",
+        "evidence": "项目在GitHub上的数据：今日星数2979，总星数39544，评论数2462，趋势评分85.18，语言为JavaScript，由Cloudflare发布。"
+      },
+      {
+        "name": "php/php-src",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "PHP解释器项目在GitHub趋势榜上热度上升，今日新增287颗星，总星数达41145，表明开发者社区对其持续关注。",
+        "core_details": "该项目为PHP语言的官方解释器，使用C语言编写，由dstogov、nikic、weltling、cmb69、iliaal等核心贡献者维护，是PHP生态的基础组件。",
+        "ai_take": "作为传统服务器端脚本语言，PHP在AI时代仍通过解释器优化保持活力，但其在AI应用开发中的角色有限，更多聚焦于Web后端支持。",
+        "hype_check": "热度主要源于开源社区的日常维护和更新，而非突破性AI功能；趋势上升反映的是稳定工具链的持续价值，而非短期炒作。",
+        "value_check": "对于Web开发者和PHP生态参与者，该项目提供底层技术保障，但AI开发者需评估其与Python等AI主流语言的集成能力。",
+        "follow_up": "关注PHP 8.x版本在性能优化和JIT编译器方面的进展，以及其与AI框架（如通过扩展）的兼容性探索。",
+        "evidence": "GitHub趋势数据：今日星增287，总星41145，语言为C，项目描述为“The PHP Interpreter”。"
+      },
+      {
+        "name": "knowledge-work-plugins",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic在GitHub上开源了一个名为knowledge-work-plugins的插件仓库，主要面向知识工作者，旨在与Claude Cowork配合使用。",
+        "core_details": "该项目是一个Python语言编写的开源插件集合，今日新增303颗星，总星数已达31585。项目由Anthropic团队（包括github-actions、jordanecker-ant、bryan-anthropic、claude、mattpic-ant等贡献者）构建和维护。",
+        "ai_take": "这表明Anthropic正在通过开源工具生态，扩展其AI助手Claude在专业工作场景（知识工作）中的实用性和可定制性，可能旨在吸引开发者社区，构建更丰富的企业级应用集成。",
+        "hype_check": "项目热度较高（趋势分80.09），总星数超过3.1万且持续增长，显示开发者对Claude生态工具的关注度在提升，但具体插件质量和应用广度仍需观察实际使用反馈。",
+        "value_check": "开源插件库降低了知识工作者集成AI功能的技术门槛，可能提升工作效率；但价值实现取决于插件稳定性、Claude Cowork的普及度以及是否形成活跃的社区贡献循环。",
+        "follow_up": "可关注插件库的更新频率、社区贡献插件数量、以及是否出现基于该生态的典型知识工作案例（如文档分析、数据查询自动化等）。",
+        "evidence": "GitHub仓库显示项目由Anthropic官方发布，语言为Python，星数增长数据及贡献者信息可验证其活跃度。"
+      },
+      {
+        "name": "luongnv89/claude-howto",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub项目luongnv89/claude-howto登上趋势榜，这是一个关于Claude Code的视觉化、示例驱动的指南。",
+        "core_details": "该项目是一个使用Python编写的指南，旨在通过示例从基础概念到高级智能体应用，全面介绍Claude Code，并提供可直接复制粘贴使用的模板，以带来即时价值。项目今日获177颗星，总星数已达43186。",
+        "ai_take": "该项目反映了开发者社区对Claude API（特别是其代码生成与智能体功能）的浓厚兴趣和实际应用需求。通过提供结构化、可操作的模板，降低了使用门槛，有助于加速Claude Code在开发工作流中的集成与创新。",
+        "hype_check": "趋势热度较高（趋势得分79.59），单日获星数可观，总星数已超4.3万，表明其在GitHub社区持续受到广泛关注和认可，并非短期炒作。",
+        "value_check": "实用价值明确，直接针对开发者痛点，提供即用型模板和渐进式学习路径，能有效提升使用Claude Code进行开发的效率和学习曲线。",
+        "follow_up": "可关注项目后续更新是否涵盖Claude API的新功能，以及社区基于此模板构建的实际应用案例。",
+        "evidence": "项目描述明确指出其内容为“视觉化、示例驱动的Claude Code指南，从基础概念到高级智能体，附带可复制粘贴的模板”。项目语言为Python，今日星数177，总星数43186，由luongnv89等人构建。"
+      },
+      {
+        "name": "FastAPI",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "FastAPI 项目在 GitHub 趋势榜上热度上升，今日新增 101 颗星，总星数达到 103,734。",
+        "core_details": "FastAPI 是一个基于 Python 的高性能 Web 框架，以其易于学习、编码快速、生产就绪的特点而闻名。项目由 tiangolo 等主要贡献者维护。",
+        "ai_take": "FastAPI 本身并非 AI 专用框架，但其高性能和自动生成 API 文档（如 OpenAPI）的特性，使其常被用于部署机器学习模型和构建 AI 服务的后端 API，与 AI 应用开发生态紧密结合。",
+        "hype_check": "热度合理。作为 Python 生态中现代化的 Web 框架，其持续的高星数和社区活跃度（超过 1 万条评论）反映了开发者对其在快速构建 API，包括 AI 服务接口方面的广泛认可和实际采用。",
+        "value_check": "高价值。它通过类型提示、异步支持等现代 Python 特性显著提升了开发效率和运行时性能，降低了构建稳健后端服务的门槛，对于需要快速迭代和部署的 AI 应用项目尤其具有实用价值。",
+        "follow_up": "关注其与机器学习库（如 PyTorch、TensorFlow）的集成案例，以及在新版本中是否进一步优化了对 AI 模型 serving 和流式响应的支持。",
+        "evidence": "数据来源于 GitHub 趋势榜，显示其今日星数增长和总星数超过 10 万，项目描述强调其高性能、易用性及生产就绪状态，证明了其广泛的社区接受度和实际应用基础。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "DietrichGebert/ponytail",
+        "content_summary": "这是一个JavaScript项目，旨在让AI代理像房间里最懒的资深开发者一样思考，其核心理念是“最好的代码是你从未写过的代码”。该项目今日获得1948颗星，总星数已达173446。",
+        "ai_comment": "该项目体现了AI辅助开发中追求效率与简洁性的趋势，通过模拟‘懒惰’的资深开发者思维，可能旨在减少不必要的代码编写，提升开发效率。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "Graphify-Labs/graphify",
+        "content_summary": "这是一个Python项目，能够将任何代码库及其文档、SQL模式、配置文件和PDF转换为可查询的知识图谱。它作为Claude Code、Cursor、Codex和Gemini CLI的/graphify技能，使用本地确定性AST解析，解释每条边，且无需向量存储。该项目今日获得1408颗星，总星数为132930。",
+        "ai_comment": "该项目将复杂的代码和文档结构化为知识图谱，增强了代码的可理解性和可查询性，是AI在代码智能分析和知识管理领域的重要应用。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "supabase/supabase",
+        "content_summary": "这是一个TypeScript项目，是Postgres开发平台，为构建Web、移动和AI应用程序提供专用的Postgres数据库。该项目今日获得693颗星，总星数达113478。",
+        "ai_comment": "Supabase作为开源的后端即服务（BaaS）平台，降低了开发门槛，其与Postgres的深度集成尤其适合需要强大数据层支持的AI应用开发。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Show HN: Making a smart TV dumb and then smart",
+        "content_summary": "这是一个针对webOS电视的项目，旨在替换其臃肿的软件，提供本地主屏幕、私有远程浏览器和按键通话语音助手。项目使用Linux主机运行Chromium和语音模型，电视提供显示、应用和遥控功能。作者提到代码主要由AI模型编写，但关键决策（如使用WebRTC降低延迟、复用供应商逻辑处理语音样本缓冲及设计用户体验）仍需人工介入。该项目需要root权限，会修改特定固件版本上的供应商系统服务，存在风险。",
+        "ai_comment": "该项目展示了用户对智能设备自主控制权的追求，以及AI在辅助系统级软件开发中的应用。其将复杂电视系统‘重制’为个性化工具的做法，体现了边缘AI和本地化处理的趋势。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Show HN: Bloom – an org-mode compatible Android app for managing notes and tasks",
+        "content_summary": "这是一款与org-mode兼容的Android笔记和任务管理应用。它旨在解决现有应用（如Orgzly Revived）的痛点，提供捕获模板、书签、更美观的UI、更好的主题、处理同步冲突等功能。应用直接编辑用户指定文件夹中的纯文本.org文件，无需账户、专有数据库或导出步骤，数据通过Syncthing等工具同步。",
+        "ai_comment": "Bloom满足了Emacs和org-mode用户在移动端高效、无缝管理的需求，其坚持使用纯文本和现有同步工具的设计，强调了数据的可移植性和用户主权，符合开发者对工具简洁性和控制力的偏好。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+        "content_summary": "Hacker News上的讨论围绕未经审查的AI代理访问美国银行账户的报道展开。评论指出，原提交标题存在点击诱饵成分。讨论中提到，如果银行能支持类似PSD2的开放银行标准，这种未经授权的访问可能就不必要。用户表达了希望以安全方式连接银行系统的愿望，并指出当前要么冒险使用此类方法，要么付费给依赖Plaid等服务的第三方。",
+        "ai_comment": "该讨论揭示了金融科技中AI代理与银行系统集成时的安全与合规缺口。它凸显了开放银行API标准（如PSD2）在提供安全、授权数据访问方面的重要性，以及当前市场解决方案的局限性。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Supreme Court says New Hampshire student IDs can’t be used to vote in November - NBC News",
+        "content_summary": "美国最高法院裁定，新罕布什尔州的学生ID不能用于11月的投票。多家媒体报道了此事，标题包括“最高法院允许新罕布什尔州投票站全面禁止使用学生ID”、“最高法院在关于学生ID投票的争议中支持共和党”等。这使该州的学生选民身份法陷入不确定状态。",
+        "ai_comment": "此司法裁决直接影响选民身份认定，可能对特定群体（如学生）的投票权产生限制，是选举法律与政策领域的重要事件。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Republicans retreat from North Carolina as Trump admits Democrats are likely to win the Senate seat - NBC News",
+        "content_summary": "报道称，共和党正在从北卡罗来纳州撤退，特朗普承认民主党很可能赢得该州参议院席位。相关报道还提及特朗普在格林维尔举行的集会上有多名抗议者被驱逐，以及随着资金枯竭和民调有利于民主党，特朗普仍在北卡罗来纳州为共和党助选。",
+        "ai_comment": "这反映了美国中期选举中特定选区的竞争动态变化，以及竞选策略和资源分配如何根据选情评估进行调整。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition - The New York Times",
+        "content_summary": "纽约市议会通过法案，将在2028年前逐步淘汰马车，终结了中央公园的一项传统。相关报道指出，面对禁令，中央公园的马车夫们对未来感到担忧，而推动该法案的议员可能面临法律麻烦。",
+        "ai_comment": "这项立法是动物福利与传统文化、旅游业利益之间长期争议的结果，标志着城市治理和公众价值观在动物权利问题上的转变。"
+      }
+    ],
+    "closing_note": "从今日趋势可见，AI开源生态正从基础模型向应用层工具深度拓展。安全审计自动化、知识工作流增强、代码生成优化等垂直场景的创新项目集中涌现，表明开发者社区正在将AI能力转化为具体生产力工具。值得注意的是，多个项目均强调与Claude、Cursor等主流AI开发环境的集成，预示工具链融合将成为重要趋势。建议开发者关注这些高星项目的实际应用案例和长期维护状态，理性评估其解决特定痛点的能力，避免陷入技术炒作。明日可继续观察这些项目是否出现实际落地案例或生态整合进展。",
+    "_errors": []
+  }
+}
