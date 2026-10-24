@@ -1,0 +1,1422 @@
+{
+  "generated_at": "2026-10-24T00:15:26.538521+00:00",
+  "counts": {
+    "github_trending": 8,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nodejs/node",
+        "url": "https://github.com/nodejs/node",
+        "author": "nodejs",
+        "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "JavaScript",
+        "score": 66,
+        "comment_count": 39831,
+        "total_stars": 122854,
+        "built_by": [
+          "Trott",
+          "ry",
+          "bnoordhuis",
+          "addaleax",
+          "isaacs"
+        ],
+        "content_context": "Node.js JavaScript runtime ✨🐢🚀✨\n\nLanguage: JavaScript\n\nStars today: 66\n\nTotal stars: 122854\n\nBuilt by: Trott, ry, bnoordhuis, addaleax, isaacs",
+        "trend_score": 93.61,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.892,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "author": "cloudflare",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "JavaScript",
+        "score": 2716,
+        "comment_count": 2631,
+        "total_stars": 42107,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ],
+        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2716\n\nTotal stars: 42107\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "php/php-src",
+        "url": "https://github.com/php/php-src",
+        "author": "php",
+        "summary": "The PHP Interpreter",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "C",
+        "score": 716,
+        "comment_count": 8359,
+        "total_stars": 41558,
+        "built_by": [
+          "dstogov",
+          "nikic",
+          "weltling",
+          "cmb69",
+          "iliaal"
+        ],
+        "content_context": "The PHP Interpreter\n\nLanguage: C\n\nStars today: 716\n\nTotal stars: 41558\n\nBuilt by: dstogov, nikic, weltling, cmb69, iliaal",
+        "trend_score": 85.75,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.971,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "SnailSploit/Claude-Red",
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "author": "SnailSploit",
+        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "Python",
+        "score": 226,
+        "comment_count": 1100,
+        "total_stars": 8470,
+        "built_by": [
+          "SnailSploit",
+          "claude",
+          "halilkirazkaya",
+          "LvL23HT",
+          "yogesh-tessl"
+        ],
+        "content_context": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\n\nLanguage: Python\n\nStars today: 226\n\nTotal stars: 8470\n\nBuilt by: SnailSploit, claude, halilkirazkaya, LvL23HT, yogesh-tessl",
+        "trend_score": 85.58,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.776,
+          "topic_overlap": 0.333,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "NVIDIA/OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "author": "NVIDIA",
+        "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "Rust",
+        "score": 1119,
+        "comment_count": 1884,
+        "total_stars": 18777,
+        "built_by": [
+          "drew",
+          "johntmyers",
+          "pimlock",
+          "miyoungc",
+          "elezar"
+        ],
+        "content_context": "OpenShell is the safe, private runtime for autonomous AI agents.\n\nLanguage: Rust\n\nStars today: 1119\n\nTotal stars: 18777\n\nBuilt by: drew, johntmyers, pimlock, miyoungc, elezar",
+        "trend_score": 83.76,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.919,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "author": "anthropics",
+        "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "Python",
+        "score": 635,
+        "comment_count": 3573,
+        "total_stars": 32202,
+        "built_by": [
+          "github-actions",
+          "jordanecker-ant",
+          "bryan-anthropic",
+          "claude",
+          "mattpic-ant"
+        ],
+        "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 635\n\nTotal stars: 32202\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
+        "trend_score": 83.62,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.915,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "author": "Renhuai123",
+        "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "TypeScript",
+        "score": 546,
+        "comment_count": 1406,
+        "total_stars": 6847,
+        "built_by": [
+          "Renhuai123",
+          "claude",
+          "dependabot",
+          "Renhuai",
+          "sakura168899-debug"
+        ],
+        "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 546\n\nTotal stars: 6847\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+        "trend_score": 81.22,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.852,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "OpenBMB/VoxCPM",
+        "url": "https://github.com/OpenBMB/VoxCPM",
+        "author": "OpenBMB",
+        "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "published_at": "2026-10-24T00:15:20.398191+00:00",
+        "language": "Python",
+        "score": 150,
+        "comment_count": 4578,
+        "total_stars": 40245,
+        "built_by": [
+          "Labmem-Zhouyx",
+          "a710128",
+          "bcsdcox",
+          "liuxin99",
+          "VoxInstruct"
+        ],
+        "content_context": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\n\nLanguage: Python\n\nStars today: 150\n\nTotal stars: 40245\n\nBuilt by: Labmem-Zhouyx, a710128, bcsdcox, liuxin99, VoxInstruct",
+        "trend_score": 80.3,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.828,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Review a coding agent's change as a map instead of a diff",
+        "url": "https://github.com/gtindo/task-view",
+        "author": "gtindo",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-24T00:11:40+00:00",
+        "summary": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/gtindo/task-view",
+          "page_title": "GitHub - gtindo/task-view: Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML.",
+          "page_description": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...",
+          "page_excerpt": "Review an agent's change as a map of how it fits together, not as a flat list of diffs.\n\nWhen a coding agent writes most of the code, reviewing it means opening the changed files in your IDE one by one and rebuilding in your head what calls what, which path a request now takes, and which test covers which piece. The diff shows lines; the structure of the change is left for you to work out.\n\ntask-view puts that structure on the page for you. When the agent finishes a task, it describes its change: the functions, components and tests it touched, why, how they relate, and the user-visible flows they form. task-view turns that into one page you read in the browser: a graph of the change, its flows step by step, and each piece's code next to the agent's reason for it. You spend your at..."
+        },
+        "content_context": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...\n\nReview an agent's change as a map of how it fits together, not as a flat list of diffs. When a coding agent writes most of the code, reviewing it means opening the changed files in your IDE one by one and rebuilding in your head what calls what, which path a request now takes, and which test covers which piece. The diff shows lines; the structure of the change is left for you to work out. task-view puts that structure on the page for you. When the agent finishes a task, it describes its change: the functions, components and tests it touched, why, how they relate, and the user-visible flows they form. task-view turns that into one page you read in the browser: a graph of the change, its flows step by step, and each piece's code next to the agent's reason for it. You spend your at...",
+        "trend_score": 55.55,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.049,
+          "topic_overlap": 0.286,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "How nervous are bond markets about France?",
+        "url": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+        "author": "JumpCrisscross",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-24T00:11:27+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 51.9,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.049,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Hold My Docs – a self-hosted wiki that stores pages in Git",
+        "url": "https://github.com/soollabs/holdmydocs",
+        "author": "broadben12",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-24T00:06:45+00:00",
+        "summary": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs",
+        "comment_highlights": [
+          "[dead]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/soollabs/holdmydocs",
+          "page_title": "GitHub - soollabs/holdmydocs: A self-hosted wiki that keeps every page as Markdown in Git.",
+          "page_description": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs",
+          "page_excerpt": "Hold My Docs (HMD) runs as a single Go binary and keeps your content as Markdown in an ordinary Git repository. Every save is a commit, so your docs have real history and can sync to a remote you already use.\n\nHold My Docs is an early-stage project. Expect rough edges and breaking changes. Keep backups and test upgrades before relying on it as your only source for important documentation.\n\nOpen http://localhost:8080 and sign in with the bootstrap credentials. Remove the bootstrap environment variables after the first successful start."
+        },
+        "content_context": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs\n\nHold My Docs (HMD) runs as a single Go binary and keeps your content as Markdown in an ordinary Git repository. Every save is a commit, so your docs have real history and can sync to a remote you already use. Hold My Docs is an early-stage project. Expect rough edges and breaking changes. Keep backups and test upgrades before relying on it as your only source for important documentation. Open http://localhost:8080 and sign in with the bootstrap credentials. Remove the bootstrap environment variables after the first successful start.\n\nHN comment: [dead]",
+        "trend_score": 51.67,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.049,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
+        "url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
+        "author": "bweller",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-24T00:09:30+00:00",
+        "summary": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
+          "page_title": "Poor Man's Claude Pro",
+          "page_description": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the",
+          "page_excerpt": "A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback .\n\nThat's how much more you're missing out per month by spending on the Claude Max plan vs. just the Pro plan.\n\nMy coworkers bragged about how much they could code on the go via the Claude Max plan that allows them to run Claude remotely on a server Anthropic provides and push to a GitHub repo by default....jokes on them, I can now attempt to carry around my three Yeti water bottles while layered under three layers of shirts, but I don't have to worry about any BO from sweat because I used my Irish Sprin..."
+        },
+        "content_context": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the\n\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback . That's how much more you're missing out per month by spending on the Claude Max plan vs. just the Pro plan. My coworkers bragged about how much they could code on the go via the Claude Max plan that allows them to run Claude remotely on a server Anthropic provides and push to a GitHub repo by default....jokes on them, I can now attempt to carry around my three Yeti water bottles while layered under three layers of shirts, but I don't have to worry about any BO from sweat because I used my Irish Sprin...",
+        "trend_score": 51.34,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.049,
+          "topic_overlap": 0.091,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
+        "url": "https://twitter.com/OpenAI/status/2113766354386084338",
+        "author": "shenli3514",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-23T23:46:57+00:00",
+        "summary": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/OpenAI/status/2113766354386084338",
+          "page_title": "OpenAI (@OpenAI) on X",
+          "page_description": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+          "page_excerpt": null
+        },
+        "content_context": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+        "trend_score": 51.02,
+        "trend_breakdown": {
+          "freshness": 0.98,
+          "engagement": 0.049,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Valheim Seed Map Viewer for Valheim – Walheim Wiki",
+        "url": "https://valheimwiki.net/en/seed-map",
+        "author": "mario22",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-24T00:04:29+00:00",
+        "summary": "That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>",
+        "comment_highlights": [
+          "That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>",
+        "trend_score": 48.96,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.088,
+          "topic_overlap": 0.333,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "I failed every LeetCode interview",
+        "url": "https://write.as/m5g5r26qo5wt7",
+        "author": "garn810",
+        "score": 3,
+        "comment_count": 2,
+        "published_at": "2026-10-23T23:52:37+00:00",
+        "summary": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...",
+        "comment_highlights": [
+          "I recently got a disjoint set problem (similar to number of islands of Leetcode) in an interview and the interviewer made me solve it using a DFS approach instead of a union find. Also I realized that most interviewers prefer that I solve the Leetcode problems in TypeScript and don't like Python",
+          "I failed every LeetCode style interview I've ever attempted. I mean, I'm lucky to even be filtered for the interview nowadays.. However, I failed not because I couldn't solve the problems. I solved them (honestly, without any AI). I just rarely solved them the way the interviewer wanted."
+        ],
+        "linked_context": {
+          "resolved_url": "https://write.as/m5g5r26qo5wt7",
+          "page_title": "I failed every LeetCode interview",
+          "page_description": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...",
+          "page_excerpt": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, ideas I hack on until they either work or teach me something. None of it fits on a CV anyone can read in six seconds.. but still I have this dream of working in a large corporation like Google. I have now failed every LeetCode style interview I've ever attempted..."
+        },
+        "content_context": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...\n\nMost of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, ideas I hack on until they either work or teach me something. None of it fits on a CV anyone can read in six seconds.. but still I have this dream of working in a large corporation like Google. I have now failed every LeetCode style interview I've ever attempted...\n\nHN comment: I recently got a disjoint set problem (similar to number of islands of Leetcode) in an interview and the interviewer made me solve it using a DFS approach instead of a union find. Also I realized that most interviewers prefer that I solve the Leetcode problems in TypeScript and don't like Python\n\nHN comment: I failed every LeetCode style interview I've ever attempted. I mean, I'm lucky to even be filtered for the interview nowadays.. However, I failed not because I couldn't solve the problems. I solved them (honestly, without any AI). I just rarely solved them the way the interviewer wanted.",
+        "trend_score": 44.88,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.159,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "SpaceX in Talks to Access 80k Cell Sites for Wireless Network",
+        "url": "https://finance.yahoo.com/technology/articles/spacex-talks-access-80-000-213142634.html",
+        "author": "TMWNN",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-24T00:02:46+00:00",
+        "summary": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it’s in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://finance.yahoo.com/technology/articles/spacex-talks-access-80-000-213142634.html",
+          "page_title": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
+          "page_description": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it’s in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.",
+          "page_excerpt": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\n(Bloomberg) -- SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it's in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.\n\nElectronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs"
+        },
+        "content_context": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it’s in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.\n\nThe above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational. (Bloomberg) -- SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it's in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter. Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs",
+        "trend_score": 43.93,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.049,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Veritas Villages – libertarian intentional communities in Latin America",
+        "url": "https://gst.artofliberty.org/veritas-villages-libertarian-intentional-communities-in-latin-america/",
+        "author": "mateusfreira",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-10-23T23:51:55+00:00",
+        "summary": "Building Freedom in the Cracks of the State A Canadian tax refugee is betting that like-minded neighbors, Bitcoin, and blockchain-voted HOAs can deliver in Latin America, today, much of what free private cities are still fighting for on paper. Etienne Note: This is an expanded chapter from my upcoming book:",
+        "comment_highlights": [
+          "Freedom, Independence, Resilience, Sustainability and Transparency. In practice, that means off-grid-capable infrastructure (solar, natural water, waste treatment, community food production)"
+        ],
+        "linked_context": {
+          "resolved_url": "https://gst.artofliberty.org/veritas-villages-libertarian-intentional-communities-in-latin-america/",
+          "page_title": "Veritas Villages – libertarian intentional communities in Latin America",
+          "page_description": "Building Freedom in the Cracks of the State A Canadian tax refugee is betting that like-minded neighbors, Bitcoin, and blockchain-voted HOAs can deliver in Latin America, today, much of what free private cities are still fighting for on paper. Etienne Note: This is an expanded chapter from my upcoming book:",
+          "page_excerpt": "Building Freedom in the Cracks of the State A Canadian tax refugee is betting that like-minded neighbors, Bitcoin, and blockchain-voted HOAs can deliver in Latin America, today, much of what free private cities are still fighting for on paper.\n\nPatrick Hiebert figures that when he lived in Canada, he worked for the government until about October every year. Add up the income tax, the GST, the PST and the carbon levies, and by his own math roughly 70% of what he earned went to the state. So he left. Two decades and many residential developments later, he runs Autris, a small publicly traded company (OTC: AUTR) headquartered in Panama C...\n\nI learned about Hiebert from watching the 2026 Free Private Cities conference and followed up with an interview for my upcoming book, Voluntaryism: How the Only “ISM” Fair for Everyone Leads to Harmony, Prosperity and Good Karma for All and our weekly feature libertarian intentional community roundup in our Five Meme Friday newsletter. Asked whethe..."
+        },
+        "content_context": "Building Freedom in the Cracks of the State A Canadian tax refugee is betting that like-minded neighbors, Bitcoin, and blockchain-voted HOAs can deliver in Latin America, today, much of what free private cities are still fighting for on paper. Etienne Note: This is an expanded chapter from my upcoming book:\n\nBuilding Freedom in the Cracks of the State A Canadian tax refugee is betting that like-minded neighbors, Bitcoin, and blockchain-voted HOAs can deliver in Latin America, today, much of what free private cities are still fighting for on paper. Patrick Hiebert figures that when he lived in Canada, he worked for the government until about October every year. Add up the income tax, the GST, the PST and the carbon levies, and by his own math roughly 70% of what he earned went to the state. So he left. Two decades and many residential developments later, he runs Autris, a small publicly traded company (OTC: AUTR) headquartered in Panama C... I learned about Hiebert from watching the 2026 Free Private Cities conference and followed up with an interview for my upcoming book, Voluntaryism: How the Only “ISM” Fair for Everyone Leads to Harmony, Prosperity and Good Karma for All and our weekly feature libertarian intentional community roundup in our Five Meme Friday newsletter. Asked whethe...\n\nHN comment: Freedom, Independence, Resilience, Sustainability and Transparency. In practice, that means off-grid-capable infrastructure (solar, natural water, waste treatment, community food production)",
+        "trend_score": 43.5,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.116,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Factory in Phoenix That Could Save American Manufacturing",
+        "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+        "author": "osnium123",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-23T23:56:04+00:00",
+        "summary": "Gift link: <a href=\"https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.K1E.sZXE.Gf4Ozce1YkMQ&smid=url-share\" rel=\"nofollow\">https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips...</a>",
+        "comment_highlights": [
+          "Gift link: <a href=\"https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.K1E.sZXE.Gf4Ozce1YkMQ&smid=url-share\" rel=\"nofollow\">https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips...</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: Gift link: <a href=\"https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.K1E.sZXE.Gf4Ozce1YkMQ&smid=url-share\" rel=\"nofollow\">https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips...</a>",
+        "trend_score": 42.72,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.088,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "White House says the US is lifting tariffs on some Canadian goods - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNnNzMVdVUEVmTDc1QVB0aGpSWTREdWFMY2g2QUQ5RExzMUxrdlNhdnd6ZGxJWWhnRGltX0kxOFZOMXNhVWI2aWhsaU1DMS1fR1FTT1E0V2lnVFU?oc=5",
+        "published_at": "2026-10-23T22:54:57+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House says the US is lifting tariffs on some Canadian goods；Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins；Trump Lifts Some Canada Tariffs Ahead Of Midterm Elections。",
+        "related_headlines": [
+          "White House says the US is lifting tariffs on some Canadian goods",
+          "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+          "Trump Lifts Some Canada Tariffs Ahead Of Midterm Elections",
+          "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+          "Trump ends tariffs on some Canadian products, aiming to help Senator Collins"
+        ],
+        "content_context": "White House says the US is lifting tariffs on some Canadian goods - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House says the US is lifting tariffs on some Canadian goods；Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins；Trump Lifts Some Canada Tariffs Ahead Of Midterm Elections。\n\nRelated coverage: White House says the US is lifting tariffs on some Canadian goods\n\nRelated coverage: Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins\n\nRelated coverage: Trump Lifts Some Canada Tariffs Ahead Of Midterm Elections\n\nRelated coverage: Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods\n\nRelated coverage: Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
+        "trend_score": 40.77,
+        "trend_breakdown": {
+          "freshness": 0.944,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IeTY1c1U5Sy0wanVaTEJvNUZUdFd4N21UV2ZKbDVuZFdrcllWTHRYUGoyWlhySUljZkVSRC1VTUVkRG1IOUxIUUcxMFh0V2FRRTc5UVpucU8zcVdDa25ob2pTWlVrd0g1SG9qS1ZEd1k0M3ZK?oc=5",
+        "published_at": "2026-10-24T00:06:00+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race；Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious；‘Corruption’ and ‘desperation’: Peltola slams Trump DOJ lawsuit over Alaska Senate race。",
+        "related_headlines": [
+          "Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race",
+          "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious",
+          "‘Corruption’ and ‘desperation’: Peltola slams Trump DOJ lawsuit over Alaska Senate race",
+          "Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November",
+          "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows"
+        ],
+        "content_context": "Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race；Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious；‘Corruption’ and ‘desperation’: Peltola slams Trump DOJ lawsuit over Alaska Senate race。\n\nRelated coverage: Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race\n\nRelated coverage: Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious\n\nRelated coverage: ‘Corruption’ and ‘desperation’: Peltola slams Trump DOJ lawsuit over Alaska Senate race\n\nRelated coverage: Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November\n\nRelated coverage: Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows",
+        "trend_score": 37.9,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.0,
+          "topic_overlap": 0.133,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Guardian",
+        "category": "news",
+        "title": "Oregon father who killed school shooter speaks out for first time: ‘I have to go in’ - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGRMR1JveUxtWjMxa3pQY2xnRmk4Z3ltWFVWaVNhN3VKU0xBUEVadFVMRjJiWk1GMkx0S1JVc19rVDM0T1ZJaHBheV9OUlpGLUtWdkxCNHlYQUVXRl9FRmF0UkhyNmlmVHd6emJwVEx3c1RMNGREUHZ6UEpVQXNrZENNbjBlOUNhN0VadURKWVQ?oc=5",
+        "published_at": "2026-10-23T23:14:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon father who killed school shooter speaks out for first time: ‘I have to go in’；‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath；Hero dad describes taking down Oregon school shooter: \"I see faces, I hear voices, I hear screams\"。",
+        "related_headlines": [
+          "Oregon father who killed school shooter speaks out for first time: ‘I have to go in’",
+          "‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath",
+          "Hero dad describes taking down Oregon school shooter: \"I see faces, I hear voices, I hear screams\"",
+          "‘I have to go in,’ Bend school shooting hero told a 911 dispatcher. ‘People are going to die.’",
+          "‘I Have to Go In’: Dad Describes Killing Gunman in Oregon School Shooting"
+        ],
+        "content_context": "Oregon father who killed school shooter speaks out for first time: ‘I have to go in’ - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Oregon father who killed school shooter speaks out for first time: ‘I have to go in’；‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath；Hero dad describes taking down Oregon school shooter: \"I see faces, I hear voices, I hear screams\"。\n\nRelated coverage: Oregon father who killed school shooter speaks out for first time: ‘I have to go in’\n\nRelated coverage: ‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath\n\nRelated coverage: Hero dad describes taking down Oregon school shooter: \"I see faces, I hear voices, I hear screams\"\n\nRelated coverage: ‘I have to go in,’ Bend school shooting hero told a 911 dispatcher. ‘People are going to die.’\n\nRelated coverage: ‘I Have to Go In’: Dad Describes Killing Gunman in Oregon School Shooting",
+        "trend_score": 37.37,
+        "trend_breakdown": {
+          "freshness": 0.957,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlvaks4NXljX3RhX2QxSGlPSFZSZ2V0dWZwdV9QZWhrbXhaRXh1WThQNXFpU0ZJZW53SDB6SlhINWVuTmdzeG83OERFTjBZclBEakZ2Mzc5LWZfelhZcVdmMUZvZUhWWkhwMkFMb0Z4elVYTEw4SVBfYkJOTnNpem9CNFZDbnd1R1VTejZmWlVfMnhGQUVQQjRKc3hUTmpM?oc=5",
+        "published_at": "2026-10-23T21:11:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says；Officer who shot and killed Black toddler in Mississippi resigns from police force；Bodycam clip released in fatal police shooting of Mississippi one-year-old。",
+        "related_headlines": [
+          "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says",
+          "Officer who shot and killed Black toddler in Mississippi resigns from police force",
+          "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+          "Senatobia police officer resigns after body camera video released in shooting death of 1-year-old Kohen Wiley",
+          "Officer who fatally shot 1-year-old in Walmart parking lot resigns"
+        ],
+        "content_context": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says；Officer who shot and killed Black toddler in Mississippi resigns from police force；Bodycam clip released in fatal police shooting of Mississippi one-year-old。\n\nRelated coverage: Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says\n\nRelated coverage: Officer who shot and killed Black toddler in Mississippi resigns from police force\n\nRelated coverage: Bodycam clip released in fatal police shooting of Mississippi one-year-old\n\nRelated coverage: Senatobia police officer resigns after body camera video released in shooting death of 1-year-old Kohen Wiley\n\nRelated coverage: Officer who fatally shot 1-year-old in Walmart parking lot resigns",
+        "trend_score": 35.96,
+        "trend_breakdown": {
+          "freshness": 0.872,
+          "engagement": 0.0,
+          "topic_overlap": 0.286,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "British PM pushes Trump on Ukraine’s Starlink access - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2NzYmhfNFhjME5ySzRhcUcwRTdkVUhPeVJTZjYwckVQT1ZweVZ2OHVLNTNYaHF4bmJkaTFNVllsMkhmNFdHaU1YYVgyZWMwRDZGTFdOZ21wMGZUVV9la3c1ME1Ib2tuX0xtUVJMQVhfUG9OQTVuUUk0Q0R2VUo5MzZmeHNNTlhybWttSDVGeVY?oc=5",
+        "published_at": "2026-10-23T21:00:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：British PM pushes Trump on Ukraine’s Starlink access；Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions；Pressure mounts on Trump administration over Starlink slowdown。",
+        "related_headlines": [
+          "British PM pushes Trump on Ukraine’s Starlink access",
+          "Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
+          "Pressure mounts on Trump administration over Starlink slowdown",
+          "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+          "How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back"
+        ],
+        "content_context": "British PM pushes Trump on Ukraine’s Starlink access - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：British PM pushes Trump on Ukraine’s Starlink access；Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions；Pressure mounts on Trump administration over Starlink slowdown。\n\nRelated coverage: British PM pushes Trump on Ukraine’s Starlink access\n\nRelated coverage: Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions\n\nRelated coverage: Pressure mounts on Trump administration over Starlink slowdown\n\nRelated coverage: When Starshield Cut Out, Ukrainian Drones Fell From the Skies\n\nRelated coverage: How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back",
+        "trend_score": 35.69,
+        "trend_breakdown": {
+          "freshness": 0.864,
+          "engagement": 0.0,
+          "topic_overlap": 0.286,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Guardian",
+        "category": "news",
+        "title": "Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hSlAtRFRhc3dmMW0yVUI3M3VpdExGVFlQUVlzQ1Q0NXBkbXJqUE5keURmdzA3a3l6dHZrZjJFOVpQNjFScERLNWJJaWNiQTRfM292cXJ1dEJPcVBvOUtHV0I1eUM5M1RvTzk2NUlNTWtrQQ?oc=5",
+        "published_at": "2026-10-23T19:33:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump again invokes claim he has the ‘right’ to run for third term as president；See more headlines & perspectives on Google News。",
+        "related_headlines": [
+          "Trump again invokes claim he has the ‘right’ to run for third term as president",
+          "See more headlines & perspectives on Google News"
+        ],
+        "content_context": "Trump again invokes claim he has the ‘right’ to run for third term as president - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump again invokes claim he has the ‘right’ to run for third term as president；See more headlines & perspectives on Google News。\n\nRelated coverage: Trump again invokes claim he has the ‘right’ to run for third term as president\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 33.3,
+        "trend_breakdown": {
+          "freshness": 0.804,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWdXRFdqaGx1VHI4bFFEX1I3cjVXWUlrQTF1TVZEUEdXUjBRbkZxdmlKZVB3T3ZKX09tYk1HZWJBNXRheGs2dHFIM2ZrOTFHQ0ZPRjZsOHVDM3VyNjItdlVrQ19nT2N0XzlnR0dONUNsZFozNndyYkU3aTNjMEcxZnd3YVpsZnkzbHFjdnNCYmJHR1E?oc=5",
+        "published_at": "2026-10-23T20:33:39+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe；Two Former F.B.I. Officials Charged With False Statements About Biden’s Son；DOJ charges two former top FBI officials who were frequent targets of Trump allies。",
+        "related_headlines": [
+          "2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe",
+          "Two Former F.B.I. Officials Charged With False Statements About Biden’s Son",
+          "DOJ charges two former top FBI officials who were frequent targets of Trump allies",
+          "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
+          "Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry"
+        ],
+        "content_context": "2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe；Two Former F.B.I. Officials Charged With False Statements About Biden’s Son；DOJ charges two former top FBI officials who were frequent targets of Trump allies。\n\nRelated coverage: 2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe\n\nRelated coverage: Two Former F.B.I. Officials Charged With False Statements About Biden’s Son\n\nRelated coverage: DOJ charges two former top FBI officials who were frequent targets of Trump allies\n\nRelated coverage: Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop\n\nRelated coverage: Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry",
+        "trend_score": 33.12,
+        "trend_breakdown": {
+          "freshness": 0.846,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that - NPR",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcU5CM2NWcTZiZEZuS0NjY2Q5eWVXQmRubF9Ya2h4ODVwS1FZSWtOUUVfOUlHdnhOcGtvLVRhU3VaRWstcG5IUXpLeWJCMUVPaWtuczFPaXVuN2M0RDR6YllRQ21jRWdIdEhwNUFPMjNCdFpMa1NxVExFX1FHUXJzdHh2eE1ISnM?oc=5",
+        "published_at": "2026-10-23T17:35:14+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that；Analysis | Trump is pressing the gas on his construction projects；What Trump’s Golf Course Plan Takes Away From D.C. Residents。",
+        "related_headlines": [
+          "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+          "Analysis | Trump is pressing the gas on his construction projects",
+          "What Trump’s Golf Course Plan Takes Away From D.C. Residents",
+          "Why Is Everyone Avoiding the Biggest Issue Facing Voters?",
+          "‘Furious’ judges are tired of assuming Trump administration’s good faith"
+        ],
+        "content_context": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that；Analysis | Trump is pressing the gas on his construction projects；What Trump’s Golf Course Plan Takes Away From D.C. Residents。\n\nRelated coverage: A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that\n\nRelated coverage: Analysis | Trump is pressing the gas on his construction projects\n\nRelated coverage: What Trump’s Golf Course Plan Takes Away From D.C. Residents\n\nRelated coverage: Why Is Everyone Avoiding the Biggest Issue Facing Voters?\n\nRelated coverage: ‘Furious’ judges are tired of assuming Trump administration’s good faith",
+        "trend_score": 29.55,
+        "trend_breakdown": {
+          "freshness": 0.722,
+          "engagement": 0.0,
+          "topic_overlap": 0.222,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WLWT",
+        "category": "news",
+        "title": "Rodney Hinton convicted of murder in death of deputy Larry Henderson - WLWT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUdpUjZBVk4zM1FqdnEzdmhWaVloWk5OZlVoeWlsMkpHWEs1OFJMQWJPVzNPdk5RNGRUcGRqakhIdzhzbURDSWRVQlZvT194ZE5tVFE2T0dvLWJib0FNY2E3akFHNUpzVHd1UWZQQTNmUGdZQkx5WW1PVHR4WExnaWRYdmtTcVBR?oc=5",
+        "published_at": "2026-10-23T18:28:00+00:00",
+        "summary": "WLWT 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rodney Hinton convicted of murder in death of deputy Larry Henderson；Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder；Rodney Hinton Jr. found guilty of murdering Hamilton County deputy。",
+        "related_headlines": [
+          "Rodney Hinton convicted of murder in death of deputy Larry Henderson",
+          "Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder",
+          "Rodney Hinton Jr. found guilty of murdering Hamilton County deputy",
+          "Ohio man convicted of murder for running over officer after police killed his son",
+          "Ohio father charged with killing sheriff deputy found guilty"
+        ],
+        "content_context": "Rodney Hinton convicted of murder in death of deputy Larry Henderson - WLWT\n\nWLWT 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rodney Hinton convicted of murder in death of deputy Larry Henderson；Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder；Rodney Hinton Jr. found guilty of murdering Hamilton County deputy。\n\nRelated coverage: Rodney Hinton convicted of murder in death of deputy Larry Henderson\n\nRelated coverage: Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder\n\nRelated coverage: Rodney Hinton Jr. found guilty of murdering Hamilton County deputy\n\nRelated coverage: Ohio man convicted of murder for running over officer after police killed his son\n\nRelated coverage: Ohio father charged with killing sheriff deputy found guilty",
+        "trend_score": 27.31,
+        "trend_breakdown": {
+          "freshness": 0.759,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "PBS",
+        "category": "news",
+        "title": "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVllZVYzS1A0MHc5Q0FheU5jd3FRcGg2S3N5dUlPZVgzVHFmblhqNGRfZ0xpNGViNWN1NExxNEdIVUdqWk1XRzVBLXN5RDBXbDdaSEd3NExsbTRISGRKV2lkT1JkTzVBSXZMQmM2cUVnRjJhLVZJZ2UtUUdFZHJudVRqekRlUzUwTU1yMkl1OXJpaEJkUWpTLVY3MXJDTlN1bDQ0QdIBqgFBVV95cUxQaUFzeGRJS3RaMXRidlRFVGM4ZDdLV3ptVXRDTzRTamVWQUZla0JpR1ZGQm5iVmlQWk50bkdpVWJHcHl1ZXFBVHhlcHliVkN2NUdEVHl1bzE0WHc2aEczT0hCRlRkWEVZOHBiTlgycUpkR0ZkVFh0YXdpWnFPaVU2Q0FaVUVzLUR0ZkFzZGFuX2VaN3ZEUnJFRW44UEdyRzZBRVR2UkRja2xFQQ?oc=5",
+        "published_at": "2026-10-23T18:07:34+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother；Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live；Cook Political moves Ohio governor’s race after Ramaswamy attack ad。",
+        "related_headlines": [
+          "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother",
+          "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+          "Cook Political moves Ohio governor’s race after Ramaswamy attack ad",
+          "Vivek Ramaswamy’s Trump Act Could Be His Undoing",
+          "DeWine declines to respond to Trump’s criticism, renews call for Ramaswamy to pull ad"
+        ],
+        "content_context": "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother；Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live；Cook Political moves Ohio governor’s race after Ramaswamy attack ad。\n\nRelated coverage: Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother\n\nRelated coverage: Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live\n\nRelated coverage: Cook Political moves Ohio governor’s race after Ramaswamy attack ad\n\nRelated coverage: Vivek Ramaswamy’s Trump Act Could Be His Undoing\n\nRelated coverage: DeWine declines to respond to Trump’s criticism, renews call for Ramaswamy to pull ad",
+        "trend_score": 26.8,
+        "trend_breakdown": {
+          "freshness": 0.745,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "author": "nodejs",
+      "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "JavaScript",
+      "score": 66,
+      "comment_count": 39831,
+      "total_stars": 122854,
+      "built_by": [
+        "Trott",
+        "ry",
+        "bnoordhuis",
+        "addaleax",
+        "isaacs"
+      ],
+      "content_context": "Node.js JavaScript runtime ✨🐢🚀✨\n\nLanguage: JavaScript\n\nStars today: 66\n\nTotal stars: 122854\n\nBuilt by: Trott, ry, bnoordhuis, addaleax, isaacs",
+      "trend_score": 93.61,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.892,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "author": "cloudflare",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "JavaScript",
+      "score": 2716,
+      "comment_count": 2631,
+      "total_stars": 42107,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2716\n\nTotal stars: 42107\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "author": "php",
+      "summary": "The PHP Interpreter",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "C",
+      "score": 716,
+      "comment_count": 8359,
+      "total_stars": 41558,
+      "built_by": [
+        "dstogov",
+        "nikic",
+        "weltling",
+        "cmb69",
+        "iliaal"
+      ],
+      "content_context": "The PHP Interpreter\n\nLanguage: C\n\nStars today: 716\n\nTotal stars: 41558\n\nBuilt by: dstogov, nikic, weltling, cmb69, iliaal",
+      "trend_score": 85.75,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.971,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "author": "SnailSploit",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "Python",
+      "score": 226,
+      "comment_count": 1100,
+      "total_stars": 8470,
+      "built_by": [
+        "SnailSploit",
+        "claude",
+        "halilkirazkaya",
+        "LvL23HT",
+        "yogesh-tessl"
+      ],
+      "content_context": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\n\nLanguage: Python\n\nStars today: 226\n\nTotal stars: 8470\n\nBuilt by: SnailSploit, claude, halilkirazkaya, LvL23HT, yogesh-tessl",
+      "trend_score": 85.58,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.776,
+        "topic_overlap": 0.333,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "author": "NVIDIA",
+      "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "Rust",
+      "score": 1119,
+      "comment_count": 1884,
+      "total_stars": 18777,
+      "built_by": [
+        "drew",
+        "johntmyers",
+        "pimlock",
+        "miyoungc",
+        "elezar"
+      ],
+      "content_context": "OpenShell is the safe, private runtime for autonomous AI agents.\n\nLanguage: Rust\n\nStars today: 1119\n\nTotal stars: 18777\n\nBuilt by: drew, johntmyers, pimlock, miyoungc, elezar",
+      "trend_score": 83.76,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.919,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "author": "anthropics",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "Python",
+      "score": 635,
+      "comment_count": 3573,
+      "total_stars": 32202,
+      "built_by": [
+        "github-actions",
+        "jordanecker-ant",
+        "bryan-anthropic",
+        "claude",
+        "mattpic-ant"
+      ],
+      "content_context": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nLanguage: Python\n\nStars today: 635\n\nTotal stars: 32202\n\nBuilt by: github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant",
+      "trend_score": 83.62,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.915,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "author": "Renhuai123",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "TypeScript",
+      "score": 546,
+      "comment_count": 1406,
+      "total_stars": 6847,
+      "built_by": [
+        "Renhuai123",
+        "claude",
+        "dependabot",
+        "Renhuai",
+        "sakura168899-debug"
+      ],
+      "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 546\n\nTotal stars: 6847\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+      "trend_score": 81.22,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.852,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "author": "OpenBMB",
+      "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "published_at": "2026-10-24T00:15:20.398191+00:00",
+      "language": "Python",
+      "score": 150,
+      "comment_count": 4578,
+      "total_stars": 40245,
+      "built_by": [
+        "Labmem-Zhouyx",
+        "a710128",
+        "bcsdcox",
+        "liuxin99",
+        "VoxInstruct"
+      ],
+      "content_context": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\n\nLanguage: Python\n\nStars today: 150\n\nTotal stars: 40245\n\nBuilt by: Labmem-Zhouyx, a710128, bcsdcox, liuxin99, VoxInstruct",
+      "trend_score": 80.3,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.828,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Review a coding agent's change as a map instead of a diff",
+      "url": "https://github.com/gtindo/task-view",
+      "author": "gtindo",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-24T00:11:40+00:00",
+      "summary": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/gtindo/task-view",
+        "page_title": "GitHub - gtindo/task-view: Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML.",
+        "page_description": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...",
+        "page_excerpt": "Review an agent's change as a map of how it fits together, not as a flat list of diffs.\n\nWhen a coding agent writes most of the code, reviewing it means opening the changed files in your IDE one by one and rebuilding in your head what calls what, which path a request now takes, and which test covers which piece. The diff shows lines; the structure of the change is left for you to work out.\n\ntask-view puts that structure on the page for you. When the agent finishes a task, it describes its change: the functions, components and tests it touched, why, how they relate, and the user-visible flows they form. task-view turns that into one page you read in the browser: a graph of the change, its flows step by step, and each piece's code next to the agent's reason for it. You spend your at..."
+      },
+      "content_context": "Review a coding agent’s change as a map, not a flat diff: a graph of what changed, its flows and each piece’s code next to the agent’s reason, checked against Git. Any language, offline HTML. - gti...\n\nReview an agent's change as a map of how it fits together, not as a flat list of diffs. When a coding agent writes most of the code, reviewing it means opening the changed files in your IDE one by one and rebuilding in your head what calls what, which path a request now takes, and which test covers which piece. The diff shows lines; the structure of the change is left for you to work out. task-view puts that structure on the page for you. When the agent finishes a task, it describes its change: the functions, components and tests it touched, why, how they relate, and the user-visible flows they form. task-view turns that into one page you read in the browser: a graph of the change, its flows step by step, and each piece's code next to the agent's reason for it. You spend your at...",
+      "trend_score": 55.55,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.049,
+        "topic_overlap": 0.286,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "How nervous are bond markets about France?",
+      "url": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+      "author": "JumpCrisscross",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-24T00:11:27+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 51.9,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.049,
+        "topic_overlap": 0.2,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Hold My Docs – a self-hosted wiki that stores pages in Git",
+      "url": "https://github.com/soollabs/holdmydocs",
+      "author": "broadben12",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-24T00:06:45+00:00",
+      "summary": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs",
+      "comment_highlights": [
+        "[dead]"
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/soollabs/holdmydocs",
+        "page_title": "GitHub - soollabs/holdmydocs: A self-hosted wiki that keeps every page as Markdown in Git.",
+        "page_description": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs",
+        "page_excerpt": "Hold My Docs (HMD) runs as a single Go binary and keeps your content as Markdown in an ordinary Git repository. Every save is a commit, so your docs have real history and can sync to a remote you already use.\n\nHold My Docs is an early-stage project. Expect rough edges and breaking changes. Keep backups and test upgrades before relying on it as your only source for important documentation.\n\nOpen http://localhost:8080 and sign in with the bootstrap credentials. Remove the bootstrap environment variables after the first successful start."
+      },
+      "content_context": "A self-hosted wiki that keeps every page as Markdown in Git. - soollabs/holdmydocs\n\nHold My Docs (HMD) runs as a single Go binary and keeps your content as Markdown in an ordinary Git repository. Every save is a commit, so your docs have real history and can sync to a remote you already use. Hold My Docs is an early-stage project. Expect rough edges and breaking changes. Keep backups and test upgrades before relying on it as your only source for important documentation. Open http://localhost:8080 and sign in with the bootstrap credentials. Remove the bootstrap environment variables after the first successful start.\n\nHN comment: [dead]",
+      "trend_score": 51.67,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.049,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
+      "url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
+      "author": "bweller",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-24T00:09:30+00:00",
+      "summary": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
+        "page_title": "Poor Man's Claude Pro",
+        "page_description": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the",
+        "page_excerpt": "A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback .\n\nThat's how much more you're missing out per month by spending on the Claude Max plan vs. just the Pro plan.\n\nMy coworkers bragged about how much they could code on the go via the Claude Max plan that allows them to run Claude remotely on a server Anthropic provides and push to a GitHub repo by default....jokes on them, I can now attempt to carry around my three Yeti water bottles while layered under three layers of shirts, but I don't have to worry about any BO from sweat because I used my Irish Sprin..."
+      },
+      "content_context": "Write all the code you'll ever need from your phone for $20 per month A Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant, or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the\n\nA Yeti water bottle + a Nike T-shirt + Irish Spring 5 in 1: Body, Face, Shampoo, Conditioner, and 24 Hour Deodorant , or an AeroPress Go Portable Coffee Maker + a three-pack of the Field Notes memo books + the classic Swiss Army Knife , or The Power Broker + Graza Drizzle Extra Virgin Olive Oil + a Patagonia snapback . That's how much more you're missing out per month by spending on the Claude Max plan vs. just the Pro plan. My coworkers bragged about how much they could code on the go via the Claude Max plan that allows them to run Claude remotely on a server Anthropic provides and push to a GitHub repo by default....jokes on them, I can now attempt to carry around my three Yeti water bottles while layered under three layers of shirts, but I don't have to worry about any BO from sweat because I used my Irish Sprin...",
+      "trend_score": 51.34,
+      "trend_breakdown": {
+        "freshness": 0.996,
+        "engagement": 0.049,
+        "topic_overlap": 0.091,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "OpenAI found a critical flaw in Brotli (used by Node.js, Bun and Envoy)",
+      "url": "https://twitter.com/OpenAI/status/2113766354386084338",
+      "author": "shenli3514",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-23T23:46:57+00:00",
+      "summary": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://x.com/OpenAI/status/2113766354386084338",
+        "page_title": "OpenAI (@OpenAI) on X",
+        "page_description": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+        "page_excerpt": null
+      },
+      "content_context": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy. The flaw could let an attacker run their own code on affected…",
+      "trend_score": 51.02,
+      "trend_breakdown": {
+        "freshness": 0.98,
+        "engagement": 0.049,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Valheim Seed Map Viewer for Valheim – Walheim Wiki",
+      "url": "https://valheimwiki.net/en/seed-map",
+      "author": "mario22",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-10-24T00:04:29+00:00",
+      "summary": "That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>",
+      "comment_highlights": [
+        "That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: That's really helpful! There are also many useful blogs in there - <a href=\"https://valheimwiki.net/en/blog\" rel=\"nofollow\">https://valheimwiki.net/en/blog</a>",
+      "trend_score": 48.96,
+      "trend_breakdown": {
+        "freshness": 0.992,
+        "engagement": 0.088,
+        "topic_overlap": 0.333,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "I failed every LeetCode interview",
+      "url": "https://write.as/m5g5r26qo5wt7",
+      "author": "garn810",
+      "score": 3,
+      "comment_count": 2,
+      "published_at": "2026-10-23T23:52:37+00:00",
+      "summary": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...",
+      "comment_highlights": [
+        "I recently got a disjoint set problem (similar to number of islands of Leetcode) in an interview and the interviewer made me solve it using a DFS approach instead of a union find. Also I realized that most interviewers prefer that I solve the Leetcode problems in TypeScript and don't like Python",
+        "I failed every LeetCode style interview I've ever attempted. I mean, I'm lucky to even be filtered for the interview nowadays.. However, I failed not because I couldn't solve the problems. I solved them (honestly, without any AI). I just rarely solved them the way the interviewer wanted."
+      ],
+      "linked_context": {
+        "resolved_url": "https://write.as/m5g5r26qo5wt7",
+        "page_title": "I failed every LeetCode interview",
+        "page_description": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...",
+        "page_excerpt": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, ideas I hack on until they either work or teach me something. None of it fits on a CV anyone can read in six seconds.. but still I have this dream of working in a large corporation like Google. I have now failed every LeetCode style interview I've ever attempted..."
+      },
+      "content_context": "Most of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, id...\n\nMost of my time outside work goes to building things. Side projects, products I never quite finished or small tools I wanted to exist, ideas I hack on until they either work or teach me something. None of it fits on a CV anyone can read in six seconds.. but still I have this dream of working in a large corporation like Google. I have now failed every LeetCode style interview I've ever attempted...\n\nHN comment: I recently got a disjoint set problem (similar to number of islands of Leetcode) in an interview and the interviewer made me solve it using a DFS approach instead of a union find. Also I realized that most interviewers prefer that I solve the Leetcode problems in TypeScript and don't like Python\n\nHN comment: I failed every LeetCode style interview I've ever attempted. I mean, I'm lucky to even be filtered for the interview nowadays.. However, I failed not because I couldn't solve the problems. I solved them (honestly, without any AI). I just rarely solved them the way the interviewer wanted.",
+      "trend_score": 44.88,
+      "trend_breakdown": {
+        "freshness": 0.984,
+        "engagement": 0.159,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI与开源技术领域热点纷呈。GitHub趋势榜上，Node.js与PHP解释器等成熟项目持续活跃，反映传统技术生态的持久生命力。同时，多家头部企业发布重要开源项目：NVIDIA推出用于自主AI代理的安全运行时OpenShell，Anthropic开源面向Claude Cowork的知识工作插件库，Cloudflare发布自动化安全审计编码代理技能。此外，OpenBMB实验室的无需分词器TTS系统VoxCPM2，以及聚焦AI安全攻防的Claude-Red项目，均显示出AI在语音合成与网络安全领域的应用深化。值得注意的是，一个基于TypeScript的紫微斗数排盘引擎也登上趋势，体现了开源技术向传统文化领域的独特渗透。",
+    "named_hotspots": [
+      {
+        "name": "Node.js",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Node.js项目在GitHub趋势榜上热度上升，今日新增66颗星，总星数达122,854，显示出开发者社区对其持续关注。",
+        "core_details": "Node.js是一个基于Chrome V8引擎的JavaScript运行时，用于构建高性能的网络应用。项目由Trott、ry、bnoordhuis、addaleax和isaacs等核心贡献者维护，使用JavaScript语言开发。",
+        "ai_take": "作为服务器端JavaScript运行时的先驱，Node.js在AI和机器学习领域的边缘计算、实时数据处理中仍有应用潜力，但其核心优势更偏向于传统Web开发和微服务架构。",
+        "hype_check": "趋势热度较高（趋势得分93.61），反映了其在开发者中的稳定受欢迎程度，但并非突破性技术更新，更多是生态系统的持续活跃。",
+        "value_check": "Node.js作为成熟的开源项目，为全栈JavaScript开发提供了坚实基础，在异步I/O和事件驱动模型方面具有长期价值，适合构建可扩展的网络应用。",
+        "follow_up": "关注Node.js与WebAssembly、边缘AI计算的集成进展，以及其在云原生和Serverless架构中的演进。",
+        "evidence": "GitHub趋势数据显示今日新增66星，总星数122,854，项目由nodejs组织维护，核心贡献者包括Trott、ry等。"
+      },
+      {
+        "name": "security-audit-skill",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "Cloudflare在GitHub上开源了一个名为security-audit-skill的项目，这是一个用于多阶段安全审计的编码代理技能，能够生成独立验证且机器可读的发现结果。",
+        "core_details": "该项目由Cloudflare的literally-dan、CooperSheroy和kennysarnoski-jarvis构建，使用JavaScript语言编写。在GitHub趋势榜上，今日获得2716颗星，总星数已达42107，显示出较高的关注度。",
+        "ai_take": "该项目代表了AI在自动化安全审计领域的应用进展，通过编码代理技能实现多阶段审计，并生成机器可读的验证结果，有助于提升安全审计的效率和可扩展性。",
+        "hype_check": "项目在GitHub上趋势得分86.84，今日星数增长显著，总星数超过4万，表明其在开发者社区中引起了广泛关注和兴趣，但实际应用效果仍需进一步验证。",
+        "value_check": "作为Cloudflare的开源项目，它可能为开发者提供实用的安全审计工具，特别是在自动化代码审查和漏洞检测方面具有潜在价值，但需考虑其在不同环境下的适用性和准确性。",
+        "follow_up": "关注项目后续的版本更新和社区反馈，以及在实际安全审计场景中的应用案例，以评估其长期价值和可靠性。",
+        "evidence": "项目GitHub页面提供详细信息，包括描述、语言、星数统计和构建者，但缺乏页面描述、摘要和相关头条等额外内容。"
+      },
+      {
+        "name": "PHP 解释器",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "PHP 解释器（php-src）项目在 GitHub 趋势榜上热度显著，今日新增星标数达 716，总星标数超过 4.1 万，显示出开发者社区对 PHP 底层技术的持续关注。",
+        "core_details": "该项目是 PHP 编程语言的核心解释器，使用 C 语言编写，由 dstogov、nikic、weltling、cmb69、iliaal 等核心贡献者维护。",
+        "ai_take": "PHP 解释器作为服务器端脚本语言的核心，其活跃度反映了传统 Web 开发技术的持久生命力。尽管 AI 和新兴语言崛起，但 PHP 在内容管理系统（如 WordPress）和遗留系统中仍占据重要地位，其性能优化和 JIT 编译器等改进对 AI 驱动的 Web 应用后端仍有参考价值。",
+        "hype_check": "热度合理，PHP 作为历史悠久的 Web 开发语言，其核心项目受到关注通常与版本更新、性能改进或安全修复相关，而非短期炒作。",
+        "value_check": "高价值，PHP 解释器是数百万网站和应用的运行基础，其开源协作模式对 Web 生态的稳定性和创新至关重要，持续维护有助于保障互联网基础设施的可靠性。",
+        "follow_up": "关注 PHP 8.x 系列的 JIT 编译器进展、性能基准测试以及与 AI 框架（如 TensorFlow PHP 绑定）的集成动态。",
+        "evidence": "GitHub 趋势数据：今日星标增长 716，总星标 41558，项目语言为 C，由 PHP 官方团队维护。"
+      },
+      {
+        "name": "Claude-Red",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 项目 Claude-Red 登上趋势榜，这是一个为 Claude 技能系统设计的攻击性安全技能库，旨在通过结构化文件指导 AI 进行专业级安全测试。",
+        "core_details": "该项目由 SnailSploit 等人开发，使用 Python 语言，包含一系列结构化的 SKILL.md 文件，每个文件针对特定攻击面（如 SQL 注入、shellcode、EDR 规避、漏洞利用开发等）提供专家级方法论，以“赋能” Claude AI 模型进行安全攻防任务。项目今日获 226 颗星，总星数达 8470。",
+        "ai_take": "该项目展示了 AI 在网络安全领域的应用潜力，通过结构化知识库“教导” AI 模型执行复杂的攻击模拟与安全测试，可能提升自动化渗透测试与漏洞研究的效率，但也引发了对 AI 被滥用于恶意目的的担忧。",
+        "hype_check": "趋势热度较高（趋势得分 85.58），反映了社区对 AI 驱动安全工具的关注，但需注意其“攻击性”定位可能带来伦理与法律争议。",
+        "value_check": "为安全研究人员提供了可复用的 AI 技能模板，有助于标准化攻击方法论的学习与实验；但在实际部署中需严格控制在合法授权范围内使用。",
+        "follow_up": "关注类似项目（如针对其他 AI 模型的安全技能库）是否涌现，以及 Claude 官方是否会对此类“攻击技能”集成采取限制措施。",
+        "evidence": "项目描述明确其为“攻击性安全技能库”，涵盖 SQLi、EDR 规避等主题；GitHub 数据（星数增长、语言为 Python）支持其技术属性与社区关注度。"
+      },
+      {
+        "name": "OpenShell",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "NVIDIA在GitHub上开源了OpenShell项目，这是一个用于自主AI代理的安全、私有运行时环境，采用Rust语言编写，今日获得1119颗星，总星数达18777。",
+        "core_details": "OpenShell由NVIDIA团队（包括drew、johntmyers、pimlock、miyoungc、elezar等）开发，旨在为自主AI代理提供一个安全且私密的运行环境，强调其在处理敏感任务时的可靠性和隔离性。",
+        "ai_take": "该项目反映了AI领域对安全性和隐私性的日益重视，特别是在自主代理部署中，可能推动更健壮、可信的AI系统基础设施发展。",
+        "hype_check": "高热度（趋势得分83.76），表明社区对NVIDIA在AI安全运行时方面的开源贡献兴趣浓厚，但需观察实际采用和性能表现。",
+        "value_check": "潜在价值高，作为NVIDIA支持的项目，可能集成其硬件优势，提升AI代理的效率和安全性，但需验证其在复杂场景下的实用性。",
+        "follow_up": "关注项目更新、社区反馈以及是否与NVIDIA其他AI工具（如CUDA）集成，以评估其长期影响。",
+        "evidence": "基于GitHub趋势数据：项目由NVIDIA发布，语言为Rust，今日星数1119，总星数18777，无评论亮点或相关头条，但高星数和高趋势得分支持其受关注度。"
+      },
+      {
+        "name": "knowledge-work-plugins",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic 在 GitHub 上开源了一个名为 'knowledge-work-plugins' 的插件仓库，主要为知识工作者在 Claude Cowork 中使用。",
+        "core_details": "该项目是一个 Python 语言编写的开源插件集合，旨在增强 Claude Cowork 平台的功能，服务于知识工作者。项目今日获得 635 颗星，总星数已达 32202，由 Anthropic 团队（包括 github-actions, jordanecker-ant, bryan-anthropic, claude, mattpic-ant）构建和维护。",
+        "ai_take": "这表明 Anthropic 正通过开源生态策略，扩展其 AI 助手 Claude 在企业与知识工作场景中的工具集成能力和实用性，降低开发门槛，吸引社区共建。",
+        "hype_check": "项目热度较高（趋势得分 83.62），单日获星数可观，总星数突破 3.2 万，显示开发者社区对 Claude 生态及生产力工具插件的强烈关注。",
+        "value_check": "为知识工作者提供了可直接集成使用的工具插件，能提升 Claude Cowork 的工作流效率；开源形式有利于社区贡献和快速迭代，但实际价值取决于插件质量与具体应用场景的匹配度。",
+        "follow_up": "关注插件仓库的更新频率、社区贡献情况以及后续是否有与 Claude 其他产品线（如 API、企业版）的深度整合计划。",
+        "evidence": "GitHub 仓库信息显示项目由 Anthropic 官方发布，语言为 Python，今日星数 635，总星数 32202，项目描述明确指出其用途为“知识工作者在 Claude Cowork 中使用”。"
+      },
+      {
+        "name": "紫微斗数开源排盘引擎",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为'ziwei-doushu'的紫微斗数开源排盘引擎项目在GitHub上趋势榜热度飙升，今日获得546颗星，总星数达6847，引发技术社区关注。",
+        "core_details": "该项目基于倪海厦《天纪》体系，使用TypeScript语言开发，提供了完整的紫微斗数排盘算法、四化系统、格局知识库及古籍原文数据，旨在为传统命理学研究提供现代化的开源工具。",
+        "ai_take": "该项目展示了AI/开源技术向传统文化领域的渗透，通过代码化、系统化传统知识体系，可能为命理学的量化研究、算法验证及跨文化比较提供新工具，但需注意其科学验证边界。",
+        "hype_check": "热度较高（趋势分81.22），反映技术圈对传统文化与编程结合的兴趣，但需区分技术实现热度与命理学本身的社会接受度。",
+        "value_check": "技术价值在于将复杂传统体系模块化、开源化，便于协作与验证；文化价值在于促进古籍数据的数字化保存与创新应用；但实际预测效用未经验证，属文化工具范畴。",
+        "follow_up": "可关注项目后续的算法优化、社区贡献及是否衍生出学术研究或跨领域应用（如历史数据分析、文化算法研究）。",
+        "evidence": "项目描述明确基于倪海厦体系，包含完整排盘算法、四化系统等核心模块；GitHub数据（今日星546，总星6847，语言TypeScript）证实其技术热度与实现基础。"
+      },
+      {
+        "name": "VoxCPM2",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "OpenBMB实验室推出的VoxCPM2项目在GitHub上趋势飙升，单日获150星，总星数达40245，引发开发者广泛关注。",
+        "core_details": "VoxCPM2是一个基于Python开发的、无需分词器的文本转语音系统，支持多语言语音生成、创意语音设计和逼真声音克隆，由Labmem-Zhouyx等核心贡献者构建。",
+        "ai_take": "该项目代表了TTS技术的前沿方向，通过消除分词器依赖，可能提升跨语言语音合成的流畅性和效率，为多模态AI应用提供更灵活的语音生成工具。",
+        "hype_check": "趋势分数80.3和单日高星增长表明社区兴趣浓厚，但需验证实际语音质量与多语言性能是否达到宣传水平。",
+        "value_check": "作为开源项目，它为研究者和开发者提供了可访问的先进TTS框架，潜在价值在于推动语音合成技术的民主化和创新应用。",
+        "follow_up": "关注OpenBMB实验室的后续更新，测试其在真实场景中的多语言合成效果，并观察是否会有商业化集成案例。",
+        "evidence": "GitHub仓库数据显示项目由OpenBMB发布，语言为Python，总星数40245，单日增长150星，项目描述强调其无分词器、多语言和克隆能力。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "nodejs/node",
+        "content_summary": "Node.js JavaScript 运行时项目，今日新增 66 颗星，总星数达 122,854。",
+        "ai_comment": "作为长期流行的 JavaScript 运行时，其持续的社区关注度反映了其在服务器端开发中的基础地位。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "cloudflare/security-audit-skill",
+        "content_summary": "Cloudflare 开源了一个用于多阶段安全审计的编码代理技能，可生成独立验证、机器可读的审计结果。今日新增 2,716 颗星，总星数 42,107。",
+        "ai_comment": "该项目热度飙升，表明自动化、可验证的安全审计工具在开发运维（DevSecOps）领域需求旺盛。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "php/php-src",
+        "content_summary": "PHP 解释器的源代码仓库，今日新增 716 颗星，总星数 41,558。",
+        "ai_comment": "PHP 核心项目的持续活跃，显示了这门经典服务器端语言依然拥有坚实的开发者基础和持续的演进动力。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Review a coding agent's change as a map instead of a diff",
+        "content_summary": "项目 task-view 提出了一种新的代码审查方式，将 AI 编码代理所做的更改可视化为结构图，而非传统的线性差异对比。它展示变更的组件、流程、关联关系以及代理的修改理由，并支持离线 HTML 查看。",
+        "ai_comment": "这直接回应了 AI 辅助编程带来的新挑战——理解 AI 生成代码的结构性意图。该工具可能提升对复杂 AI 生成代码块的审查效率和深度。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Show HN: Hold My Docs – a self-hosted wiki that stores pages in Git",
+        "content_summary": "Hold My Docs 是一个自托管的 Wiki 系统，使用单个 Go 二进制文件运行，将所有页面以 Markdown 格式存储在普通的 Git 仓库中。每次保存都是一个提交，从而为文档提供了完整的历史记录和远程同步能力。项目处于早期阶段。",
+        "ai_comment": "将 Wiki 与 Git 深度集成，迎合了开发者对版本控制、可追溯性和简单部署的偏好，是文档即代码（Docs as Code）理念的又一实践。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "White House says the US is lifting tariffs on some Canadian goods - BBC",
+        "content_summary": "白宫宣布美国将取消对部分加拿大商品的关税。多家媒体报道指出，此举可能旨在帮助共和党参议员苏珊·柯林斯在中期选举中竞选，或与选举政治有关。",
+        "ai_comment": "关税政策的调整与国内政治周期挂钩，显示了经济决策可能服务于短期政治目标，这或将对美加贸易关系及特定行业产生影响。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Midterm Elections Updates: Trump Says He Ordered Justice Dept. to Intervene in Alaska Senate Race - The New York Times",
+        "content_summary": "前总统特朗普声称已命令司法部干预阿拉斯加州参议院选举。相关报道指出，法律专家对此举的合法性表示质疑，而民主党候选人佩尔托拉则批评此举是“腐败”和“绝望”的表现。",
+        "ai_comment": "行政权力试图介入具体选举争议，引发了关于司法独立性和选举公正性的广泛担忧与法律辩论。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Oregon father who killed school shooter speaks out for first time: ‘I have to go in’ - The Guardian",
+        "content_summary": "俄勒冈州一位父亲首次公开讲述他闯入校园击毙枪手的经历。他描述了自己当时的心理活动“我必须进去”，以及事件后持续面对的心理创伤，包括脑海中浮现的面孔和声音。",
+        "ai_comment": "该事件凸显了美国校园枪击事件的悲剧性，以及见义勇为者在事后所承受的复杂心理与情感负担，再次引发关于枪支暴力和公共安全的讨论。"
+      }
+    ],
+    "closing_note": "今日趋势显示，AI开源生态正从基础模型向工具层和安全、隐私等关键领域纵深发展。企业级项目（如NVIDIA、Anthropic、Cloudflare的开源贡献）与前沿研究（如无分词器TTS）共同推动技术实用化。同时，传统技术的持续维护与AI向传统文化等非传统领域的拓展，构成了技术生态的多元图景。开发者需关注这些项目在性能、安全伦理及实际场景中的长期价值，而非短期热度。",
+    "_errors": []
+  }
+}
