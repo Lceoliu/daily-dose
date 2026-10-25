@@ -1,0 +1,1496 @@
+{
+  "generated_at": "2026-10-25T23:48:25.083418+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "author": "debpalash",
+        "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "Python",
+        "score": 1588,
+        "comment_count": 9603,
+        "total_stars": 86753,
+        "built_by": [
+          "debpalash",
+          "claude",
+          "velixio",
+          "kevin9327",
+          "jaketame"
+        ],
+        "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 1588\n\nTotal stars: 86753\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+        "trend_score": 86.85,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "TauricResearch/TradingAgents",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "author": "TauricResearch",
+        "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "Python",
+        "score": 636,
+        "comment_count": 22127,
+        "total_stars": 114568,
+        "built_by": [
+          "Yijia-Xiao",
+          "EdwardoSunny",
+          "CadeYu",
+          "luohy15",
+          "claude"
+        ],
+        "content_context": "TradingAgents: Multi-Agents LLM Financial Trading Framework\n\nLanguage: Python\n\nStars today: 636\n\nTotal stars: 114568\n\nBuilt by: Yijia-Xiao, EdwardoSunny, CadeYu, luohy15, claude",
+        "trend_score": 86.21,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.983,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "author": "cloudflare",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "JavaScript",
+        "score": 2874,
+        "comment_count": 2902,
+        "total_stars": 46823,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ],
+        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2874\n\nTotal stars: 46823\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+        "trend_score": 85.9,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.975,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "author": "pbakaus",
+        "summary": "The design language that makes your AI harness better at design.",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "Rust",
+        "score": 1113,
+        "comment_count": 5238,
+        "total_stars": 87655,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "github-actions",
+          "abdulwahabone",
+          "cursoragent"
+        ],
+        "content_context": "The design language that makes your AI harness better at design.\n\nLanguage: Rust\n\nStars today: 1113\n\nTotal stars: 87655\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+        "trend_score": 84.68,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.943,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "author": "Nutlope",
+        "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "CSS",
+        "score": 1359,
+        "comment_count": 1759,
+        "total_stars": 33700,
+        "built_by": [
+          "Luffixos",
+          "Nutlope",
+          "claude",
+          "riccardogiorato",
+          "JaySmith502"
+        ],
+        "content_context": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\nLanguage: CSS\n\nStars today: 1359\n\nTotal stars: 33700\n\nBuilt by: Luffixos, Nutlope, claude, riccardogiorato, JaySmith502",
+        "trend_score": 82.94,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.897,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pollen-robotics/microduck",
+        "url": "https://github.com/pollen-robotics/microduck",
+        "author": "pollen-robotics",
+        "summary": "A Tiny biped duck robot 🦆",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "Rust",
+        "score": 657,
+        "comment_count": 1480,
+        "total_stars": 11611,
+        "built_by": [
+          "pierre-rouanet",
+          "apirrone",
+          "claude",
+          "Drenayaz",
+          "Nixxx19"
+        ],
+        "content_context": "A Tiny biped duck robot 🦆\n\nLanguage: Rust\n\nStars today: 657\n\nTotal stars: 11611\n\nBuilt by: pierre-rouanet, apirrone, claude, Drenayaz, Nixxx19",
+        "trend_score": 80.7,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.838,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "coollabsio/coolify",
+        "url": "https://github.com/coollabsio/coolify",
+        "author": "coollabsio",
+        "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "PHP",
+        "score": 192,
+        "comment_count": 5783,
+        "total_stars": 64345,
+        "built_by": [
+          "andrasbacsai",
+          "peaklabs-dev",
+          "claude",
+          "ShadowArcanist",
+          "github-actions"
+        ],
+        "content_context": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.\n\nLanguage: PHP\n\nStars today: 192\n\nTotal stars: 64345\n\nBuilt by: andrasbacsai, peaklabs-dev, claude, ShadowArcanist, github-actions",
+        "trend_score": 80.35,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.829,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "makecindy/cindy",
+        "url": "https://github.com/makecindy/cindy",
+        "author": "makecindy",
+        "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "TypeScript",
+        "score": 677,
+        "comment_count": 662,
+        "total_stars": 4825,
+        "built_by": [
+          "dashhuang",
+          "zqchris",
+          "MagicLizi",
+          "DavidShenXD",
+          "claude"
+        ],
+        "content_context": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\nLanguage: TypeScript\n\nStars today: 677\n\nTotal stars: 4825\n\nBuilt by: dashhuang, zqchris, MagicLizi, DavidShenXD, claude",
+        "trend_score": 79.12,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.797,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "author": "Renhuai123",
+        "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "TypeScript",
+        "score": 255,
+        "comment_count": 1541,
+        "total_stars": 7529,
+        "built_by": [
+          "Renhuai123",
+          "claude",
+          "dependabot",
+          "Renhuai",
+          "sakura168899-debug"
+        ],
+        "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 255\n\nTotal stars: 7529\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+        "trend_score": 78.35,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.776,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "author": "JetBrains",
+        "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "published_at": "2026-10-25T23:48:20.094399+00:00",
+        "language": "TypeScript",
+        "score": 52,
+        "comment_count": 101,
+        "total_stars": 1680,
+        "built_by": [
+          "rsolmano",
+          "danyaberezun",
+          "OLavrik",
+          "claude",
+          "SBOne-Kenobi"
+        ],
+        "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 52\n\nTotal stars: 1680\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
+        "trend_score": 68.67,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.522,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Limitbreak – Claude Code switches accounts mid-session on a limit",
+        "url": "https://github.com/radu2lupu/limitbreak",
+        "author": "radulupu",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:43:55+00:00",
+        "summary": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/radu2lupu/limitbreak",
+          "page_title": "GitHub - radu2lupu/limitbreak: Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT.",
+          "page_description": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak",
+          "page_excerpt": "Use several Claude accounts from one Claude Code install, and switch between them automatically when an account's usage limit is hit, without restarting the session or losing its history.\n\nA small local proxy (a single Go binary, standard library only, a few MB of RAM) sits between claude and Anthropic's API. It sends each request on the active account's own login. When Anthropic answers that the account's 5-hour or weekly window is spent, the proxy remembers that account until its reset time and replays the same request on the next account before Claude Code ever sees the error....\n\nTry it without touching any real login: limitbreak video plays a simulated switch in your terminal as a little arcade battle."
+        },
+        "content_context": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak\n\nUse several Claude accounts from one Claude Code install, and switch between them automatically when an account's usage limit is hit, without restarting the session or losing its history. A small local proxy (a single Go binary, standard library only, a few MB of RAM) sits between claude and Anthropic's API. It sends each request on the active account's own login. When Anthropic answers that the account's 5-hour or weekly window is spent, the proxy remembers that account until its reset time and replays the same request on the next account before Claude Code ever sees the error.... Try it without touching any real login: limitbreak video plays a simulated switch in your terminal as a little arcade battle.\n\nHN comment: [flagged]",
+        "trend_score": 51.75,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.047,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Bend: A fast language that blocks AI mistakes via proof",
+        "url": "https://github.com/bendlang/bend",
+        "author": "airhangerf15",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:41:04+00:00",
+        "summary": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/bendlang/bend",
+          "page_title": "GitHub - bendlang/bend: Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+          "page_description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend",
+          "page_excerpt": "In the post-AGI economy, humans will eventually stop writing and reading code, but we still need an ambiguity-free language to communicate our intents to the AIs building the world around us. Bend is that language.\n\nWith laws , intents can be more precise than natural language. With proofs , we can mechanically verify the AI implemented our prompts correctly. And with a fast compiler , we can run that code at peak compute.\n\nTarget: be as fast as C on the CPU, as fast as CUDA on the GPU. Status:"
+        },
+        "content_context": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend\n\nIn the post-AGI economy, humans will eventually stop writing and reading code, but we still need an ambiguity-free language to communicate our intents to the AIs building the world around us. Bend is that language. With laws , intents can be more precise than natural language. With proofs , we can mechanically verify the AI implemented our prompts correctly. And with a fast compiler , we can run that code at peak compute. Target: be as fast as C on the CPU, as fast as CUDA on the GPU. Status:",
+        "trend_score": 49.3,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Runtime-Type-Driven Multiple Dispatch JavaScript Framework – Estructura",
+        "url": "https://estructura.okzgn.com/",
+        "author": "okzgn",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-25T23:37:26+00:00",
+        "summary": "A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>",
+        "comment_highlights": [
+          "A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>",
+        "trend_score": 44.86,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.085,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "F-Zero X on Nintendo 3DS",
+        "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "author": "bpierre",
+        "score": 3,
+        "comment_count": 1,
+        "published_at": "2026-10-25T23:27:30+00:00",
+        "summary": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14...\n\nThe console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion.\n\nThe clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen.",
+        "comment_highlights": [
+          "Author’s notes: <a href=\"https://github.com/cruxxxxxx/gdx-3ds#authors-notes\" rel=\"nofollow\">https://github.com/cruxxxxxx/gdx-3ds#authors-notes</a>"
+        ],
+        "linked_context": {
+          "resolved_url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+          "page_title": "G-Diffuser on 3DS",
+          "page_description": null,
+          "page_excerpt": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14...\n\nThe console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion.\n\nThe clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen."
+        },
+        "content_context": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14... The console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion. The clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen.\n\nHN comment: Author’s notes: <a href=\"https://github.com/cruxxxxxx/gdx-3ds#authors-notes\" rel=\"nofollow\">https://github.com/cruxxxxxx/gdx-3ds#authors-notes</a>",
+        "trend_score": 44.07,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.132,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Do not remove Contracts from C++26 [pdf]",
+        "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4433r0.pdf",
+        "author": "ingve",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:46:51+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4433r0.pdf",
+          "content_type": "application/pdf"
+        },
+        "content_context": null,
+        "trend_score": 41.94,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Xenohormesis: Sensing the chemical cues of other species",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18455976/",
+        "author": "andsoitis",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:35:06+00:00",
+        "summary": "Enable cookies for pubmed.ncbi.nlm.nih.gov and reload this page to continue.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://pubmed.ncbi.nlm.nih.gov/18455976/",
+          "page_title": "pubmed.ncbi.nlm.nih.gov",
+          "page_description": null,
+          "page_excerpt": "Enable cookies for pubmed.ncbi.nlm.nih.gov and reload this page to continue."
+        },
+        "content_context": "Enable cookies for pubmed.ncbi.nlm.nih.gov and reload this page to continue.",
+        "trend_score": 41.61,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "AI is getting good at math, here's why",
+        "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+        "author": "ankit219",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:30:52+00:00",
+        "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://latent.space/p/ai-is-getting-good-at-math/",
+          "page_title": "AI Is Getting Good at Math. Here’s Why. — Latent Space",
+          "page_description": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+          "page_excerpt": "In May, an internal model at OpenAI found a counterexample to Erdős's unit distance conjecture . Open since 1946. Many experts had tried to prove it. OpenAI found a counterexample instead. A month later, OpenAI published a proof of the Cycle Double Cover (CDC) problem , then solutions to ten more open problems by July. And a proof of Navier Stokes in September. Anthropic published a formalizati...\n\nThe question that interests me is whether we can predict what kinds of problems these models will solve. What makes a problem tractable for an LLM, and what do these solutions have in common? If AI solves problems differently from humans, identifying the difference should help us decide where to point it. The unit-distance disproof has the richest commentary, so let’s start there.\n\nHere is a simple mental model. To solve any given problem, you need a sequence of hints or insights with work between them. This maps surprisingly well to simple everyday problems and to complex ideas like Gene..."
+        },
+        "content_context": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.\n\nIn May, an internal model at OpenAI found a counterexample to Erdős's unit distance conjecture . Open since 1946. Many experts had tried to prove it. OpenAI found a counterexample instead. A month later, OpenAI published a proof of the Cycle Double Cover (CDC) problem , then solutions to ten more open problems by July. And a proof of Navier Stokes in September. Anthropic published a formalizati... The question that interests me is whether we can predict what kinds of problems these models will solve. What makes a problem tractable for an LLM, and what do these solutions have in common? If AI solves problems differently from humans, identifying the difference should help us decide where to point it. The unit-distance disproof has the richest commentary, so let’s start there. Here is a simple mental model. To solve any given problem, you need a sequence of hints or insights with work between them. This maps surprisingly well to simple everyday problems and to complex ideas like Gene...",
+        "trend_score": 41.49,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Securing a DuckDB Server in Production",
+        "url": "https://blog.starlake.ai/securing-duckdb-server-in-production",
+        "author": "dgudkov",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:30:14+00:00",
+        "summary": "DuckDB was built to run inside one process for one user. Put it behind a server and every SQL user shares its files, credentials and settings. What we had to close when Quack on Demand moved to DuckDB 2.0, and how it now handles all of it by default.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://blog.starlake.ai/securing-duckdb-server-in-production",
+          "page_title": "Securing a DuckDB server in production | Starlake",
+          "page_description": "DuckDB was built to run inside one process for one user. Put it behind a server and every SQL user shares its files, credentials and settings. What we had to close when Quack on Demand moved to DuckDB 2.0, and how it now handles all of it by default.",
+          "page_excerpt": "DuckDB is an in-process database. Its defaults assume that whoever writes the SQL is the person who owns the process: they can read the files it can read, use the cloud keys it can use, and change any setting. That assumption is right on a laptop. It is wrong the moment DuckDB sits behind a server (Quack, Arrow Flight SQL, an HTTP endpoint) and several users send it SQL.\n\nWhen we moved Quack on Demand to DuckDB 2.0, we audited every way a SQL user of a shared DuckDB node could reach something the operator did not mean to share. This post is the result: eight classes of exposure, a concrete example for each, and what to do about it. We close with how Quack on Demand handles all eight by default, on the DuckDB nodes and in the gateway that checks every statement b...\n\nA SQL user of a DuckDB server is not the operating system user that runs it, but by default DuckDB treats them as if they were."
+        },
+        "content_context": "DuckDB was built to run inside one process for one user. Put it behind a server and every SQL user shares its files, credentials and settings. What we had to close when Quack on Demand moved to DuckDB 2.0, and how it now handles all of it by default.\n\nDuckDB is an in-process database. Its defaults assume that whoever writes the SQL is the person who owns the process: they can read the files it can read, use the cloud keys it can use, and change any setting. That assumption is right on a laptop. It is wrong the moment DuckDB sits behind a server (Quack, Arrow Flight SQL, an HTTP endpoint) and several users send it SQL. When we moved Quack on Demand to DuckDB 2.0, we audited every way a SQL user of a shared DuckDB node could reach something the operator did not mean to share. This post is the result: eight classes of exposure, a concrete example for each, and what to do about it. We close with how Quack on Demand handles all eight by default, on the DuckDB nodes and in the gateway that checks every statement b... A SQL user of a DuckDB server is not the operating system user that runs it, but by default DuckDB treats them as if they were.",
+        "trend_score": 41.47,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Octopus Pounces on Lasers in Papahānaumokuākea [video]",
+        "url": "https://www.youtube.com/watch?v=UV0eBXtiovY",
+        "author": "gnabgib",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:27:54+00:00",
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/watch?v=UV0eBXtiovY",
+          "page_title": "- YouTube",
+          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "page_excerpt": null
+        },
+        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "trend_score": 41.41,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The New Age of Reading",
+        "url": "https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile",
+        "author": "bryanrasmussen",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-25T23:20:33+00:00",
+        "summary": "Alarm about declining interest in books is perpetual. But, as bookselling reaches unexpected heights, James Daunt, the chief executive of Barnes & Noble, thinks a different future is at hand.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile",
+          "page_title": "The New Age of Reading",
+          "page_description": "Alarm about declining interest in books is perpetual. But, as bookselling reaches unexpected heights, James Daunt, the chief executive of Barnes & Noble, thinks a different future is at hand.",
+          "page_excerpt": "It was the Friday before Labor Day, a lowering sun, when James Daunt, the most important man in bookselling, spilled off a train and turned to work. He had reached the end of the track in New Jersey. His destination, the Barnes & Noble in Eatontown, was three miles in from the shore. In the normal course of things, Daunt, who is tall and English and who often has the look of someone trying and...\n\nThough less known than many authors, Daunt leads a bookselling empire of unprecedented scale. For seven years, he has been the chief executive of both the largest bookstore chain in the United States, Barnes & Noble, and the largest in the United Kingdom, Waterstones. He is the founder of what may be London’s most beloved independent bookshop, Daunt Books, whose reputation extends so far beyond...\n\nUnusually for an executive of such power, Daunt, who is sixty-three, spent more than twenty years running his own bookshops in the leafy parts of London—lugging boxes, placing orders, and perfor..."
+        },
+        "content_context": "Alarm about declining interest in books is perpetual. But, as bookselling reaches unexpected heights, James Daunt, the chief executive of Barnes & Noble, thinks a different future is at hand.\n\nIt was the Friday before Labor Day, a lowering sun, when James Daunt, the most important man in bookselling, spilled off a train and turned to work. He had reached the end of the track in New Jersey. His destination, the Barnes & Noble in Eatontown, was three miles in from the shore. In the normal course of things, Daunt, who is tall and English and who often has the look of someone trying and... Though less known than many authors, Daunt leads a bookselling empire of unprecedented scale. For seven years, he has been the chief executive of both the largest bookstore chain in the United States, Barnes & Noble, and the largest in the United Kingdom, Waterstones. He is the founder of what may be London’s most beloved independent bookshop, Daunt Books, whose reputation extends so far beyond... Unusually for an executive of such power, Daunt, who is sixty-three, spent more than twenty years running his own bookshops in the leafy parts of London—lugging boxes, placing orders, and perfor...",
+        "trend_score": 41.2,
+        "trend_breakdown": {
+          "freshness": 0.981,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Democrat in Alaska’s toss-up Senate race reschedules events after car crash - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTRQT21ORVY5Q1NMbjR2WGl1REdHeldLR3VfaUFKTDMtQXRSSHBfX3BkVEV5d0VEWEt5aXFDQUV3UkthVkU5UlFUN2VYRldkSk1XUENZZFhCTzZrZldKOXlLejBOMlp5UE96aDQtRm1HenlPcUMwUFRrRUQyc1VTdktrSEM0YWRrd0NzUDlDOXAwaXQ5OEJXXzF3OXc3eVFyU1Y4TXk4RnFuQzdqZ0NnN3ZBQmM2UWdKczVpT0RtOHc?oc=5",
+        "published_at": "2026-10-25T23:44:15+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat in Alaska’s toss-up Senate race reschedules events after car crash；Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says；Alaska Senate candidate Mary Peltola delays campaign stops after car crash。",
+        "related_headlines": [
+          "Democrat in Alaska’s toss-up Senate race reschedules events after car crash",
+          "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
+          "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+          "Alaska Senate candidate Mary Peltola sustains \"minor injuries\" in car accident, reschedules campaign events",
+          "Mary Peltola delays campaign events after sustaining ‘minor injuries’ in car crash"
+        ],
+        "content_context": "Democrat in Alaska’s toss-up Senate race reschedules events after car crash - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat in Alaska’s toss-up Senate race reschedules events after car crash；Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says；Alaska Senate candidate Mary Peltola delays campaign stops after car crash。\n\nRelated coverage: Democrat in Alaska’s toss-up Senate race reschedules events after car crash\n\nRelated coverage: Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says\n\nRelated coverage: Alaska Senate candidate Mary Peltola delays campaign stops after car crash\n\nRelated coverage: Alaska Senate candidate Mary Peltola sustains \"minor injuries\" in car accident, reschedules campaign events\n\nRelated coverage: Mary Peltola delays campaign events after sustaining ‘minor injuries’ in car crash",
+        "trend_score": 41.23,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Reuters",
+        "category": "news",
+        "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+        "published_at": "2026-10-25T21:54:52+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brazil pauses presidential vote count after Supreme Court extends voting hours；Brazil election live: Lula and Bolsonaro await voters' verdict as polls close；Bolsonaro pulls ahead of Lula da Silva in Brazilian presidential election。",
+        "related_headlines": [
+          "Brazil pauses presidential vote count after Supreme Court extends voting hours",
+          "Brazil election live: Lula and Bolsonaro await voters' verdict as polls close",
+          "Bolsonaro pulls ahead of Lula da Silva in Brazilian presidential election",
+          "Brazil elections: Votes being tallied after polls close",
+          "Brazil runoff live updates: voting time extended as Bolsonaro narrowly leads Lula in race for presidency"
+        ],
+        "content_context": "Brazil pauses presidential vote count after Supreme Court extends voting hours - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brazil pauses presidential vote count after Supreme Court extends voting hours；Brazil election live: Lula and Bolsonaro await voters' verdict as polls close；Bolsonaro pulls ahead of Lula da Silva in Brazilian presidential election。\n\nRelated coverage: Brazil pauses presidential vote count after Supreme Court extends voting hours\n\nRelated coverage: Brazil election live: Lula and Bolsonaro await voters' verdict as polls close\n\nRelated coverage: Bolsonaro pulls ahead of Lula da Silva in Brazilian presidential election\n\nRelated coverage: Brazil elections: Votes being tallied after polls close\n\nRelated coverage: Brazil runoff live updates: voting time extended as Bolsonaro narrowly leads Lula in race for presidency",
+        "trend_score": 39.32,
+        "trend_breakdown": {
+          "freshness": 0.921,
+          "engagement": 0.0,
+          "topic_overlap": 0.083,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Catholic bishops regret White House prayer photo with Trump, say it was used politically - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTFhbHVWdlhUem03Qk8ySU5qSFoxZnBPLUZNcjB4R3ZqWlE3cHkwaXhNWG5ySC1XaXVDcTFiODV2dUdhUU9zeUdjOGJzaDlwRUFLMVZva0tOVlZydHpGQklYV0JkSGhoQnVvWm1rdzhxd2k1YUg5dFhPbVhINkcyN0pYeldRTUZGOUxSTjZETFNUczJWbnFwaWdsSnNKZllNNDZLb21ESEIxX241clFSU2RB?oc=5",
+        "published_at": "2026-10-25T21:11:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Catholic bishops regret White House prayer photo with Trump, say it was used politically；Catholic Leaders Say Trump Meeting Wasn’t Intended to Be Political After White House Shares Video；Des Moines bishop says White House 'exploited' visit for politics。",
+        "related_headlines": [
+          "Catholic bishops regret White House prayer photo with Trump, say it was used politically",
+          "Catholic Leaders Say Trump Meeting Wasn’t Intended to Be Political After White House Shares Video",
+          "Des Moines bishop says White House 'exploited' visit for politics",
+          "Editorial: Bishops' prayer for Trump may have been sincere. For Trump, it was pure politics.",
+          "Milwaukee Archbishop Grob issues ‘public apology’ over White House meeting with Trump"
+        ],
+        "content_context": "Catholic bishops regret White House prayer photo with Trump, say it was used politically - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Catholic bishops regret White House prayer photo with Trump, say it was used politically；Catholic Leaders Say Trump Meeting Wasn’t Intended to Be Political After White House Shares Video；Des Moines bishop says White House 'exploited' visit for politics。\n\nRelated coverage: Catholic bishops regret White House prayer photo with Trump, say it was used politically\n\nRelated coverage: Catholic Leaders Say Trump Meeting Wasn’t Intended to Be Political After White House Shares Video\n\nRelated coverage: Des Moines bishop says White House 'exploited' visit for politics\n\nRelated coverage: Editorial: Bishops' prayer for Trump may have been sincere. For Trump, it was pure politics.\n\nRelated coverage: Milwaukee Archbishop Grob issues ‘public apology’ over White House meeting with Trump",
+        "trend_score": 34.73,
+        "trend_breakdown": {
+          "freshness": 0.891,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTFtSVNpVEV6RTJSb3VhQ1I1WEsyYXBaaWxXV0hBZkZ0R0RkN2Nrdm9lRnM2WWhVd19xTWVMVzcyLUM2SExta29EWVI5Q2JJaWJKSmxSNmhHYmwtVUtPUngxUGhfWld0eW9BaTlQRFZjWHptbE9ocWdjQVBUdTl2Nm5wYTVDdnN4Q21DY254dGFxZ2lGQXNfY21PVG4wVjJwZi1rLWszQkFuMEpnN1A4NnZ0RVYtcTlvWlpHeFVlSXg?oc=5",
+        "published_at": "2026-10-25T17:50:35+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses；Blanche on Alaska suit: 'There could be a crime'；Trump has no designs on taking over state elections, Attorne...。",
+        "related_headlines": [
+          "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+          "Blanche on Alaska suit: 'There could be a crime'",
+          "Trump has no designs on taking over state elections, Attorne...",
+          "Midterm election updates: Trump rallies in Michigan as legal battle unfolds in California | CNN Politics",
+          "Trump’s Election Attacks Enter New Pre-emptive Phase"
+        ],
+        "content_context": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses；Blanche on Alaska suit: 'There could be a crime'；Trump has no designs on taking over state elections, Attorne...。\n\nRelated coverage: Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses\n\nRelated coverage: Blanche on Alaska suit: 'There could be a crime'\n\nRelated coverage: Trump has no designs on taking over state elections, Attorne...\n\nRelated coverage: Midterm election updates: Trump rallies in Michigan as legal battle unfolds in California | CNN Politics\n\nRelated coverage: Trump’s Election Attacks Enter New Pre-emptive Phase",
+        "trend_score": 31.42,
+        "trend_breakdown": {
+          "freshness": 0.752,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Four Corners region faces more flood threats following days of heavy rain - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WGktMnhZbEVLdHRCdVNvbXAxOHNfeTZBazdKYURxV3RidWI4Z2xWcHI5aEJIU0NzU2xDSmo3RWVLNHpJM2hhTGEwRDRoM2pwa2RhdzcwN2tyNjJfWHZWMWJzb05GY3hVQ3h2UQ?oc=5",
+        "published_at": "2026-10-25T19:03:38+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four Corners region faces more flood threats following days of heavy rain；Flash-flood threat continues in the Southwest, but outlook is improving；US south-west braces for more storms after enduring days of rain and flooding。",
+        "related_headlines": [
+          "Four Corners region faces more flood threats following days of heavy rain",
+          "Flash-flood threat continues in the Southwest, but outlook is improving",
+          "US south-west braces for more storms after enduring days of rain and flooding",
+          "More flooding in Four Corners region after storms bring heavy rain and at least one tornado",
+          "Severe storm threats across the state, particularly impacting eastern N.M."
+        ],
+        "content_context": "Four Corners region faces more flood threats following days of heavy rain - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four Corners region faces more flood threats following days of heavy rain；Flash-flood threat continues in the Southwest, but outlook is improving；US south-west braces for more storms after enduring days of rain and flooding。\n\nRelated coverage: Four Corners region faces more flood threats following days of heavy rain\n\nRelated coverage: Flash-flood threat continues in the Southwest, but outlook is improving\n\nRelated coverage: US south-west braces for more storms after enduring days of rain and flooding\n\nRelated coverage: More flooding in Four Corners region after storms bring heavy rain and at least one tornado\n\nRelated coverage: Severe storm threats across the state, particularly impacting eastern N.M.",
+        "trend_score": 30.11,
+        "trend_breakdown": {
+          "freshness": 0.802,
+          "engagement": 0.0,
+          "topic_overlap": 0.077,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Fox News",
+        "category": "news",
+        "title": "NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEpyeS1MeEhtT1RaN0gwMGVKLV9RLUhoZ2h5ajh6Yy1kZVMyTmpyM21nRmxmSjJTTUFIeE9tMHJSeXlNTlZXV2VzRTJWYzU5bm9QT3RuTlgyVG9uMGRzMEtmdmg4UWxZbm9NRTBDX2NZY1BpMUxDZGFzSnVwME9Scmt4bWphTjhfV1BmMWZHVUwwMy1hVWJXZExLYmRCalM5VTRnVEJyMFFPSVc1TllFU2laM3k2b1U?oc=5",
+        "published_at": "2026-10-25T16:42:59+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race；Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’；Former President Barack Obama tells Detroit 'change is in the air'。",
+        "related_headlines": [
+          "NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race",
+          "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+          "Former President Barack Obama tells Detroit 'change is in the air'",
+          "Obama skewers Trump as incompetent, corrupt as he rallies Dems in Detroit",
+          "My Remarks at a Detroit Rally in Support of Jocelyn Benson and Abdul El-Sayed"
+        ],
+        "content_context": "NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race；Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’；Former President Barack Obama tells Detroit 'change is in the air'。\n\nRelated coverage: NBA champ takes issue with Obama's pitch to Michigan voters amid hotly contested Senate race\n\nRelated coverage: Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’\n\nRelated coverage: Former President Barack Obama tells Detroit 'change is in the air'\n\nRelated coverage: Obama skewers Trump as incompetent, corrupt as he rallies Dems in Detroit\n\nRelated coverage: My Remarks at a Detroit Rally in Support of Jocelyn Benson and Abdul El-Sayed",
+        "trend_score": 29.63,
+        "trend_breakdown": {
+          "freshness": 0.705,
+          "engagement": 0.0,
+          "topic_overlap": 0.267,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Opposition leader María Machado returns to Venezuela - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU?oc=5",
+        "published_at": "2026-10-25T18:29:00+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Opposition leader María Machado returns to Venezuela；Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad；Opposition leader María Corina Machado returns to Venezuela from exile。",
+        "related_headlines": [
+          "Opposition leader María Machado returns to Venezuela",
+          "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+          "Opposition leader María Corina Machado returns to Venezuela from exile",
+          "Venezuelan opposition leader María Corina Machado returns from exile",
+          "Photos of María Corina Machado’s return to Venezuela as supporters welcome opposition leader"
+        ],
+        "content_context": "Opposition leader María Machado returns to Venezuela - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Opposition leader María Machado returns to Venezuela；Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad；Opposition leader María Corina Machado returns to Venezuela from exile。\n\nRelated coverage: Opposition leader María Machado returns to Venezuela\n\nRelated coverage: Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad\n\nRelated coverage: Opposition leader María Corina Machado returns to Venezuela from exile\n\nRelated coverage: Venezuelan opposition leader María Corina Machado returns from exile\n\nRelated coverage: Photos of María Corina Machado’s return to Venezuela as supporters welcome opposition leader",
+        "trend_score": 28.01,
+        "trend_breakdown": {
+          "freshness": 0.778,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+        "published_at": "2026-10-25T17:14:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service；Ukraine says Starshield back to normal, Musk says Kyiv violated terms；Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service。",
+        "related_headlines": [
+          "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+          "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+          "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+          "Sen. Adam Schiff says Pete Hegseth should testify on Starlink slowdown in Ukraine",
+          "U.S. Allies Race to Escape SpaceX’s Orbit"
+        ],
+        "content_context": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service；Ukraine says Starshield back to normal, Musk says Kyiv violated terms；Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service。\n\nRelated coverage: Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service\n\nRelated coverage: Ukraine says Starshield back to normal, Musk says Kyiv violated terms\n\nRelated coverage: Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service\n\nRelated coverage: Sen. Adam Schiff says Pete Hegseth should testify on Starlink slowdown in Ukraine\n\nRelated coverage: U.S. Allies Race to Escape SpaceX’s Orbit",
+        "trend_score": 27.59,
+        "trend_breakdown": {
+          "freshness": 0.726,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Israelis have changed. Will they change their leadership? - NPR",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtVXRuM1dxV0lqVnVoRnRiNGJ5SExjMUhraVFoTTFXSm1HYzJqclI0R1ZqamRzdDVfdEJnVHYwcWZVbjRwVkZaRjVBVW01UUw4azBnOTRuSGZwSUlOZ1JaQmNnU21qZE02b2ZtVEp5c0VtOGltdXdYSzhPMjY?oc=5",
+        "published_at": "2026-10-25T16:00:00+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israelis have changed. Will they change their leadership?；Israel is holding its most important election in years. Here’s what’s at stake；Netanyahu casts Arab parties as a threat. They could be key to his defeat.。",
+        "related_headlines": [
+          "Israelis have changed. Will they change their leadership?",
+          "Israel is holding its most important election in years. Here’s what’s at stake",
+          "Netanyahu casts Arab parties as a threat. They could be key to his defeat.",
+          "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote",
+          "Disenchanted Netanyahu supporters are prize of Israel election campaign"
+        ],
+        "content_context": "Israelis have changed. Will they change their leadership? - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israelis have changed. Will they change their leadership?；Israel is holding its most important election in years. Here’s what’s at stake；Netanyahu casts Arab parties as a threat. They could be key to his defeat.。\n\nRelated coverage: Israelis have changed. Will they change their leadership?\n\nRelated coverage: Israel is holding its most important election in years. Here’s what’s at stake\n\nRelated coverage: Netanyahu casts Arab parties as a threat. They could be key to his defeat.\n\nRelated coverage: Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote\n\nRelated coverage: Disenchanted Netanyahu supporters are prize of Israel election campaign",
+        "trend_score": 26.29,
+        "trend_breakdown": {
+          "freshness": 0.675,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "PBS",
+        "category": "news",
+        "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - PBS",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR21xaFFyNDNPVmRrdTRtM3VfVlZTYXhOd1NYQkNCb2ZNLUxUT0JCeUFwREZueDU1Z05ZVERSNDN1R2ZlOVhWblYzSDh2djJ4QmZ6Nnk2ZERfVkFRTzhnWUdLQTJ4WkRGRENUb2N4TVIxam1VUDFIQ0NGM2FacXUyd0lNTzUtTjNlMElBcWt1WHhidThqVF81aml0VVBzNW5nckphdmtYNUJ6bU91S0pvbjE5QmV0ZmpqUzRYcDRRaXF1alhQS3FGZHVSdnR5Y3PSAdQBQVVfeXFMUDBCT1JMc2hVVF9JQmVOX0l5U1dhN2dsREtoNDRlb0p0T2JaeFo0SU1VQlNSTmVtaElLYUlrRTc0RnNxSVZYeEpyVk5Obk94MHlUN1BVenMxc3ZSS1VaMC0yUGpvMzVPZW4zMGd1d1prcmUxS2pjMHdBcnhPRWVnT1plWnd0R3M4ODFKSnVVRC1hWnAyUklTWG83eHl5VzVEOFdwRVJ5cjk2X18yemZVR2J2bE1uS3VnYVB1NWYteVhYemJ4M0RhX3VtSjRiS2NPU2RNVG0?oc=5",
+        "published_at": "2026-10-25T14:35:09+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign；Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail；Obama campaigns for Democrats, and France demonstrations continue: Weekend Rundown。",
+        "related_headlines": [
+          "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+          "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail",
+          "Obama campaigns for Democrats, and France demonstrations continue: Weekend Rundown",
+          "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "In Cleveland, Obama says road to block Trump's agenda runs through Ohio in midterms"
+        ],
+        "content_context": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign；Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail；Obama campaigns for Democrats, and France demonstrations continue: Weekend Rundown。\n\nRelated coverage: Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign\n\nRelated coverage: Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail\n\nRelated coverage: Obama campaigns for Democrats, and France demonstrations continue: Weekend Rundown\n\nRelated coverage: Obama attacks Trump as he campaigns for Democrats ahead of midterm elections\n\nRelated coverage: In Cleveland, Obama says road to block Trump's agenda runs through Ohio in midterms",
+        "trend_score": 25.08,
+        "trend_breakdown": {
+          "freshness": 0.616,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "author": "debpalash",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "Python",
+      "score": 1588,
+      "comment_count": 9603,
+      "total_stars": 86753,
+      "built_by": [
+        "debpalash",
+        "claude",
+        "velixio",
+        "kevin9327",
+        "jaketame"
+      ],
+      "content_context": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\nLanguage: Python\n\nStars today: 1588\n\nTotal stars: 86753\n\nBuilt by: debpalash, claude, velixio, kevin9327, jaketame",
+      "trend_score": 86.85,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "author": "TauricResearch",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "Python",
+      "score": 636,
+      "comment_count": 22127,
+      "total_stars": 114568,
+      "built_by": [
+        "Yijia-Xiao",
+        "EdwardoSunny",
+        "CadeYu",
+        "luohy15",
+        "claude"
+      ],
+      "content_context": "TradingAgents: Multi-Agents LLM Financial Trading Framework\n\nLanguage: Python\n\nStars today: 636\n\nTotal stars: 114568\n\nBuilt by: Yijia-Xiao, EdwardoSunny, CadeYu, luohy15, claude",
+      "trend_score": 86.21,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.983,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "author": "cloudflare",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "JavaScript",
+      "score": 2874,
+      "comment_count": 2902,
+      "total_stars": 46823,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2874\n\nTotal stars: 46823\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+      "trend_score": 85.9,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.975,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "author": "pbakaus",
+      "summary": "The design language that makes your AI harness better at design.",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "Rust",
+      "score": 1113,
+      "comment_count": 5238,
+      "total_stars": 87655,
+      "built_by": [
+        "pbakaus",
+        "claude",
+        "github-actions",
+        "abdulwahabone",
+        "cursoragent"
+      ],
+      "content_context": "The design language that makes your AI harness better at design.\n\nLanguage: Rust\n\nStars today: 1113\n\nTotal stars: 87655\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+      "trend_score": 84.68,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.943,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "author": "Nutlope",
+      "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "CSS",
+      "score": 1359,
+      "comment_count": 1759,
+      "total_stars": 33700,
+      "built_by": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ],
+      "content_context": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\nLanguage: CSS\n\nStars today: 1359\n\nTotal stars: 33700\n\nBuilt by: Luffixos, Nutlope, claude, riccardogiorato, JaySmith502",
+      "trend_score": 82.94,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.897,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "author": "pollen-robotics",
+      "summary": "A Tiny biped duck robot 🦆",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "Rust",
+      "score": 657,
+      "comment_count": 1480,
+      "total_stars": 11611,
+      "built_by": [
+        "pierre-rouanet",
+        "apirrone",
+        "claude",
+        "Drenayaz",
+        "Nixxx19"
+      ],
+      "content_context": "A Tiny biped duck robot 🦆\n\nLanguage: Rust\n\nStars today: 657\n\nTotal stars: 11611\n\nBuilt by: pierre-rouanet, apirrone, claude, Drenayaz, Nixxx19",
+      "trend_score": 80.7,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.838,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "author": "coollabsio",
+      "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "PHP",
+      "score": 192,
+      "comment_count": 5783,
+      "total_stars": 64345,
+      "built_by": [
+        "andrasbacsai",
+        "peaklabs-dev",
+        "claude",
+        "ShadowArcanist",
+        "github-actions"
+      ],
+      "content_context": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.\n\nLanguage: PHP\n\nStars today: 192\n\nTotal stars: 64345\n\nBuilt by: andrasbacsai, peaklabs-dev, claude, ShadowArcanist, github-actions",
+      "trend_score": 80.35,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.829,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "author": "makecindy",
+      "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "TypeScript",
+      "score": 677,
+      "comment_count": 662,
+      "total_stars": 4825,
+      "built_by": [
+        "dashhuang",
+        "zqchris",
+        "MagicLizi",
+        "DavidShenXD",
+        "claude"
+      ],
+      "content_context": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\nLanguage: TypeScript\n\nStars today: 677\n\nTotal stars: 4825\n\nBuilt by: dashhuang, zqchris, MagicLizi, DavidShenXD, claude",
+      "trend_score": 79.12,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.797,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "author": "Renhuai123",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "TypeScript",
+      "score": 255,
+      "comment_count": 1541,
+      "total_stars": 7529,
+      "built_by": [
+        "Renhuai123",
+        "claude",
+        "dependabot",
+        "Renhuai",
+        "sakura168899-debug"
+      ],
+      "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 255\n\nTotal stars: 7529\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+      "trend_score": 78.35,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.776,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "author": "JetBrains",
+      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "published_at": "2026-10-25T23:48:20.094399+00:00",
+      "language": "TypeScript",
+      "score": 52,
+      "comment_count": 101,
+      "total_stars": 1680,
+      "built_by": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude",
+        "SBOne-Kenobi"
+      ],
+      "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 52\n\nTotal stars: 1680\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
+      "trend_score": 68.67,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.522,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Limitbreak – Claude Code switches accounts mid-session on a limit",
+      "url": "https://github.com/radu2lupu/limitbreak",
+      "author": "radulupu",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-25T23:43:55+00:00",
+      "summary": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak",
+      "comment_highlights": [
+        "[flagged]"
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/radu2lupu/limitbreak",
+        "page_title": "GitHub - radu2lupu/limitbreak: Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT.",
+        "page_description": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak",
+        "page_excerpt": "Use several Claude accounts from one Claude Code install, and switch between them automatically when an account's usage limit is hit, without restarting the session or losing its history.\n\nA small local proxy (a single Go binary, standard library only, a few MB of RAM) sits between claude and Anthropic's API. It sends each request on the active account's own login. When Anthropic answers that the account's 5-hour or weekly window is spent, the proxy remembers that account until its reset time and replays the same request on the next account before Claude Code ever sees the error....\n\nTry it without touching any real login: limitbreak video plays a simulated switch in your terminal as a little arcade battle."
+      },
+      "content_context": "Use several Claude accounts from one Claude Code install; switches automatically when a usage limit is hit, no restart. MIT. - radu2lupu/limitbreak\n\nUse several Claude accounts from one Claude Code install, and switch between them automatically when an account's usage limit is hit, without restarting the session or losing its history. A small local proxy (a single Go binary, standard library only, a few MB of RAM) sits between claude and Anthropic's API. It sends each request on the active account's own login. When Anthropic answers that the account's 5-hour or weekly window is spent, the proxy remembers that account until its reset time and replays the same request on the next account before Claude Code ever sees the error.... Try it without touching any real login: limitbreak video plays a simulated switch in your terminal as a little arcade battle.\n\nHN comment: [flagged]",
+      "trend_score": 51.75,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.047,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Bend: A fast language that blocks AI mistakes via proof",
+      "url": "https://github.com/bendlang/bend",
+      "author": "airhangerf15",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-25T23:41:04+00:00",
+      "summary": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/bendlang/bend",
+        "page_title": "GitHub - bendlang/bend: Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+        "page_description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend",
+        "page_excerpt": "In the post-AGI economy, humans will eventually stop writing and reading code, but we still need an ambiguity-free language to communicate our intents to the AIs building the world around us. Bend is that language.\n\nWith laws , intents can be more precise than natural language. With proofs , we can mechanically verify the AI implemented our prompts correctly. And with a fast compiler , we can run that code at peak compute.\n\nTarget: be as fast as C on the CPU, as fast as CUDA on the GPU. Status:"
+      },
+      "content_context": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh - bendlang/bend\n\nIn the post-AGI economy, humans will eventually stop writing and reading code, but we still need an ambiguity-free language to communicate our intents to the AIs building the world around us. Bend is that language. With laws , intents can be more precise than natural language. With proofs , we can mechanically verify the AI implemented our prompts correctly. And with a fast compiler , we can run that code at peak compute. Target: be as fast as C on the CPU, as fast as CUDA on the GPU. Status:",
+      "trend_score": 49.3,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.047,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Runtime-Type-Driven Multiple Dispatch JavaScript Framework – Estructura",
+      "url": "https://estructura.okzgn.com/",
+      "author": "okzgn",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-10-25T23:37:26+00:00",
+      "summary": "A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>",
+      "comment_highlights": [
+        "A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.<p>GitHub: <a href=\"https://github.com/okzgn/estructura\" rel=\"nofollow\">https://github.com/okzgn/estructura</a>",
+      "trend_score": 44.86,
+      "trend_breakdown": {
+        "freshness": 0.992,
+        "engagement": 0.085,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "author": "bpierre",
+      "score": 3,
+      "comment_count": 1,
+      "published_at": "2026-10-25T23:27:30+00:00",
+      "summary": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14...\n\nThe console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion.\n\nThe clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen.",
+      "comment_highlights": [
+        "Author’s notes: <a href=\"https://github.com/cruxxxxxx/gdx-3ds#authors-notes\" rel=\"nofollow\">https://github.com/cruxxxxxx/gdx-3ds#authors-notes</a>"
+      ],
+      "linked_context": {
+        "resolved_url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "page_title": "G-Diffuser on 3DS",
+        "page_description": null,
+        "page_excerpt": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14...\n\nThe console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion.\n\nThe clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen."
+      },
+      "content_context": "A post-mortem of porting G-Diffuser, the F-Zero X decompilation, to the Nintendo 3DS — v1.0.0, covering both the original 24-day sprint that put it on a New 3DS at 60 fps in 3D (2026-08-11 to 09-03) and the 43-day second phase that added Old 3DS support, a native renderer, and the Expansion Kit (2026-09-07 to 10-19). One person directed throughout; one long-lived Claude session orchestrated; 14... The console went from a black screen to a native-60 stereoscopic racer, then from a New-3DS-only build to a four-way release covering both consoles with and without the 64DD expansion. The clips and photos below are from v0.9 (2026-09), before DASH replaced the debug console on the bottom screen.\n\nHN comment: Author’s notes: <a href=\"https://github.com/cruxxxxxx/gdx-3ds#authors-notes\" rel=\"nofollow\">https://github.com/cruxxxxxx/gdx-3ds#authors-notes</a>",
+      "trend_score": 44.07,
+      "trend_breakdown": {
+        "freshness": 0.985,
+        "engagement": 0.132,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Do not remove Contracts from C++26 [pdf]",
+      "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4433r0.pdf",
+      "author": "ingve",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-25T23:46:51+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4433r0.pdf",
+        "content_type": "application/pdf"
+      },
+      "content_context": null,
+      "trend_score": 41.94,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.047,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目表现活跃，GitHub趋势榜上涌现多个高热度项目。语音合成方面，VoiceStudio作为本地化ElevenLabs替代方案，单日新增1588星，支持646种语言，凸显隐私与成本优势。金融AI领域，TradingAgents多智能体LLM交易框架总星数突破11万，探索复杂决策自动化。安全工具security-audit-skill获2874星，推动AI驱动的自动化代码审计。设计增强工具pbakaus/impeccable和反AI垃圾设计项目Hallmark分别针对AI创意输出与代码质量提升，反映社区对AI生成内容规范的关注。此外，机器人项目MicroDuck、自托管PaaS平台Coolify及开箱即用AI Agent项目Cindy均在各自细分领域获得显著关注。",
+    "named_hotspots": [
+      {
+        "name": "VoiceStudio",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "开源项目 VoiceStudio 在 GitHub 趋势榜上获得高关注，单日新增 1588 星，总星数达 86753，被描述为完全本地化的 ElevenLabs 替代方案。",
+        "core_details": "VoiceStudio 是一个基于 Python 的开源语音工具，提供语音克隆、语音设计、视频配音、听写、转录及有声书制作功能，支持 646 种语言，强调完全本地化运行。项目由 debpalash 等人开发。",
+        "ai_take": "该项目展示了开源社区在语音 AI 领域的快速跟进能力，通过本地化部署解决了云端服务的隐私与成本问题，多语言支持覆盖长尾需求，可能推动语音合成技术的普及与定制化。",
+        "hype_check": "高星数反映社区对开源语音工具的热情，但需验证其实际性能是否匹配宣传的 646 种语言支持，以及本地计算资源需求是否可行。",
+        "value_check": "作为 ElevenLabs 的替代方案，它为开发者提供了可修改的代码基础，降低了语音 AI 的应用门槛，但成熟度与商业化支持可能不及成熟产品。",
+        "follow_up": "关注项目后续更新是否优化模型效率、增加语言实测案例，以及社区是否基于此衍生出更多应用工具。",
+        "evidence": "GitHub 趋势数据：单日 1588 星，总星 86753，项目描述明确功能与本地化特性，语言为 Python，开发者包括 debpalash 等。"
+      },
+      {
+        "name": "TradingAgents",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "TauricResearch在GitHub上开源了一个名为TradingAgents的多智能体LLM金融交易框架，今日获得636颗星，总星数达114,568，引发社区关注。",
+        "core_details": "该项目是一个基于Python的多智能体大语言模型金融交易框架，由Yijia-Xiao、EdwardoSunny、CadeYu、luohy15和claude等开发者构建，旨在利用LLM技术优化金融交易策略。",
+        "ai_take": "该项目将多智能体系统与大语言模型结合，应用于金融交易领域，探索AI在复杂决策环境中的协同与自动化潜力，是AI+金融交叉方向的前沿实践。",
+        "hype_check": "高热度，单日获星数显著，总星数已超11万，表明其在开源社区和AI金融领域受到广泛关注与认可。",
+        "value_check": "具有实际应用价值，为金融交易提供了可扩展的LLM驱动框架，可能降低策略开发门槛，但需注意金融市场的风险与合规要求。",
+        "follow_up": "关注其后续版本更新、实际交易性能测试结果以及在真实市场环境中的部署案例。",
+        "evidence": "GitHub项目页面显示语言为Python，今日星数636，总星数114,568，开发者列表明确，项目描述为多智能体LLM金融交易框架。"
+      },
+      {
+        "name": "security-audit-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Cloudflare在GitHub上开源了一个名为security-audit-skill的项目，这是一个用于多阶段安全审计的编码代理技能，能够生成独立验证、机器可读的审计结果。",
+        "core_details": "该项目由literally-dan、CooperSheroy和kennysarnoski-jarvis构建，使用JavaScript语言开发。在GitHub上趋势显著，今日获星2874个，总星数已达46823个，显示出较高的社区关注度。",
+        "ai_take": "该项目代表了AI在自动化安全审计领域的应用进展，通过编码代理技能实现多阶段审计，并生成机器可读的验证结果，有助于提升安全审计的效率和可扩展性。",
+        "hype_check": "趋势得分85.9，今日获星数高，表明在开发者社区中受到广泛关注和认可，但需观察其在实际生产环境中的部署和效果。",
+        "value_check": "作为开源工具，它可能降低安全审计的门槛，提高代码安全性，尤其适用于需要自动化安全检查的开发流程，但实际价值取决于其审计准确性和易用性。",
+        "follow_up": "关注该项目在GitHub上的更新和社区反馈，以及是否被集成到主流开发或安全平台中，以评估其长期影响。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，高星数和趋势得分支持其热度；项目描述强调了多阶段审计和机器可读结果，符合AI驱动的安全工具趋势。"
+      },
+      {
+        "name": "pbakaus/impeccable",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 开源项目 'pbakaus/impeccable' 在趋势榜上热度飙升，单日获星1113个，总星数已达87655。",
+        "core_details": "该项目是一个旨在提升AI设计能力的“设计语言”，使用Rust语言开发。项目由pbakaus、Claude、GitHub Actions等共同构建。",
+        "ai_take": "该项目直接针对AI在创意和设计领域的应用痛点，旨在通过一套结构化语言或规范来“驾驭”或增强AI的设计输出质量，属于AI赋能工具链的创新尝试。",
+        "hype_check": "热度很高，单日获星过千且总星数庞大，表明其在开发者社区中引起了广泛关注和兴趣。",
+        "value_check": "潜在价值在于为AI辅助设计提供了一个可能的标准化框架，可能提升设计任务的自动化程度和输出一致性，但具体效果和易用性需实际验证。",
+        "follow_up": "关注其后续版本更新、实际应用案例以及是否形成社区生态或与其他设计工具集成。",
+        "evidence": "项目描述为“让AI驾驭设计更出色的设计语言”，使用Rust语言，单日趋势分84.68，高星数和参与度（评论数5238）支撑其热度。"
+      },
+      {
+        "name": "Hallmark",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Hallmark的GitHub项目在趋势榜上热度飙升，单日获星1359个，总星数已达33700。该项目被描述为针对Claude Code、Cursor和Codex的“反AI垃圾设计技能”。",
+        "core_details": "Hallmark是一个CSS项目，由Nutlope、Luffixos等开发者构建。它旨在为AI辅助编程工具（如Claude Code、Cursor、Codex）提供一种设计技能或规范，以对抗或改善可能由AI生成的、质量低劣或缺乏美感的代码输出（即所谓的“AI垃圾”）。项目语言为CSS，表明其可能专注于前端样式或代码美化的规则与最佳实践。",
+        "ai_take": "该项目反映了开发者社区对AI生成代码质量问题的关注。随着AI编程助手普及，其输出有时可能缺乏设计一致性或可维护性。Hallmark试图通过提供明确的CSS设计规范或“技能”，引导AI工具产出更高质量、更美观的代码，是提升AI辅助开发体验的一种实践性尝试。",
+        "hype_check": "热度较高。单日获星数超1300，总星数达3.3万，表明其在开发者中引起了广泛关注和认可。这反映了当前对AI编码工具输出质量改进的强烈需求。",
+        "value_check": "实用价值明确。它为前端开发者，特别是使用AI编程助手的团队，提供了一套可参考的设计规范，有助于提升代码一致性和可读性。作为开源项目，其CSS规则集可直接应用或适配，具有工具性价值。",
+        "follow_up": "关注项目后续更新，看其是否扩展至其他编程语言或集成到更多AI工具中。同时，观察社区是否围绕此形成更广泛的“AI代码质量”最佳实践讨论。",
+        "evidence": "项目描述明确为“Anti-AI-slop design skill for Claude Code, Cursor, and Codex”，GitHub数据：单日星数1359，总星数33700，语言CSS，作者Nutlope等。"
+      },
+      {
+        "name": "MicroDuck",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 MicroDuck 的小型双足鸭子机器人开源项目在 GitHub 上流行，今日获得 657 颗星，总星数达 11611。",
+        "core_details": "该项目由 pollen-robotics 团队开发，使用 Rust 语言编写，是一个仿生鸭子形态的双足机器人设计。",
+        "ai_take": "该项目展示了开源硬件与机器人技术的结合，使用 Rust 语言可能注重性能与安全性，为教育、研究或娱乐机器人提供了可复现的参考设计。",
+        "hype_check": "项目在 GitHub 上趋势较高，表明社区对小型、可爱且开源的机器人项目有浓厚兴趣，但需注意其实际功能成熟度与文档完整性。",
+        "value_check": "作为开源项目，它降低了机器人开发的门槛，促进了知识共享与实验创新，尤其适合学术研究、爱好者制作或作为教学案例。",
+        "follow_up": "关注项目后续更新、硬件构建指南、社区反馈以及实际应用案例，以评估其长期价值与实用性。",
+        "evidence": "GitHub 仓库显示项目语言为 Rust，今日星数增长显著，总星数超过 1.1 万，由 pollen-robotics 团队维护。"
+      },
+      {
+        "name": "Coolify",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Coolify 是一个开源、可自托管的 PaaS 平台，旨在替代 Vercel、Heroku 和 Netlify，允许用户在自有服务器上轻松部署静态网站、数据库、全栈应用及超过 360 种一键式服务。",
+        "core_details": "该项目由 coollabsio 开发，使用 PHP 语言编写。当前单日新增星标数达 192，总星标数已累积至 64345，显示出较高的社区关注度。",
+        "ai_take": "Coolify 作为 PaaS 替代方案，通过提供自托管能力，降低了开发者对大型云服务商的依赖，增强了部署的灵活性和数据控制权，符合当前开源和去中心化的技术趋势。",
+        "hype_check": "项目在 GitHub 上趋势排名靠前，单日星标增长显著，总星标数超过 6.4 万，表明其在开发者社区中获得了广泛认可和持续关注。",
+        "value_check": "Coolify 提供了与主流 PaaS 服务相似的功能，同时强调自托管和开源特性，对于注重成本控制、数据隐私和定制化需求的开发团队具有实用价值。",
+        "follow_up": "可关注其后续版本更新、社区活跃度以及在实际生产环境中的稳定性和扩展性表现。",
+        "evidence": "GitHub 项目描述明确指出其作为 Vercel、Heroku、Netlify 的开源自托管替代品，支持多种应用和服务部署；项目星标数、日增长数据及开发语言信息均来自 GitHub Trending 页面。"
+      },
+      {
+        "name": "Cindy",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Cindy的开源AI Agent项目在GitHub上趋势飙升，单日获星677颗，总星数达4825颗，由多位开发者共同构建。",
+        "core_details": "Cindy是一个用TypeScript编写的开源AI Agent，主打“开箱即用”的特性，旨在实现“想到，就能做到”的自动化任务处理能力。项目强调其作为AI代理的易用性和实用性。",
+        "ai_take": "该项目反映了AI Agent领域向更易部署、更实用的开源工具发展的趋势，降低了开发者构建自动化AI应用的门槛。",
+        "hype_check": "趋势热度较高（趋势得分79.12），单日获星数显著，表明其在开发者社区中引起了广泛关注和兴趣。",
+        "value_check": "作为开源项目，它提供了可立即上手的AI Agent实现，对于希望快速集成AI自动化能力的开发者具有实用价值，但实际性能和适用范围需进一步验证。",
+        "follow_up": "关注其后续版本更新、社区活跃度以及在实际场景中的应用案例，以评估其长期影响力和技术成熟度。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，拥有高星数增长和开发者贡献记录，项目描述明确强调其开源、开箱即用的AI Agent定位。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "debpalash/VoiceStudio",
+        "content_summary": "VoiceStudio 是一个开源的、完全本地的 ElevenLabs 替代方案，支持语音克隆、语音设计、视频配音、听写、转录和有声书创作，覆盖 646 种语言。项目使用 Python 语言编写。",
+        "ai_comment": "该项目提供了一个功能全面的本地化语音 AI 工具集，可能降低对商业 API 的依赖，并支持多语言，体现了开源社区在语音合成领域的进展。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "TauricResearch/TradingAgents",
+        "content_summary": "TradingAgents 是一个基于多智能体大语言模型的金融交易框架，使用 Python 语言开发。",
+        "ai_comment": "该项目将多智能体系统与 LLM 结合应用于金融交易领域，探索了 AI 在复杂决策场景中的结构化应用。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "cloudflare/security-audit-skill",
+        "content_summary": "这是一个用于多阶段安全审计的编码代理技能，能够生成经过独立验证的、机器可读的审计结果。项目使用 JavaScript 语言编写。",
+        "ai_comment": "Cloudflare 推出的安全审计技能，旨在通过 AI 代理自动化并标准化代码安全审计流程，提升发现漏洞的效率和可靠性。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Limitbreak – Claude Code switches accounts mid-session on a limit",
+        "content_summary": "Limitbreak 是一个本地代理工具（单个 Go 二进制文件），允许在单个 Claude Code 安装中使用多个 Claude 账户。当某个账户达到使用限制（如 5 小时或每周窗口）时，它会自动切换到下一个账户，无需重启会话或丢失历史记录。工具会在 Claude Code 收到错误前重放请求。",
+        "ai_comment": "该工具巧妙地绕过了 Claude 的账户使用限制，通过代理层管理多个凭证，提高了开发连续性，但也可能引发关于服务条款合规性的讨论。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Bend: A fast language that blocks AI mistakes via proof",
+        "content_summary": "Bend 2 是一种旨在成为后 AGI 时代人类与 AI 沟通意图的、无歧义的语言。它通过“定律”使意图比自然语言更精确，通过“证明”可机械验证 AI 是否正确实现了提示，并通过快速编译器实现高性能运行（目标是在 CPU 上媲美 C，在 GPU 上媲美 CUDA）。",
+        "ai_comment": "Bend 语言试图从底层解决 AI 生成代码的可靠性和可验证性问题，其将形式验证与高性能计算结合的理念，是应对未来 AI 主导编程挑战的一种前瞻性方案。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Runtime-Type-Driven Multiple Dispatch JavaScript Framework – Estructura",
+        "content_summary": "Estructura 是一个轻量级、无依赖的 JavaScript 框架，允许开发者根据一个或多个参数的类型，将函数自动附加到自定义或扩展的数据类型上，实现了基于运行时类型的多重分派。",
+        "ai_comment": "该框架为 JavaScript 引入了更强大的动态类型分发机制，可能提升代码的模块化和表达力，特别是在处理多种数据结构的场景中。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Democrat in Alaska’s toss-up Senate race reschedules events after car crash - The Washington Post",
+        "content_summary": "阿拉斯加州势均力敌的参议院选举中，民主党候选人 Mary Peltola 在遭遇车祸受轻伤后，重新安排了竞选活动日程。多家媒体对此进行了报道。",
+        "ai_comment": "该政治新闻本身与 AI 技术无直接关联，属于常规时事。在 AI 简报中收录可能仅因其在新闻流中的热度。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Brazil pauses presidential vote count after Supreme Court extends voting hours - Reuters",
+        "content_summary": "巴西最高法院延长投票时间后，总统选举计票工作暂停。当前计票显示博索纳罗略微领先于卢拉。多家媒体对选举进程进行了实时报道。",
+        "ai_comment": "该国际政治新闻与 AI 技术无直接关联，属于重大时事。在 AI 简报中收录可能仅因其在新闻流中的热度。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Catholic bishops regret White House prayer photo with Trump, say it was used politically - AP News",
+        "content_summary": "多位天主教主教对与特朗普在白宫的祈祷合影表示遗憾，称其被用于政治目的。他们澄清此次会面本意并非政治性的，但白宫分享的视频使其被政治化。",
+        "ai_comment": "该政治社会新闻与 AI 技术无直接关联，属于美国国内时事。在 AI 简报中收录可能仅因其在新闻流中的热度。"
+      }
+    ],
+    "closing_note": "今日趋势显示，开源社区正围绕AI应用的痛点——如语音合成隐私、金融交易自动化、代码安全审计、设计输出质量及部署灵活性——快速构建解决方案。这些项目不仅降低了技术门槛，也推动了AI工具向专业化、本地化和易用性发展。然而，高热度背后仍需关注实际性能验证、合规风险及长期维护，建议开发者结合具体需求评估适配性。",
+    "_errors": []
+  }
+}
