@@ -1,0 +1,1497 @@
+{
+  "generated_at": "2026-10-29T01:32:40.008868+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "author": "obra",
+        "summary": "An agentic skills framework & software development methodology that works.",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "Shell",
+        "score": 1095,
+        "comment_count": 27348,
+        "total_stars": 307476,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ],
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1095\n\nTotal stars: 307476\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "author": "HKUDS",
+        "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "Python",
+        "score": 2371,
+        "comment_count": 5958,
+        "total_stars": 48049,
+        "built_by": [
+          "pancacake",
+          "claude",
+          "Pinkllow",
+          "github-actions",
+          "evan188199-tech"
+        ],
+        "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 2371\n\nTotal stars: 48049\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
+        "trend_score": 85.72,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.971,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "author": "pbakaus",
+        "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "Rust",
+        "score": 1472,
+        "comment_count": 5482,
+        "total_stars": 92755,
+        "built_by": [
+          "pbakaus",
+          "claude",
+          "github-actions",
+          "abdulwahabone",
+          "cursoragent"
+        ],
+        "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 1472\n\nTotal stars: 92755\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+        "trend_score": 84.36,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.935,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "author": "Nutlope",
+        "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "CSS",
+        "score": 2110,
+        "comment_count": 2111,
+        "total_stars": 40762,
+        "built_by": [
+          "Luffixos",
+          "Nutlope",
+          "claude",
+          "riccardogiorato",
+          "JaySmith502"
+        ],
+        "content_context": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\nLanguage: CSS\n\nStars today: 2110\n\nTotal stars: 40762\n\nBuilt by: Luffixos, Nutlope, claude, riccardogiorato, JaySmith502",
+        "trend_score": 83.35,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.908,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "elayadesign/ai-design-skills",
+        "url": "https://github.com/elayadesign/ai-design-skills",
+        "author": "elayadesign",
+        "summary": null,
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": null,
+        "score": 2139,
+        "comment_count": 801,
+        "total_stars": 11159,
+        "built_by": [
+          "elayadesign",
+          "claude"
+        ],
+        "content_context": "Language: unknown\n\nStars today: 2139\n\nTotal stars: 11159\n\nBuilt by: elayadesign, claude",
+        "trend_score": 81.45,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.858,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "togg53192-cmd/jailbreaks",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "author": "togg53192-cmd",
+        "summary": "LIST OF ALL MY JAILBREAKS",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": null,
+        "score": 1477,
+        "comment_count": 1030,
+        "total_stars": 7153,
+        "built_by": [
+          "togg53192-cmd",
+          "raghavraut",
+          "metalim",
+          "reblox01"
+        ],
+        "content_context": "LIST OF ALL MY JAILBREAKS\n\nLanguage: unknown\n\nStars today: 1477\n\nTotal stars: 7153\n\nBuilt by: togg53192-cmd, raghavraut, metalim, reblox01",
+        "trend_score": 81.02,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.847,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "makecindy/cindy",
+        "url": "https://github.com/makecindy/cindy",
+        "author": "makecindy",
+        "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "TypeScript",
+        "score": 728,
+        "comment_count": 949,
+        "total_stars": 8119,
+        "built_by": [
+          "dashhuang",
+          "zqchris",
+          "MagicLizi",
+          "DavidShenXD",
+          "claude"
+        ],
+        "content_context": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\nLanguage: TypeScript\n\nStars today: 728\n\nTotal stars: 8119\n\nBuilt by: dashhuang, zqchris, MagicLizi, DavidShenXD, claude",
+        "trend_score": 79.09,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.796,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nightly-labs/openbot",
+        "url": "https://github.com/nightly-labs/openbot",
+        "author": "nightly-labs",
+        "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "TypeScript",
+        "score": 1054,
+        "comment_count": 316,
+        "total_stars": 3279,
+        "built_by": [
+          "NorbertBodziony",
+          "claude",
+          "Sniezka1927",
+          "nrb-dev",
+          "aniruddhaadak80"
+        ],
+        "content_context": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\nLanguage: TypeScript\n\nStars today: 1054\n\nTotal stars: 3279\n\nBuilt by: NorbertBodziony, claude, Sniezka1927, nrb-dev, aniruddhaadak80",
+        "trend_score": 77.82,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.762,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "author": "JetBrains",
+        "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "TypeScript",
+        "score": 1068,
+        "comment_count": 263,
+        "total_stars": 5099,
+        "built_by": [
+          "rsolmano",
+          "danyaberezun",
+          "OLavrik",
+          "claude",
+          "SBOne-Kenobi"
+        ],
+        "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 1068\n\nTotal stars: 5099\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
+        "trend_score": 77.48,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.754,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "macro-inc/macro",
+        "url": "https://github.com/macro-inc/macro",
+        "author": "macro-inc",
+        "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "published_at": "2026-10-29T01:32:27.931755+00:00",
+        "language": "Rust",
+        "score": 117,
+        "comment_count": 519,
+        "total_stars": 5436,
+        "built_by": [
+          "gbirman",
+          "whutchinson98",
+          "synoet",
+          "sedson",
+          "peterchinman"
+        ],
+        "content_context": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\nLanguage: Rust\n\nStars today: 117\n\nTotal stars: 5436\n\nBuilt by: gbirman, whutchinson98, synoet, sedson, peterchinman",
+        "trend_score": 73.32,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.644,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Git for All Global Law",
+        "url": "https://github.com/lexifina/global-law",
+        "author": "alansaber",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-29T01:24:43+00:00",
+        "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law",
+        "comment_highlights": [
+          "You just had a successful post yesterday (427 points, 266 comments) <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a>"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/lexifina/global-law",
+          "page_title": "GitHub - lexifina/global-law: Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+          "page_description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law",
+          "page_excerpt": "The world's law in one git history. Every word traced to the law that wrote it for any country and any date.\n\nAn expansion of the same for the US Code, #1 on Hacker News (28/10/26) . Semantic, searchable law on a global scale.\n\nThe law of many jurisdictions as one git history. Each jurisdiction's law is its own repository, where every commit is one law taking effect, written by that law. This repository arranges those repositories by jurisdiction and interleaves their histories in the order the changes took force, so a single commit here is the state of all of them on one day."
+        },
+        "content_context": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law\n\nThe world's law in one git history. Every word traced to the law that wrote it for any country and any date. An expansion of the same for the US Code, #1 on Hacker News (28/10/26) . Semantic, searchable law on a global scale. The law of many jurisdictions as one git history. Each jurisdiction's law is its own repository, where every commit is one law taking effect, written by that law. This repository arranges those repositories by jurisdiction and interleaves their histories in the order the changes took force, so a single commit here is the state of all of them on one day.\n\nHN comment: You just had a successful post yesterday (427 points, 266 comments) <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a>",
+        "trend_score": 55.89,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.082,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "OpenAMRobot",
+        "url": "https://github.com/openAMRobot",
+        "author": "gmays",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:21:53+00:00",
+        "summary": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/openAMRobot",
+          "page_title": "OpenAMRobot",
+          "page_description": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot",
+          "page_excerpt": "OpenAMRobot is an open, modular, and affordable embodied AI robotics ecosystem initiated, operated, and controlled by Botshare LTD (Cyprus Company ID HE479056).\n\nDIY kits and assembled robots: 30% off until 15 November 2026 , 25% off 16 to 30 November, 20% off 1 to 31 December. Full payment, price locked, first dispatch April 2027.\n\nThe project began as an autonomous dual-arm mobile robot platform and is now evolving toward a full-cycle infrastructure for:"
+        },
+        "content_context": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot\n\nOpenAMRobot is an open, modular, and affordable embodied AI robotics ecosystem initiated, operated, and controlled by Botshare LTD (Cyprus Company ID HE479056). DIY kits and assembled robots: 30% off until 15 November 2026 , 25% off 16 to 30 November, 20% off 1 to 31 December. Full payment, price locked, first dispatch April 2027. The project began as an autonomous dual-arm mobile robot platform and is now evolving toward a full-cycle infrastructure for:",
+        "trend_score": 49.13,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "World Models explained in 7 mins",
+        "url": "https://www.youtube.com/watch?v=d79HOo1fUhc",
+        "author": "lroe",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:27:47+00:00",
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/watch?v=d79HOo1fUhc",
+          "page_title": "- YouTube",
+          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "page_excerpt": null
+        },
+        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "trend_score": 46.3,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.046,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Princeton to provide ChatGPT accounts for all students, faculty, staff",
+        "url": "https://www.dailyprincetonian.com/article/2026/10/princeton-news-breaking-adpol-princeton-to-provide-chatgpt-accounts-all-students-faculty-staff",
+        "author": "seam_carver",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:29:43+00:00",
+        "summary": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.dailyprincetonian.com/article/2026/10/princeton-news-breaking-adpol-princeton-to-provide-chatgpt-accounts-all-students-faculty-staff",
+          "page_title": "Princeton to provide ChatGPT accounts for all students, faculty, staff",
+          "page_description": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.",
+          "page_excerpt": "The University will provide all students, faculty and staff access to ChatGPT Plus or Pro, a paid version of OpenAI’s premier large language model.\n\nStudents will be able to request access to ChatGPT Plus before the start of next semester, and faculty and staff could request access beginning Wednesday. The pilot program is designed to last one year, and a decision to “continue offering campus-wide licenses” will be made at the end of the first year.\n\nIn an email sent to all faculty and staff on Wednesday morning obtained by The Daily Princetonian, University Provost Jennifer Rexford ’91 outlined the changes."
+        },
+        "content_context": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.\n\nThe University will provide all students, faculty and staff access to ChatGPT Plus or Pro, a paid version of OpenAI’s premier large language model. Students will be able to request access to ChatGPT Plus before the start of next semester, and faculty and staff could request access beginning Wednesday. The pilot program is designed to last one year, and a decision to “continue offering campus-wide licenses” will be made at the end of the first year. In an email sent to all faculty and staff on Wednesday morning obtained by The Daily Princetonian, University Provost Jennifer Rexford ’91 outlined the changes.",
+        "trend_score": 44.11,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "GPU or PSU coil whine: a test log and 47 owner reports across 44 models",
+        "url": "https://techfuelhq.com/articles/gpu-or-psu-coil-whine/",
+        "author": "LKWOODIV",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:08:57+00:00",
+        "summary": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://techfuelhq.com/articles/gpu-or-psu-coil-whine/",
+          "page_title": "GPU or PSU Coil Whine? Find the Noise Before Swapping",
+          "page_description": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.",
+          "page_excerpt": "Start with the same game scene and compare its usual frame rate with a deliberate FPS cap. Record fan speed and where the noise is loudest. A cap changing the sound suggests load-sensitive noise, but it cannot identify GPU versus PSU alone. Use the result to decide whether to keep, service or exchange the part.\n\nBy LK Wood IV · Published 2026-10-04 · Updated 2026-10-11 · ~8 min read · St. Louis County, MO\n\nA new graphics card starts buzzing, and the power supply sits just below it. Which one do you replace?"
+        },
+        "content_context": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.\n\nStart with the same game scene and compare its usual frame rate with a deliberate FPS cap. Record fan speed and where the noise is loudest. A cap changing the sound suggests load-sensitive noise, but it cannot identify GPU versus PSU alone. Use the result to decide whether to keep, service or exchange the part. By LK Wood IV · Published 2026-10-04 · Updated 2026-10-11 · ~8 min read · St. Louis County, MO A new graphics card starts buzzing, and the power supply sits just below it. Which one do you replace?",
+        "trend_score": 43.07,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.046,
+          "topic_overlap": 0.1,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "I made a web app for navigating the Bible",
+        "url": "https://theamazingword.org/",
+        "author": "_enjoi",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-29T01:06:14+00:00",
+        "summary": "A quiet, searchable reader for the King James Version of the Bible.",
+        "comment_highlights": [
+          "Thank you for doing this"
+        ],
+        "linked_context": {
+          "resolved_url": "https://theamazingword.org/",
+          "page_title": "The Word — King James Version",
+          "page_description": "A quiet, searchable reader for the King James Version of the Bible.",
+          "page_excerpt": null
+        },
+        "content_context": "A quiet, searchable reader for the King James Version of the Bible.\n\nHN comment: Thank you for doing this",
+        "trend_score": 42.35,
+        "trend_breakdown": {
+          "freshness": 0.982,
+          "engagement": 0.082,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Congo's Ebola outbreak tops 10k cases as authorities race to slow the spread",
+        "url": "https://www.nbcnews.com/world/africa/congos-ebola-outbreak-tops-10000-cases-authorities-race-slow-spread-af-rcna605882",
+        "author": "gmays",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:06:41+00:00",
+        "summary": "It is the fastest-growing Ebola outbreak in history, and nearly half of the people confirmed to have the virus have died, according to data from Congo’s Health Ministry.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.nbcnews.com/world/africa/congos-ebola-outbreak-tops-10000-cases-authorities-race-slow-spread-af-rcna605882",
+          "page_title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
+          "page_description": "It is the fastest-growing Ebola outbreak in history, and nearly half of the people confirmed to have the virus have died, according to data from Congo’s Health Ministry.",
+          "page_excerpt": "The fast-moving Ebola outbreak in the Democratic Republic of the Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple African countries.\n\nIt is the fastest-growing Ebola outbreak in history, and nearly half of the 10,060 confirmed to have the virus have died, according to data from Congo’s Ministry of Health. That also makes it the deadliest outbreak of the disease in the country’s history.\n\nThe outbreak declared in May is caused by the rare Bundibugyo virus, for which there is no approved vaccine or treatment. Response teams are battling armed conflict, poor roads and violence from residents fueled by mistrust and misinformation. Those obstacles compound the challenge of persuading people to report symptoms and accept care in communities that have endured years of violence and rep..."
+        },
+        "content_context": "It is the fastest-growing Ebola outbreak in history, and nearly half of the people confirmed to have the virus have died, according to data from Congo’s Health Ministry.\n\nThe fast-moving Ebola outbreak in the Democratic Republic of the Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple African countries. It is the fastest-growing Ebola outbreak in history, and nearly half of the 10,060 confirmed to have the virus have died, according to data from Congo’s Ministry of Health. That also makes it the deadliest outbreak of the disease in the country’s history. The outbreak declared in May is caused by the rare Bundibugyo virus, for which there is no approved vaccine or treatment. Response teams are battling armed conflict, poor roads and violence from residents fueled by mistrust and misinformation. Those obstacles compound the challenge of persuading people to report symptoms and accept care in communities that have endured years of violence and rep...",
+        "trend_score": 42.05,
+        "trend_breakdown": {
+          "freshness": 0.982,
+          "engagement": 0.072,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Opera adds local AI to its browsers",
+        "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+        "author": "simonpure",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:30:06+00:00",
+        "summary": "Opera is adding local AI models in its browsers, putting user in control as a central part of the next generation of AI in browsers.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+          "page_title": "Opera doubles down on local AI, shipping models directly in its browsers",
+          "page_description": "Opera is adding local AI models in its browsers, putting user in control as a central part of the next generation of AI in browsers.",
+          "page_excerpt": "Now rolling out in early preview, WebAI marks the start of a bigger push into local AI. Also launching: HTML-in-Canvas, which puts live web pages inside 3D worlds.\n\nOSLO, Norway – October 27, 2026 – Opera (NASDAQ: OPRA), a leading global browser and AI agent company, today began shipping local AI models in its browsers, making AI that runs on the user’s own computer a central part of the next generation of Opera browsers. The first capabilities are available today as an early preview in Opera One, with Opera GX and Opera Neon to follow.\n\nWith local AI built into the browser, both users and developers can benefit from new capabilities. Local AI lets anyone build on top of free, open-weight AI models. Developers can add AI features without running AI infrastructure or paying for every request. Users don’t need AI subscriptions, the information the local AI handles stays on their own device, and they stay in control of the AI on t..."
+        },
+        "content_context": "Opera is adding local AI models in its browsers, putting user in control as a central part of the next generation of AI in browsers.\n\nNow rolling out in early preview, WebAI marks the start of a bigger push into local AI. Also launching: HTML-in-Canvas, which puts live web pages inside 3D worlds. OSLO, Norway – October 27, 2026 – Opera (NASDAQ: OPRA), a leading global browser and AI agent company, today began shipping local AI models in its browsers, making AI that runs on the user’s own computer a central part of the next generation of Opera browsers. The first capabilities are available today as an early preview in Opera One, with Opera GX and Opera Neon to follow. With local AI built into the browser, both users and developers can benefit from new capabilities. Local AI lets anyone build on top of free, open-weight AI models. Developers can add AI features without running AI infrastructure or paying for every request. Users don’t need AI subscriptions, the information the local AI handles stays on their own device, and they stay in control of the AI on t...",
+        "trend_score": 41.87,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Oldest customer complaint in recorded history",
+        "url": "https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir",
+        "author": "jameslk",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:26:51+00:00",
+        "summary": "The complaint tablet to Ea-nāṣir ( UET V 81) [ 1 ] is a clay tablet written c. 1750 BC in Akkadian cuneiform . It was sent to the copper merchant Ea-nāṣir in Ur by a dissatisfied customer.\n\nThe tablet was discovered by Sir Leonard Woolley among similar complaints and is held by the British Museum . It is recognized as the \"Oldest Customer Complaint \" by Guinness World Records . The tablet's content and Ea-nāṣir in particular gained popularity as an internet meme due to its relatable subject matter. [ 2 ] [ 3 ] [ 4 ]\n\nEa-nāṣir was part of a group of traders called alik Tilmun , or \"Dilmun traders\". He is known from other texts to have been active in the 11th and 19th regnal years of the Larsa ruler Rim-Sîn I . [ 5 ] Other tablets have been found in the ruins believed to be Ea-nāṣir's dwelling. These include a letter from a man named Arbituram who complained he had not received his copper yet, while another s...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir",
+          "page_title": "Complaint tablet to Ea-nāṣir - Wikipedia",
+          "page_description": null,
+          "page_excerpt": "The complaint tablet to Ea-nāṣir ( UET V 81) [ 1 ] is a clay tablet written c. 1750 BC in Akkadian cuneiform . It was sent to the copper merchant Ea-nāṣir in Ur by a dissatisfied customer.\n\nThe tablet was discovered by Sir Leonard Woolley among similar complaints and is held by the British Museum . It is recognized as the \"Oldest Customer Complaint \" by Guinness World Records . The tablet's content and Ea-nāṣir in particular gained popularity as an internet meme due to its relatable subject matter. [ 2 ] [ 3 ] [ 4 ]\n\nEa-nāṣir was part of a group of traders called alik Tilmun , or \"Dilmun traders\". He is known from other texts to have been active in the 11th and 19th regnal years of the Larsa ruler Rim-Sîn I . [ 5 ] Other tablets have been found in the ruins believed to be Ea-nāṣir's dwelling. These include a letter from a man named Arbituram who complained he had not received his copper yet, while another s..."
+        },
+        "content_context": "The complaint tablet to Ea-nāṣir ( UET V 81) [ 1 ] is a clay tablet written c. 1750 BC in Akkadian cuneiform . It was sent to the copper merchant Ea-nāṣir in Ur by a dissatisfied customer. The tablet was discovered by Sir Leonard Woolley among similar complaints and is held by the British Museum . It is recognized as the \"Oldest Customer Complaint \" by Guinness World Records . The tablet's content and Ea-nāṣir in particular gained popularity as an internet meme due to its relatable subject matter. [ 2 ] [ 3 ] [ 4 ] Ea-nāṣir was part of a group of traders called alik Tilmun , or \"Dilmun traders\". He is known from other texts to have been active in the 11th and 19th regnal years of the Larsa ruler Rim-Sîn I . [ 5 ] Other tablets have been found in the ruins believed to be Ea-nāṣir's dwelling. These include a letter from a man named Arbituram who complained he had not received his copper yet, while another s...",
+        "trend_score": 41.78,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Microsoft Azure revenue surges 48% to $33.2B, beating expectations",
+        "url": "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/",
+        "author": "RoadieRoller",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-29T01:12:03+00:00",
+        "summary": "Microsoft's Azure cloud business brought in $33.2 billion in the September quarter, up 48%, the first time the company has reported Azure's quarterly revenue. Total revenue rose 19% to $92.3 billion, while capital spending of $45.2 billion came in below Microsoft's forecast of more than $50 billion.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/",
+          "page_title": "Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows",
+          "page_description": "Microsoft's Azure cloud business brought in $33.2 billion in the September quarter, up 48%, the first time the company has reported Azure's quarterly revenue. Total revenue rose 19% to $92.3 billion, while capital spending of $45.2 billion came in below Microsoft's forecast of more than $50 billion.",
+          "page_excerpt": "by Todd Bishop on Oct 28, 2026 at 1:47 pm October 28, 2026 at 3:11 pm\n\nMicrosoft’s Azure cloud business brought in $33.2 billion in revenue in the September quarter, up 48% from a year earlier, blowing past the company’s own forecast and beating Wall Street’s expectations.\n\nThe growth suggests that Microsoft is selling cloud and AI computing about as fast as it can install it. Azure revenue rose $10.8 billion from a year earlier, driven by demand for services across the platform, Microsoft said in its quarterly filing . That came even as some new data center capacity arrived late."
+        },
+        "content_context": "Microsoft's Azure cloud business brought in $33.2 billion in the September quarter, up 48%, the first time the company has reported Azure's quarterly revenue. Total revenue rose 19% to $92.3 billion, while capital spending of $45.2 billion came in below Microsoft's forecast of more than $50 billion.\n\nby Todd Bishop on Oct 28, 2026 at 1:47 pm October 28, 2026 at 3:11 pm Microsoft’s Azure cloud business brought in $33.2 billion in revenue in the September quarter, up 48% from a year earlier, blowing past the company’s own forecast and beating Wall Street’s expectations. The growth suggests that Microsoft is selling cloud and AI computing about as fast as it can install it. Azure revenue rose $10.8 billion from a year earlier, driven by demand for services across the platform, Microsoft said in its quarterly filing . That came even as some new data center capacity arrived late.",
+        "trend_score": 41.36,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "Trump, Murkowski hammer Peltola over Alaska ballot-stacking report - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd05vMXdMcDdmRWU1d3ktSVI5SW1jQ0VuV21iLWFVYmJkSmpIU3pjOGYxVnRxNG1zalJQMzg5cjcyRUtCV1ZlR2F4MjNiQWdOUU04UXZubFkyX0ppWFBaUWpSQmh0c3p5cE1rdEN2cDZFMUc3WHN5bkw2dGNPUWxQdkJNb2RXeVhJZmR2NnNIeEw?oc=5",
+        "published_at": "2026-10-29T00:45:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Murkowski hammer Peltola over Alaska ballot-stacking report；Trump: Mary Peltola, the Democratic Senate Candidate in Alaska, ‘Should Be Prosecuted’；Dan J. Sullivan switches from Republican to ‘undeclared’ ahead of general election。",
+        "related_headlines": [
+          "Trump, Murkowski hammer Peltola over Alaska ballot-stacking report",
+          "Trump: Mary Peltola, the Democratic Senate Candidate in Alaska, ‘Should Be Prosecuted’",
+          "Dan J. Sullivan switches from Republican to ‘undeclared’ ahead of general election",
+          "Report on recruiting a ‘spoiler’ shakes up Senate race in Alaska",
+          "NYT report: Peltola campaign, national Democrats helped get Sen. Sullivan’s namesake challenger on ballot"
+        ],
+        "content_context": "Trump, Murkowski hammer Peltola over Alaska ballot-stacking report - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Murkowski hammer Peltola over Alaska ballot-stacking report；Trump: Mary Peltola, the Democratic Senate Candidate in Alaska, ‘Should Be Prosecuted’；Dan J. Sullivan switches from Republican to ‘undeclared’ ahead of general election。\n\nRelated coverage: Trump, Murkowski hammer Peltola over Alaska ballot-stacking report\n\nRelated coverage: Trump: Mary Peltola, the Democratic Senate Candidate in Alaska, ‘Should Be Prosecuted’\n\nRelated coverage: Dan J. Sullivan switches from Republican to ‘undeclared’ ahead of general election\n\nRelated coverage: Report on recruiting a ‘spoiler’ shakes up Senate race in Alaska\n\nRelated coverage: NYT report: Peltola campaign, national Democrats helped get Sen. Sullivan’s namesake challenger on ballot",
+        "trend_score": 39.61,
+        "trend_breakdown": {
+          "freshness": 0.967,
+          "engagement": 0.0,
+          "topic_overlap": 0.3,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE1IN0ZhckxZdVQ4SllsNXdjVkkwNjI5ZDYxSlA3cVdjX0hFM18xelFnV0NINk1VSXVDQXBuYUdzTGhwYy1MUERJbEQ1WlhkWXEyWlZobThLRmozSXEyeXlScWxFV2xodG41ZmxqM1BTZ29wY1pSZk5lbWw2ZVZSbXFFOWRkOEkwTGhLN25FMXFVWmhN?oc=5",
+        "published_at": "2026-10-28T23:48:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma；Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor；Opinion: 3 former governors, 1 choice for Alaska。",
+        "related_headlines": [
+          "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma",
+          "Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor",
+          "Opinion: 3 former governors, 1 choice for Alaska",
+          "Murkowski and Murkowski endorse Alaska’s Democratic governor candidate",
+          "Sen. Murkowski endorses Democrat JKT in Alaska’s governor’s race"
+        ],
+        "content_context": "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma；Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor；Opinion: 3 former governors, 1 choice for Alaska。\n\nRelated coverage: ‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma\n\nRelated coverage: Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor\n\nRelated coverage: Opinion: 3 former governors, 1 choice for Alaska\n\nRelated coverage: Murkowski and Murkowski endorse Alaska’s Democratic governor candidate\n\nRelated coverage: Sen. Murkowski endorses Democrat JKT in Alaska’s governor’s race",
+        "trend_score": 38.72,
+        "trend_breakdown": {
+          "freshness": 0.927,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor? - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2ZFeDZnWEdYUEhwcUtEM3FZa1pCTWFkS2ZTb3dBT3ZqRXFKZU93eXdoRDkyaExLOENSVVQzNWtXa282TmpMa05LLWRiV0VGeVhzWF9melBpRGp6b3NWUUxIVElHbE1TZ1lZYldZR25pN0hXaXlMTUF3bHEyZnVDQWh5UmE4d1NQWnE5M21Gdw?oc=5",
+        "published_at": "2026-10-28T22:44:59+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?；See more headlines & perspectives on Google News。",
+        "related_headlines": [
+          "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
+          "See more headlines & perspectives on Google News"
+        ],
+        "content_context": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor? - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?；See more headlines & perspectives on Google News。\n\nRelated coverage: Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 34.81,
+        "trend_breakdown": {
+          "freshness": 0.884,
+          "engagement": 0.0,
+          "topic_overlap": 0.188,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+        "published_at": "2026-10-28T21:21:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil；Flávio Bolsonaro Lands in Miami After Fleeing Brazil；Flávio Bolsonaro claims fraud in Brazil’s presidential election。",
+        "related_headlines": [
+          "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
+          "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+          "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
+          "After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader",
+          "Flávio Bolsonaro arrives in Florida after fleeing Brazil"
+        ],
+        "content_context": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil；Flávio Bolsonaro Lands in Miami After Fleeing Brazil；Flávio Bolsonaro claims fraud in Brazil’s presidential election。\n\nRelated coverage: Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil\n\nRelated coverage: Flávio Bolsonaro Lands in Miami After Fleeing Brazil\n\nRelated coverage: Flávio Bolsonaro claims fraud in Brazil’s presidential election\n\nRelated coverage: After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader\n\nRelated coverage: Flávio Bolsonaro arrives in Florida after fleeing Brazil",
+        "trend_score": 30.94,
+        "trend_breakdown": {
+          "freshness": 0.825,
+          "engagement": 0.0,
+          "topic_overlap": 0.077,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+        "published_at": "2026-10-28T22:09:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Spain train crash kills at least 68 as witnesses describe devastating scenes；What caused the deadly train crash in Spain? What we know so far；At least 68 killed in Spanish high-speed train crash, as prime minister says 'whole country is grieving'。",
+        "related_headlines": [
+          "Spain train crash kills at least 68 as witnesses describe devastating scenes",
+          "What caused the deadly train crash in Spain? What we know so far",
+          "At least 68 killed in Spanish high-speed train crash, as prime minister says 'whole country is grieving'",
+          "Copa del Rey matches postponed after fatal train crash in Spain",
+          "Spain: Madrid mourns train crash victims as rescuers work through the night"
+        ],
+        "content_context": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Spain train crash kills at least 68 as witnesses describe devastating scenes；What caused the deadly train crash in Spain? What we know so far；At least 68 killed in Spanish high-speed train crash, as prime minister says 'whole country is grieving'。\n\nRelated coverage: Spain train crash kills at least 68 as witnesses describe devastating scenes\n\nRelated coverage: What caused the deadly train crash in Spain? What we know so far\n\nRelated coverage: At least 68 killed in Spanish high-speed train crash, as prime minister says 'whole country is grieving'\n\nRelated coverage: Copa del Rey matches postponed after fatal train crash in Spain\n\nRelated coverage: Spain: Madrid mourns train crash victims as rescuers work through the night",
+        "trend_score": 30.91,
+        "trend_breakdown": {
+          "freshness": 0.859,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Mediaite",
+        "category": "news",
+        "title": "NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue - Mediaite",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGYxeEQwWXFaM2NmMU9LZ3hXTGlGbzFmd0FCSkhCbC1kSjE4Umc4WmhrUTl4OHRlc1o0bFA0RVU0WDhFLWlWWWlCYkN0RnZNa2RjeHNlQ3M3NEhMWEprY0tEVGpna19PWUhHN1otSVkzOFVOblJYNkVaSjVwYXI5MGZaNmxZbnVFTlU0bGtTbHdES2ZGT3JUanJXN2hVTDROaTZHTDhXT3ZGMTUzSDY0Rld3cHVqMjJCM2U2UU9Yd3d1SFQ3dE5uSTdQTHZqZlI1ZGZsaHdjeURRR292dFFBbXJOcl9hUkZXQXhz?oc=5",
+        "published_at": "2026-10-28T20:50:00+00:00",
+        "summary": "Mediaite 头条聚焦该事件，Google News 同时聚合到这些相关表述：NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue；Midterm Elections Live Updates: Obama Campaigns in Georgia as Trump Holds Rally in Ohio；President Trump campaigns for Republicans in Ohio as Acton, Brown visit Cincinnati。",
+        "related_headlines": [
+          "NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue",
+          "Midterm Elections Live Updates: Obama Campaigns in Georgia as Trump Holds Rally in Ohio",
+          "President Trump campaigns for Republicans in Ohio as Acton, Brown visit Cincinnati",
+          "Trump visits Ohio: Live updates from Chillicothe midterm rally",
+          "2026 election live updates: Trump heads back to Ohio to campaign for GOP candidates"
+        ],
+        "content_context": "NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue - Mediaite\n\nMediaite 头条聚焦该事件，Google News 同时聚合到这些相关表述：NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue；Midterm Elections Live Updates: Obama Campaigns in Georgia as Trump Holds Rally in Ohio；President Trump campaigns for Republicans in Ohio as Acton, Brown visit Cincinnati。\n\nRelated coverage: NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue\n\nRelated coverage: Midterm Elections Live Updates: Obama Campaigns in Georgia as Trump Holds Rally in Ohio\n\nRelated coverage: President Trump campaigns for Republicans in Ohio as Acton, Brown visit Cincinnati\n\nRelated coverage: Trump visits Ohio: Live updates from Chillicothe midterm rally\n\nRelated coverage: 2026 election live updates: Trump heads back to Ohio to campaign for GOP candidates",
+        "trend_score": 29.87,
+        "trend_breakdown": {
+          "freshness": 0.804,
+          "engagement": 0.0,
+          "topic_overlap": 0.059,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WSJ",
+        "category": "news",
+        "title": "Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFBmaWprYXNlWXBzRFJHaF9FTVF4amlpRU0tV0ZXazF2UFBrNkwwRGI3T2RWMFhPTkRlVC0zeHlMVXFzOHNtenZnNjdRc0dxV1ZlbGN3aFlEY29VRXhlTFo1UWQyZ0JUYjFwVC1XODQ3Zmh4T3FYMlEyY3UxTHhnV2FTa3FaZExDRVFQa1F4RzhydjlRTzFIc013Tm5aczhDcVc5WEpvbw?oc=5",
+        "published_at": "2026-10-28T17:26:00+00:00",
+        "summary": "WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Justice Department Push Against Trump’s Foes Reaches Higher Gear；Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights；DOJ’s ‘shocking’ flurry of pre-election activity breaks long-standing precedent, former officials say。",
+        "related_headlines": [
+          "Justice Department Push Against Trump’s Foes Reaches Higher Gear",
+          "Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights",
+          "DOJ’s ‘shocking’ flurry of pre-election activity breaks long-standing precedent, former officials say",
+          "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz",
+          "Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario"
+        ],
+        "content_context": "Justice Department Push Against Trump’s Foes Reaches Higher Gear - WSJ\n\nWSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Justice Department Push Against Trump’s Foes Reaches Higher Gear；Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights；DOJ’s ‘shocking’ flurry of pre-election activity breaks long-standing precedent, former officials say。\n\nRelated coverage: Justice Department Push Against Trump’s Foes Reaches Higher Gear\n\nRelated coverage: Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights\n\nRelated coverage: DOJ’s ‘shocking’ flurry of pre-election activity breaks long-standing precedent, former officials say\n\nRelated coverage: Justice Department makes a splash with politically sensitive cases and actions during midterm blitz\n\nRelated coverage: Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario",
+        "trend_score": 28.99,
+        "trend_breakdown": {
+          "freshness": 0.662,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "The Conversation",
+        "category": "news",
+        "title": "3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor - The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3FFX1RXZl9ORXQyY2ZmeTdUbWhUZ1Vjelc3NXBhZGMtZy04QjdlV1pRQVFMU2d5Mk8tSmRtbllHRkxCUW1fRnp1Y2Nsc2hJRllJWnZpLTFyY0NZUW8ycld0MU40am5KTjdISUQydC1rT3VINUxOZjB4bDVBY3RVSzN6MWNQR3FBaE5NaTVqckFUd1JPVVZyRDAzOWRaX0hSckdqMHA1allYV3lJQjFnZWY0TlA2X3NuVFBleTBjajlKUnpLTVZBY0lSTFJoRFdpMmlRZ3IyRnZ6cGJvcXdWOThpTl8?oc=5",
+        "published_at": "2026-10-28T18:40:18+00:00",
+        "summary": "The Conversation 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor；Florida gubernatorial hopefuls seek to expand the campaigning map；'Florida is red': In blue Tallahassee, Byron Donalds seeks votes。",
+        "related_headlines": [
+          "3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor",
+          "Florida gubernatorial hopefuls seek to expand the campaigning map",
+          "'Florida is red': In blue Tallahassee, Byron Donalds seeks votes",
+          "David Jolly Threatens GOP Grip in Tight Fla. Governor's Race",
+          "Final St. Pete Polls: Byron Donalds leads David Jolly 48% to 46%, as long as Republicans show up"
+        ],
+        "content_context": "3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor - The Conversation\n\nThe Conversation 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor；Florida gubernatorial hopefuls seek to expand the campaigning map；'Florida is red': In blue Tallahassee, Byron Donalds seeks votes。\n\nRelated coverage: 3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor\n\nRelated coverage: Florida gubernatorial hopefuls seek to expand the campaigning map\n\nRelated coverage: 'Florida is red': In blue Tallahassee, Byron Donalds seeks votes\n\nRelated coverage: David Jolly Threatens GOP Grip in Tight Fla. Governor's Race\n\nRelated coverage: Final St. Pete Polls: Byron Donalds leads David Jolly 48% to 46%, as long as Republicans show up",
+        "trend_score": 28.89,
+        "trend_breakdown": {
+          "freshness": 0.714,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "The Israeli election is deadlocked - NPR",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0FTVThQZXdVUkNNbTBCLVBETkM1OG05UndKajRIckllbWZyQmRjS3NMemFOSGREbThJSEVERjNuLUw0WWMwa0RMdTF3YzBRVWlFem5HcUFGb1kxZkVZWUlfc1JGLVg4QjBFaVRSblhaaVlvQUhhazNWVTZISUsxUFBDeEJTUQ?oc=5",
+        "published_at": "2026-10-28T20:18:53+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Israeli election is deadlocked；Netanyahu is the ultimate survivor. But can he survive this time?；Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight。",
+        "related_headlines": [
+          "The Israeli election is deadlocked",
+          "Netanyahu is the ultimate survivor. But can he survive this time?",
+          "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+          "Netanyahu and top rival face postelection choices that could redefine Israeli politics",
+          "Israel’s voters deny Binyamin Netanyahu a majority"
+        ],
+        "content_context": "The Israeli election is deadlocked - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Israeli election is deadlocked；Netanyahu is the ultimate survivor. But can he survive this time?；Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight。\n\nRelated coverage: The Israeli election is deadlocked\n\nRelated coverage: Netanyahu is the ultimate survivor. But can he survive this time?\n\nRelated coverage: Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight\n\nRelated coverage: Netanyahu and top rival face postelection choices that could redefine Israeli politics\n\nRelated coverage: Israel’s voters deny Binyamin Netanyahu a majority",
+        "trend_score": 28.16,
+        "trend_breakdown": {
+          "freshness": 0.782,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Guardian",
+        "category": "news",
+        "title": "The pro-Trump prosecutor trying to stop California ballots from being counted - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzBGYUZ6ZWhHSVhyaVlQZDBkdGxsOW81ZXdxUkxjQ1J1VVZkenQ2UnA4VXV2MTVueWl5RzlQMElGY1ZQVTFNS3lyQnhLYjFCTU1wZmlKRDdzQVhxVFZBMnFldmxTQjJZbGRqN0c1M3RMWDFrLWdOM19fRWxSN21raEFFU081LVBmYk1Lekc0ZzZEZ2pnNk4wWjBpSEJZVWs?oc=5",
+        "published_at": "2026-10-28T14:02:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：The pro-Trump prosecutor trying to stop California ballots from being counted；Judge declines to block California from counting alleged noncitizen voters’ ballots in DOJ lawsuit；Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California。",
+        "related_headlines": [
+          "The pro-Trump prosecutor trying to stop California ballots from being counted",
+          "Judge declines to block California from counting alleged noncitizen voters’ ballots in DOJ lawsuit",
+          "Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California",
+          "Judge rebuffs Trump DoJ’s bid to order California to set aside 20,000 ballots",
+          "Judge to appoint special master in California voting case in setback to Trump admin"
+        ],
+        "content_context": "The pro-Trump prosecutor trying to stop California ballots from being counted - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：The pro-Trump prosecutor trying to stop California ballots from being counted；Judge declines to block California from counting alleged noncitizen voters’ ballots in DOJ lawsuit；Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California。\n\nRelated coverage: The pro-Trump prosecutor trying to stop California ballots from being counted\n\nRelated coverage: Judge declines to block California from counting alleged noncitizen voters’ ballots in DOJ lawsuit\n\nRelated coverage: Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California\n\nRelated coverage: Judge rebuffs Trump DoJ’s bid to order California to set aside 20,000 ballots\n\nRelated coverage: Judge to appoint special master in California voting case in setback to Trump admin",
+        "trend_score": 20.33,
+        "trend_breakdown": {
+          "freshness": 0.52,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "obra",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "Shell",
+      "score": 1095,
+      "comment_count": 27348,
+      "total_stars": 307476,
+      "built_by": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ],
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1095\n\nTotal stars: 307476\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "author": "HKUDS",
+      "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "Python",
+      "score": 2371,
+      "comment_count": 5958,
+      "total_stars": 48049,
+      "built_by": [
+        "pancacake",
+        "claude",
+        "Pinkllow",
+        "github-actions",
+        "evan188199-tech"
+      ],
+      "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 2371\n\nTotal stars: 48049\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
+      "trend_score": 85.72,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.971,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "author": "pbakaus",
+      "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "Rust",
+      "score": 1472,
+      "comment_count": 5482,
+      "total_stars": 92755,
+      "built_by": [
+        "pbakaus",
+        "claude",
+        "github-actions",
+        "abdulwahabone",
+        "cursoragent"
+      ],
+      "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 1472\n\nTotal stars: 92755\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+      "trend_score": 84.36,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.935,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "author": "Nutlope",
+      "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "CSS",
+      "score": 2110,
+      "comment_count": 2111,
+      "total_stars": 40762,
+      "built_by": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ],
+      "content_context": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\nLanguage: CSS\n\nStars today: 2110\n\nTotal stars: 40762\n\nBuilt by: Luffixos, Nutlope, claude, riccardogiorato, JaySmith502",
+      "trend_score": 83.35,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.908,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "author": "elayadesign",
+      "summary": null,
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": null,
+      "score": 2139,
+      "comment_count": 801,
+      "total_stars": 11159,
+      "built_by": [
+        "elayadesign",
+        "claude"
+      ],
+      "content_context": "Language: unknown\n\nStars today: 2139\n\nTotal stars: 11159\n\nBuilt by: elayadesign, claude",
+      "trend_score": 81.45,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.858,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "author": "togg53192-cmd",
+      "summary": "LIST OF ALL MY JAILBREAKS",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": null,
+      "score": 1477,
+      "comment_count": 1030,
+      "total_stars": 7153,
+      "built_by": [
+        "togg53192-cmd",
+        "raghavraut",
+        "metalim",
+        "reblox01"
+      ],
+      "content_context": "LIST OF ALL MY JAILBREAKS\n\nLanguage: unknown\n\nStars today: 1477\n\nTotal stars: 7153\n\nBuilt by: togg53192-cmd, raghavraut, metalim, reblox01",
+      "trend_score": 81.02,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.847,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "author": "makecindy",
+      "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "TypeScript",
+      "score": 728,
+      "comment_count": 949,
+      "total_stars": 8119,
+      "built_by": [
+        "dashhuang",
+        "zqchris",
+        "MagicLizi",
+        "DavidShenXD",
+        "claude"
+      ],
+      "content_context": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\nLanguage: TypeScript\n\nStars today: 728\n\nTotal stars: 8119\n\nBuilt by: dashhuang, zqchris, MagicLizi, DavidShenXD, claude",
+      "trend_score": 79.09,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.796,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "author": "nightly-labs",
+      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "TypeScript",
+      "score": 1054,
+      "comment_count": 316,
+      "total_stars": 3279,
+      "built_by": [
+        "NorbertBodziony",
+        "claude",
+        "Sniezka1927",
+        "nrb-dev",
+        "aniruddhaadak80"
+      ],
+      "content_context": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\nLanguage: TypeScript\n\nStars today: 1054\n\nTotal stars: 3279\n\nBuilt by: NorbertBodziony, claude, Sniezka1927, nrb-dev, aniruddhaadak80",
+      "trend_score": 77.82,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.762,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "author": "JetBrains",
+      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "TypeScript",
+      "score": 1068,
+      "comment_count": 263,
+      "total_stars": 5099,
+      "built_by": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude",
+        "SBOne-Kenobi"
+      ],
+      "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 1068\n\nTotal stars: 5099\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
+      "trend_score": 77.48,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.754,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "author": "macro-inc",
+      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "published_at": "2026-10-29T01:32:27.931755+00:00",
+      "language": "Rust",
+      "score": 117,
+      "comment_count": 519,
+      "total_stars": 5436,
+      "built_by": [
+        "gbirman",
+        "whutchinson98",
+        "synoet",
+        "sedson",
+        "peterchinman"
+      ],
+      "content_context": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\nLanguage: Rust\n\nStars today: 117\n\nTotal stars: 5436\n\nBuilt by: gbirman, whutchinson98, synoet, sedson, peterchinman",
+      "trend_score": 73.32,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.644,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Git for All Global Law",
+      "url": "https://github.com/lexifina/global-law",
+      "author": "alansaber",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-10-29T01:24:43+00:00",
+      "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law",
+      "comment_highlights": [
+        "You just had a successful post yesterday (427 points, 266 comments) <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a>"
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/lexifina/global-law",
+        "page_title": "GitHub - lexifina/global-law: Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+        "page_description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law",
+        "page_excerpt": "The world's law in one git history. Every word traced to the law that wrote it for any country and any date.\n\nAn expansion of the same for the US Code, #1 on Hacker News (28/10/26) . Semantic, searchable law on a global scale.\n\nThe law of many jurisdictions as one git history. Each jurisdiction's law is its own repository, where every commit is one law taking effect, written by that law. This repository arranges those repositories by jurisdiction and interleaves their histories in the order the changes took force, so a single commit here is the state of all of them on one day."
+      },
+      "content_context": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law\n\nThe world's law in one git history. Every word traced to the law that wrote it for any country and any date. An expansion of the same for the US Code, #1 on Hacker News (28/10/26) . Semantic, searchable law on a global scale. The law of many jurisdictions as one git history. Each jurisdiction's law is its own repository, where every commit is one law taking effect, written by that law. This repository arranges those repositories by jurisdiction and interleaves their histories in the order the changes took force, so a single commit here is the state of all of them on one day.\n\nHN comment: You just had a successful post yesterday (427 points, 266 comments) <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a>",
+      "trend_score": 55.89,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.082,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "OpenAMRobot",
+      "url": "https://github.com/openAMRobot",
+      "author": "gmays",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-29T01:21:53+00:00",
+      "summary": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/openAMRobot",
+        "page_title": "OpenAMRobot",
+        "page_description": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot",
+        "page_excerpt": "OpenAMRobot is an open, modular, and affordable embodied AI robotics ecosystem initiated, operated, and controlled by Botshare LTD (Cyprus Company ID HE479056).\n\nDIY kits and assembled robots: 30% off until 15 November 2026 , 25% off 16 to 30 November, 20% off 1 to 31 December. Full payment, price locked, first dispatch April 2027.\n\nThe project began as an autonomous dual-arm mobile robot platform and is now evolving toward a full-cycle infrastructure for:"
+      },
+      "content_context": "Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot\n\nOpenAMRobot is an open, modular, and affordable embodied AI robotics ecosystem initiated, operated, and controlled by Botshare LTD (Cyprus Company ID HE479056). DIY kits and assembled robots: 30% off until 15 November 2026 , 25% off 16 to 30 November, 20% off 1 to 31 December. Full payment, price locked, first dispatch April 2027. The project began as an autonomous dual-arm mobile robot platform and is now evolving toward a full-cycle infrastructure for:",
+      "trend_score": 49.13,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.046,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "World Models explained in 7 mins",
+      "url": "https://www.youtube.com/watch?v=d79HOo1fUhc",
+      "author": "lroe",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-29T01:27:47+00:00",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.youtube.com/watch?v=d79HOo1fUhc",
+        "page_title": "- YouTube",
+        "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "page_excerpt": null
+      },
+      "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "trend_score": 46.3,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.046,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Princeton to provide ChatGPT accounts for all students, faculty, staff",
+      "url": "https://www.dailyprincetonian.com/article/2026/10/princeton-news-breaking-adpol-princeton-to-provide-chatgpt-accounts-all-students-faculty-staff",
+      "author": "seam_carver",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-29T01:29:43+00:00",
+      "summary": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.dailyprincetonian.com/article/2026/10/princeton-news-breaking-adpol-princeton-to-provide-chatgpt-accounts-all-students-faculty-staff",
+        "page_title": "Princeton to provide ChatGPT accounts for all students, faculty, staff",
+        "page_description": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.",
+        "page_excerpt": "The University will provide all students, faculty and staff access to ChatGPT Plus or Pro, a paid version of OpenAI’s premier large language model.\n\nStudents will be able to request access to ChatGPT Plus before the start of next semester, and faculty and staff could request access beginning Wednesday. The pilot program is designed to last one year, and a decision to “continue offering campus-wide licenses” will be made at the end of the first year.\n\nIn an email sent to all faculty and staff on Wednesday morning obtained by The Daily Princetonian, University Provost Jennifer Rexford ’91 outlined the changes."
+      },
+      "content_context": "The University will provide all students access to ChatGPT Plus, a paid version of OpenAI’s premier large language model, beginning next semester, an email from Provost Jennifer Rexford to University faculty announced Wednesday morning.\n\nThe University will provide all students, faculty and staff access to ChatGPT Plus or Pro, a paid version of OpenAI’s premier large language model. Students will be able to request access to ChatGPT Plus before the start of next semester, and faculty and staff could request access beginning Wednesday. The pilot program is designed to last one year, and a decision to “continue offering campus-wide licenses” will be made at the end of the first year. In an email sent to all faculty and staff on Wednesday morning obtained by The Daily Princetonian, University Provost Jennifer Rexford ’91 outlined the changes.",
+      "trend_score": 44.11,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.046,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "GPU or PSU coil whine: a test log and 47 owner reports across 44 models",
+      "url": "https://techfuelhq.com/articles/gpu-or-psu-coil-whine/",
+      "author": "LKWOODIV",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-29T01:08:57+00:00",
+      "summary": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://techfuelhq.com/articles/gpu-or-psu-coil-whine/",
+        "page_title": "GPU or PSU Coil Whine? Find the Noise Before Swapping",
+        "page_description": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.",
+        "page_excerpt": "Start with the same game scene and compare its usual frame rate with a deliberate FPS cap. Record fan speed and where the noise is loudest. A cap changing the sound suggests load-sensitive noise, but it cannot identify GPU versus PSU alone. Use the result to decide whether to keep, service or exchange the part.\n\nBy LK Wood IV · Published 2026-10-04 · Updated 2026-10-11 · ~8 min read · St. Louis County, MO\n\nA new graphics card starts buzzing, and the power supply sits just below it. Which one do you replace?"
+      },
+      "content_context": "Separate GPU, PSU and fan noise with a repeatable test log. Compare exact-model owner reports, then choose a frame cap, service or an exchange.\n\nStart with the same game scene and compare its usual frame rate with a deliberate FPS cap. Record fan speed and where the noise is loudest. A cap changing the sound suggests load-sensitive noise, but it cannot identify GPU versus PSU alone. Use the result to decide whether to keep, service or exchange the part. By LK Wood IV · Published 2026-10-04 · Updated 2026-10-11 · ~8 min read · St. Louis County, MO A new graphics card starts buzzing, and the power supply sits just below it. Which one do you replace?",
+      "trend_score": 43.07,
+      "trend_breakdown": {
+        "freshness": 0.984,
+        "engagement": 0.046,
+        "topic_overlap": 0.1,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目热度集中，多个项目登上GitHub趋势榜，凸显三大焦点：一是AI辅助编程的质量控制，如'impeccable'和'Hallmark'项目，旨在通过设计词汇或规范来提升AI生成代码的可靠性；二是教育AI的个性化发展，以香港大学开源的'DeepTutor'为代表，推动终身个性化辅导系统；三是AI智能体（Agent）的实用化与集成，如'Cindy'和'openbot'项目，致力于降低使用门槛并提供本地化、多智能体的协作工作空间。此外，'superpowers'项目作为代理技能框架，以及'jailbreaks'项目对AI安全边界的探索，也反映了社区对AI开发方法论与安全伦理的持续关注。",
+    "named_hotspots": [
+      {
+        "name": "superpowers",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "GitHub项目'superpowers'今日获得1095颗星，总星数达307476，在GitHub趋势榜上排名靠前。",
+        "core_details": "这是一个由obra等人开发的代理技能框架与软件开发方法论项目，主要使用Shell语言编写，旨在提供一种有效的开发方法。",
+        "ai_take": "该项目体现了AI代理在软件开发流程中的集成趋势，通过框架化方法提升开发效率与自动化水平，符合当前AI辅助编程的发展方向。",
+        "hype_check": "项目热度较高，单日获星超千颗，总星数庞大，表明其在开发者社区中受到持续关注，但需注意其方法论的实际应用效果可能因团队而异。",
+        "value_check": "作为开源框架，它提供了可复用的开发模式，可能帮助团队构建更智能的软件代理，但具体价值取决于实际实施中的适配性与问题解决能力。",
+        "follow_up": "关注项目后续更新、社区反馈以及在实际项目中的案例应用，以评估其长期影响与成熟度。",
+        "evidence": "项目在GitHub趋势榜上趋势得分为86.84，总星数307476，单日增星1095，语言为Shell，由obra等开发者维护。"
+      },
+      {
+        "name": "DeepTutor",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据智能实验室（HKUDS）在GitHub上开源了DeepTutor项目，这是一个旨在实现终身个性化辅导的AI系统，今日获得2371颗星，总星数达48049，引发社区关注。",
+        "core_details": "DeepTutor是一个基于Python开发的AI辅导系统，专注于提供持续、个性化的学习指导。项目由pancacake、claude、Pinkllow等贡献者构建，目前已在GitHub上获得广泛关注，总星数接近5万，今日新增星数突出。",
+        "ai_take": "该项目代表了教育AI向终身个性化学习的发展趋势，通过开源方式推动智能辅导系统的可访问性和社区协作，可能对自适应教育技术产生积极影响。",
+        "hype_check": "高星数和今日显著增长表明项目在开发者社区中热度很高，但需注意开源项目的实际应用成熟度和教育场景中的有效性仍需验证。",
+        "value_check": "作为开源项目，DeepTutor提供了技术透明度和可扩展性，有助于降低个性化教育AI的开发门槛，但其长期教育价值取决于实际部署效果和持续迭代。",
+        "follow_up": "关注项目后续版本更新、实际教育案例研究以及社区反馈，以评估其技术稳定性和教学实用性。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，今日星数增长2371，总星数48049，语言为Python，由HKUDS团队维护，项目描述强调“终身个性化辅导”。"
+      },
+      {
+        "name": "impeccable",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "GitHub 项目 'impeccable' 今日获得 1472 颗星，总星数达 92755，在 Rust 语言项目中趋势显著。",
+        "core_details": "该项目旨在为编码智能体提供一套设计词汇，用于引导、审查和审计代码，以在代码发布前捕捉 AI 生成的瑕疵。项目由 pbakaus 等人使用 Rust 语言构建。",
+        "ai_take": "该项目直接针对 AI 辅助编程中的质量控制痛点，通过结构化词汇表提升 AI 生成代码的可靠性与专业性，反映了工具层面对 AI 编码代理进行精细化管理的需求。",
+        "hype_check": "趋势分 84.36 和单日大量获星表明其受到开发者社区高度关注，可能契合了当前对 AI 代码生成质量控制的普遍关切。",
+        "value_check": "作为开源工具，它提供了具体的实践方案来应对 'AI 代码瑕疵'，具有明确的实用价值，尤其适合注重代码质量的团队集成到开发流程中。",
+        "follow_up": "关注其后续版本更新、实际采用案例以及是否形成与主流 AI 编码助手（如 Cursor、Claude）的集成生态。",
+        "evidence": "项目描述明确指出其用途为 'The design vocabulary for your coding agent... catch AI slop before it ships'，且构建者列表中包含 'claude' 和 'cursoragent'，显示了与 AI 工具的关联。"
+      },
+      {
+        "name": "Hallmark",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Hallmark的GitHub项目在趋势榜上热度飙升，单日获星2110个，总星数已达40762。该项目定位为针对Claude Code、Cursor和Codex等AI代码生成工具的“反AI垃圾设计技能”。",
+        "core_details": "Hallmark是一个CSS项目，由Nutlope、Luffixos等开发者构建。其核心目标是提供一种设计技能或规范，旨在对抗或修正由AI代码生成工具可能产生的低质量、模式化或不符合最佳实践的代码输出（即所谓的“AI垃圾”）。项目语言为CSS，表明其可能侧重于前端样式或设计系统的质量控制。",
+        "ai_take": "该项目反映了开发者社区对AI辅助编码工具输出质量的实际关切。它试图建立一种“设计技能”或标准，以提升AI生成代码的可维护性、一致性与设计水准，本质上是一种针对AI编码工具的“纠偏”或“提质”方案。这显示了AI工具在普及后，社区开始从单纯使用转向主动定义质量边界和最佳实践。",
+        "hype_check": "高热度（日增星超2000，总星超4万）表明该议题切中了当前AI编码工具用户的普遍痛点——即如何确保AI生成代码不仅能用，而且质量优良、符合工程规范。但需注意，项目具体内容、方法论及其实际效果尚未在摘要中详细披露，其作为“技能”的具体实现形式和普适性有待验证。",
+        "value_check": "如果项目能提供切实可行的CSS（或可扩展至其他语言）设计模式、代码审查规则或集成工具，帮助开发者自动化检测或改进AI生成的代码质量，则具有明确的工程实践价值。它可能促进AI编码工具从“功能实现”到“质量生成”的演进。",
+        "follow_up": "关注项目README、代码示例及Issues，了解其具体规则集、与主流AI编码工具的集成方式，以及社区反馈的实际应用案例。同时观察是否有类似项目在其他编程语言或框架中出现。",
+        "evidence": "项目描述明确为“Anti-AI-slop design skill for Claude Code, Cursor, and Codex”，语言为CSS，由多位开发者协作，GitHub趋势数据（日增星2110，总星40762）支持其当前受关注程度。"
+      },
+      {
+        "name": "elayadesign/ai-design-skills",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 项目 'elayadesign/ai-design-skills' 今日获得 2139 颗星，总星数达 11159，在技术领域趋势榜上热度显著。",
+        "core_details": "该项目由 elayadesign 和 claude 构建，专注于 AI 设计技能相关的内容或工具，具体技术栈或语言信息未明确提供。",
+        "ai_take": "该项目的高热度反映了开发者社区对 AI 在设计领域应用技能和工具的强烈兴趣，可能涉及自动化设计、创意生成或设计流程优化等 AI 实践。",
+        "hype_check": "趋势分 81.45 和单日大量星标表明其当前在 GitHub 上受到广泛关注，但缺乏详细的项目描述或代码示例，需谨慎评估其实际技术深度和长期价值。",
+        "value_check": "作为开源项目，它可能为设计师和开发者提供了实用的 AI 设计资源或学习材料，但具体功能、文档质量和维护状态未知，用户需自行验证其适用性。",
+        "follow_up": "建议访问其 GitHub 仓库查看 README、代码示例和贡献指南，以了解项目具体内容、技术实现和社区活跃度。",
+        "evidence": "数据基于 GitHub 趋势榜：今日星标 2139，总星标 11159，趋势分 81.45，构建者 elayadesign 和 claude，领域为技术。"
+      },
+      {
+        "name": "togg53192-cmd/jailbreaks",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为 'togg53192-cmd/jailbreaks' 的 GitHub 项目在趋势榜上获得高度关注，单日新增 1477 颗星，总星数达 7153，讨论数超过 1000 条。",
+        "core_details": "该项目是一个由 togg53192-cmd 等开发者维护的 '越狱' 技术列表，旨在收集和分享针对 AI 模型或系统的突破性方法。项目语言未明确，但属于技术领域，在 GitHub 上快速流行。",
+        "ai_take": "该项目反映了社区对 AI 模型安全性和边界测试的浓厚兴趣，'越狱' 通常指绕过 AI 的内容限制或安全措施，这对 AI 伦理和防护研究具有重要参考价值。",
+        "hype_check": "高热度合理，因为 AI 越狱是当前安全研究的热点，但需注意内容可能涉及争议性技术，实际应用应谨慎评估。",
+        "value_check": "作为技术集合，它为研究者和开发者提供了实用资源，有助于推动 AI 安全领域的进步，但用户需自行验证内容的有效性和合法性。",
+        "follow_up": "关注 AI 安全社区对该项目的反馈，以及是否会有官方回应或更新；同时可追踪类似越狱项目的进展，以了解行业动态。",
+        "evidence": "项目在 GitHub 趋势榜上排名靠前（趋势得分 81.02），单日星数增长显著，总星数和讨论数高，表明社区参与度强；项目描述直接指向 '越狱' 技术列表，符合 AI 安全相关主题。"
+      },
+      {
+        "name": "Cindy",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Cindy 是一个开源、开箱即用的 AI Agent 项目，在 GitHub 上趋势热度显著，今日新增 728 颗星，总星数已达 8119。",
+        "core_details": "该项目由 dashhuang、zqchris、MagicLizi、DavidShenXD、claude 等开发者构建，使用 TypeScript 语言开发。其核心定位是“想到，就能做到”，旨在提供一个功能完备、无需复杂配置即可直接使用的 AI 智能体。",
+        "ai_take": "Cindy 代表了 AI Agent 领域向降低使用门槛、提升即用性的发展趋势。其开源特性有助于社区协作和功能迭代，可能推动更多实用型 AI 助手工具的出现。",
+        "hype_check": "项目在 GitHub 上获得高关注度，表明开发者社区对即用型 AI Agent 工具有强烈兴趣和需求，但需观察其实际应用场景的广泛性和稳定性。",
+        "value_check": "作为开源项目，Cindy 降低了 AI Agent 的尝试和部署成本，对开发者和研究者具有实用价值。其“开箱即用”的承诺若能得到验证，将显著提升开发效率。",
+        "follow_up": "关注项目后续的版本更新、实际用例分享以及社区反馈，以评估其长期影响力和技术成熟度。",
+        "evidence": "GitHub 仓库数据显示项目热度（今日星数 728，总星数 8119），项目描述强调其开源、开箱即用的 AI Agent 特性，开发团队信息明确。"
+      },
+      {
+        "name": "openbot",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 开源项目 nightly-labs/openbot 登上趋势榜，这是一个本地优先的桌面工作空间，用于部署持久化的AI助手。",
+        "core_details": "该项目是一个基于 TypeScript 开发的桌面应用，旨在为用户提供一个本地化、持久化的工作环境来运行多个AI模型（如 Codex、Claude、Grok）。核心功能包括为每个AI助手分配独立的工作空间、任务队列管理、文件共享、浏览器控制以及AI助手之间的协作。项目今日获得1054颗星，总星数已达3279。",
+        "ai_take": "该项目代表了AI应用向本地化、多智能体协作工作空间发展的趋势。它试图解决将不同AI模型整合到统一、可交互的持久化环境中的工程挑战，可能为个人或团队提供更可控、私密的AI助手使用体验。",
+        "hype_check": "热度较高，单日获星过千，总关注度增长迅速，表明开发者社区对这类集成化、本地优先的AI工作空间工具兴趣浓厚。",
+        "value_check": "核心价值在于提供了一个集成的本地平台，可能降低用户同时使用和管理多个AI助手的复杂度，并增强隐私性。其实用性取决于其稳定性、对不同模型的支持深度以及协作功能的有效性。",
+        "follow_up": "关注其后续版本更新，看是否支持更多AI模型，以及其多智能体协作机制的实际效果和开发者生态的构建情况。",
+        "evidence": "项目描述明确指出其为“本地优先的桌面工作空间”，支持运行特定AI模型并具备工作空间、任务队列、文件共享、浏览器控制和智能体间协作功能。GitHub数据（今日星数1054，总星数3279，语言TypeScript）支持其受关注程度。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "obra/superpowers",
+        "content_summary": "这是一个智能体技能框架和软件开发方法论项目，旨在提供一套行之有效的工作体系。项目使用Shell语言编写，今日新增1095颗星，总星数已达307476。",
+        "ai_comment": "该项目定位为‘智能体技能框架’，可能旨在为AI代理或自动化流程提供一套标准化的能力构建与开发范式，反映了当前AI工程化领域对方法论和框架的探索趋势。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "HKUDS/DeepTutor",
+        "content_summary": "这是一个名为DeepTutor的终身个性化辅导系统项目，旨在提供持续的个性化学习指导。项目使用Python语言，今日新增2371颗星，总星数为48049。",
+        "ai_comment": "DeepTutor项目将AI应用于个性化教育领域，其‘终身’特性暗示了模型持续学习和适应个体学习者需求的能力，是教育科技与AI结合的一个具体案例。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "pbakaus/impeccable",
+        "content_summary": "这是一个为编码智能体设计的设计词汇库项目，旨在通过‘润色’、‘审查’、‘审计’等指令来引导和审查AI生成的代码，防止低质量代码产出。项目使用Rust语言，今日新增1472颗星，总星数达92755。",
+        "ai_comment": "该项目直接针对AI辅助编程中的‘AI slop’（低质量产出）问题，试图建立一套设计语言来提升人机协作的代码质量，是AI编程工具链中质量控制环节的新兴尝试。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Git for All Global Law",
+        "content_summary": "这是一个名为‘全球法律Git’的项目，旨在将每个国家的法律作为一个Git子模块，整合成一个统一的Git历史记录。每次提交代表一部法律生效，从而实现对全球法律语义化、可追溯和可搜索的管理。该项目是对其美国法典项目的扩展，昨日在Hacker News上获得高度关注。",
+        "ai_comment": "该项目将软件版本控制系统Git的理念应用于法律文本管理，是一个极具创新性的法律科技项目。它试图解决法律追溯和版本管理的复杂性，为法律研究、合规和AI法律分析提供了结构化的数据基础。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "OpenAMRobot",
+        "content_summary": "OpenAMRobot是一个开源、模块化、经济实惠的具身AI机器人生态系统，核心是一个通用型双臂移动操作器，可通过演示进行教学。项目提供DIY套件和组装机器人，并公布了2026年11月至12月的折扣计划及2027年4月的首批发货安排。",
+        "ai_comment": "该项目降低了具身AI和机器人研究的硬件门槛，其‘通过演示教学’的特点强调了模仿学习在机器人控制中的应用。开源和模块化设计有助于推动机器人领域的协作与创新。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "World Models explained in 7 mins",
+        "content_summary": "这是一个YouTube视频链接，标题为‘7分钟解释世界模型’，内容预计是对AI和强化学习中的‘世界模型’概念进行简短讲解。",
+        "ai_comment": "‘世界模型’是让AI智能体理解或模拟环境动态的核心概念。该视频的流行反映了技术社区对AI基础理论，特别是与规划、预测相关模型的高度兴趣。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Trump, Murkowski hammer Peltola over Alaska ballot-stacking report - Politico",
+        "content_summary": "据Politico报道，特朗普和参议员穆尔科斯基就一份关于阿拉斯加州选票堆积（ballot-stacking）的报告猛烈抨击民主党参议员候选人玛丽·佩尔托拉。相关报道还包括特朗普呼吁起诉佩尔托拉，以及参议员丹·沙利文将党派 affiliation 改为‘未声明’等事件，这些报道共同揭示了阿拉斯加州参议院选举的复杂局面。",
+        "ai_comment": "这是一则美国国内政治新闻，涉及选举策略指控和党派关系变化。虽然本身不直接涉及AI，但此类政治动态可能影响科技政策、监管环境以及相关政府资助项目的方向。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico",
+        "content_summary": "Politico报道，参议员丽莎·穆尔科斯基在面临2028年政治困境之际，选择支持一位民主党州长候选人，而非特朗普支持的共和党候选人。这一举动被形容为‘丽莎就是丽莎’，体现了其独立于党派的政治立场。相关报道聚焦于她对民主党人的背书及其政治考量。",
+        "ai_comment": "这同样是美国政治新闻，展示了党内政治分歧和跨党派合作。对于科技界而言，关键政治人物的立场可能影响未来在气候变化、科技反垄断、AI伦理立法等议题上的投票倾向。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor? - The New York Times",
+        "content_summary": "《纽约时报》报道，亚特兰大市长在新冠疫情引发的混乱后离职，现在正竞选佐治亚州州长。文章探讨了选民是否会支持她成为州长，审视其从政记录和当前竞选形势。",
+        "ai_comment": "这则政治新闻关注地方领导人向州级职位的转型。州长在推动本州科技创新、教育投资和产业政策方面有重要作用，其选举结果可能间接影响区域科技经济发展。"
+      }
+    ],
+    "closing_note": "总体来看，今日趋势反映了AI社区正从单纯使用工具转向主动定义质量规范、深化垂直应用（如教育）以及构建集成化工作环境。开源项目的活跃度表明，通过协作解决AI在实际部署中的痛点——如代码质量、个性化学习与多智能体管理——已成为关键创新方向。建议开发者关注这些项目的后续迭代与实际应用案例，以评估其长期价值与技术成熟度。",
+    "_errors": []
+  }
+}
