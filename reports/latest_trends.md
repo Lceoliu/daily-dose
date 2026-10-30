@@ -1,9 +1,9 @@
 # AI 热点日报
 
-> 更新时间：2026-10-29 09:32（北京时间）
+> 更新时间：2026-10-30 09:31（北京时间）
 
 ## 今日一句话
-今日AI领域开源项目热度集中，多个项目登上GitHub趋势榜，凸显三大焦点：一是AI辅助编程的质量控制，如'impeccable'和'Hallmark'项目，旨在通过设计词汇或规范来提升AI生成代码的可靠性；二是教育AI的个性化发展，以香港大学开源的'DeepTutor'为代表，推动终身个性化辅导系统；三是AI智能体（Agent）的实用化与集成，如'Cindy'和'openbot'项目，致力于降低使用门槛并提供本地化、多智能体的协作工作空间。此外，'superpowers'项目作为代理技能框架，以及'jailbreaks'项目对AI安全边界的探索，也反映了社区对AI开发方法论与安全伦理的持续关注。
+今日AI开源生态呈现多点开花态势，焦点集中于智能体（Agent）基础设施与工具链的创新。OpenBot与openbot等项目致力于为AI智能体构建独立、可协作的桌面级操作环境，推动其向“数字员工”演进；Impeccable与claude-mem则分别从代码质量审查与持久化记忆层面，系统化提升AI编程助手的可靠性与连续性。同时，DeepTutor展示了AI在个性化教育领域的深入探索，而jailbreaks集合则持续揭示大模型的安全边界。整体来看，开发者社区正从环境封装、工作流规范、能力增强等多维度，加速AI智能体的工程化与实用化进程。
 
 ## 数据概览
 - GitHub Trending：10
@@ -12,147 +12,151 @@
 - 新闻头条：10
 
 ## 今日热点
-### 1. superpowers | project | GitHub Trending
-- 发生了什么：GitHub项目'superpowers'今日获得1095颗星，总星数达307476，在GitHub趋势榜上排名靠前。
-- 具体内容：这是一个由obra等人开发的代理技能框架与软件开发方法论项目，主要使用Shell语言编写，旨在提供一种有效的开发方法。
-- AI 解读：该项目体现了AI代理在软件开发流程中的集成趋势，通过框架化方法提升开发效率与自动化水平，符合当前AI辅助编程的发展方向。
-- 噪音判断：项目热度较高，单日获星超千颗，总星数庞大，表明其在开发者社区中受到持续关注，但需注意其方法论的实际应用效果可能因团队而异。
-- 后续价值：作为开源框架，它提供了可复用的开发模式，可能帮助团队构建更智能的软件代理，但具体价值取决于实际实施中的适配性与问题解决能力。
-- 明日跟踪：关注项目后续更新、社区反馈以及在实际项目中的案例应用，以评估其长期影响与成熟度。
-- 热度迹象：项目在GitHub趋势榜上趋势得分为86.84，总星数307476，单日增星1095，语言为Shell，由obra等开发者维护。
-### 2. DeepTutor | project | github-trending
-- 发生了什么：香港大学数据智能实验室（HKUDS）在GitHub上开源了DeepTutor项目，这是一个旨在实现终身个性化辅导的AI系统，今日获得2371颗星，总星数达48049，引发社区关注。
-- 具体内容：DeepTutor是一个基于Python开发的AI辅导系统，专注于提供持续、个性化的学习指导。项目由pancacake、claude、Pinkllow等贡献者构建，目前已在GitHub上获得广泛关注，总星数接近5万，今日新增星数突出。
-- AI 解读：该项目代表了教育AI向终身个性化学习的发展趋势，通过开源方式推动智能辅导系统的可访问性和社区协作，可能对自适应教育技术产生积极影响。
-- 噪音判断：高星数和今日显著增长表明项目在开发者社区中热度很高，但需注意开源项目的实际应用成熟度和教育场景中的有效性仍需验证。
-- 后续价值：作为开源项目，DeepTutor提供了技术透明度和可扩展性，有助于降低个性化教育AI的开发门槛，但其长期教育价值取决于实际部署效果和持续迭代。
-- 明日跟踪：关注项目后续版本更新、实际教育案例研究以及社区反馈，以评估其技术稳定性和教学实用性。
-- 热度迹象：项目在GitHub趋势榜上排名靠前，今日星数增长2371，总星数48049，语言为Python，由HKUDS团队维护，项目描述强调“终身个性化辅导”。
-### 3. impeccable | project | GitHub Trending
-- 发生了什么：GitHub 项目 'impeccable' 今日获得 1472 颗星，总星数达 92755，在 Rust 语言项目中趋势显著。
-- 具体内容：该项目旨在为编码智能体提供一套设计词汇，用于引导、审查和审计代码，以在代码发布前捕捉 AI 生成的瑕疵。项目由 pbakaus 等人使用 Rust 语言构建。
-- AI 解读：该项目直接针对 AI 辅助编程中的质量控制痛点，通过结构化词汇表提升 AI 生成代码的可靠性与专业性，反映了工具层面对 AI 编码代理进行精细化管理的需求。
-- 噪音判断：趋势分 84.36 和单日大量获星表明其受到开发者社区高度关注，可能契合了当前对 AI 代码生成质量控制的普遍关切。
-- 后续价值：作为开源工具，它提供了具体的实践方案来应对 'AI 代码瑕疵'，具有明确的实用价值，尤其适合注重代码质量的团队集成到开发流程中。
-- 明日跟踪：关注其后续版本更新、实际采用案例以及是否形成与主流 AI 编码助手（如 Cursor、Claude）的集成生态。
-- 热度迹象：项目描述明确指出其用途为 'The design vocabulary for your coding agent... catch AI slop before it ships'，且构建者列表中包含 'claude' 和 'cursoragent'，显示了与 AI 工具的关联。
-### 4. Hallmark | project | GitHub Trending
-- 发生了什么：一个名为Hallmark的GitHub项目在趋势榜上热度飙升，单日获星2110个，总星数已达40762。该项目定位为针对Claude Code、Cursor和Codex等AI代码生成工具的“反AI垃圾设计技能”。
-- 具体内容：Hallmark是一个CSS项目，由Nutlope、Luffixos等开发者构建。其核心目标是提供一种设计技能或规范，旨在对抗或修正由AI代码生成工具可能产生的低质量、模式化或不符合最佳实践的代码输出（即所谓的“AI垃圾”）。项目语言为CSS，表明其可能侧重于前端样式或设计系统的质量控制。
-- AI 解读：该项目反映了开发者社区对AI辅助编码工具输出质量的实际关切。它试图建立一种“设计技能”或标准，以提升AI生成代码的可维护性、一致性与设计水准，本质上是一种针对AI编码工具的“纠偏”或“提质”方案。这显示了AI工具在普及后，社区开始从单纯使用转向主动定义质量边界和最佳实践。
-- 噪音判断：高热度（日增星超2000，总星超4万）表明该议题切中了当前AI编码工具用户的普遍痛点——即如何确保AI生成代码不仅能用，而且质量优良、符合工程规范。但需注意，项目具体内容、方法论及其实际效果尚未在摘要中详细披露，其作为“技能”的具体实现形式和普适性有待验证。
-- 后续价值：如果项目能提供切实可行的CSS（或可扩展至其他语言）设计模式、代码审查规则或集成工具，帮助开发者自动化检测或改进AI生成的代码质量，则具有明确的工程实践价值。它可能促进AI编码工具从“功能实现”到“质量生成”的演进。
-- 明日跟踪：关注项目README、代码示例及Issues，了解其具体规则集、与主流AI编码工具的集成方式，以及社区反馈的实际应用案例。同时观察是否有类似项目在其他编程语言或框架中出现。
-- 热度迹象：项目描述明确为“Anti-AI-slop design skill for Claude Code, Cursor, and Codex”，语言为CSS，由多位开发者协作，GitHub趋势数据（日增星2110，总星40762）支持其当前受关注程度。
-### 5. elayadesign/ai-design-skills | project | github-trending
-- 发生了什么：GitHub 项目 'elayadesign/ai-design-skills' 今日获得 2139 颗星，总星数达 11159，在技术领域趋势榜上热度显著。
-- 具体内容：该项目由 elayadesign 和 claude 构建，专注于 AI 设计技能相关的内容或工具，具体技术栈或语言信息未明确提供。
-- AI 解读：该项目的高热度反映了开发者社区对 AI 在设计领域应用技能和工具的强烈兴趣，可能涉及自动化设计、创意生成或设计流程优化等 AI 实践。
-- 噪音判断：趋势分 81.45 和单日大量星标表明其当前在 GitHub 上受到广泛关注，但缺乏详细的项目描述或代码示例，需谨慎评估其实际技术深度和长期价值。
-- 后续价值：作为开源项目，它可能为设计师和开发者提供了实用的 AI 设计资源或学习材料，但具体功能、文档质量和维护状态未知，用户需自行验证其适用性。
-- 明日跟踪：建议访问其 GitHub 仓库查看 README、代码示例和贡献指南，以了解项目具体内容、技术实现和社区活跃度。
-- 热度迹象：数据基于 GitHub 趋势榜：今日星标 2139，总星标 11159，趋势分 81.45，构建者 elayadesign 和 claude，领域为技术。
-### 6. togg53192-cmd/jailbreaks | project | github-trending
-- 发生了什么：一个名为 'togg53192-cmd/jailbreaks' 的 GitHub 项目在趋势榜上获得高度关注，单日新增 1477 颗星，总星数达 7153，讨论数超过 1000 条。
-- 具体内容：该项目是一个由 togg53192-cmd 等开发者维护的 '越狱' 技术列表，旨在收集和分享针对 AI 模型或系统的突破性方法。项目语言未明确，但属于技术领域，在 GitHub 上快速流行。
-- AI 解读：该项目反映了社区对 AI 模型安全性和边界测试的浓厚兴趣，'越狱' 通常指绕过 AI 的内容限制或安全措施，这对 AI 伦理和防护研究具有重要参考价值。
-- 噪音判断：高热度合理，因为 AI 越狱是当前安全研究的热点，但需注意内容可能涉及争议性技术，实际应用应谨慎评估。
-- 后续价值：作为技术集合，它为研究者和开发者提供了实用资源，有助于推动 AI 安全领域的进步，但用户需自行验证内容的有效性和合法性。
-- 明日跟踪：关注 AI 安全社区对该项目的反馈，以及是否会有官方回应或更新；同时可追踪类似越狱项目的进展，以了解行业动态。
-- 热度迹象：项目在 GitHub 趋势榜上排名靠前（趋势得分 81.02），单日星数增长显著，总星数和讨论数高，表明社区参与度强；项目描述直接指向 '越狱' 技术列表，符合 AI 安全相关主题。
-### 7. Cindy | project | GitHub Trending
-- 发生了什么：Cindy 是一个开源、开箱即用的 AI Agent 项目，在 GitHub 上趋势热度显著，今日新增 728 颗星，总星数已达 8119。
-- 具体内容：该项目由 dashhuang、zqchris、MagicLizi、DavidShenXD、claude 等开发者构建，使用 TypeScript 语言开发。其核心定位是“想到，就能做到”，旨在提供一个功能完备、无需复杂配置即可直接使用的 AI 智能体。
-- AI 解读：Cindy 代表了 AI Agent 领域向降低使用门槛、提升即用性的发展趋势。其开源特性有助于社区协作和功能迭代，可能推动更多实用型 AI 助手工具的出现。
-- 噪音判断：项目在 GitHub 上获得高关注度，表明开发者社区对即用型 AI Agent 工具有强烈兴趣和需求，但需观察其实际应用场景的广泛性和稳定性。
-- 后续价值：作为开源项目，Cindy 降低了 AI Agent 的尝试和部署成本，对开发者和研究者具有实用价值。其“开箱即用”的承诺若能得到验证，将显著提升开发效率。
-- 明日跟踪：关注项目后续的版本更新、实际用例分享以及社区反馈，以评估其长期影响力和技术成熟度。
-- 热度迹象：GitHub 仓库数据显示项目热度（今日星数 728，总星数 8119），项目描述强调其开源、开箱即用的 AI Agent 特性，开发团队信息明确。
-### 8. openbot | project | github-trending
-- 发生了什么：GitHub 开源项目 nightly-labs/openbot 登上趋势榜，这是一个本地优先的桌面工作空间，用于部署持久化的AI助手。
-- 具体内容：该项目是一个基于 TypeScript 开发的桌面应用，旨在为用户提供一个本地化、持久化的工作环境来运行多个AI模型（如 Codex、Claude、Grok）。核心功能包括为每个AI助手分配独立的工作空间、任务队列管理、文件共享、浏览器控制以及AI助手之间的协作。项目今日获得1054颗星，总星数已达3279。
-- AI 解读：该项目代表了AI应用向本地化、多智能体协作工作空间发展的趋势。它试图解决将不同AI模型整合到统一、可交互的持久化环境中的工程挑战，可能为个人或团队提供更可控、私密的AI助手使用体验。
-- 噪音判断：热度较高，单日获星过千，总关注度增长迅速，表明开发者社区对这类集成化、本地优先的AI工作空间工具兴趣浓厚。
-- 后续价值：核心价值在于提供了一个集成的本地平台，可能降低用户同时使用和管理多个AI助手的复杂度，并增强隐私性。其实用性取决于其稳定性、对不同模型的支持深度以及协作功能的有效性。
-- 明日跟踪：关注其后续版本更新，看是否支持更多AI模型，以及其多智能体协作机制的实际效果和开发者生态的构建情况。
-- 热度迹象：项目描述明确指出其为“本地优先的桌面工作空间”，支持运行特定AI模型并具备工作空间、任务队列、文件共享、浏览器控制和智能体间协作功能。GitHub数据（今日星数1054，总星数3279，语言TypeScript）支持其受关注程度。
+### 1. OpenBot | project | GitHub Trending
+- 发生了什么：CopilotKit团队在GitHub上开源了OpenBot项目，这是一个为AI智能体提供独立计算机环境的框架，允许每个AI“同事”拥有自己的浏览器、文件和工具，所有行动在执行前决策并在执行后记录。
+- 具体内容：OpenBot是一个TypeScript开发的开源项目，旨在为任何AG-UI（自主图形用户界面）智能体提供完整的计算机操作环境。其核心特性包括：为每个AI智能体分配独立的虚拟计算机，集成浏览器、文件系统和工具；采用“决策-执行-记录”的工作流程，确保所有操作透明且可追溯；支持接入多种自主GUI智能体。项目由davidmckayv、kevin9327等开发者主导，目前GitHub总星标数达8172，单日新增247星，显示出较高的社区关注度。
+- AI 解读：OpenBot代表了AI智能体从单纯的任务执行向拥有完整操作环境的“数字员工”演进。通过提供标准化的计算机接口，它降低了智能体与真实世界交互（如网页浏览、文件处理）的开发门槛，可能加速通用人工智能（AGI）在自动化办公、辅助编程等场景的落地。其“先决策后执行”的机制也有助于提高AI行为的可控性和安全性。
+- 噪音判断：项目在GitHub趋势榜上热度较高（趋势分87.54），单日星标增长显著，反映了开发者对AI智能体操作环境工具的强烈兴趣。但需注意，这仍是一个早期开源框架，实际生产环境的稳定性、与复杂应用的兼容性尚未经过大规模验证。
+- 后续价值：OpenBot的核心价值在于为AI智能体提供了标准化的“沙盒”环境，解决了智能体与图形界面交互的工程难题。它可能成为连接大语言模型与具体应用（如软件操作、数据分析）的重要中间层，具有工具平台潜力。但长期价值取决于生态建设，如能否吸引足够多的智能体接入和场景适配。
+- 明日跟踪：可关注项目后续版本更新，特别是对更多操作系统、复杂工具链的支持情况；观察是否有基于OpenBot的成熟应用案例出现；同时注意同类项目（如AutoGPT、CrewAI）的竞争动态。
+- 热度迹象：项目GitHub页面描述明确指出：“开源AI同事，每个都拥有自己的计算机：浏览器、文件和工具，每个行动在执行前决策并在执行后记录。支持接入任何AG-UI智能体。” 项目使用TypeScript开发，总星标8172，单日增长247星，由CopilotKit团队维护。
+### 2. superpowers | project | github-trending
+- 发生了什么：GitHub项目'superpowers'在趋势榜上热度显著，今日新增星标1034个，总星标数已达308580，显示出开发者社区的高度关注。
+- 具体内容：该项目由obra等人开发，是一个'智能体技能框架与软件开发方法论'，旨在提供一套有效的工具和实践指南。项目主要使用Shell语言编写，在GitHub上获得了广泛的认可和讨论。
+- AI 解读：该项目提出的'智能体技能框架'可能旨在系统化AI代理的能力构建与集成，其方法论或为AI驱动的软件开发提供结构化流程，反映了业界对提升AI代理实用性和开发效率的持续探索。
+- 噪音判断：项目总星标数极高且今日增长迅速，表明其在开发者中积累了长期且强劲的吸引力，并非短期炒作。
+- 后续价值：作为一个高星标的开源框架，其核心价值在于可能提供了经过验证的实践方案，有助于标准化和加速基于智能体的软件开发，对AI应用工程化具有潜在实用意义。
+- 明日跟踪：关注项目文档、示例及社区讨论，以了解其具体技能定义、方法论实施细节以及在真实项目中的应用案例与效果评估。
+- 热度迹象：项目在GitHub趋势榜排名靠前（趋势得分86.84），拥有极高的总星标数（308580）和显著的日增长（1034），项目描述明确其为'一个有效的智能体技能框架与软件开发方法论'。
+### 3. Impeccable | project | GitHub Trending
+- 发生了什么：一个名为Impeccable的开源项目在GitHub上趋势飙升，单日获星2870，总星数已达95400。该项目旨在为编码智能体（AI助手）建立一套设计词汇，以提升其输出质量。
+- 具体内容：该项目由开发者pbakaus主导，使用Rust语言开发。核心定位是“为你的编码智能体提供设计词汇”，具体功能包括：通过“润色与加粗”进行引导，通过“批判与审计”进行审查，旨在“在AI粗制滥造的代码发布前将其捕获”。项目贡献者中包含了Claude AI和Cursor Agent等AI工具。
+- AI 解读：这反映了AI编程助手领域的一个关键痛点：如何系统化地提升和约束AI生成的代码质量，而不仅仅是功能正确。项目尝试将设计原则和代码审查流程“词汇化”和“工具化”，可能为构建更可靠、更符合工程规范的AI协作工作流提供框架。
+- 噪音判断：热度很高，单日近3000星和近十万总星数表明开发者社区对此类工具需求强烈。但“设计词汇”的具体实现效果、与主流IDE和AI助手的集成度，以及是否真能有效识别“AI slop”（AI粗制滥造的输出），仍需实际检验。
+- 后续价值：潜在价值明确。如果成功，能为团队提供一套共享的、可执行的AI代码质量标准和审查自动化工具，减少人工复审负担，提升AI辅助开发的整体产出质量与一致性。其采用Rust开发也暗示了对性能和可靠性的追求。
+- 明日跟踪：关注其API设计、与Cursor/Claude/GitHub Copilot等工具的集成进展，以及实际项目中的应用案例和效果反馈。同时，观察其定义的“设计词汇”是否会被更广泛的开发者社区或AI编程工具链采纳为标准之一。
+- 热度迹象：项目描述明确指出其目标为“The design vocabulary for your coding agent”，并列举了“steer with polish and bolder, review with critique and audit, catch AI slop before it ships”等核心功能点。GitHub趋势数据（日增星2870，总星95400，语言Rust）和贡献者列表（含claude, cursoragent）提供了流行度与背景佐证。
+### 4. DeepTutor | project | github-trending
+- 发生了什么：香港大学数据智能实验室（HKUDS）在GitHub上开源了DeepTutor项目，这是一个旨在实现终身个性化辅导的AI系统，今日获得1930颗星，总星数已达50124，引发广泛关注。
+- 具体内容：DeepTutor是一个基于Python开发的AI辅导系统，由HKUDS团队（包括pancacake、claude、Pinkllow等贡献者）构建。项目定位为“终身个性化辅导”，旨在通过AI技术提供持续、自适应的学习支持。项目在GitHub上趋势热度高，今日新增星数显著，总星数超过5万，表明其在开发者社区中受到高度关注。
+- AI 解读：该项目代表了AI在教育领域的深入应用，通过个性化与终身学习机制，可能推动智能教育从静态工具向动态陪伴式导师演进。其开源性质有助于加速AI辅导技术的迭代与普及。
+- 噪音判断：热度较高，GitHub趋势分数达85.41，单日获星近2000，总星数超5万，显示社区兴趣浓厚。但需注意，高星数可能部分源于项目成熟度或营销效应，实际教育效果需验证。
+- 后续价值：潜在价值显著：开源促进技术透明与协作；个性化辅导契合教育公平与效率需求；终身学习理念符合AI赋能教育的长期趋势。风险在于实际部署中的数据隐私、模型偏见及与真实教学场景的整合挑战。
+- 明日跟踪：可关注：1）项目后续更新与用户反馈；2）是否有实际教育机构试点案例；3）与类似AI教育工具（如Khanmigo、Cognii）的比较研究；4）团队是否发表相关学术论文。
+- 热度迹象：项目GitHub页面显示语言为Python，今日星数1930，总星数50124，由HKUDS团队维护；项目描述强调“终身个性化辅导”，官网为https://deeptutor.info/。无直接用户评论或外部报道，但高星数与趋势分数间接反映社区认可。
+### 5. openbot | project | GitHub Trending
+- 发生了什么：开源项目 openbot 在 GitHub 趋势榜上热度显著，今日新增 709 颗星，总星数达 3901，引发开发者社区关注。
+- 具体内容：openbot 是一个本地优先的桌面工作空间，旨在为持久化的 AI 队友提供运行环境。它支持集成 Codex、Claude 和 Grok 等 AI 模型，并提供专用工作区、任务队列、文件共享、浏览器控制以及智能体间协作功能。项目使用 TypeScript 语言开发，由 nightly-labs 团队维护。
+- AI 解读：该项目代表了 AI 应用向本地化、持久化和协作化方向发展的趋势。通过将多个 AI 模型整合到一个统一的桌面工作空间中，并支持智能体间的任务协作，它可能为自动化工作流、多智能体系统研究以及个人 AI 助手的高级应用场景提供新的工具范式。
+- 噪音判断：热度较高，单日获星数可观，表明其在开发者社区中引起了即时兴趣。但需注意，GitHub 趋势热度可能受短期因素影响，其长期价值和实际采用率仍需观察。
+- 后续价值：核心价值在于提供了一个可本地部署、集成多模型且支持复杂协作的 AI 工作空间框架。对于希望构建私有、可定制且能处理多步骤任务的 AI 应用开发者而言，具有明确的工具价值。其“本地优先”特性也契合了当前对数据隐私和可控性的需求。
+- 明日跟踪：关注其后续版本迭代、社区生态建设（如插件或集成扩展）以及在实际工作流中的用例分享。
+- 热度迹象：项目描述明确指出其作为“本地优先桌面工作空间”的定位与核心功能（多模型运行、专用工作区、任务队列、文件共享、浏览器控制、智能体协作）。GitHub 数据（今日 709 星，总 3901 星，TypeScript 语言）支持其当前热度。
+### 6. claude-mem | project | github-trending
+- 发生了什么：GitHub 上名为 'claude-mem' 的项目近期趋势热度显著上升，单日获得 336 颗星，总星数已超过 10 万。
+- 具体内容：该项目是一个开源工具，旨在为各类 AI 智能体（Agent）提供跨会话的持久化上下文管理。它能捕获智能体在会话期间的所有操作，利用 AI 进行压缩，并将相关上下文注入未来的会话中，以维持工作的连续性和记忆。项目使用 TypeScript 编写，支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等多种 AI 模型或工具。
+- AI 解读：该项目直击当前 AI 智能体应用的一个核心痛点：缺乏长期记忆和跨会话的上下文连续性。通过自动捕获、压缩和回注上下文，它有望显著提升智能体在复杂、长期任务中的效率和连贯性，是增强 AI 助手实用性的重要工具层。
+- 噪音判断：热度较高且合理。项目解决了 AI 工具链中一个切实存在的需求（记忆持久化），单日获星数多，总星数极高，表明其在开发者社区中获得了广泛关注和认可。支持多种主流模型也扩大了其潜在用户基础。
+- 后续价值：实用价值明确。对于频繁使用 AI 编码助手或其他智能体进行开发的工程师而言，该工具能减少重复解释、保持项目上下文，可能提升工作流效率。其开源性质也便于社区贡献和适配。
+- 明日跟踪：可关注其在实际开发工作流中的集成案例、性能开销评估（尤其是上下文压缩与检索的效率），以及是否会有更多 AI 平台或 IDE（如 Cursor、VSCode）将其作为官方或推荐插件集成。
+- 热度迹象：项目 GitHub 页面描述其核心功能为“为每个智能体提供跨会话的持久化上下文”，并列出支持的多款 AI 模型。项目语言为 TypeScript，由 thedotmack 等人构建。数据方面：单日获星 336，总星数 104829，这些数据支撑了其高热度与受欢迎程度。
+### 7. togg53192-cmd/jailbreaks | project | github-trending
+- 发生了什么：GitHub 项目 'togg53192-cmd/jailbreaks' 登上趋势榜，这是一个收集了作者所有 AI 模型越狱提示的仓库。
+- 具体内容：该项目由用户 togg53192-cmd 创建和维护，是一个集中展示其个人开发的各类 AI 模型越狱（Jailbreak）提示的列表。项目今日获得 1594 颗星，总星数已达 9084，显示出很高的社区关注度。
+- AI 解读：该项目反映了 AI 安全领域一个活跃的对抗性研究方向。用户通过系统性地收集和分享越狱提示，既挑战了主流大语言模型的安全护栏（如 OpenAI、Anthropic 等公司的模型），也为研究者和开发者提供了测试和加固模型安全性的宝贵资源。
+- 噪音判断：热度很高。项目在 GitHub 趋势榜上，单日获星超 1500，总星数近万，表明其在 AI 安全/黑客社区内引起了广泛兴趣和讨论。
+- 后续价值：对于 AI 安全研究人员、红队测试人员以及对模型脆弱性感兴趣的人来说，该项目具有直接的实用价值。它提供了一个现成的测试用例库，有助于理解和防御针对 AI 模型的提示注入攻击。对于普通用户，则需注意其潜在风险。
+- 明日跟踪：关注作者 togg53192-cmd 及其合作者的后续更新，以及 AI 安全社区对此类越狱集合的讨论和模型厂商的应对措施。
+- 热度迹象：项目描述为“LIST OF ALL MY JAILBREAKS”，今日获星 1594，总星数 9084，由 togg53192-cmd 等人构建。这些数据直接来自提供的趋势项信息。
+### 8. OpenMausBot | project | GitHub Trending
+- 发生了什么：一个名为OpenMausBot的开源项目在GitHub上趋势飙升，单日获星1199，总星数达7500。该项目定位为Grok Bot的开源替代品，并内置虚拟机供机器人使用。
+- 具体内容：项目由milind-soni、claude、aivsomkar、robinsonnblack、bradhallett等人构建，使用TypeScript语言开发。它提供了一个可让机器人运行的虚拟机环境，旨在作为Grok Bot的替代方案。
+- AI 解读：该项目体现了开源社区对构建可定制、透明且功能强大的AI机器人平台的兴趣。内置虚拟机可能为机器人提供更安全、隔离的执行环境，或支持复杂的操作逻辑，这反映了在AI代理和自动化工具领域对基础设施创新的关注。
+- 噪音判断：趋势分高达80.78，单日获星数显著，表明其在开发者社区中引起了强烈关注。作为“Grok Bot替代品”的定位可能精准击中了部分用户对开源、可自托管解决方案的需求。
+- 后续价值：核心价值在于提供了一个开源的、可能更灵活可控的机器人框架与执行环境。其虚拟机特性如果设计得当，可增强安全性、可扩展性和任务隔离能力。长期价值取决于其生态发展、易用性及与现有工具的集成度。
+- 明日跟踪：关注项目后续的版本更新、文档完善度以及社区活跃度。可观察是否有基于此项目的实际应用案例出现，并对比其与Grok Bot或其他类似平台在功能、性能上的实际差异。
+- 热度迹象：项目GitHub页面显示其描述为“开源的Grok Bot替代品，带有可供机器人使用的虚拟机”，使用TypeScript开发，由多位贡献者构建。趋势数据来自GitHub Trending，单日获星1199，总星7500，趋势得分80.78。
 
 ## 来源内容速览
+### github_trending | CopilotKit/OpenBot
+- 内容摘要：OpenBot 是一个开源项目，旨在为每个 AI 协作者提供独立的计算机环境，包括浏览器、文件和工具。其特点是所有操作在执行前都会经过决策，并在执行后被记录。该项目支持集成任何 AG-UI 智能体。
+- 解读：该项目代表了 AI 代理向更独立、可审计和工具化的‘数字员工’方向发展，为多智能体协作提供了基础设施层面的新思路。
 ### github_trending | obra/superpowers
-- 内容摘要：这是一个智能体技能框架和软件开发方法论项目，旨在提供一套行之有效的工作体系。项目使用Shell语言编写，今日新增1095颗星，总星数已达307476。
-- 解读：该项目定位为‘智能体技能框架’，可能旨在为AI代理或自动化流程提供一套标准化的能力构建与开发范式，反映了当前AI工程化领域对方法论和框架的探索趋势。
-### github_trending | HKUDS/DeepTutor
-- 内容摘要：这是一个名为DeepTutor的终身个性化辅导系统项目，旨在提供持续的个性化学习指导。项目使用Python语言，今日新增2371颗星，总星数为48049。
-- 解读：DeepTutor项目将AI应用于个性化教育领域，其‘终身’特性暗示了模型持续学习和适应个体学习者需求的能力，是教育科技与AI结合的一个具体案例。
+- 内容摘要：Superpowers 是一个智能体技能框架和软件开发方法论，旨在构建一个真正可工作的智能体系统。
+- 解读：将‘智能体技能’框架化并与开发方法论结合，标志着 AI 在软件开发流程中的角色从辅助工具向核心参与者的转变。
 ### github_trending | pbakaus/impeccable
-- 内容摘要：这是一个为编码智能体设计的设计词汇库项目，旨在通过‘润色’、‘审查’、‘审计’等指令来引导和审查AI生成的代码，防止低质量代码产出。项目使用Rust语言，今日新增1472颗星，总星数达92755。
-- 解读：该项目直接针对AI辅助编程中的‘AI slop’（低质量产出）问题，试图建立一套设计语言来提升人机协作的代码质量，是AI编程工具链中质量控制环节的新兴尝试。
-### hacker_news | Git for All Global Law
-- 内容摘要：这是一个名为‘全球法律Git’的项目，旨在将每个国家的法律作为一个Git子模块，整合成一个统一的Git历史记录。每次提交代表一部法律生效，从而实现对全球法律语义化、可追溯和可搜索的管理。该项目是对其美国法典项目的扩展，昨日在Hacker News上获得高度关注。
-- 解读：该项目将软件版本控制系统Git的理念应用于法律文本管理，是一个极具创新性的法律科技项目。它试图解决法律追溯和版本管理的复杂性，为法律研究、合规和AI法律分析提供了结构化的数据基础。
-### hacker_news | OpenAMRobot
-- 内容摘要：OpenAMRobot是一个开源、模块化、经济实惠的具身AI机器人生态系统，核心是一个通用型双臂移动操作器，可通过演示进行教学。项目提供DIY套件和组装机器人，并公布了2026年11月至12月的折扣计划及2027年4月的首批发货安排。
-- 解读：该项目降低了具身AI和机器人研究的硬件门槛，其‘通过演示教学’的特点强调了模仿学习在机器人控制中的应用。开源和模块化设计有助于推动机器人领域的协作与创新。
-### hacker_news | World Models explained in 7 mins
-- 内容摘要：这是一个YouTube视频链接，标题为‘7分钟解释世界模型’，内容预计是对AI和强化学习中的‘世界模型’概念进行简短讲解。
-- 解读：‘世界模型’是让AI智能体理解或模拟环境动态的核心概念。该视频的流行反映了技术社区对AI基础理论，特别是与规划、预测相关模型的高度兴趣。
-### news | Trump, Murkowski hammer Peltola over Alaska ballot-stacking report - Politico
-- 内容摘要：据Politico报道，特朗普和参议员穆尔科斯基就一份关于阿拉斯加州选票堆积（ballot-stacking）的报告猛烈抨击民主党参议员候选人玛丽·佩尔托拉。相关报道还包括特朗普呼吁起诉佩尔托拉，以及参议员丹·沙利文将党派 affiliation 改为‘未声明’等事件，这些报道共同揭示了阿拉斯加州参议院选举的复杂局面。
-- 解读：这是一则美国国内政治新闻，涉及选举策略指控和党派关系变化。虽然本身不直接涉及AI，但此类政治动态可能影响科技政策、监管环境以及相关政府资助项目的方向。
-### news | ‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico
-- 内容摘要：Politico报道，参议员丽莎·穆尔科斯基在面临2028年政治困境之际，选择支持一位民主党州长候选人，而非特朗普支持的共和党候选人。这一举动被形容为‘丽莎就是丽莎’，体现了其独立于党派的政治立场。相关报道聚焦于她对民主党人的背书及其政治考量。
-- 解读：这同样是美国政治新闻，展示了党内政治分歧和跨党派合作。对于科技界而言，关键政治人物的立场可能影响未来在气候变化、科技反垄断、AI伦理立法等议题上的投票倾向。
-### news | Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor? - The New York Times
-- 内容摘要：《纽约时报》报道，亚特兰大市长在新冠疫情引发的混乱后离职，现在正竞选佐治亚州州长。文章探讨了选民是否会支持她成为州长，审视其从政记录和当前竞选形势。
-- 解读：这则政治新闻关注地方领导人向州级职位的转型。州长在推动本州科技创新、教育投资和产业政策方面有重要作用，其选举结果可能间接影响区域科技经济发展。
+- 内容摘要：Impeccable 是一个为编程智能体设计的设计词汇系统。它通过‘抛光’、‘加粗’等指令来引导智能体，并通过‘批评’、‘审计’来审查代码，旨在在 AI 生成的粗糙代码发布前将其捕获。
+- 解读：该项目试图解决 AI 生成代码的质量控制问题，通过建立一套设计语言来提升人机协作的精确度和产出质量，是 AI 编程工具链的重要补充。
+### hacker_news | 95%-ile isn't that good
+- 内容摘要：文章核心观点是，在大多数活动中，达到参与者中前95%的水平并不像人们想象的那么难。作者认为，对于许多活动，只要成为经常练习者中的前10%，就可能达到所有参与者中的前90%。文章旨在通过具体例子反驳‘成为顶尖异常困难’的普遍看法，并指出大多数人都有能力在多数事情上达到相对较高的水平。
+- 解读：该观点对 AI 时代的人才培养和技能评估有启发意义，暗示专业化门槛可能被高估，而广泛的能力构建（类似 AI 的‘通才’特性）可能更具可行性。
+### hacker_news | Show HN: Arken – Passwordless auth middleware using secp256k1 keys
+- 内容摘要：Arken 是一个无密码认证中间件，使用 secp256k1 密钥和 DID 签名进行身份验证。其核心创新在于服务器端不存储任何秘密（如密码哈希、会话令牌），所有秘密由用户持有，从而从根本上消除了服务器数据泄露的风险。
+- 解读：将区块链中常用的密钥体系用于传统身份认证，代表了去中心化安全范式对现有 Web 架构的渗透，可能简化安全模型并减少攻击面。
+### hacker_news | The AI Data Center Explained – From Electricity to ChatGPT [video]
+- 内容摘要：该视频内容解释了 AI 数据中心从电力输入到运行如 ChatGPT 等大型语言模型的完整运作流程，涵盖了基础设施、计算硬件和软件堆栈等方面。
+- 解读：此类科普内容反映了公众对 AI 基础设施巨大能耗和复杂性的日益关注，是理解 AI 能力背后物理成本的重要窗口。
+### news | Pentagon plans for death of Trump’s record military budget - Politico
+- 内容摘要：据报道，美国国防部正在为特朗普提出的创纪录的1.5万亿美元军事预算计划可能‘夭折’做准备。同时，共和党内的国防鹰派人士在中期选举前与特朗普产生了分歧。相关报道还提及国防部正在起草一份1.1万亿美元的国防预算预案。
+- 解读：军事预算的潜在变动反映了美国政治周期对国防战略和资源分配的直接影响，其规模对全球军工和AI国防应用领域有风向标意义。
+### news | Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS
+- 内容摘要：美国陆军部长赫格塞斯解雇了五角大楼的高级军事规划官员，而此时特朗普政府正考虑对伊朗进行新的打击。被解职的将军因涉嫌泄露有关伊朗和乌克兰的机密信息而被移交给相关部门，可能面临刑事起诉。
+- 解读：高层军事人事变动与潜在军事行动同时发生，显示了美国对伊朗政策的内部紧张与调整，地缘政治风险可能影响全球科技供应链的稳定。
+### news | DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian
+- 内容摘要：据报道，美国司法部就阿拉斯加州出现的同名参选人事件发出了传票。有指控称民主党方面存在所谓的‘第二个丹·沙利文’计划，试图混淆选民，近十分之一的阿拉斯加选民因此受到影响。司法部指控民主党在法庭上就阿拉斯加参议院竞选事宜误导了法院。
+- 解读：选举中的‘同名候选人’策略及其引发的法律调查，凸显了信息操纵在民主进程中的新形态，这与在线信息环境和AI生成内容的潜在滥用问题存在逻辑关联。
 
 ## GitHub Trending 观察
-### 1. [obra/superpowers](https://github.com/obra/superpowers)
-- 热度：trend_score=86.84 | 语言=Shell | 今日星标=1095 | 总星标=307476 | forks=27348
+### 1. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+- 热度：trend_score=87.54 | 语言=TypeScript | 今日星标=247 | 总星标=8172 | forks=1047
+- 看点：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+### 2. [obra/superpowers](https://github.com/obra/superpowers)
+- 热度：trend_score=86.84 | 语言=Shell | 今日星标=1034 | 总星标=308580 | forks=27447
 - 看点：An agentic skills framework & software development methodology that works.
-### 2. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- 热度：trend_score=85.72 | 语言=Python | 今日星标=2371 | 总星标=48049 | forks=5958
-- 看点：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
 ### 3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- 热度：trend_score=84.36 | 语言=Rust | 今日星标=1472 | 总星标=92755 | forks=5482
+- 热度：trend_score=86.22 | 语言=Rust | 今日星标=2870 | 总星标=95400 | forks=5625
 - 看点：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 ## Hacker News 观察
-### 1. [Git for All Global Law](https://github.com/lexifina/global-law)
-- 热度：trend_score=55.89 | 热度分=1 | 评论=1 | 来源=hacker-news
-- 看点：Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect - lexifina/global-law
-### 2. [OpenAMRobot](https://github.com/openAMRobot)
-- 热度：trend_score=49.13 | 热度分=1 | 评论=0 | 来源=hacker-news
-- 看点：Open-source, general-purpose dual-arm mobile manipulator for embodied AI: teach it by demonstration. OpenAMRobot 2.0 rc.1 on 20 Nov 2026. - OpenAMRobot
-### 3. [World Models explained in 7 mins](https://www.youtube.com/watch?v=d79HOo1fUhc)
-- 热度：trend_score=46.3 | 热度分=1 | 评论=0 | 来源=hacker-news
+### 1. [95%-ile isn't that good](https://danluu.com/p95-skill/)
+- 热度：trend_score=53.75 | 热度分=1 | 评论=0 | 来源=hacker-news
+- 看点：Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things.
+
+Note that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The " one weird trick " is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i...
+
+This post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become "extraordinary", you have to eithe...
+### 2. [Show HN: Arken – Passwordless auth middleware using secp256k1 keys](https://github.com/zacharybenson/arken-protocol)
+- 热度：trend_score=49.19 | 热度分=1 | 评论=0 | 来源=hacker-news
+- 看点：Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol
+### 3. [The AI Data Center Explained – From Electricity to ChatGPT [video]](https://www.youtube.com/watch?v=ckoi0RTEgcY)
+- 热度：trend_score=48.96 | 热度分=1 | 评论=0 | 来源=hacker-news
 - 看点：Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 ## 新闻头条观察
-### 1. [Trump, Murkowski hammer Peltola over Alaska ballot-stacking report - Politico](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd05vMXdMcDdmRWU1d3ktSVI5SW1jQ0VuV21iLWFVYmJkSmpIU3pjOGYxVnRxNG1zalJQMzg5cjcyRUtCV1ZlR2F4MjNiQWdOUU04UXZubFkyX0ppWFBaUWpSQmh0c3p5cE1rdEN2cDZFMUc3WHN5bkw2dGNPUWxQdkJNb2RXeVhJZmR2NnNIeEw?oc=5)
-- 热度：trend_score=39.61 | 来源=Politico
-- 看点：Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Murkowski hammer Peltola over Alaska ballot-stacking report；Trump: Mary Peltola, the Democratic Senate Candidate in Alaska, ‘Should Be Prosecuted’；Dan J. Sullivan switches from Republican to ‘undeclared’ ahead of general election。
-### 2. [‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE1IN0ZhckxZdVQ4SllsNXdjVkkwNjI5ZDYxSlA3cVdjX0hFM18xelFnV0NINk1VSXVDQXBuYUdzTGhwYy1MUERJbEQ1WlhkWXEyWlZobThLRmozSXEyeXlScWxFV2xodG41ZmxqM1BTZ29wY1pSZk5lbWw2ZVZSbXFFOWRkOEkwTGhLN25FMXFVWmhN?oc=5)
-- 热度：trend_score=38.72 | 来源=Politico
-- 看点：Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma；Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor；Opinion: 3 former governors, 1 choice for Alaska。
-### 3. [Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor? - The New York Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2ZFeDZnWEdYUEhwcUtEM3FZa1pCTWFkS2ZTb3dBT3ZqRXFKZU93eXdoRDkyaExLOENSVVQzNWtXa282TmpMa05LLWRiV0VGeVhzWF9melBpRGp6b3NWUUxIVElHbE1TZ1lZYldZR25pN0hXaXlMTUF3bHEyZnVDQWh5UmE4d1NQWnE5M21Gdw?oc=5)
-- 热度：trend_score=34.81 | 来源=The New York Times
-- 看点：The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?；See more headlines & perspectives on Google News。
+### 1. [Pentagon plans for death of Trump’s record military budget - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJpSUlZTlAtV3RLNlJsZGdfZ2hzUTBiNXo4bTB2N0pmRjRxa3FSNktJTjhkX0hkenEwS1FzSzg0aFlLZkVzZDB4MnRRZWVxdkdyR0MxT2lyVUxQblFhdkJHWTU0SndRb0xCTDZCR05hb241NE5idlNaNjlaZDBSZWZGWnFDT1BpR0tHWA?oc=5)
+- 热度：trend_score=37.6 | 来源=Politico
+- 看点：Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pentagon plans for death of Trump’s record military budget；Inside the breakdown of Trump’s $1.5 trillion Pentagon plan；GOP defense hawks break with Trump ahead of the midterms。
+### 2. [Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmtqZDlERWUySHdKbDF3cmhHWmF1MVZtNkR1MXFfTndncHhCQVhSS1VUU2xNNnBoMTZRZ1RSenc0ZEl1V0UweGpUYW1WbzlrNnZydzI5bWFZLThqUnplTEY4T1BweTQ1TkpOTjlvZlFPQUZfMlVJRVRtbEw4U2RTRWt2YXVLTmhQS0JubmNZOUN2VE9wMmF5TWNGOUVQXzNEaXVpb0pvbmRlWVlVd2NOR2ZDWS14cG5XQzZxVnJDRXE2YnFKemfSAcsBQVVfeXFMTVFCR2RPZ3RTT1JCY3VHeXBQNHRmbjhuODFjOHM3MTFNaUlZV3Uycldoc0NzdkRMd0pMVXpaU1JTTGZHR29VX2FXTnFVeHJzUHJrdnJsUEFQX3BjWnNTWWd0UlFlbUF1VnNscGFWdk9FTWhxeVhOdHRnVDNSU1A5dU9qUkVpN0RwOXJOcDNFNHp6WkY5RmJMWlo5Z0F4SmlIWlgyWU1Db3RzSnJ4X0ZSS0NYRWo5RW1oajFPWEVKMWl4NmJfOVhTb0hsRzA?oc=5)
+- 热度：trend_score=33.91 | 来源=PBS
+- 看点：PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes；General ousted by Hegseth referred for possible criminal prosecution, officials say；Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says。
+### 3. [DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian](https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU41Yk1Pci1wSEdGb1IxNjJBWDVDbG1iMDZZbE9BWDZ1WVIzdGVwVjVBWE5fdDJhNGtCektFMTlKdDVHZFJWS0x0UVRSWGZwNC1UNU5JZVNPVjBYaHFINEJidkFvdmhTT0dDUjNlNlRhWWltN19NTzNOcXlxMHBObXdR?oc=5)
+- 热度：trend_score=33.7 | 来源=The Guardian
+- 看点：The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：DoJ reportedly issues subpoenas over same-name Alaska candidates；Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted；DOJ contends Democrats misled court on Alaska Senate race。
 
 ## 热榜 Top 10
-1. [obra/superpowers](https://github.com/obra/superpowers) | github-trending | trend_score=86.84
-2. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | github-trending | trend_score=85.72
-3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | github-trending | trend_score=84.36
-4. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | github-trending | trend_score=83.35
-5. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | github-trending | trend_score=81.45
-6. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | github-trending | trend_score=81.02
-7. [makecindy/cindy](https://github.com/makecindy/cindy) | github-trending | trend_score=79.09
-8. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | github-trending | trend_score=77.82
-9. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | github-trending | trend_score=77.48
-10. [macro-inc/macro](https://github.com/macro-inc/macro) | github-trending | trend_score=73.32
+1. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | github-trending | trend_score=87.54
+2. [obra/superpowers](https://github.com/obra/superpowers) | github-trending | trend_score=86.84
+3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | github-trending | trend_score=86.22
+4. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | github-trending | trend_score=85.41
+5. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | github-trending | trend_score=84.44
+6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | github-trending | trend_score=81.84
+7. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | github-trending | trend_score=81.74
+8. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | github-trending | trend_score=80.78
+9. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | github-trending | trend_score=80.28
+10. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | github-trending | trend_score=78.11
 
 ## 备注
 - Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1
 
 ## 收尾判断
-总体来看，今日趋势反映了AI社区正从单纯使用工具转向主动定义质量规范、深化垂直应用（如教育）以及构建集成化工作环境。开源项目的活跃度表明，通过协作解决AI在实际部署中的痛点——如代码质量、个性化学习与多智能体管理——已成为关键创新方向。建议开发者关注这些项目的后续迭代与实际应用案例，以评估其长期价值与技术成熟度。
+今日热点清晰地勾勒出一条主线：AI智能体正从单一任务执行者，向拥有专属工作空间、标准化操作流程和长期记忆的复杂系统演进。开源社区通过提供环境（如OpenBot）、规范（如Impeccable）和记忆层（如claude-mem），正在为下一代AI应用搭建关键基础设施。然而，这些工具的长期价值将取决于其生态繁荣度与实际场景的深度融合。在追逐热度的同时，开发者更应关注项目的架构可持续性、安全性与真实问题解决能力。明日，我们或将见证这些基础组件催生出更高效、更自主的AI协作范式。
