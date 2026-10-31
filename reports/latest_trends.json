@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:31:51.027549+00:00",
+  "generated_at": "2026-10-31T01:25:16.263396+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,27 +11,26 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "CopilotKit/OpenBot",
-        "url": "https://github.com/CopilotKit/OpenBot",
-        "author": "CopilotKit",
-        "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": "TypeScript",
-        "score": 247,
-        "comment_count": 1047,
-        "total_stars": 8172,
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "author": "mattpocock",
+        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "Shell",
+        "score": 876,
+        "comment_count": 25884,
+        "total_stars": 307497,
         "built_by": [
-          "davidmckayv",
-          "kevin9327",
+          "mattpocock",
           "claude",
-          "Ayush7614",
-          "guidovizoso"
+          "github-actions",
+          "gabimoncha"
         ],
-        "content_context": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\nLanguage: TypeScript\n\nStars today: 247\n\nTotal stars: 8172\n\nBuilt by: davidmckayv, kevin9327, claude, Ayush7614, guidovizoso",
-        "trend_score": 87.54,
+        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 876\n\nTotal stars: 307497\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+        "trend_score": 97.7,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.733,
+          "engagement": 1.0,
           "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -43,27 +42,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "author": "obra",
-        "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": "Shell",
-        "score": 1034,
-        "comment_count": 27447,
-        "total_stars": 308580,
+        "title": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "author": "HKUDS",
+        "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "Python",
+        "score": 2282,
+        "comment_count": 6344,
+        "total_stars": 51794,
         "built_by": [
-          "obra",
-          "arittr",
+          "pancacake",
           "claude",
-          "clkao",
-          "arimu1"
+          "Pinkllow",
+          "github-actions",
+          "evan188199-tech"
         ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1034\n\nTotal stars: 308580\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
-        "trend_score": 86.84,
+        "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 2282\n\nTotal stars: 51794\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
+        "trend_score": 86.42,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 1.0,
+          "engagement": 0.989,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -79,11 +78,11 @@
         "url": "https://github.com/pbakaus/impeccable",
         "author": "pbakaus",
         "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
         "language": "Rust",
-        "score": 2870,
-        "comment_count": 5625,
-        "total_stars": 95400,
+        "score": 2300,
+        "comment_count": 5717,
+        "total_stars": 97092,
         "built_by": [
           "pbakaus",
           "claude",
@@ -91,7 +90,7 @@
           "abdulwahabone",
           "cursoragent"
         ],
-        "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 2870\n\nTotal stars: 95400\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+        "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 2300\n\nTotal stars: 97092\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
         "trend_score": 86.22,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -107,79 +106,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "HKUDS/DeepTutor",
-        "url": "https://github.com/HKUDS/DeepTutor",
-        "author": "HKUDS",
-        "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": "Python",
-        "score": 1930,
-        "comment_count": 6166,
-        "total_stars": 50124,
-        "built_by": [
-          "pancacake",
-          "claude",
-          "Pinkllow",
-          "github-actions",
-          "evan188199-tech"
-        ],
-        "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 1930\n\nTotal stars: 50124\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
-        "trend_score": 85.41,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.962,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "nightly-labs/openbot",
-        "url": "https://github.com/nightly-labs/openbot",
-        "author": "nightly-labs",
-        "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": "TypeScript",
-        "score": 709,
-        "comment_count": 363,
-        "total_stars": 3901,
-        "built_by": [
-          "NorbertBodziony",
-          "claude",
-          "Sniezka1927",
-          "nrb-dev",
-          "aniruddhaadak80"
-        ],
-        "content_context": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\nLanguage: TypeScript\n\nStars today: 709\n\nTotal stars: 3901\n\nBuilt by: NorbertBodziony, claude, Sniezka1927, nrb-dev, aniruddhaadak80",
-        "trend_score": 84.44,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.746,
-          "topic_overlap": 0.333,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "thedotmack/claude-mem",
         "url": "https://github.com/thedotmack/claude-mem",
         "author": "thedotmack",
         "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
         "language": "TypeScript",
-        "score": 336,
-        "comment_count": 9245,
-        "total_stars": 104829,
+        "score": 1140,
+        "comment_count": 9356,
+        "total_stars": 106285,
         "built_by": [
           "thedotmack",
           "claude",
@@ -187,11 +122,11 @@
           "cursoragent",
           "rodboev"
         ],
-        "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 336\n\nTotal stars: 104829\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
-        "trend_score": 81.84,
+        "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1140\n\nTotal stars: 106285\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+        "trend_score": 85.44,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.868,
+          "engagement": 0.963,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -203,26 +138,59 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "togg53192-cmd/jailbreaks",
-        "url": "https://github.com/togg53192-cmd/jailbreaks",
-        "author": "togg53192-cmd",
-        "summary": "LIST OF ALL MY JAILBREAKS",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": null,
-        "score": 1594,
-        "comment_count": 1260,
-        "total_stars": 9084,
+        "title": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "author": "pingdotgg",
+        "summary": null,
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "TypeScript",
+        "score": 930,
+        "comment_count": 8659,
+        "total_stars": 32755,
         "built_by": [
-          "togg53192-cmd",
-          "raghavraut",
-          "metalim",
-          "reblox01"
+          "juliusmarminge",
+          "claude",
+          "t3dotgg",
+          "maria-rcks",
+          "codex"
         ],
-        "content_context": "LIST OF ALL MY JAILBREAKS\n\nLanguage: unknown\n\nStars today: 1594\n\nTotal stars: 9084\n\nBuilt by: togg53192-cmd, raghavraut, metalim, reblox01",
-        "trend_score": 81.74,
+        "content_context": "Language: TypeScript\n\nStars today: 930\n\nTotal stars: 32755\n\nBuilt by: juliusmarminge, claude, t3dotgg, maria-rcks, codex",
+        "trend_score": 84.76,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.866,
+          "engagement": 0.945,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "author": "Renhuai123",
+        "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "TypeScript",
+        "score": 1126,
+        "comment_count": 2238,
+        "total_stars": 11225,
+        "built_by": [
+          "Renhuai123",
+          "claude",
+          "dependabot",
+          "Renhuai",
+          "sakura168899-debug"
+        ],
+        "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 1126\n\nTotal stars: 11225\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+        "trend_score": 82.49,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.885,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -238,11 +206,11 @@
         "url": "https://github.com/milind-soni/OpenMausBot",
         "author": "milind-soni",
         "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
         "language": "TypeScript",
-        "score": 1199,
-        "comment_count": 1115,
-        "total_stars": 7500,
+        "score": 895,
+        "comment_count": 1202,
+        "total_stars": 8672,
         "built_by": [
           "milind-soni",
           "claude",
@@ -250,11 +218,11 @@
           "robinsonnblack",
           "bradhallett"
         ],
-        "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1199\n\nTotal stars: 7500\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
-        "trend_score": 80.78,
+        "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 895\n\nTotal stars: 8672\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+        "trend_score": 80.64,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.84,
+          "engagement": 0.837,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -266,56 +234,91 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "elayadesign/ai-design-skills",
-        "url": "https://github.com/elayadesign/ai-design-skills",
-        "author": "elayadesign",
-        "summary": null,
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": null,
-        "score": 1187,
-        "comment_count": 883,
-        "total_stars": 12186,
+        "title": "expo/skills",
+        "url": "https://github.com/expo/skills",
+        "author": "expo",
+        "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "Shell",
+        "score": 38,
+        "comment_count": 247,
+        "total_stars": 3905,
         "built_by": [
-          "elayadesign",
-          "claude"
-        ],
-        "content_context": "Language: unknown\n\nStars today: 1187\n\nTotal stars: 12186\n\nBuilt by: elayadesign, claude",
-        "trend_score": 80.28,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.827,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "JetBrains/thinkrail",
-        "url": "https://github.com/JetBrains/thinkrail",
-        "author": "JetBrains",
-        "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "published_at": "2026-10-30T01:31:45.150458+00:00",
-        "language": "TypeScript",
-        "score": 1117,
-        "comment_count": 323,
-        "total_stars": 6030,
-        "built_by": [
-          "rsolmano",
-          "danyaberezun",
-          "OLavrik",
+          "EvanBacon",
+          "Kudo",
+          "gwdp",
           "claude",
-          "SBOne-Kenobi"
+          "ide"
         ],
-        "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 1117\n\nTotal stars: 6030\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
-        "trend_score": 78.11,
+        "content_context": "A collection of AI agent skills for working with Expo projects and Expo Application Services\n\nLanguage: Shell\n\nStars today: 38\n\nTotal stars: 3905\n\nBuilt by: EvanBacon, Kudo, gwdp, claude, ide",
+        "trend_score": 80.29,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.77,
+          "engagement": 0.542,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "author": "CopilotKit",
+        "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "TypeScript",
+        "score": 706,
+        "comment_count": 1110,
+        "total_stars": 8806,
+        "built_by": [
+          "davidmckayv",
+          "kevin9327",
+          "claude",
+          "Ayush7614",
+          "guidovizoso"
+        ],
+        "content_context": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\nLanguage: TypeScript\n\nStars today: 706\n\nTotal stars: 8806\n\nBuilt by: davidmckayv, kevin9327, claude, Ayush7614, guidovizoso",
+        "trend_score": 79.87,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.817,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "macro-inc/macro",
+        "url": "https://github.com/macro-inc/macro",
+        "author": "macro-inc",
+        "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "published_at": "2026-10-31T01:25:10.479573+00:00",
+        "language": "Rust",
+        "score": 57,
+        "comment_count": 538,
+        "total_stars": 5881,
+        "built_by": [
+          "gbirman",
+          "whutchinson98",
+          "synoet",
+          "sedson",
+          "peterchinman"
+        ],
+        "content_context": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\nLanguage: Rust\n\nStars today: 57\n\nTotal stars: 5881\n\nBuilt by: gbirman, whutchinson98, synoet, sedson, peterchinman",
+        "trend_score": 72.03,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.61,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -330,26 +333,110 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "95%-ile isn't that good",
-        "url": "https://danluu.com/p95-skill/",
-        "author": "blobcode",
+        "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+        "url": "https://news.ycombinator.com/item?id=50312174",
+        "author": "stillatit",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-10-31T00:58:26+00:00",
+        "summary": "Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>",
+        "comment_highlights": [
+          "Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>"
+        ],
+        "linked_context": {},
+        "content_context": "One year after I posted this last time[0], they're doing it again. My traffic from X has shot way up from people who only ever viewed a full tweet, without pressing the link inside.<p>[0] https://news.ycombinator.com/item?id=45807775\n\nHN comment: Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>",
+        "trend_score": 53.15,
+        "trend_breakdown": {
+          "freshness": 0.981,
+          "engagement": 0.111,
+          "topic_overlap": 0.1,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Google's $500B bloodbath reflects the danger it faces from AI",
+        "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist",
+        "author": "axiomdata316",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-10-31T01:19:32+00:00",
+        "summary": "link not working?",
+        "comment_highlights": [
+          "link not working?"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: link not working?",
+        "trend_score": 51.72,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.111,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Lifestreams' summarize operation, 30 years later",
+        "url": "https://gist.github.com/yibie/d21d1ad945a11143731aea3c7ef5e7d6",
+        "author": "oliverchan2024",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-30T01:24:52+00:00",
-        "summary": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things.\n\nNote that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i...\n\nThis post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe...",
+        "published_at": "2026-10-31T00:59:25+00:00",
+        "summary": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://danluu.com/p95-skill/",
-          "page_title": "95%-ile isn't that good",
-          "page_description": null,
-          "page_excerpt": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things.\n\nNote that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i...\n\nThis post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe..."
+          "resolved_url": "https://gist.github.com/yibie/d21d1ad945a11143731aea3c7ef5e7d6",
+          "page_title": "The Last Operation: What Lifestreams' summarize Was Waiting For",
+          "page_description": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md",
+          "page_excerpt": "In 1996, Eric Freeman and David Gelernter published Lifestreams: A Storage Model for Personal Data . The paper proposed replacing named files, directories, and the desktop with a single time-ordered stream of documents and five operations: new , clone , transfer , find , and summarize .\n\nI found the paper while reading about Jef Raskin's Canon Cat. The two ideas are very alike, and neither could be fully built at the time.\n\nMost of the paper is ordinary now. Timelines are everywhere, saved searches work like its substreams, and nobody is surprised that one document can appear in several collections."
         },
-        "content_context": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things. Note that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i... This post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe...",
-        "trend_score": 53.75,
+        "content_context": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md\n\nIn 1996, Eric Freeman and David Gelernter published Lifestreams: A Storage Model for Personal Data . The paper proposed replacing named files, directories, and the desktop with a single time-ordered stream of documents and five operations: new , clone , transfer , find , and summarize . I found the paper while reading about Jef Raskin's Canon Cat. The two ideas are very alike, and neither could be fully built at the time. Most of the paper is ordinary now. Timelines are everywhere, saved searches work like its substreams, and nobody is surprised that one document can appear in several collections.",
+        "trend_score": 48.66,
         "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.046,
-          "topic_overlap": 0.667,
+          "freshness": 0.982,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Do At-Proto Users Know This Is Public?",
+        "url": "https://melaniekat.com/blog/public-on-pds/",
+        "author": "rowbin",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-10-31T01:06:23+00:00",
+        "summary": "the personal homepage of melanie kat",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://melaniekat.com/blog/public-on-pds/",
+          "page_title": "Do At-Proto Users Know This Is Public? â¢ melanie kat",
+          "page_description": "the personal homepage of melanie kat",
+          "page_excerpt": "Iâve been exploring the AT Protocol âatmosphereâ that Bluesky runs on to get a better understanding of what people are doing with it. What Iâve found is a bunch of private data Iâm not sure people know is public. Not only public, itâs easy to find.\n\nTo start my exploration I used two websites that catalog AT Protocol apps: atstore.fyi and atmosphereaccount.com . Iâm a long time RSS user, so I got curious about feed readers first. I found this one called Skyreader and I noticed that their page on atstore.fyi contained reviews and mentions of the app by people who have used it. Weâll come back to this in a minute.\n\nSomething to know about Bluesky is that you can self-host what they call a personal data server or âPDS.â Itâs where your data on Bluesky and other apps are stored, and itâs mostly public. Using a website like PDSls.dev you can explore it yourself. So if you wanted to see my data itâs here . I canât control how or what you do with it, it just exi..."
+        },
+        "content_context": "the personal homepage of melanie kat\n\nIâve been exploring the AT Protocol âatmosphereâ that Bluesky runs on to get a better understanding of what people are doing with it. What Iâve found is a bunch of private data Iâm not sure people know is public. Not only public, itâs easy to find. To start my exploration I used two websites that catalog AT Protocol apps: atstore.fyi and atmosphereaccount.com . Iâm a long time RSS user, so I got curious about feed readers first. I found this one called Skyreader and I noticed that their page on atstore.fyi contained reviews and mentions of the app by people who have used it. Weâll come back to this in a minute. Something to know about Bluesky is that you can self-host what they call a personal data server or âPDS.â Itâs where your data on Bluesky and other apps are stored, and itâs mostly public. Using a website like PDSls.dev you can explore it yourself. So if you wanted to see my data itâs here . I canât control how or what you do with it, it just exi...",
+        "trend_score": 47.4,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.093,
+          "topic_overlap": 0.25,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -358,263 +445,167 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-        "url": "https://github.com/zacharybenson/arken-protocol",
-        "author": "zachbenson817",
+        "title": "Mark Carney says Canada is set to become associate member of EU",
+        "url": "https://www.ctvnews.ca/ottawa/video/2026/10/30/mark-carney-says-canada-is-set-to-become-associate-member-of-eu/",
+        "author": "consumer451",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-10-30T01:22:38+00:00",
-        "summary": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol",
+        "published_at": "2026-10-31T01:24:30+00:00",
+        "summary": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.ctvnews.ca/ottawa/video/2026/10/30/mark-carney-says-canada-is-set-to-become-associate-member-of-eu/",
+          "page_title": "Mark Carney says Canada is set to become associate member of EU",
+          "page_description": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+          "page_excerpt": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports."
+        },
+        "content_context": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+        "trend_score": 46.44,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.047,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Turn any GitHub account into a living city",
+        "url": "https://caldera.social/gh",
+        "author": "mjonesone",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-10-31T01:05:29+00:00",
+        "summary": "Type a GitHub username and walk their public repos as a living city. Caldera, the social network for GitHub and Obsidian.",
+        "comment_highlights": [
+          "Ok, now I have to admit this is super cute!"
+        ],
+        "linked_context": {
+          "resolved_url": "https://caldera.social/gh",
+          "page_title": "See any GitHub as a city",
+          "page_description": "Type a GitHub username and walk their public repos as a living city. Caldera, the social network for GitHub and Obsidian.",
+          "page_excerpt": "Type a GitHub username. Every public repo becomes a building: taller means more commits this year, lit windows mean work this week. Built from public data only.\n\nTry: @torvalds · @sindresorhus · @karpathy · @simonw · @antirez · @tj\n\nOr a company: @vercel · @supabase · @huggingface · @anthropics"
+        },
+        "content_context": "Type a GitHub username and walk their public repos as a living city. Caldera, the social network for GitHub and Obsidian.\n\nType a GitHub username. Every public repo becomes a building: taller means more commits this year, lit windows mean work this week. Built from public data only. Try: @torvalds · @sindresorhus · @karpathy · @simonw · @antirez · @tj Or a company: @vercel · @supabase · @huggingface · @anthropics\n\nHN comment: Ok, now I have to admit this is super cute!",
+        "trend_score": 45.15,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.084,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Stephen Wolfram's new philosophy book: What Ultimately Is There?",
+        "url": "https://www.amazon.com/dp/1579551017",
+        "author": "alok-g",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-31T01:21:35+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.amazon.com/dp/1579551017",
+          "content_type": ""
+        },
+        "content_context": null,
+        "trend_score": 44.43,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.047,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Importance of the Word \"Cultivation\"",
+        "url": "https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/",
+        "author": "soundworlds",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-31T01:13:25+00:00",
+        "summary": "In a world economically hyped to set moonshots, move fast and break things, engineer abundance, etc etc – it dawned on me this morning, with force, how different approaches in technology would be if groups used the word “cultivation” instead. Unlike the techno-dogma of “building”, cultivation tends to respect the health of the space around […]",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/",
+          "page_title": "The importance of the word \"Cultivation\" - JOHN OESTMANN MUSIC R+D",
+          "page_description": "In a world economically hyped to set moonshots, move fast and break things, engineer abundance, etc etc – it dawned on me this morning, with force, how different approaches in technology would be if groups used the word “cultivation” instead. Unlike the techno-dogma of “building”, cultivation tends to respect the health of the space around […]",
+          "page_excerpt": "In a world economically hyped to set moonshots , move fast and break things, engineer abundance , etc etc – it dawned on me this morning, with force, how different approaches in technology would be if groups used the word “cultivation” instead.\n\nUnlike the techno-dogma of “building”, cultivation tends to respect the health of the space around what you are trying to develop as well. It respects the people, the communities, the culture, and the fruits that the culture and practices lead to. Cultivation also respects iterative development over a longer period of time, where synchronicity and creative insights actually have the time to occ...\n\nAs I progress my work towards my missions and visions, I am going to try framing my efforts as cultivation from now on, rather than building. I am looking forward to seeing how that affects the approaches and the fruits that come out the other side."
+        },
+        "content_context": "In a world economically hyped to set moonshots, move fast and break things, engineer abundance, etc etc – it dawned on me this morning, with force, how different approaches in technology would be if groups used the word “cultivation” instead. Unlike the techno-dogma of “building”, cultivation tends to respect the health of the space around […]\n\nIn a world economically hyped to set moonshots , move fast and break things, engineer abundance , etc etc – it dawned on me this morning, with force, how different approaches in technology would be if groups used the word “cultivation” instead. Unlike the techno-dogma of “building”, cultivation tends to respect the health of the space around what you are trying to develop as well. It respects the people, the communities, the culture, and the fruits that the culture and practices lead to. Cultivation also respects iterative development over a longer period of time, where synchronicity and creative insights actually have the time to occ... As I progress my work towards my missions and visions, I am going to try framing my efforts as cultivation from now on, rather than building. I am looking forward to seeing how that affects the approaches and the fruits that come out the other side.",
+        "trend_score": 41.63,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "PFsense at 20. Plus and CE unified. Offline upgrades free.",
+        "url": "https://www.netgate.com/blog/pfsense-at-20",
+        "author": "djfergus",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-31T01:07:38+00:00",
+        "summary": "Celebrate 20 years of pfSense® software. Release 26.10 unites CE and Plus into one edition. See what's coming.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.netgate.com/blog/pfsense-at-20",
+          "page_title": "pfSense at 20",
+          "page_description": "Celebrate 20 years of pfSense® software. Release 26.10 unites CE and Plus into one edition. See what's coming.",
+          "page_excerpt": "Twenty years ago this month, pfSense® software version 1.0 shipped. It started as a small fork of m0n0wall, built by a handful of people who wanted a better firewall than anything they could buy.\n\nToday pfSense software protects and connects hundreds of thousands of networks in: homes, schools, hospitals, ISPs, public and private Cloud and in some of the largest companies in the world. Netgate® has been the largest contributor to the pfSense project over its entire lifetime, but none of this happened because of us alone. It happened because of you: your interest, your support, and your h...\n\nSo for the twentieth anniversary, we’re looking ahead to where pfSense software needs to go and giving something back to everyone who has made it part of their network security stack. This is the first of several things we’ll be celebrating and announcing through 2027."
+        },
+        "content_context": "Celebrate 20 years of pfSense® software. Release 26.10 unites CE and Plus into one edition. See what's coming.\n\nTwenty years ago this month, pfSense® software version 1.0 shipped. It started as a small fork of m0n0wall, built by a handful of people who wanted a better firewall than anything they could buy. Today pfSense software protects and connects hundreds of thousands of networks in: homes, schools, hospitals, ISPs, public and private Cloud and in some of the largest companies in the world. Netgate® has been the largest contributor to the pfSense project over its entire lifetime, but none of this happened because of us alone. It happened because of you: your interest, your support, and your h... So for the twentieth anniversary, we’re looking ahead to where pfSense software needs to go and giving something back to everyone who has made it part of their network security stack. This is the first of several things we’ll be celebrating and announcing through 2027.",
+        "trend_score": 41.47,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Cubo Search Engine – Agentic Search Engine Built for the Agentic Era",
+        "url": "https://www.mycubo.site/",
+        "author": "Albert78",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-10-31T01:03:21+00:00",
+        "summary": "Cubo Intelligent Browser: AI-powered, privacy-first browser with next-generation index, agentic infrastructure, and intelligent search. Ads per query, never tracking.",
         "comment_highlights": [
           "[flagged]"
         ],
         "linked_context": {
-          "resolved_url": "https://github.com/zacharybenson/arken-protocol",
-          "page_title": "GitHub - zacharybenson/arken-protocol: Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach.",
-          "page_description": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol",
-          "page_excerpt": "Passwordless authentication for web servers. No passwords. No sessions. Nothing to breach.\n\nEvery auth system today asks your server to hold a secret — a password hash, a session token, an API key. That secret is a liability. It gets breached. It gets phished. It gets rotated on a schedule that nobody follows.\n\nArken Auth flips the model: the user holds the secret, the server holds nothing."
+          "resolved_url": "https://www.mycubo.site/",
+          "page_title": "Cubo Intelligent Browser — Next Generation Browser by Bravo 01 Labs & Dynamics",
+          "page_description": "Cubo Intelligent Browser: AI-powered, privacy-first browser with next-generation index, agentic infrastructure, and intelligent search. Ads per query, never tracking.",
+          "page_excerpt": "Cubo is the next Generation Search Engine with MCP integration — AI-native, zero tracking, Protects your Information, Made for the AI Agent Era, MCP. Built by Bravo 01 Labs & Dynamics.\n\nUnder the hood: a new foundation for how browsers discover, fetch, and present information.\n\nCubo’s index is rebuilt from first principles for intelligent, agentic retrieval. It powers dynamic fetching instead of static ranking — delivering answers that evolve with the query and the live web."
         },
-        "content_context": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol\n\nPasswordless authentication for web servers. No passwords. No sessions. Nothing to breach. Every auth system today asks your server to hold a secret — a password hash, a session token, an API key. That secret is a liability. It gets breached. It gets phished. It gets rotated on a schedule that nobody follows. Arken Auth flips the model: the user holds the secret, the server holds nothing.\n\nHN comment: [flagged]",
-        "trend_score": 49.19,
+        "content_context": "Cubo Intelligent Browser: AI-powered, privacy-first browser with next-generation index, agentic infrastructure, and intelligent search. Ads per query, never tracking.\n\nCubo is the next Generation Search Engine with MCP integration — AI-native, zero tracking, Protects your Information, Made for the AI Agent Era, MCP. Built by Bravo 01 Labs & Dynamics. Under the hood: a new foundation for how browsers discover, fetch, and present information. Cubo’s index is rebuilt from first principles for intelligent, agentic retrieval. It powers dynamic fetching instead of static ranking — delivering answers that evolve with the query and the live web.\n\nHN comment: [flagged]",
+        "trend_score": 41.35,
         "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
-        "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-        "author": "yomismoaqui",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:15:43+00:00",
-        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-          "page_title": "- YouTube",
-          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "page_excerpt": null
-        },
-        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "trend_score": 48.96,
-        "trend_breakdown": {
-          "freshness": 0.989,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "A Good Day for Cryptography",
-        "url": "https://letsencrypt.org/2026/10/29/good-day-cryptography",
-        "author": "gpi",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-10-30T01:21:49+00:00",
-        "summary": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...",
-        "comment_highlights": [
-          "Good news for once, feels nice to see not everything is going downhill!"
-        ],
-        "linked_context": {
-          "resolved_url": "https://letsencrypt.org/2026/10/29/good-day-cryptography",
-          "page_title": "A Good Day for Cryptography",
-          "page_description": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...",
-          "page_excerpt": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered . The previously lost method used to create the widely-used NIST elliptic curves has been found.\n\nIn 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to fund the bounty prize. Such a generous and thoughtful idea. And you guessed it! The solvers, a team of researchers at Anthropic, took Filippo up on it and donated the bounty to...\n\nWhat was the bounty? What was the answer? It’s a long story. TL;DR: The NIST elliptic curves, used in encryption across the Internet, were built from “seeds” that two NSA engineers generated in the late 1990s. Years later, nobody could remember exactly how they’d made them. Humans do what humans do, and without an a..."
-        },
-        "content_context": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...\n\nOctober 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered . The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to fund the bounty prize. Such a generous and thoughtful idea. And you guessed it! The solvers, a team of researchers at Anthropic, took Filippo up on it and donated the bounty to... What was the bounty? What was the answer? It’s a long story. TL;DR: The NIST elliptic curves, used in encryption across the Internet, were built from “seeds” that two NSA engineers generated in the late 1990s. Years later, nobody could remember exactly how they’d made them. Humans do what humans do, and without an a...\n\nHN comment: Good news for once, feels nice to see not everything is going downhill!",
-        "trend_score": 48.82,
-        "trend_breakdown": {
-          "freshness": 0.993,
-          "engagement": 0.083,
-          "topic_overlap": 0.333,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "1 in 10 members of Congress traded stocks in companies their committees oversee",
-        "url": "https://www.kadoa.com/congress/insights/committee-trades",
-        "author": "diomedes",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:11:10+00:00",
-        "summary": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.kadoa.com/congress/insights/committee-trades",
-          "page_title": "1 in 10 Members of Congress Traded Stocks Their Committees Oversee | Congress Trading Monitor",
-          "page_description": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.",
-          "page_excerpt": "Traded 425 companies, 61 linked to a committee seat ( 175 trades)\n\nEducation and Workforce: Health, Employment, Labor, and Pensions subcommittee"
-        },
-        "content_context": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.\n\nTraded 425 companies, 61 linked to a committee seat ( 175 trades) Education and Workforce: Health, Employment, Labor, and Pensions subcommittee",
-        "trend_score": 48.12,
-        "trend_breakdown": {
-          "freshness": 0.986,
-          "engagement": 0.073,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-        "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-        "author": "paulpauper",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:17:46+00:00",
-        "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-          "page_title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets - Decrypt",
-          "page_description": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-          "page_excerpt": "The attacker behind the wallets draining Binance is using decentralized exchanges such as Uniswap and Aave as exits, swapping stablecoins that issuers can freeze for Ethereum that nobody can, according to Etherscan records for 10 wallets, eight of them labeled as exploiters.\n\nEarlier today, wallets linked to the world’s largest crypto exchange were drained of at least $5.5 billion , with the total tally still climbing. The company said it was investigating the security incident but did not confirm user funds were affected, though security experts widely believe the exchange was indeed hacked. It stands to be the largest hack in the crypto industry's 18-year history.\n\nStablecoin issuers Tether and Circle moved quickly to blacklist the suspected attacker’s addresses in order to freeze a portion of the funds and make them inaccessible. As centralized issuers, they each have the ability to blacklist addresses so their tokens cannot move, and more than $2 billion of those two tokens have..."
-        },
-        "content_context": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.\n\nThe attacker behind the wallets draining Binance is using decentralized exchanges such as Uniswap and Aave as exits, swapping stablecoins that issuers can freeze for Ethereum that nobody can, according to Etherscan records for 10 wallets, eight of them labeled as exploiters. Earlier today, wallets linked to the world’s largest crypto exchange were drained of at least $5.5 billion , with the total tally still climbing. The company said it was investigating the security incident but did not confirm user funds were affected, though security experts widely believe the exchange was indeed hacked. It stands to be the largest hack in the crypto industry's 18-year history. Stablecoin issuers Tether and Circle moved quickly to blacklist the suspected attacker’s addresses in order to freeze a portion of the funds and make them inaccessible. As centralized issuers, they each have the ability to blacklist addresses so their tokens cannot move, and more than $2 billion of those two tokens have...",
-        "trend_score": 47.36,
-        "trend_breakdown": {
-          "freshness": 0.99,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "34% of U.S. women under age 50 have iron deficiency under new guidelines",
-        "url": "https://www.empirical.health/blog/ferritin-thresholds-iron-deficiency/",
-        "author": "brandonb",
-        "score": 2,
-        "comment_count": 1,
-        "published_at": "2026-10-30T01:13:46+00:00",
-        "summary": "A higher ferritin cutoff puts estimated prevalence at 34% among women ages 19–49, up from 14% at the lower cutoff.",
-        "comment_highlights": [
-          "IMO, one of the most interesting things about the new hematology guidelines is that they're likely to get people treatment for symptoms like fatigue or low energy. A lot of doctors consider these \"vague\" complaints that are hard to diagnose. For some fraction of those cases, low ferritin or iron..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://www.empirical.health/blog/ferritin-thresholds-iron-deficiency/",
-          "page_title": "34% of U.S. women under age 50 have iron deficiency under new guidelines",
-          "page_description": "A higher ferritin cutoff puts estimated prevalence at 34% among women ages 19–49, up from 14% at the lower cutoff.",
-          "page_excerpt": "Fatigue and low energy may seem like vague symptoms, but one underlying physical cause is low ferritin. New guidelines from the American Society of Hematology just changed the thresholds for determining iron deficiency based on ferritin, iron, transferrin, red cells, and other biomarkers.\n\nUnder these new guidelines, 34% of women under the age of 50 have iron deficiency. (For men, it’s 3%.)\n\nLet me explain what changed, why. We’ll start off with a more basic question: what is ferritin and how does it relate to iron and red blood cells?"
-        },
-        "content_context": "A higher ferritin cutoff puts estimated prevalence at 34% among women ages 19–49, up from 14% at the lower cutoff.\n\nFatigue and low energy may seem like vague symptoms, but one underlying physical cause is low ferritin. New guidelines from the American Society of Hematology just changed the thresholds for determining iron deficiency based on ferritin, iron, transferrin, red cells, and other biomarkers. Under these new guidelines, 34% of women under the age of 50 have iron deficiency. (For men, it’s 3%.) Let me explain what changed, why. We’ll start off with a more basic question: what is ferritin and how does it relate to iron and red blood cells?\n\nHN comment: IMO, one of the most interesting things about the new hematology guidelines is that they're likely to get people treatment for symptoms like fatigue or low energy. A lot of doctors consider these \"vague\" complaints that are hard to diagnose. For some fraction of those cases, low ferritin or iron...",
-        "trend_score": 45.69,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.109,
-          "topic_overlap": 0.125,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Tracks along the longest drive on another world",
-        "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-        "author": "shcallaway",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:19:02+00:00",
-        "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-          "page_title": "Tracks Along the Longest Drive on Another World - NASA Science",
-          "page_description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory",
-          "page_excerpt": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory\n\nSince the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial body. Its engineering twin here on Earth even received a plaque from Guinness World Records celebrating the achievement.\n\nTwo months ago, on Sol 1947, the odometer sat about 200 meters away from the milestone, a distance easily achievable with a single drive using Autonomous Navigation (AutoNav). However, the rover found itself in a very scientifically interesting area and spent time executing short drives to perform rock abrasions and proximity science on ancient rock outcrops. When Perseverance was finally ready..."
-        },
-        "content_context": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory\n\nWritten by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial body. Its engineering twin here on Earth even received a plaque from Guinness World Records celebrating the achievement. Two months ago, on Sol 1947, the odometer sat about 200 meters away from the milestone, a distance easily achievable with a single drive using Autonomous Navigation (AutoNav). However, the rover found itself in a very scientifically interesting area and spent time executing short drives to perform rock abrasions and proximity science on ancient rock outcrops. When Perseverance was finally ready...",
-        "trend_score": 42.43,
-        "trend_breakdown": {
-          "freshness": 0.991,
-          "engagement": 0.073,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Plane Is Somewhere Else",
-        "url": "https://www.wheelsup.io/blog/your-plane-is-somewhere-else.html",
-        "author": "Southflow",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:30:24+00:00",
-        "summary": "How I predict flight delays by tracking the inbound plane's tail number, and what broke along the way: 0,0 positions, flickering planes and Android battery optimisation.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.wheelsup.io/blog/your-plane-is-somewhere-else.html",
-          "page_title": "Your plane is somewhere else right now | Wheels Up",
-          "page_description": "How I predict flight delays by tracking the inbound plane's tail number, and what broke along the way: 0,0 positions, flickering planes and Android battery optimisation.",
-          "page_excerpt": "I am 19 and I fly across 3 continents for 4 months in 1 week. Around 2 months ago, I tried to find a flight tracker to help me with this, however nothing was quite what I needed. Most of them were very pretty but lacked function, or vice versa.\n\nIf your flight is delayed, there's a good chance the delay started somewhere else. The plane flying your 6pm flight is going to be doing a lot of different flights in the morning. If there is any delay to any of its legs, there is a high chance you will be delayed.\n\nIn 2025, late-arriving aircraft caused about 40% of US delay minutes, more than any other cause ( US Bureau of Transportation Statistics )."
-        },
-        "content_context": "How I predict flight delays by tracking the inbound plane's tail number, and what broke along the way: 0,0 positions, flickering planes and Android battery optimisation.\n\nI am 19 and I fly across 3 continents for 4 months in 1 week. Around 2 months ago, I tried to find a flight tracker to help me with this, however nothing was quite what I needed. Most of them were very pretty but lacked function, or vice versa. If your flight is delayed, there's a good chance the delay started somewhere else. The plane flying your 6pm flight is going to be doing a lot of different flights in the morning. If there is any delay to any of its legs, there is a high chance you will be delayed. In 2025, late-arriving aircraft caused about 40% of US delay minutes, more than any other cause ( US Bureau of Transportation Statistics ).",
-        "trend_score": 41.9,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Y-STR Profile Links Ted Bundy to 1974 Murder of Utah Teen",
-        "url": "https://www.forensicmag.com/3594-All-News/629041-Y-STR-Profile-Links-Ted-Bundy-to-1974-Murder-of-Utah-Teen/",
-        "author": "WaitWaitWha",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-10-30T01:25:10+00:00",
-        "summary": "Fifty-two years after the body of 17-year-old Melissa Ann Smith was discovered by hunters in Utah, DNA evidence has now confirmed she was a victim of prolific serial killer Ted Bundy.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.forensicmag.com/3594-All-News/629041-Y-STR-Profile-Links-Ted-Bundy-to-1974-Murder-of-Utah-Teen/",
-          "page_title": "Y-STR Profile Links Ted Bundy to 1974 Murder of Utah Teen",
-          "page_description": "Fifty-two years after the body of 17-year-old Melissa Ann Smith was discovered by hunters in Utah, DNA evidence has now confirmed she was a victim of prolific serial killer Ted Bundy.",
-          "page_excerpt": "Melissa Smith. Credit: Utah Bureau of Criminal Identification\n\nFifty-two years after the body of 17-year-old Melissa Ann Smith was discovered by hunters in Utah, DNA evidence has now confirmed she was a victim of prolific serial killer Ted Bundy.\n\nThis is the second time this year that investigators have tied Bundy to a murdered Utah teenager—the other being Lisa Ann Aime, who was also murdered in 1974 at 17 years old, just days after Smith."
-        },
-        "content_context": "Fifty-two years after the body of 17-year-old Melissa Ann Smith was discovered by hunters in Utah, DNA evidence has now confirmed she was a victim of prolific serial killer Ted Bundy.\n\nMelissa Smith. Credit: Utah Bureau of Criminal Identification Fifty-two years after the body of 17-year-old Melissa Ann Smith was discovered by hunters in Utah, DNA evidence has now confirmed she was a victim of prolific serial killer Ted Bundy. This is the second time this year that investigators have tied Bundy to a murdered Utah teenager—the other being Lisa Ann Aime, who was also murdered in 1974 at 17 years old, just days after Smith.",
-        "trend_score": 41.76,
-        "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.046,
+          "freshness": 0.985,
+          "engagement": 0.047,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -624,122 +615,102 @@
     ],
     "news": [
       {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15elg4SmJRb1ZtQVdYbGlOVjFveW14Rm5sSXZNa2VSVHRBcUxvLTVIa2xaNVlZSXdMYlppYnNpMjF0SDZjc0FaUjQ3d09qZ3liVWU4UVRpVVM0UmtvWHplbGpJaUtqUUlrbEs5bFBlTlZfQnJuekE?oc=5",
+        "published_at": "2026-10-31T01:15:50+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots；DOJ subpoenas California election officials as part of ballooning voter fraud probes；Appeals court again rejects DOJ’s bid to segregate over 20,000 alleged noncitizen ballots in California。",
+        "related_headlines": [
+          "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots",
+          "DOJ subpoenas California election officials as part of ballooning voter fraud probes",
+          "Appeals court again rejects DOJ’s bid to segregate over 20,000 alleged noncitizen ballots in California",
+          "Trump DOJ loses last-minute California ballot bid",
+          "Shasta elections chief says he doesn’t plan to set aside ballots of individuals flagged by Trump administration"
+        ],
+        "content_context": "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots；DOJ subpoenas California election officials as part of ballooning voter fraud probes；Appeals court again rejects DOJ’s bid to segregate over 20,000 alleged noncitizen ballots in California。\n\nRelated coverage: 2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots\n\nRelated coverage: DOJ subpoenas California election officials as part of ballooning voter fraud probes\n\nRelated coverage: Appeals court again rejects DOJ’s bid to segregate over 20,000 alleged noncitizen ballots in California\n\nRelated coverage: Trump DOJ loses last-minute California ballot bid\n\nRelated coverage: Shasta elections chief says he doesn’t plan to set aside ballots of individuals flagged by Trump administration",
+        "trend_score": 46.43,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.0,
+          "topic_overlap": 0.667,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
         "source": "Politico",
         "category": "news",
-        "title": "Pentagon plans for death of Trump’s record military budget - Politico",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJpSUlZTlAtV3RLNlJsZGdfZ2hzUTBiNXo4bTB2N0pmRjRxa3FSNktJTjhkX0hkenEwS1FzSzg0aFlLZkVzZDB4MnRRZWVxdkdyR0MxT2lyVUxQblFhdkJHWTU0SndRb0xCTDZCR05hb241NE5idlNaNjlaZDBSZWZGWnFDT1BpR0tHWA?oc=5",
-        "published_at": "2026-10-29T22:36:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pentagon plans for death of Trump’s record military budget；Inside the breakdown of Trump’s $1.5 trillion Pentagon plan；GOP defense hawks break with Trump ahead of the midterms。",
+        "title": "Carney says he can wait out Trump for trade deal - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS01LMGQ3UEdRNU5rRUZmb1pzWXBfSlJ0RGFHM1NEVG95cThXMzVhSG9UOXZ4UnZpLTNFSVNfN01ZdGFEMW5vMEFaajhqRW4tRmEyRVNxU0RkZ3dwbTFuQ3Nha19lRm00TkhQejduU29DUDMwQ0NMc2pRRVF2amFHSkF0QkJYNE84T3hzNmR4NXR3Zw?oc=5",
+        "published_at": "2026-10-30T23:35:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Carney says he can wait out Trump for trade deal；Trump says Canada has been treating the US very nicely；After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap。",
         "related_headlines": [
-          "Pentagon plans for death of Trump’s record military budget",
-          "Inside the breakdown of Trump’s $1.5 trillion Pentagon plan",
-          "GOP defense hawks break with Trump ahead of the midterms",
-          "FY 2027 Defense Funding: Potential Post-Midterm Outcomes",
-          "Report: Pentagon drafting $1.1 trillion defense budget"
+          "Carney says he can wait out Trump for trade deal",
+          "Trump says Canada has been treating the US very nicely",
+          "After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap",
+          "US, Canada ‘very close’ to tariff deal: WH",
+          "Canada reports limited progress in trade talks with US"
         ],
-        "content_context": "Pentagon plans for death of Trump’s record military budget - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pentagon plans for death of Trump’s record military budget；Inside the breakdown of Trump’s $1.5 trillion Pentagon plan；GOP defense hawks break with Trump ahead of the midterms。\n\nRelated coverage: Pentagon plans for death of Trump’s record military budget\n\nRelated coverage: Inside the breakdown of Trump’s $1.5 trillion Pentagon plan\n\nRelated coverage: GOP defense hawks break with Trump ahead of the midterms\n\nRelated coverage: FY 2027 Defense Funding: Potential Post-Midterm Outcomes\n\nRelated coverage: Report: Pentagon drafting $1.1 trillion defense budget",
-        "trend_score": 37.6,
+        "content_context": "Carney says he can wait out Trump for trade deal - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Carney says he can wait out Trump for trade deal；Trump says Canada has been treating the US very nicely；After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap。\n\nRelated coverage: Carney says he can wait out Trump for trade deal\n\nRelated coverage: Trump says Canada has been treating the US very nicely\n\nRelated coverage: After Canada fires back with retaliatory tariffs, Trump and Carney move to ease trade war in 2 sectors as South Africa braces for U.S. duty slap\n\nRelated coverage: US, Canada ‘very close’ to tariff deal: WH\n\nRelated coverage: Canada reports limited progress in trade talks with US",
+        "trend_score": 43.98,
         "trend_breakdown": {
-          "freshness": 0.878,
+          "freshness": 0.923,
           "engagement": 0.0,
-          "topic_overlap": 0.375,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWpFZ3BiM2p3R2g2b29TZTNJSzdYUUNrbDVRU1VEeHljX2FsX1dHb0hyN0RTanlNU3R4NURaWk9BeVlMSW1kelY2YmtpdDJ6UXY4TGdWeXVaZ2ZmLVN3VVczX08yV005VUVPc1lRNkJWLWkwa1hMaTFUT2xLX0QzU2ZsbnhCRGdqZ0MyXzV3?oc=5",
+        "published_at": "2026-10-31T00:11:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens；President Donald Trump to hold midterm rally in Daytona Beach | ﻿Live blog；Elections 2026 live updates: Trump campaigns in Florida ahead of weekend rallies in final midterm blitz。",
+        "related_headlines": [
+          "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens",
+          "President Donald Trump to hold midterm rally in Daytona Beach | ﻿Live blog",
+          "Elections 2026 live updates: Trump campaigns in Florida ahead of weekend rallies in final midterm blitz",
+          "Midterm Elections Live Updates: Trump Set to Rally in Florida Tonight",
+          "Trump rally in Daytona Beach, Florida draws supporters to Ocean Center"
+        ],
+        "content_context": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens；President Donald Trump to hold midterm rally in Daytona Beach | ﻿Live blog；Elections 2026 live updates: Trump campaigns in Florida ahead of weekend rallies in final midterm blitz。\n\nRelated coverage: 2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens\n\nRelated coverage: President Donald Trump to hold midterm rally in Daytona Beach | ﻿Live blog\n\nRelated coverage: Elections 2026 live updates: Trump campaigns in Florida ahead of weekend rallies in final midterm blitz\n\nRelated coverage: Midterm Elections Live Updates: Trump Set to Rally in Florida Tonight\n\nRelated coverage: Trump rally in Daytona Beach, Florida draws supporters to Ocean Center",
+        "trend_score": 41.53,
+        "trend_breakdown": {
+          "freshness": 0.948,
+          "engagement": 0.0,
+          "topic_overlap": 0.462,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "PBS",
+        "source": "AP News",
         "category": "news",
-        "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmtqZDlERWUySHdKbDF3cmhHWmF1MVZtNkR1MXFfTndncHhCQVhSS1VUU2xNNnBoMTZRZ1RSenc0ZEl1V0UweGpUYW1WbzlrNnZydzI5bWFZLThqUnplTEY4T1BweTQ1TkpOTjlvZlFPQUZfMlVJRVRtbEw4U2RTRWt2YXVLTmhQS0JubmNZOUN2VE9wMmF5TWNGOUVQXzNEaXVpb0pvbmRlWVlVd2NOR2ZDWS14cG5XQzZxVnJDRXE2YnFKemfSAcsBQVVfeXFMTVFCR2RPZ3RTT1JCY3VHeXBQNHRmbjhuODFjOHM3MTFNaUlZV3Uycldoc0NzdkRMd0pMVXpaU1JTTGZHR29VX2FXTnFVeHJzUHJrdnJsUEFQX3BjWnNTWWd0UlFlbUF1VnNscGFWdk9FTWhxeVhOdHRnVDNSU1A5dU9qUkVpN0RwOXJOcDNFNHp6WkY5RmJMWlo5Z0F4SmlIWlgyWU1Db3RzSnJ4X0ZSS0NYRWo5RW1oajFPWEVKMWl4NmJfOVhTb0hsRzA?oc=5",
-        "published_at": "2026-10-29T20:51:20+00:00",
-        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes；General ousted by Hegseth referred for possible criminal prosecution, officials say；Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says。",
+        "title": "Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan - AP News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZDZuOWpQaTc1elVGT1hyZEtvTTAxNEZ5S1VCTGg0emF6Z1dmTVBVTHhra2ZaSlU5SVQ0Vlh4NlloZ3BWTDJ0OGMwTFZEX3AyZlZKandvanZwSEdQNHprUDBMTmJKRENKOEpqWFluWERtbUhhX0hJX2U3NA?oc=5",
+        "published_at": "2026-10-31T00:15:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan；Explainer: Is it legal to recruit spoiler candidates in US elections?；Daniel J. Sullivan left his Alaska hometown before Senate election, sources say。",
         "related_headlines": [
-          "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
-          "General ousted by Hegseth referred for possible criminal prosecution, officials say",
-          "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
-          "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
-          "Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes"
+          "Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan",
+          "Explainer: Is it legal to recruit spoiler candidates in US elections?",
+          "Daniel J. Sullivan left his Alaska hometown before Senate election, sources say",
+          "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
+          "Abdul el Sayed resists efforts from Haley Stevens to corner him on Israel - live"
         ],
-        "content_context": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes；General ousted by Hegseth referred for possible criminal prosecution, officials say；Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says。\n\nRelated coverage: Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes\n\nRelated coverage: General ousted by Hegseth referred for possible criminal prosecution, officials say\n\nRelated coverage: Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says\n\nRelated coverage: Hegseth Fires Top Army General He Accused of Leaking Information to Media\n\nRelated coverage: Hegseth fires the Pentagon’s top military planner even as Trump considers new Iran strikes",
-        "trend_score": 33.91,
+        "content_context": "Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan；Explainer: Is it legal to recruit spoiler candidates in US elections?；Daniel J. Sullivan left his Alaska hometown before Senate election, sources say。\n\nRelated coverage: Live updates: Justice Department looks to separate Alaska ballots that rank Dan J. Sullivan\n\nRelated coverage: Explainer: Is it legal to recruit spoiler candidates in US elections?\n\nRelated coverage: Daniel J. Sullivan left his Alaska hometown before Senate election, sources say\n\nRelated coverage: Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear\n\nRelated coverage: Abdul el Sayed resists efforts from Haley Stevens to corner him on Israel - live",
+        "trend_score": 39.58,
         "trend_breakdown": {
-          "freshness": 0.805,
+          "freshness": 0.951,
           "engagement": 0.0,
-          "topic_overlap": 0.308,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Guardian",
-        "category": "news",
-        "title": "DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU41Yk1Pci1wSEdGb1IxNjJBWDVDbG1iMDZZbE9BWDZ1WVIzdGVwVjVBWE5fdDJhNGtCektFMTlKdDVHZFJWS0x0UVRSWGZwNC1UNU5JZVNPVjBYaHFINEJidkFvdmhTT0dDUjNlNlRhWWltN19NTzNOcXlxMHBObXdR?oc=5",
-        "published_at": "2026-10-30T00:00:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：DoJ reportedly issues subpoenas over same-name Alaska candidates；Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted；DOJ contends Democrats misled court on Alaska Senate race。",
-        "related_headlines": [
-          "DoJ reportedly issues subpoenas over same-name Alaska candidates",
-          "Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted",
-          "DOJ contends Democrats misled court on Alaska Senate race",
-          "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
-          "Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations"
-        ],
-        "content_context": "DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：DoJ reportedly issues subpoenas over same-name Alaska candidates；Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted；DOJ contends Democrats misled court on Alaska Senate race。\n\nRelated coverage: DoJ reportedly issues subpoenas over same-name Alaska candidates\n\nRelated coverage: Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted\n\nRelated coverage: DOJ contends Democrats misled court on Alaska Senate race\n\nRelated coverage: Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot\n\nRelated coverage: Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations",
-        "trend_score": 33.7,
-        "trend_breakdown": {
-          "freshness": 0.936,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFZhUzFKRXdCdThJWThGcWZ4R3hGSERHRGZibWdFU0JZZlpQY1RmWXJNdkNsdmRRM2FCNkRuQkhfdUtjbFNHWnNnYWYzOVJyVkhNRm1WMTl6RmVwWWdDaGEtc3pZSS0xaFhKcGZYbE5MSE5kajJpMnk5YlBhaTczc2JjRVZ6WExXcjBrRFhHUkRXMVBYZ0I3RTlfQ1U5ZFVVUERURVRWcHBmNnZMZlo1bHA4eEtlNTZtZ0E?oc=5",
-        "published_at": "2026-10-29T20:37:17+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor；See more headlines & perspectives on Google News。",
-        "related_headlines": [
-          "Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor",
-          "See more headlines & perspectives on Google News"
-        ],
-        "content_context": "Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor；See more headlines & perspectives on Google News。\n\nRelated coverage: Lawyers fighting N.Y. AG’s role in Cornell assault investigation say she isn’t ‘viable’ as prosecutor\n\nRelated coverage: See more headlines & perspectives on Google News",
-        "trend_score": 33.56,
-        "trend_breakdown": {
-          "freshness": 0.795,
-          "engagement": 0.0,
-          "topic_overlap": 0.308,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "Protests erupt in Spain after train crash kills dozens - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5NQUtvdE44Z3FvSHVNNVlqVGpIc0E0ekZJSDdEVC1POHBhd2JYWEpoU2FrLTVOdmVubXA2V1FtX2xtWkJ4dzRkOHlrZHlmMVFvUUZLLUI2d0hhTW5FZTdUeExZWU1KemFkSUJwNlI4RmxjZ1FucEl4T3ZScHBpc2JEbjZtai1haWFCVGozdmFLUDUzZVBvZndHQ3VCaXNlMURtOEZHdHFBUDZ4VTRUemxHZ2Y?oc=5",
-        "published_at": "2026-10-29T20:34:58+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Protests erupt in Spain after train crash kills dozens；Why Does Spain Keep Having Deadly Rail Accidents?；Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020。",
-        "related_headlines": [
-          "Protests erupt in Spain after train crash kills dozens",
-          "Why Does Spain Keep Having Deadly Rail Accidents?",
-          "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020",
-          "Spanish train crash death toll rises to 69 in grim search for victims",
-          "Pope Leo XIV mourns lives lost in Spain train collision"
-        ],
-        "content_context": "Protests erupt in Spain after train crash kills dozens - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Protests erupt in Spain after train crash kills dozens；Why Does Spain Keep Having Deadly Rail Accidents?；Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020。\n\nRelated coverage: Protests erupt in Spain after train crash kills dozens\n\nRelated coverage: Why Does Spain Keep Having Deadly Rail Accidents?\n\nRelated coverage: Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020\n\nRelated coverage: Spanish train crash death toll rises to 69 in grim search for victims\n\nRelated coverage: Pope Leo XIV mourns lives lost in Spain train collision",
-        "trend_score": 33.38,
-        "trend_breakdown": {
-          "freshness": 0.794,
-          "engagement": 0.0,
-          "topic_overlap": 0.3,
+          "topic_overlap": 0.333,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -748,21 +719,21 @@
       {
         "source": "The New York Times",
         "category": "news",
-        "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
-        "published_at": "2026-10-29T20:49:29+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Administration Pressures California With Expanded Voter Fraud Investigation；Trump DOJ issues subpoenas in California noncitizen voting probe, escalating pressure campaign；DOJ issues grand jury subpoenas to election officials in California。",
+        "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027 - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGVBcU9DaDV1TWpjc1duM3ZFSDFZbEZadE41cWZFdWJMVGpXU1U3dV93bl9yVGtTRlV3akd2VlBCU1Rtbzd5ZXFlSC1NTEVQclJUQ3FQVTFrMlBtWk5SV0hDdzQwT3otNXB3SEkxTmRVZFBCeEtTSnlyUGNIVkVzc1Y2MzJwb3hf?oc=5",
+        "published_at": "2026-10-30T23:37:41+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obamacare Policies Hit Again With Steep Premium Increases for 2027；Affordable Care Act Rates to Rise Steeply—Again；Many with ACA coverage face a new crisis in 2027: Insurers fleeing the market。",
         "related_headlines": [
-          "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
-          "Trump DOJ issues subpoenas in California noncitizen voting probe, escalating pressure campaign",
-          "DOJ issues grand jury subpoenas to election officials in California",
-          "Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy",
-          "Justice Department subpoenas California officials in escalation of its scrutiny of elections"
+          "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+          "Affordable Care Act Rates to Rise Steeply—Again",
+          "Many with ACA coverage face a new crisis in 2027: Insurers fleeing the market",
+          "Health insurance rules are changing. Here's how to avoid an unanticipated bill.",
+          "ACA premiums are getting more expensive. Here’s who will be paying the most."
         ],
-        "content_context": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Administration Pressures California With Expanded Voter Fraud Investigation；Trump DOJ issues subpoenas in California noncitizen voting probe, escalating pressure campaign；DOJ issues grand jury subpoenas to election officials in California。\n\nRelated coverage: Trump Administration Pressures California With Expanded Voter Fraud Investigation\n\nRelated coverage: Trump DOJ issues subpoenas in California noncitizen voting probe, escalating pressure campaign\n\nRelated coverage: DOJ issues grand jury subpoenas to election officials in California\n\nRelated coverage: Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy\n\nRelated coverage: Justice Department subpoenas California officials in escalation of its scrutiny of elections",
-        "trend_score": 33.3,
+        "content_context": "Obamacare Policies Hit Again With Steep Premium Increases for 2027 - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obamacare Policies Hit Again With Steep Premium Increases for 2027；Affordable Care Act Rates to Rise Steeply—Again；Many with ACA coverage face a new crisis in 2027: Insurers fleeing the market。\n\nRelated coverage: Obamacare Policies Hit Again With Steep Premium Increases for 2027\n\nRelated coverage: Affordable Care Act Rates to Rise Steeply—Again\n\nRelated coverage: Many with ACA coverage face a new crisis in 2027: Insurers fleeing the market\n\nRelated coverage: Health insurance rules are changing. Here's how to avoid an unanticipated bill.\n\nRelated coverage: ACA premiums are getting more expensive. Here’s who will be paying the most.",
+        "trend_score": 37.67,
         "trend_breakdown": {
-          "freshness": 0.804,
+          "freshness": 0.925,
           "engagement": 0.0,
           "topic_overlap": 0.273,
           "source_weight": 0.8,
@@ -771,75 +742,25 @@
         "domains": []
       },
       {
-        "source": "OregonLive.com",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Firefighters responding to 2-helicopter crash in McMinnville - OregonLive.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVpYaFg0T2JoekxDanpqYjNKRnp4Z0Zhc3Z6bFlmamx5ZjluY0tFbW1vVlBjVFZnc2p6Vklmdk55ZnE2OGk2aWFQSjQ1ZjFMeGlHT2NUdXYyS3VCMjV5bHZhbkctREVSVUU5bFVlTXlsS1MxYk9oamlzdkJzQTEtQkRib1gwODN0UFkwRnRnMS1GNEJCZG8wMTg0NEE2bzBnX1lPMkJVVGdYd9IBvgFBVV95cUxQdFl6dnZFYUZRSE5rZndwT2tzNVRhWm1sdktmUWZsN1VVVHBkZnNjM1VPMFJuQ1VhSzhtU2FNdGMtR2UwdjlINmhwUkRNRWdDU3pFLXlFZnR4Tzg1SUNZREFnX3h6aHdKWDJPcW5Ic3BRb0tBOHZZYVhlOVJDTUpVNWlhOXZYQW5RQ2J2T1JXa3kzNlFIN2JobWNtdXRENHU3OTRlLW9SRkRNUjNaTEJJT0FnbFkzZ3FIZU9OajJR?oc=5",
-        "published_at": "2026-10-29T21:54:00+00:00",
-        "summary": "OregonLive.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Firefighters responding to 2-helicopter crash in McMinnville；2 helicopters crash into each other near McMinnville airport, Hwy 233 closed；2 helicopters carrying 3 people collide midair near Oregon airport, FAA says。",
+        "title": "Federal judge signals she may halt construction on Trump’s arch - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNl9vSDRkZEJBSWVWSzJac1NQMTA0MkZqMFJweC1JdFNUU3FHLUVIMXMzczRBV0d0LWMyVjZPWjVQcXpwUXF4Q2Z3Tm5nR0hFVFk2bl96VkZpUUVLcUctM1pLQ000QVBOeWdJZ090TEx3UmNhRndOSFBrWHhtSlZzUWRCRzVJR3NzM0c1b1MtRkdINDFLclJMZlp2cjZCRkVWblIyci1BaXVyU01yOXBpd0x2MA?oc=5",
+        "published_at": "2026-10-30T22:45:10+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal judge signals she may halt construction on Trump’s arch；DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security；Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’。",
         "related_headlines": [
-          "Firefighters responding to 2-helicopter crash in McMinnville",
-          "2 helicopters crash into each other near McMinnville airport, Hwy 233 closed",
-          "2 helicopters carrying 3 people collide midair near Oregon airport, FAA says",
-          "Highway 233 closed west of Dayton because of aircraft crash, ODOT says",
-          "Helicopter crash near McMinnville Airport causes closure of Highway 233 west of Dayton"
+          "Federal judge signals she may halt construction on Trump’s arch",
+          "DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security",
+          "Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’",
+          "Several veterans groups file motion supporting Trump arch; Vietnam vets clarify position",
+          "Hegseth, Mullin rebrand triumphal arch as ‘generational national defense opportunity’"
         ],
-        "content_context": "Firefighters responding to 2-helicopter crash in McMinnville - OregonLive.com\n\nOregonLive.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Firefighters responding to 2-helicopter crash in McMinnville；2 helicopters crash into each other near McMinnville airport, Hwy 233 closed；2 helicopters carrying 3 people collide midair near Oregon airport, FAA says。\n\nRelated coverage: Firefighters responding to 2-helicopter crash in McMinnville\n\nRelated coverage: 2 helicopters crash into each other near McMinnville airport, Hwy 233 closed\n\nRelated coverage: 2 helicopters carrying 3 people collide midair near Oregon airport, FAA says\n\nRelated coverage: Highway 233 closed west of Dayton because of aircraft crash, ODOT says\n\nRelated coverage: Helicopter crash near McMinnville Airport causes closure of Highway 233 west of Dayton",
-        "trend_score": 32.84,
+        "content_context": "Federal judge signals she may halt construction on Trump’s arch - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal judge signals she may halt construction on Trump’s arch；DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security；Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’。\n\nRelated coverage: Federal judge signals she may halt construction on Trump’s arch\n\nRelated coverage: DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security\n\nRelated coverage: Judge asks if Trump’s desire to rush triumphal arch in DC is to ‘bedazzle the city’\n\nRelated coverage: Several veterans groups file motion supporting Trump arch; Vietnam vets clarify position\n\nRelated coverage: Hegseth, Mullin rebrand triumphal arch as ‘generational national defense opportunity’",
+        "trend_score": 34.91,
         "trend_breakdown": {
-          "freshness": 0.849,
+          "freshness": 0.889,
           "engagement": 0.0,
-          "topic_overlap": 0.143,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Hill",
-        "category": "news",
-        "title": "Trump cancels Kansas midterm rally - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0dkUW1tS0hNV09uNHNoaFc2T0lfYU9icXkyTHhYWVhtOWZhUFBnODlxZmtGVWIxR1hnbGFBRG4tMTZtelN0VTJ6ckZjeVd3TFF1MVJFZFNYbU80Wl9QMFFNMGdVN2c3V28xdXV2NXMySnJnN0xULXRxNkxHb0tGbEExTGVTQV9hVE5CVXdUeWFiYU1KQ0l4StIBngFBVV95cUxNWFpBMkZUNFZtWTRUUmdWWXk4cU1LemVnTExIRzFjTnhJamRhaUl0Y1l6eTQxRVVTelVTU19aQkxWcm1sSWVLWVRSTFJSSXBXZW9uNXpqNDF3a2tFQXJaU3BSRTl5WU9tWU45akotLTVBemdrc19BRXNVVTAxbktSOHJ6aVV0aXdtVVBGaTc5X1hMc2ZueTZER1BVa043UQ?oc=5",
-        "published_at": "2026-10-29T19:06:00+00:00",
-        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump cancels Kansas midterm rally；Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms；Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’。",
-        "related_headlines": [
-          "Trump cancels Kansas midterm rally",
-          "Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms",
-          "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
-          "Trump’s final sprint: From the Politics Desk",
-          "Trump cancels Kansas rally before midterm elections to hold virtual events"
-        ],
-        "content_context": "Trump cancels Kansas midterm rally - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump cancels Kansas midterm rally；Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms；Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’。\n\nRelated coverage: Trump cancels Kansas midterm rally\n\nRelated coverage: Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms\n\nRelated coverage: Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’\n\nRelated coverage: Trump’s final sprint: From the Politics Desk\n\nRelated coverage: Trump cancels Kansas rally before midterm elections to hold virtual events",
-        "trend_score": 29.02,
-        "trend_breakdown": {
-          "freshness": 0.732,
-          "engagement": 0.0,
-          "topic_overlap": 0.167,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Columbus Dispatch",
-        "category": "news",
-        "title": "Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio - The Columbus Dispatch",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUVFnby10M2I2ekM2N2RiT2tQMHNQVUVJYnctN0x3bVIzalJ0X25UQm1QSTZ2Tk1sV2lNampVVlZuc2FHeHRJN3hNenBuRFZZM2hhaFZuMlNldkNrbWpXWWFPTk1WZ0lycHc4NWRfQlVMU2dVc3lPVExSVE83YzdMa3lWelZqQ2VpUUlxa3oxTUtEOFQzSGVDell2UVVROVNiMGV0bUE1SQ?oc=5",
-        "published_at": "2026-10-29T20:06:47+00:00",
-        "summary": "The Columbus Dispatch 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio；Ramaswamy takes down explosive ad featuring his opponent’s mother；Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion。",
-        "related_headlines": [
-          "Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio",
-          "Ramaswamy takes down explosive ad featuring his opponent’s mother",
-          "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-          "Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show",
-          "Ramaswamy's Attack on Amy Acton Was Bad Enough. Trump and Vance Made It Worse."
-        ],
-        "content_context": "Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio - The Columbus Dispatch\n\nThe Columbus Dispatch 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio；Ramaswamy takes down explosive ad featuring his opponent’s mother；Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion。\n\nRelated coverage: Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio\n\nRelated coverage: Ramaswamy takes down explosive ad featuring his opponent’s mother\n\nRelated coverage: Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion\n\nRelated coverage: Before appearing in an ad calling Amy Acton a ‘liar,’ her mother faced years of turmoil, records show\n\nRelated coverage: Ramaswamy's Attack on Amy Acton Was Bad Enough. Trump and Vance Made It Worse.",
-        "trend_score": 27.87,
-        "trend_breakdown": {
-          "freshness": 0.774,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.182,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -848,27 +769,104 @@
       {
         "source": "Fox News",
         "category": "news",
-        "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODA1dzgteVZqYXNpVVlWNHhxNi12a2VaR2xHdzNpcThKSXp4QWdiWC15YjZhb2VZQ2tib2t6SUFEa2FJMlNUbTUxbGJLcjdFdkM4TnZOLXVERkhWWEQ2R0xCSDRvQlhMeU9kRFVKZHZrUWM1eTg4MUpBN05QMS1ORklDU0RDd25EX1I0dG54cWpRVUxFNTdud0FUS1RKWXJ2X3R3RGlJc1hnMzBNaUF30gG0AUFVX3lxTE9vN2V5bDVoemZVWTE5TlNERlFvRGN6LTBMRlF3bEx1WFdDQ0hmYWVXS29FNVlJUTFDTUxEdlJuRHBKWjJMb2R3YzFIblROSGQ4SXAwUkxXcDZVYy01U3NDLUowajdMOTRjYUdBMHk1TFVrcWhadzZlWnMwaGZsWnl1Y2Y3ejAwMDJNem1sRFctcUxlWmJXbzlmSXBvMk54RUhBZUZ3RGlnUzhkd1oySVA2RklSTw?oc=5",
-        "published_at": "2026-10-29T15:05:27+00:00",
-        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage；Report: Obama Admin Uncovered Evidence Against Omar's Marriage；Obama-era probe examined allegations about Omar's marriage more than a decade ago: reports。",
+        "title": "Polish president turns plane around after 'coup' at nation’s top court - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xkaTR6Tk93T0ZZQVlPTGtFaGlrV0pFZnBVVTFVVjI1YjZvbWxwd2ZJMF91NmhZZGl4djRTMkJvbThpQXhxWXpvNXZTNXJma05MVVRKanJsOEpPYzNFMjBwdXY3TXREZFRBeHFKM2lSaUFzYzEtRnJjMjBSdUZLdFM2SzExVks1eUkyRFNna2xIU0RTcGF5ekI1RzFUd9IBowFBVV95cUxQU1RmSUpDZ3d3dHZDY2VHX2hiRmFyUnhhbF9lTkljWDg1TEdNbk03LWRmWTVNZ3hhUllBSzdzTzFFdmRpUHdRMmJuaW5BSmM0ZGdKSDkyd2czSm1xSTdFS3pEaFFzc1dwX2FEcTJhZnFQTHYzeXg5ZGQ3QXdRTUxveFFKWWhKNVdxbjBVRy1NdDlCcTBqeW92eTc1c25yM3ZUd3Z3?oc=5",
+        "published_at": "2026-10-30T22:32:52+00:00",
+        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Polish president turns plane around after 'coup' at nation’s top court；Polish president turns back from Senegal trip after top court chief suspended；Polish president enters court blocked by police — presidency。",
         "related_headlines": [
-          "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage",
-          "Report: Obama Admin Uncovered Evidence Against Omar's Marriage",
-          "Obama-era probe examined allegations about Omar's marriage more than a decade ago: reports",
-          "Ilhan Omar’s Muslim husband ‘disgusted’ by ‘dirty dandy brother’ she allegedly wed coming to live with them: source",
-          "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage"
+          "Polish president turns plane around after 'coup' at nation’s top court",
+          "Polish president turns back from Senegal trip after top court chief suspended",
+          "Polish president enters court blocked by police — presidency",
+          "Police deployed during stand-off over control of top Poland court",
+          "PRESIDENT’S U-TURN: Moment leader realised ‘coup’ was underway"
         ],
-        "content_context": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage；Report: Obama Admin Uncovered Evidence Against Omar's Marriage；Obama-era probe examined allegations about Omar's marriage more than a decade ago: reports。\n\nRelated coverage: Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage\n\nRelated coverage: Report: Obama Admin Uncovered Evidence Against Omar's Marriage\n\nRelated coverage: Obama-era probe examined allegations about Omar's marriage more than a decade ago: reports\n\nRelated coverage: Ilhan Omar’s Muslim husband ‘disgusted’ by ‘dirty dandy brother’ she allegedly wed coming to live with them: source\n\nRelated coverage: Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
-        "trend_score": 23.01,
+        "content_context": "Polish president turns plane around after 'coup' at nation’s top court - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Polish president turns plane around after 'coup' at nation’s top court；Polish president turns back from Senegal trip after top court chief suspended；Polish president enters court blocked by police — presidency。\n\nRelated coverage: Polish president turns plane around after 'coup' at nation’s top court\n\nRelated coverage: Polish president turns back from Senegal trip after top court chief suspended\n\nRelated coverage: Polish president enters court blocked by police — presidency\n\nRelated coverage: Police deployed during stand-off over control of top Poland court\n\nRelated coverage: PRESIDENT’S U-TURN: Moment leader realised ‘coup’ was underway",
+        "trend_score": 34.36,
         "trend_breakdown": {
-          "freshness": 0.565,
+          "freshness": 0.88,
           "engagement": 0.0,
           "topic_overlap": 0.167,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case - NPR",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHozamh6SWw4b0ZTZHJFREh1RTNtdFg0Y1RrT0QzWTdUZWFKemFrYURLMnZvQUNzcUNPR204d2ZyQXNaVWFxQzR0bTJwd0xESjFjMEkwUGJyVG9ITVdJTHlMWnRUZERmZk9xODBScWlEanpqS1h3VUtHZkstZTJTM2N2U2NkTTNmQUZZbGtpSQ?oc=5",
+        "published_at": "2026-10-30T21:56:52+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case；Nov. 15 closure at East Potomac is bigger than the golf course, court filing shows；Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit。",
+        "related_headlines": [
+          "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+          "Nov. 15 closure at East Potomac is bigger than the golf course, court filing shows",
+          "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
+          "Judge orders inquiry into whether DOJ lawyers misled court on Trump’s golf plan",
+          "Judge to investigate whether Trump administration lied in golf course renovation case"
+        ],
+        "content_context": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case；Nov. 15 closure at East Potomac is bigger than the golf course, court filing shows；Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit。\n\nRelated coverage: Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case\n\nRelated coverage: Nov. 15 closure at East Potomac is bigger than the golf course, court filing shows\n\nRelated coverage: Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit\n\nRelated coverage: Judge orders inquiry into whether DOJ lawyers misled court on Trump’s golf plan\n\nRelated coverage: Judge to investigate whether Trump administration lied in golf course renovation case",
+        "trend_score": 33.7,
+        "trend_breakdown": {
+          "freshness": 0.855,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFh4dnZmYThTd3d1QUZQRDdEOTNNU2tfYUQxM3FtVGR0UjdSTzV0ZndxWGt6MDI2NGMwTUZhcXZSN2xCbG1XdDg3aW4yUWJnWHRYeW1CTmxMRVRpR0wtX2IyLUtDdlFGMmxtNkNqRG1WQmhGRGh6VUU3dG1GLW9GdmUwWVVsYlJscnRKdnNCLTk2cnJYRXZtc0tDdw?oc=5",
+        "published_at": "2026-10-30T21:56:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：An ICE officer is charged with assault for striking a man with a car in Houston；Grand jury indicts ICE officer for striking Houston immigrant with vehicle；Who is Mario 'Bam' Morales, the ICE agent behind the indictment?。",
+        "related_headlines": [
+          "An ICE officer is charged with assault for striking a man with a car in Houston",
+          "Grand jury indicts ICE officer for striking Houston immigrant with vehicle",
+          "Who is Mario 'Bam' Morales, the ICE agent behind the indictment?",
+          "ICE agent charged after ramming unmarked SUV into man in Texas",
+          "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase"
+        ],
+        "content_context": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：An ICE officer is charged with assault for striking a man with a car in Houston；Grand jury indicts ICE officer for striking Houston immigrant with vehicle；Who is Mario 'Bam' Morales, the ICE agent behind the indictment?。\n\nRelated coverage: An ICE officer is charged with assault for striking a man with a car in Houston\n\nRelated coverage: Grand jury indicts ICE officer for striking Houston immigrant with vehicle\n\nRelated coverage: Who is Mario 'Bam' Morales, the ICE agent behind the indictment?\n\nRelated coverage: ICE agent charged after ramming unmarked SUV into man in Texas\n\nRelated coverage: Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
+        "trend_score": 32.55,
+        "trend_breakdown": {
+          "freshness": 0.855,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WSJ",
+        "category": "news",
+        "title": "Christa Pike Recounts Botched Execution in First Public Comments - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUpNVVE3MngtWUtLX2FjNTlqYXZidU9LMW05c1UycmUwZnprRzQ5dXhoNHhheGdSbmRXc08zandaajRCRVV4ckJVRnJBTGhvc1luQUY1elBrd1ppVkg2RDlUbUtuMDdUMkx0dXhkTlBjVFhQWm5UVk9BTVJPcXpUNzFtSEF1ck5tclhvXzFEWEl3VnV5MVIwZWh4SzR3Tlp2Q3dKYm45MkQ?oc=5",
+        "published_at": "2026-10-30T15:45:00+00:00",
+        "summary": "WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Christa Pike Recounts Botched Execution in First Public Comments；‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution；US inmate Christa Pike says she woke up 'confused and in pain' after failed execution。",
+        "related_headlines": [
+          "Christa Pike Recounts Botched Execution in First Public Comments",
+          "‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution",
+          "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "Christa Pike speaks out after execution attempt: 'I'm deeply hurt'",
+          "Christa Pike, in first statement since botched execution, says she's been in pain every moment since waking up"
+        ],
+        "content_context": "Christa Pike Recounts Botched Execution in First Public Comments - WSJ\n\nWSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Christa Pike Recounts Botched Execution in First Public Comments；‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution；US inmate Christa Pike says she woke up 'confused and in pain' after failed execution。\n\nRelated coverage: Christa Pike Recounts Botched Execution in First Public Comments\n\nRelated coverage: ‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution\n\nRelated coverage: US inmate Christa Pike says she woke up 'confused and in pain' after failed execution\n\nRelated coverage: Christa Pike speaks out after execution attempt: 'I'm deeply hurt'\n\nRelated coverage: Christa Pike, in first statement since botched execution, says she's been in pain every moment since waking up",
+        "trend_score": 26.53,
+        "trend_breakdown": {
+          "freshness": 0.597,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
       }
     ]
   },
@@ -876,27 +874,26 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "author": "CopilotKit",
-      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": "TypeScript",
-      "score": 247,
-      "comment_count": 1047,
-      "total_stars": 8172,
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "mattpocock",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "Shell",
+      "score": 876,
+      "comment_count": 25884,
+      "total_stars": 307497,
       "built_by": [
-        "davidmckayv",
-        "kevin9327",
+        "mattpocock",
         "claude",
-        "Ayush7614",
-        "guidovizoso"
+        "github-actions",
+        "gabimoncha"
       ],
-      "content_context": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\nLanguage: TypeScript\n\nStars today: 247\n\nTotal stars: 8172\n\nBuilt by: davidmckayv, kevin9327, claude, Ayush7614, guidovizoso",
-      "trend_score": 87.54,
+      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 876\n\nTotal stars: 307497\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+      "trend_score": 97.7,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.733,
+        "engagement": 1.0,
         "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -908,27 +905,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "author": "obra",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": "Shell",
-      "score": 1034,
-      "comment_count": 27447,
-      "total_stars": 308580,
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "author": "HKUDS",
+      "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "Python",
+      "score": 2282,
+      "comment_count": 6344,
+      "total_stars": 51794,
       "built_by": [
-        "obra",
-        "arittr",
+        "pancacake",
         "claude",
-        "clkao",
-        "arimu1"
+        "Pinkllow",
+        "github-actions",
+        "evan188199-tech"
       ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1034\n\nTotal stars: 308580\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
-      "trend_score": 86.84,
+      "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 2282\n\nTotal stars: 51794\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
+      "trend_score": 86.42,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 1.0,
+        "engagement": 0.989,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -944,11 +941,11 @@
       "url": "https://github.com/pbakaus/impeccable",
       "author": "pbakaus",
       "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
       "language": "Rust",
-      "score": 2870,
-      "comment_count": 5625,
-      "total_stars": 95400,
+      "score": 2300,
+      "comment_count": 5717,
+      "total_stars": 97092,
       "built_by": [
         "pbakaus",
         "claude",
@@ -956,7 +953,7 @@
         "abdulwahabone",
         "cursoragent"
       ],
-      "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 2870\n\nTotal stars: 95400\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
+      "content_context": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\nLanguage: Rust\n\nStars today: 2300\n\nTotal stars: 97092\n\nBuilt by: pbakaus, claude, github-actions, abdulwahabone, cursoragent",
       "trend_score": 86.22,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -972,79 +969,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "author": "HKUDS",
-      "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": "Python",
-      "score": 1930,
-      "comment_count": 6166,
-      "total_stars": 50124,
-      "built_by": [
-        "pancacake",
-        "claude",
-        "Pinkllow",
-        "github-actions",
-        "evan188199-tech"
-      ],
-      "content_context": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\nLanguage: Python\n\nStars today: 1930\n\nTotal stars: 50124\n\nBuilt by: pancacake, claude, Pinkllow, github-actions, evan188199-tech",
-      "trend_score": 85.41,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.962,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "author": "nightly-labs",
-      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": "TypeScript",
-      "score": 709,
-      "comment_count": 363,
-      "total_stars": 3901,
-      "built_by": [
-        "NorbertBodziony",
-        "claude",
-        "Sniezka1927",
-        "nrb-dev",
-        "aniruddhaadak80"
-      ],
-      "content_context": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\nLanguage: TypeScript\n\nStars today: 709\n\nTotal stars: 3901\n\nBuilt by: NorbertBodziony, claude, Sniezka1927, nrb-dev, aniruddhaadak80",
-      "trend_score": 84.44,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.746,
-        "topic_overlap": 0.333,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "author": "thedotmack",
       "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
       "language": "TypeScript",
-      "score": 336,
-      "comment_count": 9245,
-      "total_stars": 104829,
+      "score": 1140,
+      "comment_count": 9356,
+      "total_stars": 106285,
       "built_by": [
         "thedotmack",
         "claude",
@@ -1052,11 +985,11 @@
         "cursoragent",
         "rodboev"
       ],
-      "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 336\n\nTotal stars: 104829\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
-      "trend_score": 81.84,
+      "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1140\n\nTotal stars: 106285\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+      "trend_score": 85.44,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.868,
+        "engagement": 0.963,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1068,26 +1001,59 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "author": "togg53192-cmd",
-      "summary": "LIST OF ALL MY JAILBREAKS",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": null,
-      "score": 1594,
-      "comment_count": 1260,
-      "total_stars": 9084,
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "author": "pingdotgg",
+      "summary": null,
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "TypeScript",
+      "score": 930,
+      "comment_count": 8659,
+      "total_stars": 32755,
       "built_by": [
-        "togg53192-cmd",
-        "raghavraut",
-        "metalim",
-        "reblox01"
+        "juliusmarminge",
+        "claude",
+        "t3dotgg",
+        "maria-rcks",
+        "codex"
       ],
-      "content_context": "LIST OF ALL MY JAILBREAKS\n\nLanguage: unknown\n\nStars today: 1594\n\nTotal stars: 9084\n\nBuilt by: togg53192-cmd, raghavraut, metalim, reblox01",
-      "trend_score": 81.74,
+      "content_context": "Language: TypeScript\n\nStars today: 930\n\nTotal stars: 32755\n\nBuilt by: juliusmarminge, claude, t3dotgg, maria-rcks, codex",
+      "trend_score": 84.76,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.866,
+        "engagement": 0.945,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "author": "Renhuai123",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "TypeScript",
+      "score": 1126,
+      "comment_count": 2238,
+      "total_stars": 11225,
+      "built_by": [
+        "Renhuai123",
+        "claude",
+        "dependabot",
+        "Renhuai",
+        "sakura168899-debug"
+      ],
+      "content_context": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\nLanguage: TypeScript\n\nStars today: 1126\n\nTotal stars: 11225\n\nBuilt by: Renhuai123, claude, dependabot, Renhuai, sakura168899-debug",
+      "trend_score": 82.49,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.885,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1103,11 +1069,11 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "author": "milind-soni",
       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
       "language": "TypeScript",
-      "score": 1199,
-      "comment_count": 1115,
-      "total_stars": 7500,
+      "score": 895,
+      "comment_count": 1202,
+      "total_stars": 8672,
       "built_by": [
         "milind-soni",
         "claude",
@@ -1115,11 +1081,11 @@
         "robinsonnblack",
         "bradhallett"
       ],
-      "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1199\n\nTotal stars: 7500\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
-      "trend_score": 80.78,
+      "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 895\n\nTotal stars: 8672\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+      "trend_score": 80.64,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.84,
+        "engagement": 0.837,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1131,56 +1097,91 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "author": "elayadesign",
-      "summary": null,
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": null,
-      "score": 1187,
-      "comment_count": 883,
-      "total_stars": 12186,
+      "title": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "author": "expo",
+      "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "Shell",
+      "score": 38,
+      "comment_count": 247,
+      "total_stars": 3905,
       "built_by": [
-        "elayadesign",
-        "claude"
-      ],
-      "content_context": "Language: unknown\n\nStars today: 1187\n\nTotal stars: 12186\n\nBuilt by: elayadesign, claude",
-      "trend_score": 80.28,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.827,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "author": "JetBrains",
-      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "published_at": "2026-10-30T01:31:45.150458+00:00",
-      "language": "TypeScript",
-      "score": 1117,
-      "comment_count": 323,
-      "total_stars": 6030,
-      "built_by": [
-        "rsolmano",
-        "danyaberezun",
-        "OLavrik",
+        "EvanBacon",
+        "Kudo",
+        "gwdp",
         "claude",
-        "SBOne-Kenobi"
+        "ide"
       ],
-      "content_context": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\nLanguage: TypeScript\n\nStars today: 1117\n\nTotal stars: 6030\n\nBuilt by: rsolmano, danyaberezun, OLavrik, claude, SBOne-Kenobi",
-      "trend_score": 78.11,
+      "content_context": "A collection of AI agent skills for working with Expo projects and Expo Application Services\n\nLanguage: Shell\n\nStars today: 38\n\nTotal stars: 3905\n\nBuilt by: EvanBacon, Kudo, gwdp, claude, ide",
+      "trend_score": 80.29,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.77,
+        "engagement": 0.542,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "author": "CopilotKit",
+      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "TypeScript",
+      "score": 706,
+      "comment_count": 1110,
+      "total_stars": 8806,
+      "built_by": [
+        "davidmckayv",
+        "kevin9327",
+        "claude",
+        "Ayush7614",
+        "guidovizoso"
+      ],
+      "content_context": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\nLanguage: TypeScript\n\nStars today: 706\n\nTotal stars: 8806\n\nBuilt by: davidmckayv, kevin9327, claude, Ayush7614, guidovizoso",
+      "trend_score": 79.87,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.817,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "author": "macro-inc",
+      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "published_at": "2026-10-31T01:25:10.479573+00:00",
+      "language": "Rust",
+      "score": 57,
+      "comment_count": 538,
+      "total_stars": 5881,
+      "built_by": [
+        "gbirman",
+        "whutchinson98",
+        "synoet",
+        "sedson",
+        "peterchinman"
+      ],
+      "content_context": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\nLanguage: Rust\n\nStars today: 57\n\nTotal stars: 5881\n\nBuilt by: gbirman, whutchinson98, synoet, sedson, peterchinman",
+      "trend_score": 72.03,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.61,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1192,314 +1193,304 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "95%-ile isn't that good",
-      "url": "https://danluu.com/p95-skill/",
-      "author": "blobcode",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-10-30T01:24:52+00:00",
-      "summary": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things.\n\nNote that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i...\n\nThis post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe...",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://danluu.com/p95-skill/",
-        "page_title": "95%-ile isn't that good",
-        "page_description": null,
-        "page_excerpt": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things.\n\nNote that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i...\n\nThis post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe..."
-      },
-      "content_context": "Reaching 95%-ile isn't very impressive because it's not that hard to do. I think this is one of my most ridiculable ideas. It doesn't help that, when stated nakedly, that sounds elitist. But I think it's just the opposite: most people can become (relatively) good at most things. Note that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I'm also not referring to 95%-ile among people who practice regularly. The \" one weird trick \" is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-i... This post is going to refer to specifics since the discussions I've seen about this are all in the abstract , which turns them into Rorschach tests. For example, Scott Adams has a widely cited post claiming that it's better to be a generalist than a specialist because, to become \"extraordinary\", you have to eithe...",
-      "trend_score": 53.75,
-      "trend_breakdown": {
-        "freshness": 0.995,
-        "engagement": 0.046,
-        "topic_overlap": 0.667,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-      "url": "https://github.com/zacharybenson/arken-protocol",
-      "author": "zachbenson817",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-10-30T01:22:38+00:00",
-      "summary": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol",
-      "comment_highlights": [
-        "[flagged]"
-      ],
-      "linked_context": {
-        "resolved_url": "https://github.com/zacharybenson/arken-protocol",
-        "page_title": "GitHub - zacharybenson/arken-protocol: Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach.",
-        "page_description": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol",
-        "page_excerpt": "Passwordless authentication for web servers. No passwords. No sessions. Nothing to breach.\n\nEvery auth system today asks your server to hold a secret — a password hash, a session token, an API key. That secret is a liability. It gets breached. It gets phished. It gets rotated on a schedule that nobody follows.\n\nArken Auth flips the model: the user holds the secret, the server holds nothing."
-      },
-      "content_context": "Passwordless authentication via DID signatures. No passwords. No sessions. Nothing to breach. - zacharybenson/arken-protocol\n\nPasswordless authentication for web servers. No passwords. No sessions. Nothing to breach. Every auth system today asks your server to hold a secret — a password hash, a session token, an API key. That secret is a liability. It gets breached. It gets phished. It gets rotated on a schedule that nobody follows. Arken Auth flips the model: the user holds the secret, the server holds nothing.\n\nHN comment: [flagged]",
-      "trend_score": 49.19,
-      "trend_breakdown": {
-        "freshness": 0.994,
-        "engagement": 0.046,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
-      "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-      "author": "yomismoaqui",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-10-30T01:15:43+00:00",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-        "page_title": "- YouTube",
-        "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "page_excerpt": null
-      },
-      "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "trend_score": 48.96,
-      "trend_breakdown": {
-        "freshness": 0.989,
-        "engagement": 0.046,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "A Good Day for Cryptography",
-      "url": "https://letsencrypt.org/2026/10/29/good-day-cryptography",
-      "author": "gpi",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-10-30T01:21:49+00:00",
-      "summary": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...",
-      "comment_highlights": [
-        "Good news for once, feels nice to see not everything is going downhill!"
-      ],
-      "linked_context": {
-        "resolved_url": "https://letsencrypt.org/2026/10/29/good-day-cryptography",
-        "page_title": "A Good Day for Cryptography",
-        "page_description": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...",
-        "page_excerpt": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered . The previously lost method used to create the widely-used NIST elliptic curves has been found.\n\nIn 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to fund the bounty prize. Such a generous and thoughtful idea. And you guessed it! The solvers, a team of researchers at Anthropic, took Filippo up on it and donated the bounty to...\n\nWhat was the bounty? What was the answer? It’s a long story. TL;DR: The NIST elliptic curves, used in encryption across the Internet, were built from “seeds” that two NSA engineers generated in the late 1990s. Years later, nobody could remember exactly how they’d made them. Humans do what humans do, and without an a..."
-      },
-      "content_context": "October 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered. The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to...\n\nOctober 16, 2026 was a good day for the cryptography community. A 25-year-old question about the math behind some of the Internet’s most widely used encryption was finally answered . The previously lost method used to create the widely-used NIST elliptic curves has been found. In 2023, Filippo Valsorda created a bounty for answering the question, with a twist: if the solvers gave the prize to a nonprofit, it would be tripled, from $12,288 to $36,864. A group of engineers raised their hands to fund the bounty prize. Such a generous and thoughtful idea. And you guessed it! The solvers, a team of researchers at Anthropic, took Filippo up on it and donated the bounty to... What was the bounty? What was the answer? It’s a long story. TL;DR: The NIST elliptic curves, used in encryption across the Internet, were built from “seeds” that two NSA engineers generated in the late 1990s. Years later, nobody could remember exactly how they’d made them. Humans do what humans do, and without an a...\n\nHN comment: Good news for once, feels nice to see not everything is going downhill!",
-      "trend_score": 48.82,
-      "trend_breakdown": {
-        "freshness": 0.993,
-        "engagement": 0.083,
-        "topic_overlap": 0.333,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "1 in 10 members of Congress traded stocks in companies their committees oversee",
-      "url": "https://www.kadoa.com/congress/insights/committee-trades",
-      "author": "diomedes",
+      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+      "url": "https://news.ycombinator.com/item?id=50312174",
+      "author": "stillatit",
       "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-10-30T01:11:10+00:00",
-      "summary": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.kadoa.com/congress/insights/committee-trades",
-        "page_title": "1 in 10 Members of Congress Traded Stocks Their Committees Oversee | Congress Trading Monitor",
-        "page_description": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.",
-        "page_excerpt": "Traded 425 companies, 61 linked to a committee seat ( 175 trades)\n\nEducation and Workforce: Health, Employment, Labor, and Pensions subcommittee"
-      },
-      "content_context": "A Kadoa analysis found that 55 lawmakers or their family members bought or sold shares over 21 months in companies overseen by a committee they sit on.\n\nTraded 425 companies, 61 linked to a committee seat ( 175 trades) Education and Workforce: Health, Employment, Labor, and Pensions subcommittee",
-      "trend_score": 48.12,
+      "comment_count": 1,
+      "published_at": "2026-10-31T00:58:26+00:00",
+      "summary": "Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>",
+      "comment_highlights": [
+        "Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>"
+      ],
+      "linked_context": {},
+      "content_context": "One year after I posted this last time[0], they're doing it again. My traffic from X has shot way up from people who only ever viewed a full tweet, without pressing the link inside.<p>[0] https://news.ycombinator.com/item?id=45807775\n\nHN comment: Clicky: <a href=\"https://news.ycombinator.com/item?id=45807775\">https://news.ycombinator.com/item?id=45807775</a>",
+      "trend_score": 53.15,
       "trend_breakdown": {
-        "freshness": 0.986,
-        "engagement": 0.073,
-        "topic_overlap": 0.0,
+        "freshness": 0.981,
+        "engagement": 0.111,
+        "topic_overlap": 0.1,
         "source_weight": 0.9,
-        "domain_weight": 1.14
+        "domain_weight": 1.18
       },
       "domains": [
-        "finance"
+        "technology"
       ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Google's $500B bloodbath reflects the danger it faces from AI",
+      "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist",
+      "author": "axiomdata316",
+      "score": 2,
+      "comment_count": 1,
+      "published_at": "2026-10-31T01:19:32+00:00",
+      "summary": "link not working?",
+      "comment_highlights": [
+        "link not working?"
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: link not working?",
+      "trend_score": 51.72,
+      "trend_breakdown": {
+        "freshness": 0.996,
+        "engagement": 0.111,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Lifestreams' summarize operation, 30 years later",
+      "url": "https://gist.github.com/yibie/d21d1ad945a11143731aea3c7ef5e7d6",
+      "author": "oliverchan2024",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-31T00:59:25+00:00",
+      "summary": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://gist.github.com/yibie/d21d1ad945a11143731aea3c7ef5e7d6",
+        "page_title": "The Last Operation: What Lifestreams' summarize Was Waiting For",
+        "page_description": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md",
+        "page_excerpt": "In 1996, Eric Freeman and David Gelernter published Lifestreams: A Storage Model for Personal Data . The paper proposed replacing named files, directories, and the desktop with a single time-ordered stream of documents and five operations: new , clone , transfer , find , and summarize .\n\nI found the paper while reading about Jef Raskin's Canon Cat. The two ideas are very alike, and neither could be fully built at the time.\n\nMost of the paper is ordinary now. Timelines are everywhere, saved searches work like its substreams, and nobody is surprised that one document can appear in several collections."
+      },
+      "content_context": "The Last Operation: What Lifestreams' summarize Was Waiting For - the-last-operation.md\n\nIn 1996, Eric Freeman and David Gelernter published Lifestreams: A Storage Model for Personal Data . The paper proposed replacing named files, directories, and the desktop with a single time-ordered stream of documents and five operations: new , clone , transfer , find , and summarize . I found the paper while reading about Jef Raskin's Canon Cat. The two ideas are very alike, and neither could be fully built at the time. Most of the paper is ordinary now. Timelines are everywhere, saved searches work like its substreams, and nobody is surprised that one document can appear in several collections.",
+      "trend_score": 48.66,
+      "trend_breakdown": {
+        "freshness": 0.982,
+        "engagement": 0.047,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Do At-Proto Users Know This Is Public?",
+      "url": "https://melaniekat.com/blog/public-on-pds/",
+      "author": "rowbin",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-10-31T01:06:23+00:00",
+      "summary": "the personal homepage of melanie kat",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://melaniekat.com/blog/public-on-pds/",
+        "page_title": "Do At-Proto Users Know This Is Public? â¢ melanie kat",
+        "page_description": "the personal homepage of melanie kat",
+        "page_excerpt": "Iâve been exploring the AT Protocol âatmosphereâ that Bluesky runs on to get a better understanding of what people are doing with it. What Iâve found is a bunch of private data Iâm not sure people know is public. Not only public, itâs easy to find.\n\nTo start my exploration I used two websites that catalog AT Protocol apps: atstore.fyi and atmosphereaccount.com . Iâm a long time RSS user, so I got curious about feed readers first. I found this one called Skyreader and I noticed that their page on atstore.fyi contained reviews and mentions of the app by people who have used it. Weâll come back to this in a minute.\n\nSomething to know about Bluesky is that you can self-host what they call a personal data server or âPDS.â Itâs where your data on Bluesky and other apps are stored, and itâs mostly public. Using a website like PDSls.dev you can explore it yourself. So if you wanted to see my data itâs here . I canât control how or what you do with it, it just exi..."
+      },
+      "content_context": "the personal homepage of melanie kat\n\nIâve been exploring the AT Protocol âatmosphereâ that Bluesky runs on to get a better understanding of what people are doing with it. What Iâve found is a bunch of private data Iâm not sure people know is public. Not only public, itâs easy to find. To start my exploration I used two websites that catalog AT Protocol apps: atstore.fyi and atmosphereaccount.com . Iâm a long time RSS user, so I got curious about feed readers first. I found this one called Skyreader and I noticed that their page on atstore.fyi contained reviews and mentions of the app by people who have used it. Weâll come back to this in a minute. Something to know about Bluesky is that you can self-host what they call a personal data server or âPDS.â Itâs where your data on Bluesky and other apps are stored, and itâs mostly public. Using a website like PDSls.dev you can explore it yourself. So if you wanted to see my data itâs here . I canât control how or what you do with it, it just exi...",
+      "trend_score": 47.4,
+      "trend_breakdown": {
+        "freshness": 0.987,
+        "engagement": 0.093,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Mark Carney says Canada is set to become associate member of EU",
+      "url": "https://www.ctvnews.ca/ottawa/video/2026/10/30/mark-carney-says-canada-is-set-to-become-associate-member-of-eu/",
+      "author": "consumer451",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-10-31T01:24:30+00:00",
+      "summary": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.ctvnews.ca/ottawa/video/2026/10/30/mark-carney-says-canada-is-set-to-become-associate-member-of-eu/",
+        "page_title": "Mark Carney says Canada is set to become associate member of EU",
+        "page_description": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+        "page_excerpt": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports."
+      },
+      "content_context": "Canada’s Prime Minister says the country is set to become the European Union’s first associate member. CTV’s Kimberley Fowler reports.",
+      "trend_score": 46.44,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.047,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
     }
   ],
   "notes": [
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI开源生态呈现多点开花态势，焦点集中于智能体（Agent）基础设施与工具链的创新。OpenBot与openbot等项目致力于为AI智能体构建独立、可协作的桌面级操作环境，推动其向“数字员工”演进；Impeccable与claude-mem则分别从代码质量审查与持久化记忆层面，系统化提升AI编程助手的可靠性与连续性。同时，DeepTutor展示了AI在个性化教育领域的深入探索，而jailbreaks集合则持续揭示大模型的安全边界。整体来看，开发者社区正从环境封装、工作流规范、能力增强等多维度，加速AI智能体的工程化与实用化进程。",
+    "overview": "今日AI领域开源项目热度持续，多个项目聚焦于提升AI辅助开发的效率与质量。其中，mattpocock/skills和expo/skills分别提供了通用及Expo框架下的AI代理技能库，旨在优化工作流。impeccable项目试图通过设计词汇表系统化审查AI生成代码，而claude-mem则为AI代理提供了跨会话的持久化上下文管理。此外，DeepTutor展示了AI在终身个性化教育中的应用潜力，紫微斗数排盘引擎则体现了算法与传统文化的结合。OpenMausBot作为开源机器人替代方案，集成了虚拟机环境以增强灵活性。",
     "named_hotspots": [
       {
-        "name": "OpenBot",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "CopilotKit团队在GitHub上开源了OpenBot项目，这是一个为AI智能体提供独立计算机环境的框架，允许每个AI“同事”拥有自己的浏览器、文件和工具，所有行动在执行前决策并在执行后记录。",
-        "core_details": "OpenBot是一个TypeScript开发的开源项目，旨在为任何AG-UI（自主图形用户界面）智能体提供完整的计算机操作环境。其核心特性包括：为每个AI智能体分配独立的虚拟计算机，集成浏览器、文件系统和工具；采用“决策-执行-记录”的工作流程，确保所有操作透明且可追溯；支持接入多种自主GUI智能体。项目由davidmckayv、kevin9327等开发者主导，目前GitHub总星标数达8172，单日新增247星，显示出较高的社区关注度。",
-        "ai_take": "OpenBot代表了AI智能体从单纯的任务执行向拥有完整操作环境的“数字员工”演进。通过提供标准化的计算机接口，它降低了智能体与真实世界交互（如网页浏览、文件处理）的开发门槛，可能加速通用人工智能（AGI）在自动化办公、辅助编程等场景的落地。其“先决策后执行”的机制也有助于提高AI行为的可控性和安全性。",
-        "hype_check": "项目在GitHub趋势榜上热度较高（趋势分87.54），单日星标增长显著，反映了开发者对AI智能体操作环境工具的强烈兴趣。但需注意，这仍是一个早期开源框架，实际生产环境的稳定性、与复杂应用的兼容性尚未经过大规模验证。",
-        "value_check": "OpenBot的核心价值在于为AI智能体提供了标准化的“沙盒”环境，解决了智能体与图形界面交互的工程难题。它可能成为连接大语言模型与具体应用（如软件操作、数据分析）的重要中间层，具有工具平台潜力。但长期价值取决于生态建设，如能否吸引足够多的智能体接入和场景适配。",
-        "follow_up": "可关注项目后续版本更新，特别是对更多操作系统、复杂工具链的支持情况；观察是否有基于OpenBot的成熟应用案例出现；同时注意同类项目（如AutoGPT、CrewAI）的竞争动态。",
-        "evidence": "项目GitHub页面描述明确指出：“开源AI同事，每个都拥有自己的计算机：浏览器、文件和工具，每个行动在执行前决策并在执行后记录。支持接入任何AG-UI智能体。” 项目使用TypeScript开发，总星标8172，单日增长247星，由CopilotKit团队维护。"
-      },
-      {
-        "name": "superpowers",
+        "name": "mattpocock/skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub项目'superpowers'在趋势榜上热度显著，今日新增星标1034个，总星标数已达308580，显示出开发者社区的高度关注。",
-        "core_details": "该项目由obra等人开发，是一个'智能体技能框架与软件开发方法论'，旨在提供一套有效的工具和实践指南。项目主要使用Shell语言编写，在GitHub上获得了广泛的认可和讨论。",
-        "ai_take": "该项目提出的'智能体技能框架'可能旨在系统化AI代理的能力构建与集成，其方法论或为AI驱动的软件开发提供结构化流程，反映了业界对提升AI代理实用性和开发效率的持续探索。",
-        "hype_check": "项目总星标数极高且今日增长迅速，表明其在开发者中积累了长期且强劲的吸引力，并非短期炒作。",
-        "value_check": "作为一个高星标的开源框架，其核心价值在于可能提供了经过验证的实践方案，有助于标准化和加速基于智能体的软件开发，对AI应用工程化具有潜在实用意义。",
-        "follow_up": "关注项目文档、示例及社区讨论，以了解其具体技能定义、方法论实施细节以及在真实项目中的应用案例与效果评估。",
-        "evidence": "项目在GitHub趋势榜排名靠前（趋势得分86.84），拥有极高的总星标数（308580）和显著的日增长（1034），项目描述明确其为'一个有效的智能体技能框架与软件开发方法论'。"
-      },
-      {
-        "name": "Impeccable",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为Impeccable的开源项目在GitHub上趋势飙升，单日获星2870，总星数已达95400。该项目旨在为编码智能体（AI助手）建立一套设计词汇，以提升其输出质量。",
-        "core_details": "该项目由开发者pbakaus主导，使用Rust语言开发。核心定位是“为你的编码智能体提供设计词汇”，具体功能包括：通过“润色与加粗”进行引导，通过“批判与审计”进行审查，旨在“在AI粗制滥造的代码发布前将其捕获”。项目贡献者中包含了Claude AI和Cursor Agent等AI工具。",
-        "ai_take": "这反映了AI编程助手领域的一个关键痛点：如何系统化地提升和约束AI生成的代码质量，而不仅仅是功能正确。项目尝试将设计原则和代码审查流程“词汇化”和“工具化”，可能为构建更可靠、更符合工程规范的AI协作工作流提供框架。",
-        "hype_check": "热度很高，单日近3000星和近十万总星数表明开发者社区对此类工具需求强烈。但“设计词汇”的具体实现效果、与主流IDE和AI助手的集成度，以及是否真能有效识别“AI slop”（AI粗制滥造的输出），仍需实际检验。",
-        "value_check": "潜在价值明确。如果成功，能为团队提供一套共享的、可执行的AI代码质量标准和审查自动化工具，减少人工复审负担，提升AI辅助开发的整体产出质量与一致性。其采用Rust开发也暗示了对性能和可靠性的追求。",
-        "follow_up": "关注其API设计、与Cursor/Claude/GitHub Copilot等工具的集成进展，以及实际项目中的应用案例和效果反馈。同时，观察其定义的“设计词汇”是否会被更广泛的开发者社区或AI编程工具链采纳为标准之一。",
-        "evidence": "项目描述明确指出其目标为“The design vocabulary for your coding agent”，并列举了“steer with polish and bolder, review with critique and audit, catch AI slop before it ships”等核心功能点。GitHub趋势数据（日增星2870，总星95400，语言Rust）和贡献者列表（含claude, cursoragent）提供了流行度与背景佐证。"
+        "what_happened": "GitHub 项目 'mattpocock/skills' 登上趋势榜，这是一个面向“真正工程师”的技能集合，直接来自作者的 .agents 目录。",
+        "core_details": "该项目由 mattpocock 创建，主要使用 Shell 语言。今日新增 876 颗星，总星数已达 307,497，显示出极高的社区关注度。项目由 mattpocock、claude、github-actions 和 gabimoncha 共同构建。",
+        "ai_take": "该项目直接关联 AI 代理（.agents 目录），暗示其内容可能用于增强或配置 AI 驱动的开发工具或工作流，体现了 AI 辅助工程实践的实用化趋势。",
+        "hype_check": "趋势分数高达 97.7，日增星数近 900，总星数超过 30 万，表明该项目在开发者社区中热度极高，并非短暂流行。",
+        "value_check": "作为高星开源项目，它提供了可复用的工程师技能集合，可能直接提升开发效率或 AI 代理能力，对实践型开发者具有明确工具价值。",
+        "follow_up": "关注项目更新，看其是否集成更多 AI 驱动功能或扩展为更通用的工程师技能平台。",
+        "evidence": "项目描述为“Skills for Real Engineers. Straight from my .agents directory.”，语言为 Shell，总星数 307497，今日星数 876，趋势分 97.7。"
       },
       {
         "name": "DeepTutor",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "香港大学数据智能实验室（HKUDS）在GitHub上开源了DeepTutor项目，这是一个旨在实现终身个性化辅导的AI系统，今日获得1930颗星，总星数已达50124，引发广泛关注。",
-        "core_details": "DeepTutor是一个基于Python开发的AI辅导系统，由HKUDS团队（包括pancacake、claude、Pinkllow等贡献者）构建。项目定位为“终身个性化辅导”，旨在通过AI技术提供持续、自适应的学习支持。项目在GitHub上趋势热度高，今日新增星数显著，总星数超过5万，表明其在开发者社区中受到高度关注。",
-        "ai_take": "该项目代表了AI在教育领域的深入应用，通过个性化与终身学习机制，可能推动智能教育从静态工具向动态陪伴式导师演进。其开源性质有助于加速AI辅导技术的迭代与普及。",
-        "hype_check": "热度较高，GitHub趋势分数达85.41，单日获星近2000，总星数超5万，显示社区兴趣浓厚。但需注意，高星数可能部分源于项目成熟度或营销效应，实际教育效果需验证。",
-        "value_check": "潜在价值显著：开源促进技术透明与协作；个性化辅导契合教育公平与效率需求；终身学习理念符合AI赋能教育的长期趋势。风险在于实际部署中的数据隐私、模型偏见及与真实教学场景的整合挑战。",
-        "follow_up": "可关注：1）项目后续更新与用户反馈；2）是否有实际教育机构试点案例；3）与类似AI教育工具（如Khanmigo、Cognii）的比较研究；4）团队是否发表相关学术论文。",
-        "evidence": "项目GitHub页面显示语言为Python，今日星数1930，总星数50124，由HKUDS团队维护；项目描述强调“终身个性化辅导”，官网为https://deeptutor.info/。无直接用户评论或外部报道，但高星数与趋势分数间接反映社区认可。"
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了DeepTutor项目，这是一个旨在实现终身个性化辅导的AI系统，今日获得2282颗星，总星数已达51794，显示出较高的社区关注度。",
+        "core_details": "DeepTutor是一个基于Python开发的AI辅导项目，专注于提供持续、个性化的学习指导。项目由pancacake、claude、Pinkllow等贡献者构建，并集成了GitHub Actions自动化流程。其核心目标是利用AI技术模拟个性化教师，适应不同学习者的长期需求。",
+        "ai_take": "该项目体现了教育AI向终身学习和高度个性化发展的趋势，通过开源方式促进技术迭代，可能推动自适应教育系统的实用化。",
+        "hype_check": "高星数和今日增长表明项目受到开发者社区积极关注，但需注意开源热度不一定直接转化为实际教育场景的有效性。",
+        "value_check": "作为开源项目，它降低了AI教育工具的开发门槛，并鼓励协作创新；若成功应用，可提升教育资源的可及性和个性化水平。",
+        "follow_up": "关注项目后续版本更新、实际部署案例以及教育效果评估，以验证其长期价值。",
+        "evidence": "项目在GitHub趋势榜排名靠前（趋势得分86.42），拥有51794总星和6344条评论，且明确标注为“终身个性化辅导”，链接https://deeptutor.info/提供更多信息。"
       },
       {
-        "name": "openbot",
+        "name": "impeccable",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "开源项目 openbot 在 GitHub 趋势榜上热度显著，今日新增 709 颗星，总星数达 3901，引发开发者社区关注。",
-        "core_details": "openbot 是一个本地优先的桌面工作空间，旨在为持久化的 AI 队友提供运行环境。它支持集成 Codex、Claude 和 Grok 等 AI 模型，并提供专用工作区、任务队列、文件共享、浏览器控制以及智能体间协作功能。项目使用 TypeScript 语言开发，由 nightly-labs 团队维护。",
-        "ai_take": "该项目代表了 AI 应用向本地化、持久化和协作化方向发展的趋势。通过将多个 AI 模型整合到一个统一的桌面工作空间中，并支持智能体间的任务协作，它可能为自动化工作流、多智能体系统研究以及个人 AI 助手的高级应用场景提供新的工具范式。",
-        "hype_check": "热度较高，单日获星数可观，表明其在开发者社区中引起了即时兴趣。但需注意，GitHub 趋势热度可能受短期因素影响，其长期价值和实际采用率仍需观察。",
-        "value_check": "核心价值在于提供了一个可本地部署、集成多模型且支持复杂协作的 AI 工作空间框架。对于希望构建私有、可定制且能处理多步骤任务的 AI 应用开发者而言，具有明确的工具价值。其“本地优先”特性也契合了当前对数据隐私和可控性的需求。",
-        "follow_up": "关注其后续版本迭代、社区生态建设（如插件或集成扩展）以及在实际工作流中的用例分享。",
-        "evidence": "项目描述明确指出其作为“本地优先桌面工作空间”的定位与核心功能（多模型运行、专用工作区、任务队列、文件共享、浏览器控制、智能体协作）。GitHub 数据（今日 709 星，总 3901 星，TypeScript 语言）支持其当前热度。"
+        "what_happened": "一个名为 'impeccable' 的 Rust 语言开源项目在 GitHub 趋势榜上热度飙升，单日获星 2300 颗，总星数已超过 9.7 万。",
+        "core_details": "该项目由 pbakaus 等人创建，定位为“编码智能体的设计词汇表”。其核心目标是帮助开发者引导和审查 AI 编码助手（如 Claude、Cursor Agent）的输出，通过提供“润色与强化”、“批判与审计”等设计指令，旨在在代码交付前捕捉并修正 AI 生成的粗糙或低质量代码（即所谓的 'AI slop'）。",
+        "ai_take": "这反映了 AI 辅助编程工作流中的一个关键痛点：如何系统化地提升 AI 生成代码的质量与风格。项目试图将代码审查和设计规范的过程标准化、词汇化，让开发者能更精确地引导 AI，标志着从单纯使用 AI 生成代码，转向对其进行精细化、专业化管控的演进趋势。",
+        "hype_check": "项目热度很高（趋势分 86.22），单日获星数可观，表明其概念切中了当前 AI 编程工具用户的普遍需求。高关注度可能源于开发者对现有 AI 编码输出质量不一致的普遍挫败感，以及对更优控制方法的迫切寻求。",
+        "value_check": "其核心价值在于提供了一套可操作的设计指令框架，可能提升 AI 编码协作的效率和产出质量。如果该“词汇表”能被广泛采纳并集成到主流 AI 编码工具中，有望成为提升 AI 生成代码可维护性与专业性的实用标准。但实际效果取决于社区采纳度、与不同 AI 模型的适配性以及具体指令的有效性。",
+        "follow_up": "关注该项目在 GitHub 上的后续更新、社区讨论（已有 5717 条评论）以及是否有主流 IDE 插件或 AI 编码助手开始集成此套设计词汇。同时，观察是否有类似项目出现，或是否有开发者分享使用该词汇表后生产力与代码质量提升的实证案例。",
+        "evidence": "项目描述明确指出其用途是“为你的编码智能体提供设计词汇。用润色与强化来引导，用批判与审计来审查，在 AI 粗制滥造的代码交付前将其捕获。” 其技术栈为 Rust，并由包括 pbakaus、Claude、GitHub Actions 在内的多方协作构建，证实了其与 AI 编码流程的紧密集成定位。"
       },
       {
         "name": "claude-mem",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "GitHub 上名为 'claude-mem' 的项目近期趋势热度显著上升，单日获得 336 颗星，总星数已超过 10 万。",
-        "core_details": "该项目是一个开源工具，旨在为各类 AI 智能体（Agent）提供跨会话的持久化上下文管理。它能捕获智能体在会话期间的所有操作，利用 AI 进行压缩，并将相关上下文注入未来的会话中，以维持工作的连续性和记忆。项目使用 TypeScript 编写，支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等多种 AI 模型或工具。",
-        "ai_take": "该项目直击当前 AI 智能体应用的一个核心痛点：缺乏长期记忆和跨会话的上下文连续性。通过自动捕获、压缩和回注上下文，它有望显著提升智能体在复杂、长期任务中的效率和连贯性，是增强 AI 助手实用性的重要工具层。",
-        "hype_check": "热度较高且合理。项目解决了 AI 工具链中一个切实存在的需求（记忆持久化），单日获星数多，总星数极高，表明其在开发者社区中获得了广泛关注和认可。支持多种主流模型也扩大了其潜在用户基础。",
-        "value_check": "实用价值明确。对于频繁使用 AI 编码助手或其他智能体进行开发的工程师而言，该工具能减少重复解释、保持项目上下文，可能提升工作流效率。其开源性质也便于社区贡献和适配。",
-        "follow_up": "可关注其在实际开发工作流中的集成案例、性能开销评估（尤其是上下文压缩与检索的效率），以及是否会有更多 AI 平台或 IDE（如 Cursor、VSCode）将其作为官方或推荐插件集成。",
-        "evidence": "项目 GitHub 页面描述其核心功能为“为每个智能体提供跨会话的持久化上下文”，并列出支持的多款 AI 模型。项目语言为 TypeScript，由 thedotmack 等人构建。数据方面：单日获星 336，总星数 104829，这些数据支撑了其高热度与受欢迎程度。"
+        "source": "GitHub",
+        "what_happened": "一个名为claude-mem的GitHub项目在技术社区中迅速流行，单日获得1140颗星，总星数已达106285，显示出开发者对其实用性的高度关注。",
+        "core_details": "claude-mem是一个用TypeScript编写的开源项目，旨在为AI代理提供跨会话的持久化上下文管理。它能捕获代理在会话中的所有行为，利用AI进行压缩，并将相关上下文注入未来的会话中，从而提升代理的连续性和效率。该项目支持多种主流AI模型和工具，包括Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot和OpenCode等。",
+        "ai_take": "该项目解决了AI代理在多次交互中上下文丢失的痛点，通过智能压缩和注入机制，有望显著提升代理的长期记忆能力和任务连贯性，是AI工程化应用中的一个重要工具创新。",
+        "hype_check": "项目热度很高，单日星数增长显著，总星数超过10万，表明其在开发者社区中引起了广泛共鸣。但需注意，高热度可能部分源于当前AI代理工具的流行趋势，实际效果需进一步验证。",
+        "value_check": "如果项目能稳定实现其宣称的功能，将为开发者在构建复杂AI应用时提供关键的上下文管理支持，降低开发成本，提升用户体验，具有明确的技术价值和实用潜力。",
+        "follow_up": "关注项目的后续更新、社区反馈以及在实际应用中的性能表现，特别是其压缩算法的效率和上下文注入的准确性。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，单日获星1140，总星数106285，说明其受到广泛关注。项目描述明确了其核心功能和支持的AI工具列表，技术栈为TypeScript。"
       },
       {
-        "name": "togg53192-cmd/jailbreaks",
+        "name": "T3 Code",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "GitHub 项目 'togg53192-cmd/jailbreaks' 登上趋势榜，这是一个收集了作者所有 AI 模型越狱提示的仓库。",
-        "core_details": "该项目由用户 togg53192-cmd 创建和维护，是一个集中展示其个人开发的各类 AI 模型越狱（Jailbreak）提示的列表。项目今日获得 1594 颗星，总星数已达 9084，显示出很高的社区关注度。",
-        "ai_take": "该项目反映了 AI 安全领域一个活跃的对抗性研究方向。用户通过系统性地收集和分享越狱提示，既挑战了主流大语言模型的安全护栏（如 OpenAI、Anthropic 等公司的模型），也为研究者和开发者提供了测试和加固模型安全性的宝贵资源。",
-        "hype_check": "热度很高。项目在 GitHub 趋势榜上，单日获星超 1500，总星数近万，表明其在 AI 安全/黑客社区内引起了广泛兴趣和讨论。",
-        "value_check": "对于 AI 安全研究人员、红队测试人员以及对模型脆弱性感兴趣的人来说，该项目具有直接的实用价值。它提供了一个现成的测试用例库，有助于理解和防御针对 AI 模型的提示注入攻击。对于普通用户，则需注意其潜在风险。",
-        "follow_up": "关注作者 togg53192-cmd 及其合作者的后续更新，以及 AI 安全社区对此类越狱集合的讨论和模型厂商的应对措施。",
-        "evidence": "项目描述为“LIST OF ALL MY JAILBREAKS”，今日获星 1594，总星数 9084，由 togg53192-cmd 等人构建。这些数据直接来自提供的趋势项信息。"
+        "source": "GitHub Trending",
+        "what_happened": "T3 Code 是一个在 GitHub 上流行的 TypeScript 项目，今日获得 930 颗星，总星数已达 32755。",
+        "core_details": "该项目由 juliusmarminge、claude、t3dotgg、maria-rcks 和 codex 等贡献者构建，是一个基于 TypeScript 的开源项目，目前有 8659 条评论，表明社区活跃度较高。",
+        "ai_take": "该项目可能涉及前端或全栈开发工具链，利用 TypeScript 的类型安全特性提升开发效率，其高星数和活跃讨论反映了开发者对现代化、类型安全的 Web 开发框架或工具的需求。",
+        "hype_check": "趋势得分 84.76 和今日显著的星数增长表明该项目当前在开发者社区中受到高度关注，可能因其解决了特定开发痛点或引入了创新特性。",
+        "value_check": "高总星数和活跃的评论数量表明该项目具有实际应用价值，并被广泛认可，可能为 TypeScript 生态系统提供了实用的工具或最佳实践。",
+        "follow_up": "建议关注项目仓库以了解其具体功能、更新路线图以及社区反馈，进一步评估其在具体开发场景中的适用性。",
+        "evidence": "数据来源于 GitHub Trending，包括项目语言、星数增长、贡献者列表和评论数量等指标。"
+      },
+      {
+        "name": "紫微斗数开源排盘引擎",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个基于倪海厦《天纪》体系的紫微斗数开源排盘引擎项目在GitHub上趋势飙升，单日获1126星，总星数达11225。",
+        "core_details": "该项目使用TypeScript编写，包含完整的排盘算法、四化系统、格局知识库和古籍原文数据，旨在提供紫微斗数的现代化计算工具。",
+        "ai_take": "该项目展示了AI/算法在传统文化领域的应用潜力，通过代码化传统占星体系，可能推动相关研究的数字化和标准化。",
+        "hype_check": "趋势热度较高（趋势分82.49），单日星数增长显著，反映社区对传统文化与编程结合的兴趣。",
+        "value_check": "作为开源工具，它降低了紫微斗数学习和研究的门槛，但实际准确性需依赖算法对古籍体系的精确建模。",
+        "follow_up": "可关注项目后续的算法优化、社区贡献是否增加，以及是否衍生出教育或商业应用。",
+        "evidence": "项目描述明确基于倪海厦体系，包含完整算法和数据；GitHub数据（日增1126星、总11225星、2238评论）佐证其流行度。"
       },
       {
         "name": "OpenMausBot",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为OpenMausBot的开源项目在GitHub上趋势飙升，单日获星1199，总星数达7500。该项目定位为Grok Bot的开源替代品，并内置虚拟机供机器人使用。",
-        "core_details": "项目由milind-soni、claude、aivsomkar、robinsonnblack、bradhallett等人构建，使用TypeScript语言开发。它提供了一个可让机器人运行的虚拟机环境，旨在作为Grok Bot的替代方案。",
-        "ai_take": "该项目体现了开源社区对构建可定制、透明且功能强大的AI机器人平台的兴趣。内置虚拟机可能为机器人提供更安全、隔离的执行环境，或支持复杂的操作逻辑，这反映了在AI代理和自动化工具领域对基础设施创新的关注。",
-        "hype_check": "趋势分高达80.78，单日获星数显著，表明其在开发者社区中引起了强烈关注。作为“Grok Bot替代品”的定位可能精准击中了部分用户对开源、可自托管解决方案的需求。",
-        "value_check": "核心价值在于提供了一个开源的、可能更灵活可控的机器人框架与执行环境。其虚拟机特性如果设计得当，可增强安全性、可扩展性和任务隔离能力。长期价值取决于其生态发展、易用性及与现有工具的集成度。",
-        "follow_up": "关注项目后续的版本更新、文档完善度以及社区活跃度。可观察是否有基于此项目的实际应用案例出现，并对比其与Grok Bot或其他类似平台在功能、性能上的实际差异。",
-        "evidence": "项目GitHub页面显示其描述为“开源的Grok Bot替代品，带有可供机器人使用的虚拟机”，使用TypeScript开发，由多位贡献者构建。趋势数据来自GitHub Trending，单日获星1199，总星7500，趋势得分80.78。"
+        "what_happened": "一个名为OpenMausBot的开源项目在GitHub上迅速走红，今日获得895颗星，总星数达8672，被定位为Grok Bot的开源替代品，其特色是提供了一个可供机器人使用的虚拟机。",
+        "core_details": "该项目由milind-soni、claude、aivsomkar、robinsonnblack和bradhallett共同构建，使用TypeScript语言开发。作为一个开源项目，它旨在提供一个类似Grok Bot功能的替代方案，并通过集成虚拟机环境来增强机器人的实用性和灵活性。",
+        "ai_take": "OpenMausBot代表了开源社区在AI助手和机器人领域的一次创新尝试，通过虚拟机集成，可能为机器人开发带来更强大的本地化或沙箱化运行能力，这有助于提升机器人的安全性和可扩展性，尤其是在需要隔离环境的复杂任务中。",
+        "hype_check": "项目在GitHub上的高热度（趋势得分80.64，今日星数增长显著）反映了开发者对开源AI工具和虚拟机集成方案的强烈兴趣，但需注意这仍是一个早期项目，实际应用和成熟度有待验证。",
+        "value_check": "作为Grok Bot的替代品，OpenMausBot提供了开源和可定制的优势，虚拟机功能可能为机器人开发带来新的可能性，如更好的资源管理和隔离。然而，其长期价值取决于社区支持、功能完善度以及在实际场景中的表现。",
+        "follow_up": "关注项目的后续更新、社区反馈以及是否会有实际部署案例，以评估其稳定性和实用性。同时，可以对比其他类似开源机器人项目，了解其在生态系统中的独特定位。",
+        "evidence": "数据基于GitHub Trending页面，显示项目标题为'milind-soni/OpenMausBot'，描述为'开源Grok Bot替代品，带有可供机器人使用的虚拟机'，语言为TypeScript，今日星数895，总星数8672，构建者包括milind-soni等。"
+      },
+      {
+        "name": "expo/skills",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 项目 expo/skills 登上趋势榜，这是一个为 Expo 项目和 Expo 应用服务设计的 AI 智能体技能集合。",
+        "core_details": "该项目由 EvanBacon、Kudo 等人构建，使用 Shell 语言编写。今日新增 38 颗星，总星数达 3905，获得了 247 条评论，趋势评分高达 80.29。",
+        "ai_take": "该项目展示了 AI 智能体在移动应用开发框架（如 Expo）中的具体应用潜力，通过预置技能库帮助开发者自动化处理 Expo 相关任务，是 AI 与低代码/跨平台开发工具结合的一个实践案例。",
+        "hype_check": "趋势评分较高且星数增长稳定，表明在开发者社区中关注度持续上升，但项目本身更偏向工具集而非突破性 AI 模型，热度主要源于其实用性。",
+        "value_check": "对于使用 Expo 进行 React Native 开发的团队，该技能库能提升开发效率，实现工作流自动化，具有明确的工程实用价值。",
+        "follow_up": "关注该技能库的后续更新，看其是否会集成更多复杂的 AI 代理能力，或与更多开发工具链深度结合。",
+        "evidence": "项目描述明确指出其为“AI agent skills for working with Expo projects and Expo Application Services”，GitHub 趋势数据（总星数 3905，今日增星 38，趋势分 80.29）支持其当前受关注程度。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "CopilotKit/OpenBot",
-        "content_summary": "OpenBot 是一个开源项目，旨在为每个 AI 协作者提供独立的计算机环境，包括浏览器、文件和工具。其特点是所有操作在执行前都会经过决策，并在执行后被记录。该项目支持集成任何 AG-UI 智能体。",
-        "ai_comment": "该项目代表了 AI 代理向更独立、可审计和工具化的‘数字员工’方向发展，为多智能体协作提供了基础设施层面的新思路。"
+        "item_name": "mattpocock/skills",
+        "content_summary": "这是一个名为“skills”的GitHub项目，由mattpocock维护，旨在为工程师提供实用的技能工具集。项目描述为“真实工程师的技能，直接来自我的.agents目录”。项目使用Shell语言编写，今日获得876颗星，总星数已达307,497。",
+        "ai_comment": "该项目定位为工程师的实用技能集合，可能包含自动化脚本或开发工具，高星数表明其在开发者社区中受到广泛关注。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "obra/superpowers",
-        "content_summary": "Superpowers 是一个智能体技能框架和软件开发方法论，旨在构建一个真正可工作的智能体系统。",
-        "ai_comment": "将‘智能体技能’框架化并与开发方法论结合，标志着 AI 在软件开发流程中的角色从辅助工具向核心参与者的转变。"
+        "item_name": "HKUDS/DeepTutor",
+        "content_summary": "这是一个名为DeepTutor的GitHub项目，由HKUDS团队开发，致力于提供终身个性化辅导。项目链接为https://deeptutor.info/，使用Python语言编写。今日获得2,282颗星，总星数达到51,794。",
+        "ai_comment": "DeepTutor项目聚焦于AI驱动的个性化教育，利用Python实现，其高增长星数反映出市场对AI教育工具的强烈兴趣。"
       },
       {
         "source_group": "github_trending",
         "item_name": "pbakaus/impeccable",
-        "content_summary": "Impeccable 是一个为编程智能体设计的设计词汇系统。它通过‘抛光’、‘加粗’等指令来引导智能体，并通过‘批评’、‘审计’来审查代码，旨在在 AI 生成的粗糙代码发布前将其捕获。",
-        "ai_comment": "该项目试图解决 AI 生成代码的质量控制问题，通过建立一套设计语言来提升人机协作的精确度和产出质量，是 AI 编程工具链的重要补充。"
+        "content_summary": "这是一个名为impeccable的GitHub项目，由pbakaus创建，旨在为编码智能体提供设计词汇。项目描述为“指导智能体进行润色和审查，在代码发布前捕捉AI生成的瑕疵”。项目使用Rust语言编写，今日获得2,300颗星，总星数高达97,092。",
+        "ai_comment": "该项目专注于提升AI编码智能体的输出质量，通过设计词汇来优化代码审查流程，Rust语言的选择可能强调性能和可靠性。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "95%-ile isn't that good",
-        "content_summary": "文章核心观点是，在大多数活动中，达到参与者中前95%的水平并不像人们想象的那么难。作者认为，对于许多活动，只要成为经常练习者中的前10%，就可能达到所有参与者中的前90%。文章旨在通过具体例子反驳‘成为顶尖异常困难’的普遍看法，并指出大多数人都有能力在多数事情上达到相对较高的水平。",
-        "ai_comment": "该观点对 AI 时代的人才培养和技能评估有启发意义，暗示专业化门槛可能被高估，而广泛的能力构建（类似 AI 的‘通才’特性）可能更具可行性。"
+        "item_name": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+        "content_summary": "Hacker News用户指出，X（原Twitter）平台再次自动在Web视图中打开推文内的所有链接，即使用户并未点击。发帖人提到，一年前曾报告过类似问题，如今流量数据显示此行为导致来自X的访问量异常飙升。",
+        "ai_comment": "此问题涉及平台用户体验和流量统计准确性，可能反映X在链接处理策略上的争议，对内容发布者和用户均有影响。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-        "content_summary": "Arken 是一个无密码认证中间件，使用 secp256k1 密钥和 DID 签名进行身份验证。其核心创新在于服务器端不存储任何秘密（如密码哈希、会话令牌），所有秘密由用户持有，从而从根本上消除了服务器数据泄露的风险。",
-        "ai_comment": "将区块链中常用的密钥体系用于传统身份认证，代表了去中心化安全范式对现有 Web 架构的渗透，可能简化安全模型并减少攻击面。"
+        "item_name": "Google's $500B bloodbath reflects the danger it faces from AI",
+        "content_summary": "Hacker News上一条关于谷歌面临AI威胁的帖子，其链接可能无法正常访问。帖子标题提及谷歌遭遇5000亿美元市值暴跌，反映了AI带来的危险。",
+        "ai_comment": "该话题指向AI竞争对科技巨头市值的冲击，但链接问题可能限制了具体内容的获取，凸显了信息传播中的技术障碍。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
-        "content_summary": "该视频内容解释了 AI 数据中心从电力输入到运行如 ChatGPT 等大型语言模型的完整运作流程，涵盖了基础设施、计算硬件和软件堆栈等方面。",
-        "ai_comment": "此类科普内容反映了公众对 AI 基础设施巨大能耗和复杂性的日益关注，是理解 AI 能力背后物理成本的重要窗口。"
+        "item_name": "Lifestreams' summarize operation, 30 years later",
+        "content_summary": "一篇回顾1996年Lifestreams论文中“summarize”操作的文章。该论文提出用时间排序的文档流替代传统文件系统，包含五个操作。文章指出，如今时间线、保存搜索等功能已普及，但“summarize”操作直到最近才因AI技术得以实现。",
+        "ai_comment": "这篇文章将历史研究与当前AI进展结合，展示了早期概念如何通过现代技术（如AI摘要）变得可行，体现了技术发展的延续性。"
       },
       {
         "source_group": "news",
-        "item_name": "Pentagon plans for death of Trump’s record military budget - Politico",
-        "content_summary": "据报道，美国国防部正在为特朗普提出的创纪录的1.5万亿美元军事预算计划可能‘夭折’做准备。同时，共和党内的国防鹰派人士在中期选举前与特朗普产生了分歧。相关报道还提及国防部正在起草一份1.1万亿美元的国防预算预案。",
-        "ai_comment": "军事预算的潜在变动反映了美国政治周期对国防战略和资源分配的直接影响，其规模对全球军工和AI国防应用领域有风向标意义。"
+        "item_name": "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times",
+        "content_summary": "《纽约时报》头条报道，法院驳回了特朗普团队试图扣押加州选票的最新努力。相关报道还包括司法部传唤加州选举官员调查选民欺诈，以及上诉法院再次拒绝司法部隔离超过2万张涉嫌非公民选票的请求。",
+        "ai_comment": "此新闻涉及美国选举法律程序和政治争议，反映了选举诚信问题的持续发酵，可能对中期选举产生重要影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes - PBS",
-        "content_summary": "美国陆军部长赫格塞斯解雇了五角大楼的高级军事规划官员，而此时特朗普政府正考虑对伊朗进行新的打击。被解职的将军因涉嫌泄露有关伊朗和乌克兰的机密信息而被移交给相关部门，可能面临刑事起诉。",
-        "ai_comment": "高层军事人事变动与潜在军事行动同时发生，显示了美国对伊朗政策的内部紧张与调整，地缘政治风险可能影响全球科技供应链的稳定。"
+        "item_name": "Carney says he can wait out Trump for trade deal - Politico",
+        "content_summary": "Politico报道，加拿大方面表示可以等待特朗普政府完成贸易协议谈判。相关报道提到特朗普称加拿大对待美国“非常友好”，双方在互征关税后，已在两个领域采取措施缓和贸易战，同时南非准备应对美国关税。",
+        "ai_comment": "这则新闻聚焦美加贸易关系动态，显示出贸易谈判的复杂性和地缘经济影响，谈判结果可能波及第三方国家。"
       },
       {
         "source_group": "news",
-        "item_name": "DoJ reportedly issues subpoenas over same-name Alaska candidates - The Guardian",
-        "content_summary": "据报道，美国司法部就阿拉斯加州出现的同名参选人事件发出了传票。有指控称民主党方面存在所谓的‘第二个丹·沙利文’计划，试图混淆选民，近十分之一的阿拉斯加选民因此受到影响。司法部指控民主党在法庭上就阿拉斯加参议院竞选事宜误导了法院。",
-        "ai_comment": "选举中的‘同名候选人’策略及其引发的法律调查，凸显了信息操纵在民主进程中的新形态，这与在线信息环境和AI生成内容的潜在滥用问题存在逻辑关联。"
+        "item_name": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens - CBS News",
+        "content_summary": "CBS新闻提供2026年选举实时更新，报道特朗普在佛罗里达州举行集会拉票，以及El-Sayed与Stevens之间的冲突。其他报道包括特朗普在代托纳海滩的中期选举集会，以及选举前周末的竞选活动。",
+        "ai_comment": "新闻关注美国中期选举的竞选活动实况，突显关键州的竞争激烈程度，是选举季政治动员的典型写照。"
       }
     ],
-    "closing_note": "今日热点清晰地勾勒出一条主线：AI智能体正从单一任务执行者，向拥有专属工作空间、标准化操作流程和长期记忆的复杂系统演进。开源社区通过提供环境（如OpenBot）、规范（如Impeccable）和记忆层（如claude-mem），正在为下一代AI应用搭建关键基础设施。然而，这些工具的长期价值将取决于其生态繁荣度与实际场景的深度融合。在追逐热度的同时，开发者更应关注项目的架构可持续性、安全性与真实问题解决能力。明日，我们或将见证这些基础组件催生出更高效、更自主的AI协作范式。",
+    "closing_note": "整体来看，今日热点项目均围绕AI工程化与实用化展开，从代码生成、教育辅导到文化计算，显示出AI技术正深入具体领域，通过开源协作解决实际痛点。开发者社区对这些工具的关注度极高，但实际效能仍需在长期应用中验证。",
     "_errors": []
   }
 }
