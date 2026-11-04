@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:17:58.707213+00:00",
+  "generated_at": "2026-11-04T01:53:13.900872+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,85 +11,23 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "thedotmack/claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "author": "thedotmack",
-        "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "TypeScript",
-        "score": 1803,
-        "comment_count": 9665,
-        "total_stars": 110861,
-        "built_by": [
-          "thedotmack",
-          "claude",
-          "rudycelekli",
-          "cursoragent",
-          "rodboev"
-        ],
-        "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1803\n\nTotal stars: 110861\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
-        "trend_score": 92.75,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.965,
-          "topic_overlap": 0.333,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "Donchitos/Claude-Code-Game-Studios",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "author": "Donchitos",
-        "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "author": "mattpocock",
+        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
         "language": "Shell",
-        "score": 1379,
-        "comment_count": 4528,
-        "total_stars": 33699,
+        "score": 1164,
+        "comment_count": 26174,
+        "total_stars": 311514,
         "built_by": [
-          "Donchitos",
-          "claude"
-        ],
-        "content_context": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.\n\nLanguage: Shell\n\nStars today: 1379\n\nTotal stars: 33699\n\nBuilt by: Donchitos, claude",
-        "trend_score": 92.03,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.908,
-          "topic_overlap": 0.4,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "pingdotgg/t3code",
-        "url": "https://github.com/pingdotgg/t3code",
-        "author": "pingdotgg",
-        "summary": null,
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "TypeScript",
-        "score": 3229,
-        "comment_count": 9119,
-        "total_stars": 42215,
-        "built_by": [
-          "juliusmarminge",
+          "mattpocock",
           "claude",
-          "t3dotgg",
-          "maria-rcks",
-          "codex"
+          "github-actions",
+          "gabimoncha"
         ],
-        "content_context": "Language: TypeScript\n\nStars today: 3229\n\nTotal stars: 42215\n\nBuilt by: juliusmarminge, claude, t3dotgg, maria-rcks, codex",
-        "trend_score": 86.84,
+        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1164\n\nTotal stars: 311514\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+        "trend_score": 86.85,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 1.0,
@@ -104,91 +42,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "D4Vinci/Scrapling",
-        "url": "https://github.com/D4Vinci/Scrapling",
-        "author": "D4Vinci",
-        "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "Python",
-        "score": 706,
-        "comment_count": 9794,
-        "total_stars": 93089,
+        "title": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "author": "thedotmack",
+        "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "TypeScript",
+        "score": 1139,
+        "comment_count": 9742,
+        "total_stars": 111960,
         "built_by": [
-          "D4Vinci",
-          "yetval",
-          "AbdullahY36",
-          "SulimanAbdulrazzaq",
-          "codex"
-        ],
-        "content_context": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\nLanguage: Python\n\nStars today: 706\n\nTotal stars: 93089\n\nBuilt by: D4Vinci, yetval, AbdullahY36, SulimanAbdulrazzaq, codex",
-        "trend_score": 83.22,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.905,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "shiyu-coder/Kronos",
-        "url": "https://github.com/shiyu-coder/Kronos",
-        "author": "shiyu-coder",
-        "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "Python",
-        "score": 857,
-        "comment_count": 7591,
-        "total_stars": 46050,
-        "built_by": [
-          "shiyu-coder",
-          "Luciferbobo",
-          "CharlesJ-ABu",
-          "AnMakc",
-          "randyy179"
-        ],
-        "content_context": "Kronos: A Foundation Model for the Language of Financial Markets\n\nLanguage: Python\n\nStars today: 857\n\nTotal stars: 46050\n\nBuilt by: shiyu-coder, Luciferbobo, CharlesJ-ABu, AnMakc, randyy179",
-        "trend_score": 83.2,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.904,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "JustVugg/colibri",
-        "url": "https://github.com/JustVugg/colibri",
-        "author": "JustVugg",
-        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "C",
-        "score": 675,
-        "comment_count": 5388,
-        "total_stars": 46652,
-        "built_by": [
-          "JustVugg",
+          "thedotmack",
           "claude",
-          "ZacharyZcR",
-          "monotophic",
-          "rudycelekli"
+          "rudycelekli",
+          "cursoragent",
+          "rodboev"
         ],
-        "content_context": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\n\nLanguage: C\n\nStars today: 675\n\nTotal stars: 46652\n\nBuilt by: JustVugg, claude, ZacharyZcR, monotophic, rudycelekli",
-        "trend_score": 81.93,
+        "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1139\n\nTotal stars: 111960\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+        "trend_score": 84.81,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.871,
+          "engagement": 0.947,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -204,11 +78,11 @@
         "url": "https://github.com/vercel-labs/agent-desktop",
         "author": "vercel-labs",
         "summary": "Computer use CLI for AI agents",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
         "language": "Rust",
-        "score": 2275,
-        "comment_count": 685,
-        "total_stars": 10186,
+        "score": 3791,
+        "comment_count": 884,
+        "total_stars": 12880,
         "built_by": [
           "lahfir",
           "github-actions",
@@ -216,11 +90,11 @@
           "dependabot",
           "ctate"
         ],
-        "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2275\n\nTotal stars: 10186\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
-        "trend_score": 80.85,
+        "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 3791\n\nTotal stars: 12880\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
+        "trend_score": 83.02,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.843,
+          "engagement": 0.899,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -232,91 +106,218 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "FlashML-org/FreeToken",
-        "url": "https://github.com/FlashML-org/FreeToken",
-        "author": "FlashML-org",
-        "summary": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "Python",
-        "score": 653,
-        "comment_count": 1590,
-        "total_stars": 16154,
+        "title": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "author": "JustVugg",
+        "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "C",
+        "score": 802,
+        "comment_count": 5470,
+        "total_stars": 47267,
         "built_by": [
-          "jason-fxz",
-          "andy-yang-1",
-          "void-mckenzie",
-          "taking-lying-flat",
-          "zihaomu"
-        ],
-        "content_context": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.\n\nLanguage: Python\n\nStars today: 653\n\nTotal stars: 16154\n\nBuilt by: jason-fxz, andy-yang-1, void-mckenzie, taking-lying-flat, zihaomu",
-        "trend_score": 79.44,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.805,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "hyprwm/Hyprland",
-        "url": "https://github.com/hyprwm/Hyprland",
-        "author": "hyprwm",
-        "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "C++",
-        "score": 509,
-        "comment_count": 2158,
-        "total_stars": 39993,
-        "built_by": [
-          "vaxerski",
-          "fufexan",
-          "gulafaran",
-          "MightyPlaza",
-          "UjinT34"
-        ],
-        "content_context": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\n\nLanguage: C++\n\nStars today: 509\n\nTotal stars: 39993\n\nBuilt by: vaxerski, fufexan, gulafaran, MightyPlaza, UjinT34",
-        "trend_score": 79.42,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.805,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "kornia/kornia",
-        "url": "https://github.com/kornia/kornia",
-        "author": "kornia",
-        "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-        "published_at": "2026-11-03T03:17:35.827486+00:00",
-        "language": "Python",
-        "score": 412,
-        "comment_count": 1490,
-        "total_stars": 12169,
-        "built_by": [
-          "edgarriba",
-          "ducha-aiki",
-          "pre-commit-ci",
+          "JustVugg",
           "claude",
-          "johnnv1"
+          "ZacharyZcR",
+          "monotophic",
+          "rudycelekli"
         ],
-        "content_context": "🐍 Geometric Computer Vision Library for Spatial AI\n\nLanguage: Python\n\nStars today: 412\n\nTotal stars: 12169\n\nBuilt by: edgarriba, ducha-aiki, pre-commit-ci, claude, johnnv1",
-        "trend_score": 78.17,
+        "content_context": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.\n\nLanguage: C\n\nStars today: 802\n\nTotal stars: 47267\n\nBuilt by: JustVugg, claude, ZacharyZcR, monotophic, rudycelekli",
+        "trend_score": 82.78,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.772,
+          "engagement": 0.893,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "author": "p-e-w",
+        "summary": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "Python",
+        "score": 701,
+        "comment_count": 4385,
+        "total_stars": 38832,
+        "built_by": [
+          "p-e-w",
+          "dependabot",
+          "Vinay-Umrethe",
+          "anrp",
+          "spikymoth"
+        ],
+        "content_context": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more\n\nLanguage: Python\n\nStars today: 701\n\nTotal stars: 38832\n\nBuilt by: p-e-w, dependabot, Vinay-Umrethe, anrp, spikymoth",
+        "trend_score": 82.01,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.873,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "floci-io/floci",
+        "url": "https://github.com/floci-io/floci",
+        "author": "floci-io",
+        "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "Java",
+        "score": 482,
+        "comment_count": 3207,
+        "total_stars": 28837,
+        "built_by": [
+          "hectorvent",
+          "pgermosen",
+          "okinaka",
+          "AndreKurait",
+          "exoego"
+        ],
+        "content_context": "Light, fluffy, and always free - The AWS Local Emulator alternative\n\nLanguage: Java\n\nStars today: 482\n\nTotal stars: 28837\n\nBuilt by: hectorvent, pgermosen, okinaka, AndreKurait, exoego",
+        "trend_score": 80.45,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.832,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Usagi-org/ai-goofish-monitor",
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+        "author": "Usagi-org",
+        "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "Python",
+        "score": 228,
+        "comment_count": 2847,
+        "total_stars": 16459,
+        "built_by": [
+          "dingyufei615",
+          "claude",
+          "claude",
+          "ijodion",
+          "hurleychin"
+        ],
+        "content_context": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\nLanguage: Python\n\nStars today: 228\n\nTotal stars: 16459\n\nBuilt by: dingyufei615, claude, claude, ijodion, hurleychin",
+        "trend_score": 78.34,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.776,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "max-sixty/worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "author": "max-sixty",
+        "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "Rust",
+        "score": 438,
+        "comment_count": 380,
+        "total_stars": 10527,
+        "built_by": [
+          "max-sixty",
+          "claude",
+          "worktrunk-bot",
+          "dependabot",
+          "github-actions"
+        ],
+        "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 438\n\nTotal stars: 10527\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
+        "trend_score": 75.95,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.713,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anomalyco/hex",
+        "url": "https://github.com/anomalyco/hex",
+        "author": "anomalyco",
+        "summary": "Local voice dictation for mac, windows and linux",
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "Rust",
+        "score": 410,
+        "comment_count": 258,
+        "total_stars": 4616,
+        "built_by": [
+          "kitlangton",
+          "thdxr",
+          "Hona",
+          "opencode-agent",
+          "vimtor"
+        ],
+        "content_context": "Local voice dictation for mac, windows and linux\n\nLanguage: Rust\n\nStars today: 410\n\nTotal stars: 4616\n\nBuilt by: kitlangton, thdxr, Hona, opencode-agent, vimtor",
+        "trend_score": 75.01,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.688,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "spotify/portal-ai-plugins",
+        "url": "https://github.com/spotify/portal-ai-plugins",
+        "author": "spotify",
+        "summary": null,
+        "published_at": "2026-11-04T01:53:09.434395+00:00",
+        "language": "TypeScript",
+        "score": 91,
+        "comment_count": 238,
+        "total_stars": 3054,
+        "built_by": [
+          "djamaile",
+          "claude",
+          "javoire",
+          "sorantis"
+        ],
+        "content_context": "Language: TypeScript\n\nStars today: 91\n\nTotal stars: 3054\n\nBuilt by: djamaile, claude, javoire, sorantis",
+        "trend_score": 71.11,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.586,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -331,139 +332,142 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Software freedom is about our human desire to share, tinker, and collaborate",
-        "url": "https://educatingtobehuman.org/software-freedom-and-the-case-for-open-with-matthias-kirschner",
-        "author": "markjgraham",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-03T03:13:35+00:00",
-        "summary": "Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w...",
-        "comment_highlights": [
-          "Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w..."
-        ],
-        "linked_context": {},
-        "content_context": "HN comment: Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w...",
-        "trend_score": 53.02,
-        "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.081,
-          "topic_overlap": 0.111,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
-        "url": "https://news.ycombinator.com/item?id=50347425",
-        "author": "mike_richards",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-03T02:52:50+00:00",
-        "summary": "I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was...",
-        "comment_highlights": [
-          "I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was..."
-        ],
-        "linked_context": {},
-        "content_context": "We are looking for a Cryptography book recommendation to read with our 10 year old who loves making up his own ciphers. He loves reading adult math and science books with us at breakfast like Ignition!, Humble Pi, and The Hunt for Vulcan. All of the kids books that we've found are just puzzles, but I don't want to get something way over his head math-wise. A good history with basic theory behind the different types would be perfect. Thanks!\n\nHN comment: I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was...",
-        "trend_score": 52.63,
-        "trend_breakdown": {
-          "freshness": 0.983,
-          "engagement": 0.081,
-          "topic_overlap": 0.125,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Rustable is an open source database client built in Rust",
-        "url": "https://rustable.app",
-        "author": "JaTochNietDan",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-03T03:06:53+00:00",
-        "summary": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.",
-        "comment_highlights": [
-          "I built (vibe coded with direction) a free, open source alternative to TablePlus.<p>The goal is high performance and easy to use just like TablePlus but without that nagging window asking you to pay to have more than 2 active tabs.<p>It also runs in the browser for a fun demo since it can be comp..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://rustable.app/",
-          "page_title": "Rustable â This isnât a screenshot.",
-          "page_description": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.",
-          "page_excerpt": "Of course it is. We also use mise, and mise is written in Rust. Thatâs how you know itâs good. Please donât ask any follow-up questions about this methodology."
-        },
-        "content_context": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.\n\nOf course it is. We also use mise, and mise is written in Rust. Thatâs how you know itâs good. Please donât ask any follow-up questions about this methodology.\n\nHN comment: I built (vibe coded with direction) a free, open source alternative to TablePlus.<p>The goal is high performance and easy to use just like TablePlus but without that nagging window asking you to pay to have more than 2 active tabs.<p>It also runs in the browser for a fun demo since it can be comp...",
-        "trend_score": 51.74,
-        "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.081,
-          "topic_overlap": 0.5,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: PhoneUse – Phones for AI Agents",
-        "url": "https://www.phoneuse.com/",
-        "author": "dyscrete",
+        "title": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+        "url": "https://tahaygun.github.io/pauseless/",
+        "author": "tahaygun",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-03T02:50:40+00:00",
-        "summary": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.",
+        "published_at": "2026-11-04T01:52:24+00:00",
+        "summary": "Cut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.phoneuse.com/",
-          "page_title": "PhoneUse: Your agent now has a phone",
-          "page_description": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.",
-          "page_excerpt": "> “Get a real iPhone, open Instagram and post today’s menu to our story.”"
+          "resolved_url": "https://tahaygun.github.io/pauseless/",
+          "page_title": "Pauseless – Remove silences from video, free and private",
+          "page_description": "Cut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.",
+          "page_excerpt": "Pauseless finds every pause in your recording and removes it. Send the result to Final Cut Pro, DaVinci Resolve, Premiere Pro or CapCut, or export the finished video. Your files never leave your computer.\n\nRiverside, Zoom, OBS or phone videos. Pauseless reads only the audio to find the quiet parts, so even long files are ready in seconds.\n\nSet the silence threshold (or let auto pick it), the minimum pause length and how much breathing room to keep. The timeline and preview update instantly."
         },
-        "content_context": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.\n\n> “Get a real iPhone, open Instagram and post today’s menu to our story.”",
-        "trend_score": 50.15,
+        "content_context": "I have been using some third part tools for the purpose of cutting out the silences and filler words from my amateur podcasts and wanted to give it a shot myself to build one that works on the browser. Ad-free, install-free and account-free version.<p>And here is the result.<p>It works completely on browser and has zero backend api connections. Everything stays in your browser. Chrome or edge needed though.<p>Analyzes 2h of video in 10 seconds on my mac air :) So pretty fast. You have option to export it on the browser or download timeline for final cut, premiere pro, davinci resolve or capcut.<p>Feel free to use, create PR's or give feedback.<p>MIT licensed: <a href=\"https://github.com/tahaygun/pauseless\" rel=\"nofollow\">https://github.com/tahaygun/pauseless</a>\n\nCut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.\n\nPauseless finds every pause in your recording and removes it. Send the result to Final Cut Pro, DaVinci Resolve, Premiere Pro or CapCut, or export the finished video. Your files never leave your computer. Riverside, Zoom, OBS or phone videos. Pauseless reads only the audio to find the quiet parts, so even long files are ready in seconds. Set the silence threshold (or let auto pick it), the minimum pause length and how much breathing room to keep. The timeline and preview update instantly.",
+        "trend_score": 56.54,
         "trend_breakdown": {
-          "freshness": 0.981,
-          "engagement": 0.045,
-          "topic_overlap": 0.5,
+          "freshness": 0.999,
+          "engagement": 0.046,
+          "topic_overlap": 0.333,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Claude's new rules against game cloning won't stop the AI copying boom",
-        "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-        "author": "martincmartin",
+        "title": "FBI Probes Autism Therapy Provider That Billed $30k a Day",
+        "url": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea",
+        "author": "impish9208",
         "score": 1,
         "comment_count": 1,
-        "published_at": "2026-11-03T03:05:58+00:00",
-        "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+        "published_at": "2026-11-04T01:45:52+00:00",
+        "summary": "Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>",
         "comment_highlights": [
-          "\"Anthropic’s new prompt comes as AI coding tools are powering a deluge of game projects based on existing work in one way or another. That includes thrown-together copies of game demos that are making some developers afraid to show their early work publicly, as well as thousands of AI-powered dec..."
+          "Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>"
         ],
-        "linked_context": {
-          "resolved_url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-          "page_title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-          "page_description": "The tsunami of imitators is way bigger than any one model maker can stem.",
-          "page_excerpt": "The tsunami of imitators is way bigger than any one model maker can stem.\n\nLast week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it’s unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months.\n\nA social media user and AI decompilation enthusiast going by the name “chasm” was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name “tengu_heron_brook”—reads as follows:"
-        },
-        "content_context": "The tsunami of imitators is way bigger than any one model maker can stem.\n\nThe tsunami of imitators is way bigger than any one model maker can stem. Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it’s unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name “chasm” was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name “tengu_heron_brook”—reads as follows:\n\nHN comment: \"Anthropic’s new prompt comes as AI coding tools are powering a deluge of game projects based on existing work in one way or another. That includes thrown-together copies of game demos that are making some developers afraid to show their early work publicly, as well as thousands of AI-powered dec...",
-        "trend_score": 49.92,
+        "linked_context": {},
+        "content_context": "HN comment: Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>",
+        "trend_score": 51.45,
         "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.081,
+          "freshness": 0.995,
+          "engagement": 0.082,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "An excavator dig cycle in the browser, timed by oil flow instead of keyframes",
+        "url": "https://animatedwebs.com/demos/kittredge-k35-excavator/index.html",
+        "author": "nonerthy",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-04T01:50:55+00:00",
+        "summary": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://animatedwebs.com/demos/kittredge-k35-excavator/index.html",
+          "page_title": "Kittredge K35: dig one bucket, read every cylinder",
+          "page_description": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.",
+          "page_excerpt": "Every step below is timed by oil, not by animation: the volume each cylinder needs to sweep, divided by what the pump can deliver at that pressure. Change the soil or the flow above and these numbers change with the arm.\n\nKittredge Machine Works and the K35 are fictional. Figures come from the simulator's own model and are illustrative, not a published rating.\n\nBring your crew to our Milwaukee proving yard, or we haul a K35 to your site anywhere within 150 miles. Two hours, your soil, your trench, our fuel."
+        },
+        "content_context": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.\n\nEvery step below is timed by oil, not by animation: the volume each cylinder needs to sweep, divided by what the pump can deliver at that pressure. Change the soil or the flow above and these numbers change with the arm. Kittredge Machine Works and the K35 are fictional. Figures come from the simulator's own model and are illustrative, not a published rating. Bring your crew to our Milwaukee proving yard, or we haul a K35 to your site anywhere within 150 miles. Two hours, your soil, your trench, our fuel.",
+        "trend_score": 50.01,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+        "author": "cdrnsf",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-04T01:52:37+00:00",
+        "summary": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+          "page_title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+          "page_description": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.",
+          "page_excerpt": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nCritics say OpenAI should tackle people’s concerns about data centers, not rebrand them.\n\nPosts from this author will be added to your daily email digest and your homepage feed."
+        },
+        "content_context": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.\n\nPosts from this topic will be added to your daily email digest and your homepage feed. Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them. Posts from this author will be added to your daily email digest and your homepage feed.",
+        "trend_score": 49.46,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Our organizations are being DDoSed from the inside",
+        "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/",
+        "author": "mavelikara",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-04T01:44:28+00:00",
+        "summary": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/",
+          "page_title": "Our organizations are being DDoSed from the inside",
+          "page_description": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?",
+          "page_excerpt": "I’ve written before that you can outsource work, but not your understanding.\n\nAs a CEO, I’m finding that harder to live up to. It feels like our organizations are being DDoSed from the inside. Nobody is trying to overwhelm the company. Everyone is doing something they think is useful. But all of that work draws on the same limited capacity to understand, review, and decide. We can generate changes much faster than we can give them that attention.\n\nI’m trying to keep product and marketing aligned while what we’re building changes daily. By the time I understand something well enough to contribute, the work might have already changed. Teams and agents are moving faster than any of us can follow."
+        },
+        "content_context": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?\n\nI’ve written before that you can outsource work, but not your understanding. As a CEO, I’m finding that harder to live up to. It feels like our organizations are being DDoSed from the inside. Nobody is trying to overwhelm the company. Everyone is doing something they think is useful. But all of that work draws on the same limited capacity to understand, review, and decide. We can generate changes much faster than we can give them that attention. I’m trying to keep product and marketing aligned while what we’re building changes daily. By the time I understand something well enough to contribute, the work might have already changed. Teams and agents are moving faster than any of us can follow.",
+        "trend_score": 48.89,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.046,
           "topic_overlap": 0.4,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -473,53 +477,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: I built a little browser game to practice Vim commands",
-        "url": "https://hjkl.duy.run",
-        "author": "dh1011",
+        "title": "Show HN: Spacecamps – Commission free online booking for caravan parks",
+        "url": "https://spacecamps.com.au",
+        "author": "cvgellhorn",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-03T03:10:04+00:00",
-        "summary": "Little edits. Lasting skills. Learn Vim in your browser with short, hands-on editing challenges. Practice motions, text objects, search, marks, counts, and repeats in a real Vim editor — free, no sign-up.",
+        "published_at": "2026-11-04T01:52:53+00:00",
+        "summary": "Guests book, pay and check in online, even on a weak signal. Flat monthly fee for caravan and holiday park owners in Australia and New Zealand, no commission on stays. Stripe card fees apply.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://hjkl.duy.run/",
-          "page_title": "hjkl — learn Vim by doing",
-          "page_description": "Little edits. Lasting skills. Learn Vim in your browser with short, hands-on editing challenges. Practice motions, text objects, search, marks, counts, and repeats in a real Vim editor — free, no sign-up.",
-          "page_excerpt": "Learn Vim in your browser with short, hands-on editing challenges. Practice motions, text objects, search, marks, counts, and repeats in a real Vim editor — free, no sign-up.\n\nPick the skills you want, then make small real edits in a browser Vim editor. Each skill runs two guided edits, two prompted edits, and two independent edits. Any valid edit that reaches the target text passes. Type :help in Normal mode for the current commands.\n\nFree, no account, nothing stored. Requires a desktop browser with a physical keyboard."
+          "resolved_url": "https://spacecamps.com.au/",
+          "page_title": "Spacecamps - Caravan park bookings. No fees, no cut.",
+          "page_description": "Guests book, pay and check in online, even on a weak signal. Flat monthly fee for caravan and holiday park owners in Australia and New Zealand, no commission on stays. Stripe card fees apply.",
+          "page_excerpt": "Guests book, pay and let themselves in without ringing you, even on one bar of signal. You pay one flat monthly fee.\n\nEach feature takes a job off you or your staff. Once your sites and rates are in, most of them run without anyone opening the dashboard.\n\nGuests pick a free site, see the exact price and book at any hour, even on one bar of signal."
         },
-        "content_context": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)\n\nLittle edits. Lasting skills. Learn Vim in your browser with short, hands-on editing challenges. Practice motions, text objects, search, marks, counts, and repeats in a real Vim editor — free, no sign-up.\n\nLearn Vim in your browser with short, hands-on editing challenges. Practice motions, text objects, search, marks, counts, and repeats in a real Vim editor — free, no sign-up. Pick the skills you want, then make small real edits in a browser Vim editor. Each skill runs two guided edits, two prompted edits, and two independent edits. Any valid edit that reaches the target text passes. Type :help in Normal mode for the current commands. Free, no account, nothing stored. Requires a desktop browser with a physical keyboard.",
-        "trend_score": 48.45,
+        "content_context": "Hi HN, I’m Chris, a solo dev in Sydney.<p>Spacecamps gives caravan parks and campgrounds their own online booking page, an interactive site map and guest messaging. Parks pay a flat monthly fee (A$59 for up to 100 sites, A$129 for up to 250). There are no commissions or setup fees.<p>I built it because booking a park spot in Australia can be quite painful. Many parks still want you to ring for availability, and the booking platforms that exist are clunky and outdated. It’s especially bad when you need somewhere for tonight and you’re standing by the road with one bar of reception. I wanted guests to be able to see what’s free and book in a minute, and I wanted parks to keep the money instead of losing a cut on every booking.<p>It’s built with React Router in framework mode. I spent a lot of time keeping the guest booking portal light, with minimal JavaScript and a small payload, so it loads fast on a weak mobile connection. That’s the exact situation it was built for.<p>I’d really appreciate feedback, from park operators or from anyone who’s tried to book a campsite on short notice.<p><a href=\"https://spacecamps.com.au\" rel=\"nofollow\">https://spacecamps.com.au</a>\n\nGuests book, pay and check in online, even on a weak signal. Flat monthly fee for caravan and holiday park owners in Australia and New Zealand, no commission on stays. Stripe card fees apply.\n\nGuests book, pay and let themselves in without ringing you, even on one bar of signal. You pay one flat monthly fee. Each feature takes a job off you or your staff. Once your sites and rates are in, most of them run with...",
+        "trend_score": 46.43,
         "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.045,
-          "topic_overlap": 0.375,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-        "url": "https://arxiv.org/abs/2608.25820",
-        "author": "teleforce",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-03T02:58:44+00:00",
-        "summary": "Open-source implementations of the fifth generation (5G) Radio Access Network (RAN), such as OpenAirInterface (OAI) and srsRAN, have become increasingly relevant for industry and academic research, rapid prototyping, and low-cost private 5G deployments. The state of the art presents different evaluation scenarios for both platforms; however, these are often limited to individual testbed evaluations, end-to-end studies, or partial comparisons between them. In particular, there is a lack of eva...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://arxiv.org/abs/2608.25820",
-          "page_title": "Open-Source 5G RAN Platforms: A Dual Perspective on Performance and Capabilities",
-          "page_description": "Open-source implementations of the fifth generation (5G) Radio Access Network (RAN), such as OpenAirInterface (OAI) and srsRAN, have become increasingly relevant for industry and academic research, rapid prototyping, and low-cost private 5G deployments. The state of the art presents different evaluation scenarios for both platforms; however, these are often limited to individual testbed evaluations, end-to-end studies, or partial comparisons between them. In particular, there is a lack of eva...",
-          "page_excerpt": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs ."
-        },
-        "content_context": "Open-source implementations of the fifth generation (5G) Radio Access Network (RAN), such as OpenAirInterface (OAI) and srsRAN, have become increasingly relevant for industry and academic research, rapid prototyping, and low-cost private 5G deployments. The state of the art presents different evaluation scenarios for both platforms; however, these are often limited to individual testbed evaluations, end-to-end studies, or partial comparisons between them. In particular, there is a lack of eva...\n\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
-        "trend_score": 46.71,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.071,
+          "freshness": 1.0,
+          "engagement": 0.046,
           "topic_overlap": 0.25,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -529,26 +505,28 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Open-source \"codes of conduct\" are cancer and need to be retired",
-        "url": "https://twitter.com/GeoffreyHuntley/status/2117127384126095636",
-        "author": "MrBuddyCasino",
+        "title": "Choice – Our 2026 Shonky Award winners revealed",
+        "url": "https://www.choice.com.au/shonky-awards/hall-of-shame/shonkys-2026/our-2026-shonky-award-winners-revealed/",
+        "author": "anenefan",
         "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-03T03:01:18+00:00",
-        "summary": "Open-source \"codes of conduct\" are cancer and need to be retired; I deeply regret championing them. The inevitable outcome is an unproductive mob controlling projects through intimidation. Given enough time, it pushes away people who would contribute patches. Eventually, all that remains is an unpr…",
-        "comment_highlights": [],
+        "comment_count": 1,
+        "published_at": "2026-11-04T01:44:14+00:00",
+        "summary": "These are the products and businesses that let us down in 2026, scoring themselves a gong in the 21st Annual Shonky Awards.",
+        "comment_highlights": [
+          "Original title omitted Choice which is Australia's leading consumer advocacy group.<p>If the OP link doesn't work there's the ABC News covering the awards [1]<p>Personally I feel Petcover take the cake for being so obviously devious.<p>[1] <a href=\"https://www.abc.net.au/news/2026-11-04/choice-ha..."
+        ],
         "linked_context": {
-          "resolved_url": "https://x.com/GeoffreyHuntley/status/2117127384126095636",
-          "page_title": "geoff (@GeoffreyHuntley) on X",
-          "page_description": "Open-source \"codes of conduct\" are cancer and need to be retired; I deeply regret championing them. The inevitable outcome is an unproductive mob controlling projects through intimidation. Given enough time, it pushes away people who would contribute patches. Eventually, all that remains is an unpr…",
-          "page_excerpt": null
+          "resolved_url": "https://www.choice.com.au/shonky-awards/hall-of-shame/shonkys-2026/our-2026-shonky-award-winners-revealed/",
+          "page_title": "Our 2026 Shonky Award winners revealed - CHOICE",
+          "page_description": "These are the products and businesses that let us down in 2026, scoring themselves a gong in the 21st Annual Shonky Awards.",
+          "page_excerpt": "This is the duality of the Shonky Awards. On the one hand, we love this annual event. It’s a time for CHOICE to have fun, call out some dodgy products and services, and enjoy hearing your thoughts on the selection.\n\nBut wouldn’t it be great if we didn’t need them? If we lived in a land of milk and honey, where children basked in an endless summer and swam gleefully in butterscotch rivers with gumdrop smiles?\n\nThe thing is, we live in the real world. So the Shonkys continue in earnest, and with no shortage of contenders. This year we’ve selected six of the absolute shonkiest products and services for your perusal."
         },
-        "content_context": "Open-source \"codes of conduct\" are cancer and need to be retired; I deeply regret championing them. The inevitable outcome is an unproductive mob controlling projects through intimidation. Given enough time, it pushes away people who would contribute patches. Eventually, all that remains is an unpr…",
-        "trend_score": 46.59,
+        "content_context": "These are the products and businesses that let us down in 2026, scoring themselves a gong in the 21st Annual Shonky Awards.\n\nThis is the duality of the Shonky Awards. On the one hand, we love this annual event. It’s a time for CHOICE to have fun, call out some dodgy products and services, and enjoy hearing your thoughts on the selection. But wouldn’t it be great if we didn’t need them? If we lived in a land of milk and honey, where children basked in an endless summer and swam gleefully in butterscotch rivers with gumdrop smiles? The thing is, we live in the real world. So the Shonkys continue in earnest, and with no shortage of contenders. This year we’ve selected six of the absolute shonkiest products and services for your perusal.\n\nHN comment: Original title omitted Choice which is Australia's leading consumer advocacy group.<p>If the OP link doesn't work there's the ABC News covering the awards [1]<p>Personally I feel Petcover take the cake for being so obviously devious.<p>[1] <a href=\"https://www.abc.net.au/news/2026-11-04/choice-ha...",
+        "trend_score": 45.4,
         "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.045,
-          "topic_overlap": 0.286,
+          "freshness": 0.994,
+          "engagement": 0.082,
+          "topic_overlap": 0.143,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -557,26 +535,21 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Zeabur is closing. Where should you go?",
-        "url": "https://neatread.net/zeabur-is-closing-where-should-you-go",
-        "author": "piter6917",
+        "title": "Delaying Conflict Is Better Than Venting for Relationships",
+        "url": "https://www.theatlantic.com/family/archive/2021/09/delaying-conflict-better-venting-relationships-scheduled-disagreement/620057/",
+        "author": "gmays",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-03T02:52:30+00:00",
-        "summary": "Zeabur will be switched off by 31 December. How solo builders and small teams can land somewhere sensible without losing a weekend to panic.",
+        "published_at": "2026-11-04T01:50:05+00:00",
+        "summary": null,
         "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://neatread.net/zeabur-is-closing-where-should-you-go",
-          "page_title": "Zeabur is closing. Where should you go?",
-          "page_description": "Zeabur will be switched off by 31 December. How solo builders and small teams can land somewhere sensible without losing a weekend to panic.",
-          "page_excerpt": "Swipe left or right, tap either side, or press your reader's page buttons. Auto turns pages in the E-ink theme.\n\nOn 17 October, Zeabur's founder emailed customers to say the company is winding the platform down. The message came three days after a second break-in, and about seven weeks after the first. In late August an attacker used an old-style API key to read the environment variables stored in projects. The October intrusion reached Zeabur's internal systems and some customer services, and the founder...\n\nHe said the team weighed security, the workload of keeping the system running, and what it would take to continue, then chose to stop. He also said growth had hit a ceiling."
-        },
-        "content_context": "Zeabur will be switched off by 31 December. How solo builders and small teams can land somewhere sensible without losing a weekend to panic.\n\nSwipe left or right, tap either side, or press your reader's page buttons. Auto turns pages in the E-ink theme. On 17 October, Zeabur's founder emailed customers to say the company is winding the platform down. The message came three days after a second break-in, and about seven weeks after the first. In late August an attacker used an old-style API key to read the environment variables stored in projects. The October intrusion reached Zeabur's internal systems and some customer services, and the founder... He said the team weighed security, the workload of keeping the system running, and what it would take to continue, then chose to stop. He also said growth had hit a ceiling.",
-        "trend_score": 44.8,
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 44.85,
         "trend_breakdown": {
-          "freshness": 0.982,
-          "engagement": 0.045,
-          "topic_overlap": 0.2,
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.167,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -585,25 +558,57 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
-        "url": "https://ownhackertube.cc/",
-        "author": "RileyMorgan093",
+        "title": "Library of Babel",
+        "url": "https://libraryofbabel.app/",
+        "author": "soheilpro",
         "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-03T03:14:06+00:00",
-        "summary": "Follow YouTube channels and set your standards. An AI filters for quality, says why each video is worth watching, and learns your taste from your feedback.",
-        "comment_highlights": [],
+        "comment_count": 1,
+        "published_at": "2026-11-04T01:46:11+00:00",
+        "summary": "Browse, explore, and search a complete re-creation of Jorge Luis Borges' Library of Babel.",
+        "comment_highlights": [
+          "As a Show HN in 2024 (6 points, 7 comments) <a href=\"https://news.ycombinator.com/item?id=39483224\">https://news.ycombinator.com/item?id=39483224</a>"
+        ],
         "linked_context": {
-          "resolved_url": "https://ownhackertube.cc/",
-          "page_title": "Own Your HackerTube — AI-filtered videos tuned to your taste",
-          "page_description": "Follow YouTube channels and set your standards. An AI filters for quality, says why each video is worth watching, and learns your taste from your feedback.",
-          "page_excerpt": "Quality input, filtered by AI and tuned to your taste. Follow YouTube channels, write your standards, and an AI picks only the videos worth your time, then learns from what you like and don't, all on your own YouTube-style site.\n\nThis is a real site. Its owner follows nine YouTube channels and told the AI what they care about. Every video below was picked by the AI.\n\nAI pick Strong fit for a small-team AI founder: an overseas AI startup founder explains how they’re productizing coding agents for enterprise IT, with concrete guardrails, workflow design, and go-to-market lessons from attacking a big incumbent. It also covers how AI changes the product and operating model."
+          "resolved_url": "https://libraryofbabel.app/",
+          "page_title": "Library of Babel — Explore the Library of Babel online — Library of Babel",
+          "page_description": "Browse, explore, and search a complete re-creation of Jorge Luis Borges' Library of Babel.",
+          "page_excerpt": "The Library of Babel ( pdf ) is a short story by Jorge Luis Borges first published in 1941.\n\nIt describes a library made up of an “indefinite, perhaps infinite” number hexagonal of rooms, each lined on four sides by a bookshelf of five shelves, each self containing thirty-two books. Each book is four hundred and ten pages of forty lines, each line of eighty characters.\n\nIn the story, each book is made up of “twenty-five orthographic symbols” consisting of twenty-two lowercase letters, the comma, the full-stop, and the space. This website expands that to thirty-two symbols: the twenty-six lower-case letters of the English alphabet, the comma, full-stop, exclamation mark, question mark, hyphen, and space."
         },
-        "content_context": "Follow YouTube channels and set your standards. An AI filters for quality, says why each video is worth watching, and learns your taste from your feedback.\n\nQuality input, filtered by AI and tuned to your taste. Follow YouTube channels, write your standards, and an AI picks only the videos worth your time, then learns from what you like and don't, all on your own YouTube-style site. This is a real site. Its owner follows nine YouTube channels and told the AI what they care about. Every video below was picked by the AI. AI pick Strong fit for a small-team AI founder: an overseas AI startup founder explains how they’re productizing coding agents for enterprise IT, with concrete guardrails, workflow design, and go-to-market lessons from attacking a big incumbent. It also covers how AI changes the product and operating model.",
-        "trend_score": 41.81,
+        "content_context": "Browse, explore, and search a complete re-creation of Jorge Luis Borges' Library of Babel.\n\nThe Library of Babel ( pdf ) is a short story by Jorge Luis Borges first published in 1941. It describes a library made up of an “indefinite, perhaps infinite” number hexagonal of rooms, each lined on four sides by a bookshelf of five shelves, each self containing thirty-two books. Each book is four hundred and ten pages of forty lines, each line of eighty characters. In the story, each book is made up of “twenty-five orthographic symbols” consisting of twenty-two lowercase letters, the comma, the full-stop, and the space. This website expands that to thirty-two symbols: the twenty-six lower-case letters of the English alphabet, the comma, full-stop, exclamation mark, question mark, hyphen, and space.\n\nHN comment: As a Show HN in 2024 (6 points, 7 comments) <a href=\"https://news.ycombinator.com/item?id=39483224\">https://news.ycombinator.com/item?id=39483224</a>",
+        "trend_score": 42.89,
         "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.045,
+          "freshness": 0.995,
+          "engagement": 0.082,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "TimeScore Weighted Scoring Algorithm",
+        "url": "https://mckoss.com/posts/timescore/",
+        "author": "mckoss",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-04T01:45:47+00:00",
+        "summary": "Counting likes ranks what was popular, not what’s popular now. TimeScore lets every like fade with a half-life, and stores each item’s score as one number that never needs updating as time passes. With a live demo, the code, and the patent.",
+        "comment_highlights": [
+          "I've placed my patented social scoring algorithm in the public domain. This site describes how it works (and is much easier to understand than the patent). Code snippets included."
+        ],
+        "linked_context": {
+          "resolved_url": "https://mckoss.com/posts/timescore/",
+          "page_title": "TimeScore: Ranking What's Popular Now | mckoss.com",
+          "page_description": "Counting likes ranks what was popular, not what’s popular now. TimeScore lets every like fade with a half-life, and stores each item’s score as one number that never needs updating as time passes. With a live demo, the code, and the patent.",
+          "page_excerpt": "Every site that shows a list of “popular” things (stories, links, posts, products, tags) has to decide what popular means. The simplest answer is to count: the item with the most likes, up-votes, clicks or shares is on top.\n\nBut counts only grow. An item that collected a thousand likes last month stays ahead of one that fifty people liked in the last hour, and a list ranked by counts fills up with yesterday’s news. What readers usually want is what’s popular now .\n\nTimeScore fixes this by letting every like fade with age. A like is worth one point when it happens, half a point one half-life later, a quarter after two half-lives, and so on. An item’s score is the sum of its faded likes, so the top of the list is whatever has been getting attention lately. And each item’s score is kept as a single number that never has to be updated as time passes."
+        },
+        "content_context": "Counting likes ranks what was popular, not what’s popular now. TimeScore lets every like fade with a half-life, and stores each item’s score as one number that never needs updating as time passes. With a live demo, the code, and the patent.\n\nEvery site that shows a list of “popular” things (stories, links, posts, products, tags) has to decide what popular means. The simplest answer is to count: the item with the most likes, up-votes, clicks or shares is on top. But counts only grow. An item that collected a thousand likes last month stays ahead of one that fifty people liked in the last hour, and a list ranked by counts fills up with yesterday’s news. What readers usually want is what’s popular now . TimeScore fixes this by letting every like fade with age. A like is worth one point when it happens, half a point one half-life later, a quarter after two half-lives, and so on. An item’s score is the sum of its faded likes, so the top of the list is whatever has been getting attention lately. And each item’s score is kept as a single number that never has to be updated as time passes.\n\nHN comment: I've placed my patented social scoring algorithm in the public domain. This site describes how it works (and is much easier to understand than the patent). Code snippets included.",
+        "trend_score": 42.88,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.082,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -613,102 +618,50 @@
     ],
     "news": [
       {
-        "source": "CBS News",
+        "source": "ABC13 Houston",
         "category": "news",
-        "title": "2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHRC1LSTZKN2o0WnZubkhZSkw0VGZQSU9DX1Q4dmw1UGxoTE9PbmZOWm96NE1XNUVVN1hMZTRTaEd0eWR5ZVoyWWlNUnlsTDhQdUxjZWZJRXVzWnVLRFlhMDllWGFLYUZIdUhaVl9kV3pxTlppWnZXY053?oc=5",
-        "published_at": "2026-11-03T01:48:00+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches；Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case；U.S. Supreme Court rejects Trump administration bid to set aside California ballots。",
+        "title": "Latest midterm election results and live updates after polls close in Southeast Texas - ABC13 Houston",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnBwTXUxODd5RXhpQUxVUktQWmxxRHdpWlZiRlFtMWlzbE13WXpvbzlNN0NzSExxUlhuZ29hV1ljcFR4U004aHZPTHFxN0d6WVV4RVFUZDZPblVNYTVtVlIyak1iRDMxc0ZaWDEwdE1CbGoyNERtWHVrWTZNVXJEZXFidmV0N1ByMDhqR3hOTnZlMEZYVi1FWHpKbkg3dDJMZGFBQUV5cXFqWEEzY0t1QTMydGk5VUQ5ejg3SVB5dXd1WnUwWFI1dWkyUk1WT0NZUU96czVmLVI?oc=5",
+        "published_at": "2026-11-04T01:38:00+00:00",
+        "summary": "ABC13 Houston 头条聚焦该事件，Google News 同时聚合到这些相关表述：Latest midterm election results and live updates after polls close in Southeast Texas；Texas U.S. Senate Election 2026 Live Results: James Talarico vs. Ken Paxton；Live Election Results Map | Texas Primary Runoff Election。",
         "related_headlines": [
-          "2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches",
-          "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-          "U.S. Supreme Court rejects Trump administration bid to set aside California ballots",
-          "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
-          "Supreme Court denies Trump admin request to reverse block on segregating 20K California ballots"
+          "Latest midterm election results and live updates after polls close in Southeast Texas",
+          "Texas U.S. Senate Election 2026 Live Results: James Talarico vs. Ken Paxton",
+          "Live Election Results Map | Texas Primary Runoff Election",
+          "Live Texas election results: 2026 midterm races",
+          "2026 Texas midterm elections live updates as voters weigh in on key local races"
         ],
-        "content_context": "2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches；Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case；U.S. Supreme Court rejects Trump administration bid to set aside California ballots。\n\nRelated coverage: 2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches\n\nRelated coverage: Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case\n\nRelated coverage: U.S. Supreme Court rejects Trump administration bid to set aside California ballots\n\nRelated coverage: Justice Department urges sanctions for database analysis critical of its noncitizen voting claims\n\nRelated coverage: Supreme Court denies Trump admin request to reverse block on segregating 20K California ballots",
-        "trend_score": 37.31,
+        "content_context": "Latest midterm election results and live updates after polls close in Southeast Texas - ABC13 Houston\n\nABC13 Houston 头条聚焦该事件，Google News 同时聚合到这些相关表述：Latest midterm election results and live updates after polls close in Southeast Texas；Texas U.S. Senate Election 2026 Live Results: James Talarico vs. Ken Paxton；Live Election Results Map | Texas Primary Runoff Election。\n\nRelated coverage: Latest midterm election results and live updates after polls close in Southeast Texas\n\nRelated coverage: Texas U.S. Senate Election 2026 Live Results: James Talarico vs. Ken Paxton\n\nRelated coverage: Live Election Results Map | Texas Primary Runoff Election\n\nRelated coverage: Live Texas election results: 2026 midterm races\n\nRelated coverage: 2026 Texas midterm elections live updates as voters weigh in on key local races",
+        "trend_score": 45.47,
         "trend_breakdown": {
-          "freshness": 0.938,
+          "freshness": 0.989,
           "engagement": 0.0,
-          "topic_overlap": 0.222,
+          "topic_overlap": 0.615,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Reuters",
+        "source": "WRAL",
         "category": "news",
-        "title": "US struck Iran's Qeshm Island, Wall Street Journal reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5",
-        "published_at": "2026-11-03T01:05:00+00:00",
-        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：US struck Iran's Qeshm Island, Wall Street Journal reports；US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says；Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz。",
+        "title": "Election Day latest: Polls close across NC, early voting results to drop soon - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFByNzc4SmVQLUc4dkNTemlxYkdnMnFhQko1SmtCUkhyLVVNNnQxMDZXTGpzRGJVSWQ5V2R4TjVGcXZLdWxIVlh0OEpBams5QW1YUGhQc21WeGg4VXFvLWJiZVgxQ2xULVc5TTAtWW9sOEdzdi1oZmJoOHVUbVhwVlJxU3BIUTV0azVVbHBRZlk2RjdXYVZLYUktRktTUG9JTE4zZVVnbFVQNG1YS3ZXbC1IWkNxM3hPNGpYclZDR3JhM1dkZHc?oc=5",
+        "published_at": "2026-11-03T23:11:17+00:00",
+        "summary": "WRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Election Day latest: Polls close across NC, early voting results to drop soon；North Carolina U.S. Senate Midterm Election 2026: Live Results；Polls close for most North Carolina counties for 2026 midterm election: How to track results。",
         "related_headlines": [
-          "US struck Iran's Qeshm Island, Wall Street Journal reports",
-          "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
-          "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-          "Trump says ‘no rush’ to resume Iran strikes as Tehran talks hang in the balance",
-          "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks"
+          "Election Day latest: Polls close across NC, early voting results to drop soon",
+          "North Carolina U.S. Senate Midterm Election 2026: Live Results",
+          "Polls close for most North Carolina counties for 2026 midterm election: How to track results",
+          "Find tonight’s election results and other Midterm Election tools here",
+          "Follow the results of Nov. 3, 2026 election in North Carolina’s Piedmont Triad"
         ],
-        "content_context": "US struck Iran's Qeshm Island, Wall Street Journal reports - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：US struck Iran's Qeshm Island, Wall Street Journal reports；US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says；Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz。\n\nRelated coverage: US struck Iran's Qeshm Island, Wall Street Journal reports\n\nRelated coverage: US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says\n\nRelated coverage: Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz\n\nRelated coverage: Trump says ‘no rush’ to resume Iran strikes as Tehran talks hang in the balance\n\nRelated coverage: Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-        "trend_score": 37.25,
+        "content_context": "Election Day latest: Polls close across NC, early voting results to drop soon - WRAL\n\nWRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Election Day latest: Polls close across NC, early voting results to drop soon；North Carolina U.S. Senate Midterm Election 2026: Live Results；Polls close for most North Carolina counties for 2026 midterm election: How to track results。\n\nRelated coverage: Election Day latest: Polls close across NC, early voting results to drop soon\n\nRelated coverage: North Carolina U.S. Senate Midterm Election 2026: Live Results\n\nRelated coverage: Polls close for most North Carolina counties for 2026 midterm election: How to track results\n\nRelated coverage: Find tonight’s election results and other Midterm Election tools here\n\nRelated coverage: Follow the results of Nov. 3, 2026 election in North Carolina’s Piedmont Triad",
+        "trend_score": 39.95,
         "trend_breakdown": {
-          "freshness": 0.908,
+          "freshness": 0.888,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "AP News",
-        "category": "news",
-        "title": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdKU1huRWQtMWhVQ0p3N2NLcVk2dmUwQ0I4bVVielVBYU5CSTluTDI2NG1DRUFtQ05JMkNuTDN5c0NSYTF4cU50VHgwTDREdk5NWlNkZzVEU0FlU1hUQTNGc2MyMEdsak5aUmxRYkhONHY2cDRTVnZESkNOZlRXWmhRVG96SlhsNDRPVWZCRUcydW9zN2F4N3RpQWNTYlNYNTZxQQ?oc=5",
-        "published_at": "2026-11-02T23:58:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden；Judge Throws Out Charges Against Former F.B.I. Officials；Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden investigation。",
-        "related_headlines": [
-          "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden",
-          "Judge Throws Out Charges Against Former F.B.I. Officials",
-          "Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden investigation",
-          "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-          "Judge dismisses case against former FBI officials who DOJ believes hampered Biden family corruption probe"
-        ],
-        "content_context": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden；Judge Throws Out Charges Against Former F.B.I. Officials；Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden investigation。\n\nRelated coverage: Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden\n\nRelated coverage: Judge Throws Out Charges Against Former F.B.I. Officials\n\nRelated coverage: Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden investigation\n\nRelated coverage: Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials\n\nRelated coverage: Judge dismisses case against former FBI officials who DOJ believes hampered Biden family corruption probe",
-        "trend_score": 35.92,
-        "trend_breakdown": {
-          "freshness": 0.861,
-          "engagement": 0.0,
-          "topic_overlap": 0.308,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmVUaTBJaERsaFYzT3kxOEt5Zl9QWnAxdzZjMTNrTjIzVTRBLUFEakZnU3ljRXUtWll6ZG9sYWRpeUNfS2dVemNvYnNNZ3gyM0FCdVI4aW9NWlpXNlV5WjFXWHdHYTVROW1VaGxFdUpfVHpzZHBrMkk2cF9PWnVTN0Ntc05NUQ?oc=5",
-        "published_at": "2026-11-03T01:22:59+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest；Rain clears but flood risk remains high after destructive storms swamp normally arid Southwest；Colorado town braces for historic flood as heavy rains batter south-west。",
-        "related_headlines": [
-          "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest",
-          "Rain clears but flood risk remains high after destructive storms swamp normally arid Southwest",
-          "Colorado town braces for historic flood as heavy rains batter south-west",
-          "Deadly flooding forces evacuations in Southwest as storm shifts east for Election Day",
-          "Flooding prompts state of emergency declarations in Arizona"
-        ],
-        "content_context": "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest；Rain clears but flood risk remains high after destructive storms swamp normally arid Southwest；Colorado town braces for historic flood as heavy rains batter south-west。\n\nRelated coverage: ‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest\n\nRelated coverage: Rain clears but flood risk remains high after destructive storms swamp normally arid Southwest\n\nRelated coverage: Colorado town braces for historic flood as heavy rains batter south-west\n\nRelated coverage: Deadly flooding forces evacuations in Southwest as storm shifts east for Election Day\n\nRelated coverage: Flooding prompts state of emergency declarations in Arizona",
-        "trend_score": 34.58,
-        "trend_breakdown": {
-          "freshness": 0.92,
-          "engagement": 0.0,
-          "topic_overlap": 0.091,
+          "topic_overlap": 0.5,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -717,46 +670,71 @@
       {
         "source": "NBC News",
         "category": "news",
-        "title": "Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcU5ZbFRBSUJOaFZBWG1TalRrQXZjOWV0TVo4OWVfaHYyNkR2bkRGVDNNampkQ0FjOW9mTmpNYzR0Nk5JMW92WVNxTlRDUmQ4VFdGNVVhMHVub01fVUR2ZzlQRWtGdkhvNmRJVWtieUV2bktldl9yWDE0bnczUlVhbGRIT0drYmQyUXhiQ3JfTkRIVHlyR01pOWFnTEZpSzRkWS1aVm16QlluR1ZNclBXN254S083eVU?oc=5",
-        "published_at": "2026-11-02T22:48:28+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children；Prosecutors intend to retry Lindsay Clancy for killing her 3 children；Lindsay Clancy back in court seeking to dismiss murder charges after mistrial。",
+        "title": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnlGVjBFTmsyb1BUb0lISDFKSjk5RWFxTUdGeTQ2M09KaUNIU2lRQ0x0VldGSUVTZEVfck50T09tNTRsYWU2ZV9YUk45bk5sbS1GWVQzTFR1bmVQYm44bDhBLUpSb3FDRWpOZHZJTGc2cDV0RE03UWJsWU0tR3dCdmczZzhhZUU5TDQwQ3o5cVlpajhPSVAxdnUzWGl1SWVQRmtyZHc1cWNaMFhTc2t6b1BCcDJmYktPWVpn?oc=5",
+        "published_at": "2026-11-04T00:31:00+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democratic Sen. Jon Ossoff cruises to re-election in Georgia；Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins；Jon Ossoff wins Georgia Senate race over Republican Mike Collins。",
         "related_headlines": [
-          "Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children",
-          "Prosecutors intend to retry Lindsay Clancy for killing her 3 children",
-          "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
-          "Lindsay Clancy hearing: Reddington tells judge 'I want a trial... and I want it this spring'",
-          "Lindsay Clancy's lawyers push for Massachusetts murder case dismissal"
+          "Democratic Sen. Jon Ossoff cruises to re-election in Georgia",
+          "Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins",
+          "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+          "Ohio U.S. Senate Special 2026: Live Midterm Election Results, Husted vs. Brown",
+          "Georgia Governor Election Live Results 2026"
         ],
-        "content_context": "Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children；Prosecutors intend to retry Lindsay Clancy for killing her 3 children；Lindsay Clancy back in court seeking to dismiss murder charges after mistrial。\n\nRelated coverage: Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children\n\nRelated coverage: Prosecutors intend to retry Lindsay Clancy for killing her 3 children\n\nRelated coverage: Lindsay Clancy back in court seeking to dismiss murder charges after mistrial\n\nRelated coverage: Lindsay Clancy hearing: Reddington tells judge 'I want a trial... and I want it this spring'\n\nRelated coverage: Lindsay Clancy's lawyers push for Massachusetts murder case dismissal",
-        "trend_score": 32.17,
+        "content_context": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democratic Sen. Jon Ossoff cruises to re-election in Georgia；Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins；Jon Ossoff wins Georgia Senate race over Republican Mike Collins。\n\nRelated coverage: Democratic Sen. Jon Ossoff cruises to re-election in Georgia\n\nRelated coverage: Georgia U.S. Senate Election 2026 Live Results: Jon Ossoff Wins\n\nRelated coverage: Jon Ossoff wins Georgia Senate race over Republican Mike Collins\n\nRelated coverage: Ohio U.S. Senate Special 2026: Live Midterm Election Results, Husted vs. Brown\n\nRelated coverage: Georgia Governor Election Live Results 2026",
+        "trend_score": 39.28,
         "trend_breakdown": {
-          "freshness": 0.813,
+          "freshness": 0.943,
           "engagement": 0.0,
-          "topic_overlap": 0.182,
+          "topic_overlap": 0.333,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Politico",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Judge tosses Trump administration’s admissions records lawsuit against Harvard - Politico",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQajNmZHZvQ1ZsS21LVmRlb1l1M3lpelZiR2xoUzE5VGNoeDZaTFpIa1BvdEx2Z0lVRHVsbjB3LWdsZU5FbVozbDROOUlaRkRHQndxdlo2Y2V5Yk9VQ1VFUVZuS0ViLVdfOWR1VTJ5WmRyWHE4TGI2LVE1aXpiSzBiZDAwX0stT3o5UXMzS2VjZXlLeW8?oc=5",
-        "published_at": "2026-11-02T21:13:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge tosses Trump administration’s admissions records lawsuit against Harvard；Federal judge dismisses Trump administration’s Harvard admissions probe case；Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data。",
+        "title": "See where votes are being counted in Senate and House midterm races - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzRxTG1zZW53NWkyTXVXc1lkU0kzdkV3cFRFZDFLTEZUZ0lGRmphc2pMRVAzTzFmTzFPYW01VUdseDBGUy1RS0pRLTZTdzRrWWRxTFV3SDJ6azhKTnRkbllTTHc4bktwbmY4c2Z6cVpkNkYxRlV4Q2otNGdpTUxnLVBEdUtEWXFTdk1qMndtVWloVXFTbTZkTHBJUDZ0SC1uMGNXdm1uZXdrS1Z2dzhlUzg5UHctSHhVUGhTeUlBOGpNdw?oc=5",
+        "published_at": "2026-11-03T23:04:43+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：See where votes are being counted in Senate and House midterm races；Why we might not know every election outcome tonight；Why some 2026 races won't be decided on election night, and why that doesn't mean foul play。",
         "related_headlines": [
-          "Judge tosses Trump administration’s admissions records lawsuit against Harvard",
-          "Federal judge dismisses Trump administration’s Harvard admissions probe case",
-          "Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data",
-          "Federal judge dismisses lawsuit against Harvard over federal demand for admissions data",
-          "Federal Judge Dismisses Admissions Lawsuit Against Harvard"
+          "See where votes are being counted in Senate and House midterm races",
+          "Why we might not know every election outcome tonight",
+          "Why some 2026 races won't be decided on election night, and why that doesn't mean foul play",
+          "2026 election results: How many votes are left to count?",
+          "When will Maryland's election results become official?"
         ],
-        "content_context": "Judge tosses Trump administration’s admissions records lawsuit against Harvard - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge tosses Trump administration’s admissions records lawsuit against Harvard；Federal judge dismisses Trump administration’s Harvard admissions probe case；Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data。\n\nRelated coverage: Judge tosses Trump administration’s admissions records lawsuit against Harvard\n\nRelated coverage: Federal judge dismisses Trump administration’s Harvard admissions probe case\n\nRelated coverage: Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data\n\nRelated coverage: Federal judge dismisses lawsuit against Harvard over federal demand for admissions data\n\nRelated coverage: Federal Judge Dismisses Admissions Lawsuit Against Harvard",
-        "trend_score": 31.68,
+        "content_context": "See where votes are being counted in Senate and House midterm races - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：See where votes are being counted in Senate and House midterm races；Why we might not know every election outcome tonight；Why some 2026 races won't be decided on election night, and why that doesn't mean foul play。\n\nRelated coverage: See where votes are being counted in Senate and House midterm races\n\nRelated coverage: Why we might not know every election outcome tonight\n\nRelated coverage: Why some 2026 races won't be decided on election night, and why that doesn't mean foul play\n\nRelated coverage: 2026 election results: How many votes are left to count?\n\nRelated coverage: When will Maryland's election results become official?",
+        "trend_score": 39.06,
         "trend_breakdown": {
-          "freshness": 0.747,
+          "freshness": 0.883,
+          "engagement": 0.0,
+          "topic_overlap": 0.455,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Four types of House races to watch on election night to know how it might go - NPR",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXlMM2lxUlIzUVBmSThUeDVmQ2htX0dqb2dQUm1VZDVZalZndUNvYVJXQnlRY2V2Nm9HXzFKV1U3WnFNU2xFSUkzaFB0ZTRfTEhuVEpmT004bFFmUkczM3lMckM4bExqVDVScWJIbGU2OEVvMmVKUElFajVkbGdRY2g5bw?oc=5",
+        "published_at": "2026-11-04T00:31:25+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four types of House races to watch on election night to know how it might go；How Will the Midterms Play Out? These Races May Provide Early Clues.；When do polls close on Election Day? A guide to voting times in all 50 states。",
+        "related_headlines": [
+          "Four types of House races to watch on election night to know how it might go",
+          "How Will the Midterms Play Out? These Races May Provide Early Clues.",
+          "When do polls close on Election Day? A guide to voting times in all 50 states",
+          "An Hour-by-Hour Election Night Guide to the Race for the House",
+          "Election night agenda: When polls close and when to expect results"
+        ],
+        "content_context": "Four types of House races to watch on election night to know how it might go - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Four types of House races to watch on election night to know how it might go；How Will the Midterms Play Out? These Races May Provide Early Clues.；When do polls close on Election Day? A guide to voting times in all 50 states。\n\nRelated coverage: Four types of House races to watch on election night to know how it might go\n\nRelated coverage: How Will the Midterms Play Out? These Races May Provide Early Clues.\n\nRelated coverage: When do polls close on Election Day? A guide to voting times in all 50 states\n\nRelated coverage: An Hour-by-Hour Election Night Guide to the Race for the House\n\nRelated coverage: Election night agenda: When polls close and when to expect results",
+        "trend_score": 38.75,
+        "trend_breakdown": {
+          "freshness": 0.943,
           "engagement": 0.0,
           "topic_overlap": 0.3,
           "source_weight": 0.8,
@@ -765,25 +743,50 @@
         "domains": []
       },
       {
-        "source": "Slate",
+        "source": "WLWT",
         "category": "news",
-        "title": "The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder - Slate",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjTFZGLXJMRFlTcUFWVExSSXlvM19lb3ZrQ1VlcGNYdVhnak94Szd4enpFZlEwU1ZPLXJOVGJIbjJXNm5iWGNnNWJnSDlmSm5BWm80LXVlWVpGWFRfQndXNC1CaThHOUtvMHk3ZFdoWXNwOEV0SndOWVZrdThmMTNDYXYwUjRRR2ZyMmo0Rkd5c2xIelZz?oc=5",
-        "published_at": "2026-11-03T00:20:00+00:00",
-        "summary": "Slate 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder；Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan；GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul。",
+        "title": "LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections - WLWT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDNSUE1yOS1ncFl2ZVFhY2ZxTkVKTkotcmZxQ1N4c2JrRVlYZnBHTGgtYzFRZHctU0NMSE9KQ3NVaUM3WE15QkhQR21QNm5qVXlfejJPLWJTX25zUGxPOWFZT1RVZG1jdk1DUGtHUFN4MGZVbXBMdFg2NzJtd0szLWJvSUlzZGJHUWx3ZF94LUNSakg3bWdJbnAwQktNeVU?oc=5",
+        "published_at": "2026-11-03T22:43:00+00:00",
+        "summary": "WLWT 头条聚焦该事件，Google News 同时聚合到这些相关表述：LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections；Live updates: Columbus-area full election results, live coverage: Nov. 2026；LIVE: 2026 Ohio General Election results。",
         "related_headlines": [
-          "The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder",
-          "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
-          "GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul",
-          "US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks",
-          "‘Terrible betrayal’: House Democrats consider whether to banish Michigan Rep. Haley Stevens"
+          "LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections",
+          "Live updates: Columbus-area full election results, live coverage: Nov. 2026",
+          "LIVE: 2026 Ohio General Election results",
+          "ELECTION RESULTS | Ohio governor race",
+          "Bomb threat disrupts voting at one location; voter turnout strong"
         ],
-        "content_context": "The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder - Slate\n\nSlate 头条聚焦该事件，Google News 同时聚合到这些相关表述：The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder；Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan；GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul。\n\nRelated coverage: The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder\n\nRelated coverage: Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan\n\nRelated coverage: GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul\n\nRelated coverage: US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks\n\nRelated coverage: ‘Terrible betrayal’: House Democrats consider whether to banish Michigan Rep. Haley Stevens",
-        "trend_score": 31.55,
+        "content_context": "LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections - WLWT\n\nWLWT 头条聚焦该事件，Google News 同时聚合到这些相关表述：LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections；Live updates: Columbus-area full election results, live coverage: Nov. 2026；LIVE: 2026 Ohio General Election results。\n\nRelated coverage: LIVE UPDATES | Ohio governor, U.S. Senate races take center stage in midterm elections\n\nRelated coverage: Live updates: Columbus-area full election results, live coverage: Nov. 2026\n\nRelated coverage: LIVE: 2026 Ohio General Election results\n\nRelated coverage: ELECTION RESULTS | Ohio governor race\n\nRelated coverage: Bomb threat disrupts voting at one location; voter turnout strong",
+        "trend_score": 37.91,
         "trend_breakdown": {
-          "freshness": 0.876,
+          "freshness": 0.868,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.417,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Live Forecast: Senate and House - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazEwRmkydGF0UFZNYmlpeXVlUlFLZGMxcWlPRURQeHFuV3FjQmE1YThqbVdLX0xjRm85eE9GalRUUjd5dzcxWkd1X092VjI3bV85OGxzdmgtN21pYTdqNk5JdG5Sd2I5Z2FDZjVlOWNKQUlHS2FYVWU2ZU16RXFFZHU3MGdDOV9sR3QtZzc1enhGQ2xBLV83NzU5d2pBMUxscGNR?oc=5",
+        "published_at": "2026-11-03T20:19:02+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Forecast: Senate and House；We Know Democrats Will Have a Good Night on Tuesday. But Will It Be a ‘Once in a Generation’ Win?；See How Race Forecasters Project the Senate and House—and Pick Your Own Winners。",
+        "related_headlines": [
+          "Live Forecast: Senate and House",
+          "We Know Democrats Will Have a Good Night on Tuesday. But Will It Be a ‘Once in a Generation’ Win?",
+          "See How Race Forecasters Project the Senate and House—and Pick Your Own Winners",
+          "Election Betting Odds: Democratic Sweep Tops 80%",
+          "As voters head to the polls, Democrats bet that discontent will power their victory"
+        ],
+        "content_context": "Live Forecast: Senate and House - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Forecast: Senate and House；We Know Democrats Will Have a Good Night on Tuesday. But Will It Be a ‘Once in a Generation’ Win?；See How Race Forecasters Project the Senate and House—and Pick Your Own Winners。\n\nRelated coverage: Live Forecast: Senate and House\n\nRelated coverage: We Know Democrats Will Have a Good Night on Tuesday. But Will It Be a ‘Once in a Generation’ Win?\n\nRelated coverage: See How Race Forecasters Project the Senate and House—and Pick Your Own Winners\n\nRelated coverage: Election Betting Odds: Democratic Sweep Tops 80%\n\nRelated coverage: As voters head to the polls, Democrats bet that discontent will power their victory",
+        "trend_score": 34.5,
+        "trend_breakdown": {
+          "freshness": 0.768,
+          "engagement": 0.0,
+          "topic_overlap": 0.429,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -792,21 +795,21 @@
       {
         "source": "BBC",
         "category": "news",
-        "title": "Who are the victims of the deadly Florida jet crash? - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wbDR4dE1GX0xlQW94X3NZZWFKcUpwVWxIcllCdThrY2tYa1ZwNkplcGtRRkFrTm9CZUZlQlRoeUdiOWdZZXROUGxQZmU4X281a05qOE5pT0ZURkU?oc=5",
-        "published_at": "2026-11-02T23:44:06+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Who are the victims of the deadly Florida jet crash?；20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida；Texas couple, their young children among 9 killed in Florida plane crash。",
+        "title": "Voter poll: What have US voters named the top issues at the midterms? - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMXA2Qi1jbV9KU2ZlcGl4c013eUtlUU9HRURwZnBzaUNaYS1Nd0pkbjhFaG40MDNiLUx4Q1c5N2pQdk5FQkVZWENhQ1Vfc2pWRWRsMTItOTliRE0?oc=5",
+        "published_at": "2026-11-03T23:55:37+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Voter poll: What have US voters named the top issues at the midterms?；Election 2026 live results: Democratic Sen. Jon Ossoff projected to win reelection in Georgia；Nearly half of voters saw midterm election as a rebuke of Trump, NBC News Exit Poll shows。",
         "related_headlines": [
-          "Who are the victims of the deadly Florida jet crash?",
-          "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
-          "Texas couple, their young children among 9 killed in Florida plane crash",
-          "The Final Seconds Before a Learjet Plunged Into a Florida Street",
-          "Former fighter pilot breaks down NTSB updates in deadly Learjet crash"
+          "Voter poll: What have US voters named the top issues at the midterms?",
+          "Election 2026 live results: Democratic Sen. Jon Ossoff projected to win reelection in Georgia",
+          "Nearly half of voters saw midterm election as a rebuke of Trump, NBC News Exit Poll shows",
+          "Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll",
+          "AP Voter Poll: The economy and the state of democracy are voters' top issues"
         ],
-        "content_context": "Who are the victims of the deadly Florida jet crash? - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Who are the victims of the deadly Florida jet crash?；20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida；Texas couple, their young children among 9 killed in Florida plane crash。\n\nRelated coverage: Who are the victims of the deadly Florida jet crash?\n\nRelated coverage: 20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida\n\nRelated coverage: Texas couple, their young children among 9 killed in Florida plane crash\n\nRelated coverage: The Final Seconds Before a Learjet Plunged Into a Florida Street\n\nRelated coverage: Former fighter pilot breaks down NTSB updates in deadly Learjet crash",
-        "trend_score": 30.65,
+        "content_context": "Voter poll: What have US voters named the top issues at the midterms? - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Voter poll: What have US voters named the top issues at the midterms?；Election 2026 live results: Democratic Sen. Jon Ossoff projected to win reelection in Georgia；Nearly half of voters saw midterm election as a rebuke of Trump, NBC News Exit Poll shows。\n\nRelated coverage: Voter poll: What have US voters named the top issues at the midterms?\n\nRelated coverage: Election 2026 live results: Democratic Sen. Jon Ossoff projected to win reelection in Georgia\n\nRelated coverage: Nearly half of voters saw midterm election as a rebuke of Trump, NBC News Exit Poll shows\n\nRelated coverage: Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll\n\nRelated coverage: AP Voter Poll: The economy and the state of democracy are voters' top issues",
+        "trend_score": 33.06,
         "trend_breakdown": {
-          "freshness": 0.851,
+          "freshness": 0.918,
           "engagement": 0.0,
           "topic_overlap": 0.0,
           "source_weight": 0.8,
@@ -815,50 +818,50 @@
         "domains": []
       },
       {
-        "source": "The Guardian",
+        "source": "PBS",
         "category": "news",
-        "title": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUt1cmdTV3B4RFo4M216VzlOUmpNWnRhb0dOQnp4RWFjYXcwTUVsd1V0Z0xVekgwM0IxbVdhUXFhSW5nSzRuVEV2Q1dwRkJNR09KTDZFSEpLMGZYMld1VVE3UmVKS180Zkt3ZWJhOUlGZGNwV0tkNGF0RzF6N21yOVVuU0tVU1BHZ1J1YzVSbG5OZ2c?oc=5",
-        "published_at": "2026-11-02T20:44:28+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump unveils results of $14m reflecting pool makeover in final appeal before midterms；Trump Delivers a Closing Midterm Message. Mostly About Landscaping.；Trump’s closing message hits a topic close to his heart — but not voters’ minds。",
+        "title": "Parts of jet's tail found more than a mile from plane crash site in South Florida, official says - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmI3ZWRSYTlpRmp2RFZ2N2RCQXpSR2lzc19MU0djWXRjaUVTQUVxVFhNY3F1THZSSHJaWWdLUmhYNTZiLVFnbXNEYlJ5a2loSlViTmpvTlgxa1VxNkZfVzJONlloWnpJX3I1WTdpN3NLMzBRSXpkMUtReVpPZDZ5dzAtRGd4OVF6NXlRNVRaUGtlVjZGVTFOZlZMYUpXVWRWanZ3V3djRmFnclBZbTZGbUYtazZzSklGTk8zQkFCVlVCcks2UkcwYTdB?oc=5",
+        "published_at": "2026-11-03T21:39:42+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Parts of jet's tail found more than a mile from plane crash site in South Florida, official says；Key Part of Jet in Deadly Florida Crash Found Far From Impact Site；Texas expert says 'widow maker' Learjet flew straight into deadly Florida storm。",
         "related_headlines": [
-          "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
-          "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-          "Trump’s closing message hits a topic close to his heart — but not voters’ minds",
-          "Trump focuses on Reflecting Pool in final public speech before midterms",
-          "Maybe Donald Trump Doesn’t Want His Party to Win the Midterms"
+          "Parts of jet's tail found more than a mile from plane crash site in South Florida, official says",
+          "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+          "Texas expert says 'widow maker' Learjet flew straight into deadly Florida storm",
+          "NFL player Joe Mixon says he flew on same jet that crashed in Florida, met ‘wonderful’ crew last month",
+          "NTSB finds 'no evidence' of Mar-a-Lago connection after Florida jet crash kills nine people"
         ],
-        "content_context": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump unveils results of $14m reflecting pool makeover in final appeal before midterms；Trump Delivers a Closing Midterm Message. Mostly About Landscaping.；Trump’s closing message hits a topic close to his heart — but not voters’ minds。\n\nRelated coverage: Trump unveils results of $14m reflecting pool makeover in final appeal before midterms\n\nRelated coverage: Trump Delivers a Closing Midterm Message. Mostly About Landscaping.\n\nRelated coverage: Trump’s closing message hits a topic close to his heart — but not voters’ minds\n\nRelated coverage: Trump focuses on Reflecting Pool in final public speech before midterms\n\nRelated coverage: Maybe Donald Trump Doesn’t Want His Party to Win the Midterms",
-        "trend_score": 30.16,
+        "content_context": "Parts of jet's tail found more than a mile from plane crash site in South Florida, official says - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Parts of jet's tail found more than a mile from plane crash site in South Florida, official says；Key Part of Jet in Deadly Florida Crash Found Far From Impact Site；Texas expert says 'widow maker' Learjet flew straight into deadly Florida storm。\n\nRelated coverage: Parts of jet's tail found more than a mile from plane crash site in South Florida, official says\n\nRelated coverage: Key Part of Jet in Deadly Florida Crash Found Far From Impact Site\n\nRelated coverage: Texas expert says 'widow maker' Learjet flew straight into deadly Florida storm\n\nRelated coverage: NFL player Joe Mixon says he flew on same jet that crashed in Florida, met ‘wonderful’ crew last month\n\nRelated coverage: NTSB finds 'no evidence' of Mar-a-Lago connection after Florida jet crash kills nine people",
+        "trend_score": 30.73,
         "trend_breakdown": {
-          "freshness": 0.727,
+          "freshness": 0.824,
           "engagement": 0.0,
-          "topic_overlap": 0.25,
+          "topic_overlap": 0.067,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Fox Business",
+        "source": "CBS News",
         "category": "news",
-        "title": "Billionaire tax puts California’s economic future before midterm voters - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEZEX2hOWWZzUGJSeXlwMHZIT0NWdEE4Y2xrdGdSc2hqRUFvYVVnQTVlUlQ0X0I4bERXbW51eFZTMWhFOWQyWVliVi04bFJZS25PVmVaV25SZ3kwSnZTMHd5Y1BsWmEtaTduc2l0RG1DanNQUFJVdjBacG4tOWtvMTZXVzRrWl9tUGpNOHBsUDZ0aTBtLXlYb25KVmZJLVpVWUxJQS1xQ3NKZ9IBrwFBVV95cUxPM2ZVdXpHcjRYNHB5NHE1Q01VZVE1YVhBUXA1aEtuWFcwbkNNbFdkU2pJU0VRVjBfZ0o5Z18yX0xKWWpuVVFKTkVjZkZVRlFUQW40RXpselJuZHl0TjRCNWdJUWRqaGlzRnNnT05PdHE1cjRGZGd0NVY1dXMyMVlrMVMzbmtXQlM3Y2EzN1NYbnljT29PZHA3RlRmbnlUZC1BZk1wcGhFcFBaRHJPSzk0?oc=5",
-        "published_at": "2026-11-02T21:01:00+00:00",
-        "summary": "Fox Business 头条聚焦该事件，Google News 同时聚合到这些相关表述：Billionaire tax puts California’s economic future before midterm voters；What the voter records of California’s billionaires reveal；Two economists studied California's billionaire tax. They reached wildly different conclusions。",
+        "title": "Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTERSNHk1T0xESW1Cak1NOHNYR2Zyd0xVRUp3WW9UdU9hRDJtZWpPelAyWlNHRm5BYzhRZHJtXzk4SC15Z1pqa09ENmVCak9VbkRaTFBBQk94TUhmOG9FSk9xZjNJV2xsVGxmQU9sNnlUa3N2MVpFMlZpc05YcEd2VmVVaVc?oc=5",
+        "published_at": "2026-11-03T19:59:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say；Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports；Trump admin puts alleged 'Decoy Dan' conspirators on notice in Alaska election spoiler probe。",
         "related_headlines": [
-          "Billionaire tax puts California’s economic future before midterm voters",
-          "What the voter records of California’s billionaires reveal",
-          "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-          "Opinion | Massachusetts has a warning for California and Washington voters",
-          "Billionaire Sergey Brin is building political infrastructure that will last beyond his $102 million fight against Prop 40"
+          "Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say",
+          "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+          "Trump admin puts alleged 'Decoy Dan' conspirators on notice in Alaska election spoiler probe",
+          "LIVE BLOG: Midterm Elections 2026",
+          "Live updates: Alaska voters head to the polls on Election Day"
         ],
-        "content_context": "Billionaire tax puts California’s economic future before midterm voters - Fox Business\n\nFox Business 头条聚焦该事件，Google News 同时聚合到这些相关表述：Billionaire tax puts California’s economic future before midterm voters；What the voter records of California’s billionaires reveal；Two economists studied California's billionaire tax. They reached wildly different conclusions。\n\nRelated coverage: Billionaire tax puts California’s economic future before midterm voters\n\nRelated coverage: What the voter records of California’s billionaires reveal\n\nRelated coverage: Two economists studied California's billionaire tax. They reached wildly different conclusions\n\nRelated coverage: Opinion | Massachusetts has a warning for California and Washington voters\n\nRelated coverage: Billionaire Sergey Brin is building political infrastructure that will last beyond his $102 million fight against Prop 40",
-        "trend_score": 29.48,
+        "content_context": "Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say；Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports；Trump admin puts alleged 'Decoy Dan' conspirators on notice in Alaska election spoiler probe。\n\nRelated coverage: Democratic attorney and Trump foe Marc Elias is a target of DOJ's Alaska ballot investigation, sources say\n\nRelated coverage: Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports\n\nRelated coverage: Trump admin puts alleged 'Decoy Dan' conspirators on notice in Alaska election spoiler probe\n\nRelated coverage: LIVE BLOG: Midterm Elections 2026\n\nRelated coverage: Live updates: Alaska voters head to the polls on Election Day",
+        "trend_score": 29.28,
         "trend_breakdown": {
-          "freshness": 0.738,
+          "freshness": 0.754,
           "engagement": 0.0,
-          "topic_overlap": 0.182,
+          "topic_overlap": 0.133,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -870,85 +873,23 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "author": "thedotmack",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "TypeScript",
-      "score": 1803,
-      "comment_count": 9665,
-      "total_stars": 110861,
-      "built_by": [
-        "thedotmack",
-        "claude",
-        "rudycelekli",
-        "cursoragent",
-        "rodboev"
-      ],
-      "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1803\n\nTotal stars: 110861\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
-      "trend_score": 92.75,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.965,
-        "topic_overlap": 0.333,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "author": "Donchitos",
-      "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "mattpocock",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
       "language": "Shell",
-      "score": 1379,
-      "comment_count": 4528,
-      "total_stars": 33699,
+      "score": 1164,
+      "comment_count": 26174,
+      "total_stars": 311514,
       "built_by": [
-        "Donchitos",
-        "claude"
-      ],
-      "content_context": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.\n\nLanguage: Shell\n\nStars today: 1379\n\nTotal stars: 33699\n\nBuilt by: Donchitos, claude",
-      "trend_score": 92.03,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.908,
-        "topic_overlap": 0.4,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "author": "pingdotgg",
-      "summary": null,
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "TypeScript",
-      "score": 3229,
-      "comment_count": 9119,
-      "total_stars": 42215,
-      "built_by": [
-        "juliusmarminge",
+        "mattpocock",
         "claude",
-        "t3dotgg",
-        "maria-rcks",
-        "codex"
+        "github-actions",
+        "gabimoncha"
       ],
-      "content_context": "Language: TypeScript\n\nStars today: 3229\n\nTotal stars: 42215\n\nBuilt by: juliusmarminge, claude, t3dotgg, maria-rcks, codex",
-      "trend_score": 86.84,
+      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1164\n\nTotal stars: 311514\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+      "trend_score": 86.85,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 1.0,
@@ -963,91 +904,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "author": "D4Vinci",
-      "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "Python",
-      "score": 706,
-      "comment_count": 9794,
-      "total_stars": 93089,
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "author": "thedotmack",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "TypeScript",
+      "score": 1139,
+      "comment_count": 9742,
+      "total_stars": 111960,
       "built_by": [
-        "D4Vinci",
-        "yetval",
-        "AbdullahY36",
-        "SulimanAbdulrazzaq",
-        "codex"
-      ],
-      "content_context": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\nLanguage: Python\n\nStars today: 706\n\nTotal stars: 93089\n\nBuilt by: D4Vinci, yetval, AbdullahY36, SulimanAbdulrazzaq, codex",
-      "trend_score": 83.22,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.905,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "author": "shiyu-coder",
-      "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "Python",
-      "score": 857,
-      "comment_count": 7591,
-      "total_stars": 46050,
-      "built_by": [
-        "shiyu-coder",
-        "Luciferbobo",
-        "CharlesJ-ABu",
-        "AnMakc",
-        "randyy179"
-      ],
-      "content_context": "Kronos: A Foundation Model for the Language of Financial Markets\n\nLanguage: Python\n\nStars today: 857\n\nTotal stars: 46050\n\nBuilt by: shiyu-coder, Luciferbobo, CharlesJ-ABu, AnMakc, randyy179",
-      "trend_score": 83.2,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.904,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "author": "JustVugg",
-      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "C",
-      "score": 675,
-      "comment_count": 5388,
-      "total_stars": 46652,
-      "built_by": [
-        "JustVugg",
+        "thedotmack",
         "claude",
-        "ZacharyZcR",
-        "monotophic",
-        "rudycelekli"
+        "rudycelekli",
+        "cursoragent",
+        "rodboev"
       ],
-      "content_context": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\n\nLanguage: C\n\nStars today: 675\n\nTotal stars: 46652\n\nBuilt by: JustVugg, claude, ZacharyZcR, monotophic, rudycelekli",
-      "trend_score": 81.93,
+      "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1139\n\nTotal stars: 111960\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+      "trend_score": 84.81,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.871,
+        "engagement": 0.947,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1063,11 +940,11 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "author": "vercel-labs",
       "summary": "Computer use CLI for AI agents",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
       "language": "Rust",
-      "score": 2275,
-      "comment_count": 685,
-      "total_stars": 10186,
+      "score": 3791,
+      "comment_count": 884,
+      "total_stars": 12880,
       "built_by": [
         "lahfir",
         "github-actions",
@@ -1075,11 +952,11 @@
         "dependabot",
         "ctate"
       ],
-      "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2275\n\nTotal stars: 10186\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
-      "trend_score": 80.85,
+      "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 3791\n\nTotal stars: 12880\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
+      "trend_score": 83.02,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.843,
+        "engagement": 0.899,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1091,91 +968,218 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "FlashML-org/FreeToken",
-      "url": "https://github.com/FlashML-org/FreeToken",
-      "author": "FlashML-org",
-      "summary": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "Python",
-      "score": 653,
-      "comment_count": 1590,
-      "total_stars": 16154,
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "author": "JustVugg",
+      "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "C",
+      "score": 802,
+      "comment_count": 5470,
+      "total_stars": 47267,
       "built_by": [
-        "jason-fxz",
-        "andy-yang-1",
-        "void-mckenzie",
-        "taking-lying-flat",
-        "zihaomu"
-      ],
-      "content_context": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.\n\nLanguage: Python\n\nStars today: 653\n\nTotal stars: 16154\n\nBuilt by: jason-fxz, andy-yang-1, void-mckenzie, taking-lying-flat, zihaomu",
-      "trend_score": 79.44,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.805,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "hyprwm/Hyprland",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "author": "hyprwm",
-      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "C++",
-      "score": 509,
-      "comment_count": 2158,
-      "total_stars": 39993,
-      "built_by": [
-        "vaxerski",
-        "fufexan",
-        "gulafaran",
-        "MightyPlaza",
-        "UjinT34"
-      ],
-      "content_context": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\n\nLanguage: C++\n\nStars today: 509\n\nTotal stars: 39993\n\nBuilt by: vaxerski, fufexan, gulafaran, MightyPlaza, UjinT34",
-      "trend_score": 79.42,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.805,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "kornia/kornia",
-      "url": "https://github.com/kornia/kornia",
-      "author": "kornia",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "published_at": "2026-11-03T03:17:35.827486+00:00",
-      "language": "Python",
-      "score": 412,
-      "comment_count": 1490,
-      "total_stars": 12169,
-      "built_by": [
-        "edgarriba",
-        "ducha-aiki",
-        "pre-commit-ci",
+        "JustVugg",
         "claude",
-        "johnnv1"
+        "ZacharyZcR",
+        "monotophic",
+        "rudycelekli"
       ],
-      "content_context": "🐍 Geometric Computer Vision Library for Spatial AI\n\nLanguage: Python\n\nStars today: 412\n\nTotal stars: 12169\n\nBuilt by: edgarriba, ducha-aiki, pre-commit-ci, claude, johnnv1",
-      "trend_score": 78.17,
+      "content_context": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.\n\nLanguage: C\n\nStars today: 802\n\nTotal stars: 47267\n\nBuilt by: JustVugg, claude, ZacharyZcR, monotophic, rudycelekli",
+      "trend_score": 82.78,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.772,
+        "engagement": 0.893,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "author": "p-e-w",
+      "summary": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "Python",
+      "score": 701,
+      "comment_count": 4385,
+      "total_stars": 38832,
+      "built_by": [
+        "p-e-w",
+        "dependabot",
+        "Vinay-Umrethe",
+        "anrp",
+        "spikymoth"
+      ],
+      "content_context": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more\n\nLanguage: Python\n\nStars today: 701\n\nTotal stars: 38832\n\nBuilt by: p-e-w, dependabot, Vinay-Umrethe, anrp, spikymoth",
+      "trend_score": 82.01,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.873,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "author": "floci-io",
+      "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "Java",
+      "score": 482,
+      "comment_count": 3207,
+      "total_stars": 28837,
+      "built_by": [
+        "hectorvent",
+        "pgermosen",
+        "okinaka",
+        "AndreKurait",
+        "exoego"
+      ],
+      "content_context": "Light, fluffy, and always free - The AWS Local Emulator alternative\n\nLanguage: Java\n\nStars today: 482\n\nTotal stars: 28837\n\nBuilt by: hectorvent, pgermosen, okinaka, AndreKurait, exoego",
+      "trend_score": 80.45,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.832,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "author": "Usagi-org",
+      "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "Python",
+      "score": 228,
+      "comment_count": 2847,
+      "total_stars": 16459,
+      "built_by": [
+        "dingyufei615",
+        "claude",
+        "claude",
+        "ijodion",
+        "hurleychin"
+      ],
+      "content_context": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\nLanguage: Python\n\nStars today: 228\n\nTotal stars: 16459\n\nBuilt by: dingyufei615, claude, claude, ijodion, hurleychin",
+      "trend_score": 78.34,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.776,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "author": "max-sixty",
+      "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "Rust",
+      "score": 438,
+      "comment_count": 380,
+      "total_stars": 10527,
+      "built_by": [
+        "max-sixty",
+        "claude",
+        "worktrunk-bot",
+        "dependabot",
+        "github-actions"
+      ],
+      "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 438\n\nTotal stars: 10527\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
+      "trend_score": 75.95,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.713,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "author": "anomalyco",
+      "summary": "Local voice dictation for mac, windows and linux",
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "Rust",
+      "score": 410,
+      "comment_count": 258,
+      "total_stars": 4616,
+      "built_by": [
+        "kitlangton",
+        "thdxr",
+        "Hona",
+        "opencode-agent",
+        "vimtor"
+      ],
+      "content_context": "Local voice dictation for mac, windows and linux\n\nLanguage: Rust\n\nStars today: 410\n\nTotal stars: 4616\n\nBuilt by: kitlangton, thdxr, Hona, opencode-agent, vimtor",
+      "trend_score": 75.01,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.688,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "author": "spotify",
+      "summary": null,
+      "published_at": "2026-11-04T01:53:09.434395+00:00",
+      "language": "TypeScript",
+      "score": 91,
+      "comment_count": 238,
+      "total_stars": 3054,
+      "built_by": [
+        "djamaile",
+        "claude",
+        "javoire",
+        "sorantis"
+      ],
+      "content_context": "Language: TypeScript\n\nStars today: 91\n\nTotal stars: 3054\n\nBuilt by: djamaile, claude, javoire, sorantis",
+      "trend_score": 71.11,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.586,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1187,139 +1191,142 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Software freedom is about our human desire to share, tinker, and collaborate",
-      "url": "https://educatingtobehuman.org/software-freedom-and-the-case-for-open-with-matthias-kirschner",
-      "author": "markjgraham",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-03T03:13:35+00:00",
-      "summary": "Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w...",
-      "comment_highlights": [
-        "Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w..."
-      ],
-      "linked_context": {},
-      "content_context": "HN comment: Lisa Petrides (ISKME.org) interviews Matthias Kirschner, president of the Free Software Foundation Europe. He started using GNU/Linux in 1999 and joined FSFE in 2004 while studying political and administrative science.<p>The conversation is about why software freedom matters to people who don't w...",
-      "trend_score": 53.02,
-      "trend_breakdown": {
-        "freshness": 0.997,
-        "engagement": 0.081,
-        "topic_overlap": 0.111,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
-      "url": "https://news.ycombinator.com/item?id=50347425",
-      "author": "mike_richards",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-03T02:52:50+00:00",
-      "summary": "I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was...",
-      "comment_highlights": [
-        "I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was..."
-      ],
-      "linked_context": {},
-      "content_context": "We are looking for a Cryptography book recommendation to read with our 10 year old who loves making up his own ciphers. He loves reading adult math and science books with us at breakfast like Ignition!, Humble Pi, and The Hunt for Vulcan. All of the kids books that we've found are just puzzles, but I don't want to get something way over his head math-wise. A good history with basic theory behind the different types would be perfect. Thanks!\n\nHN comment: I would suggest Real-World Cryptography by DAVID WONG. It has good introduction covering basic primitives like various hash functions, MAC, KDF, then sym/asym, and so on, all the way to PQC and protocols design. A nice intro book, maybe your 10 y.o. will find it interesting.<p>P.S. In fact, I was...",
-      "trend_score": 52.63,
-      "trend_breakdown": {
-        "freshness": 0.983,
-        "engagement": 0.081,
-        "topic_overlap": 0.125,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Rustable is an open source database client built in Rust",
-      "url": "https://rustable.app",
-      "author": "JaTochNietDan",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-03T03:06:53+00:00",
-      "summary": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.",
-      "comment_highlights": [
-        "I built (vibe coded with direction) a free, open source alternative to TablePlus.<p>The goal is high performance and easy to use just like TablePlus but without that nagging window asking you to pay to have more than 2 active tabs.<p>It also runs in the browser for a fun demo since it can be comp..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://rustable.app/",
-        "page_title": "Rustable â This isnât a screenshot.",
-        "page_description": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.",
-        "page_excerpt": "Of course it is. We also use mise, and mise is written in Rust. Thatâs how you know itâs good. Please donât ask any follow-up questions about this methodology."
-      },
-      "content_context": "A native database client. Written in Rust. Obviously. macOS, Windows and Linux.\n\nOf course it is. We also use mise, and mise is written in Rust. Thatâs how you know itâs good. Please donât ask any follow-up questions about this methodology.\n\nHN comment: I built (vibe coded with direction) a free, open source alternative to TablePlus.<p>The goal is high performance and easy to use just like TablePlus but without that nagging window asking you to pay to have more than 2 active tabs.<p>It also runs in the browser for a fun demo since it can be comp...",
-      "trend_score": 51.74,
-      "trend_breakdown": {
-        "freshness": 0.992,
-        "engagement": 0.081,
-        "topic_overlap": 0.5,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: PhoneUse – Phones for AI Agents",
-      "url": "https://www.phoneuse.com/",
-      "author": "dyscrete",
+      "title": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+      "url": "https://tahaygun.github.io/pauseless/",
+      "author": "tahaygun",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-03T02:50:40+00:00",
-      "summary": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.",
+      "published_at": "2026-11-04T01:52:24+00:00",
+      "summary": "Cut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.phoneuse.com/",
-        "page_title": "PhoneUse: Your agent now has a phone",
-        "page_description": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.",
-        "page_excerpt": "> “Get a real iPhone, open Instagram and post today’s menu to our story.”"
+        "resolved_url": "https://tahaygun.github.io/pauseless/",
+        "page_title": "Pauseless – Remove silences from video, free and private",
+        "page_description": "Cut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.",
+        "page_excerpt": "Pauseless finds every pause in your recording and removes it. Send the result to Final Cut Pro, DaVinci Resolve, Premiere Pro or CapCut, or export the finished video. Your files never leave your computer.\n\nRiverside, Zoom, OBS or phone videos. Pauseless reads only the audio to find the quiet parts, so even long files are ready in seconds.\n\nSet the silence threshold (or let auto pick it), the minimum pause length and how much breathing room to keep. The timeline and preview update instantly."
       },
-      "content_context": "Cloud phones for scale. Real iPhones when your agent has to be undetectable. One API, one MCP server, any app on the App Store or Play Store.\n\n> “Get a real iPhone, open Instagram and post today’s menu to our story.”",
-      "trend_score": 50.15,
+      "content_context": "I have been using some third part tools for the purpose of cutting out the silences and filler words from my amateur podcasts and wanted to give it a shot myself to build one that works on the browser. Ad-free, install-free and account-free version.<p>And here is the result.<p>It works completely on browser and has zero backend api connections. Everything stays in your browser. Chrome or edge needed though.<p>Analyzes 2h of video in 10 seconds on my mac air :) So pretty fast. You have option to export it on the browser or download timeline for final cut, premiere pro, davinci resolve or capcut.<p>Feel free to use, create PR's or give feedback.<p>MIT licensed: <a href=\"https://github.com/tahaygun/pauseless\" rel=\"nofollow\">https://github.com/tahaygun/pauseless</a>\n\nCut the pauses out of a 1 hour video in seconds. Runs in your browser, nothing is uploaded. Free and open source.\n\nPauseless finds every pause in your recording and removes it. Send the result to Final Cut Pro, DaVinci Resolve, Premiere Pro or CapCut, or export the finished video. Your files never leave your computer. Riverside, Zoom, OBS or phone videos. Pauseless reads only the audio to find the quiet parts, so even long files are ready in seconds. Set the silence threshold (or let auto pick it), the minimum pause length and how much breathing room to keep. The timeline and preview update instantly.",
+      "trend_score": 56.54,
       "trend_breakdown": {
-        "freshness": 0.981,
-        "engagement": 0.045,
-        "topic_overlap": 0.5,
+        "freshness": 0.999,
+        "engagement": 0.046,
+        "topic_overlap": 0.333,
         "source_weight": 0.9,
-        "domain_weight": 1.0
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     },
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Claude's new rules against game cloning won't stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "author": "martincmartin",
+      "title": "FBI Probes Autism Therapy Provider That Billed $30k a Day",
+      "url": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea",
+      "author": "impish9208",
       "score": 1,
       "comment_count": 1,
-      "published_at": "2026-11-03T03:05:58+00:00",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "published_at": "2026-11-04T01:45:52+00:00",
+      "summary": "Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>",
       "comment_highlights": [
-        "\"Anthropic’s new prompt comes as AI coding tools are powering a deluge of game projects based on existing work in one way or another. That includes thrown-together copies of game demos that are making some developers afraid to show their early work publicly, as well as thousands of AI-powered dec..."
+        "Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>"
       ],
-      "linked_context": {
-        "resolved_url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-        "page_title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-        "page_description": "The tsunami of imitators is way bigger than any one model maker can stem.",
-        "page_excerpt": "The tsunami of imitators is way bigger than any one model maker can stem.\n\nLast week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it’s unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months.\n\nA social media user and AI decompilation enthusiast going by the name “chasm” was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name “tengu_heron_brook”—reads as follows:"
-      },
-      "content_context": "The tsunami of imitators is way bigger than any one model maker can stem.\n\nThe tsunami of imitators is way bigger than any one model maker can stem. Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it’s unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name “chasm” was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name “tengu_heron_brook”—reads as follows:\n\nHN comment: \"Anthropic’s new prompt comes as AI coding tools are powering a deluge of game projects based on existing work in one way or another. That includes thrown-together copies of game demos that are making some developers afraid to show their early work publicly, as well as thousands of AI-powered dec...",
-      "trend_score": 49.92,
+      "linked_context": {},
+      "content_context": "HN comment: Gift link: <a href=\"https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?st=1i1TSJ\" rel=\"nofollow\">https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-pr...</a>",
+      "trend_score": 51.45,
       "trend_breakdown": {
-        "freshness": 0.992,
-        "engagement": 0.081,
+        "freshness": 0.995,
+        "engagement": 0.082,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "An excavator dig cycle in the browser, timed by oil flow instead of keyframes",
+      "url": "https://animatedwebs.com/demos/kittredge-k35-excavator/index.html",
+      "author": "nonerthy",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-04T01:50:55+00:00",
+      "summary": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://animatedwebs.com/demos/kittredge-k35-excavator/index.html",
+        "page_title": "Kittredge K35: dig one bucket, read every cylinder",
+        "page_description": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.",
+        "page_excerpt": "Every step below is timed by oil, not by animation: the volume each cylinder needs to sweep, divided by what the pump can deliver at that pressure. Change the soil or the flow above and these numbers change with the arm.\n\nKittredge Machine Works and the K35 are fictional. Figures come from the simulator's own model and are illustrative, not a published rating.\n\nBring your crew to our Milwaukee proving yard, or we haul a K35 to your site anywhere within 150 miles. Two hours, your soil, your trench, our fuel."
+      },
+      "content_context": "An interactive compact excavator. Boom, stick, bucket linkage, three cylinders and the swing drive, every gauge driven by the same model that moves the steel.\n\nEvery step below is timed by oil, not by animation: the volume each cylinder needs to sweep, divided by what the pump can deliver at that pressure. Change the soil or the flow above and these numbers change with the arm. Kittredge Machine Works and the K35 are fictional. Figures come from the simulator's own model and are illustrative, not a published rating. Bring your crew to our Milwaukee proving yard, or we haul a K35 to your site anywhere within 150 miles. Two hours, your soil, your trench, our fuel.",
+      "trend_score": 50.01,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.046,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "author": "cdrnsf",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-04T01:52:37+00:00",
+      "summary": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+        "page_title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+        "page_description": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.",
+        "page_excerpt": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nCritics say OpenAI should tackle people’s concerns about data centers, not rebrand them.\n\nPosts from this author will be added to your daily email digest and your homepage feed."
+      },
+      "content_context": "Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them.\n\nPosts from this topic will be added to your daily email digest and your homepage feed. Critics say OpenAI should tackle people’s concerns about data centers, not rebrand them. Posts from this author will be added to your daily email digest and your homepage feed.",
+      "trend_score": 49.46,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.046,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Our organizations are being DDoSed from the inside",
+      "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/",
+      "author": "mavelikara",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-04T01:44:28+00:00",
+      "summary": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/",
+        "page_title": "Our organizations are being DDoSed from the inside",
+        "page_description": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?",
+        "page_excerpt": "I’ve written before that you can outsource work, but not your understanding.\n\nAs a CEO, I’m finding that harder to live up to. It feels like our organizations are being DDoSed from the inside. Nobody is trying to overwhelm the company. Everyone is doing something they think is useful. But all of that work draws on the same limited capacity to understand, review, and decide. We can generate changes much faster than we can give them that attention.\n\nI’m trying to keep product and marketing aligned while what we’re building changes daily. By the time I understand something well enough to contribute, the work might have already changed. Teams and agents are moving faster than any of us can follow."
+      },
+      "content_context": "Agents let us generate changes faster than we can understand, review, and decide. How do companies keep the ability to steer?\n\nI’ve written before that you can outsource work, but not your understanding. As a CEO, I’m finding that harder to live up to. It feels like our organizations are being DDoSed from the inside. Nobody is trying to overwhelm the company. Everyone is doing something they think is useful. But all of that work draws on the same limited capacity to understand, review, and decide. We can generate changes much faster than we can give them that attention. I’m trying to keep product and marketing aligned while what we’re building changes daily. By the time I understand something well enough to contribute, the work might have already changed. Teams and agents are moving faster than any of us can follow.",
+      "trend_score": 48.89,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.046,
         "topic_overlap": 0.4,
         "source_weight": 0.9,
         "domain_weight": 1.0
@@ -1331,162 +1338,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目表现活跃，GitHub趋势榜上涌现多个高热度项目。其中，claude-mem凭借为AI代理提供跨会话持久化记忆的功能单日获星超1800，成为焦点。同时，Claude-Code-Game-Studios展示了多智能体协作游戏开发的潜力，而Colibri和FreeToken等项目则致力于降低大型模型在本地或资源受限环境中的运行门槛，推动AI模型民主化。此外，金融专用模型Kronos和AI代理桌面工具agent-desktop也获得社区高度关注，反映了AI技术正向垂直领域和系统级操作深入拓展。",
+    "overview": "今日AI领域开源项目表现活跃，多个工具登上GitHub趋势榜。Vercel Labs开源的agent-desktop为AI代理提供了直接操作计算机的CLI界面，单日获星超3700颗，体现了AI代理向本地系统深度集成的趋势。Colibri分层推理引擎针对混合专家模型优化，通过分层存储策略提升推理效率，单日新增802星。Claude-Mem项目致力于为AI智能体提供跨会话记忆能力，单日获星超1100颗，总星数已突破11万，反映了市场对提升AI协作连贯性的强烈需求。此外，无需训练即可修改模型行为的工具heretic、面向工程师的技能工具集mattpocock/skills以及针对闲鱼平台的AI监控系统ai-goofish-monitor等项目也获得较高关注。整体来看，开发者社区正积极构建工具以解决AI代理的具身操作、长期记忆、推理效率及行为定制等核心挑战。",
     "named_hotspots": [
       {
-        "name": "claude-mem",
-        "kind": "project",
-        "source": "GitHub",
-        "what_happened": "一个名为claude-mem的开源项目在GitHub上趋势飙升，单日获得1803颗星，总星数已达110861。该项目旨在为AI代理提供跨会话的持久化上下文管理。",
-        "core_details": "claude-mem是一个TypeScript项目，由thedotmack等人开发。其核心功能是捕获AI代理在会话期间的所有操作，利用AI进行压缩，并将相关上下文注入未来的会话中，从而实现跨会话的持久化记忆。该项目声称兼容Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种AI代理。",
-        "ai_take": "该项目直接针对当前AI代理（尤其是编码助手）的一个关键痛点：缺乏跨会话的长期记忆。通过自动捕获、压缩和回注上下文，它试图让AI代理的工作流更加连贯和高效，减少用户重复解释的需求，是提升AI助手实用性和个性化程度的重要尝试。",
-        "hype_check": "热度很高。单日暴涨的星数和极高的趋势分数（92.75）表明开发者社区对此概念非常感兴趣。这反映了市场对更智能、更具上下文感知能力的AI工具的强烈需求。",
-        "value_check": "潜在价值显著。如果实现可靠，它能极大提升开发者与AI编码助手交互的效率和体验，使助手更像一个“长期合作搭档”。其多代理兼容性也扩大了应用范围。但实际效果取决于上下文压缩与检索的准确性，以及是否会造成信息过载或性能问题。",
-        "follow_up": "需要关注其实际使用案例、用户反馈以及与其他开发工具的集成情况。项目的持续维护、性能优化以及对更多AI模型的支持将是其能否从热门项目转化为实用工具的关键。",
-        "evidence": "项目描述明确指出其“为每个代理提供跨会话的持久化上下文”的核心功能，并列出支持的代理列表。GitHub数据（单日星数1803，总星数110861，趋势分数92.75）提供了其流行度的量化证据。"
-      },
-      {
-        "name": "Claude-Code-Game-Studios",
+        "name": "mattpocock/skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub项目'Claude-Code-Game-Studios'登上趋势榜，该项目旨在将Claude Code转化为一个完整的游戏开发工作室，包含49个AI智能体、72项工作流技能，并模拟真实工作室的层级协调系统。",
-        "core_details": "该项目由Donchitos开发，使用Shell语言编写，今日新增1379颗星，总星数达33699，在GitHub上获得高度关注。",
-        "ai_take": "该项目展示了AI在游戏开发领域的应用潜力，通过多智能体协作系统模拟专业工作室流程，可能提升开发效率并降低人力成本。",
-        "hype_check": "趋势分数高达92.03，表明社区兴趣浓厚，但需验证其实际工作效果和可扩展性。",
-        "value_check": "若系统能稳定运行，可为独立开发者或小团队提供自动化游戏开发工具，具有实用价值。",
-        "follow_up": "关注项目后续更新、用户反馈及实际应用案例，评估其是否能在复杂游戏项目中有效协作。",
-        "evidence": "项目描述明确功能框架，GitHub数据（星数、趋势分数）支持其流行度，但缺乏第三方评测或生产环境验证。"
+        "what_happened": "GitHub 项目 'mattpocock/skills' 登上趋势榜，这是一个面向工程师的技能工具集，源自作者的 .agents 目录。",
+        "core_details": "项目由 mattpocock 创建，使用 Shell 语言编写，今日新增 1164 颗星，总星数达 311514，项目构建者包括 mattpocock、claude、github-actions 和 gabimoncha。",
+        "ai_take": "该项目展示了 AI 辅助工具（如 Claude）在自动化工程技能工具开发中的应用，体现了 AI 与开发者工作流的深度集成趋势。",
+        "hype_check": "趋势分 86.85 和单日高星增长表明项目受到开发者社区关注，但需注意其热度可能部分源于作者知名度或现有粉丝基础。",
+        "value_check": "作为开源技能工具集，它可能为工程师提供实用的自动化脚本或最佳实践，但具体价值取决于工具的实际效用和文档完整性。",
+        "follow_up": "可关注项目更新频率、社区贡献情况以及是否集成到主流开发工作流中，以评估其长期影响力。",
+        "evidence": "项目描述为 'Skills for Real Engineers. Straight from my .agents directory.'，语言为 Shell，总星数 311514，今日新增 1164 星，构建者包括 AI 工具 Claude。"
       },
       {
-        "name": "pingdotgg/t3code",
+        "name": "Claude-Mem",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 Claude-Mem 的开源项目在 GitHub 上趋势飙升，单日获星超1100颗，总星数已超过11万。该项目旨在为各类AI智能体（Agent）提供跨会话的持久化上下文记忆能力。",
+        "core_details": "Claude-Mem 是一个用 TypeScript 编写的开源工具。其核心功能是捕获智能体在每次会话中的所有操作，利用AI技术对内容进行压缩，并在未来的会话中智能地注入相关上下文。该项目宣称兼容 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等多种主流AI编程助手和模型。",
+        "ai_take": "该项目直击当前AI智能体应用的一个关键痛点：缺乏长期记忆和跨任务连续性。通过自动记录、压缩和召回上下文，它试图让AI助手更像一个“有经验的合作伙伴”，而非每次对话都“从头开始”。这代表了AI工具向更个性化、更连贯的协作体验演进的重要方向。",
+        "hype_check": "热度很高。单日千星的增长速度和庞大的总星数（11万+）表明开发者社区对此类工具的需求非常旺盛。高关注度反映了市场对提升AI智能体实用性和连贯性的强烈兴趣。",
+        "value_check": "潜在价值显著。如果其压缩和召回机制高效可靠，能极大提升开发者和AI助手协作的效率和深度，减少重复解释和上下文重建的成本。其多平台兼容性也增加了其实用价值。",
+        "follow_up": "需关注其实际使用效果、压缩算法的保真度、隐私安全处理方式，以及在不同AI模型上的具体适配情况和性能表现。社区反馈和后续迭代将决定其能否从热门项目成长为必备工具。",
+        "evidence": "项目描述明确指出其“持久化跨会话上下文”、“捕获一切、AI压缩、注入相关上下文”的核心功能，并列出了广泛的兼容模型列表。GitHub趋势数据（日增1139星，总星111960）提供了其流行度的量化证据。"
+      },
+      {
+        "name": "agent-desktop",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub 开源项目 pingdotgg/t3code 今日获得 3229 颗星，总星数达 42215，在 TypeScript 语言项目中趋势显著。",
-        "core_details": "该项目是一个基于 TypeScript 的开源项目，由 juliusmarminge、claude、t3dotgg、maria-rcks、codex 等贡献者构建。目前没有详细的页面描述或摘要，但高星数和趋势分数表明其在开发者社区中受到关注。",
-        "ai_take": "该项目可能涉及 AI 辅助编码或开发工具，因为贡献者列表中包含 'claude' 和 'codex'，这些名称常与 AI 模型关联，暗示了 AI 在代码生成或开发流程中的应用潜力。",
-        "hype_check": "趋势分数 86.84 和单日高星数显示短期热度很高，但缺乏具体功能描述，需谨慎评估其实际影响。",
-        "value_check": "作为开源项目，它可能提供实用的开发工具或库，但价值取决于代码质量、文档和社区支持，目前信息有限。",
-        "follow_up": "建议访问 GitHub 仓库查看 README、代码示例和问题跟踪，以了解具体用途和 AI 集成细节。",
-        "evidence": "数据来自 GitHub 趋势，包括语言、星数、贡献者列表；项目名称和贡献者暗示 AI 关联，但无直接内容证据。"
-      },
-      {
-        "name": "Scrapling",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Scrapling项目在GitHub趋势榜上热度飙升，单日获得706颗星，总星数已达93089，显示出开发者社区对其的高度关注。",
-        "core_details": "Scrapling是一个由D4Vinci等人开发的Python网络爬虫框架，宣称能处理从单个请求到大规模爬取的所有任务。项目鼓励用户加入其Discord社区（https://discord.gg/EMgGbDceNQ）并关注其X账号（https://x.com/Scrapling_dev）以获取每日技巧。",
-        "ai_take": "虽然Scrapling本身是一个通用爬虫工具，但其高效处理大规模数据的能力与AI数据采集和预处理流程高度相关。强大的爬取框架是构建高质量AI训练数据集的基础设施之一。",
-        "hype_check": "项目描述自称“BEST”，且拥有近10万星标，社区活跃（Discord和X账号），单日增长显著，表明其确实在开发者中获得了相当高的认可和热度。但“最佳”的宣称需要结合具体使用场景和对比来评估。",
-        "value_check": "对于需要稳定、可扩展网络数据采集的开发者（包括AI数据工程师）而言，一个成熟的Python爬虫框架具有明确价值。高星标和活跃社区通常意味着较好的文档、维护和问题解决支持。",
-        "follow_up": "关注其GitHub仓库的更新频率、Issue解决情况以及Discord社区的讨论质量，以评估项目的长期维护性和实际可靠性。同时，可对比Scrapy等成熟框架，看其独特优势所在。",
-        "evidence": "项目在GitHub趋势榜排名靠前（趋势得分83.22），语言为Python，单日获星706，总星数93089，拥有Discord社区和X账号进行运营。内容描述强调了其从简单到复杂爬取任务的全能性。"
-      },
-      {
-        "name": "Kronos",
-        "kind": "model",
-        "source": "GitHub Trending",
-        "what_happened": "Kronos，一个专为金融市场语言设计的开源基础模型，在GitHub上成为热门项目，今日获得857颗星，总星数已达46050。",
-        "core_details": "Kronos是一个用Python编写的开源AI模型，旨在理解和生成金融市场相关的语言，如财报、新闻、分析报告等。项目由shiyu-coder等开发者维护，在GitHub上拥有高关注度，总星数超过4.6万，今日新增857颗星，显示出社区对其的持续兴趣。",
-        "ai_take": "该项目将大语言模型能力聚焦于金融垂直领域，可能提升金融文本分析、自动化报告生成或市场情绪识别的效率，是AI+金融应用的一个具体实践案例。",
-        "hype_check": "高星数和日增星数表明其在开发者社区中受关注，但作为开源项目，实际在金融行业的部署效果、准确性及合规性仍需验证，需警惕过度技术乐观。",
-        "value_check": "若模型能有效处理金融专业术语、时序数据和市场语境，可降低金融机构的信息处理成本，但价值取决于其在实际场景中的泛化能力、数据新鲜度及与现有系统的整合难度。",
-        "follow_up": "关注其后续版本更新、论文发布（如有）或在金融科技公司的实际应用案例，同时留意类似开源金融模型（如BloombergGPT）的进展对比。",
-        "evidence": "GitHub项目页显示：项目描述为“Kronos: A Foundation Model for the Language of Financial Markets”，语言为Python，总星数46050，今日星数增长857，由shiyu-coder等开发者维护。"
+        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-desktop 的项目，这是一个为 AI 代理设计的计算机使用命令行界面（CLI），使用 Rust 语言编写。项目在短时间内获得了大量关注，今日新增星标数达 3791，总星标数已超过 12880。",
+        "core_details": "该项目旨在为 AI 代理提供一个通过命令行与计算机交互的界面，允许 AI 代理执行文件操作、运行命令等任务。项目由 Vercel Labs 团队维护，主要贡献者包括 lahfir 等。项目热度较高，在 GitHub 趋势榜上排名靠前，显示出开发者社区对 AI 代理与操作系统深度集成工具的浓厚兴趣。",
+        "ai_take": "agent-desktop 代表了 AI 代理从纯对话或 API 调用向直接操作本地系统环境演进的重要一步。它降低了 AI 代理执行实际任务（如自动化脚本、文件管理）的门槛，可能推动更多本地化、个性化的 AI 助手应用出现。使用 Rust 开发也保证了性能与安全性，适合系统级工具。",
+        "hype_check": "当前热度确实很高（趋势得分 83.02），反映了市场对 AI 代理“具身化”能力的期待。但需注意，这仍是一个早期项目，实际稳定性和功能完整性有待验证。高星标数部分源于 Vercel 的品牌效应和 Rust 社区对系统工具的关注，未必完全代表生产就绪度。",
+        "value_check": "对于开发者而言，该项目提供了构建可操作本地环境的 AI 代理的参考实现，具有学习和实验价值。对于企业，若能成熟应用，可降低自动化流程的开发成本。但普通用户目前可能难以直接使用，需依赖技术背景或集成到更高层应用中。",
+        "follow_up": "可关注项目的后续版本更新、实际用例分享（如是否有人基于它构建了具体代理），以及 Vercel 是否会将其整合到自身 AI 产品线中。同时观察类似项目（如其他 AI 操作系统交互工具）的涌现情况。",
+        "evidence": "GitHub 仓库显示项目描述为“Computer use CLI for AI agents”，语言为 Rust，今日星标增长 3791，总星标 12880，由 Vercel-labs 组织发布。项目趋势得分 83.02，表明在 GitHub 社区内热度显著。"
       },
       {
         "name": "Colibri",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为Colibri的纯C语言项目在GitHub上趋势飙升，它允许用户在现有硬件上运行前沿的混合专家模型，无需额外依赖，专家权重从磁盘流式加载。",
-        "core_details": "Colibri是一个用纯C编写的轻量级推理引擎，专为运行大型混合专家模型设计。其核心特点是零依赖、专家权重流式加载，能在有限硬件资源上部署庞大模型。项目由JustVugg等人开发，今日获675颗星，总星数达46652。",
-        "ai_take": "该项目降低了运行前沿MoE模型的门槛，使资源有限的开发者也能在本地硬件上进行推理，可能推动边缘计算和模型民主化。纯C实现确保了跨平台兼容性和高效性。",
-        "hype_check": "趋势分高达81.93，显示社区关注度极高。但作为新兴项目，其稳定性、模型支持范围和性能优化仍需时间验证。",
-        "value_check": "对于需要在资源受限环境中部署大型AI模型的研究者或开发者具有实用价值，尤其适合边缘设备、教育或实验性场景。",
-        "follow_up": "关注其版本更新、支持的模型列表扩展以及社区反馈的性能基准测试。",
-        "evidence": "项目描述强调'纯C、零依赖、专家流式加载'，GitHub数据反映高增长趋势（今日星数675，总星46652），语言为C，符合轻量级引擎定位。"
+        "what_happened": "一个名为Colibri的分层推理引擎项目在GitHub上趋势飙升，单日获802星，总星数达47267。该项目由JustVugg等人开发，专注于为前沿混合专家模型提供高效推理方案。",
+        "core_details": "Colibri是一个用C语言编写的分层推理引擎，专为前沿混合专家模型设计。其核心创新在于分层管理专家：将热专家置于GPU（支持CUDA和Vulkan），温专家放在RAM中，冷专家则从NVMe流式加载。该项目强调能在现有硬件上运行，无需额外专用设备。",
+        "ai_take": "该项目通过分层存储和动态加载策略，显著优化了MoE模型在资源受限环境下的推理效率，降低了大规模模型部署的门槛，对推动MoE模型的实用化和普及具有积极意义。",
+        "hype_check": "项目因单日高星增长和总星数突出而受关注，反映了社区对高效、硬件友好型推理解决方案的强烈需求，但实际生产环境中的稳定性和性能仍需进一步验证。",
+        "value_check": "Colibri通过利用现有硬件分层管理资源，有望降低MoE模型的部署成本并提升推理速度，尤其适合研究机构和小型团队尝试前沿模型，但其成熟度和生态支持尚处早期。",
+        "follow_up": "关注其版本更新、性能基准测试结果以及社区反馈，以评估其在复杂模型和多样化硬件上的实际表现；同时可观察是否有主流框架或平台开始集成此引擎。",
+        "evidence": "项目描述明确其为分层推理引擎，支持CUDA/Vulkan GPU、RAM和NVMe存储分层；GitHub数据显示高星增长和活跃开发；技术栈为C语言，强调硬件兼容性。"
       },
       {
-        "name": "agent-desktop",
+        "name": "p-e-w/heretic",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-desktop 的项目，它是一个为 AI 代理设计的计算机使用命令行界面（CLI）。",
-        "core_details": "该项目使用 Rust 语言开发，今日获得 2275 颗星，总星数已达 10186。主要贡献者包括 lahfir、github-actions 等。",
-        "ai_take": "该项目旨在为 AI 代理提供一个直接与计算机操作系统交互的 CLI 工具，可能用于自动化任务、系统管理或作为更复杂 AI 代理系统的基础设施组件，体现了 AI 代理向底层系统操作能力扩展的趋势。",
-        "hype_check": "项目在 GitHub 上趋势热度很高（趋势得分 80.85），单日获星超两千，总星数破万，表明其在开发者社区中引起了广泛关注和兴趣。",
-        "value_check": "作为 Vercel Labs 的开源项目，其技术背景可靠。使用 Rust 开发保证了性能与安全性。它为 AI 代理提供了系统级的操作接口，具有明确的实用价值，可能推动 AI 代理在自动化工作流中的应用。",
-        "follow_up": "关注该项目后续的版本更新、实际应用案例以及社区围绕其构建的生态工具。",
-        "evidence": "信息来源于 GitHub Trending 页面，项目描述为“Computer use CLI for AI agents”，语言为 Rust，并提供了具体的星数数据和贡献者列表。"
+        "source": "github-trending",
+        "what_happened": "GitHub项目'heretic'今日获得701颗星，总星数达38832，是一个无需训练即可修改语言模型行为的Python工具。",
+        "core_details": "该项目旨在通过无需额外训练的方式，对现有语言模型进行修改，以移除内容审查机制、抑制无意义输出、减少谄媚性回应，并实现其他行为调整。",
+        "ai_take": "这代表了一种绕过传统微调、直接干预模型行为的研究方向，可能对模型可控性和伦理对齐的实践方法产生影响，但也涉及敏感的内容管控议题。",
+        "hype_check": "项目热度较高（趋势得分82.01），总星数近3.9万且今日增长显著，表明社区对无需训练的模型修改技术有浓厚兴趣。",
+        "value_check": "提供了开源工具，可能为研究人员和开发者探索模型行为干预提供了新途径，但其宣称的'移除审查'等功能在实际应用中的效果、稳定性及伦理法律风险需谨慎评估。",
+        "follow_up": "关注项目后续更新、实际应用案例以及社区关于其技术有效性与伦理影响的讨论。",
+        "evidence": "项目描述明确指出其功能为'无需训练的语言模型修改：移除审查、抑制废话、减少谄媚等'，GitHub数据支持其流行度。"
       },
       {
-        "name": "FreeToken",
+        "name": "floci",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "FlashML-org在GitHub上开源了FreeToken项目，该项目旨在将数据中心规模的模型服务带到个人桌面，使用户能够本地快速高效地运行大规模模型。",
-        "core_details": "FreeToken是一个Python项目，由jason-fxz、andy-yang-1、void-mckenzie、taking-lying-flat和zihaomu等开发者构建。项目在GitHub上趋势显著，今日获星653颗，总星数达16154颗，评论数为1590条，显示出较高的社区关注度。",
-        "ai_take": "该项目通过优化本地模型服务，降低了运行大规模AI模型的门槛，可能推动边缘计算和私有化AI部署的发展，对资源受限环境下的模型应用具有实用价值。",
-        "hype_check": "项目在GitHub趋势榜上排名靠前，星数和评论数增长迅速，表明其在开发者社区中引起了广泛兴趣，但需验证其实际性能是否如宣传般高效。",
-        "value_check": "如果FreeToken能真正实现数据中心级模型在桌面的高效运行，将显著提升个人和研究机构的AI实验能力，减少对云端资源的依赖，具有潜在的技术突破性。",
-        "follow_up": "关注项目的后续更新、性能基准测试结果以及用户反馈，以评估其在实际应用中的稳定性和效率。",
-        "evidence": "项目在GitHub上的描述强调“将数据中心规模的模型服务带到桌面”，且星数和趋势分数（79.44）较高，支持其受关注度的说法。"
+        "what_happened": "一个名为floci的Java开源项目在GitHub上趋势飙升，今日获星482颗，总星数已达28837，被定位为“轻量、蓬松且永远免费”的AWS本地模拟器替代方案。",
+        "core_details": "floci是一个用Java编写的开源项目，旨在提供AWS服务的本地模拟器功能，强调轻量级和免费特性。项目由hectorvent、pgermosen等多位开发者共同构建，目前总星数接近2.9万，显示出较高的社区关注度。",
+        "ai_take": "该项目本身不直接涉及AI技术，但作为云服务本地化工具，可间接支持AI应用在开发测试阶段降低AWS依赖和成本，适用于需要频繁测试AWS集成的机器学习流水线或数据工程场景。",
+        "hype_check": "趋势分数80.45和单日大量增星表明短期关注度爆发，但需注意其作为工具类项目的长期可持续性，是否真能全面替代AWS官方模拟器尚待验证。",
+        "value_check": "为开发者提供免费的本地AWS模拟环境，能显著降低开发和测试成本，尤其适合预算有限的团队或个人项目。高星数和活跃贡献者列表显示其已被社区初步认可。",
+        "follow_up": "可关注其与AWS服务兼容性的深度、性能表现对比，以及是否计划支持更多AWS服务模块。",
+        "evidence": "项目描述明确为“AWS本地模拟器替代”，语言为Java，总星数28837，今日增星482，由多位开发者维护。"
+      },
+      {
+        "name": "Usagi-org/ai-goofish-monitor",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为 ai-goofish-monitor 的 GitHub 开源项目在趋势榜上热度上升，该项目使用 Playwright 和 AI 技术构建了一个闲鱼多任务实时/定时监控与智能分析系统，并配备了后台管理 UI，旨在帮助用户从海量商品中筛选心仪产品。",
+        "core_details": "该项目基于 Python 开发，由 Usagi-org 组织维护，贡献者包括 dingyufei615、claude 等。它利用 Playwright 进行自动化操作，结合 AI 实现智能分析，支持多任务监控，并提供完善的后台管理界面。当前单日获星 228，总星数已达 16459，显示出较高的社区关注度。",
+        "ai_take": "该项目将 AI 应用于电商监控场景，通过智能分析处理闲鱼平台的海量商品数据，可能涉及自然语言处理或图像识别技术来理解商品信息，辅助用户决策，体现了 AI 在自动化工具和数据分析领域的实用化趋势。",
+        "hype_check": "热度较高，单日新增大量星标，总星数破万，表明项目在开发者社区中受到广泛关注，可能因其结合了热门技术（Playwright、AI）和实用场景（闲鱼监控）而引发兴趣。",
+        "value_check": "项目提供了具体的解决方案，针对闲鱼用户的需求，具备实际应用价值，如自动化监控和智能分析，可节省用户时间。开源性质允许社区协作改进，但需注意合规使用，避免违反平台规则。",
+        "follow_up": "关注项目后续更新，如 AI 模型的具体实现细节、性能优化以及用户反馈；同时可观察类似项目在电商监控领域的发展，以及 AI 工具在自动化任务中的创新应用。",
+        "evidence": "基于提供的 content_context：项目描述为“基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统”，语言为 Python，星标数据（今日 228，总计 16459）支持其热度。其他字段如 page_description 等未提供额外信息。"
+      },
+      {
+        "name": "Worktrunk",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为Worktrunk的Git工作树管理CLI工具在GitHub趋势榜上受到关注，今日新增438颗星，总星数达10527。",
+        "core_details": "Worktrunk是一个用Rust编写的命令行工具，专门用于管理Git工作树，其设计目标是支持并行的AI智能体工作流。项目由max-sixty等人开发和维护。",
+        "ai_take": "该项目直接针对AI开发工作流中的并行处理需求，通过优化Git工作树管理来提升多智能体协作或实验的效率，反映了AI工程化中对版本控制和隔离环境的工具需求。",
+        "hype_check": "趋势分75.95和较高的星数增长表明其在开发者社区中获得了显著关注，但需注意这主要集中于特定技术圈层（如Rust和AI工具开发者）。",
+        "value_check": "对于频繁进行多分支、多实验的AI团队或研究者，该工具可能提供实质性的工作流优化价值，但普通开发者或非并行工作场景下的必要性可能较低。",
+        "follow_up": "关注其在实际AI项目中的采用案例、与现有CI/CD或实验管理工具的集成情况，以及社区是否持续贡献功能更新。",
+        "evidence": "项目描述明确指出“为并行AI智能体工作流设计”，且GitHub趋势数据（今日星数438，总星10527，语言Rust）支持其当前热度。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
+        "item_name": "mattpocock/skills",
+        "content_summary": "这是一个名为“skills”的GitHub仓库，作者mattpocock将其描述为“真实工程师的技能”，内容直接来自他的.agents目录。该项目使用Shell语言编写，今日获得1164颗星，总星数已达311,514。",
+        "ai_comment": "该项目热度极高，可能提供了实用的AI代理技能集合或工具，对工程师构建和配置AI代理有参考价值。"
+      },
+      {
+        "source_group": "github_trending",
         "item_name": "thedotmack/claude-mem",
-        "content_summary": "这是一个为AI智能体（如Claude Code、OpenClaw、Codex、Gemini等）设计的持久化上下文工具。它能捕获智能体在会话中的所有操作，利用AI进行压缩，并将相关上下文注入未来的会话中，从而实现跨会话的持续记忆。项目使用TypeScript编写。",
-        "ai_comment": "该项目解决了AI智能体在多次交互中缺乏记忆连贯性的痛点，通过智能压缩和上下文注入，有望提升智能体的长期任务执行效率和用户体验。"
+        "content_summary": "这是一个为AI代理提供跨会话持久化上下文功能的TypeScript项目。它能捕获代理在会话中的所有操作，使用AI进行压缩，并将相关上下文注入未来的会话中。支持Claude Code、OpenClaw、Codex、Gemini等多种AI模型。今日获得1139颗星。",
+        "ai_comment": "该项目解决了AI代理长期记忆和上下文连贯性的关键问题，支持广泛的AI平台，显示出在智能体开发领域的重要工具价值。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "Donchitos/Claude-Code-Game-Studios",
-        "content_summary": "该项目旨在将Claude Code转变为一个完整的游戏开发工作室。它包含49个AI智能体、72个工作流技能，以及一个模拟真实工作室层级的完整协调系统。项目使用Shell脚本编写。",
-        "ai_comment": "这代表了AI在复杂、结构化工作流（如游戏开发）中应用的前沿探索，通过多智能体分工协作，展示了AI在项目管理与创意生产中的潜力。"
-      },
-      {
-        "source_group": "github_trending",
-        "item_name": "pingdotgg/t3code",
-        "content_summary": "这是一个TypeScript项目，具体功能描述未在提供内容中明确，但根据其高星标数和趋势分数，表明它是一个在开发者社区中受到广泛关注的热门项目。",
-        "ai_comment": "项目的高流行度暗示了其在TypeScript生态或特定开发工作流中可能提供了有价值的工具或框架，值得关注其具体用途。"
+        "item_name": "vercel-labs/agent-desktop",
+        "content_summary": "Vercel Labs开源了一个用Rust编写的“agent-desktop”项目，它是一个供AI代理使用的计算机命令行界面（CLI）。今日获得3791颗星，增长迅速。",
+        "ai_comment": "由知名公司Vercel推出，采用高性能的Rust语言，旨在为AI代理提供底层系统交互能力，可能推动AI代理更深入地集成到操作系统和工作流中。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Software freedom is about our human desire to share, tinker, and collaborate",
-        "content_summary": "这是一篇对欧洲自由软件基金会（FSFE）主席Matthias Kirschner的访谈。访谈探讨了软件自由对于非技术背景人士的重要性，强调了分享、修改和协作的人类内在需求是自由软件运动的核心。",
-        "ai_comment": "该访谈从人文和社会角度阐释了开源与自由软件的价值，超越了单纯的技术层面，对于理解开源文化的深层动机具有启发意义。"
+        "item_name": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+        "content_summary": "Pauseless是一个免费、开源、基于浏览器的工具，用于从视频中自动检测并删除静默片段和填充词（如“呃”、“嗯”）。它完全在浏览器中运行，无需上传文件，支持Chrome或Edge。可以快速分析音频（例如2小时视频约10秒），并导出时间线或处理后的视频，兼容Final Cut Pro、Premiere Pro等主流编辑软件。",
+        "ai_comment": "该项目利用本地计算保护用户隐私，解决了视频/播客后期制作的常见痛点，展示了Web技术在媒体处理方面的实用性和高效性。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
-        "content_summary": "一位家长寻求适合与10岁孩子共读的密码学书籍推荐。孩子喜欢自创密码，并能阅读《Ignition!》等成人科普书。家长希望找到一本包含历史背景和基础理论、但数学难度适中的书，而非简单的谜题书。评论中有人推荐了David Wong的《Real-World Cryptography》，认为其从哈希函数等基础概念讲起，内容全面。",
-        "ai_comment": "这反映了对高质量、适合青少年的STEM教育资源的持续需求，也显示了密码学作为一门兼具历史故事性和理论深度的学科，对培养孩子逻辑思维和兴趣的潜力。"
+        "item_name": "FBI Probes Autism Therapy Provider That Billed $30k a Day",
+        "content_summary": "据《华尔街日报》报道，美国联邦调查局（FBI）正在调查一家自闭症疗法提供商，该公司曾被指控每天账单高达3万美元。报道通过礼品链接提供。",
+        "ai_comment": "此新闻涉及医疗保健领域的潜在欺诈和高额账单问题，反映了对特定医疗服务监管和审计的关注。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: Rustable is an open source database client built in Rust",
-        "content_summary": "Rustable是一个用Rust编写的开源、跨平台（macOS、Windows、Linux）数据库客户端，旨在成为TablePlus的高性能免费替代品。其特点是消除了TablePlus对活跃标签数量的限制，并且提供了一个可在浏览器中运行的演示版本。",
-        "ai_comment": "该项目利用Rust语言的优势，挑战现有商业数据库客户端的市场，体现了开源社区在工具软件领域持续创新和提供替代选择的活力。"
+        "item_name": "An excavator dig cycle in the browser, timed by oil flow instead of keyframes",
+        "content_summary": "这是一个在浏览器中运行的交互式挖掘机模拟演示。其独特之处在于，挖掘机的每一个动作（动臂、斗杆、铲斗联动、三个油缸和回转驱动）的计时都不是基于预设的关键帧动画，而是基于液压油流量模型计算得出。用户可调整土壤条件或流量参数，仪表盘数据和机械臂动作会随之实时变化。",
+        "ai_comment": "该演示创新地将物理仿真（液压系统模型）与Web可视化结合，提供了更真实、动态的工程机械模拟体验，展示了浏览器在复杂工业模拟中的潜力。"
       },
       {
         "source_group": "news",
-        "item_name": "2026 election live updates as Supreme Court denies Trump bid to separate California ballots, candidates make final pitches - CBS News",
-        "content_summary": "美国最高法院驳回了特朗普方面要求分离加州约2万张选票的请求。与此同时，2026年大选的候选人正在进行最后的竞选活动。司法部还建议对一项批评其非公民投票主张的数据库分析进行制裁。",
-        "ai_comment": "此事件涉及选举法律程序、最高法院的司法裁决以及政治竞选动态，是美国国内政治与司法系统互动的典型案例。"
+        "item_name": "Latest midterm election results and live updates after polls close in Southeast Texas - ABC13 Houston",
+        "content_summary": "ABC13休斯顿等媒体正在报道美国2026年中期选举的最新结果和实时动态，焦点集中在东南德克萨斯州投票站关闭后的情况。相关报道涵盖了德州联邦参议院选举（James Talarico vs. Ken Paxton）等多场关键竞选。",
+        "ai_comment": "这是关于美国政治进程的实时新闻报道，显示了中期选举在地方和全国层面的关注度。"
       },
       {
         "source_group": "news",
-        "item_name": "US struck Iran's Qeshm Island, Wall Street Journal reports - Reuters",
-        "content_summary": "据《华尔街日报》报道，美国对伊朗的格什姆岛实施了打击。美国官员称这是在霍尔木兹海峡对一些伊朗目标进行的防御性打击。有报道称格什姆岛发生爆炸。特朗普总统则表示“不急于”恢复对伊朗的打击。",
-        "ai_comment": "这是涉及美伊紧张关系升级的地缘政治事件，军事行动与外交表态并存，局势发展具有高度不确定性。"
+        "item_name": "Election Day latest: Polls close across NC, early voting results to drop soon - WRAL",
+        "content_summary": "WRAL等媒体正在报道北卡罗来纳州的选举日最新情况，全州投票站已关闭，早期投票结果即将公布。报道关注北卡罗来纳州联邦参议院中期选举等 races，并提供了追踪结果的指南。",
+        "ai_comment": "另一则关于美国关键州选举进程的实时新闻，反映了选举结果揭晓阶段的公众与媒体关注。"
       },
       {
         "source_group": "news",
-        "item_name": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News",
-        "content_summary": "一名法官以“武器化”为由，驳回了对两名被指控在亨特·拜登相关调查中向国会作伪证的前FBI官员的指控。法官指责司法部（DOJ）存在“武器化”行为。",
-        "ai_comment": "该事件凸显了美国司法系统内部在敏感政治调查上可能存在的分歧，以及“司法武器化”成为法律和政治辩论焦点的现象。"
+        "item_name": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia - NBC News",
+        "content_summary": "NBC新闻等媒体报道，民主党参议员乔恩·奥索夫在佐治亚州轻松赢得连任，击败了共和党对手迈克·柯林斯。报道提供了该州联邦参议院选举的实时结果。",
+        "ai_comment": "这是一则具体的选举结果新闻，标志着一位现任参议员成功连任，是中期选举结果的一部分。"
       }
     ],
-    "closing_note": "总体来看，今日趋势凸显了开发者社区对提升AI代理连贯性、降低模型部署成本以及探索垂直领域应用的强烈兴趣。这些开源项目的热度不仅体现了技术探索的活力，也预示着AI工具正朝着更实用、更易得的方向演进。然而，项目的长期价值仍需通过实际应用、性能优化和生态建设来验证。我们将持续关注这些项目的进展及其对AI开发范式的潜在影响。",
+    "closing_note": "今日热点集中展示了AI工程化进程中的关键工具创新。从赋予AI代理操作系统的能力，到为智能体注入持久记忆，再到优化大模型推理效率，这些开源项目正在为下一代AI应用的开发铺平道路。然而，这些工具大多处于早期阶段，其实际稳定性、生产环境性能及伦理合规性仍需社区持续验证与完善。开发者们在拥抱这些新工具提升效率的同时，也应关注其潜在的技术风险与使用边界。",
     "_errors": []
   }
 }
