@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:59:10.522577+00:00",
+  "generated_at": "2026-11-06T01:59:10.508638+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,28 +11,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "The-PR-Agent/pr-agent",
-        "url": "https://github.com/The-PR-Agent/pr-agent",
-        "author": "The-PR-Agent",
-        "summary": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
-        "language": "Python",
-        "score": 280,
-        "comment_count": 2096,
-        "total_stars": 14789,
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "author": "mattpocock",
+        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
+        "language": "Shell",
+        "score": 2071,
+        "comment_count": 26403,
+        "total_stars": 315311,
         "built_by": [
-          "mrT23",
+          "mattpocock",
+          "claude",
           "github-actions",
-          "okotek",
-          "PeterDaveHello",
-          "IsmaelMartinez"
+          "gabimoncha"
         ],
-        "content_context": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.\n\nLanguage: Python\n\nStars today: 280\n\nTotal stars: 14789\n\nBuilt by: mrT23, github-actions, okotek, PeterDaveHello, IsmaelMartinez",
-        "trend_score": 99.62,
+        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 2071\n\nTotal stars: 315311\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+        "trend_score": 97.7,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.765,
-          "topic_overlap": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -47,11 +46,11 @@
         "url": "https://github.com/vercel-labs/agent-desktop",
         "author": "vercel-labs",
         "summary": "Computer use CLI for AI agents",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
         "language": "Rust",
-        "score": 2470,
-        "comment_count": 1059,
-        "total_stars": 15221,
+        "score": 2173,
+        "comment_count": 1197,
+        "total_stars": 16940,
         "built_by": [
           "lahfir",
           "github-actions",
@@ -59,12 +58,12 @@
           "dependabot",
           "ctate"
         ],
-        "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2470\n\nTotal stars: 15221\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
-        "trend_score": 87.36,
+        "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2173\n\nTotal stars: 16940\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
+        "trend_score": 97.29,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.871,
-          "topic_overlap": 0.25,
+          "engagement": 0.846,
+          "topic_overlap": 0.75,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -75,27 +74,28 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "mattpocock/skills",
-        "url": "https://github.com/mattpocock/skills",
-        "author": "mattpocock",
-        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
-        "language": "Shell",
-        "score": 1379,
-        "comment_count": 26290,
-        "total_stars": 313382,
+        "title": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "author": "vercel-labs",
+        "summary": "Browser automation CLI for AI agents",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
+        "language": "Rust",
+        "score": 150,
+        "comment_count": 3150,
+        "total_stars": 45930,
         "built_by": [
-          "mattpocock",
-          "claude",
+          "ctate",
+          "Railly",
           "github-actions",
-          "gabimoncha"
+          "lahfir",
+          "claude"
         ],
-        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1379\n\nTotal stars: 313382\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-        "trend_score": 86.85,
+        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 150\n\nTotal stars: 45930\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+        "trend_score": 92.73,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 1.0,
-          "topic_overlap": 0.0,
+          "engagement": 0.726,
+          "topic_overlap": 0.75,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -106,28 +106,28 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "harry0703/MoneyPrinterTurbo",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "author": "harry0703",
-        "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
+        "title": "scenario-labs/skills",
+        "url": "https://github.com/scenario-labs/skills",
+        "author": "scenario-labs",
+        "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
         "language": "Python",
-        "score": 617,
-        "comment_count": 22183,
-        "total_stars": 139025,
+        "score": 667,
+        "comment_count": 273,
+        "total_stars": 3095,
         "built_by": [
-          "harry0703",
-          "rudycelekli",
+          "hervenivon",
           "claude",
-          "c020627",
-          "yyhhyyyyyy"
+          "codex",
+          "gh-actions-token-retriever-public",
+          "edemaistre"
         ],
-        "content_context": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\nLanguage: Python\n\nStars today: 617\n\nTotal stars: 139025\n\nBuilt by: harry0703, rudycelekli, claude, c020627, yyhhyyyyyy",
-        "trend_score": 84.52,
+        "content_context": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.\n\nLanguage: Python\n\nStars today: 667\n\nTotal stars: 3095\n\nBuilt by: hervenivon, claude, codex, gh-actions-token-retriever-public, edemaistre",
+        "trend_score": 89.79,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.939,
-          "topic_overlap": 0.0,
+          "engagement": 0.697,
+          "topic_overlap": 0.667,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -138,23 +138,55 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "thedotmack/claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "author": "thedotmack",
-        "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
-        "language": "TypeScript",
-        "score": 1172,
-        "comment_count": 9805,
-        "total_stars": 112897,
+        "title": "google/skills",
+        "url": "https://github.com/google/skills",
+        "author": "google",
+        "summary": "Agent Skills for Google products and technologies",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
+        "language": "Python",
+        "score": 211,
+        "comment_count": 1893,
+        "total_stars": 22398,
         "built_by": [
-          "thedotmack",
-          "claude",
-          "rudycelekli",
-          "cursoragent",
-          "rodboev"
+          "cloud-ix-copybara",
+          "holtskinner",
+          "martinvarelaj",
+          "helloeve",
+          "wangauone"
         ],
-        "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1172\n\nTotal stars: 112897\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+        "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 211\n\nTotal stars: 22398\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
+        "trend_score": 87.14,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.722,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "author": "D4Vinci",
+        "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
+        "language": "Python",
+        "score": 1655,
+        "comment_count": 10269,
+        "total_stars": 98036,
+        "built_by": [
+          "D4Vinci",
+          "yetval",
+          "AbdullahY36",
+          "SulimanAbdulrazzaq",
+          "codex"
+        ],
+        "content_context": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\nLanguage: Python\n\nStars today: 1655\n\nTotal stars: 98036\n\nBuilt by: D4Vinci, yetval, AbdullahY36, SulimanAbdulrazzaq, codex",
         "trend_score": 84.49,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -170,47 +202,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "github/spec-kit",
-        "url": "https://github.com/github/spec-kit",
-        "author": "github",
-        "summary": "💫 Toolkit to help you get started with SDD or any other process!",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
-        "language": "Python",
-        "score": 808,
-        "comment_count": 13220,
-        "total_stars": 147344,
-        "built_by": [
-          "mnriem",
-          "Copilot",
-          "github-actions",
-          "localden",
-          "claude"
-        ],
-        "content_context": "💫 Toolkit to help you get started with SDD or any other process!\n\nLanguage: Python\n\nStars today: 808\n\nTotal stars: 147344\n\nBuilt by: mnriem, Copilot, github-actions, localden, claude",
-        "trend_score": 84.17,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.929,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "garrytan/gstack",
         "url": "https://github.com/garrytan/gstack",
         "author": "garrytan",
         "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
         "language": "TypeScript",
-        "score": 290,
-        "comment_count": 20634,
-        "total_stars": 139371,
+        "score": 612,
+        "comment_count": 20699,
+        "total_stars": 139971,
         "built_by": [
           "garrytan",
           "capy-ai",
@@ -218,43 +218,11 @@
           "test22345",
           "szsunyuan"
         ],
-        "content_context": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\nLanguage: TypeScript\n\nStars today: 290\n\nTotal stars: 139371\n\nBuilt by: garrytan, capy-ai, claude, test22345, szsunyuan",
-        "trend_score": 82.52,
+        "content_context": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\nLanguage: TypeScript\n\nStars today: 612\n\nTotal stars: 139971\n\nBuilt by: garrytan, capy-ai, claude, test22345, szsunyuan",
+        "trend_score": 83.44,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.886,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "floci-io/floci",
-        "url": "https://github.com/floci-io/floci",
-        "author": "floci-io",
-        "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
-        "language": "Java",
-        "score": 1090,
-        "comment_count": 3282,
-        "total_stars": 29660,
-        "built_by": [
-          "hectorvent",
-          "pgermosen",
-          "AndreKurait",
-          "okinaka",
-          "exoego"
-        ],
-        "content_context": "Light, fluffy, and always free - The AWS Local Emulator alternative\n\nLanguage: Java\n\nStars today: 1090\n\nTotal stars: 29660\n\nBuilt by: hectorvent, pgermosen, AndreKurait, okinaka, exoego",
-        "trend_score": 82.15,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.876,
+          "engagement": 0.91,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -270,11 +238,11 @@
         "url": "https://github.com/NVIDIA/auto-ontology",
         "author": "NVIDIA",
         "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
         "language": "Python",
-        "score": 2050,
-        "comment_count": 408,
-        "total_stars": 5156,
+        "score": 2679,
+        "comment_count": 593,
+        "total_stars": 7440,
         "built_by": [
           "DinaLaptii",
           "yuvalshkolar",
@@ -282,11 +250,43 @@
           "liofnv",
           "tomer-levin-nv"
         ],
-        "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2050\n\nTotal stars: 5156\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
-        "trend_score": 79.59,
+        "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2679\n\nTotal stars: 7440\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
+        "trend_score": 80.15,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.809,
+          "engagement": 0.824,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "Usagi-org/ai-goofish-monitor",
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+        "author": "Usagi-org",
+        "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
+        "language": "Python",
+        "score": 240,
+        "comment_count": 2951,
+        "total_stars": 17607,
+        "built_by": [
+          "dingyufei615",
+          "claude",
+          "claude",
+          "ijodion",
+          "hurleychin"
+        ],
+        "content_context": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\nLanguage: Python\n\nStars today: 240\n\nTotal stars: 17607\n\nBuilt by: dingyufei615, claude, claude, ijodion, hurleychin",
+        "trend_score": 77.44,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.753,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -302,11 +302,11 @@
         "url": "https://github.com/max-sixty/worktrunk",
         "author": "max-sixty",
         "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "published_at": "2026-11-05T01:59:06.548540+00:00",
+        "published_at": "2026-11-06T01:59:02.776999+00:00",
         "language": "Rust",
-        "score": 531,
-        "comment_count": 415,
-        "total_stars": 11065,
+        "score": 546,
+        "comment_count": 439,
+        "total_stars": 11531,
         "built_by": [
           "max-sixty",
           "claude",
@@ -314,11 +314,11 @@
           "dependabot",
           "github-actions"
         ],
-        "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 531\n\nTotal stars: 11065\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
-        "trend_score": 76.29,
+        "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 546\n\nTotal stars: 11531\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
+        "trend_score": 75.75,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.722,
+          "engagement": 0.708,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -333,118 +333,23 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "The State of Python Profiling in 2026",
-        "url": "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html",
-        "author": "lumpa",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-05T01:50:48+00:00",
-        "summary": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation\n\nCPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1.\n\nPython profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html",
-          "page_title": "The Hub of Heliopolis - The State of Python Profiling in 2026",
-          "page_description": null,
-          "page_excerpt": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation\n\nCPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1.\n\nPython profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin..."
-        },
-        "content_context": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation CPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1. Python profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin...",
-        "trend_score": 54.5,
-        "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.045,
-          "topic_overlap": 0.25,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-        "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/",
-        "author": "rdmuser",
+        "title": "NASA telescope is predicted to come crashing down after failed rescue mission",
+        "url": "https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357",
+        "author": "gmays",
         "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-05T01:52:52+00:00",
-        "summary": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/",
-          "page_title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Google Search - gHacks Tech News",
-          "page_description": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.",
-          "page_excerpt": "Google will switch off access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts until school administrators explicitly turn them on, the company announced in a blog post titled \"Designing responsible AI for learning.\"\n\nChris Phillips, Google's vice president and general manager of education, has confirmed that students at schools that keep Google's AI tools turned off will not have access to Google Search either.\n\n\"After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search,\" Phillips wrote. Google presents the change as a way to ensure that \"schools should have control over AI in their classrooms.\""
-        },
-        "content_context": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.\n\nGoogle will switch off access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts until school administrators explicitly turn them on, the company announced in a blog post titled \"Designing responsible AI for learning.\" Chris Phillips, Google's vice president and general manager of education, has confirmed that students at schools that keep Google's AI tools turned off will not have access to Google Search either. \"After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search,\" Phillips wrote. Google presents the change as a way to ensure that \"schools should have control over AI in their classrooms.\"",
-        "trend_score": 54.49,
-        "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.071,
-          "topic_overlap": 0.2,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Autorun-audit – find what runs when you open, CD into or install a repo",
-        "url": "https://github.com/ag3ntsc4rn/autorun-audit",
-        "author": "ag3ntsc4rn",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-05T01:45:40+00:00",
-        "summary": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit",
+        "comment_count": 1,
+        "published_at": "2026-11-06T01:56:28+00:00",
+        "summary": "Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>",
         "comment_highlights": [
-          "[flagged]"
+          "Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>"
         ],
-        "linked_context": {
-          "resolved_url": "https://github.com/ag3ntsc4rn/autorun-audit",
-          "page_title": "GitHub - ag3ntsc4rn/autorun-audit: Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files.",
-          "page_description": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit",
-          "page_excerpt": "autorun-audit lists everything that executes automatically when you open a repository, enter its directory, install it, start an AI agent in it, or simply start Python. It points out the entries that look like payloads.\n\nThe scan above targets autorun-audit-demo , a public repository of harmless, defanged samples. Try it yourself:\n\nAttackers have moved from malicious dependencies to the files that tools run for you:"
-        },
-        "content_context": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit\n\nautorun-audit lists everything that executes automatically when you open a repository, enter its directory, install it, start an AI agent in it, or simply start Python. It points out the entries that look like payloads. The scan above targets autorun-audit-demo , a public repository of harmless, defanged samples. Try it yourself: Attackers have moved from malicious dependencies to the files that tools run for you:\n\nHN comment: [flagged]",
-        "trend_score": 49.02,
-        "trend_breakdown": {
-          "freshness": 0.991,
-          "engagement": 0.045,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Karl Lagerfeld Knew Why Some People Have Style – and Others Don't [video]",
-        "url": "https://www.youtube.com/watch?v=Iw9_tgCGfgM",
-        "author": "tartoran",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-05T01:56:38+00:00",
-        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.youtube.com/watch?v=Iw9_tgCGfgM",
-          "page_title": "- YouTube",
-          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "page_excerpt": null
-        },
-        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "trend_score": 43.49,
+        "linked_context": {},
+        "content_context": "HN comment: Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>",
+        "trend_score": 47.32,
         "trend_breakdown": {
           "freshness": 0.998,
-          "engagement": 0.045,
-          "topic_overlap": 0.091,
+          "engagement": 0.105,
+          "topic_overlap": 0.2,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -453,25 +358,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Isometric SF",
-        "url": "https://isometricsf.com/",
-        "author": "avyfain",
-        "score": 2,
+        "title": "Ancient warriors got high on cannabis, burial mound reveals",
+        "url": "https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk",
+        "author": "bookofjoe",
+        "score": 3,
         "comment_count": 0,
-        "published_at": "2026-11-05T01:45:44+00:00",
-        "summary": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
+        "published_at": "2026-11-06T01:44:30+00:00",
+        "summary": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://isometricsf.com/",
-          "page_title": "isometric sf · the Bay Area in pixel art",
-          "page_description": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
+          "resolved_url": "https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk",
+          "page_title": "Ancient warriors got high on cannabis, burial mound reveals",
+          "page_description": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
           "page_excerpt": null
         },
-        "content_context": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
-        "trend_score": 42.37,
+        "content_context": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
+        "trend_score": 42.85,
         "trend_breakdown": {
-          "freshness": 0.991,
-          "engagement": 0.071,
+          "freshness": 0.99,
+          "engagement": 0.088,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -481,48 +386,20 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "HyperDrone",
-        "url": "https://hyperdrone.dev/",
-        "author": "jonbaer",
-        "score": 1,
+        "title": "Regulators approve generic HIV-prevention drug for low-income countries",
+        "url": "https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6",
+        "author": "gmays",
+        "score": 3,
         "comment_count": 0,
-        "published_at": "2026-11-05T01:54:53+00:00",
-        "summary": "HyperDrone: visual drone simulation with RLtools. Fly a drone and explore its camera, depth, segmentation, surface normals, and optical flow in your browser.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://hyperdrone.dev/",
-          "page_title": "HyperDrone",
-          "page_description": "HyperDrone: visual drone simulation with RLtools. Fly a drone and explore its camera, depth, segmentation, surface normals, and optical flow in your browser.",
-          "page_excerpt": null
-        },
-        "content_context": "HyperDrone: visual drone simulation with RLtools. Fly a drone and explore its camera, depth, segmentation, surface normals, and optical flow in your browser.",
-        "trend_score": 41.8,
-        "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.045,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Hosted Markdown 2 medium tool",
-        "url": "https://medium.com/@keith.hodges/markdown-2-medium-tool-d3711869b762",
-        "author": "keithhodges",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-05T01:52:06+00:00",
+        "published_at": "2026-11-06T01:38:21+00:00",
         "summary": null,
         "comment_highlights": [],
         "linked_context": {},
         "content_context": null,
-        "trend_score": 41.72,
+        "trend_score": 42.68,
         "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.045,
+          "freshness": 0.986,
+          "engagement": 0.088,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -532,20 +409,81 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Accelerating Engineering for the Physical World",
-        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+        "title": "Switch to Safari",
+        "url": "https://mjtsai.com/blog/2026/11/05/switch-to-safari/",
         "author": "gmays",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-05T01:48:22+00:00",
+        "published_at": "2026-11-06T01:55:02+00:00",
+        "summary": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.”\n\nSafari offers up to 5 hours more video streaming on your Mac compared with Chrome.\n\nFaster page loads on frequently visited sites when browsing on Mac.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://mjtsai.com/blog/2026/11/05/switch-to-safari/",
+          "page_title": "Michael Tsai - Blog - Switch to Safari",
+          "page_description": null,
+          "page_excerpt": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.”\n\nSafari offers up to 5 hours more video streaming on your Mac compared with Chrome.\n\nFaster page loads on frequently visited sites when browsing on Mac."
+        },
+        "content_context": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.” Safari offers up to 5 hours more video streaming on your Mac compared with Chrome. Faster page loads on frequently visited sites when browsing on Mac.",
+        "trend_score": 41.77,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.044,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Three way Git merging with meld",
+        "url": "https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/",
+        "author": "zahrevsky",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-06T01:50:55+00:00",
+        "summary": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/",
+          "page_title": "Three way git merging with meld",
+          "page_description": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …",
+          "page_excerpt": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel).\n\nAlthough I am vim-lover, when it comes to git merging I use excellent tool called Meld instead of vim. It’s a GTK-based application written in Python and it has very nice capabilities of showing diffs. Particularly, I like how Meld shows changes on the same lines (highlighing portions of them), it’s editable text pane with source highlighting and ability to visually merge conflicts using arrow...\n\nI was not considering Meld as a three-way merging tool, until Tomek Bury pointed out that Meld supports three-way merging. This feature is not advertised on the main page and even in the program itself (help command line output page). More about this later."
+        },
+        "content_context": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …\n\nThis article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when it comes to git merging I use excellent tool called Meld instead of vim. It’s a GTK-based application written in Python and it has very nice capabilities of showing diffs. Particularly, I like how Meld shows changes on the same lines (highlighing portions of them), it’s editable text pane with source highlighting and ability to visually merge conflicts using arrow... I was not considering Meld as a three-way merging tool, until Tomek Bury pointed out that Meld supports three-way merging. This feature is not advertised on the main page and even in the program itself (help command line output page). More about this later.",
+        "trend_score": 41.65,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.044,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Introduction to Mechanics for Engineers",
+        "url": "http://ruina.tam.cornell.edu/Book/",
+        "author": "pillars",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-06T01:49:15+00:00",
         "summary": null,
         "comment_highlights": [],
-        "linked_context": {},
+        "linked_context": {
+          "resolved_url": "http://ruina.tam.cornell.edu/Book/",
+          "page_title": "Introduction to Mechanics for Engineers",
+          "page_description": null,
+          "page_excerpt": null
+        },
         "content_context": null,
-        "trend_score": 41.62,
+        "trend_score": 41.6,
         "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.045,
+          "freshness": 0.993,
+          "engagement": 0.044,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -555,25 +493,53 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Time || Space? Generation of Time and Dates in C Language:Generation of Space",
-        "url": "http://www.catb.org/esr/time-programming/",
-        "author": "efren6",
+        "title": "Moving a Go CMS to encoding/JSON/v2",
+        "url": "https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2",
+        "author": "zenincognito",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-05T01:46:53+00:00",
-        "summary": "JavaScript must be enabled in your browser to display the table of contents.\n\nThe C/Unix time- and date-handling API is a confusing jungle full of the corpses of failed experiments and various other traps for the unwary, many of them resulting from design decisions that may have been defensible when the originals were written but appear at best puzzling today.\n\nThe purpose of this document is to help C programmers develop a clear mental model of how it all works so they can step lightly over the corpses and avoid the traps. In the process it also explains, historically, why things are the way they are - because in this case it’s much easier to understand the mess we’re in when you know how it got that way.",
+        "published_at": "2026-11-06T01:48:38+00:00",
+        "summary": "Hatamoto's backend now runs on Go's encoding/json/v2, and a new v1 import fails the checks. Empty lists come back as [], requests are stricter, and webhook and plugin bytes are unchanged.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "http://www.catb.org/esr/time-programming/",
-          "page_title": "Time, Clock, and Calendar Programming In C",
-          "page_description": null,
-          "page_excerpt": "JavaScript must be enabled in your browser to display the table of contents.\n\nThe C/Unix time- and date-handling API is a confusing jungle full of the corpses of failed experiments and various other traps for the unwary, many of them resulting from design decisions that may have been defensible when the originals were written but appear at best puzzling today.\n\nThe purpose of this document is to help C programmers develop a clear mental model of how it all works so they can step lightly over the corpses and avoid the traps. In the process it also explains, historically, why things are the way they are - because in this case it’s much easier to understand the mess we’re in when you know how it got that way."
+          "resolved_url": "https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2",
+          "page_title": "Moving Hatamoto Go CMS to encoding/json/v2",
+          "page_description": "Hatamoto's backend now runs on Go's encoding/json/v2, and a new v1 import fails the checks. Empty lists come back as [], requests are stricter, and webhook and plugin bytes are unchanged.",
+          "page_excerpt": "Hatamoto's backend now runs on Go's encoding/json/v2, and a new v1 import fails the checks. Empty lists come back as [], requests are stricter, and webhook and plugin bytes are unchanged.\n\nHatamoto's Go backend no longer uses the original encoding/json package. We moved the HTTP layer, content storage, the platform services, the plugin host and SDK, and the tests and tooling to encoding/json/v2 . Any new v1 import in the backend now fails make check , the pre-push hook and CI. The change runs on hatamoto.dev today and ships to self-hosted installs in the next release. The likely...\n\nThe v2 package arrived in Go 1.25 behind GOEXPERIMENT=jsonv2 . We build on Go 1.27, and our release build sets no experiment flag."
         },
-        "content_context": "JavaScript must be enabled in your browser to display the table of contents. The C/Unix time- and date-handling API is a confusing jungle full of the corpses of failed experiments and various other traps for the unwary, many of them resulting from design decisions that may have been defensible when the originals were written but appear at best puzzling today. The purpose of this document is to help C programmers develop a clear mental model of how it all works so they can step lightly over the corpses and avoid the traps. In the process it also explains, historically, why things are the way they are - because in this case it’s much easier to understand the mess we’re in when you know how it got that way.",
-        "trend_score": 41.57,
+        "content_context": "Hatamoto's backend now runs on Go's encoding/json/v2, and a new v1 import fails the checks. Empty lists come back as [], requests are stricter, and webhook and plugin bytes are unchanged.\n\nHatamoto's backend now runs on Go's encoding/json/v2, and a new v1 import fails the checks. Empty lists come back as [], requests are stricter, and webhook and plugin bytes are unchanged. Hatamoto's Go backend no longer uses the original encoding/json package. We moved the HTTP layer, content storage, the platform services, the plugin host and SDK, and the tests and tooling to encoding/json/v2 . Any new v1 import in the backend now fails make check , the pre-push hook and CI. The change runs on hatamoto.dev today and ships to self-hosted installs in the next release. The likely... The v2 package arrived in Go 1.25 behind GOEXPERIMENT=jsonv2 . We build on Go 1.27, and our release build sets no experiment flag.",
+        "trend_score": 41.59,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.044,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Reachmap",
+        "url": "https://reachmap.app/",
+        "author": "wwaymonsam",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-06T01:46:32+00:00",
+        "summary": "Research promotion channels for your software product, check eligibility and fees, prepare materials, and track your own submissions with ReachMap.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://reachmap.app/",
+          "page_title": "ReachMap â Promotion channel research for software makers",
+          "page_description": "Research promotion channels for your software product, check eligibility and fees, prepare materials, and track your own submissions with ReachMap.",
+          "page_excerpt": "Explore launch platforms, software directories, AI directories and developer communities from the current research catalog. The shortlist uses your product type, tags and selected goals after known exclusions."
+        },
+        "content_context": "Research promotion channels for your software product, check eligibility and fees, prepare materials, and track your own submissions with ReachMap.\n\nExplore launch platforms, software directories, AI directories and developer communities from the current research catalog. The shortlist uses your product type, tags and selected goals after known exclusions.",
+        "trend_score": 41.53,
         "trend_breakdown": {
           "freshness": 0.991,
-          "engagement": 0.045,
+          "engagement": 0.044,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -583,25 +549,55 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Here Be Monsters",
-        "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
-        "author": "benbreen",
+        "title": "EA re-releases 25 classic games, restores Wing Commander and Road Rash FMVs",
+        "url": "https://www.ea.com/news/ea-classics-launch",
+        "author": "bpierre",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-05T01:40:08+00:00",
-        "summary": "I’d been noticing monsters everywhere. It was 2025 and President Donald Trump had been calling immigrants “monsters.” His opponents hurled the term right",
+        "published_at": "2026-11-06T01:45:40+00:00",
+        "summary": "Get titles from the Road Rash, Wing Commander, and Ultima franchises–now on Steam.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
-          "page_title": "Here Be Monsters | Shannon Heffernan",
-          "page_description": "I’d been noticing monsters everywhere. It was 2025 and President Donald Trump had been calling immigrants “monsters.” His opponents hurled the term right",
-          "page_excerpt": "I’d been noticing monsters everywhere. It was 2025 and President Donald Trump had been calling immigrants “monsters.” His opponents hurled the term right back at him. Monsters appeared at the movies, from Sinners to Frankenstein , and on the radio, from Lady Gaga’s “The Beast” to the chart-topping songs from KPop Demon Hunters . My three-year-old daughter was terrified and fascinated by monster...\n\nSo I started reading about monster studies, a niche academic field, and became bewitched by Michael Chemers, director of the Center for Monster Studies at UC Santa Cruz. I called him to ask how he defined monsters and why they seemed to be everywhere. He immediately launched into a speech about all the ways “monster theory” can illuminate the problems of our times: zombies and environmental col...\n\nAnd that wasn’t all, he added, leaning conspiratorially toward the eye of his laptop camera. It could be personal: if you looked at the monster, really looked, and saw yourself, then it could b..."
+          "resolved_url": "https://www.ea.com/news/ea-classics-launch",
+          "page_title": "Add 25 restored and classic games to your library",
+          "page_description": "Get titles from the Road Rash, Wing Commander, and Ultima franchises–now on Steam.",
+          "page_excerpt": "Twenty-five blasts from the past have officially resurfaced from the EA vault and are now available on Steam for the first time, alongside GoG, and the EA App!\n\nReady to play? We’ve restored seven of these legendary EA games with robust quality-of-life updates and higher resolution Full-Motion Videos (FMV) from the Master tapes. Dive back into these beloved ’90s gems, now optimized to play better than ever before on modern hardware:\n\nIf you are looking for the purest trip down memory lane, the rest of the lineup features faithful ports. These games are perfect if you’re looking to rediscover the groundbreaking worlds and pioneering gameplay that defined a generation:"
         },
-        "content_context": "I’d been noticing monsters everywhere. It was 2025 and President Donald Trump had been calling immigrants “monsters.” His opponents hurled the term right\n\nI’d been noticing monsters everywhere. It was 2025 and President Donald Trump had been calling immigrants “monsters.” His opponents hurled the term right back at him. Monsters appeared at the movies, from Sinners to Frankenstein , and on the radio, from Lady Gaga’s “The Beast” to the chart-topping songs from KPop Demon Hunters . My three-year-old daughter was terrified and fascinated by monster... So I started reading about monster studies, a niche academic field, and became bewitched by Michael Chemers, director of the Center for Monster Studies at UC Santa Cruz. I called him to ask how he defined monsters and why they seemed to be everywhere. He immediately launched into a speech about all the ways “monster theory” can illuminate the problems of our times: zombies and environmental col... And that wasn’t all, he added, leaning conspiratorially toward the eye of his laptop camera. It could be personal: if you looked at the monster, really looked, and saw yourself, then it could b...",
-        "trend_score": 41.38,
+        "content_context": "Get titles from the Road Rash, Wing Commander, and Ultima franchises–now on Steam.\n\nTwenty-five blasts from the past have officially resurfaced from the EA vault and are now available on Steam for the first time, alongside GoG, and the EA App! Ready to play? We’ve restored seven of these legendary EA games with robust quality-of-life updates and higher resolution Full-Motion Videos (FMV) from the Master tapes. Dive back into these beloved ’90s gems, now optimized to play better than ever before on modern hardware: If you are looking for the purest trip down memory lane, the rest of the lineup features faithful ports. These games are perfect if you’re looking to rediscover the groundbreaking worlds and pioneering gameplay that defined a generation:",
+        "trend_score": 41.5,
         "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.045,
+          "freshness": 0.991,
+          "engagement": 0.044,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Scarce Positions of Economic Power Gain from Increasingly Capable AI",
+        "url": "https://commanding-heights.com/",
+        "author": "benwen",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-06T01:41:27+00:00",
+        "summary": "An essay by Will Manidis and Joe Roberts. Technological revolutions are almost never born where they ultimately create wealth.",
+        "comment_highlights": [
+          "[dead]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://commanding-heights.com/",
+          "page_title": "The Commanding Heights",
+          "page_description": "An essay by Will Manidis and Joe Roberts. Technological revolutions are almost never born where they ultimately create wealth.",
+          "page_excerpt": "Scarce, controllable positions of economic power whose holders durably capture the gains of increasingly capable and diffused intelligence. Scarce, controllable positions of Economic Power whose holders durably capture the gains of Increasingly Capable and diffused intelligence .\n\nWill Manidis will@willmanidis.com & Joe Roberts joe@josephjcroberts.com\n\nWe also thank the following, who have given feedback on this document or shaped its ideas, with no presumption of endorsement:"
+        },
+        "content_context": "An essay by Will Manidis and Joe Roberts. Technological revolutions are almost never born where they ultimately create wealth.\n\nScarce, controllable positions of economic power whose holders durably capture the gains of increasingly capable and diffused intelligence. Scarce, controllable positions of Economic Power whose holders durably capture the gains of Increasingly Capable and diffused intelligence . Will Manidis will@willmanidis.com & Joe Roberts joe@josephjcroberts.com We also thank the following, who have given feedback on this document or shaped its ideas, with no presumption of endorsement:\n\nHN comment: [dead]",
+        "trend_score": 41.39,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.044,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -613,48 +609,48 @@
       {
         "source": "The New York Times",
         "category": "news",
-        "title": "2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
-        "published_at": "2026-11-04T23:37:41+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress；Midterm Election Results (Live Updates): Democrats Sweep House And Senate, Some Races Still Too Close To Call；Democrats won Congress. But can they deliver on their promises?。",
+        "title": "2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
+        "published_at": "2026-11-06T01:34:00+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News；2026 U.S. House Election Results；2026 Midterms Data: How Democrats Won the Largest House Majority Since 2008。",
         "related_headlines": [
-          "2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress",
-          "Midterm Election Results (Live Updates): Democrats Sweep House And Senate, Some Races Still Too Close To Call",
-          "Democrats won Congress. But can they deliver on their promises?",
-          "There’s No Modern Precedent for This Democratic Tsunami",
-          "Five reasons why Republicans lost so badly"
+          "2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News",
+          "2026 U.S. House Election Results",
+          "2026 Midterms Data: How Democrats Won the Largest House Majority Since 2008",
+          "Five reasons why Republicans lost so badly",
+          "2026 Midterm Election Results Live: Democrats oust 30 GOP incumbents as they’re projected to win over 250 House seats"
         ],
-        "content_context": "2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress；Midterm Election Results (Live Updates): Democrats Sweep House And Senate, Some Races Still Too Close To Call；Democrats won Congress. But can they deliver on their promises?。\n\nRelated coverage: 2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress\n\nRelated coverage: Midterm Election Results (Live Updates): Democrats Sweep House And Senate, Some Races Still Too Close To Call\n\nRelated coverage: Democrats won Congress. But can they deliver on their promises?\n\nRelated coverage: There’s No Modern Precedent for This Democratic Tsunami\n\nRelated coverage: Five reasons why Republicans lost so badly",
-        "trend_score": 38.86,
+        "content_context": "2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News；2026 U.S. House Election Results；2026 Midterms Data: How Democrats Won the Largest House Majority Since 2008。\n\nRelated coverage: 2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News\n\nRelated coverage: 2026 U.S. House Election Results\n\nRelated coverage: 2026 Midterms Data: How Democrats Won the Largest House Majority Since 2008\n\nRelated coverage: Five reasons why Republicans lost so badly\n\nRelated coverage: 2026 Midterm Election Results Live: Democrats oust 30 GOP incumbents as they’re projected to win over 250 House seats",
+        "trend_score": 39.14,
         "trend_breakdown": {
-          "freshness": 0.902,
+          "freshness": 0.983,
           "engagement": 0.0,
-          "topic_overlap": 0.4,
+          "topic_overlap": 0.235,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Financial Times",
+        "source": "CNBC",
         "category": "news",
-        "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5",
-        "published_at": "2026-11-04T20:58:24+00:00",
-        "summary": "Financial Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump；Republicans’ 2028 Presidential Map Just Blew Up；'Crushing midterm rebuke' and 'Trumped'。",
+        "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5",
+        "published_at": "2026-11-05T22:20:19+00:00",
+        "summary": "CNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith；In Mississippi, Careful Scrutiny of Votes in an Unexpectedly Tight Race；Lafayette County's Affidavit Ballots Break for Scott Colom 69%-29%, Far Exceeding His Overall Margin。",
         "related_headlines": [
-          "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
-          "Republicans’ 2028 Presidential Map Just Blew Up",
-          "'Crushing midterm rebuke' and 'Trumped'",
-          "Opinion | What Now? Three Opinion Writers on the Democrats’ Landslide.",
-          "Opinion | Voters rightly punished Trumpism. But please hold the giddiness."
+          "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+          "In Mississippi, Careful Scrutiny of Votes in an Unexpectedly Tight Race",
+          "Lafayette County's Affidavit Ballots Break for Scott Colom 69%-29%, Far Exceeding His Overall Margin",
+          "Republicans Float Vote Rigging in Desperate Ploy to Save Red Seat",
+          "Colom campaign says GOP seeks to ‘violate Mississippi voters’ rights’ as legal battle ignites"
         ],
-        "content_context": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times\n\nFinancial Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump；Republicans’ 2028 Presidential Map Just Blew Up；'Crushing midterm rebuke' and 'Trumped'。\n\nRelated coverage: ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump\n\nRelated coverage: Republicans’ 2028 Presidential Map Just Blew Up\n\nRelated coverage: 'Crushing midterm rebuke' and 'Trumped'\n\nRelated coverage: Opinion | What Now? Three Opinion Writers on the Democrats’ Landslide.\n\nRelated coverage: Opinion | Voters rightly punished Trumpism. But please hold the giddiness.",
-        "trend_score": 35.51,
+        "content_context": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith - CNBC\n\nCNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith；In Mississippi, Careful Scrutiny of Votes in an Unexpectedly Tight Race；Lafayette County's Affidavit Ballots Break for Scott Colom 69%-29%, Far Exceeding His Overall Margin。\n\nRelated coverage: Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith\n\nRelated coverage: In Mississippi, Careful Scrutiny of Votes in an Unexpectedly Tight Race\n\nRelated coverage: Lafayette County's Affidavit Ballots Break for Scott Colom 69%-29%, Far Exceeding His Overall Margin\n\nRelated coverage: Republicans Float Vote Rigging in Desperate Ploy to Save Red Seat\n\nRelated coverage: Colom campaign says GOP seeks to ‘violate Mississippi voters’ rights’ as legal battle ignites",
+        "trend_score": 39.01,
         "trend_breakdown": {
-          "freshness": 0.791,
+          "freshness": 0.848,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.231,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -665,150 +661,73 @@
       {
         "source": "NPR",
         "category": "news",
-        "title": "Elon Musk will face scrutiny from Democrats after midterms - NPR",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
-        "published_at": "2026-11-04T21:11:23+00:00",
-        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Elon Musk will face scrutiny from Democrats after midterms；SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas；Elon Musk moved to Texas to escape Democrats — now they’re in charge。",
+        "title": "These are the races in the House and Senate that haven't been called yet - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3aWNXZThqQ3RhT3VwWGxOYXBsNWR2STNVNm9DTU1UaEUzN29vVzYyaW1HZEtOV3Fyb1lWS2xCb0VaRUlXYTFpSWN1c0FydEwwTWk4Z0h5NkRyWVVKODdWeWJQM09VenRNSjlkLWlrVWFzZnZXYmhOVE1R?oc=5",
+        "published_at": "2026-11-06T00:03:45+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：These are the races in the House and Senate that haven't been called yet；Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep；Boebert, billionaires' tax and other midterms races still to watch。",
         "related_headlines": [
-          "Elon Musk will face scrutiny from Democrats after midterms",
-          "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-          "Elon Musk moved to Texas to escape Democrats — now they’re in charge",
-          "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-          "$500 Million Bought Elon Nothing"
+          "These are the races in the House and Senate that haven't been called yet",
+          "Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep",
+          "Boebert, billionaires' tax and other midterms races still to watch",
+          "What races the AP has not yet called in contests for Senate and governor",
+          "The races we're still waiting on ..."
         ],
-        "content_context": "Elon Musk will face scrutiny from Democrats after midterms - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Elon Musk will face scrutiny from Democrats after midterms；SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas；Elon Musk moved to Texas to escape Democrats — now they’re in charge。\n\nRelated coverage: Elon Musk will face scrutiny from Democrats after midterms\n\nRelated coverage: SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas\n\nRelated coverage: Elon Musk moved to Texas to escape Democrats — now they’re in charge\n\nRelated coverage: Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire\n\nRelated coverage: $500 Million Bought Elon Nothing",
-        "trend_score": 34.14,
+        "content_context": "These are the races in the House and Senate that haven't been called yet - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：These are the races in the House and Senate that haven't been called yet；Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep；Boebert, billionaires' tax and other midterms races still to watch。\n\nRelated coverage: These are the races in the House and Senate that haven't been called yet\n\nRelated coverage: Election 2026 results live updates: Vote counts continue in Alaska, Mississippi and Kansas after Democratic sweep\n\nRelated coverage: Boebert, billionaires' tax and other midterms races still to watch\n\nRelated coverage: What races the AP has not yet called in contests for Senate and governor\n\nRelated coverage: The races we're still waiting on ...",
+        "trend_score": 36.67,
         "trend_breakdown": {
-          "freshness": 0.8,
+          "freshness": 0.92,
           "engagement": 0.0,
-          "topic_overlap": 0.333,
+          "topic_overlap": 0.222,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "AP News",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks - AP News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2c3Sl9EMjVUbV9yWnNqTEF6ZGM1YzFnTnJtT3JBNGNYZEJfd1JVVjVPcVRDaWNsMUp3Y0VxcXprVzZiZXh0Z1hWSmtBV09oNFhVRmdHRzVFTFZYVm56aGw1NDNnNVJza3otVzJfNmF3Qzh2LUVtWXZXTkljd3ZqVU1RUkoxdEtmaEhGXw?oc=5",
-        "published_at": "2026-11-04T22:45:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks；El-Sayed Calls Out JD Vance in Victory Speech；Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith。",
+        "title": "How the Texas blue wave came crashing down on Republicans - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5",
+        "published_at": "2026-11-05T23:16:17+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How the Texas blue wave came crashing down on Republicans；The Machine, and the Messaging, That Won Texas for Democrats；Texas Swings Democratic for First Time in Generations。",
         "related_headlines": [
-          "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks",
-          "El-Sayed Calls Out JD Vance in Victory Speech",
-          "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
-          "Arab Americans, Muslims celebrate historic win for El-Sayed as History and triumph over bigotry",
-          "Politics of fear failed to stop El-Sayed's historic US Senate win"
+          "How the Texas blue wave came crashing down on Republicans",
+          "The Machine, and the Messaging, That Won Texas for Democrats",
+          "Texas Swings Democratic for First Time in Generations",
+          "Election Day was extra credit: Talarico’s early votes alone topped Paxton’s entire haul",
+          "‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texas"
         ],
-        "content_context": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks；El-Sayed Calls Out JD Vance in Victory Speech；Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith。\n\nRelated coverage: El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks\n\nRelated coverage: El-Sayed Calls Out JD Vance in Victory Speech\n\nRelated coverage: Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith\n\nRelated coverage: Arab Americans, Muslims celebrate historic win for El-Sayed as History and triumph over bigotry\n\nRelated coverage: Politics of fear failed to stop El-Sayed's historic US Senate win",
-        "trend_score": 33.81,
+        "content_context": "How the Texas blue wave came crashing down on Republicans - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How the Texas blue wave came crashing down on Republicans；The Machine, and the Messaging, That Won Texas for Democrats；Texas Swings Democratic for First Time in Generations。\n\nRelated coverage: How the Texas blue wave came crashing down on Republicans\n\nRelated coverage: The Machine, and the Messaging, That Won Texas for Democrats\n\nRelated coverage: Texas Swings Democratic for First Time in Generations\n\nRelated coverage: Election Day was extra credit: Talarico’s early votes alone topped Paxton’s entire haul\n\nRelated coverage: ‘Everyone was mad’: How anger helped fuel Latino voter turnout and a historic Democratic shift in Texas",
+        "trend_score": 35.48,
         "trend_breakdown": {
-          "freshness": 0.865,
+          "freshness": 0.887,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.222,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "WSJ",
+        "source": "The Guardian",
         "category": "news",
-        "title": "Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlZoS1c3dkFuUFZ2cDVMVl9SamE2U2dGY29BMUVsLVJGNDVfTVJIQ1JDYVJHLW56LTh6bENyc18tak9CZ2daMGxiX1hRcGJBVExaSEU0TW9uSS1KVVRoRWE4bDU1eXZQTDVoX3hvd3V6aDM0UGZDOHlRR1NjWW9rLTlRZWNaRWFBRjBXWVNRUWQwdHdabWVWUU1WQXhMeU5LTi1RSXZWR2FRWWZraF9iVHlZanhIQQ?oc=5",
-        "published_at": "2026-11-04T21:26:00+00:00",
-        "summary": "WSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout；Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax；Mamdani’s tax on high-end second homes survives legal challenge for now。",
+        "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem85Z3hoQWN4SjhHUDViMzU4cFJsdU5ZT1U0OHBVVW1fb2hqQWRSaVc2SlJDZlB4OVVfWDJ6OVBmdTlBLUVqZkw1Z0dscndiajBET0RUUmh5c2VjVlk2V1dUSUNWOFhIVzdsTy00c012SjgyRWtPZjRqMVF1dng5dS0tUlNsM3ZITTZ1OFRn?oc=5",
+        "published_at": "2026-11-06T00:31:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump signs proclamation to try to prevent changes to gold-covered Oval Office；Trump signs proclamation to prevent changes to Oval Office, other White House rooms；Trump’s first post-election executive action: Preserving his Oval Office changes。",
         "related_headlines": [
-          "Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout",
-          "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
-          "Mamdani’s tax on high-end second homes survives legal challenge for now",
-          "NYC wins court fight over rollout of pied-à-terre tax on luxury second homes",
-          "NYC Mayor Zohran Mamdani's pied-à-terre tax just got a big win in court. But the legal fight is not over."
+          "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+          "Trump signs proclamation to prevent changes to Oval Office, other White House rooms",
+          "Trump’s first post-election executive action: Preserving his Oval Office changes",
+          "Trump signs order to prevent future presidents from changing Oval Office",
+          "Trump makes the Oval Office a national monument. But future presidents can still redecorate"
         ],
-        "content_context": "Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout - WSJ\n\nWSJ 头条聚焦该事件，Google News 同时聚合到这些相关表述：Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout；Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax；Mamdani’s tax on high-end second homes survives legal challenge for now。\n\nRelated coverage: Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout\n\nRelated coverage: Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax\n\nRelated coverage: Mamdani’s tax on high-end second homes survives legal challenge for now\n\nRelated coverage: NYC wins court fight over rollout of pied-à-terre tax on luxury second homes\n\nRelated coverage: NYC Mayor Zohran Mamdani's pied-à-terre tax just got a big win in court. But the legal fight is not over.",
-        "trend_score": 33.25,
+        "content_context": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump signs proclamation to try to prevent changes to gold-covered Oval Office；Trump signs proclamation to prevent changes to Oval Office, other White House rooms；Trump’s first post-election executive action: Preserving his Oval Office changes。\n\nRelated coverage: Trump signs proclamation to try to prevent changes to gold-covered Oval Office\n\nRelated coverage: Trump signs proclamation to prevent changes to Oval Office, other White House rooms\n\nRelated coverage: Trump’s first post-election executive action: Preserving his Oval Office changes\n\nRelated coverage: Trump signs order to prevent future presidents from changing Oval Office\n\nRelated coverage: Trump makes the Oval Office a national monument. But future presidents can still redecorate",
+        "trend_score": 35.25,
         "trend_breakdown": {
-          "freshness": 0.81,
+          "freshness": 0.939,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "BBC",
-        "category": "news",
-        "title": "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost' - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5",
-        "published_at": "2026-11-04T22:20:35+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'；Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses；JD Vance Appears to Distance Himself From President Trump, Blames Iran War for GOP Midterm Loss。",
-        "related_headlines": [
-          "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'",
-          "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
-          "JD Vance Appears to Distance Himself From President Trump, Blames Iran War for GOP Midterm Loss",
-          "The Republican missteps that laid the groundwork for a historic midterm rebuke",
-          "Vance says the ‘real reason’ for GOP rout was anger over Iran war"
-        ],
-        "content_context": "Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost' - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'；Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses；JD Vance Appears to Distance Himself From President Trump, Blames Iran War for GOP Midterm Loss。\n\nRelated coverage: Vance says Republicans lost big because of Iran war: 'Everyone knows why we lost'\n\nRelated coverage: Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses\n\nRelated coverage: JD Vance Appears to Distance Himself From President Trump, Blames Iran War for GOP Midterm Loss\n\nRelated coverage: The Republican missteps that laid the groundwork for a historic midterm rebuke\n\nRelated coverage: Vance says the ‘real reason’ for GOP rout was anger over Iran war",
-        "trend_score": 33.2,
-        "trend_breakdown": {
-          "freshness": 0.848,
-          "engagement": 0.0,
-          "topic_overlap": 0.167,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTFHRVFJUm9ZU3gwX0VkdUZBczZ5YWxXOGhCNlphYkZMVmxmTEdxMURTejdVdDJTM2g3ZS02Tkw1cEtFaXhwcEJJTXNOS2RGSVBWY3RlN2hvMHIxb01DaExsUmk4NVBBQy0xS3c2Skc2UlZUbmNaZkZmb0JvWDh4NXZGNUF6cDhhV0M1RDF2eDBhSTJVMVFlZjJ2azhYVWQybnhzRk53OThsLUtCdmxUeE9jMF9ZcUVPeHVLMl95RDhJYUtMZTUw?oc=5",
-        "published_at": "2026-11-04T22:20:09+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate race heads to an extended vote count and possible ballot battle；Mississippi U.S. Senate Midterm Election 2026: Live Results；How the Mississippi Senate Race Became a Nail-Biter。",
-        "related_headlines": [
-          "Mississippi Senate race heads to an extended vote count and possible ballot battle",
-          "Mississippi U.S. Senate Midterm Election 2026: Live Results",
-          "How the Mississippi Senate Race Became a Nail-Biter",
-          "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-          "Mississippi Senate Betting Odds Show Democrat Scott Colom Poised For Upset"
-        ],
-        "content_context": "Mississippi Senate race heads to an extended vote count and possible ballot battle - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate race heads to an extended vote count and possible ballot battle；Mississippi U.S. Senate Midterm Election 2026: Live Results；How the Mississippi Senate Race Became a Nail-Biter。\n\nRelated coverage: Mississippi Senate race heads to an extended vote count and possible ballot battle\n\nRelated coverage: Mississippi U.S. Senate Midterm Election 2026: Live Results\n\nRelated coverage: How the Mississippi Senate Race Became a Nail-Biter\n\nRelated coverage: US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins\n\nRelated coverage: Mississippi Senate Betting Odds Show Democrat Scott Colom Poised For Upset",
-        "trend_score": 31.86,
-        "trend_breakdown": {
-          "freshness": 0.848,
-          "engagement": 0.0,
-          "topic_overlap": 0.083,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Politico",
-        "category": "news",
-        "title": "The end of Trump’s most potent legacy - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmJjVFl5TG1KY2p6dm9aRE41MzMxcFpGTWJKZFktVDhNbi1NRFIzMS1ab3pmMWUxY0Z6ZXFsSXRSUnluVXhiVUN1cS1IQjNvMUJ4QWEtRDMxMFNKTUlTZkFYOXN6cmd0eG5wN3BZVC1XbkRLT3VhZ2owSTNfZDFaa29n?oc=5",
-        "published_at": "2026-11-04T19:07:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：The end of Trump’s most potent legacy；Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome；Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court。",
-        "related_headlines": [
-          "The end of Trump’s most potent legacy",
-          "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-          "Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court",
-          "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide",
-          "Supreme Court’s Alito Repeated He Won’t Step Down Over Election"
-        ],
-        "content_context": "The end of Trump’s most potent legacy - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：The end of Trump’s most potent legacy；Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome；Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court。\n\nRelated coverage: The end of Trump’s most potent legacy\n\nRelated coverage: Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome\n\nRelated coverage: Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court\n\nRelated coverage: Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide\n\nRelated coverage: Supreme Court’s Alito Repeated He Won’t Step Down Over Election",
-        "trend_score": 28.36,
-        "trend_breakdown": {
-          "freshness": 0.714,
-          "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.091,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -817,46 +736,121 @@
       {
         "source": "CBS News",
         "category": "news",
-        "title": "Trump asking advisers if Hegseth should stay after midterm losses, sources say - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UeU1XTTRFbTNIaUxTbzlpTm1kano4bFlubFE0MTYxSF9aOUg1Qi1BM3NDaGFDQ2s5eXRacll5MGhDdE5LS3YxZmw0LUdRMFNoRGxTQ0JOVDVYbmpBb0MzQ3YybXk2M3E4X0czczhFdFh0aEs5ekE?oc=5",
-        "published_at": "2026-11-04T16:39:00+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump asking advisers if Hegseth should stay after midterm losses, sources say；Republicans quickly turn against Pete Hegseth after midterms rout；‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms。",
+        "title": "Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1diU19kemI0R0NUSkhaYXRhMER4dlRxVlBHX05LR3dpSlppVUZjV0VWZUh5QzM1eG9NdFlVbnZiXzM5dFNwTEo4clVtOEhJZ2RFbkozN0VERHRqaTJzbnhUNi1FeXNJVmc1dDR4ZW9naFlTaWZXNzVBTkdkbFFDbzlYMUdFd29ZR1FFOXJMSjF4M1NkLUVoMDl2M2o?oc=5",
+        "published_at": "2026-11-06T00:03:01+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects；Nithya Raman wins Los Angeles mayor over incumbent Karen Bass；Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass。",
         "related_headlines": [
-          "Trump asking advisers if Hegseth should stay after midterm losses, sources say",
-          "Republicans quickly turn against Pete Hegseth after midterms rout",
-          "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms",
-          "Trump: Hegseth would be ‘very popular’ as Tennessee senator",
-          "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support"
+          "Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects",
+          "Nithya Raman wins Los Angeles mayor over incumbent Karen Bass",
+          "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+          "As Nithya Raman widens lead over Karen Bass, LAPD union warns of ‘Armageddon' in LA",
+          "Commentary: L.A. voters went bold by choosing Raman as mayor. Let's hope she stays bold"
         ],
-        "content_context": "Trump asking advisers if Hegseth should stay after midterm losses, sources say - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump asking advisers if Hegseth should stay after midterm losses, sources say；Republicans quickly turn against Pete Hegseth after midterms rout；‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms。\n\nRelated coverage: Trump asking advisers if Hegseth should stay after midterm losses, sources say\n\nRelated coverage: Republicans quickly turn against Pete Hegseth after midterms rout\n\nRelated coverage: ‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms\n\nRelated coverage: Trump: Hegseth would be ‘very popular’ as Tennessee senator\n\nRelated coverage: Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
-        "trend_score": 26.92,
+        "content_context": "Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects；Nithya Raman wins Los Angeles mayor over incumbent Karen Bass；Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass。\n\nRelated coverage: Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects\n\nRelated coverage: Nithya Raman wins Los Angeles mayor over incumbent Karen Bass\n\nRelated coverage: Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass\n\nRelated coverage: As Nithya Raman widens lead over Karen Bass, LAPD union warns of ‘Armageddon' in LA\n\nRelated coverage: Commentary: L.A. voters went bold by choosing Raman as mayor. Let's hope she stays bold",
+        "trend_score": 34.33,
         "trend_breakdown": {
-          "freshness": 0.611,
+          "freshness": 0.919,
           "engagement": 0.0,
-          "topic_overlap": 0.308,
+          "topic_overlap": 0.077,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Fortune",
+        "source": "NBC News",
         "category": "news",
-        "title": "James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU2Vqckw5eS0wUldZdnJld3pyUERKRHBHcXo1OGJUZDN5NnpRWjFuLUdIX0RXejlWRWh6NFJpZi1BZFZYdVFlOWxjOElqRGRob0U2SUcwZzZUbm9TMVJMVG53dFZMUWNZcnh3aWs1anRtY1FySW1GREphVEE5cXVBNW14X0gyZDQ0bUdVT01iWkZ6a3ZYMUZZekhvc3pMdHcxNXRQb3R0TzZKRnZqaHk1U3Zoa1ZySURUemtIdnQ3T1hLX2dUT3RScXoxaG5UVWxOVlNZaXJLWERZdHRiUExuM2hQTmNva3JJNkE?oc=5",
-        "published_at": "2026-11-04T16:18:00+00:00",
-        "summary": "Fortune 头条聚焦该事件，Google News 同时聚合到这些相关表述：James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office；Talarico Says Texas Is ‘Absolutely’ on the Presidential Map for Democrats；A political revolution in Texas。",
+        "title": "California Gov. Gavin Newsom plans to commute all death sentences - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWluenAydTFLNngyN09DTl9aejVhazZsek5lUG1hYTRVUV9qekliZXF0Ry1nQXNYRl9odVJuZ3ZjZFZfSmZDSHpzQ1hxZXVhN1lUTkNLcHcwUmpXNXBleWkzQm5Ya1FUZmpUWEZ0WG40b3dMNF91TkFjRm1oLUF4US16Y2RqWi1EaUNyTndVbzZGSDZhblB5MkhwSEcyVjJEMlE?oc=5",
+        "published_at": "2026-11-05T22:42:26+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：California Gov. Gavin Newsom plans to commute all death sentences；Newsom Commutes the Sentences of California’s 548 Death Row Inmates；California governor commutes sentences of more than 500 people on death row。",
         "related_headlines": [
-          "James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office",
-          "Talarico Says Texas Is ‘Absolutely’ on the Presidential Map for Democrats",
-          "A political revolution in Texas",
-          "Sen.-Elect Talarico Warns Musk: 'Texas Not for Sale'",
-          "These Big Companies Moved to Red Texas. Now the State's Gone Blue."
+          "California Gov. Gavin Newsom plans to commute all death sentences",
+          "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+          "California governor commutes sentences of more than 500 people on death row",
+          "Gavin Newsom commutes more than 500 death sentences in California",
+          "Newsom moves to commute all California death sentences to life in prison without parole"
         ],
-        "content_context": "James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office - Fortune\n\nFortune 头条聚焦该事件，Google News 同时聚合到这些相关表述：James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office；Talarico Says Texas Is ‘Absolutely’ on the Presidential Map for Democrats；A political revolution in Texas。\n\nRelated coverage: James Talarico was a 23-year-old middle school teacher when a student inspired him to run for office\n\nRelated coverage: Talarico Says Texas Is ‘Absolutely’ on the Presidential Map for Democrats\n\nRelated coverage: A political revolution in Texas\n\nRelated coverage: Sen.-Elect Talarico Warns Musk: 'Texas Not for Sale'\n\nRelated coverage: These Big Companies Moved to Red Texas. Now the State's Gone Blue.",
-        "trend_score": 21.47,
+        "content_context": "California Gov. Gavin Newsom plans to commute all death sentences - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：California Gov. Gavin Newsom plans to commute all death sentences；Newsom Commutes the Sentences of California’s 548 Death Row Inmates；California governor commutes sentences of more than 500 people on death row。\n\nRelated coverage: California Gov. Gavin Newsom plans to commute all death sentences\n\nRelated coverage: Newsom Commutes the Sentences of California’s 548 Death Row Inmates\n\nRelated coverage: California governor commutes sentences of more than 500 people on death row\n\nRelated coverage: Gavin Newsom commutes more than 500 death sentences in California\n\nRelated coverage: Newsom moves to commute all California death sentences to life in prison without parole",
+        "trend_score": 32.54,
         "trend_breakdown": {
-          "freshness": 0.596,
+          "freshness": 0.863,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "How Abdul El-Sayed actually did with Jewish voters - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeENMUzY4Z3lOTjcwUUV2VnF0TDdpblF1ZFlyOHJSdW40cVJHQW5qZzY1SmEzRFotYXZ5ZFB1TjV2Vk1HY0E5U3V6NkR0S0hSVVozc2ZaZXZiMDBtVXlROW9MUDJLRG1sQmgwS0FjVnE2UFNxSHJZVTBiTk5NN1dqMUM3UlFXb2dnMlNZa2haYnNZdw?oc=5",
+        "published_at": "2026-11-05T23:12:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：How Abdul El-Sayed actually did with Jewish voters；'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech；Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith。",
+        "related_headlines": [
+          "How Abdul El-Sayed actually did with Jewish voters",
+          "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
+          "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
+          "Oil prices hit two-month low following decisive midterm election results",
+          "Hero or liability? The debate over Abdul El-Sayed"
+        ],
+        "content_context": "How Abdul El-Sayed actually did with Jewish voters - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：How Abdul El-Sayed actually did with Jewish voters；'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech；Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith。\n\nRelated coverage: How Abdul El-Sayed actually did with Jewish voters\n\nRelated coverage: 'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech\n\nRelated coverage: Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith\n\nRelated coverage: Oil prices hit two-month low following decisive midterm election results\n\nRelated coverage: Hero or liability? The debate over Abdul El-Sayed",
+        "trend_score": 31.82,
+        "trend_breakdown": {
+          "freshness": 0.884,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xOUtjbGRoaFpDdUgtbU5udm9hd2xhZ2hENkEtWDMyYUdCQnFPaWo2SWhhTl81QTZRSDRDa3pqMUU2cjZGMlZEbUlEbVFpazdLLWVLa3lIdVh3U1k?oc=5",
+        "published_at": "2026-11-05T19:08:08+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials；Melania Trump touts rare agreement she brokered between Russia and Ukraine；Melania Trump to host Russian and Ukrainian delegations at the White House。",
+        "related_headlines": [
+          "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+          "Melania Trump to host Russian and Ukrainian delegations at the White House",
+          "Trump says he met Putin envoy, sees Ukraine deal soon",
+          "Trump says he and Putin are close to a deal about Ukraine and ‘all of Europe’"
+        ],
+        "content_context": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials；Melania Trump touts rare agreement she brokered between Russia and Ukraine；Melania Trump to host Russian and Ukrainian delegations at the White House。\n\nRelated coverage: Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials\n\nRelated coverage: Melania Trump touts rare agreement she brokered between Russia and Ukraine\n\nRelated coverage: Melania Trump to host Russian and Ukrainian delegations at the White House\n\nRelated coverage: Trump says he met Putin envoy, sees Ukraine deal soon\n\nRelated coverage: Trump says he and Putin are close to a deal about Ukraine and ‘all of Europe’",
+        "trend_score": 27.06,
+        "trend_breakdown": {
+          "freshness": 0.715,
+          "engagement": 0.0,
+          "topic_overlap": 0.083,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WFLA",
+        "category": "news",
+        "title": "‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO - WFLA",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWktIamctM0J2WXQ1QnRrS09yQ1BmYngyN09qREF2eW5MbEdpT040RjFiWUxPVm5MRTVjM2toZVdRbXZyWG1LTE0wcHg4aENqc29pX2NiUG1ycXZsTmJobWpBOVA0bDBUV3AzaVZOS2ZCUWtnRjFhZWtmOGhsS0NnVmdTUHViTmZtemVmOWFWQjRhVGRoRnZfenROeUN5aEhfOC1TWjM3VVRFemh5X1g4Rzh6UHcwR0XSAbwBQVVfeXFMTl9FNzd6RXBLaS1pMHVmdlowUEtEZTByUEhaRURLSXFTbm9MN1lwanBzUFQ0bktOaTFzNUlSVE5Ma1ZIWDVHVFgzUk5CWkVuQTZLeC1LWVhuVXpTZUVDSFV2NTNsdFNDRUs1ZjZ4QWdfMjlQRFhYWXFsUEtzTThRV25VZ3JGOGVRQ2RWRTNpQ3JYQXdEelFWbF9pSjc3bnJydnlrR0FRekRZWGlUaXprYUgySjFmeFEzRzc2N00?oc=5",
+        "published_at": "2026-11-05T18:57:19+00:00",
+        "summary": "WFLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO；Citibank Center deadly shooting: What we know about the suspect；Citi shooter was ‘irate’ over $2,500 debt, Hillsborough sheriff says。",
+        "related_headlines": [
+          "‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO",
+          "Citibank Center deadly shooting: What we know about the suspect",
+          "Citi shooter was ‘irate’ over $2,500 debt, Hillsborough sheriff says",
+          "Sheriff identifies gunman and woman 'executed' in deadly Tampa Citibank shooting",
+          "Gunman in Citibank shooting was 'irate' over court case, drove to Tampa from Orlando: HCSO"
+        ],
+        "content_context": "‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO - WFLA\n\nWFLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO；Citibank Center deadly shooting: What we know about the suspect；Citi shooter was ‘irate’ over $2,500 debt, Hillsborough sheriff says。\n\nRelated coverage: ‘Hero’ security guard shoots gunman, stopping Tampa Citibank plaza attack: HCSO\n\nRelated coverage: Citibank Center deadly shooting: What we know about the suspect\n\nRelated coverage: Citi shooter was ‘irate’ over $2,500 debt, Hillsborough sheriff says\n\nRelated coverage: Sheriff identifies gunman and woman 'executed' in deadly Tampa Citibank shooting\n\nRelated coverage: Gunman in Citibank shooting was 'irate' over court case, drove to Tampa from Orlando: HCSO",
+        "trend_score": 25.45,
+        "trend_breakdown": {
+          "freshness": 0.707,
           "engagement": 0.0,
           "topic_overlap": 0.0,
           "source_weight": 0.8,
@@ -870,28 +864,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "author": "The-PR-Agent",
-      "summary": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
-      "language": "Python",
-      "score": 280,
-      "comment_count": 2096,
-      "total_stars": 14789,
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "mattpocock",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
+      "language": "Shell",
+      "score": 2071,
+      "comment_count": 26403,
+      "total_stars": 315311,
       "built_by": [
-        "mrT23",
+        "mattpocock",
+        "claude",
         "github-actions",
-        "okotek",
-        "PeterDaveHello",
-        "IsmaelMartinez"
+        "gabimoncha"
       ],
-      "content_context": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.\n\nLanguage: Python\n\nStars today: 280\n\nTotal stars: 14789\n\nBuilt by: mrT23, github-actions, okotek, PeterDaveHello, IsmaelMartinez",
-      "trend_score": 99.62,
+      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 2071\n\nTotal stars: 315311\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+      "trend_score": 97.7,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.765,
-        "topic_overlap": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -906,11 +899,11 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "author": "vercel-labs",
       "summary": "Computer use CLI for AI agents",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
       "language": "Rust",
-      "score": 2470,
-      "comment_count": 1059,
-      "total_stars": 15221,
+      "score": 2173,
+      "comment_count": 1197,
+      "total_stars": 16940,
       "built_by": [
         "lahfir",
         "github-actions",
@@ -918,12 +911,12 @@
         "dependabot",
         "ctate"
       ],
-      "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2470\n\nTotal stars: 15221\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
-      "trend_score": 87.36,
+      "content_context": "Computer use CLI for AI agents\n\nLanguage: Rust\n\nStars today: 2173\n\nTotal stars: 16940\n\nBuilt by: lahfir, github-actions, detail-app, dependabot, ctate",
+      "trend_score": 97.29,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.871,
-        "topic_overlap": 0.25,
+        "engagement": 0.846,
+        "topic_overlap": 0.75,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -934,27 +927,28 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "author": "mattpocock",
-      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
-      "language": "Shell",
-      "score": 1379,
-      "comment_count": 26290,
-      "total_stars": 313382,
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "author": "vercel-labs",
+      "summary": "Browser automation CLI for AI agents",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
+      "language": "Rust",
+      "score": 150,
+      "comment_count": 3150,
+      "total_stars": 45930,
       "built_by": [
-        "mattpocock",
-        "claude",
+        "ctate",
+        "Railly",
         "github-actions",
-        "gabimoncha"
+        "lahfir",
+        "claude"
       ],
-      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1379\n\nTotal stars: 313382\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-      "trend_score": 86.85,
+      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 150\n\nTotal stars: 45930\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+      "trend_score": 92.73,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 1.0,
-        "topic_overlap": 0.0,
+        "engagement": 0.726,
+        "topic_overlap": 0.75,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -965,28 +959,28 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "author": "harry0703",
-      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
+      "title": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "author": "scenario-labs",
+      "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
       "language": "Python",
-      "score": 617,
-      "comment_count": 22183,
-      "total_stars": 139025,
+      "score": 667,
+      "comment_count": 273,
+      "total_stars": 3095,
       "built_by": [
-        "harry0703",
-        "rudycelekli",
+        "hervenivon",
         "claude",
-        "c020627",
-        "yyhhyyyyyy"
+        "codex",
+        "gh-actions-token-retriever-public",
+        "edemaistre"
       ],
-      "content_context": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\nLanguage: Python\n\nStars today: 617\n\nTotal stars: 139025\n\nBuilt by: harry0703, rudycelekli, claude, c020627, yyhhyyyyyy",
-      "trend_score": 84.52,
+      "content_context": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.\n\nLanguage: Python\n\nStars today: 667\n\nTotal stars: 3095\n\nBuilt by: hervenivon, claude, codex, gh-actions-token-retriever-public, edemaistre",
+      "trend_score": 89.79,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.939,
-        "topic_overlap": 0.0,
+        "engagement": 0.697,
+        "topic_overlap": 0.667,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -997,23 +991,55 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "author": "thedotmack",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
-      "language": "TypeScript",
-      "score": 1172,
-      "comment_count": 9805,
-      "total_stars": 112897,
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "author": "google",
+      "summary": "Agent Skills for Google products and technologies",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
+      "language": "Python",
+      "score": 211,
+      "comment_count": 1893,
+      "total_stars": 22398,
       "built_by": [
-        "thedotmack",
-        "claude",
-        "rudycelekli",
-        "cursoragent",
-        "rodboev"
+        "cloud-ix-copybara",
+        "holtskinner",
+        "martinvarelaj",
+        "helloeve",
+        "wangauone"
       ],
-      "content_context": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\nLanguage: TypeScript\n\nStars today: 1172\n\nTotal stars: 112897\n\nBuilt by: thedotmack, claude, rudycelekli, cursoragent, rodboev",
+      "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 211\n\nTotal stars: 22398\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
+      "trend_score": 87.14,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.722,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "author": "D4Vinci",
+      "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
+      "language": "Python",
+      "score": 1655,
+      "comment_count": 10269,
+      "total_stars": 98036,
+      "built_by": [
+        "D4Vinci",
+        "yetval",
+        "AbdullahY36",
+        "SulimanAbdulrazzaq",
+        "codex"
+      ],
+      "content_context": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\nLanguage: Python\n\nStars today: 1655\n\nTotal stars: 98036\n\nBuilt by: D4Vinci, yetval, AbdullahY36, SulimanAbdulrazzaq, codex",
       "trend_score": 84.49,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -1029,47 +1055,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "author": "github",
-      "summary": "💫 Toolkit to help you get started with SDD or any other process!",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
-      "language": "Python",
-      "score": 808,
-      "comment_count": 13220,
-      "total_stars": 147344,
-      "built_by": [
-        "mnriem",
-        "Copilot",
-        "github-actions",
-        "localden",
-        "claude"
-      ],
-      "content_context": "💫 Toolkit to help you get started with SDD or any other process!\n\nLanguage: Python\n\nStars today: 808\n\nTotal stars: 147344\n\nBuilt by: mnriem, Copilot, github-actions, localden, claude",
-      "trend_score": 84.17,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.929,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "author": "garrytan",
       "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
       "language": "TypeScript",
-      "score": 290,
-      "comment_count": 20634,
-      "total_stars": 139371,
+      "score": 612,
+      "comment_count": 20699,
+      "total_stars": 139971,
       "built_by": [
         "garrytan",
         "capy-ai",
@@ -1077,43 +1071,11 @@
         "test22345",
         "szsunyuan"
       ],
-      "content_context": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\nLanguage: TypeScript\n\nStars today: 290\n\nTotal stars: 139371\n\nBuilt by: garrytan, capy-ai, claude, test22345, szsunyuan",
-      "trend_score": 82.52,
+      "content_context": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\nLanguage: TypeScript\n\nStars today: 612\n\nTotal stars: 139971\n\nBuilt by: garrytan, capy-ai, claude, test22345, szsunyuan",
+      "trend_score": 83.44,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.886,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "floci-io/floci",
-      "url": "https://github.com/floci-io/floci",
-      "author": "floci-io",
-      "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
-      "language": "Java",
-      "score": 1090,
-      "comment_count": 3282,
-      "total_stars": 29660,
-      "built_by": [
-        "hectorvent",
-        "pgermosen",
-        "AndreKurait",
-        "okinaka",
-        "exoego"
-      ],
-      "content_context": "Light, fluffy, and always free - The AWS Local Emulator alternative\n\nLanguage: Java\n\nStars today: 1090\n\nTotal stars: 29660\n\nBuilt by: hectorvent, pgermosen, AndreKurait, okinaka, exoego",
-      "trend_score": 82.15,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.876,
+        "engagement": 0.91,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1129,11 +1091,11 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "author": "NVIDIA",
       "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
       "language": "Python",
-      "score": 2050,
-      "comment_count": 408,
-      "total_stars": 5156,
+      "score": 2679,
+      "comment_count": 593,
+      "total_stars": 7440,
       "built_by": [
         "DinaLaptii",
         "yuvalshkolar",
@@ -1141,11 +1103,43 @@
         "liofnv",
         "tomer-levin-nv"
       ],
-      "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2050\n\nTotal stars: 5156\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
-      "trend_score": 79.59,
+      "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2679\n\nTotal stars: 7440\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
+      "trend_score": 80.15,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.809,
+        "engagement": 0.824,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "author": "Usagi-org",
+      "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
+      "language": "Python",
+      "score": 240,
+      "comment_count": 2951,
+      "total_stars": 17607,
+      "built_by": [
+        "dingyufei615",
+        "claude",
+        "claude",
+        "ijodion",
+        "hurleychin"
+      ],
+      "content_context": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\nLanguage: Python\n\nStars today: 240\n\nTotal stars: 17607\n\nBuilt by: dingyufei615, claude, claude, ijodion, hurleychin",
+      "trend_score": 77.44,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.753,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1161,11 +1155,11 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "author": "max-sixty",
       "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "published_at": "2026-11-05T01:59:06.548540+00:00",
+      "published_at": "2026-11-06T01:59:02.776999+00:00",
       "language": "Rust",
-      "score": 531,
-      "comment_count": 415,
-      "total_stars": 11065,
+      "score": 546,
+      "comment_count": 439,
+      "total_stars": 11531,
       "built_by": [
         "max-sixty",
         "claude",
@@ -1173,11 +1167,11 @@
         "dependabot",
         "github-actions"
       ],
-      "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 531\n\nTotal stars: 11065\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
-      "trend_score": 76.29,
+      "content_context": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\nLanguage: Rust\n\nStars today: 546\n\nTotal stars: 11531\n\nBuilt by: max-sixty, claude, worktrunk-bot, dependabot, github-actions",
+      "trend_score": 75.75,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.722,
+        "engagement": 0.708,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1189,118 +1183,23 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "The State of Python Profiling in 2026",
-      "url": "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html",
-      "author": "lumpa",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-05T01:50:48+00:00",
-      "summary": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation\n\nCPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1.\n\nPython profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin...",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html",
-        "page_title": "The Hub of Heliopolis - The State of Python Profiling in 2026",
-        "page_description": null,
-        "page_excerpt": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation\n\nCPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1.\n\nPython profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin..."
-      },
-      "content_context": "Fri 30 October 2026 26 min read programming/ #python #profiling #optimisation CPython now ships its own sampling profiler, free-threading is going mainstream, and coding agents have started reading profiles. In this post I look at where Python profiling stands today, compare Tachyon, py-spy, Scalene and Austin, and go through what's new in Austin 4.1. Python profiling has changed more in the last two years than in the decade before. CPython 3.14 gave external tools an official way to look inside a running interpreter, and made asyncio task graphs inspectable from outside the process. CPython 3.15 ships a sampling profiler in the standard library. Free-threaded builds have gone from experiment to something people actually deploy. And a growin...",
-      "trend_score": 54.5,
-      "trend_breakdown": {
-        "freshness": 0.994,
-        "engagement": 0.045,
-        "topic_overlap": 0.25,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-      "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/",
-      "author": "rdmuser",
+      "title": "NASA telescope is predicted to come crashing down after failed rescue mission",
+      "url": "https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357",
+      "author": "gmays",
       "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-11-05T01:52:52+00:00",
-      "summary": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/",
-        "page_title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Google Search - gHacks Tech News",
-        "page_description": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.",
-        "page_excerpt": "Google will switch off access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts until school administrators explicitly turn them on, the company announced in a blog post titled \"Designing responsible AI for learning.\"\n\nChris Phillips, Google's vice president and general manager of education, has confirmed that students at schools that keep Google's AI tools turned off will not have access to Google Search either.\n\n\"After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search,\" Phillips wrote. Google presents the change as a way to ensure that \"schools should have control over AI in their classrooms.\""
-      },
-      "content_context": "Gemini and Search start off for K-12 student accounts, and schools that reject AI lose Search too.\n\nGoogle will switch off access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts until school administrators explicitly turn them on, the company announced in a blog post titled \"Designing responsible AI for learning.\" Chris Phillips, Google's vice president and general manager of education, has confirmed that students at schools that keep Google's AI tools turned off will not have access to Google Search either. \"After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search,\" Phillips wrote. Google presents the change as a way to ensure that \"schools should have control over AI in their classrooms.\"",
-      "trend_score": 54.49,
-      "trend_breakdown": {
-        "freshness": 0.996,
-        "engagement": 0.071,
-        "topic_overlap": 0.2,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Autorun-audit – find what runs when you open, CD into or install a repo",
-      "url": "https://github.com/ag3ntsc4rn/autorun-audit",
-      "author": "ag3ntsc4rn",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-05T01:45:40+00:00",
-      "summary": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit",
+      "comment_count": 1,
+      "published_at": "2026-11-06T01:56:28+00:00",
+      "summary": "Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>",
       "comment_highlights": [
-        "[flagged]"
+        "Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>"
       ],
-      "linked_context": {
-        "resolved_url": "https://github.com/ag3ntsc4rn/autorun-audit",
-        "page_title": "GitHub - ag3ntsc4rn/autorun-audit: Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files.",
-        "page_description": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit",
-        "page_excerpt": "autorun-audit lists everything that executes automatically when you open a repository, enter its directory, install it, start an AI agent in it, or simply start Python. It points out the entries that look like payloads.\n\nThe scan above targets autorun-audit-demo , a public repository of harmless, defanged samples. Try it yourself:\n\nAttackers have moved from malicious dependencies to the files that tools run for you:"
-      },
-      "content_context": "Find code that runs without you asking: repo files that execute on folder open (VS Code tasks, agent hooks, MCP, devcontainers) and Python .pth/.start startup files. - ag3ntsc4rn/autorun-audit\n\nautorun-audit lists everything that executes automatically when you open a repository, enter its directory, install it, start an AI agent in it, or simply start Python. It points out the entries that look like payloads. The scan above targets autorun-audit-demo , a public repository of harmless, defanged samples. Try it yourself: Attackers have moved from malicious dependencies to the files that tools run for you:\n\nHN comment: [flagged]",
-      "trend_score": 49.02,
-      "trend_breakdown": {
-        "freshness": 0.991,
-        "engagement": 0.045,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Karl Lagerfeld Knew Why Some People Have Style – and Others Don't [video]",
-      "url": "https://www.youtube.com/watch?v=Iw9_tgCGfgM",
-      "author": "tartoran",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-05T01:56:38+00:00",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.youtube.com/watch?v=Iw9_tgCGfgM",
-        "page_title": "- YouTube",
-        "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "page_excerpt": null
-      },
-      "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "trend_score": 43.49,
+      "linked_context": {},
+      "content_context": "HN comment: Dude, are you a bot? It burned up yesterday<p><i>NASA's 22-year-old Swift satellite telescope falls from orbit</i> (16 points, 18 hours ago) <a href=\"https://news.ycombinator.com/item?id=50376212\">https://news.ycombinator.com/item?id=50376212</a>",
+      "trend_score": 47.32,
       "trend_breakdown": {
         "freshness": 0.998,
-        "engagement": 0.045,
-        "topic_overlap": 0.091,
+        "engagement": 0.105,
+        "topic_overlap": 0.2,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1309,25 +1208,104 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Isometric SF",
-      "url": "https://isometricsf.com/",
-      "author": "avyfain",
-      "score": 2,
+      "title": "Ancient warriors got high on cannabis, burial mound reveals",
+      "url": "https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk",
+      "author": "bookofjoe",
+      "score": 3,
       "comment_count": 0,
-      "published_at": "2026-11-05T01:45:44+00:00",
-      "summary": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
+      "published_at": "2026-11-06T01:44:30+00:00",
+      "summary": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://isometricsf.com/",
-        "page_title": "isometric sf · the Bay Area in pixel art",
-        "page_description": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
+        "resolved_url": "https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk",
+        "page_title": "Ancient warriors got high on cannabis, burial mound reveals",
+        "page_description": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
         "page_excerpt": null
       },
-      "content_context": "An isometric pixel-art map of the whole San Francisco Bay Area. Search a place, a town or an address, then send someone the view.",
-      "trend_score": 42.37,
+      "content_context": "Vindication at last for Herodotus, the often doubted Greek historian who reported howls of joy from the Scythians",
+      "trend_score": 42.85,
       "trend_breakdown": {
-        "freshness": 0.991,
-        "engagement": 0.071,
+        "freshness": 0.99,
+        "engagement": 0.088,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Regulators approve generic HIV-prevention drug for low-income countries",
+      "url": "https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6",
+      "author": "gmays",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-11-06T01:38:21+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 42.68,
+      "trend_breakdown": {
+        "freshness": 0.986,
+        "engagement": 0.088,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Switch to Safari",
+      "url": "https://mjtsai.com/blog/2026/11/05/switch-to-safari/",
+      "author": "gmays",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-06T01:55:02+00:00",
+      "summary": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.”\n\nSafari offers up to 5 hours more video streaming on your Mac compared with Chrome.\n\nFaster page loads on frequently visited sites when browsing on Mac.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://mjtsai.com/blog/2026/11/05/switch-to-safari/",
+        "page_title": "Michael Tsai - Blog - Switch to Safari",
+        "page_description": null,
+        "page_excerpt": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.”\n\nSafari offers up to 5 hours more video streaming on your Mac compared with Chrome.\n\nFaster page loads on frequently visited sites when browsing on Mac."
+      },
+      "content_context": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.” Safari offers up to 5 hours more video streaming on your Mac compared with Chrome. Faster page loads on frequently visited sites when browsing on Mac.",
+      "trend_score": 41.77,
+      "trend_breakdown": {
+        "freshness": 0.997,
+        "engagement": 0.044,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Three way Git merging with meld",
+      "url": "https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/",
+      "author": "zahrevsky",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-06T01:50:55+00:00",
+      "summary": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/",
+        "page_title": "Three way git merging with meld",
+        "page_description": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …",
+        "page_excerpt": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel).\n\nAlthough I am vim-lover, when it comes to git merging I use excellent tool called Meld instead of vim. It’s a GTK-based application written in Python and it has very nice capabilities of showing diffs. Particularly, I like how Meld shows changes on the same lines (highlighing portions of them), it’s editable text pane with source highlighting and ability to visually merge conflicts using arrow...\n\nI was not considering Meld as a three-way merging tool, until Tomek Bury pointed out that Meld supports three-way merging. This feature is not advertised on the main page and even in the program itself (help command line output page). More about this later."
+      },
+      "content_context": "This article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when …\n\nThis article is updated version of Three-way git merging and meld and it was updated once again in 2015 (thanks to Eric Drechsel). Although I am vim-lover, when it comes to git merging I use excellent tool called Meld instead of vim. It’s a GTK-based application written in Python and it has very nice capabilities of showing diffs. Particularly, I like how Meld shows changes on the same lines (highlighing portions of them), it’s editable text pane with source highlighting and ability to visually merge conflicts using arrow... I was not considering Meld as a three-way merging tool, until Tomek Bury pointed out that Meld supports three-way merging. This feature is not advertised on the main page and even in the program itself (help command line output page). More about this later.",
+      "trend_score": 41.65,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.044,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.0
@@ -1339,162 +1317,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目持续引领开发者社区关注焦点。GitHub趋势榜上，多个项目围绕AI智能体与开发流程自动化展开：PR Agent作为智能代码审查工具热度不减；Vercel Labs开源的agent-desktop为AI智能体提供系统级CLI交互能力；claude-mem致力于为智能体赋予跨会话持久记忆，解决上下文连贯性痛点。同时，AIGC应用进一步下沉，MoneyPrinterTurbo实现一键生成短视频，而Spec-Kit、gstack等项目则展示了AI在开发流程规范化和角色化协作中的深度集成。基础设施方面，floci作为轻量级AWS本地模拟器获得高关注，为AI应用开发测试提供便利。整体来看，AI正从辅助工具向深度融入工作流、承担复杂职能的协作者演进。",
+    "overview": "今日AI领域开源项目表现活跃，多个项目登上GitHub趋势榜。Vercel Labs开源了为AI智能体设计的系统交互工具`agent-desktop`和浏览器自动化工具`agent-browser`，旨在提升智能体的实用能力。英伟达发布了`Auto Ontology`框架，通过图语义推理增强LLM的确定性与可解释性。同时，多个“技能库”项目涌现，包括Google的官方技能库、Scenario Labs面向媒体内容生成的技能库，以及mattpocock的个人工程技能库，共同推动AI智能体能力模块化。此外，Garry Tan开源的Claude Code开发环境`gstack`和高效爬虫框架`Scrapling`也获得高度关注，分别从开发工作流与数据获取层面支持AI项目构建。",
     "named_hotspots": [
       {
-        "name": "PR Agent",
+        "name": "mattpocock/skills",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "PR Agent 是一个开源的 GitHub 项目，旨在自动化代码审查流程，作为 Pull Request 的智能审阅者。",
-        "core_details": "该项目使用 Python 语言开发，今日新增 280 颗星，总星数达 14789，由 mrT23 等多位贡献者维护。",
-        "ai_take": "该项目展示了 AI 在软件开发流程自动化中的应用潜力，特别是通过自然语言处理技术理解和评论代码变更，可能提升开发团队的效率和代码质量。",
-        "hype_check": "该项目在 GitHub Trending 上趋势得分高达 99.62，表明在开发者社区中受到高度关注，但需注意其实际效果可能因项目规模和团队习惯而异。",
-        "value_check": "作为开源工具，PR Agent 为开发者提供了免费的代码审查自动化选项，可能帮助减少人工审查负担，但用户需自行部署和集成到现有工作流中。",
-        "follow_up": "关注该项目的后续更新，特别是其如何处理复杂代码变更和集成到不同开发环境的能力。",
-        "evidence": "项目在 GitHub 上的高星数和趋势排名，以及明确的 Python 语言标识和活跃的贡献者列表，支持其作为热门开源工具的地位。"
+        "source": "github-trending",
+        "what_happened": "GitHub项目'mattpocock/skills'登上趋势榜，这是一个为工程师设计的技能库，直接从作者的.agents目录中提取。",
+        "core_details": "该项目由mattpocock创建，使用Shell语言编写，今日新增星标2071个，总星标数达315311，项目构建者包括mattpocock、claude、github-actions和gabimoncha。",
+        "ai_take": "该项目展示了AI辅助工具（如claude）在自动化工程技能库构建中的应用，可能涉及代码生成或任务自动化，反映了AI在提升开发者工作效率方面的潜力。",
+        "hype_check": "趋势得分97.7和单日高星标增长表明社区关注度飙升，但需注意这可能受短期热点或推广影响，而非长期技术价值。",
+        "value_check": "作为开源技能库，它可能提供实用的工程脚本或工具，但具体内容未详细说明，实际价值取决于代码质量和适用性。",
+        "follow_up": "可查看GitHub仓库以了解具体技能内容，评估其在自动化开发流程中的实用性，并关注作者mattpocock的其他项目。",
+        "evidence": "项目描述为'Skills for Real Engineers. Straight from my .agents directory.'，数据来自GitHub趋势榜，包括星标增长和构建者信息。"
       },
       {
         "name": "agent-desktop",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-desktop 的项目，这是一个为 AI 智能体设计的计算机使用命令行界面（CLI），使用 Rust 语言开发，今日获得 2470 颗星，总星数已达 15221。",
-        "core_details": "该项目旨在提供一个 CLI 工具，使 AI 智能体能够通过命令行与计算机系统进行交互。项目由 lahfir、github-actions、detail-app、dependabot、ctate 等贡献者构建，当前在 GitHub 趋势榜上热度较高，趋势得分为 87.36。",
-        "ai_take": "该项目代表了 AI 智能体与操作系统深度集成的探索方向，通过 CLI 形式可能为自动化任务、智能助手或自主代理提供底层系统控制能力，是 AI 向工具化和实用化发展的重要一步。",
-        "hype_check": "项目在 GitHub 上迅速走红，单日获星数高，表明开发者社区对 AI 智能体与系统交互工具的兴趣浓厚，但需注意其仍处于早期阶段，实际应用案例和成熟度有待观察。",
-        "value_check": "作为开源工具，它降低了 AI 智能体操作计算机的门槛，可能推动更多自动化或智能代理应用的开发，具有潜在的技术价值和社区贡献意义。",
-        "follow_up": "关注项目的后续更新、实际使用案例以及社区反馈，以评估其稳定性和在真实场景中的效用。",
-        "evidence": "项目在 GitHub 上的数据支持其热度：语言为 Rust，今日星数 2470，总星数 15221，趋势得分 87.36，贡献者包括 lahfir 等。"
+        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-desktop 的项目，该项目旨在为 AI 智能体提供计算机使用命令行界面（CLI）。",
+        "core_details": "该项目使用 Rust 语言开发，今日新增星标 2173 个，总星标数达到 16940，在 GitHub 趋势榜上热度很高。主要贡献者包括 lahfir 等。",
+        "ai_take": "该项目为 AI 智能体与计算机系统交互提供了一个专门的 CLI 工具，可能旨在提升智能体执行自动化任务、管理桌面操作或与底层系统集成的能力，是 AI 智能体实用化、工具化方向的一个具体探索。",
+        "hype_check": "热度很高，单日新增大量星标，表明开发者社区对此类 AI 智能体基础设施工具兴趣浓厚。",
+        "value_check": "作为 Vercel Labs 的开源项目，其技术背景和 Rust 实现保证了项目的性能与可靠性潜力，直接针对 AI 智能体的系统交互痛点，具有明确的应用场景和工具价值。",
+        "follow_up": "关注该项目的后续更新、实际应用案例以及社区如何利用它构建更复杂的 AI 智能体工作流。",
+        "evidence": "项目在 GitHub 趋势榜排名靠前，语言为 Rust，由 Vercel Labs 团队维护，具体数据：今日星标 2173，总星标 16940。"
       },
       {
-        "name": "mattpocock/skills",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "GitHub 项目 'mattpocock/skills' 登上趋势榜，这是一个面向“真实工程师”的技能集合，源自作者的 .agents 目录。",
-        "core_details": "该项目由 mattpocock 创建，使用 Shell 语言编写。今日新增星标 1379 个，总星标数已达 313382。项目由 mattpocock、claude、github-actions 和 gabimoncha 共同构建。",
-        "ai_take": "该项目展示了 AI 辅助工具（如 Claude）与自动化流程（GitHub Actions）在工程技能库构建中的实际应用，反映了 AI 正在成为开发者工作流中不可或缺的组成部分。",
-        "hype_check": "趋势热度较高（趋势得分 86.85），单日星标增长显著，表明其在开发者社区中获得了快速关注。",
-        "value_check": "作为开源技能库，其价值在于为工程师提供可直接参考或集成的实用工具或脚本，可能提升开发效率。高星标数暗示了其内容被广泛认可。",
-        "follow_up": "关注该项目后续的更新内容、社区讨论（评论数 26290）以及如何将此类技能库更深度地集成到 AI 代理或自动化工作流中。",
-        "evidence": "项目描述为“Skills for Real Engineers. Straight from my .agents directory.”，语言为 Shell，具体数据包括：今日星标 1379，总星标 313382，构建者包括 AI 工具 Claude。"
-      },
-      {
-        "name": "MoneyPrinterTurbo",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "GitHub 开源项目 MoneyPrinterTurbo 今日获得 617 颗星，总星数达 139,025，在趋势榜上排名靠前。该项目利用 AI 大模型和自动化工作流，实现根据主题或关键词一键生成高清短视频。",
-        "core_details": "该项目是一个 Python 语言编写的自动化工具，核心功能是通过集成 AI 大模型（具体模型未在提供信息中明确）和预设的工作流，将用户输入的主题或关键词自动转化为完整的短视频内容，旨在简化视频创作流程。项目由开发者 harry0703 等人构建和维护。",
-        "ai_take": "该项目代表了 AIGC（AI生成内容）在视频创作领域的应用下沉，将文本到视频的生成过程产品化、自动化。其技术关键在于串联了大语言模型（可能用于脚本生成）、图像/视频生成模型以及自动化编辑流程，降低了短视频制作的技术门槛，符合当前内容生产追求效率和批量化趋势。",
-        "hype_check": "热度较高。单日新增 600+ 星和总计近 14 万星的数据表明其受到了开发者社区的广泛关注。项目名称“MoneyPrinter”（印钞机）带有强烈的营销和吸引力色彩，暗示其旨在帮助用户快速生成可盈利的短视频内容，这可能是其获得高关注度的原因之一。但需注意，实际生成视频的质量、版权合规性以及平台政策风险是评估其真实价值的关键。",
-        "value_check": "核心价值在于提供了一个开源的、可自定义的自动化视频生成流水线框架。对于开发者、内容创作者或MCN机构，它可能是一个研究AIGC视频流程或进行批量内容生产的起点工具。然而，其“一键生成”的易用性背后，依赖的底层AI模型（如文生图、文生视频）的性能、成本及生成内容的独特性和质量，将决定其实用价值的上限。开源性质允许社区改进和适配。",
-        "follow_up": "1. 关注项目后续更新，看其是否集成更先进的视频生成模型（如Sora、Runway等）。2. 观察社区实际使用案例和生成效果反馈。3. 注意相关AI视频生成平台的API政策变化及版权法律风险。4. 可探索类似项目（如MoneyPrinter原版）的对比，了解技术演进。",
-        "evidence": "项目描述明确指出“利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频”。GitHub 趋势数据（今日星增 617，总星 139025）和项目语言（Python）提供了客观支持。项目由多位贡献者（harry0703, rudycelekli 等）共同构建。"
-      },
-      {
-        "name": "claude-mem",
+        "name": "agent-browser",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为claude-mem的开源项目在GitHub上趋势飙升，单日获星1172个，总星数已超过11万。该项目旨在为AI智能体提供跨会话的持久化上下文记忆能力。",
-        "core_details": "claude-mem是一个用TypeScript编写的开源工具，核心功能是捕获智能体在会话期间的所有操作，利用AI进行压缩，并将相关上下文信息注入到未来的会话中，从而实现跨会话的持久化记忆。项目声称支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等多种AI智能体或工具。",
-        "ai_take": "该项目直击当前AI智能体应用的一个核心痛点：缺乏长期记忆和连贯的上下文。通过技术手段为智能体赋予“记忆”，能显著提升其在复杂、多轮任务中的效率和一致性，是增强智能体实用性和自主性的重要方向。",
-        "hype_check": "热度很高。单日千星和超11万的总星数表明开发者社区对此类工具的需求旺盛，关注度极高。这反映了市场对更智能、更连贯的AI助手工作流的迫切期待。",
-        "value_check": "潜在价值显著。如果实现稳定可靠，该工具能极大改善开发者与AI编程助手的协作体验，减少重复解释，提升任务连续性。其多智能体支持的定位也拓宽了应用场景。",
-        "follow_up": "需要关注其实际压缩与检索算法的效率、准确性，以及在不同智能体上的兼容性与稳定性。其长期记忆的管理策略（如隐私、存储成本）也是关键。",
-        "evidence": "项目描述明确指出其“为每个智能体提供跨会话的持久化上下文”的核心功能，并列出广泛支持的智能体列表。GitHub趋势数据（日增1172星，总星112897）是社区高关注度的直接证据。"
+        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-browser 的项目，这是一个专为 AI 代理设计的浏览器自动化命令行工具，使用 Rust 语言编写。该项目今日获得 150 颗星，总星数已达 45930，显示出较高的社区关注度。",
+        "core_details": "agent-browser 是一个浏览器自动化 CLI 工具，旨在为 AI 代理提供与网页交互的能力。项目由 Vercel Labs 团队（包括 ctate, Railly 等贡献者）开发，采用 Rust 语言实现，确保了高性能和可靠性。",
+        "ai_take": "该项目直接服务于 AI 代理生态，通过提供标准化的浏览器自动化接口，降低了 AI 代理进行网页操作（如数据抓取、表单填写、交互模拟）的开发门槛，有助于推动 AI 代理在复杂任务中的应用。",
+        "hype_check": "项目热度较高（趋势得分 92.73），总星数近 4.6 万且持续增长，表明其在开发者社区中受到广泛关注和认可，可能成为 AI 代理工具链中的重要组件。",
+        "value_check": "对于需要网页交互能力的 AI 应用开发者而言，该项目提供了经过验证的开源解决方案，能节省开发时间并提升代理的稳定性。其 Rust 实现也意味着较好的性能和安全优势。",
+        "follow_up": "关注 Vercel Labs 的后续更新，以及该项目如何与 AI 框架（如 LangChain、AutoGPT）集成。同时可观察是否有基于此工具的商业化 AI 代理产品出现。",
+        "evidence": "项目 GitHub 页面显示其为“Browser automation CLI for AI agents”，使用 Rust 语言，今日获星 150，总星 45930，由 Vercel Labs 团队维护。"
       },
       {
-        "name": "Spec-Kit",
+        "name": "Scenario Skills",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "GitHub官方推出的Spec-Kit项目在GitHub Trending上热度飙升，单日获星808个，总星数已达147,344，引发开发者社区广泛关注。",
-        "core_details": "Spec-Kit是一个用Python编写的工具包，旨在帮助开发者快速启动SDD（软件设计规范）或其他开发流程。项目由GitHub团队及AI助手（如Copilot、Claude）协作构建，体现了AI辅助开发的趋势。",
-        "ai_take": "该项目直接集成了GitHub Copilot等AI编码助手，展示了AI在自动化代码生成、流程规范化和工具链构建中的实际应用，是AI增强开发工作流的典型范例。",
-        "hype_check": "热度较高（趋势分84.17），单日获星数突出，总星数庞大，表明其在开发者社区中具有持续影响力和实用性认可，但需注意其作为官方工具可能自带流量效应。",
-        "value_check": "作为GitHub官方出品，Spec-Kit降低了开发流程的启动门槛，尤其适合团队规范化和AI辅助开发场景，具有明确的工具价值和生态整合意义。",
-        "follow_up": "关注其在企业开发流程中的采纳情况、与GitHub Copilot等AI产品的深度集成动态，以及社区是否衍生出基于该工具包的最佳实践案例。",
-        "evidence": "项目描述明确为“帮助启动SDD或其他流程的工具包”；语言为Python；构建者列表包含Copilot、Claude等AI助手；单日获星808、总星147,344的数据来自GitHub Trending统计。"
+        "what_happened": "Scenario Labs在GitHub上开源了名为'skills'的项目，该项目旨在为AI智能体提供生产就绪的图像、视频、音频和3D内容生成能力。项目通过集成Scenario MCP（模型控制协议）等技术，帮助智能体选择合适的模型、预估成本，并确保角色与品牌的一致性。",
+        "core_details": "该项目是一个Python库，提供了一系列“技能”，使AI智能体能够调用专业工具（如Blender、Maya、ZBrush、Unreal、Unity）和AI模型，以生成高质量的媒体内容。核心功能包括模型选择、成本预估和内容一致性维护。项目在GitHub上趋势热度高，今日获星667，总星数达3095。",
+        "ai_take": "该项目代表了AI智能体工作流向专业内容创作领域的深化，通过标准化接口和成本控制，降低了AI生成媒体内容的门槛，可能推动游戏、影视等行业的自动化生产。",
+        "hype_check": "热度较高，在GitHub趋势榜上得分89.79，日增星数可观，表明开发者社区对AI驱动的内容创作工具兴趣浓厚。",
+        "value_check": "实际价值显著，为AI智能体提供了从创意到生产的端到端能力，尤其适用于需要高质量、一致性内容的商业场景，如品牌营销、游戏开发等。",
+        "follow_up": "关注Scenario Labs的后续更新，以及该技能库在Unity、Unreal等主流引擎中的集成案例和实际应用效果。",
+        "evidence": "项目描述明确指出其提供生产就绪的媒体生成技能，支持多种专业工具，并通过GitHub数据（如星数增长、趋势分数）验证了其受关注程度。"
+      },
+      {
+        "name": "Google Skills",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Google在GitHub上开源了一个名为'skills'的项目，该项目旨在为Google产品和技术提供代理技能（Agent Skills），今日获得211颗星，总星数达22398，使用Python语言开发。",
+        "core_details": "该项目由Google团队（包括cloud-ix-copybara、holtskinner、martinvarelaj、helloeve、wangauone等贡献者）构建，专注于开发与Google生态系统集成的代理技能，可能用于增强AI代理或自动化工具的功能。",
+        "ai_take": "这反映了Google在AI代理生态中的战略布局，通过开源技能库降低开发者集成Google技术的门槛，可能推动更多AI应用基于其平台构建，强化其AI基础设施的护城河。",
+        "hype_check": "项目热度较高（趋势得分87.14），总星数超过2.2万表明已有广泛关注，但需注意这更多是开发者社区的兴趣，而非大众市场炒作。",
+        "value_check": "对开发者而言，这提供了实用的工具来扩展AI代理能力，可能加速基于Google技术的自动化解决方案开发；但价值取决于技能的实际可用性和文档质量。",
+        "follow_up": "关注该GitHub仓库的更新以了解新技能添加情况，并观察是否有基于此项目的实际应用案例出现。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，语言为Python，由Google官方发布，总星数22398和今日211颗星的增长数据支持其流行度。"
+      },
+      {
+        "name": "Scrapling",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Scrapling 是一个 Python 网络爬虫框架，在 GitHub 趋势榜上热度较高，单日新增星标数达 1655，总星标数已超过 9.8 万。",
+        "core_details": "该项目由 D4Vinci 等人开发，定位为“最佳网络爬虫框架”，声称能够处理从单个请求到大规模爬取的所有任务。项目提供了 Discord 社区和 X（原 Twitter）账号供用户交流与获取技巧。",
+        "ai_take": "虽然 Scrapling 本身并非 AI 模型，但其作为高效的数据采集工具，是 AI 数据管道和机器学习项目数据准备阶段的关键基础设施，对训练数据获取有重要支撑作用。",
+        "hype_check": "热度主要源于其在 GitHub 趋势榜的排名和较高的星标增长，反映了开发者社区对强大、易用爬虫工具的需求。但“最佳”的自我宣称需结合实际使用体验和与其他框架（如 Scrapy）的对比来评估。",
+        "value_check": "对于需要从网页结构化提取数据的 Python 开发者，尤其是涉及 AI/ML 数据收集的项目，该项目可能提供了一套集成的解决方案。高星标数和活跃的社区（Discord）是其生态健康的积极信号。",
+        "follow_up": "可关注其 GitHub 仓库的更新频率、Issue 处理情况以及 Discord 社区的活跃度，以评估项目的维护质量和长期可靠性。同时，可对比其与 Scrapy、Beautiful Soup 等成熟方案在功能、性能及易用性上的差异。",
+        "evidence": "项目描述自称“最佳网络爬虫框架”，GitHub 数据显示语言为 Python，单日星标增长 1655，总星标 98036，拥有 Discord 社区和 X 账号。"
       },
       {
         "name": "gstack",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Garry Tan 在 GitHub 上开源了一个名为 gstack 的项目，该项目复现了他个人使用的 Claude Code 开发环境配置，包含 23 个具有特定倾向的工具集，旨在模拟 CEO、设计师、工程经理、发布经理、文档工程师和 QA 等多种角色职能，以提升开发效率。",
-        "core_details": "该项目使用 TypeScript 语言开发，在 GitHub 上单日获得 290 颗星，总星数已达 139,371，由 garrytan、capy-ai、claude 等贡献者构建。项目定位为一个高度集成和预设的开发工具栈。",
-        "ai_take": "该项目展示了如何利用 AI 辅助工具（如 Claude Code）来构建一个高度自动化和角色模拟的开发工作流，反映了 AI 正在深度融入开发流程，通过预设工具链来承担项目管理、质量保证等多重职能，是“AI 作为协作者”理念的具体实践。",
-        "hype_check": "项目因出自知名人物 Garry Tan 且概念新颖（用工具栈模拟公司角色）而获得高关注度，单日涨星显著，但需观察其工具链的实际普适性和长期维护情况，目前热度可能部分源于名人效应和新奇性。",
-        "value_check": "对于追求开发流程标准化、自动化，并希望集成 AI 辅助工具的团队或个人开发者具有参考价值。它提供了一套现成的、经过验证的配置方案，可能减少搭建开发环境的心智负担，但其“意见性”强，可能不适合所有技术栈或工作习惯。",
-        "follow_up": "关注该项目的实际采用案例、社区反馈以及后续更新，看其是否能演化成更通用的开发基础设施模板，或催生类似的角色化工具栈理念。",
-        "evidence": "项目在 GitHub Trending 上榜，单日获星 290，总星数超 13.9 万，项目描述明确其用途为“使用 Garry Tan 的 Claude Code 配置：23 个意见性工具，充当 CEO、设计师、工程经理、发布经理、文档工程师和 QA”。"
+        "what_happened": "Garry Tan在GitHub上开源了其个人使用的Claude Code开发环境配置项目gstack，该项目迅速登上趋势榜，单日获得612颗星，总星数已接近14万。",
+        "core_details": "gstack是一个基于TypeScript的、高度定制化的开发工具栈集合，包含了23个具有明确设计主张的工具。这些工具被设计用来模拟并承担CEO、设计师、工程经理、发布经理、文档工程师和QA（质量保证）等多种角色在开发流程中的职能，旨在为开发者提供一套“开箱即用”的、高效且全面的开发环境。",
+        "ai_take": "该项目展示了AI辅助开发（特别是与Claude Code结合）的工程化实践前沿。通过预设一系列“固执己见”的工具链，它将AI助手的能力结构化、角色化，试图系统性地提升从决策、设计到开发、测试、发布的整个软件生命周期效率，是AI融入开发者工作流的一种具体且雄心勃勃的范式。",
+        "hype_check": "热度很高。作为知名人物（Garry Tan）的开源实践，且概念新颖（用工具栈模拟公司职能），迅速获得了大量关注（日增星数可观）。高评论数（超过2万）表明社区参与和讨论非常活跃。",
+        "value_check": "对于追求高效、标准化开发流程，尤其是对Claude Code或类似AI编程助手深度集成的团队和个人开发者具有直接参考价值。它提供了一套经过验证的、完整的配置方案，可能显著减少环境搭建和工具选型的成本。但其“固执己见”的特性也意味着可能需要一定的适应和调整才能完全融入现有工作流。",
+        "follow_up": "关注该项目后续的更新迭代、社区反馈以及实际采用案例。观察其工具选择理念是否会被更广泛的开发者社区接受，以及是否会有基于此项目的衍生工具或最佳实践出现。",
+        "evidence": "项目在GitHub趋势榜排名靠前（趋势分83.44），单日获星612，总星数139,971，拥有20,699条评论，由garrytan等人构建，使用TypeScript语言。项目描述明确其为“23个固执己见的工具”，用于模拟CEO、设计师等多重角色。"
       },
       {
-        "name": "floci",
+        "name": "Auto Ontology",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为floci的Java开源项目在GitHub趋势榜上热度飙升，单日新增超过1000星，总星数已接近3万。",
-        "core_details": "floci定位为“轻量、蓬松且永远免费”的AWS本地模拟器替代方案。它是一个用Java编写的开源项目，由多位开发者共同构建，旨在为开发者提供本地开发和测试AWS服务的轻量级工具。",
-        "ai_take": "该项目本身不直接涉及AI技术，但其作为基础设施工具，能通过提供高效的本地AWS服务模拟环境，间接支持AI应用（如使用AWS SageMaker、Rekognition等服务）的本地开发、测试与持续集成流程，可能加速AI项目的迭代。",
-        "hype_check": "热度较高。单日获星超千颗，总星数近3万，表明其在开发者社区中获得了快速关注和认可，反映了市场对轻量级、免费的本地云服务模拟工具的强烈需求。",
-        "value_check": "价值明确。为开发者提供了一个免费、轻量的AWS本地替代方案，能降低云服务开发与测试的成本和复杂性，尤其适合需要频繁本地测试或网络受限的场景，具有切实的实用价值。",
-        "follow_up": "关注其版本迭代、支持的AWS服务范围扩展情况，以及社区活跃度（如Issue处理、PR合并）。可对比其他本地模拟方案（如LocalStack）的差异与优势。",
-        "evidence": "项目在GitHub趋势榜排名靠前（趋势分82.15），单日新增1090星，总星数29660，语言为Java，由多位贡献者维护。项目描述明确为“AWS Local Emulator alternative”。"
+        "what_happened": "英伟达在GitHub上开源了Auto Ontology项目，这是一个用于构建语义、基于图的推理层的Python框架，旨在提升LLM和智能体工作流的确定性查询生成、上下文检索和可解释性。",
+        "core_details": "Auto Ontology是一个Python框架，专注于为数据构建基于图的语义推理层。它支持确定性查询生成，改善上下文检索，并增强AI工作流的可解释性，特别适用于大型语言模型和智能体应用。项目由英伟达团队开发，当前在GitHub上获得显著关注，今日新增2679颗星，总星数达7440。",
+        "ai_take": "该项目通过引入图结构和语义推理，有望解决LLM在复杂任务中常见的幻觉和不可控问题，提升智能体系统的可靠性和透明度，是AI工程化的重要工具。",
+        "hype_check": "高热度，反映社区对提升AI可解释性和确定性的强烈需求，但实际效果需经生产环境验证。",
+        "value_check": "高价值，直接针对当前AI应用中的痛点，如查询准确性和上下文管理，具有明确的工程应用前景。",
+        "follow_up": "关注其在具体LLM或智能体项目中的集成案例，以及性能基准测试结果。",
+        "evidence": "GitHub趋势数据：今日新增2679星，总星7440，语言为Python，由英伟达官方发布。项目描述强调其用于构建语义图推理层，以改善LLM和智能体工作流。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "The-PR-Agent/pr-agent",
-        "content_summary": "这是一个开源的代码审查AI代理工具，用于自动审查Pull Request。项目强调其是“原始”的开源PR审查者，并澄清其并非Qodo的免费版本。项目使用Python语言开发，今日新增280颗星，总星数已达14789。",
-        "ai_comment": "开源AI代码审查工具持续受到关注，表明开发者对自动化代码质量保障的需求旺盛。"
+        "item_name": "mattpocock/skills",
+        "content_summary": "该项目名为“Skills for Real Engineers”，是一个来自开发者个人 .agents 目录的技能集合。它是一个 Shell 语言项目，今日获得 2071 颗星，总星数达 315311。",
+        "ai_comment": "这是一个面向工程师的实用技能工具集，高星数表明其在开发者社区中受到广泛关注和认可。"
       },
       {
         "source_group": "github_trending",
         "item_name": "vercel-labs/agent-desktop",
-        "content_summary": "这是一个为AI代理设计的计算机使用命令行界面（CLI）工具，使用Rust语言编写。项目今日获得大量关注，新增2470颗星，总星数达到15221。",
-        "ai_comment": "AI代理的桌面级交互工具热度飙升，反映出AI应用正从云端向本地、从抽象API向具体人机交互界面演进。"
+        "content_summary": "这是一个用 Rust 语言编写的“计算机使用 CLI（命令行界面）”，专为 AI 智能体设计。项目今日获得 2173 颗星，总星数为 16940。",
+        "ai_comment": "Vercel Labs 推出的工具，旨在为 AI 智能体提供桌面环境下的命令行操作能力，是 AI 与系统交互基础设施的一部分。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "mattpocock/skills",
-        "content_summary": "这是一个包含“真实工程师技能”的仓库，内容直接来自作者的`.agents`目录，使用Shell脚本语言。项目非常受欢迎，今日新增1379颗星，总星数已超过31万。",
-        "ai_comment": "分享AI代理技能配置的仓库获得极高关注，表明社区对实用、可复用的AI工作流和技能集有强烈需求。"
+        "item_name": "vercel-labs/agent-browser",
+        "content_summary": "这是一个用 Rust 语言编写的浏览器自动化 CLI 工具，同样专为 AI 智能体设计。项目今日获得 150 颗星，总星数高达 45930。",
+        "ai_comment": "作为 AI 智能体进行网页自动化操作的工具，高总星数表明其在该领域已建立重要地位和影响力。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "The State of Python Profiling in 2026",
-        "content_summary": "文章回顾了2026年Python性能分析（Profiling）领域的现状。主要变化包括：CPython 3.14为外部工具提供了官方接口来检查运行中的解释器和asyncio任务图；CPython 3.15在标准库中内置了采样分析器；无锁线程（free-threading）构建已从实验阶段进入实际部署；此外，编码代理（AI）已开始阅读分析报告。文章还比较了Tachyon、py-spy、Scalene和Austin等工具，并介绍了Austin 4.1的新特性。",
-        "ai_comment": "Python性能分析工具正在官方化和智能化，AI编码代理开始利用性能数据，这标志着开发工具链与AI的深度融合。"
+        "item_name": "NASA telescope is predicted to come crashing down after failed rescue mission",
+        "content_summary": "该话题讨论 NASA 已有 22 年历史的 Swift 卫星望远镜在轨道失效后坠毁。Hacker News 上的评论指出，该事件实际已发生（“昨天已烧毁”），并链接了相关讨论帖。",
+        "ai_comment": "这反映了对旧有太空设备寿命终结及再入大气层事件的关注，社区讨论及时纠正了信息时效性。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-        "content_summary": "谷歌宣布，对于K-12（中小学）学生账户，将默认关闭Gemini、Gemini Notebook、Gemini in Classroom和谷歌搜索的访问权限，除非学校管理员明确开启。谷歌教育副总裁确认，如果学校选择保持AI工具关闭，学生也将无法使用谷歌搜索。谷歌将此变更描述为让“学校应能控制其课堂中的AI”，并表示这是听取了学校、教师和研究人员的意见后做出的调整。",
-        "ai_comment": "谷歌将AI工具与核心搜索服务捆绑，对教育机构施加了事实上的压力，引发了关于科技公司对教育环境控制力的伦理讨论。"
+        "item_name": "Ancient warriors got high on cannabis, burial mound reveals",
+        "content_summary": "考古发现证实，古代斯基泰战士曾使用大麻。这一发现为古希腊历史学家希罗多德的相关记载提供了证据，他曾描述斯基泰人因此发出欢叫。",
+        "ai_comment": "将考古发现与历史文献相互印证，揭示了古代文明中精神活性物质的使用情况，具有文化和历史研究价值。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: autorun-audit – find what runs when you open, CD into or install a repo",
-        "content_summary": "这是一个安全审计工具，用于检测在打开仓库、进入目录、安装项目、启动AI代理或运行Python时自动执行的代码。它可以列出VS Code任务、AI代理钩子、MCP、开发容器配置文件以及Python的.pth/.start启动文件等，并标记出看起来像恶意负载的条目。作者指出，攻击者已从依赖项转向利用工具自动执行的文件。",
-        "ai_comment": "随着AI代理等自动化工具在开发流程中普及，新的安全攻击面出现，此工具回应了针对“自动运行”代码的审计需求。"
+        "item_name": "Regulators approve generic HIV-prevention drug for low-income countries",
+        "content_summary": "监管机构已批准一种用于低收入国家的通用 HIV 预防药物。具体内容未在摘要中展开。",
+        "ai_comment": "这是全球公共卫生领域的重要进展，旨在通过降低药物成本，扩大在资源有限地区的艾滋病暴露前预防（PrEP）可及性。"
       },
       {
         "source_group": "news",
-        "item_name": "2026 Midterm Elections Live Updates: Democrats Vow to Check Trump After Winning Congress - The New York Times",
-        "content_summary": "《纽约时报》等媒体报道了2026年美国中期选举结果。民主党在国会选举中取得压倒性胜利，赢得了参众两院的控制权。民主党誓言将在掌控国会后对特朗普进行制衡。相关报道分析了此次“民主党海啸”的规模前所未有，并探讨了共和党惨败的原因以及民主党能否兑现其承诺。",
-        "ai_comment": "美国政治格局发生重大变化，民主党全面掌控国会可能对未来政策、科技监管及与科技巨头的关系产生深远影响。"
+        "item_name": "2026 Midterm Election Live Updates: Democrats Clear 250 House Seats; Mississippi and Alaska Results News - The New York Times",
+        "content_summary": "《纽约时报》等媒体聚焦 2026 年美国中期选举实时结果。民主党已赢得超过 250 个众议院席位，这是自 2008 年以来最大的众议院多数优势。报道同时关注密西西比州和阿拉斯加州的选情，并分析了共和党惨败的五个原因。",
+        "ai_comment": "此报道描绘了一次对美国政治格局产生重大影响的选举结果，民主党取得了压倒性胜利。"
       },
       {
         "source_group": "news",
-        "item_name": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump - Financial Times",
-        "content_summary": "《金融时报》等媒体报道，在特朗普及其支持的候选人在中期选举中遭遇重挫后，默多克的媒体帝国（如福克斯新闻）对特朗普的态度明显降温。报道引用观点称“鲁珀特（默多克）不想和失败者站在一起”。分析指出，此次中期选举的惨败可能打乱了共和党2028年的总统竞选布局。",
-        "ai_comment": "关键媒体势力的转向可能进一步削弱特朗普的政治影响力，标志着美国政治权力与媒体叙事关系的又一次调整。"
+        "item_name": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith - CNBC",
+        "content_summary": "CNBC 等媒体报道了密西西比州参议院选举的激烈战况。民主党候选人斯科特·科洛姆以微弱优势领先现任共和党参议员辛迪·海德-史密斯。由于选情胶着，正进行选票仔细审查，拉斐特县的宣誓选票以 69%-29% 的比例支持科洛姆，远超其整体领先幅度。共和党方面提出选举舞弊指控，科洛姆竞选团队则指责对方试图侵犯选民权利，法律战已打响。",
+        "ai_comment": "这反映了美国关键州份选举的高度竞争性及随之而来的法律与政治争议，是观察美国选举政治运作的典型案例。"
       },
       {
         "source_group": "news",
-        "item_name": "Elon Musk will face scrutiny from Democrats after midterms - NPR",
-        "content_summary": "美国国家公共电台（NPR）等媒体报道，在民主党赢得中期选举掌控国会后，埃隆·马斯克及其企业（如SpaceX、特斯拉）将面临更严格的审查。报道指出，马斯克曾投入巨资支持德州等地的共和党候选人，但这些候选人大多落败。随着民主党掌权，马斯克移居德州以“逃避民主党”的策略可能失效，其商业和政治活动预计将受到更多关注。相关报道提及SpaceX和特斯拉股价因此下跌。",
-        "ai_comment": "科技巨头领袖的政治押注与商业运营的关联性凸显，政治格局变动可能直接转化为对特定科技企业及其领导人的监管压力。"
+        "item_name": "These are the races in the House and Senate that haven't been called yet - NPR",
+        "content_summary": "NPR 等媒体列出了尚未得出最终结果的众议院和参议院竞选。在民主党取得横扫性胜利后，阿拉斯加、密西西比和堪萨斯等州的计票工作仍在继续。报道提及了包括博伯特竞选、亿万富翁税等在内的其他值得关注的中期选举议题。",
+        "ai_comment": "报道提供了选举结果最终确认前的全景图，突出了剩余悬念选区及其可能对政策走向产生的影响。"
       }
     ],
-    "closing_note": "今日热点集中体现了AI开源生态的活力：工具层正朝着更智能、更集成、更实用的方向发展。从代码审查到系统操作，从记忆管理到流程规范，开发者社区正在快速构建下一代AI增强型工作流的基础设施。然而，在关注技术热度的同时，也需冷静评估项目的实际成熟度、集成成本与长期价值。建议开发者结合自身需求，选择性探索这些工具，并关注其在实际生产环境中的落地反馈。明日简报将继续追踪AI领域的最新动态。",
+    "closing_note": "今日趋势凸显了AI工程化与工具化的明确方向：从底层交互、确定性推理到模块化技能与高效开发环境，开源社区正系统性地为AI智能体构建基础设施。关注这些项目的实际集成案例与性能基准，将有助于判断其长期价值。",
     "_errors": []
   }
 }
