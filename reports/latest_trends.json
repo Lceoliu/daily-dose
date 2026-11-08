@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:35:58.485914+00:00",
+  "generated_at": "2026-11-08T01:04:48.082694+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,28 +11,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "react/react",
-        "url": "https://github.com/react/react",
-        "author": "react",
-        "summary": "The library for web and native user interfaces.",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "JavaScript",
-        "score": 248,
-        "comment_count": 51811,
-        "total_stars": 252261,
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "author": "mattpocock",
+        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "Shell",
+        "score": 1100,
+        "comment_count": 26580,
+        "total_stars": 317720,
         "built_by": [
-          "sebmarkbage",
-          "zpao",
-          "gaearon",
-          "acdlite",
-          "sophiebits"
+          "mattpocock",
+          "claude",
+          "github-actions",
+          "gabimoncha"
         ],
-        "content_context": "The library for web and native user interfaces.\n\nLanguage: JavaScript\n\nStars today: 248\n\nTotal stars: 252261\n\nBuilt by: sebmarkbage, zpao, gaearon, acdlite, sophiebits",
-        "trend_score": 86.83,
+        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1100\n\nTotal stars: 317720\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+        "trend_score": 97.7,
         "trend_breakdown": {
           "freshness": 1.0,
           "engagement": 1.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -43,155 +42,153 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "zed-industries/zed",
-        "url": "https://github.com/zed-industries/zed",
-        "author": "zed-industries",
-        "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "Rust",
-        "score": 306,
-        "comment_count": 11499,
-        "total_stars": 93652,
-        "built_by": [
-          "as-cii",
-          "maxbrunsfeld",
-          "maxdeviant",
-          "nathansobo",
-          "ConradIrwin"
-        ],
-        "content_context": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\n\nLanguage: Rust\n\nStars today: 306\n\nTotal stars: 93652\n\nBuilt by: as-cii, maxbrunsfeld, maxdeviant, nathansobo, ConradIrwin",
-        "trend_score": 84.17,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.93,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "angular/angular",
-        "url": "https://github.com/angular/angular",
-        "author": "angular",
-        "summary": "Deliver web apps with confidence 🚀",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "TypeScript",
-        "score": 135,
-        "comment_count": 28911,
-        "total_stars": 101367,
-        "built_by": [
-          "gkalpak",
-          "petebacondarwin",
-          "crisbeto",
-          "angular-robot",
-          "devversion"
-        ],
-        "content_context": "Deliver web apps with confidence 🚀\n\nLanguage: TypeScript\n\nStars today: 135\n\nTotal stars: 101367\n\nBuilt by: gkalpak, petebacondarwin, crisbeto, angular-robot, devversion",
-        "trend_score": 83.97,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.925,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "rust-lang/rust",
-        "url": "https://github.com/rust-lang/rust",
-        "author": "rust-lang",
-        "summary": "Empowering everyone to build reliable and efficient software.",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "Rust",
-        "score": 192,
-        "comment_count": 17364,
-        "total_stars": 121460,
-        "built_by": [
-          "bors",
-          "matthiaskrgr",
-          "RalfJung",
-          "GuillaumeGomez",
-          "matklad"
-        ],
-        "content_context": "Empowering everyone to build reliable and efficient software.\n\nLanguage: Rust\n\nStars today: 192\n\nTotal stars: 121460\n\nBuilt by: bors, matthiaskrgr, RalfJung, GuillaumeGomez, matklad",
-        "trend_score": 83.81,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.92,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "rails/rails",
-        "url": "https://github.com/rails/rails",
-        "author": "rails",
-        "summary": "Ruby on Rails",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "Ruby",
-        "score": 142,
-        "comment_count": 23832,
-        "total_stars": 59032,
-        "built_by": [
-          "rafaelfranca",
-          "kamipo",
-          "jeremy",
-          "tenderlove",
-          "byroot"
-        ],
-        "content_context": "Ruby on Rails\n\nLanguage: Ruby\n\nStars today: 142\n\nTotal stars: 59032\n\nBuilt by: rafaelfranca, kamipo, jeremy, tenderlove, byroot",
-        "trend_score": 83.69,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.917,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "NVIDIA/auto-ontology",
-        "url": "https://github.com/NVIDIA/auto-ontology",
-        "author": "NVIDIA",
-        "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
+        "title": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "author": "anthropics",
+        "summary": "Public repository for Agent Skills",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
         "language": "Python",
-        "score": 2015,
-        "comment_count": 730,
-        "total_stars": 9074,
+        "score": 390,
+        "comment_count": 22253,
+        "total_stars": 188791,
         "built_by": [
-          "DinaLaptii",
-          "yuvalshkolar",
-          "liavnave",
-          "liofnv",
-          "tomer-levin-nv"
+          "rlancemartin",
+          "klazuka",
+          "claude",
+          "cj-ant",
+          "ericharmeling"
         ],
-        "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2015\n\nTotal stars: 9074\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
-        "trend_score": 83.31,
+        "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 390\n\nTotal stars: 188791\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+        "trend_score": 94.75,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.907,
+          "engagement": 0.922,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "google/skills",
+        "url": "https://github.com/google/skills",
+        "author": "google",
+        "summary": "Agent Skills for Google products and technologies",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "Python",
+        "score": 443,
+        "comment_count": 1955,
+        "total_stars": 23406,
+        "built_by": [
+          "cloud-ix-copybara",
+          "holtskinner",
+          "martinvarelaj",
+          "helloeve",
+          "wangauone"
+        ],
+        "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 443\n\nTotal stars: 23406\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
+        "trend_score": 90.19,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.802,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "author": "sherlock-project",
+        "summary": "Hunt down social media accounts by username across social networks",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "Python",
+        "score": 1766,
+        "comment_count": 11870,
+        "total_stars": 100486,
+        "built_by": [
+          "sdushantha",
+          "hoadlck",
+          "ppfeister",
+          "TheYahya",
+          "Czechball"
+        ],
+        "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 1766\n\nTotal stars: 100486\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+        "trend_score": 86.41,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.989,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "author": "cloudflare",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "JavaScript",
+        "score": 2085,
+        "comment_count": 4269,
+        "total_stars": 65743,
+        "built_by": [
+          "literally-dan",
+          "CooperSheroy",
+          "kennysarnoski-jarvis"
+        ],
+        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2085\n\nTotal stars: 65743\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+        "trend_score": 84.78,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.946,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "milind-soni/OpenMausBot",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "author": "milind-soni",
+        "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "TypeScript",
+        "score": 1955,
+        "comment_count": 2407,
+        "total_stars": 16990,
+        "built_by": [
+          "milind-soni",
+          "claude",
+          "aivsomkar",
+          "robinsonnblack",
+          "bradhallett"
+        ],
+        "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1955\n\nTotal stars: 16990\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+        "trend_score": 83.47,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.911,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -207,11 +204,11 @@
         "url": "https://github.com/prometheus/prometheus",
         "author": "prometheus",
         "summary": "The Prometheus monitoring system and time series database.",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
         "language": "Go",
-        "score": 148,
-        "comment_count": 10988,
-        "total_stars": 67192,
+        "score": 322,
+        "comment_count": 11003,
+        "total_stars": 67449,
         "built_by": [
           "fabxc",
           "juliusv",
@@ -219,11 +216,11 @@
           "bboreham",
           "dependabot"
         ],
-        "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 148\n\nTotal stars: 67192\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
-        "trend_score": 82.14,
+        "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 322\n\nTotal stars: 67449\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
+        "trend_score": 82.0,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.876,
+          "engagement": 0.873,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -235,27 +232,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "google/skills",
-        "url": "https://github.com/google/skills",
-        "author": "google",
-        "summary": "Agent Skills for Google products and technologies",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "Python",
-        "score": 534,
-        "comment_count": 1921,
-        "total_stars": 22848,
+        "title": "astral-sh/ruff",
+        "url": "https://github.com/astral-sh/ruff",
+        "author": "astral-sh",
+        "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "Rust",
+        "score": 350,
+        "comment_count": 2631,
+        "total_stars": 50979,
         "built_by": [
-          "cloud-ix-copybara",
-          "holtskinner",
-          "martinvarelaj",
-          "helloeve",
-          "wangauone"
+          "charliermarsh",
+          "MichaReiser",
+          "AlexWaygood",
+          "renovate",
+          "sharkdp"
         ],
-        "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 534\n\nTotal stars: 22848\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
-        "trend_score": 81.83,
+        "content_context": "An extremely fast Python linter and code formatter, written in Rust.\n\nLanguage: Rust\n\nStars today: 350\n\nTotal stars: 50979\n\nBuilt by: charliermarsh, MichaReiser, AlexWaygood, renovate, sharkdp",
+        "trend_score": 79.34,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.868,
+          "engagement": 0.802,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -267,27 +264,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "symfony/symfony",
-        "url": "https://github.com/symfony/symfony",
-        "author": "symfony",
-        "summary": "The Symfony PHP framework",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "PHP",
-        "score": 128,
-        "comment_count": 9948,
-        "total_stars": 31436,
+        "title": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "author": "vercel-labs",
+        "summary": "Browser automation CLI for AI agents",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "Rust",
+        "score": 190,
+        "comment_count": 3209,
+        "total_stars": 46833,
         "built_by": [
-          "fabpot",
-          "nicolas-grekas",
-          "xabbuh",
-          "derrabus",
-          "chalasr"
+          "ctate",
+          "Railly",
+          "github-actions",
+          "lahfir",
+          "claude"
         ],
-        "content_context": "The Symfony PHP framework\n\nLanguage: PHP\n\nStars today: 128\n\nTotal stars: 31436\n\nBuilt by: fabpot, nicolas-grekas, xabbuh, derrabus, chalasr",
-        "trend_score": 81.54,
+        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 190\n\nTotal stars: 46833\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+        "trend_score": 78.21,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.861,
+          "engagement": 0.773,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -299,27 +296,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "mpv-player/mpv",
-        "url": "https://github.com/mpv-player/mpv",
-        "author": "mpv-player",
-        "summary": "🎥 Command line media player",
-        "published_at": "2026-11-07T01:35:35.096801+00:00",
-        "language": "C",
-        "score": 37,
-        "comment_count": 3632,
-        "total_stars": 37884,
+        "title": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "author": "meta",
+        "summary": "An open source design system that's fully customizable and agent ready",
+        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "language": "TypeScript",
+        "score": 96,
+        "comment_count": 1188,
+        "total_stars": 14534,
         "built_by": [
-          "kasper93",
-          "Dudemanguy",
-          "guidocella",
-          "haasn",
-          "pigoz"
+          "github-actions",
+          "cixzhang",
+          "rubyycheung",
+          "josephfarina",
+          "vjeux"
         ],
-        "content_context": "🎥 Command line media player\n\nLanguage: C\n\nStars today: 37\n\nTotal stars: 37884\n\nBuilt by: kasper93, Dudemanguy, guidocella, haasn, pigoz",
-        "trend_score": 76.12,
+        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 96\n\nTotal stars: 14534\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+        "trend_score": 74.52,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.718,
+          "engagement": 0.676,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -334,26 +331,23 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "When Alexa can't answer, Claude takes over",
-        "url": "https://github.com/rg321/hey-claude",
-        "author": "mparnisari",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-07T01:29:23+00:00",
-        "summary": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://github.com/rg321/hey-claude",
-          "page_title": "GitHub - rg321/hey-claude: When Alexa can't answer, Claude takes over. AI home assistant powered by Claude.",
-          "page_description": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude",
-          "page_excerpt": "🪔 \"navratri shuru ho rahe hain, mujhe iska matlab batao\" — Alexa had no clue. Claude explained the festival.\n\n📹 \"mummy ke tv pe cctv chalaa do, pahle usko on kar lena\" — Woke up TV, started camera stream, cast it. All in one go.\n\n📺 \"tv pe netflix chalaao aur koee badhiya movie play karo\" — Powered on TV, launched Netflix, and confirmed."
-        },
-        "content_context": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude\n\n🪔 \"navratri shuru ho rahe hain, mujhe iska matlab batao\" — Alexa had no clue. Claude explained the festival. 📹 \"mummy ke tv pe cctv chalaa do, pahle usko on kar lena\" — Woke up TV, started camera stream, cast it. All in one go. 📺 \"tv pe netflix chalaao aur koee badhiya movie play karo\" — Powered on TV, launched Netflix, and confirmed.",
-        "trend_score": 53.99,
+        "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+        "url": "https://news.ycombinator.com/item?id=50409433",
+        "author": "ksniwmidjd",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-08T00:36:31+00:00",
+        "summary": "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
+        "comment_highlights": [
+          "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory."
+        ],
+        "linked_context": {},
+        "content_context": "Why not give customers a binary they can run on their own Mac?\n\nHN comment: Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
+        "trend_score": 52.57,
         "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.077,
-          "topic_overlap": 0.167,
+          "freshness": 0.98,
+          "engagement": 0.082,
+          "topic_overlap": 0.125,
           "source_weight": 0.9,
           "domain_weight": 1.18
         },
@@ -364,57 +358,52 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: CLI calls spend their time starting up. I cut it by 4.5x, same output",
-        "url": "https://github.com/anthonyGosme/speedrunner",
-        "author": "anthonygosme",
+        "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+        "url": "https://news.ycombinator.com/item?id=50409438",
+        "author": "apatheticonion",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:24:51+00:00",
-        "summary": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...",
+        "published_at": "2026-11-08T00:37:05+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": "With the efforts to clamp down on LLM-assisted reverse engineering - I am wondering;<p>If LLM assisted reverse engineering is deemed illegal by the courts, is that precedent for a class action that asserts OSS licenses are violated by labs that trained LLMs on that code?<p>There are two modalities for this;<p>1) LLM being post-trained against a decompiled binary - then used to output working source code.<p>2) LLM being used to analyze decompiled binary and used to output working source code.<p>How can it be \"clean room\" when an LLM is trained on or reads OSS but not clean room when the same is done for decompiled software?",
+        "trend_score": 51.23,
+        "trend_breakdown": {
+          "freshness": 0.981,
+          "engagement": 0.046,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
+        "url": "https://github.com/alexbeeken/skrongle-mini",
+        "author": "skrongle-mini",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-08T00:40:33+00:00",
+        "summary": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
         "comment_highlights": [
-          "[flagged]"
+          "I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text..."
         ],
         "linked_context": {
-          "resolved_url": "https://github.com/anthonyGosme/speedrunner",
-          "page_title": "GitHub - anthonyGosme/speedrunner: Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call. A c...",
-          "page_description": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...",
-          "page_excerpt": "aws, az, gcloud, ansible, black, pytest, rubocop, rspec, composer, artisan, eslint, npm: hundreds of everyday command-line tools are written in Python, Ruby, PHP or Node, and spend most of each call starting the interpreter and loading their code before doing any work. speedrunner does that once, in a daemon, and forks it for every call: often 3 to 10 times faster, with no per-tool setup.\n\nEvery command and option, why a call runs natively, where files live, and how to uninstall: the user guide .\n\nLinux (x86_64 or aarch64, any distribution) and macOS 11 or later (Intel or Apple Silicon): one binary, no root."
+          "resolved_url": "https://github.com/alexbeeken/skrongle-mini",
+          "page_title": "GitHub - alexbeeken/skrongle-mini: Self hosted learning platform with AI features.",
+          "page_description": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
+          "page_excerpt": "A learning app you run yourself, on a Raspberry Pi, for the people at home.\n\nSkrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you.\n\nIt is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare."
         },
-        "content_context": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...\n\naws, az, gcloud, ansible, black, pytest, rubocop, rspec, composer, artisan, eslint, npm: hundreds of everyday command-line tools are written in Python, Ruby, PHP or Node, and spend most of each call starting the interpreter and loading their code before doing any work. speedrunner does that once, in a daemon, and forks it for every call: often 3 to 10 times faster, with no per-tool setup. Every command and option, why a call runs natively, where files live, and how to uninstall: the user guide . Linux (x86_64 or aarch64, any distribution) and macOS 11 or later (Intel or Apple Silicon): one binary, no root.\n\nHN comment: [flagged]",
-        "trend_score": 49.23,
-        "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.049,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-        "url": "https://arxiv.org/abs/2608.20433",
-        "author": "gregsadetsky",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-07T01:11:48+00:00",
-        "summary": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://arxiv.org/abs/2608.20433",
-          "page_title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-          "page_description": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...",
-          "page_excerpt": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs ."
-        },
-        "content_context": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...\n\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
-        "trend_score": 48.8,
+        "content_context": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.\n\nA learning app you run yourself, on a Raspberry Pi, for the people at home. Skrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you. It is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare.\n\nHN comment: I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text...",
+        "trend_score": 50.05,
         "trend_breakdown": {
           "freshness": 0.983,
-          "engagement": 0.049,
+          "engagement": 0.082,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.18
@@ -426,26 +415,26 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-        "url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
-        "author": "alex09x",
-        "score": 2,
+        "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+        "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+        "author": "herbertl",
+        "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:31:19+00:00",
-        "summary": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.",
+        "published_at": "2026-11-08T01:00:16+00:00",
+        "summary": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
-          "page_title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-          "page_description": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.",
-          "page_excerpt": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nTL;DR. Serialized field names can lead you to their offsets. The harder question is which code changes those fields: in a public example, 2,000 decoys write the same offsets as the real function. The real function and the displayed decoys earn the same 40 points for their writes to those fields. The real function gets ten more because it shares a caller, main , with the serializer; the decoys h...\n\nBefore the 0.4.0 release, one xref field query came back with not_found_under_limits : no matching layouts. The response flagged incomplete discovery under its analysis limits, but it gave no way to tell which keys the tool had seen or where it had lost the connection to the fields. That case is recorded in issue 76 ."
+          "resolved_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+          "page_title": "Brown Professor Suspects Most of His Class Used AI to Cheat",
+          "page_description": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
+          "page_excerpt": "In a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person.\n\nFor the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro...\n\nBut by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha..."
         },
-        "content_context": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nA field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions. TL;DR. Serialized field names can lead you to their offsets. The harder question is which code changes those fields: in a public example, 2,000 decoys write the same offsets as the real function. The real function and the displayed decoys earn the same 40 points for their writes to those fields. The real function gets ten more because it shares a caller, main , with the serializer; the decoys h... Before the 0.4.0 release, one xref field query came back with not_found_under_limits : no matching layouts. The response flagged incomplete discovery under its analysis limits, but it gave no way to tell which keys the tool had seen or where it had lost the connection to the fields. That case is recorded in issue 76 .",
-        "trend_score": 47.95,
+        "content_context": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.\n\nIn a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person. For the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro... But by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha...",
+        "trend_score": 44.06,
         "trend_breakdown": {
           "freshness": 0.997,
-          "engagement": 0.077,
-          "topic_overlap": 0.286,
+          "engagement": 0.046,
+          "topic_overlap": 0.125,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -454,83 +443,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "TikTok's For You page needs to change, says the EU",
-        "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-        "author": "TMWNN",
+        "title": "A renowned scientist, a deadly snakebite, and a diary that documented it all",
+        "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+        "author": "areoform",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:26:33+00:00",
-        "summary": "TikTok could face massive fines if it doesn’t change its design.",
+        "published_at": "2026-11-08T00:38:37+00:00",
+        "summary": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-          "page_title": "TikTok’s For You page needs to change, says the EU",
-          "page_description": "TikTok could face massive fines if it doesn’t change its design.",
-          "page_excerpt": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿\n\nPosts from this author will be added to your daily email digest and your homepage feed."
+          "resolved_url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+          "page_title": "The curious story of a renowned Field Museum scientist, a deadly snakebite, and a diary that documented it all",
+          "page_description": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
+          "page_excerpt": "A world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details.\n\nWhat does this sound like? The plot of a comic book? A Netflix serial?\n\nWell, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday."
         },
-        "content_context": "TikTok could face massive fines if it doesn’t change its design.\n\nPosts from this topic will be added to your daily email digest and your homepage feed. The EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿ Posts from this author will be added to your daily email digest and your homepage feed.",
-        "trend_score": 47.77,
+        "content_context": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.\n\nA world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details. What does this sound like? The plot of a comic book? A Netflix serial? Well, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday.",
+        "trend_score": 43.78,
         "trend_breakdown": {
-          "freshness": 0.993,
-          "engagement": 0.049,
-          "topic_overlap": 0.333,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Project Swap: What happens when agents trade for us?",
-        "url": "https://www.anthropic.com/research/project-swap",
-        "author": "gmays",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-07T01:16:59+00:00",
-        "summary": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.anthropic.com/research/project-swap",
-          "page_title": "Project Swap: What happens when agents trade for us?",
-          "page_description": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
-          "page_excerpt": "Life is full of deals and trades that would leave everyone better off, yet never happen. This is often simply because it takes too much work to find the right counterparty and negotiate until a deal is struck. Think of the patient who skips a treatment after one quote they can’t afford, when there’s a different clinic that charges far less, or the hospital that quoted them would have cut its bi...\n\nCould these deals happen in the future if you had an agent working for you around the clock, talking to potential counterparties and working out possible terms?\n\nMaybe—but this future depends on a lot of questions we don’t have answers to yet. If an agent is going to act for you, how do you know it has understood you? Plus, when many agents meet to talk to each other, some marketplace or platform has to write the rules of engagement. Who is allowed in? What happens when a deal falls through?"
-        },
-        "content_context": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.\n\nLife is full of deals and trades that would leave everyone better off, yet never happen. This is often simply because it takes too much work to find the right counterparty and negotiate until a deal is struck. Think of the patient who skips a treatment after one quote they can’t afford, when there’s a different clinic that charges far less, or the hospital that quoted them would have cut its bi... Could these deals happen in the future if you had an agent working for you around the clock, talking to potential counterparties and working out possible terms? Maybe—but this future depends on a lot of questions we don’t have answers to yet. If an agent is going to act for you, how do you know it has understood you? Plus, when many agents meet to talk to each other, some marketplace or platform has to write the rules of engagement. Who is allowed in? What happens when a deal falls through?",
-        "trend_score": 47.31,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.049,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "EU accuses TikTok of trapping users in harmful 'rabbit holes'",
-        "url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
-        "author": "arbuge",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-11-07T01:19:12+00:00",
-        "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
-          "page_title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
-          "page_description": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.",
-          "page_excerpt": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.\n\nThe preliminary findings that TikTok violated the EU’s Digital Services Act (DSA) come amid focus on both sides of the Atlantic on whether and how social media platforms are endangering young users.\n\nEuropean officials said their findings were the first time EU regulators have directly challenged the engagement-based recommendation system of a major social media platform, and, to their knowledge, was the first enforcement action of its kind worldwide."
-        },
-        "content_context": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.\n\nThe European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image. The preliminary findings that TikTok violated the EU’s Digital Services Act (DSA) come amid focus on both sides of the Atlantic on whether and how social media platforms are endangering young users. European officials said their findings were the first time EU regulators have directly challenged the engagement-based recommendation system of a major social media platform, and, to their knowledge, was the first enforcement action of its kind worldwide.",
-        "trend_score": 45.67,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.098,
+          "freshness": 0.982,
+          "engagement": 0.046,
           "topic_overlap": 0.143,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -540,20 +471,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "The School Apps Are Out of Control",
-        "url": "https://www.theatlantic.com/family/2026/11/school-apps-communication-broken/689312/",
-        "author": "paulpauper",
+        "title": "MVP Was a Hack: The boundary moves from product to customer",
+        "url": "https://research.oguzbilgic.com/theses/maximum-viable-product?update=11",
+        "author": "obilgic",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:33:36+00:00",
-        "summary": null,
+        "published_at": "2026-11-08T00:58:01+00:00",
+        "summary": "The MVP was a hack around a constraint that no longer exists.",
         "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 41.97,
+        "linked_context": {
+          "resolved_url": "https://research.oguzbilgic.com/theses/maximum-viable-product?update=11",
+          "page_title": "The MVP Was a Hack Around a Constraint That No Longer Exists — Research",
+          "page_description": "The MVP was a hack around a constraint that no longer exists.",
+          "page_excerpt": null
+        },
+        "content_context": "The MVP was a hack around a constraint that no longer exists.",
+        "trend_score": 41.75,
         "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.049,
+          "freshness": 0.995,
+          "engagement": 0.046,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -563,20 +499,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
-        "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
-        "author": "paulpauper",
+        "title": "The Power of Sync",
+        "url": "https://seths.blog/2026/11/the-power-of-sync-2/",
+        "author": "herbertl",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:32:08+00:00",
-        "summary": null,
+        "published_at": "2026-11-08T00:57:50+00:00",
+        "summary": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…",
         "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 41.93,
+        "linked_context": {
+          "resolved_url": "https://seths.blog/2026/11/the-power-of-sync-2/",
+          "page_title": "The power of sync",
+          "page_description": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…",
+          "page_excerpt": "Have you thought about subscribing? It's free. seths.blog/subscribe\n\nThere’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead:\n\nSynchronized work happens together, on a shared schedule, in real time."
+        },
+        "content_context": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…\n\nHave you thought about subscribing? It's free. seths.blog/subscribe There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Synchronized work happens together, on a shared schedule, in real time.",
+        "trend_score": 41.74,
         "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.049,
+          "freshness": 0.995,
+          "engagement": 0.046,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -586,20 +527,81 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "South Africa's Shrinking ANC",
-        "url": "https://unpublishablepapers.substack.com/p/kill-yourself-or-die-trying",
-        "author": "paulpauper",
+        "title": "Show HN: Calibron 12 Puzzle/Solver",
+        "url": "https://dawnofthe.dad/calibron",
+        "author": "userundefined",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-07T01:31:23+00:00",
-        "summary": null,
+        "published_at": "2026-11-08T00:57:11+00:00",
+        "summary": "Interactive Calibron 12 puzzle and CSP solver",
         "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 41.91,
+        "linked_context": {
+          "resolved_url": "https://dawnofthe.dad/calibron",
+          "page_title": "Calibron 12 Solver",
+          "page_description": "Interactive Calibron 12 puzzle and CSP solver",
+          "page_excerpt": "Welcome to the interactive Calibron 12 puzzle (invented by Theodore Edison in 1933)! Your goal is to pack all 12 rectangular blocks into the 56×56 board with zero wasted space.\n\nHow to play: Click (or drag) any piece from the tray onto the board to place it into the next open Top-Left Corner (marked with a highlighted pink dot on the board). Right-click (or long-press on mobile) any piece in the tray to flip its orientation by 90° before placing, or click a placed piece on the board to undo back to that step. Once you have placed at least 4 pieces , the \"Check\" button...\n\nAnimate solve attempt renders the solver's intermediate piece placements and backtracks on the board while checking your progress (which may give away the solution as pieces are placed), returning to your placed pieces once finished. When Fast execution is enabled (available when animating), the solver runs un-throttled on the backend. Leaving it off steps through the search at a slower pace so..."
+        },
+        "content_context": "I learned about this surprisingly hard puzzle from the curiosity box a while back, and decided to throw together a solver and UI around it, using the generic solver I've built up earlier in golang. This is the result.<p>Stack: golang for solver and webserver, websocket for passing solving progress (see options to toggle that), the usual suspects (HTML/JS/CSS) for the frontend.\n\nInteractive Calibron 12 puzzle and CSP solver\n\nWelcome to the interactive Calibron 12 puzzle (invented by Theodore Edison in 1933)! Your goal is to pack all 12 rectangular blocks into the 56×56 board with zero wasted space. How to play: Click (or drag) any piece from the tray onto the board to place it into the next open Top-Left Corner (marked with a highlighted pink dot on the board). Right-click (or long-press on mobile) any piece in the tray to flip its orientation by 90° before placing, or click a placed piece on the board to undo back to that step. Once you have placed at least 4 pieces , the \"Check\" button... Animate solve attempt renders the solver's intermediate piece placements and backtracks on the board while checking your progress (which may give away the solution as pieces are placed), returning to your placed pieces once finished. When Fast execution is enabled (available when animating), the solver runs un-throttled on the backend. Leaving it off steps through the search at a slower pace so...",
+        "trend_score": 41.73,
         "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.049,
+          "freshness": 0.995,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Tempest Prognosticator",
+        "url": "https://en.wikipedia.org/wiki/Tempest_prognosticator",
+        "author": "thunderbong",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-08T00:45:21+00:00",
+        "summary": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi...\n\nDr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo...\n\nOn 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://en.wikipedia.org/wiki/Tempest_prognosticator",
+          "page_title": "Tempest prognosticator - Wikipedia",
+          "page_description": null,
+          "page_excerpt": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi...\n\nDr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo...\n\nOn 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition..."
+        },
+        "content_context": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi... Dr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo... On 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition...",
+        "trend_score": 41.39,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Can AI help connect knowledge across 135 academic domains?",
+        "url": "https://zenodo.org/records/23686384",
+        "author": "pinuslongaeva",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-08T00:39:00+00:00",
+        "summary": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://zenodo.org/records/23686384",
+          "page_title": "UKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint",
+          "page_description": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...",
+          "page_excerpt": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analyti...\n\nThe conversation tree holds 1,788 message nodes. The final branch contains 742 user turns and 746 model turns, about 559,000 words, 52 model-initiated web searches, and 15 image uploads; a further 296 nodes sit on edited or regenerated branches and are preserved in the JSON. User turns are short (median 8 words); the model produced roughly 97 percent of the text.\n\nThis archive documents a sustained, self-directed intellectual investigation in which I used artificial intelligence as an external analytical environment. Through recursive questioning, historical comparisons, interdisciplinary..."
+        },
+        "content_context": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...\n\nThis deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analyti... The conversation tree holds 1,788 message nodes. The final branch contains 742 user turns and 746 model turns, about 559,000 words, 52 model-initiated web searches, and 15 image uploads; a further 296 nodes sit on edited or regenerated branches and are preserved in the JSON. User turns are short (median 8 words); the model produced roughly 97 percent of the text. This archive documents a sustained, self-directed intellectual investigation in which I used artificial intelligence as an external analytical environment. Through recursive questioning, historical comparisons, interdisciplinary...",
+        "trend_score": 41.22,
+        "trend_breakdown": {
+          "freshness": 0.982,
+          "engagement": 0.046,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -609,25 +611,25 @@
     ],
     "news": [
       {
-        "source": "AP News",
+        "source": "Reuters",
         "category": "news",
-        "title": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
-        "published_at": "2026-11-06T21:24:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ousted Paraguayan president placed under house arrest after bank collapse；Paraguay president impeached following bank collapse scandal；Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in。",
+        "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+        "published_at": "2026-11-07T22:57:43+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Poland in shock after six die in Krakow mass shooting；Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded；Six dead after gunman opens fire in Polish city of Krakow。",
         "related_headlines": [
-          "Ousted Paraguayan president placed under house arrest after bank collapse",
-          "Paraguay president impeached following bank collapse scandal",
-          "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-          "Paraguay’s President Removed and Arrested Over Financial Crisis",
-          "Paraguay's President Santiago Peña impeached and arrested"
+          "Poland in shock after six die in Krakow mass shooting",
+          "Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded",
+          "Six dead after gunman opens fire in Polish city of Krakow",
+          "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
+          "Shooter kills at least 6 in Kraków, Poland"
         ],
-        "content_context": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ousted Paraguayan president placed under house arrest after bank collapse；Paraguay president impeached following bank collapse scandal；Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in。\n\nRelated coverage: Ousted Paraguayan president placed under house arrest after bank collapse\n\nRelated coverage: Paraguay president impeached following bank collapse scandal\n\nRelated coverage: Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in\n\nRelated coverage: Paraguay’s President Removed and Arrested Over Financial Crisis\n\nRelated coverage: Paraguay's President Santiago Peña impeached and arrested",
-        "trend_score": 38.83,
+        "content_context": "Poland in shock after six die in Krakow mass shooting - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Poland in shock after six die in Krakow mass shooting；Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded；Six dead after gunman opens fire in Polish city of Krakow。\n\nRelated coverage: Poland in shock after six die in Krakow mass shooting\n\nRelated coverage: Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded\n\nRelated coverage: Six dead after gunman opens fire in Polish city of Krakow\n\nRelated coverage: Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home\n\nRelated coverage: Shooter kills at least 6 in Kraków, Poland",
+        "trend_score": 39.44,
         "trend_breakdown": {
-          "freshness": 0.825,
+          "freshness": 0.912,
           "engagement": 0.0,
-          "topic_overlap": 0.273,
+          "topic_overlap": 0.111,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -636,117 +638,23 @@
         ]
       },
       {
-        "source": "The Guardian",
+        "source": "WRAL",
         "category": "news",
-        "title": "Man in custody after being found in vehicle near White House with guns - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamJrOG9vbDRYc0hPc0V5TlJpeHdKNk1oVG5ncDBUakpjSWYtNVlLVTJzMEl5S0NkX1EzTDJhbzNYTWNFT2FOMDd1TXdKcUtIeXVpS1Y4ZmUtZXd0emE5TklYSmtiTFpfZkpya2VmVndBNl9ndXpKYnpjN2VwM1lSUW1GYTVieWpIekVz?oc=5",
-        "published_at": "2026-11-07T00:31:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Man in custody after being found in vehicle near White House with guns；See more headlines & perspectives on Google News。",
+        "title": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1hjd3ZZUGdscm1kcm4zVC1xUnlIVVJXSHdkQlFSSDJuQ1hJd1ZSbjNNX19YYk5OTGhPd3NLR3FjeDNCYXhxMC1kTHIwS0FSNzRlWUlZdm1teGJ6OW5XZExKcFl1bUpwVjgtRzdMdGhZS2JxTEFKM0haNGluUGdEMUNmNm83Zw?oc=5",
+        "published_at": "2026-11-07T22:55:51+00:00",
+        "summary": "WRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run；Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County；1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.。",
         "related_headlines": [
-          "Man in custody after being found in vehicle near White House with guns",
-          "See more headlines & perspectives on Google News"
+          "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run",
+          "Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County",
+          "1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.",
+          "1 dead, 20 other Wake County bicyclists injured in vehicle crash near Holly Springs: Fire officials",
+          "1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say"
         ],
-        "content_context": "Man in custody after being found in vehicle near White House with guns - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Man in custody after being found in vehicle near White House with guns；See more headlines & perspectives on Google News。\n\nRelated coverage: Man in custody after being found in vehicle near White House with guns\n\nRelated coverage: See more headlines & perspectives on Google News",
-        "trend_score": 37.28,
+        "content_context": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL\n\nWRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run；Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County；1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.。\n\nRelated coverage: Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run\n\nRelated coverage: Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County\n\nRelated coverage: 1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.\n\nRelated coverage: 1 dead, 20 other Wake County bicyclists injured in vehicle crash near Holly Springs: Fire officials\n\nRelated coverage: 1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say",
+        "trend_score": 33.84,
         "trend_breakdown": {
-          "freshness": 0.955,
-          "engagement": 0.0,
-          "topic_overlap": 0.182,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEN2dELWxjN3pQTmVlRlFNek1wcFRyZ2dkaTgxeFV2Yl9NMjdibWdGdk84TXBGTkJ6TEhyUUhiM2VFOEY2dkRNXzluc183Mm0xWXJ3dGQzVjFPcmp0YnFpalh3VjExM05fbktFUGo4TllrcDRuMXF6N0JCVHJ2Um8?oc=5",
-        "published_at": "2026-11-06T21:27:47+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections；Opinion | Time’s Up, Hegseth；Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames。",
-        "related_headlines": [
-          "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
-          "Opinion | Time’s Up, Hegseth",
-          "Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames",
-          "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
-          "Trump ally declines to back Hegseth when asked whether he should be replaced"
-        ],
-        "content_context": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections；Opinion | Time’s Up, Hegseth；Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames。\n\nRelated coverage: Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections\n\nRelated coverage: Opinion | Time’s Up, Hegseth\n\nRelated coverage: Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames\n\nRelated coverage: 'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment\n\nRelated coverage: Trump ally declines to back Hegseth when asked whether he should be replaced",
-        "trend_score": 36.46,
-        "trend_breakdown": {
-          "freshness": 0.828,
-          "engagement": 0.0,
-          "topic_overlap": 0.417,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHkzTUxlTnVPUHlDVWMxZ2ozeWliM2NLNVAwMXBFTGFrMGNJRHUyaGhPb0lHQ0lPMUd1RXB3N1Q0WTlVVFZWOWt3OGxmZ3NMT0ZreDZMMkhqaGsyaFZPM1NvT3dpOU5wM3YtQ3hHYTVkeks4eHo2SEtvZnc4emlxUmpPdXE5OGZ2M25qSHpNXzViZGg3ak1HTmN5ZXBKaGRkZWo1aUttUGNmWEpXeU1ZYkhaQlRGMktPTHc?oc=5",
-        "published_at": "2026-11-06T22:37:00+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say；See more headlines & perspectives on Google News。",
-        "related_headlines": [
-          "ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say",
-          "See more headlines & perspectives on Google News"
-        ],
-        "content_context": "ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say；See more headlines & perspectives on Google News。\n\nRelated coverage: ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say\n\nRelated coverage: See more headlines & perspectives on Google News",
-        "trend_score": 36.1,
-        "trend_breakdown": {
-          "freshness": 0.876,
-          "engagement": 0.0,
-          "topic_overlap": 0.286,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "NBC News",
-        "category": "news",
-        "title": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWlUZUk0N2lPSzFqNnlCZUYzQVhVWEJueXk5a29yaDhkVXp6R0xsX2xJamFhTjhyNEprTkdLQjNDeE5XVFRzMG1wTTkzOGtiNmhTVEZFTzZzTy1NcU4tQ0dqSG4xc1FiU3pLMDd5QndNM1pYejcxZ00ycUVwbVBLOEloSWdNdjI1MDNra2VEdTA0WU9keHpEOUNfMFpUMm8xa1B2ajBCM0VpYlFrYy1KZWotbXY0bXM?oc=5",
-        "published_at": "2026-11-06T22:10:42+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump names Stephen Miller his new chief of staff, replacing Susie Wiles；Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration；Trump's move from Wiles to Miller signals major tactical shift for governing without Congress。",
-        "related_headlines": [
-          "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles",
-          "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
-          "Trump's move from Wiles to Miller signals major tactical shift for governing without Congress",
-          "Stephen Miller’s promotion angers industries reeling from immigration enforcement",
-          "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration"
-        ],
-        "content_context": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump names Stephen Miller his new chief of staff, replacing Susie Wiles；Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration；Trump's move from Wiles to Miller signals major tactical shift for governing without Congress。\n\nRelated coverage: Trump names Stephen Miller his new chief of staff, replacing Susie Wiles\n\nRelated coverage: Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration\n\nRelated coverage: Trump's move from Wiles to Miller signals major tactical shift for governing without Congress\n\nRelated coverage: Stephen Miller’s promotion angers industries reeling from immigration enforcement\n\nRelated coverage: How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
-        "trend_score": 35.79,
-        "trend_breakdown": {
-          "freshness": 0.857,
-          "engagement": 0.0,
-          "topic_overlap": 0.308,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "CNN",
-        "category": "news",
-        "title": "Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race - CNN",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzlDQURXYjZFVUpiWklqeWFKSkRWVVZmNjJ3ZmhOaXBsSkg0dldnbHpya2FySmJod3QzdTU0STFZTUh1czhfMF93UWlGTDA2QWhHdGJzWHpSVWktUUFQbjRMZHZHbGw2Vl9QRVhoYWZCaFJoV3pjc2N3WS1Wa2dzQw?oc=5",
-        "published_at": "2026-11-06T23:58:00+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race；2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows；Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote。",
-        "related_headlines": [
-          "Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race",
-          "2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows",
-          "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
-          "How Scott Colom turned his Mississippi Senate race into a nail-biter"
-        ],
-        "content_context": "Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race；2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows；Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote。\n\nRelated coverage: Mississippi groups say some counties limiting access to vote-counting process in razor-thin Senate race\n\nRelated coverage: 2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows\n\nRelated coverage: Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote\n\nRelated coverage: Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race\n\nRelated coverage: How Scott Colom turned his Mississippi Senate race into a nail-biter",
-        "trend_score": 34.62,
-        "trend_breakdown": {
-          "freshness": 0.932,
+          "freshness": 0.91,
           "engagement": 0.0,
           "topic_overlap": 0.067,
           "source_weight": 0.8,
@@ -755,100 +663,200 @@
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "Al Jazeera",
         "category": "news",
-        "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFlEN09Nd3Vmekd6Zk1qU2M5eTdLMGZBTURXVVJtMnJ4d1FJcEZWNVcwZFJKSURWZHllR3kzTlE5SHJJQjZDdnU4MVo2WW9CWElQbFFIU1VBZk83WVQtaG5SOUpKNTBxaUt4a0oxb2xEb09uZnFGc2p4OHp2Ykc3TmkyTk1FVklk?oc=5",
-        "published_at": "2026-11-06T18:38:11+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns；2 top DOJ officials resign, including assistant attorney general for national security；Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns。",
+        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjJubXg0Znh4QVI4cm5kSENUVE9LYXZWR2xJZm5Ya2NQRDRzcXZRMzNMakZzTHpPbFp6cE51WHBmNUlLWlN5T0F5X1ZoeUpRYklCOVNkOU50enRfMFlGTGVsTktVQU1qcWhfazN0eE5yZGJfd1Fmdk9SY1NZSkZta3E4M2x3cHhrb20wbDl5YU5UdkZVRlVOTWZCSFhFSkh5QU5EbnpMRkIxaFIxQWVSdEN30gG3AUFVX3lxTFB5OENqM2pFYzQzdXlrMHBiaGF1RlhPd2hDQzJxSW1FQlNqRVNMV3VlOFMwS0tLaDM1RThDcmF3ZVZSMUM0SkFXenhDZmlCMW0tWUhhQ2d6OWJYQlprd3h3SUttM2djTDlIM09HdVVWY1VJZ01hZ3REbkpTellwSDQ0WVpQcFNyTUM3MlZhenhwcWFYS3p1MjB5bDlTQ1ZYbVNRN2tQdER4N3RYaFowcVVIRjN6X1k5WQ?oc=5",
+        "published_at": "2026-11-07T23:19:46+00:00",
+        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israel’s president picks Eisenkot over Netanyahu to form next government；In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated；Israel’s president picks Yashar leader Gadi Eisenkot to form government。",
         "related_headlines": [
-          "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
-          "2 top DOJ officials resign, including assistant attorney general for national security",
-          "Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns",
-          "Two more DOJ officials resign, including head of national security division",
-          "Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses"
+          "Israel’s president picks Eisenkot over Netanyahu to form next government",
+          "In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated",
+          "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+          "US military says strike disabled ship trying to run blockade on Iran",
+          "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How."
         ],
-        "content_context": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns；2 top DOJ officials resign, including assistant attorney general for national security；Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns。\n\nRelated coverage: U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns\n\nRelated coverage: 2 top DOJ officials resign, including assistant attorney general for national security\n\nRelated coverage: Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns\n\nRelated coverage: Two more DOJ officials resign, including head of national security division\n\nRelated coverage: Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses",
-        "trend_score": 31.96,
+        "content_context": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israel’s president picks Eisenkot over Netanyahu to form next government；In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated；Israel’s president picks Yashar leader Gadi Eisenkot to form government。\n\nRelated coverage: Israel’s president picks Eisenkot over Netanyahu to form next government\n\nRelated coverage: In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated\n\nRelated coverage: Israel’s president picks Yashar leader Gadi Eisenkot to form government\n\nRelated coverage: US military says strike disabled ship trying to run blockade on Iran\n\nRelated coverage: Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+        "trend_score": 33.37,
         "trend_breakdown": {
-          "freshness": 0.71,
-          "engagement": 0.0,
-          "topic_overlap": 0.4,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Los Angeles Times",
-        "category": "news",
-        "title": "Meghan Markle’s estranged father arrested in California child pornography investigation - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFZYYlBmVW4zSVlMLUlST0N2dEVESmZ5Y19RQWd6Z2gyeFQydUdNb0Nnb1RxTHFzZ1F6ZC1WTmlGWFRFMGF1ZE1oT2prZUh4bEZTdEdiVU5tVHl0MFNQTUV2QzdOdU5Jd2xuVTZYUnZzdkdxYXBPU3hyY3RQN0pmU1V2UzA0Qk5UbVdVaGJhXzJnQQ?oc=5",
-        "published_at": "2026-11-06T21:13:00+00:00",
-        "summary": "Los Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Meghan Markle’s estranged father arrested in California child pornography investigation；Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says；'Meghan's father charged' and 'Brand investigation widens'。",
-        "related_headlines": [
-          "Meghan Markle’s estranged father arrested in California child pornography investigation",
-          "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
-          "'Meghan's father charged' and 'Brand investigation widens'",
-          "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-          "Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida"
-        ],
-        "content_context": "Meghan Markle’s estranged father arrested in California child pornography investigation - Los Angeles Times\n\nLos Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Meghan Markle’s estranged father arrested in California child pornography investigation；Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says；'Meghan's father charged' and 'Brand investigation widens'。\n\nRelated coverage: Meghan Markle’s estranged father arrested in California child pornography investigation\n\nRelated coverage: Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says\n\nRelated coverage: 'Meghan's father charged' and 'Brand investigation widens'\n\nRelated coverage: Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges\n\nRelated coverage: Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida",
-        "trend_score": 30.76,
-        "trend_breakdown": {
-          "freshness": 0.817,
-          "engagement": 0.0,
-          "topic_overlap": 0.083,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Houston Public Media",
-        "category": "news",
-        "title": "Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results - Houston Public Media",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGwwSldpaG1fVDFNS19WQTB1ejd6T0ppUUFwaDRZckRXV1BHOFowMmVaOEs4a3NQaTAxVGh4T3VCM01oSkgwQjlsaFJla0ROd09NZFBVZkFGT2VNcFM0ZTRfcEdSMDJGUVIzbmtucFNGOVZvMGg2cjd1VVJuVmJDX1NpeC1fWjNQRlRaVnhrcEZhWTFfYks1MFB4bm1zZktDdEhiejZXVXlYZ3RzUVQ0NFNtYW9fNS1OcXk5QXVtUVk4TE5zcWJJV0pZVlBGLVBBcjNwdTA1N2t4QmRaMFFRT1JmQWJCZjlNQ2JLRldiODlzcnNPWjNkUlJMd29RZTFtcFRBazhrUXVOV3PSAZMCQVVfeXFMT1NCdVc3dTJzRWlLYjhKY21FbV9vMW41dy1xQ2kxNjlQVWVtV2hZQkVaUEdCaDBoNzFxUmpVU2JrYmwxUzR2cEM1amIzSEVWNy1HS0NYY3E4elViamJnc1VnaHNWeHo4YVJBTGJ4aFFFVjZldnRSUmpqUlFpeEd0YWpYMV9rRDhQUndQNnlVOVBMbjFHYXZxZVJsMEtrVFlSclFjaXVjdWl1REY5NWsxd0xVeUQ2VTlpWFYtSWg0OW93bHNYelRHZmpTdzMtUTM0YmdRWDlXT3VpMTZmX1NYdjFULTgzQmVhcTlFYWw0blVqWk1SMjFiamFsRHVWNHpMTnRSc3pqeHdZZTVyVU8wLXFoS0U?oc=5",
-        "published_at": "2026-11-06T17:35:56+00:00",
-        "summary": "Houston Public Media 头条聚焦该事件，Google News 同时聚合到这些相关表述：Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results；Houston Police to Stop Alerting ICE During Traffic Stops；Houston mayor signs order to limit cooperation with ICE, says 'elections matter' after Democrats win。",
-        "related_headlines": [
-          "Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results",
-          "Houston Police to Stop Alerting ICE During Traffic Stops",
-          "Houston mayor signs order to limit cooperation with ICE, says 'elections matter' after Democrats win",
-          "Houston mayor bolts early from ICE cooperation after blue wave crashes in Texas",
-          "Austin leaders consider changes to how APD works with ICE following midterm"
-        ],
-        "content_context": "Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results - Houston Public Media\n\nHouston Public Media 头条聚焦该事件，Google News 同时聚合到这些相关表述：Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results；Houston Police to Stop Alerting ICE During Traffic Stops；Houston mayor signs order to limit cooperation with ICE, says 'elections matter' after Democrats win。\n\nRelated coverage: Houston Mayor John Whitmire directs HPD to reduce cooperation with ICE after midterm results\n\nRelated coverage: Houston Police to Stop Alerting ICE During Traffic Stops\n\nRelated coverage: Houston mayor signs order to limit cooperation with ICE, says 'elections matter' after Democrats win\n\nRelated coverage: Houston mayor bolts early from ICE cooperation after blue wave crashes in Texas\n\nRelated coverage: Austin leaders consider changes to how APD works with ICE following midterm",
-        "trend_score": 27.43,
-        "trend_breakdown": {
-          "freshness": 0.667,
-          "engagement": 0.0,
-          "topic_overlap": 0.214,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Military.com",
-        "category": "news",
-        "title": "34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado - Military.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUtSREZad2UxRmFadDBreDVBT3ZtS3dObFc5Y085OWhCUWZLYlh0Uk51cURZVmx0aVMyVm5nU3hvU0NuUUlNRGZ0MDlQcDZNVEIzdVR0YTZBT3ZEZllzd3ViaWNBVEVJcktuM0tfSXFsUkJBUmg1YkZWVFlxY29yRWtBMmRhQWxPUzM3YzFrOVpxYXp3ZnBHRHBjUHJIaFN4N25IdlhERUpJcEJGQ05HclBB?oc=5",
-        "published_at": "2026-11-06T15:24:32+00:00",
-        "summary": "Military.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado；Colorado Fourth Congressional District 2026: Live Election Results, Boebert vs. Laubacher；Trump ally Lauren Boebert narrowly trails Dem challenger in close race。",
-        "related_headlines": [
-          "34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado",
-          "Colorado Fourth Congressional District 2026: Live Election Results, Boebert vs. Laubacher",
-          "Trump ally Lauren Boebert narrowly trails Dem challenger in close race",
-          "Boebert campaign ‘investigating’ voting as she trails her Democratic challenger",
-          "Colorado House District 4 Midterm Election 2026: Live Results"
-        ],
-        "content_context": "34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado - Military.com\n\nMilitary.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado；Colorado Fourth Congressional District 2026: Live Election Results, Boebert vs. Laubacher；Trump ally Lauren Boebert narrowly trails Dem challenger in close race。\n\nRelated coverage: 34-Year Navy Veteran Eileen Laubaucher Is on Verge of Unseating Lauren Boebert in Colorado\n\nRelated coverage: Colorado Fourth Congressional District 2026: Live Election Results, Boebert vs. Laubacher\n\nRelated coverage: Trump ally Lauren Boebert narrowly trails Dem challenger in close race\n\nRelated coverage: Boebert campaign ‘investigating’ voting as she trails her Democratic challenger\n\nRelated coverage: Colorado House District 4 Midterm Election 2026: Live Results",
-        "trend_score": 20.71,
-        "trend_breakdown": {
-          "freshness": 0.575,
+          "freshness": 0.927,
           "engagement": 0.0,
           "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
+        "published_at": "2026-11-07T21:32:20+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 things to know about Stephen Miller, new White House chief of staff；For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown；How one of Trump’s most controversial advisers rose to chief of staff – and what it means。",
+        "related_headlines": [
+          "3 things to know about Stephen Miller, new White House chief of staff",
+          "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+          "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
+          "Stephen Miller’s promotion sets the stage for a new era of confrontation",
+          "Stephen Miller’s wife made calls to White House insiders to push for his chief-of-staff promotion"
+        ],
+        "content_context": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 things to know about Stephen Miller, new White House chief of staff；For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown；How one of Trump’s most controversial advisers rose to chief of staff – and what it means。\n\nRelated coverage: 3 things to know about Stephen Miller, new White House chief of staff\n\nRelated coverage: For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown\n\nRelated coverage: How one of Trump’s most controversial advisers rose to chief of staff – and what it means\n\nRelated coverage: Stephen Miller’s promotion sets the stage for a new era of confrontation\n\nRelated coverage: Stephen Miller’s wife made calls to White House insiders to push for his chief-of-staff promotion",
+        "trend_score": 33.35,
+        "trend_breakdown": {
+          "freshness": 0.852,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says - CNN",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40aWh4TnVGZ1plSlNMeGVDYi1UeWRhalk3YU9VMEVoS2JQbG1uYnpFNzA3OXVOQVZ5VEJXSkRTSGw2QWN1MHgtSWdIZWFHU0NfMjBpaGlQSlg1QXRBUGxpMmhQLVBqVzd5ZktTcUlOM2V0QUZxSlhlek54QzU?oc=5",
+        "published_at": "2026-11-07T21:10:07+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：UFC CEO Dana White declines Trump’s offer to become press secretary, source says；Trump offers press secretary role to Dana White; UFC boss to meet President；UFC's Dana White says he'll meet with Trump about offer to be his press secretary。",
+        "related_headlines": [
+          "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
+          "Trump offers press secretary role to Dana White; UFC boss to meet President",
+          "UFC's Dana White says he'll meet with Trump about offer to be his press secretary",
+          "Trump offers UFC chief Dana White press secretary job",
+          "UFC boss Dana White says he's meeting with Trump after press secretary job offer"
+        ],
+        "content_context": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：UFC CEO Dana White declines Trump’s offer to become press secretary, source says；Trump offers press secretary role to Dana White; UFC boss to meet President；UFC's Dana White says he'll meet with Trump about offer to be his press secretary。\n\nRelated coverage: UFC CEO Dana White declines Trump’s offer to become press secretary, source says\n\nRelated coverage: Trump offers press secretary role to Dana White; UFC boss to meet President\n\nRelated coverage: UFC's Dana White says he'll meet with Trump about offer to be his press secretary\n\nRelated coverage: Trump offers UFC chief Dana White press secretary job\n\nRelated coverage: UFC boss Dana White says he's meeting with Trump after press secretary job offer",
+        "trend_score": 32.59,
+        "trend_breakdown": {
+          "freshness": 0.837,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "KTLA",
+        "category": "news",
+        "title": "2 women killed in California skydiving collision identified as new details emerge - KTLA",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXZvMk5WOGhFOE1JUTVMYjRFbERTVGNtWGNRUHV6c0ZHbWJlMDJHUXRfc0lHcmRaQnJuUjRjTlJodFU0MjB4VDdva0dUUEp6ZGd2OEdmY0p5YTlaZk1KYlZvVVBKUl93TmJaRlFFUFRNU2xkQnpra045RHZzelo1d2Q1YzVmNG14N2xKRkxjbmI4YkFqX0p0LVhoNHA5LWg2SVY3Zy1fMlU1aE5VTVdoRnNwdFREQdIBuwFBVV95cUxPdUQtdXhMM0p0M0lqOVlSOGpfUVNWVk5raE9PUHBHWmNRMm4tTnJRRDUycGpkcFdFbVZoVXUtOUp5S3p6SmZRd28yZWVEUWNDaUZhVTJHMDN5aUdzc3EycWE2Z1RQLVh6R3QtV2xrc1NBdWRlOEphRXpfb2xKU0ZYYldQUWRycThhaE41NEJiN3NlXzZCUjZNendGNU9nbDhOMTkzTTlyMXZ6WDNvRkdtSVJJUXhHUGxBMm04?oc=5",
+        "published_at": "2026-11-07T20:18:05+00:00",
+        "summary": "KTLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 women killed in California skydiving collision identified as new details emerge；2 Skydivers Die After Midair Collision in Southern California；Skydiver, 29, from Chicago suburb dies after mid-air collision。",
+        "related_headlines": [
+          "2 women killed in California skydiving collision identified as new details emerge",
+          "2 Skydivers Die After Midair Collision in Southern California",
+          "Skydiver, 29, from Chicago suburb dies after mid-air collision",
+          "2 women skydivers killed in Lake Elsinore",
+          "2 skydivers die after colliding midair in California and their parachutes become entangled"
+        ],
+        "content_context": "2 women killed in California skydiving collision identified as new details emerge - KTLA\n\nKTLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 women killed in California skydiving collision identified as new details emerge；2 Skydivers Die After Midair Collision in Southern California；Skydiver, 29, from Chicago suburb dies after mid-air collision。\n\nRelated coverage: 2 women killed in California skydiving collision identified as new details emerge\n\nRelated coverage: 2 Skydivers Die After Midair Collision in Southern California\n\nRelated coverage: Skydiver, 29, from Chicago suburb dies after mid-air collision\n\nRelated coverage: 2 women skydivers killed in Lake Elsinore\n\nRelated coverage: 2 skydivers die after colliding midair in California and their parachutes become entangled",
+        "trend_score": 30.43,
+        "trend_breakdown": {
+          "freshness": 0.801,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Daily Beast",
+        "category": "news",
+        "title": "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZER4MXpoUldXVDdSYXl1dXJKZ0thT01MR1NZOGdzb2h2MFV5dlgtekZmc094WE5hdnZrRHJYdDlMdmNZSDZzM21LYXhfaEYxekhMbENkbE83eVl1WDFTb1hCN2pTRWdSbEZCLURVTHJsa3l6RU5xNk15Tnhsek5VdlBJb0g0RDQ5S2l4WDVBV3dJenkxSUdKX0JpTDk2X2s?oc=5",
+        "published_at": "2026-11-07T21:05:56+00:00",
+        "summary": "The Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing；Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump；After midterm rout, Vance tries to build his own 2028 brand。",
+        "related_headlines": [
+          "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing",
+          "Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump",
+          "After midterm rout, Vance tries to build his own 2028 brand",
+          "Republicans blame Israel for their defeat",
+          "Trump was blindsided by Vance's analysis of GOP's midterm washout blaming war, claims Laura Loomer; says Trump was even angry"
+        ],
+        "content_context": "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing - The Daily Beast\n\nThe Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing；Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump；After midterm rout, Vance tries to build his own 2028 brand。\n\nRelated coverage: Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing\n\nRelated coverage: Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump\n\nRelated coverage: After midterm rout, Vance tries to build his own 2028 brand\n\nRelated coverage: Republicans blame Israel for their defeat\n\nRelated coverage: Trump was blindsided by Vance's analysis of GOP's midterm washout blaming war, claims Laura Loomer; says Trump was even angry",
+        "trend_score": 30.03,
+        "trend_breakdown": {
+          "freshness": 0.834,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFVBUDBXYXFrTHowUXZiZFZhRTQtZUhmOEdUYjB2WlV5M0RHMkZtVTIzdktYT3RWYlVBYTB3V0FaR1FVZVZnVUtMS0VlQUZfOVo0YlZjb3lidDhXUVV1dDJGY2NrZXphdFpGLXdkMktBZnpmTDFrVU9xVm14RjZWemE1OTBHM1YyQVo2VVNHVWV3Z3R5eEJMcmg3cy1rOFZVSWdN?oc=5",
+        "published_at": "2026-11-07T17:11:40+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing；DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez；Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos。",
+        "related_headlines": [
+          "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing",
+          "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez",
+          "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+          "Teacher's aide arrested in connection with NYC jogger's murder: Police",
+          "Man ‘covered in blood' arrested for Brooklyn jogger's stabbing death: sources"
+        ],
+        "content_context": "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing；DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez；Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos。\n\nRelated coverage: Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing\n\nRelated coverage: DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez\n\nRelated coverage: Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos\n\nRelated coverage: Teacher's aide arrested in connection with NYC jogger's murder: Police\n\nRelated coverage: Man ‘covered in blood' arrested for Brooklyn jogger's stabbing death: sources",
+        "trend_score": 27.08,
+        "trend_breakdown": {
+          "freshness": 0.671,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "PBS",
+        "category": "news",
+        "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2Rac3hxeXVCWWZlNGF3UndSazNNcjBfNVhfa2QzUTNOVTEtSnh4b1dLXzVsdlRTc0R3Um5DRG9vZW1lRVhPeFlSRXZybFVnd0J0LXZkWmhRVjJVa1JXZDVNdHRLX1Nid2gxWndjUllJdVFsaTNUcUxMWm5xOTV2TDQyd01GY2U0c3pvbEg1RldaS3BlcEFYZmNDcWRHd051T3ZzQUt2QjJ0RWNLeXA3b216RkIya3hNM1djR3FRSFBwMzdWRmpab1JUQ0t6MGRaUEZJ0gHYAUFVX3lxTFBRVFdWWnRfd3VfaHFvc1ZDR0tNcVFYYWFIOVpLVnZid1lIX2dBUDh5ZEZGOFM2ajBLeHJTbXByeWNIeGVyaDdtYno2UFNleEE5cHZyVlB0QWRtTl9vWGZGT2pRS3NUa3ZWWEtYLXo3ek42VDRGQUpyeVVEc0pndGJTdmF6SG1fVGtzVmVSX1JkSnpNYUd3RXp3U0loTTlnMFl5enhwbzZoRW0xMFZBd2RPX2o0R09JT21tSHdraldEOFByakdySnRCa3FRRFpsUXhMODBqWWxFTA?oc=5",
+        "published_at": "2026-11-07T17:54:01+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on；Mississippi U.S. Senate Election Live Results 2026；Tight Senate race awaits results of pending Mississippi ballots。",
+        "related_headlines": [
+          "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+          "Mississippi U.S. Senate Election Live Results 2026",
+          "Tight Senate race awaits results of pending Mississippi ballots",
+          "Here are the midterm races to watch that are still too close to call",
+          "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows"
+        ],
+        "content_context": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on；Mississippi U.S. Senate Election Live Results 2026；Tight Senate race awaits results of pending Mississippi ballots。\n\nRelated coverage: Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on\n\nRelated coverage: Mississippi U.S. Senate Election Live Results 2026\n\nRelated coverage: Tight Senate race awaits results of pending Mississippi ballots\n\nRelated coverage: Here are the midterm races to watch that are still too close to call\n\nRelated coverage: Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
+        "trend_score": 25.23,
+        "trend_breakdown": {
+          "freshness": 0.701,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDZTcFlWYjRHbmdpU2lwcmJtMXF6MDJwM3RuazZwY1FEUE5nQ2FHN3lPNWktXzdONG9Ud29qa0tuRnlYaXpxbDdVZ2paMGlDZUhyV0FUaFRMU1l5ekJscTFSWm5NVXo3NklXTlhqbVB6SjBROHA1dDVkVXAzaFNpR1h3cmZQQ3BtbWc?oc=5",
+        "published_at": "2026-11-07T11:00:15+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida；Father of co-pilot killed in Florida plane crash speaks out；24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida。",
+        "related_headlines": [
+          "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
+          "Father of co-pilot killed in Florida plane crash speaks out",
+          "24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida",
+          "'Life turned upside down': Family retains attorney after losing home, livelihood in deadly Learjet crash",
+          "Newly released 911 audio reveals chaos after deadly Learjet crash"
+        ],
+        "content_context": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida；Father of co-pilot killed in Florida plane crash speaks out；24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida。\n\nRelated coverage: A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida\n\nRelated coverage: Father of co-pilot killed in Florida plane crash speaks out\n\nRelated coverage: 24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida\n\nRelated coverage: 'Life turned upside down': Family retains attorney after losing home, livelihood in deadly Learjet crash\n\nRelated coverage: Newly released 911 audio reveals chaos after deadly Learjet crash",
+        "trend_score": 19.81,
+        "trend_breakdown": {
+          "freshness": 0.414,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -860,28 +868,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "react/react",
-      "url": "https://github.com/react/react",
-      "author": "react",
-      "summary": "The library for web and native user interfaces.",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "JavaScript",
-      "score": 248,
-      "comment_count": 51811,
-      "total_stars": 252261,
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "mattpocock",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "Shell",
+      "score": 1100,
+      "comment_count": 26580,
+      "total_stars": 317720,
       "built_by": [
-        "sebmarkbage",
-        "zpao",
-        "gaearon",
-        "acdlite",
-        "sophiebits"
+        "mattpocock",
+        "claude",
+        "github-actions",
+        "gabimoncha"
       ],
-      "content_context": "The library for web and native user interfaces.\n\nLanguage: JavaScript\n\nStars today: 248\n\nTotal stars: 252261\n\nBuilt by: sebmarkbage, zpao, gaearon, acdlite, sophiebits",
-      "trend_score": 86.83,
+      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1100\n\nTotal stars: 317720\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
+      "trend_score": 97.7,
       "trend_breakdown": {
         "freshness": 1.0,
         "engagement": 1.0,
-        "topic_overlap": 0.0,
+        "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -892,155 +899,153 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "author": "zed-industries",
-      "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "Rust",
-      "score": 306,
-      "comment_count": 11499,
-      "total_stars": 93652,
-      "built_by": [
-        "as-cii",
-        "maxbrunsfeld",
-        "maxdeviant",
-        "nathansobo",
-        "ConradIrwin"
-      ],
-      "content_context": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\n\nLanguage: Rust\n\nStars today: 306\n\nTotal stars: 93652\n\nBuilt by: as-cii, maxbrunsfeld, maxdeviant, nathansobo, ConradIrwin",
-      "trend_score": 84.17,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.93,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "author": "angular",
-      "summary": "Deliver web apps with confidence 🚀",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "TypeScript",
-      "score": 135,
-      "comment_count": 28911,
-      "total_stars": 101367,
-      "built_by": [
-        "gkalpak",
-        "petebacondarwin",
-        "crisbeto",
-        "angular-robot",
-        "devversion"
-      ],
-      "content_context": "Deliver web apps with confidence 🚀\n\nLanguage: TypeScript\n\nStars today: 135\n\nTotal stars: 101367\n\nBuilt by: gkalpak, petebacondarwin, crisbeto, angular-robot, devversion",
-      "trend_score": 83.97,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.925,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "author": "rust-lang",
-      "summary": "Empowering everyone to build reliable and efficient software.",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "Rust",
-      "score": 192,
-      "comment_count": 17364,
-      "total_stars": 121460,
-      "built_by": [
-        "bors",
-        "matthiaskrgr",
-        "RalfJung",
-        "GuillaumeGomez",
-        "matklad"
-      ],
-      "content_context": "Empowering everyone to build reliable and efficient software.\n\nLanguage: Rust\n\nStars today: 192\n\nTotal stars: 121460\n\nBuilt by: bors, matthiaskrgr, RalfJung, GuillaumeGomez, matklad",
-      "trend_score": 83.81,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.92,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "author": "rails",
-      "summary": "Ruby on Rails",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "Ruby",
-      "score": 142,
-      "comment_count": 23832,
-      "total_stars": 59032,
-      "built_by": [
-        "rafaelfranca",
-        "kamipo",
-        "jeremy",
-        "tenderlove",
-        "byroot"
-      ],
-      "content_context": "Ruby on Rails\n\nLanguage: Ruby\n\nStars today: 142\n\nTotal stars: 59032\n\nBuilt by: rafaelfranca, kamipo, jeremy, tenderlove, byroot",
-      "trend_score": 83.69,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.917,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "author": "NVIDIA",
-      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "author": "anthropics",
+      "summary": "Public repository for Agent Skills",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
       "language": "Python",
-      "score": 2015,
-      "comment_count": 730,
-      "total_stars": 9074,
+      "score": 390,
+      "comment_count": 22253,
+      "total_stars": 188791,
       "built_by": [
-        "DinaLaptii",
-        "yuvalshkolar",
-        "liavnave",
-        "liofnv",
-        "tomer-levin-nv"
+        "rlancemartin",
+        "klazuka",
+        "claude",
+        "cj-ant",
+        "ericharmeling"
       ],
-      "content_context": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\nLanguage: Python\n\nStars today: 2015\n\nTotal stars: 9074\n\nBuilt by: DinaLaptii, yuvalshkolar, liavnave, liofnv, tomer-levin-nv",
-      "trend_score": 83.31,
+      "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 390\n\nTotal stars: 188791\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+      "trend_score": 94.75,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.907,
+        "engagement": 0.922,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "author": "google",
+      "summary": "Agent Skills for Google products and technologies",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "Python",
+      "score": 443,
+      "comment_count": 1955,
+      "total_stars": 23406,
+      "built_by": [
+        "cloud-ix-copybara",
+        "holtskinner",
+        "martinvarelaj",
+        "helloeve",
+        "wangauone"
+      ],
+      "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 443\n\nTotal stars: 23406\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
+      "trend_score": 90.19,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.802,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "author": "sherlock-project",
+      "summary": "Hunt down social media accounts by username across social networks",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "Python",
+      "score": 1766,
+      "comment_count": 11870,
+      "total_stars": 100486,
+      "built_by": [
+        "sdushantha",
+        "hoadlck",
+        "ppfeister",
+        "TheYahya",
+        "Czechball"
+      ],
+      "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 1766\n\nTotal stars: 100486\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+      "trend_score": 86.41,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.989,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "author": "cloudflare",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "JavaScript",
+      "score": 2085,
+      "comment_count": 4269,
+      "total_stars": 65743,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2085\n\nTotal stars: 65743\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
+      "trend_score": 84.78,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.946,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "author": "milind-soni",
+      "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "TypeScript",
+      "score": 1955,
+      "comment_count": 2407,
+      "total_stars": 16990,
+      "built_by": [
+        "milind-soni",
+        "claude",
+        "aivsomkar",
+        "robinsonnblack",
+        "bradhallett"
+      ],
+      "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1955\n\nTotal stars: 16990\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+      "trend_score": 83.47,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.911,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1056,11 +1061,11 @@
       "url": "https://github.com/prometheus/prometheus",
       "author": "prometheus",
       "summary": "The Prometheus monitoring system and time series database.",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
       "language": "Go",
-      "score": 148,
-      "comment_count": 10988,
-      "total_stars": 67192,
+      "score": 322,
+      "comment_count": 11003,
+      "total_stars": 67449,
       "built_by": [
         "fabxc",
         "juliusv",
@@ -1068,11 +1073,11 @@
         "bboreham",
         "dependabot"
       ],
-      "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 148\n\nTotal stars: 67192\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
-      "trend_score": 82.14,
+      "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 322\n\nTotal stars: 67449\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
+      "trend_score": 82.0,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.876,
+        "engagement": 0.873,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1084,27 +1089,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "author": "google",
-      "summary": "Agent Skills for Google products and technologies",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "Python",
-      "score": 534,
-      "comment_count": 1921,
-      "total_stars": 22848,
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "author": "astral-sh",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "Rust",
+      "score": 350,
+      "comment_count": 2631,
+      "total_stars": 50979,
       "built_by": [
-        "cloud-ix-copybara",
-        "holtskinner",
-        "martinvarelaj",
-        "helloeve",
-        "wangauone"
+        "charliermarsh",
+        "MichaReiser",
+        "AlexWaygood",
+        "renovate",
+        "sharkdp"
       ],
-      "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 534\n\nTotal stars: 22848\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
-      "trend_score": 81.83,
+      "content_context": "An extremely fast Python linter and code formatter, written in Rust.\n\nLanguage: Rust\n\nStars today: 350\n\nTotal stars: 50979\n\nBuilt by: charliermarsh, MichaReiser, AlexWaygood, renovate, sharkdp",
+      "trend_score": 79.34,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.868,
+        "engagement": 0.802,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1116,27 +1121,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "symfony/symfony",
-      "url": "https://github.com/symfony/symfony",
-      "author": "symfony",
-      "summary": "The Symfony PHP framework",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "PHP",
-      "score": 128,
-      "comment_count": 9948,
-      "total_stars": 31436,
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "author": "vercel-labs",
+      "summary": "Browser automation CLI for AI agents",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "Rust",
+      "score": 190,
+      "comment_count": 3209,
+      "total_stars": 46833,
       "built_by": [
-        "fabpot",
-        "nicolas-grekas",
-        "xabbuh",
-        "derrabus",
-        "chalasr"
+        "ctate",
+        "Railly",
+        "github-actions",
+        "lahfir",
+        "claude"
       ],
-      "content_context": "The Symfony PHP framework\n\nLanguage: PHP\n\nStars today: 128\n\nTotal stars: 31436\n\nBuilt by: fabpot, nicolas-grekas, xabbuh, derrabus, chalasr",
-      "trend_score": 81.54,
+      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 190\n\nTotal stars: 46833\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+      "trend_score": 78.21,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.861,
+        "engagement": 0.773,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1148,27 +1153,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "author": "mpv-player",
-      "summary": "🎥 Command line media player",
-      "published_at": "2026-11-07T01:35:35.096801+00:00",
-      "language": "C",
-      "score": 37,
-      "comment_count": 3632,
-      "total_stars": 37884,
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "author": "meta",
+      "summary": "An open source design system that's fully customizable and agent ready",
+      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "language": "TypeScript",
+      "score": 96,
+      "comment_count": 1188,
+      "total_stars": 14534,
       "built_by": [
-        "kasper93",
-        "Dudemanguy",
-        "guidocella",
-        "haasn",
-        "pigoz"
+        "github-actions",
+        "cixzhang",
+        "rubyycheung",
+        "josephfarina",
+        "vjeux"
       ],
-      "content_context": "🎥 Command line media player\n\nLanguage: C\n\nStars today: 37\n\nTotal stars: 37884\n\nBuilt by: kasper93, Dudemanguy, guidocella, haasn, pigoz",
-      "trend_score": 76.12,
+      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 96\n\nTotal stars: 14534\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+      "trend_score": 74.52,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.718,
+        "engagement": 0.676,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1180,58 +1185,23 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "When Alexa can't answer, Claude takes over",
-      "url": "https://github.com/rg321/hey-claude",
-      "author": "mparnisari",
-      "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-11-07T01:29:23+00:00",
-      "summary": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://github.com/rg321/hey-claude",
-        "page_title": "GitHub - rg321/hey-claude: When Alexa can't answer, Claude takes over. AI home assistant powered by Claude.",
-        "page_description": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude",
-        "page_excerpt": "🪔 \"navratri shuru ho rahe hain, mujhe iska matlab batao\" — Alexa had no clue. Claude explained the festival.\n\n📹 \"mummy ke tv pe cctv chalaa do, pahle usko on kar lena\" — Woke up TV, started camera stream, cast it. All in one go.\n\n📺 \"tv pe netflix chalaao aur koee badhiya movie play karo\" — Powered on TV, launched Netflix, and confirmed."
-      },
-      "content_context": "When Alexa can't answer, Claude takes over. AI home assistant powered by Claude. - rg321/hey-claude\n\n🪔 \"navratri shuru ho rahe hain, mujhe iska matlab batao\" — Alexa had no clue. Claude explained the festival. 📹 \"mummy ke tv pe cctv chalaa do, pahle usko on kar lena\" — Woke up TV, started camera stream, cast it. All in one go. 📺 \"tv pe netflix chalaao aur koee badhiya movie play karo\" — Powered on TV, launched Netflix, and confirmed.",
-      "trend_score": 53.99,
-      "trend_breakdown": {
-        "freshness": 0.995,
-        "engagement": 0.077,
-        "topic_overlap": 0.167,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: CLI calls spend their time starting up. I cut it by 4.5x, same output",
-      "url": "https://github.com/anthonyGosme/speedrunner",
-      "author": "anthonygosme",
+      "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+      "url": "https://news.ycombinator.com/item?id=50409433",
+      "author": "ksniwmidjd",
       "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-07T01:24:51+00:00",
-      "summary": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...",
+      "comment_count": 1,
+      "published_at": "2026-11-08T00:36:31+00:00",
+      "summary": "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
       "comment_highlights": [
-        "[flagged]"
+        "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory."
       ],
-      "linked_context": {
-        "resolved_url": "https://github.com/anthonyGosme/speedrunner",
-        "page_title": "GitHub - anthonyGosme/speedrunner: Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call. A c...",
-        "page_description": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...",
-        "page_excerpt": "aws, az, gcloud, ansible, black, pytest, rubocop, rspec, composer, artisan, eslint, npm: hundreds of everyday command-line tools are written in Python, Ruby, PHP or Node, and spend most of each call starting the interpreter and loading their code before doing any work. speedrunner does that once, in a daemon, and forks it for every call: often 3 to 10 times faster, with no per-tool setup.\n\nEvery command and option, why a call runs natively, where files live, and how to uninstall: the user guide .\n\nLinux (x86_64 or aarch64, any distribution) and macOS 11 or later (Intel or Apple Silicon): one binary, no root."
-      },
-      "content_context": "Makes aws, az, gcloud, ansible, eslint, rubocop, composer and hundreds of other Python, Ruby, PHP and Node CLIs start several times faster: each stays loaded in a daemon that forks it on every call...\n\naws, az, gcloud, ansible, black, pytest, rubocop, rspec, composer, artisan, eslint, npm: hundreds of everyday command-line tools are written in Python, Ruby, PHP or Node, and spend most of each call starting the interpreter and loading their code before doing any work. speedrunner does that once, in a daemon, and forks it for every call: often 3 to 10 times faster, with no per-tool setup. Every command and option, why a call runs natively, where files live, and how to uninstall: the user guide . Linux (x86_64 or aarch64, any distribution) and macOS 11 or later (Intel or Apple Silicon): one binary, no root.\n\nHN comment: [flagged]",
-      "trend_score": 49.23,
+      "linked_context": {},
+      "content_context": "Why not give customers a binary they can run on their own Mac?\n\nHN comment: Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
+      "trend_score": 52.57,
       "trend_breakdown": {
-        "freshness": 0.992,
-        "engagement": 0.049,
-        "topic_overlap": 0.0,
+        "freshness": 0.98,
+        "engagement": 0.082,
+        "topic_overlap": 0.125,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1242,25 +1212,52 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-      "url": "https://arxiv.org/abs/2608.20433",
-      "author": "gregsadetsky",
+      "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+      "url": "https://news.ycombinator.com/item?id=50409438",
+      "author": "apatheticonion",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-07T01:11:48+00:00",
-      "summary": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...",
+      "published_at": "2026-11-08T00:37:05+00:00",
+      "summary": null,
       "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://arxiv.org/abs/2608.20433",
-        "page_title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-        "page_description": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...",
-        "page_excerpt": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs ."
+      "linked_context": {},
+      "content_context": "With the efforts to clamp down on LLM-assisted reverse engineering - I am wondering;<p>If LLM assisted reverse engineering is deemed illegal by the courts, is that precedent for a class action that asserts OSS licenses are violated by labs that trained LLMs on that code?<p>There are two modalities for this;<p>1) LLM being post-trained against a decompiled binary - then used to output working source code.<p>2) LLM being used to analyze decompiled binary and used to output working source code.<p>How can it be \"clean room\" when an LLM is trained on or reads OSS but not clean room when the same is done for decompiled software?",
+      "trend_score": 51.23,
+      "trend_breakdown": {
+        "freshness": 0.981,
+        "engagement": 0.046,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
       },
-      "content_context": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as experimental interfaces for investigating music-evoked emotions. We argue that current research is constrained by paradigms relying on pre-recorded auditory stimuli, which fail to capture the multimodal, embodied, and i...\n\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
-      "trend_score": 48.8,
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
+      "url": "https://github.com/alexbeeken/skrongle-mini",
+      "author": "skrongle-mini",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-11-08T00:40:33+00:00",
+      "summary": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
+      "comment_highlights": [
+        "I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text..."
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/alexbeeken/skrongle-mini",
+        "page_title": "GitHub - alexbeeken/skrongle-mini: Self hosted learning platform with AI features.",
+        "page_description": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
+        "page_excerpt": "A learning app you run yourself, on a Raspberry Pi, for the people at home.\n\nSkrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you.\n\nIt is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare."
+      },
+      "content_context": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.\n\nA learning app you run yourself, on a Raspberry Pi, for the people at home. Skrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you. It is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare.\n\nHN comment: I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text...",
+      "trend_score": 50.05,
       "trend_breakdown": {
         "freshness": 0.983,
-        "engagement": 0.049,
+        "engagement": 0.082,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.18
@@ -1272,26 +1269,26 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-      "url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
-      "author": "alex09x",
-      "score": 2,
+      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+      "author": "herbertl",
+      "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-07T01:31:19+00:00",
-      "summary": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.",
+      "published_at": "2026-11-08T01:00:16+00:00",
+      "summary": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
-        "page_title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-        "page_description": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.",
-        "page_excerpt": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nTL;DR. Serialized field names can lead you to their offsets. The harder question is which code changes those fields: in a public example, 2,000 decoys write the same offsets as the real function. The real function and the displayed decoys earn the same 40 points for their writes to those fields. The real function gets ten more because it shares a caller, main , with the serializer; the decoys h...\n\nBefore the 0.4.0 release, one xref field query came back with not_found_under_limits : no matching layouts. The response flagged incomplete discovery under its analysis limits, but it gave no way to tell which keys the tool had seen or where it had lost the connection to the fields. That case is recorded in issue 76 ."
+        "resolved_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+        "page_title": "Brown Professor Suspects Most of His Class Used AI to Cheat",
+        "page_description": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
+        "page_excerpt": "In a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person.\n\nFor the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro...\n\nBut by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha..."
       },
-      "content_context": "A field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions.\n\nA field name, 2,000 look-alike functions and a wrong pseudo-C branch: an XRef walkthrough in which every conclusion is checked against machine instructions. TL;DR. Serialized field names can lead you to their offsets. The harder question is which code changes those fields: in a public example, 2,000 decoys write the same offsets as the real function. The real function and the displayed decoys earn the same 40 points for their writes to those fields. The real function gets ten more because it shares a caller, main , with the serializer; the decoys h... Before the 0.4.0 release, one xref field query came back with not_found_under_limits : no matching layouts. The response flagged incomplete discovery under its analysis limits, but it gave no way to tell which keys the tool had seen or where it had lost the connection to the fields. That case is recorded in issue 76 .",
-      "trend_score": 47.95,
+      "content_context": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.\n\nIn a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person. For the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro... But by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha...",
+      "trend_score": 44.06,
       "trend_breakdown": {
         "freshness": 0.997,
-        "engagement": 0.077,
-        "topic_overlap": 0.286,
+        "engagement": 0.046,
+        "topic_overlap": 0.125,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1300,26 +1297,26 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "TikTok's For You page needs to change, says the EU",
-      "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-      "author": "TMWNN",
+      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it all",
+      "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+      "author": "areoform",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-07T01:26:33+00:00",
-      "summary": "TikTok could face massive fines if it doesn’t change its design.",
+      "published_at": "2026-11-08T00:38:37+00:00",
+      "summary": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-        "page_title": "TikTok’s For You page needs to change, says the EU",
-        "page_description": "TikTok could face massive fines if it doesn’t change its design.",
-        "page_excerpt": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿\n\nPosts from this author will be added to your daily email digest and your homepage feed."
+        "resolved_url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+        "page_title": "The curious story of a renowned Field Museum scientist, a deadly snakebite, and a diary that documented it all",
+        "page_description": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
+        "page_excerpt": "A world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details.\n\nWhat does this sound like? The plot of a comic book? A Netflix serial?\n\nWell, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday."
       },
-      "content_context": "TikTok could face massive fines if it doesn’t change its design.\n\nPosts from this topic will be added to your daily email digest and your homepage feed. The EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿ Posts from this author will be added to your daily email digest and your homepage feed.",
-      "trend_score": 47.77,
+      "content_context": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.\n\nA world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details. What does this sound like? The plot of a comic book? A Netflix serial? Well, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday.",
+      "trend_score": 43.78,
       "trend_breakdown": {
-        "freshness": 0.993,
-        "engagement": 0.049,
-        "topic_overlap": 0.333,
+        "freshness": 0.982,
+        "engagement": 0.046,
+        "topic_overlap": 0.143,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1330,162 +1327,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域热点聚焦于开发工具与基础设施的持续演进。前端框架React、Angular及系统语言Rust在GitHub趋势榜上保持活跃，反映出组件化、类型安全及高性能底层支持在AI应用开发中的重要性。值得关注的是，NVIDIA开源了Auto Ontology框架，旨在通过图结构与语义推理增强LLM的可解释性与逻辑一致性；同时Google开源了'skills'项目，为基于其生态的AI智能体提供技能库，显示了巨头在AI代理生态的积极布局。此外，高性能编辑器Zed与监控系统Prometheus的热度，也印证了开发效率与可观测性在AI系统构建中的关键地位。",
+    "overview": "今日AI领域开源生态持续活跃，GitHub趋势榜上多个技能库项目引发高度关注。Anthropic、Google及个人开发者mattpocock相继开源AI智能体技能仓库，旨在降低开发者构建高级AI应用的门槛，推动智能体技术标准化。同时，Cloudflare开源的security-audit-skill项目展示了AI在自动化安全审计领域的应用潜力。此外，Ruff等高性能开发工具持续受到开发者青睐，反映了AI工程化进程中效率工具的刚性需求。",
     "named_hotspots": [
       {
-        "name": "React",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "React 库在 GitHub 趋势榜上热度上升，单日新增 248 颗星，总星数达 252,261，显示出持续的开发者关注度。",
-        "core_details": "React 是一个用于构建 Web 和原生用户界面的 JavaScript 库，由 sebmarkbage、zpao、gaearon、acdlite、sophiebits 等核心贡献者维护。当前趋势得分为 86.83，总评论数 51,811，表明社区活跃度高。",
-        "ai_take": "React 作为前端开发的主流框架，其持续流行反映了组件化、声明式 UI 范式在 AI 应用开发中的重要性，尤其是在构建交互式 AI 工具界面时，React 的高效渲染和生态支持是关键优势。",
-        "hype_check": "热度合理，React 长期占据前端生态核心位置，趋势上升可能源于版本更新、社区活动或相关 AI 项目集成，但需注意这属于常规技术波动，非突发性突破。",
-        "value_check": "高价值，React 的稳定性和广泛采用使其成为企业级和 AI 项目的前端基础，社区资源和工具链成熟，对开发者技能提升和项目维护具有长期益处。",
-        "follow_up": "关注 React 最新版本特性（如并发渲染）在 AI 界面中的应用案例，以及与其他 AI 框架（如 TensorFlow.js）的集成动态。",
-        "evidence": "GitHub 趋势数据：单日星增 248，总星 252,261，语言为 JavaScript，项目描述为“用于 Web 和原生用户界面的库”，核心贡献者列表确认项目权威性。"
-      },
-      {
-        "name": "Zed",
-        "kind": "product",
-        "source": "GitHub Trending",
-        "what_happened": "Zed，一款由Atom和Tree-sitter的创造者开发的高性能、多人协作代码编辑器，在GitHub趋势榜上受到关注，今日获得306颗星，总星数达93652。",
-        "core_details": "Zed是一款用Rust语言编写的代码编辑器，强调高性能和实时多人协作功能，由as-cii、maxbrunsfeld、maxdeviant、nathansobo和ConradIrwin等开发者构建。",
-        "ai_take": "作为开发工具，Zed本身不是AI模型，但其高性能架构和协作特性可能为集成AI辅助编程工具（如代码补全、调试）提供优化基础，反映开发工具向智能化、协同化演进趋势。",
-        "hype_check": "趋势热度较高（趋势得分84.17），基于创始团队背景（Atom和Tree-sitter）和Rust性能优势，但需观察实际采用率与现有编辑器（如VS Code）的竞争。",
-        "value_check": "对开发者而言，高性能和内置协作可能提升团队编码效率；开源模式促进社区贡献，但成熟度和生态扩展仍是关键挑战。",
-        "follow_up": "关注其版本更新、协作功能实测反馈，以及是否集成AI编程助手；可对比VS Code Copilot等工具的生态整合。",
-        "evidence": "GitHub仓库显示项目描述为“高性能、多人协作代码编辑器”，语言为Rust，今日星数增长和总星数作为流行度指标。"
-      },
-      {
-        "name": "Angular",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Angular项目在GitHub趋势榜上获得关注，今日新增135颗星，总星数达101,367，项目由TypeScript编写，核心贡献者包括gkalpak、petebacondarwin等。",
-        "core_details": "Angular是一个用于构建Web应用的框架，强调可靠性和信心交付。项目当前趋势得分为83.97，拥有28,911条评论，表明社区活跃度高。",
-        "ai_take": "Angular作为成熟的前端框架，其持续流行反映了企业级Web开发对稳定性和类型安全（TypeScript）的需求，但AI驱动的低代码工具可能对其传统开发模式构成长期挑战。",
-        "hype_check": "趋势数据真实，但新增星数（135）相对总星数（101,367）增长平缓，表明热度更多来自现有社区而非爆发性突破。",
-        "value_check": "Angular为大型应用提供结构化解决方案，TypeScript集成和强大工具链是其核心价值，适合需要长期维护的复杂项目。",
-        "follow_up": "可关注Angular与AI代码生成工具的整合进展，以及其在微前端架构中的新实践。",
-        "evidence": "GitHub趋势页面显示项目数据：语言TypeScript、今日星数135、总星数101,367、贡献者列表、趋势得分83.97。"
-      },
-      {
-        "name": "rust-lang/rust",
+        "name": "mattpocock/skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "Rust编程语言官方仓库在GitHub趋势榜上热度上升，单日新增192颗星，总星数达121460，显示出持续的关注度。",
-        "core_details": "该项目是Rust编程语言的核心实现，旨在赋能所有人构建可靠且高效的软件。项目由bors、matthiaskrgr、RalfJung、GuillaumeGomez、matklad等主要贡献者维护，当前编程语言为Rust，在技术领域具有广泛影响力。",
-        "ai_take": "Rust以其内存安全和高性能特性，在系统编程、嵌入式及AI基础设施（如编译器、工具链开发）中日益重要，可能为AI模型部署和边缘计算提供更可靠的底层支持。",
-        "hype_check": "热度合理，Rust作为现代系统编程语言，在开发者社区中长期受到推崇，其趋势上升反映了对安全性和性能需求的增长，但需注意这属于技术生态的常态演进，而非短期炒作。",
-        "value_check": "高价值，Rust通过所有权模型解决了内存安全问题，在操作系统、WebAssembly、区块链等领域已有成熟应用，对提升软件可靠性和效率有实质性贡献，符合当前软件工业的发展方向。",
-        "follow_up": "关注Rust在AI推理框架（如Tract）、硬件加速库的集成进展，以及社区对AI安全性和可解释性工具的开发动态。",
-        "evidence": "项目描述强调“赋能所有人构建可靠和高效的软件”，单日新增192星、总星数121460及活跃贡献者列表，佐证了其持续的技术影响力和社区活跃度。"
+        "what_happened": "GitHub项目'mattpocock/skills'今日在GitHub趋势榜上获得显著关注，单日新增1100颗星，总星数已达317720。该项目定位为'真实工程师的技能'，源自作者的.agents目录，主要使用Shell语言开发。",
+        "core_details": "该项目是一个开源工具集或技能库，旨在为工程师提供实用技能，由mattpocock主导，并得到claude、github-actions、gabimoncha等贡献者的支持。项目语言为Shell，表明其可能专注于命令行工具、自动化脚本或系统管理相关技能。今日趋势得分高达97.7，显示出在开发者社区中的高热度。",
+        "ai_take": "该项目虽未明确标注为AI项目，但提及'源自.agents目录'，可能暗示与AI代理或自动化工作流相关，例如用于增强开发效率的智能工具链。在AI驱动的开发工具日益普及的背景下，此类技能库可能整合了AI辅助的代码生成、任务自动化等实践，反映了工程师如何利用AI工具优化日常工作。",
+        "hype_check": "热度真实且强劲：单日千星增长和近32万的总星数表明项目具有广泛的社区认可和实用价值。高趋势得分（97.7）和大量评论（26580条）进一步佐证了其持续影响力，并非短期炒作。",
+        "value_check": "核心价值在于提供工程师所需的实战技能，可能涵盖Shell脚本、DevOps工具链或AI辅助开发技巧，有助于提升开发效率和自动化水平。作为开源项目，它允许社区协作改进，具有教育和工具双重属性，对中高级开发者尤其有参考意义。",
+        "follow_up": "可关注项目更新是否纳入更多AI集成功能，例如与LLM工具的交互脚本，或观察其在CI/CD、云原生场景中的应用案例。同时，跟踪作者mattpocock的其他项目，以了解其技术生态布局。",
+        "evidence": "项目描述明确为'Skills for Real Engineers. Straight from my .agents directory.'；GitHub数据：语言Shell，今日星数1100，总星317720，趋势得分97.7，评论数26580；贡献者包括claude等，暗示AI工具参与。"
       },
       {
-        "name": "Ruby on Rails",
+        "name": "Anthropic Agent Skills 仓库",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Ruby on Rails 项目在 GitHub 趋势榜上热度上升，今日新增 142 颗星，总星数达 59032。",
-        "core_details": "Ruby on Rails 是一个用 Ruby 语言编写的开源 Web 应用框架，由 rafaelfranca、kamipo、jeremy、tenderlove、byroot 等核心贡献者构建和维护。",
-        "ai_take": "虽然 Ruby on Rails 本身不是 AI 项目，但其高效的开发模式和活跃的社区为 AI 应用的快速原型开发和部署提供了成熟的基础设施，尤其在初创企业和全栈项目中常见。",
-        "hype_check": "趋势热度主要源于框架的持续更新和社区活跃度，而非突发性技术突破；作为成熟项目，其热度相对稳定。",
-        "value_check": "作为长期维护的流行框架，Ruby on Rails 在 Web 开发领域具有高实用价值，支持快速构建可扩展应用，但需注意其在性能密集型或实时 AI 场景中可能存在的局限性。",
-        "follow_up": "关注 Rails 7+ 版本的新特性（如 Hotwire）对现代 Web 应用开发的影啊，以及社区如何整合 AI 工具链（如机器学习库集成）。",
-        "evidence": "GitHub 趋势数据：今日星增 142，总星 59032，语言为 Ruby；项目由多位核心开发者维护，无直接 AI 关联但属技术基础设施。"
-      },
-      {
-        "name": "Auto Ontology",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "NVIDIA在GitHub上开源了Auto Ontology项目，这是一个用于构建语义化、基于图的推理层的Python框架。",
-        "core_details": "Auto Ontology旨在为大型语言模型（LLM）和智能体工作流提供确定性查询生成、更好的上下文检索以及更可解释的AI能力。该项目由NVIDIA团队开发，目前已在GitHub上获得超过9000颗星，今日新增2015颗星，显示出较高的社区关注度。",
-        "ai_take": "该项目通过引入图结构和语义推理层，有望提升LLM在复杂任务中的逻辑一致性和可解释性，可能推动智能体系统向更结构化、可靠的方向发展。",
-        "hype_check": "当前热度较高（趋势得分83.31），反映了开发者对增强AI可解释性和推理能力工具的强烈需求，但实际应用效果仍需验证。",
-        "value_check": "作为NVIDIA支持的开源工具，它可能降低构建高级AI系统的门槛，但其在工业场景中的成熟度和性能优化尚待观察。",
-        "follow_up": "关注该框架在知识图谱、企业智能体等领域的实际应用案例，以及与其他AI工具链的集成进展。",
-        "evidence": "GitHub项目描述明确指出其功能定位（语义图推理、确定性查询、可解释AI），并由NVIDIA官方团队维护，代码活跃度较高。"
-      },
-      {
-        "name": "Prometheus",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Prometheus监控系统与时间序列数据库项目在GitHub趋势榜上热度上升，今日新增148颗星，总星数达67192。",
-        "core_details": "Prometheus是一个用Go语言编写的开源监控系统和时间序列数据库，广泛用于云原生环境中的指标收集与告警。项目由fabxc、juliusv、beorn7、bboreham等核心贡献者维护，目前拥有10988条评论，显示出活跃的社区参与。",
-        "ai_take": "作为监控领域的标杆工具，Prometheus的高热度反映了AI和云原生基础设施对可观测性需求的持续增长，其数据收集能力为AI系统性能监控提供了关键支持。",
-        "hype_check": "趋势分82.14表明项目受到持续关注，但热度主要来自成熟用户和开发者社区，而非短期炒作。",
-        "value_check": "Prometheus已成为云原生监控的事实标准，与Kubernetes等平台深度集成，长期价值稳固，是运维和DevOps领域的核心工具。",
-        "follow_up": "可关注Prometheus与AI运维（AIOps）的结合进展，以及其在边缘计算和物联网监控中的扩展应用。",
-        "evidence": "GitHub数据显示项目总星数67192、今日新增148星、语言为Go、核心贡献者列表，以及10988条评论，证明其社区活跃度和技术影响力。"
+        "what_happened": "Anthropic 在 GitHub 上公开了一个名为 'skills' 的公共代码仓库，该项目专注于为 AI 智能体（Agent）开发技能。",
+        "core_details": "该仓库使用 Python 语言编写，今日获得 390 颗星，总星数已达 188,791。项目由 rlancemartin, klazuka, claude, cj-ant, ericharmeling 等贡献者构建。",
+        "ai_take": "这标志着 Anthropic 在推进 AI 智能体能力方面迈出了公开、协作的一步。通过开源技能库，他们可能旨在加速智能体在复杂任务中理解和执行能力的开发，并促进社区围绕其 AI 模型（如 Claude）构建更强大的应用生态。",
+        "hype_check": "高热度（趋势得分 94.75），表明开发者社区对此类开源 AI 工具包有强烈兴趣和关注。总星数极高，说明项目已积累相当规模的影响力。",
+        "value_check": "为 AI 开发者和研究者提供了可直接使用的智能体技能代码资源，降低了构建高级 AI 应用的入门门槛，并可能推动智能体技术的标准化和最佳实践。",
+        "follow_up": "关注该仓库的更新，以了解 Anthropic 在智能体技能方面的最新进展；观察社区如何利用这些技能构建实际应用；留意 Anthropic 是否会围绕此推出更完整的智能体开发框架或与 Claude 模型更深度的集成。",
+        "evidence": "项目描述为 'Public repository for Agent Skills'；语言为 Python；高星数和今日增长数反映了其受欢迎程度；由 Anthropic 官方账号发布。"
       },
       {
         "name": "google/skills",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "Google在GitHub上开源了一个名为'skills'的项目，该项目专注于为Google产品和技术开发Agent Skills（智能体技能）。",
-        "core_details": "该项目使用Python语言编写，今日获得534颗星，总星数已达22848，由cloud-ix-copybara、holtskinner、martinvarelaj、helloeve、wangauone等贡献者构建。项目旨在提供与Google产品和技术集成的智能体技能，可能用于增强AI代理的功能性。",
-        "ai_take": "该项目代表了Google在AI代理生态中的布局，通过开源技能库，可能降低开发者构建基于Google技术的智能体应用的门槛，促进AI代理的定制化和扩展性。",
-        "hype_check": "趋势得分81.83和今日高星数表明该项目在开发者社区中受到关注，但需注意这主要反映技术兴趣，而非直接的市场采用。",
-        "value_check": "作为开源项目，它提供了实用的代码资源，有助于加速AI代理开发，但实际价值取决于社区参与度和与Google生态的整合深度。",
-        "follow_up": "关注项目更新、技能示例以及开发者如何利用它构建实际应用，同时观察Google是否会推出相关产品或服务支持。",
-        "evidence": "基于GitHub趋势数据：项目标题为'google/skills'，摘要描述为'Agent Skills for Google products and technologies'，语言为Python，星数增长显著，由Google团队维护。"
+        "what_happened": "Google在GitHub上开源了一个名为'skills'的项目，该项目专注于为Google产品和技术提供Agent Skills（智能体技能）。",
+        "core_details": "该项目使用Python语言开发，今日新增443颗星，总星数已达23406，由cloud-ix-copybara、holtskinner、martinvarelaj、helloeve、wangauone等贡献者构建。项目旨在为Google生态内的智能体（Agent）提供技能支持，以增强其功能和应用范围。",
+        "ai_take": "该项目代表了Google在AI智能体（Agent）领域的重要布局，通过开源技能库，可能旨在降低开发者构建基于Google技术的智能体应用的门槛，并推动其AI生态系统的扩展和标准化。",
+        "hype_check": "趋势评分高达90.19，表明该项目在开发者社区中受到高度关注和热议，反映了市场对AI智能体技能的强烈兴趣和需求。",
+        "value_check": "作为Google官方开源项目，具有较高的可信度和技术价值，可能为开发者提供实用的工具和参考，促进AI智能体技术的创新和应用落地。",
+        "follow_up": "关注该项目在GitHub上的更新和社区反馈，以及未来是否会有更多Google产品集成这些技能，或推出相关的开发者工具和文档。",
+        "evidence": "项目在GitHub上的高星数（23406）和今日新增星数（443）以及趋势评分（90.19）均表明其受欢迎程度；项目描述明确指出其为'Agent Skills for Google products and technologies'，语言为Python，由Google团队维护。"
+      },
+      {
+        "name": "Sherlock",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Sherlock项目在GitHub趋势榜上热度飙升，单日新增1766颗星，总星数已突破10万，显示出开发者社区对其的持续关注。",
+        "core_details": "Sherlock是一个用Python编写的开源工具，其主要功能是通过用户名在多个社交网络上追踪和定位对应的社交媒体账户。该项目由多位贡献者共同维护，包括sdushantha、hoadlck等。",
+        "ai_take": "该项目本身不直接涉及人工智能技术，但其背后的用户身份追踪和数据聚合逻辑，与AI领域的网络分析、用户画像构建或开源情报（OSINT）工具开发有一定关联。它展示了通过自动化脚本处理多平台数据的实用价值。",
+        "hype_check": "热度较高且持续。单日近两千的星数增长和超过10万的总星数，表明其在开发者中具有广泛的实用性和认可度，并非短暂流行。",
+        "value_check": "工具价值明确，对于安全研究人员、数字取证人员或普通用户进行个人账户管理有一定帮助，但需注意合法合规使用，避免侵犯隐私。",
+        "follow_up": "可关注其后续版本更新是否集成更智能的搜索算法或扩展平台支持，以及社区围绕其开发的相关生态工具。",
+        "evidence": "数据来自GitHub趋势榜：项目语言为Python，单日星增1766，总星数100486，项目描述明确为“通过用户名在社交网络上追踪账户”。"
+      },
+      {
+        "name": "security-audit-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Cloudflare在GitHub上开源了一个名为security-audit-skill的项目，这是一个为编码代理设计的多阶段安全审计技能，能够生成独立验证、机器可读的审计结果。该项目今日获得2085颗星，总星数已达65743，显示出较高的社区关注度。",
+        "core_details": "该项目由Cloudflare团队（包括literally-dan、CooperSheroy和kennysarnoski-jarvis）开发，使用JavaScript语言编写。它旨在通过自动化工具辅助进行安全审计，生成结构化的审计报告，以提高代码安全性和审计效率。",
+        "ai_take": "该项目体现了AI在安全领域的应用趋势，通过编码代理技能自动化安全审计流程，减少人工干预，提升审计的准确性和可扩展性。这符合当前AI辅助开发和安全运维的行业方向。",
+        "hype_check": "项目在GitHub上趋势评分高达84.78，单日获星超2000，总星数超过6.5万，表明其在开发者社区中引起了广泛兴趣和认可，热度较高。",
+        "value_check": "作为Cloudflare的开源项目，它提供了实用的安全审计工具，有助于开发者集成自动化安全检查到工作流中，潜在价值在于提升软件安全性和开发效率，但实际效果需依赖具体实施和社区反馈。",
+        "follow_up": "关注项目后续更新、社区讨论（如GitHub issues和pull requests）以及在实际环境中的采用案例，以评估其长期影响和实用性。",
+        "evidence": "项目GitHub页面显示语言为JavaScript，今日星数2085，总星数65743，由Cloudflare团队维护，描述强调多阶段审计和机器可读结果。"
+      },
+      {
+        "name": "OpenMausBot",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "开源项目OpenMausBot在GitHub上迅速流行，被描述为Grok Bot的开源替代品，内置虚拟机供机器人使用。",
+        "core_details": "该项目由milind-soni等人使用TypeScript开发，今日新增1955星，总星数达16990，在GitHub趋势榜上获得83.47分的高热度。",
+        "ai_take": "该项目提供了一个可替代Grok Bot的开源解决方案，通过集成虚拟机功能，可能增强了机器人的自主运行和交互能力，反映了开源社区在AI助手领域的创新尝试。",
+        "hype_check": "热度较高，单日获星近2000，总星数接近1.7万，表明其在开发者社区中受到广泛关注，但需观察其实际应用和持续维护情况。",
+        "value_check": "作为开源替代品，它可能降低了使用类似机器人的门槛，促进定制化和实验；虚拟机功能或提升机器人的灵活性和隔离性，但具体性能需进一步验证。",
+        "follow_up": "关注项目更新以了解虚拟机集成的实际用例、与Grok Bot的功能对比，以及社区反馈和贡献情况。",
+        "evidence": "GitHub趋势数据：今日星数1955，总星数16990，趋势分83.47；项目描述为“开源Grok Bot替代品，带虚拟机”。"
+      },
+      {
+        "name": "Prometheus",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Prometheus监控系统与时间序列数据库项目在GitHub趋势榜上热度上升，今日新增322颗星，总星数达67449。",
+        "core_details": "Prometheus是一个用Go语言编写的开源监控系统和时间序列数据库，由fabxc、juliusv、beorn7、bboreham和dependabot等开发者构建。",
+        "ai_take": "作为监控基础设施的关键组件，Prometheus的高可用性和可扩展性设计为AI系统运维提供了可靠的指标收集与告警能力，支撑大规模AI服务的稳定性监控。",
+        "hype_check": "项目长期保持高活跃度，总星数超过6.7万且持续增长，反映其在云原生监控领域的稳定影响力和社区认可，并非短期炒作。",
+        "value_check": "Prometheus已成为云原生生态中监控的事实标准，与Kubernetes等平台深度集成，为AI和微服务架构提供核心可观测性解决方案，技术价值显著。",
+        "follow_up": "关注Prometheus与AI专用监控工具的集成进展，以及其在边缘AI和实时推理场景下的性能优化。",
+        "evidence": "GitHub趋势数据显示项目单日获322星，总星67449，语言为Go，开发者列表明确，项目描述指向监控系统核心功能。"
+      },
+      {
+        "name": "Ruff",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Ruff，一个用Rust编写的极速Python代码检查器和格式化工具，今日在GitHub趋势榜上获得350颗星，总星数达50979，显示出持续的高关注度。",
+        "core_details": "Ruff是一个开源项目，由astral-sh团队开发，核心贡献者包括charliermarsh、MichaReiser等。它旨在替代或补充现有的Python工具（如flake8、black），通过Rust语言实现，显著提升了代码分析和格式化的速度。项目当前总星数已超过5万，今日新增350星，在技术社区中热度较高。",
+        "ai_take": "作为AI开发中常用的代码质量工具，Ruff的高性能特性（得益于Rust）能加速AI项目的代码审查和格式化流程，提升开发效率。其流行也反映了开发者对高效、现代化开发工具的偏好，可能推动更多AI基础设施工具采用高性能语言重构。",
+        "hype_check": "热度真实且持续：项目长期位居GitHub趋势榜，总星数高，新增星数稳定，表明其在Python开发者社区中具有实质性的影响力和实用性，并非短期炒作。",
+        "value_check": "高价值：Ruff解决了Python工具链中的性能瓶颈，提供了更快的代码检查和格式化体验，对大型AI/ML代码库尤其有益。其开源性质和活跃开发（由专业团队维护）确保了可靠性和持续改进。",
+        "follow_up": "关注astral-sh团队的后续更新，以及Ruff在大型AI项目（如PyTorch、TensorFlow生态）中的采用情况。可比较其与传统工具（如ruff vs. black+flake8）在实际AI开发中的性能差异。",
+        "evidence": "项目GitHub页面（https://github.com/astral-sh/ruff）显示：总星数50979，今日新增350星，描述为“用Rust编写的极速Python代码检查器和格式化工具”，语言为Rust，由astral-sh组织维护。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "react/react",
-        "content_summary": "React 是一个用于构建 Web 和原生用户界面的 JavaScript 库。今日新增 248 颗星，总星数达 252,261。",
-        "ai_comment": "作为前端开发的核心库之一，React 持续保持高关注度，其生态和社区活跃度是开发者技术选型的重要参考。"
+        "item_name": "mattpocock/skills",
+        "content_summary": "这是一个名为“skills”的GitHub仓库，由开发者mattpocock维护，旨在为真正的工程师提供技能。内容直接来自其.agents目录。该项目使用Shell语言编写，今日新增1100颗星，总星数已达317,720。",
+        "ai_comment": "该项目在GitHub趋势榜上热度很高，表明社区对实用工程技能工具集的兴趣浓厚。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "zed-industries/zed",
-        "content_summary": "Zed 是一款由 Atom 和 Tree-sitter 创造者开发的高性能、多人协作代码编辑器，使用 Rust 语言编写。今日新增 306 颗星，总星数达 93,652。",
-        "ai_comment": "由知名编辑器 Atom 的团队打造，Zed 凭借其性能和多人在线协作特性，可能成为下一代开发工具的有力竞争者。"
+        "item_name": "anthropics/skills",
+        "content_summary": "这是Anthropic公司开源的Agent Skills公共仓库。项目使用Python语言，今日新增390颗星，总星数为188,791。",
+        "ai_comment": "作为知名AI公司的开源项目，其热度反映了业界对智能体（Agent）技能生态的关注。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "angular/angular",
-        "content_summary": "Angular 是一个用于构建 Web 应用的 TypeScript 框架。今日新增 135 颗星，总星数达 101,367。",
-        "ai_comment": "Angular 作为成熟的企业级框架，其稳定的更新和庞大的生态系统继续吸引着开发者。"
+        "item_name": "google/skills",
+        "content_summary": "这是Google开源的Agent Skills仓库，专注于为Google产品和技术提供智能体技能。项目使用Python语言，今日新增443颗星，总星数为23,406。",
+        "ai_comment": "科技巨头的加入，进一步推动了AI智能体技能标准化和开源生态的发展。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "When Alexa can't answer, Claude takes over",
-        "content_summary": "项目“hey-claude”是一个由 Claude AI 驱动的家庭助手，当 Alexa 无法回答时接管。示例显示它能解释印度排灯节、控制电视开启 CCTV 流媒体、以及启动 Netflix 播放电影。",
-        "ai_comment": "这展示了大型语言模型（如 Claude）在理解和执行复杂、多步骤的日常家庭指令方面的潜力，是 AI 与物联网结合的一个具体用例。"
+        "item_name": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+        "content_summary": "用户提问为何Anthropic和OpenAI等公司需要数据中心，而不是提供可在个人Mac上运行的二进制文件。高亮评论指出，像Qwen这样的开源模型可以本地运行，但OpenAI和Anthropic的模型规模更大，个人电脑内存可能无法承载。",
+        "ai_comment": "这个问题触及了闭源大模型与开源轻量模型在部署方式上的核心差异，即计算资源与模型规模的权衡。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Show HN: CLI calls spend their time starting up. I cut it by 4.5x, same output",
-        "content_summary": "Speedrunner 是一个工具，通过将 Python、Ruby、PHP 和 Node 编写的 CLI 工具（如 aws、gcloud、eslint 等）预加载到守护进程中，并在每次调用时 fork，从而将启动速度提升 3 到 10 倍。支持 Linux 和 macOS。",
-        "ai_comment": "针对解释型语言 CLI 工具启动慢的痛点，提供了一个通用的加速方案，对频繁使用此类工具的开发者可能带来显著的效率提升。"
+        "item_name": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+        "content_summary": "用户探讨如果法院判定利用LLM进行逆向工程为非法，这是否会为开源软件（OSS）许可被LLM训练侵犯的集体诉讼开创先例。帖子分析了两种模式：LLM对反编译的二进制文件进行后训练并输出源代码；LLM分析反编译的二进制文件并输出源代码。提问者质疑，当LLM训练或读取OSS代码不被视为“净室设计”时，为何对反编译软件做同样事情却可以。",
+        "ai_comment": "这是一个涉及AI训练数据合法性、软件逆向工程法律边界和开源许可复杂性的前沿法律问题。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
-        "content_summary": "这篇立场论文提出，应将音乐人形机器人作为研究音乐诱发情感的实验接口。作者认为，当前研究依赖于预录的听觉刺激，未能捕捉音乐情感的多模态、具身化和互动性本质。",
-        "ai_comment": "将机器人学与情感计算、音乐心理学交叉，为情感研究提供了新的、更贴近真实互动场景的实验范式，具有前瞻性。"
+        "item_name": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
+        "content_summary": "Skrongle Mini是一个自托管的学习平台，可在树莓派Zero 2 W上运行。它是一个单一二进制文件，使用JSON文件课程进行教学，包含课程、自适应测验、练习、游戏、闪卡和AI导师功能。内置西班牙语和法语课程，也支持通过AI生成或手动编写任何主题的课程。最多支持8个账户，无需外部服务（除用户自行提供的AI API密钥）。创建者表示这是其理想的学习平台，课程可AI生成或手动创建，提供半游戏化体验和多种题型。",
+        "ai_comment": "该项目体现了边缘计算与AI教育的结合，为小范围、隐私友好的个性化学习提供了轻量级解决方案。"
       },
       {
         "source_group": "news",
-        "item_name": "Ousted Paraguayan president placed under house arrest after bank collapse - AP News",
-        "content_summary": "巴拉圭前总统圣地亚哥·佩尼亚因银行倒闭丑闻被弹劾并逮捕，目前已被软禁。新任总统佩德罗·阿利亚纳已宣誓就职。",
-        "ai_comment": "这是一起由金融危机直接引发最高政治权力更迭的事件，凸显了经济治理与政治稳定的紧密关联。"
+        "item_name": "Poland in shock after six die in Krakow mass shooting - Reuters",
+        "content_summary": "波兰克拉科夫发生大规模枪击事件，造成6人死亡，至少11人受伤，全国震惊。枪手从行驶的车辆中开枪。相关报道还提到袭击者家中发现三具尸体，事件可能与极右翼有关。",
+        "ai_comment": "这是一起严重的暴力犯罪事件，引发了国际社会对公共安全和极端主义的关注。"
       },
       {
         "source_group": "news",
-        "item_name": "Man in custody after being found in vehicle near White House with guns - The Guardian",
-        "content_summary": "一名男子在白宫附近车辆中被发现携带枪支，目前已被拘留。",
-        "ai_comment": "事件再次引发对白宫及华盛顿特区核心区域安全措施的关注。"
+        "item_name": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL",
+        "content_summary": "美国北卡罗来纳州Apex市一名司机在酒后驾驶（DWI）肇事逃逸事故中，导致自行车骑行团体1人死亡、多人受伤（不同报道称7人、20人或22人受伤），面临十余项重罪指控。受害者包括Capital One骑行俱乐部的成员。",
+        "ai_comment": "该事件凸显了酒后驾驶和肇事逃逸的严重后果，以及其对社区安全造成的巨大伤害。"
       },
       {
         "source_group": "news",
-        "item_name": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections - The New York Times",
-        "content_summary": "美国议员赫格塞斯在中期选举后面临两党审查和弹劾努力。相关报道包括要求其下台的呼声，以及其发布的“战斗”视频加剧了弹劾呼声。",
-        "ai_comment": "这表明美国国内政治斗争在选举后持续发酵，两党在某些议题上的对立依然尖锐。"
+        "item_name": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera",
+        "content_summary": "以色列总统已选择前国防军总参谋长、亚沙尔党领导人加迪·艾森科特，而非现任总理内塔尼亚胡，来负责组建新政府。这对内塔尼亚胡是一个挫折，但组建政府的道路仍然复杂。",
+        "ai_comment": "这一政治动向标志着以色列政局可能出现重大变化，后续政府组建过程将备受关注。"
       }
     ],
-    "closing_note": "整体来看，今日热点体现了AI技术栈的多元化发展：从底层编程语言、前端框架到智能体工具链，均在持续迭代中。开发者可重点关注Auto Ontology等新兴框架如何提升AI推理的确定性，并观察Google等企业的开源动作如何影响智能体开发范式。基础设施的成熟与AI专用工具的涌现，正共同推动着更可靠、高效的AI应用构建。",
+    "closing_note": "开源技能库的集中涌现，标志着AI智能体开发正从模型能力竞赛转向工具链与生态构建的务实阶段。企业级玩家与社区开发者共同推动的技能标准化尝试，或将加速AI应用从实验走向规模化部署。开发者需关注这些项目与自身技术栈的集成可能性，同时留意相关合规与安全边界。",
     "_errors": []
   }
 }
