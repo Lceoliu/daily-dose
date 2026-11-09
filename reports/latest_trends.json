@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T01:04:48.082694+00:00",
+  "generated_at": "2026-11-09T01:24:56.981955+00:00",
   "counts": {
-    "github_trending": 10,
+    "github_trending": 9,
     "reddit": 0,
     "hacker_news": 10,
     "news": 10
@@ -11,46 +11,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "mattpocock/skills",
-        "url": "https://github.com/mattpocock/skills",
-        "author": "mattpocock",
-        "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
-        "language": "Shell",
-        "score": 1100,
-        "comment_count": 26580,
-        "total_stars": 317720,
-        "built_by": [
-          "mattpocock",
-          "claude",
-          "github-actions",
-          "gabimoncha"
-        ],
-        "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1100\n\nTotal stars: 317720\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-        "trend_score": 97.7,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 1.0,
-          "topic_overlap": 0.5,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "anthropics/skills",
         "url": "https://github.com/anthropics/skills",
         "author": "anthropics",
         "summary": "Public repository for Agent Skills",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "Python",
-        "score": 390,
-        "comment_count": 22253,
-        "total_stars": 188791,
+        "score": 792,
+        "comment_count": 22349,
+        "total_stars": 189673,
         "built_by": [
           "rlancemartin",
           "klazuka",
@@ -58,11 +27,11 @@
           "cj-ant",
           "ericharmeling"
         ],
-        "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 390\n\nTotal stars: 188791\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
-        "trend_score": 94.75,
+        "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 792\n\nTotal stars: 189673\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+        "trend_score": 96.19,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.922,
+          "engagement": 0.96,
           "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -74,28 +43,28 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "google/skills",
-        "url": "https://github.com/google/skills",
-        "author": "google",
-        "summary": "Agent Skills for Google products and technologies",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "title": "anthropics/claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "author": "anthropics",
+        "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "Python",
-        "score": 443,
-        "comment_count": 1955,
-        "total_stars": 23406,
+        "score": 32,
+        "comment_count": 3280,
+        "total_stars": 19438,
         "built_by": [
-          "cloud-ix-copybara",
-          "holtskinner",
-          "martinvarelaj",
-          "helloeve",
-          "wangauone"
+          "cj-ant",
+          "claude",
+          "x5a",
+          "alexalbertt",
+          "zealoushacker"
         ],
-        "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 443\n\nTotal stars: 23406\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
-        "trend_score": 90.19,
+        "content_context": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\nLanguage: Python\n\nStars today: 32\n\nTotal stars: 19438\n\nBuilt by: cj-ant, claude, x5a, alexalbertt, zealoushacker",
+        "trend_score": 88.1,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.802,
-          "topic_overlap": 0.5,
+          "engagement": 0.652,
+          "topic_overlap": 0.667,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -110,11 +79,11 @@
         "url": "https://github.com/sherlock-project/sherlock",
         "author": "sherlock-project",
         "summary": "Hunt down social media accounts by username across social networks",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "Python",
-        "score": 1766,
-        "comment_count": 11870,
-        "total_stars": 100486,
+        "score": 2373,
+        "comment_count": 12133,
+        "total_stars": 103615,
         "built_by": [
           "sdushantha",
           "hoadlck",
@@ -122,41 +91,11 @@
           "TheYahya",
           "Czechball"
         ],
-        "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 1766\n\nTotal stars: 100486\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
-        "trend_score": 86.41,
+        "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 2373\n\nTotal stars: 103615\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+        "trend_score": 86.84,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.989,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "cloudflare/security-audit-skill",
-        "url": "https://github.com/cloudflare/security-audit-skill",
-        "author": "cloudflare",
-        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
-        "language": "JavaScript",
-        "score": 2085,
-        "comment_count": 4269,
-        "total_stars": 65743,
-        "built_by": [
-          "literally-dan",
-          "CooperSheroy",
-          "kennysarnoski-jarvis"
-        ],
-        "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2085\n\nTotal stars: 65743\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
-        "trend_score": 84.78,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.946,
+          "engagement": 1.0,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -172,11 +111,11 @@
         "url": "https://github.com/milind-soni/OpenMausBot",
         "author": "milind-soni",
         "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "TypeScript",
-        "score": 1955,
-        "comment_count": 2407,
-        "total_stars": 16990,
+        "score": 1439,
+        "comment_count": 2536,
+        "total_stars": 18290,
         "built_by": [
           "milind-soni",
           "claude",
@@ -184,75 +123,11 @@
           "robinsonnblack",
           "bradhallett"
         ],
-        "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1955\n\nTotal stars: 16990\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
-        "trend_score": 83.47,
+        "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1439\n\nTotal stars: 18290\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+        "trend_score": 82.49,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.911,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "prometheus/prometheus",
-        "url": "https://github.com/prometheus/prometheus",
-        "author": "prometheus",
-        "summary": "The Prometheus monitoring system and time series database.",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
-        "language": "Go",
-        "score": 322,
-        "comment_count": 11003,
-        "total_stars": 67449,
-        "built_by": [
-          "fabxc",
-          "juliusv",
-          "beorn7",
-          "bboreham",
-          "dependabot"
-        ],
-        "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 322\n\nTotal stars: 67449\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
-        "trend_score": 82.0,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.873,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "astral-sh/ruff",
-        "url": "https://github.com/astral-sh/ruff",
-        "author": "astral-sh",
-        "summary": "An extremely fast Python linter and code formatter, written in Rust.",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
-        "language": "Rust",
-        "score": 350,
-        "comment_count": 2631,
-        "total_stars": 50979,
-        "built_by": [
-          "charliermarsh",
-          "MichaReiser",
-          "AlexWaygood",
-          "renovate",
-          "sharkdp"
-        ],
-        "content_context": "An extremely fast Python linter and code formatter, written in Rust.\n\nLanguage: Rust\n\nStars today: 350\n\nTotal stars: 50979\n\nBuilt by: charliermarsh, MichaReiser, AlexWaygood, renovate, sharkdp",
-        "trend_score": 79.34,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.802,
+          "engagement": 0.885,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -268,11 +143,11 @@
         "url": "https://github.com/vercel-labs/agent-browser",
         "author": "vercel-labs",
         "summary": "Browser automation CLI for AI agents",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "Rust",
-        "score": 190,
-        "comment_count": 3209,
-        "total_stars": 46833,
+        "score": 815,
+        "comment_count": 3258,
+        "total_stars": 47626,
         "built_by": [
           "ctate",
           "Railly",
@@ -280,11 +155,11 @@
           "lahfir",
           "claude"
         ],
-        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 190\n\nTotal stars: 46833\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
-        "trend_score": 78.21,
+        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 815\n\nTotal stars: 47626\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+        "trend_score": 81.58,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.773,
+          "engagement": 0.861,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -300,11 +175,11 @@
         "url": "https://github.com/meta/astryx",
         "author": "meta",
         "summary": "An open source design system that's fully customizable and agent ready",
-        "published_at": "2026-11-08T01:04:42.753682+00:00",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
         "language": "TypeScript",
-        "score": 96,
-        "comment_count": 1188,
-        "total_stars": 14534,
+        "score": 875,
+        "comment_count": 1326,
+        "total_stars": 16866,
         "built_by": [
           "github-actions",
           "cixzhang",
@@ -312,11 +187,107 @@
           "josephfarina",
           "vjeux"
         ],
-        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 96\n\nTotal stars: 14534\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
-        "trend_score": 74.52,
+        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 875\n\nTotal stars: 16866\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+        "trend_score": 79.97,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.676,
+          "engagement": 0.819,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ranxianglei/billion-context",
+        "url": "https://github.com/ranxianglei/billion-context",
+        "author": "ranxianglei",
+        "summary": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
+        "language": "TypeScript",
+        "score": 460,
+        "comment_count": 406,
+        "total_stars": 5179,
+        "built_by": [
+          "ranxianglei",
+          "github-actions",
+          "YunzhouLi-hub",
+          "z0d0dOr",
+          "yanhuojiyusheng"
+        ],
+        "content_context": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\n\nLanguage: TypeScript\n\nStars today: 460\n\nTotal stars: 5179\n\nBuilt by: ranxianglei, github-actions, YunzhouLi-hub, z0d0dOr, yanhuojiyusheng",
+        "trend_score": 76.03,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.715,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "google-deepmind/mujoco",
+        "url": "https://github.com/google-deepmind/mujoco",
+        "author": "google-deepmind",
+        "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
+        "language": "C++",
+        "score": 41,
+        "comment_count": 1953,
+        "total_stars": 16433,
+        "built_by": [
+          "yuvaltassa",
+          "quagla",
+          "haroonq",
+          "kbayes",
+          "saran-t"
+        ],
+        "content_context": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\nLanguage: C++\n\nStars today: 41\n\nTotal stars: 16433\n\nBuilt by: yuvaltassa, quagla, haroonq, kbayes, saran-t",
+        "trend_score": 73.19,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.641,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "dsx-ai-factory/nvke",
+        "url": "https://github.com/dsx-ai-factory/nvke",
+        "author": "dsx-ai-factory",
+        "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "published_at": "2026-11-09T01:24:51.483160+00:00",
+        "language": "Go",
+        "score": 345,
+        "comment_count": 111,
+        "total_stars": 861,
+        "built_by": [
+          "dims",
+          "TerryHowe",
+          "lia-campbell",
+          "jedimt",
+          "danbudris"
+        ],
+        "content_context": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.\n\nLanguage: Go\n\nStars today: 345\n\nTotal stars: 861\n\nBuilt by: dims, TerryHowe, lia-campbell, jedimt, danbudris",
+        "trend_score": 72.75,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.629,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -331,22 +302,119 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
-        "url": "https://news.ycombinator.com/item?id=50409433",
-        "author": "ksniwmidjd",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-08T00:36:31+00:00",
-        "summary": "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
+        "title": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+        "url": "https://github.com/dooly6276/claude-bulkhead",
+        "author": "dooly6276",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-09T00:55:37+00:00",
+        "summary": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead",
         "comment_highlights": [
-          "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory."
+          "[flagged]"
         ],
-        "linked_context": {},
-        "content_context": "Why not give customers a binary they can run on their own Mac?\n\nHN comment: Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
-        "trend_score": 52.57,
+        "linked_context": {
+          "resolved_url": "https://github.com/dooly6276/claude-bulkhead",
+          "page_title": "GitHub - dooly6276/claude-bulkhead: Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks.",
+          "page_description": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead",
+          "page_excerpt": "Hooks that stop parallel Claude Code sessions on one machine from killing each other's servers or running it out of RAM.\n\n8 guards, 10 commands, a status line, 6 slash commands, 1 skill, zero dependencies\n\nWhat is it | Scan | Why | Features | Install | Quick start | Remote | How it works | Guards | FAQ"
+        },
+        "content_context": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead\n\nHooks that stop parallel Claude Code sessions on one machine from killing each other's servers or running it out of RAM. 8 guards, 10 commands, a status line, 6 slash commands, 1 skill, zero dependencies What is it | Scan | Why | Features | Install | Quick start | Remote | How it works | Guards | FAQ\n\nHN comment: [flagged]",
+        "trend_score": 55.86,
         "trend_breakdown": {
           "freshness": 0.98,
-          "engagement": 0.082,
+          "engagement": 0.072,
+          "topic_overlap": 0.3,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+        "url": "https://airlock.lunareng.com/docs",
+        "author": "lovetocode",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-09T00:59:27+00:00",
+        "summary": "Your agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://airlock.lunareng.com/docs",
+          "page_title": "Airlock",
+          "page_description": "Your agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+          "page_excerpt": null
+        },
+        "content_context": "My name is Matt and I am building Airlock. Airlock is going to be an open standard on managing autonomous fleets of engineering agents. I am seeking constructive feedback on the direction of this project and also asking what are your major pain points with managing AI use at larger businesses. Right now I am running my own company using this framework with a total of 23 workflows across four large scale projects.<p>Airlock is still really early, only 3-4 weeks old.<p>Airlock's configuration standard is aimed to be open source and I will also open source the backplane once I gain a bit more confidence in what I have built here and it is a bit more ready for public scrutiny. Today the schema itself and the reusable GitHub actions are publicly available. I will selfishly figure out how to monetize this at some point but my desired customer is going to be larger enterprises. Airlock kind of does a lot of things but if I had to sum it up in several bullet points it would be:<p>1) Allows for the configuration of agent behaviors and life cycles under version control. Each agent run proves who it is with GitHub’s OIDC token, and Airlock trades that for a GitHub token that lasts one hour...\n\nYour agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+        "trend_score": 54.7,
+        "trend_breakdown": {
+          "freshness": 0.982,
+          "engagement": 0.045,
+          "topic_overlap": 0.286,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+        "author": "berkeleyjunk",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-09T01:18:05+00:00",
+        "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+          "page_title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+          "page_description": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+          "page_excerpt": "Nvidia CEO Jensen Huang delivers his keynote on the company's GTC event in Berlin, Germany, Wednesday, Oct. 21, 2026. Markus Schreiber/AP hide caption\n\nThe massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy.\n\nIn the statement announcing the investigation, Nvidia cited recent reporting by The New York Times , which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China."
+        },
+        "content_context": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.\n\nNvidia CEO Jensen Huang delivers his keynote on the company's GTC event in Berlin, Germany, Wednesday, Oct. 21, 2026. Markus Schreiber/AP hide caption The massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy. In the statement announcing the investigation, Nvidia cited recent reporting by The New York Times , which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China.",
+        "trend_score": 54.56,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.045,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "url": "https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia",
+        "author": "JumpCrisscross",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-11-09T01:18:25+00:00",
+        "summary": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+        "comment_highlights": [
+          "Oh my...<p>Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms. Huang were “not unusual” and consistent with the kinds of meetings he has with any of Nvidia’s many customers."
+        ],
+        "linked_context": {
+          "resolved_url": "https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia",
+          "page_title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+          "page_description": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+          "page_excerpt": "Julian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York Times on Friday:\n\nJohn Rizzo, an Nvidia spokesman, said that the company does not share classified information with its customers, and that customers do not ask Nvidia to press the U.S. government to change its policies on chip sales to China.\n\nHe added that the Chinese government had “consistently promoted its own domestic alternatives in China, including Huawei, and strictly limited imports of our data center products.”"
+        },
+        "content_context": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI\n\nJulian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York Times on Friday: John Rizzo, an Nvidia spokesman, said that the company does not share classified information with its customers, and that customers do not ask Nvidia to press the U.S. government to change its policies on chip sales to China. He added that the Chinese government had “consistently promoted its own domestic alternatives in China, including Huawei, and strictly limited imports of our data center products.”\n\nHN comment: Oh my...<p>Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms. Huang were “not unusual” and consistent with the kinds of meetings he has with any of Nvidia’s many customers.",
+        "trend_score": 54.25,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.108,
           "topic_overlap": 0.125,
           "source_weight": 0.9,
           "domain_weight": 1.18
@@ -358,138 +426,131 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
-        "url": "https://news.ycombinator.com/item?id=50409438",
-        "author": "apatheticonion",
+        "title": "Artificial Analysis Decision Index v2",
+        "url": "https://artificialanalysis.ai/articles/decision-index-v2",
+        "author": "hjun1052",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-08T00:37:05+00:00",
+        "published_at": "2026-11-09T01:07:30+00:00",
+        "summary": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://artificialanalysis.ai/articles/decision-index-v2",
+          "page_title": "Introducing the Artificial Analysis Decision Index v2",
+          "page_description": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration",
+          "page_excerpt": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration\n\nWe’ve released the second version of the Artificial Analysis Decision Index to better reflect real-world utility and guard against benchmark gaming. 45% of the Index is now built on private datasets, up from 25% in v1. Drex Max v1.1 from Nace AI narrowly leads among decision models at 73, within 1 point of GLiDE v1.2 (Fastino Labs) and Mammoth 27B (Baseten).\n\n➤ Decision Score: We adopt a new headline metric that rewards a model for both correctness and calibrated confidence. Each question scores from 0 to 100: right answers score above 50, wrong answers below 50, and confidence in its top answer moves the score within each half"
+        },
+        "content_context": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration\n\nIntroducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration We’ve released the second version of the Artificial Analysis Decision Index to better reflect real-world utility and guard against benchmark gaming. 45% of the Index is now built on private datasets, up from 25% in v1. Drex Max v1.1 from Nace AI narrowly leads among decision models at 73, within 1 point of GLiDE v1.2 (Fastino Labs) and Mammoth 27B (Baseten). ➤ Decision Score: We adopt a new headline metric that rewards a model for both correctness and calibrated confidence. Each question scores from 0 to 100: right answers score above 50, wrong answers below 50, and confidence in its top answer moves the score within each half",
+        "trend_score": 48.9,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Staff at the US center for AI safety are reporting to the White House",
+        "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+        "author": "sshah03",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-09T01:19:28+00:00",
         "summary": null,
         "comment_highlights": [],
         "linked_context": {},
-        "content_context": "With the efforts to clamp down on LLM-assisted reverse engineering - I am wondering;<p>If LLM assisted reverse engineering is deemed illegal by the courts, is that precedent for a class action that asserts OSS licenses are violated by labs that trained LLMs on that code?<p>There are two modalities for this;<p>1) LLM being post-trained against a decompiled binary - then used to output working source code.<p>2) LLM being used to analyze decompiled binary and used to output working source code.<p>How can it be \"clean room\" when an LLM is trained on or reads OSS but not clean room when the same is done for decompiled software?",
-        "trend_score": 51.23,
+        "content_context": null,
+        "trend_score": 47.77,
         "trend_breakdown": {
-          "freshness": 0.981,
-          "engagement": 0.046,
-          "topic_overlap": 0.125,
+          "freshness": 0.996,
+          "engagement": 0.045,
+          "topic_overlap": 0.333,
           "source_weight": 0.9,
-          "domain_weight": 1.18
+          "domain_weight": 1.0
         },
-        "domains": [
-          "technology"
-        ]
+        "domains": []
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
-        "url": "https://github.com/alexbeeken/skrongle-mini",
-        "author": "skrongle-mini",
+        "title": "Ian Murdock – And we learn about Debian",
+        "url": "https://larrymurdock.substack.com/p/ian-murdock-72d",
+        "author": "thesuperbigfrog",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-09T01:02:51+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.33,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.091,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Psychology of Letting Go",
+        "url": "https://www.autodidacts.io/the-psychology-of-letting-go/",
+        "author": "Curiositry",
         "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-08T00:40:33+00:00",
-        "summary": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
+        "comment_count": 0,
+        "published_at": "2026-11-09T01:21:30+00:00",
+        "summary": "Some time ago I drafted an essay on cutting words from essays, intended for a cheesy writing contest, and never submitted it. I was thinking about this essay, languishing on my hard drive, as I was packing out to move to a new city. It struck me: revising and de-",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.autodidacts.io/the-psychology-of-letting-go/",
+          "page_title": "The Psychology of Letting Go",
+          "page_description": "Some time ago I drafted an essay on cutting words from essays, intended for a cheesy writing contest, and never submitted it. I was thinking about this essay, languishing on my hard drive, as I was packing out to move to a new city. It struck me: revising and de-",
+          "page_excerpt": "Some time ago I drafted an essay on cutting words from essays, intended for a cheesy writing contest, and never submitted it. I was thinking about this essay, languishing on my hard drive, as I was packing out to move to a new city. It struck me: revising and de-cluttering are remarkably similar processes. And I solved them in the same way, without connecting either the problems or the solution...\n\nDeciding what to leave behind, and what to throw out, is psychologically painful. So is cutting words from something I’ve written, especially if I think they are good words, sentences, paragraphs.\n\nBut bringing too much stuff makes life unpleasant, and may not even be possible. Same with all those words. ( Same with, like, everything .)"
+        },
+        "content_context": "Some time ago I drafted an essay on cutting words from essays, intended for a cheesy writing contest, and never submitted it. I was thinking about this essay, languishing on my hard drive, as I was packing out to move to a new city. It struck me: revising and de-\n\nSome time ago I drafted an essay on cutting words from essays, intended for a cheesy writing contest, and never submitted it. I was thinking about this essay, languishing on my hard drive, as I was packing out to move to a new city. It struck me: revising and de-cluttering are remarkably similar processes. And I solved them in the same way, without connecting either the problems or the solution... Deciding what to leave behind, and what to throw out, is psychologically painful. So is cutting words from something I’ve written, especially if I think they are good words, sentences, paragraphs. But bringing too much stuff makes life unpleasant, and may not even be possible. Same with all those words. ( Same with, like, everything .)",
+        "trend_score": 41.83,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Replacing corporations with openly operated ERP",
+        "url": "https://gradienterp.cloud/",
+        "author": "mxfactorial",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-09T01:16:25+00:00",
+        "summary": "ai first, cloud native ERP — the agentic cross-firm optimization protocol, supplying the gradient r&d and capital need through business transparency",
         "comment_highlights": [
-          "I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text..."
+          "[dead]"
         ],
         "linked_context": {
-          "resolved_url": "https://github.com/alexbeeken/skrongle-mini",
-          "page_title": "GitHub - alexbeeken/skrongle-mini: Self hosted learning platform with AI features.",
-          "page_description": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
-          "page_excerpt": "A learning app you run yourself, on a Raspberry Pi, for the people at home.\n\nSkrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you.\n\nIt is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare."
+          "resolved_url": "https://gradienterp.cloud/",
+          "page_title": "gradientERP",
+          "page_description": "ai first, cloud native ERP — the agentic cross-firm optimization protocol, supplying the gradient r&d and capital need through business transparency",
+          "page_excerpt": "agents: this console is a client-rendered app behind login. the full site guide (llms.txt, inlined verbatim at serve time) follows — # gradientERP > ai first, cloud native ERP — the agentic cross-firm optimization protocol. supplying the gradient r&d and capital need through business transparency: businesses that run here publish their operations, and informed capital and r&d find them. this pa...\n\nsupplying the gradient r&d and capital need through business transparency"
         },
-        "content_context": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.\n\nA learning app you run yourself, on a Raspberry Pi, for the people at home. Skrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you. It is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare.\n\nHN comment: I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text...",
-        "trend_score": 50.05,
+        "content_context": "ai first, cloud native ERP — the agentic cross-firm optimization protocol, supplying the gradient r&d and capital need through business transparency\n\nagents: this console is a client-rendered app behind login. the full site guide (llms.txt, inlined verbatim at serve time) follows — # gradientERP > ai first, cloud native ERP — the agentic cross-firm optimization protocol. supplying the gradient r&d and capital need through business transparency: businesses that run here publish their operations, and informed capital and r&d find them. this pa... supplying the gradient r&d and capital need through business transparency\n\nHN comment: [dead]",
+        "trend_score": 41.69,
         "trend_breakdown": {
-          "freshness": 0.983,
-          "engagement": 0.082,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
-        "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-        "author": "herbertl",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T01:00:16+00:00",
-        "summary": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-          "page_title": "Brown Professor Suspects Most of His Class Used AI to Cheat",
-          "page_description": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
-          "page_excerpt": "In a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person.\n\nFor the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro...\n\nBut by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha..."
-        },
-        "content_context": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.\n\nIn a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person. For the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro... But by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha...",
-        "trend_score": 44.06,
-        "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.046,
-          "topic_overlap": 0.125,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "A renowned scientist, a deadly snakebite, and a diary that documented it all",
-        "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-        "author": "areoform",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T00:38:37+00:00",
-        "summary": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-          "page_title": "The curious story of a renowned Field Museum scientist, a deadly snakebite, and a diary that documented it all",
-          "page_description": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
-          "page_excerpt": "A world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details.\n\nWhat does this sound like? The plot of a comic book? A Netflix serial?\n\nWell, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday."
-        },
-        "content_context": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.\n\nA world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details. What does this sound like? The plot of a comic book? A Netflix serial? Well, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday.",
-        "trend_score": 43.78,
-        "trend_breakdown": {
-          "freshness": 0.982,
-          "engagement": 0.046,
-          "topic_overlap": 0.143,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "MVP Was a Hack: The boundary moves from product to customer",
-        "url": "https://research.oguzbilgic.com/theses/maximum-viable-product?update=11",
-        "author": "obilgic",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T00:58:01+00:00",
-        "summary": "The MVP was a hack around a constraint that no longer exists.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://research.oguzbilgic.com/theses/maximum-viable-product?update=11",
-          "page_title": "The MVP Was a Hack Around a Constraint That No Longer Exists — Research",
-          "page_description": "The MVP was a hack around a constraint that no longer exists.",
-          "page_excerpt": null
-        },
-        "content_context": "The MVP was a hack around a constraint that no longer exists.",
-        "trend_score": 41.75,
-        "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.046,
+          "freshness": 0.994,
+          "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -499,109 +560,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "The Power of Sync",
-        "url": "https://seths.blog/2026/11/the-power-of-sync-2/",
-        "author": "herbertl",
+        "title": "Parse_number() as a SQLite extension: C vs. Rust",
+        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+        "author": "sshah03",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-08T00:57:50+00:00",
-        "summary": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…",
+        "published_at": "2026-11-09T01:04:19+00:00",
+        "summary": "Four SQLite extensions implement the same `parse_number()` behavior in C and Rust, with tests covering type preservation, parsing rules, and floating-point accuracy. The optimized C implementation was fastest at 16–19 …",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://seths.blog/2026/11/the-power-of-sync-2/",
-          "page_title": "The power of sync",
-          "page_description": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…",
-          "page_excerpt": "Have you thought about subscribing? It's free. seths.blog/subscribe\n\nThere’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead:\n\nSynchronized work happens together, on a shared schedule, in real time."
+          "resolved_url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+          "page_title": "Research: parse_number() as a SQLite extension: C vs Rust",
+          "page_description": "Four SQLite extensions implement the same `parse_number()` behavior in C and Rust, with tests covering type preservation, parsing rules, and floating-point accuracy. The optimized C implementation was fastest at 16–19 …",
+          "page_excerpt": "I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted.\n\nI'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '£' and '%', handles a leading '-', and returns 'NULL' for anything it can’t parse\n\nExplore the difference between building this as a SQLite extension in C v.s. in Rust - I want to compare performance and code complexity and size of the resulting .so (or whatever) file"
         },
-        "content_context": "There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Syn…\n\nHave you thought about subscribing? It's free. seths.blog/subscribe There’s an overlooked power tool right in front of us. Every individual and organization can use it well, but rarely does. I could write a book on this, but here’s the post instead: Synchronized work happens together, on a shared schedule, in real time.",
-        "trend_score": 41.74,
-        "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Calibron 12 Puzzle/Solver",
-        "url": "https://dawnofthe.dad/calibron",
-        "author": "userundefined",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T00:57:11+00:00",
-        "summary": "Interactive Calibron 12 puzzle and CSP solver",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://dawnofthe.dad/calibron",
-          "page_title": "Calibron 12 Solver",
-          "page_description": "Interactive Calibron 12 puzzle and CSP solver",
-          "page_excerpt": "Welcome to the interactive Calibron 12 puzzle (invented by Theodore Edison in 1933)! Your goal is to pack all 12 rectangular blocks into the 56×56 board with zero wasted space.\n\nHow to play: Click (or drag) any piece from the tray onto the board to place it into the next open Top-Left Corner (marked with a highlighted pink dot on the board). Right-click (or long-press on mobile) any piece in the tray to flip its orientation by 90° before placing, or click a placed piece on the board to undo back to that step. Once you have placed at least 4 pieces , the \"Check\" button...\n\nAnimate solve attempt renders the solver's intermediate piece placements and backtracks on the board while checking your progress (which may give away the solution as pieces are placed), returning to your placed pieces once finished. When Fast execution is enabled (available when animating), the solver runs un-throttled on the backend. Leaving it off steps through the search at a slower pace so..."
-        },
-        "content_context": "I learned about this surprisingly hard puzzle from the curiosity box a while back, and decided to throw together a solver and UI around it, using the generic solver I've built up earlier in golang. This is the result.<p>Stack: golang for solver and webserver, websocket for passing solving progress (see options to toggle that), the usual suspects (HTML/JS/CSS) for the frontend.\n\nInteractive Calibron 12 puzzle and CSP solver\n\nWelcome to the interactive Calibron 12 puzzle (invented by Theodore Edison in 1933)! Your goal is to pack all 12 rectangular blocks into the 56×56 board with zero wasted space. How to play: Click (or drag) any piece from the tray onto the board to place it into the next open Top-Left Corner (marked with a highlighted pink dot on the board). Right-click (or long-press on mobile) any piece in the tray to flip its orientation by 90° before placing, or click a placed piece on the board to undo back to that step. Once you have placed at least 4 pieces , the \"Check\" button... Animate solve attempt renders the solver's intermediate piece placements and backtracks on the board while checking your progress (which may give away the solution as pieces are placed), returning to your placed pieces once finished. When Fast execution is enabled (available when animating), the solver runs un-throttled on the backend. Leaving it off steps through the search at a slower pace so...",
-        "trend_score": 41.73,
-        "trend_breakdown": {
-          "freshness": 0.995,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Tempest Prognosticator",
-        "url": "https://en.wikipedia.org/wiki/Tempest_prognosticator",
-        "author": "thunderbong",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T00:45:21+00:00",
-        "summary": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi...\n\nDr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo...\n\nOn 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://en.wikipedia.org/wiki/Tempest_prognosticator",
-          "page_title": "Tempest prognosticator - Wikipedia",
-          "page_description": null,
-          "page_excerpt": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi...\n\nDr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo...\n\nOn 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition..."
-        },
-        "content_context": "The tempest prognosticator , also known as the leech barometer , is a 19th-century invention by George Merryweather in which leeches are used in a barometer . The twelve leeches are kept in small bottles inside the device; when they become agitated by an approaching storm, they attempt to climb out of the bottles and trigger a small hammer which strikes a bell. The likelihood of a storm is indi... Dr. Merryweather, honorary curator of the Whitby Literary and Philosophical Society's Museum, detailed the sensitivity that medicinal leeches displayed in reaction to electrical conditions in the atmosphere. He was inspired by two lines from Edward Jenner 's poem Signs of Rain : \"The leech disturbed is newly risen; Quite to the summit of his prison.\" [ 1 ] Merryweather spent much of 1850 develo... On 27 February 1851, he gave a nearly three-hour essay to members of the Philosophical Society entitled \"Essay explanatory of the Tempest Prognosticator in the building of the Great Exhibition...",
-        "trend_score": 41.39,
+        "content_context": "Four SQLite extensions implement the same `parse_number()` behavior in C and Rust, with tests covering type preservation, parsing rules, and floating-point accuracy. The optimized C implementation was fastest at 16–19 …\n\nI was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '£' and '%', handles a leading '-', and returns 'NULL' for anything it can’t parse Explore the difference between building this as a SQLite extension in C v.s. in Rust - I want to compare performance and code complexity and size of the resulting .so (or whatever) file",
+        "trend_score": 41.35,
         "trend_breakdown": {
           "freshness": 0.986,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Can AI help connect knowledge across 135 academic domains?",
-        "url": "https://zenodo.org/records/23686384",
-        "author": "pinuslongaeva",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-08T00:39:00+00:00",
-        "summary": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://zenodo.org/records/23686384",
-          "page_title": "UKA-135: A Proposed Rooted-Tree Ontology of 135 Research Domains with Epistemic Constraint",
-          "page_description": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...",
-          "page_excerpt": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analyti...\n\nThe conversation tree holds 1,788 message nodes. The final branch contains 742 user turns and 746 model turns, about 559,000 words, 52 model-initiated web searches, and 15 image uploads; a further 296 nodes sit on edited or regenerated branches and are preserved in the JSON. User turns are short (median 8 words); the model produced roughly 97 percent of the text.\n\nThis archive documents a sustained, self-directed intellectual investigation in which I used artificial intelligence as an external analytical environment. Through recursive questioning, historical comparisons, interdisciplinary..."
-        },
-        "content_context": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analytical labels the model called \"domains,\" family-history research, and a comparison of two short texts...\n\nThis deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek's chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extended exchange covering psychological meta-analysis, a cumulative list of 143 analyti... The conversation tree holds 1,788 message nodes. The final branch contains 742 user turns and 746 model turns, about 559,000 words, 52 model-initiated web searches, and 15 image uploads; a further 296 nodes sit on edited or regenerated branches and are preserved in the JSON. User turns are short (median 8 words); the model produced roughly 97 percent of the text. This archive documents a sustained, self-directed intellectual investigation in which I used artificial intelligence as an external analytical environment. Through recursive questioning, historical comparisons, interdisciplinary...",
-        "trend_score": 41.22,
-        "trend_breakdown": {
-          "freshness": 0.982,
-          "engagement": 0.046,
+          "engagement": 0.045,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -613,23 +590,23 @@
       {
         "source": "Reuters",
         "category": "news",
-        "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-        "published_at": "2026-11-07T22:57:43+00:00",
-        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Poland in shock after six die in Krakow mass shooting；Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded；Six dead after gunman opens fire in Polish city of Krakow。",
+        "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
+        "published_at": "2026-11-08T23:47:26+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says 'only kidding' about naming UFC CEO as White House press secretary；Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job；UFC CEO Dana White declines Trump’s offer to become press secretary, source says。",
         "related_headlines": [
-          "Poland in shock after six die in Krakow mass shooting",
-          "Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded",
-          "Six dead after gunman opens fire in Polish city of Krakow",
-          "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
-          "Shooter kills at least 6 in Kraków, Poland"
+          "Trump says 'only kidding' about naming UFC CEO as White House press secretary",
+          "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job",
+          "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
+          "Trump Shares Cartoon of Dana White Sending UFC Fighters to Attack Reporters",
+          "A Hermon High grad could be the new face of the Trump White House"
         ],
-        "content_context": "Poland in shock after six die in Krakow mass shooting - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Poland in shock after six die in Krakow mass shooting；Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded；Six dead after gunman opens fire in Polish city of Krakow。\n\nRelated coverage: Poland in shock after six die in Krakow mass shooting\n\nRelated coverage: Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded\n\nRelated coverage: Six dead after gunman opens fire in Polish city of Krakow\n\nRelated coverage: Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home\n\nRelated coverage: Shooter kills at least 6 in Kraków, Poland",
-        "trend_score": 39.44,
+        "content_context": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says 'only kidding' about naming UFC CEO as White House press secretary；Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job；UFC CEO Dana White declines Trump’s offer to become press secretary, source says。\n\nRelated coverage: Trump says 'only kidding' about naming UFC CEO as White House press secretary\n\nRelated coverage: Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job\n\nRelated coverage: UFC CEO Dana White declines Trump’s offer to become press secretary, source says\n\nRelated coverage: Trump Shares Cartoon of Dana White Sending UFC Fighters to Attack Reporters\n\nRelated coverage: A Hermon High grad could be the new face of the Trump White House",
+        "trend_score": 46.68,
         "trend_breakdown": {
-          "freshness": 0.912,
+          "freshness": 0.932,
           "engagement": 0.0,
-          "topic_overlap": 0.111,
+          "topic_overlap": 0.462,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -638,48 +615,98 @@
         ]
       },
       {
-        "source": "WRAL",
+        "source": "CBS News",
         "category": "news",
-        "title": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1hjd3ZZUGdscm1kcm4zVC1xUnlIVVJXSHdkQlFSSDJuQ1hJd1ZSbjNNX19YYk5OTGhPd3NLR3FjeDNCYXhxMC1kTHIwS0FSNzRlWUlZdm1teGJ6OW5XZExKcFl1bUpwVjgtRzdMdGhZS2JxTEFKM0haNGluUGdEMUNmNm83Zw?oc=5",
-        "published_at": "2026-11-07T22:55:51+00:00",
-        "summary": "WRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run；Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County；1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.。",
+        "title": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFg1bXdpci03eldOQ21waU42a3hTNjhsWktIM2xSeTF2RmFlWFFIYjEwNXEwZG1ONnRHd3NHWnZWUW4za1ZiT3oyX292RDZmNjNlS1BBWnRSeGFMa2VpQlJRMXczQmF1di1UUkgzd0tJMFJXZHNYc3doU2k5R1FMQV8xSkxzZldoWnY5S0wyS0Y?oc=5",
+        "published_at": "2026-11-09T00:52:17+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies；Republican Sen. Ron Johnson accuses Trump administration of corruption；Transcript: Calley Means on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026。",
         "related_headlines": [
-          "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run",
-          "Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County",
-          "1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.",
-          "1 dead, 20 other Wake County bicyclists injured in vehicle crash near Holly Springs: Fire officials",
-          "1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say"
+          "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies",
+          "Republican Sen. Ron Johnson accuses Trump administration of corruption",
+          "Transcript: Calley Means on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026",
+          "Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Donations",
+          "Blanche dismisses Means allegations as GOP's MAHA feud deepens"
         ],
-        "content_context": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL\n\nWRAL 头条聚焦该事件，Google News 同时聚合到这些相关表述：Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run；Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County；1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.。\n\nRelated coverage: Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run\n\nRelated coverage: Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County\n\nRelated coverage: 1 killed, 7 taken to hospital after car hits bicycles. Driver charged with DWI.\n\nRelated coverage: 1 dead, 20 other Wake County bicyclists injured in vehicle crash near Holly Springs: Fire officials\n\nRelated coverage: 1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say",
-        "trend_score": 33.84,
+        "content_context": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies；Republican Sen. Ron Johnson accuses Trump administration of corruption；Transcript: Calley Means on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026。\n\nRelated coverage: Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies\n\nRelated coverage: Republican Sen. Ron Johnson accuses Trump administration of corruption\n\nRelated coverage: Transcript: Calley Means on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026\n\nRelated coverage: Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Donations\n\nRelated coverage: Blanche dismisses Means allegations as GOP's MAHA feud deepens",
+        "trend_score": 37.32,
         "trend_breakdown": {
-          "freshness": 0.91,
+          "freshness": 0.977,
           "engagement": 0.0,
-          "topic_overlap": 0.067,
+          "topic_overlap": 0.133,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Al Jazeera",
+        "source": "BBC",
         "category": "news",
-        "title": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjJubXg0Znh4QVI4cm5kSENUVE9LYXZWR2xJZm5Ya2NQRDRzcXZRMzNMakZzTHpPbFp6cE51WHBmNUlLWlN5T0F5X1ZoeUpRYklCOVNkOU50enRfMFlGTGVsTktVQU1qcWhfazN0eE5yZGJfd1Fmdk9SY1NZSkZta3E4M2x3cHhrb20wbDl5YU5UdkZVRlVOTWZCSFhFSkh5QU5EbnpMRkIxaFIxQWVSdEN30gG3AUFVX3lxTFB5OENqM2pFYzQzdXlrMHBiaGF1RlhPd2hDQzJxSW1FQlNqRVNMV3VlOFMwS0tLaDM1RThDcmF3ZVZSMUM0SkFXenhDZmlCMW0tWUhhQ2d6OWJYQlprd3h3SUttM2djTDlIM09HdVVWY1VJZ01hZ3REbkpTellwSDQ0WVpQcFNyTUM3MlZhenhwcWFYS3p1MjB5bDlTQ1ZYbVNRN2tQdER4N3RYaFowcVVIRjN6X1k5WQ?oc=5",
-        "published_at": "2026-11-07T23:19:46+00:00",
-        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israel’s president picks Eisenkot over Netanyahu to form next government；In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated；Israel’s president picks Yashar leader Gadi Eisenkot to form government。",
+        "title": "Top House Democrat 'a hard yes' on impeaching Hegseth - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQmRlVU1CeEg3c09yaDNzWC1JbVJ6bTFzUnhNcE5nTjd4bmQ2V09VNWJUT3hoZ3lsWG5teVBpeDRndk03VGFSZjFXaDl5VFkwRk5PdEp2Z3AtY00?oc=5",
+        "published_at": "2026-11-08T22:49:53+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Top House Democrat 'a hard yes' on impeaching Hegseth；Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability；House poised to impeach Pete Hegseth after GOP midterm defeat。",
         "related_headlines": [
-          "Israel’s president picks Eisenkot over Netanyahu to form next government",
-          "In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated",
-          "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-          "US military says strike disabled ship trying to run blockade on Iran",
-          "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How."
+          "Top House Democrat 'a hard yes' on impeaching Hegseth",
+          "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+          "House poised to impeach Pete Hegseth after GOP midterm defeat",
+          "Hakeem Jeffries supports impeaching Pete Hegseth, and a deadly mass shooting in Poland: Weekend Rundown",
+          "Hegseth Mounts Aggressive Campaign to Fight Pending Impeachment"
         ],
-        "content_context": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Israel’s president picks Eisenkot over Netanyahu to form next government；In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated；Israel’s president picks Yashar leader Gadi Eisenkot to form government。\n\nRelated coverage: Israel’s president picks Eisenkot over Netanyahu to form next government\n\nRelated coverage: In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated\n\nRelated coverage: Israel’s president picks Yashar leader Gadi Eisenkot to form government\n\nRelated coverage: US military says strike disabled ship trying to run blockade on Iran\n\nRelated coverage: Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-        "trend_score": 33.37,
+        "content_context": "Top House Democrat 'a hard yes' on impeaching Hegseth - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Top House Democrat 'a hard yes' on impeaching Hegseth；Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability；House poised to impeach Pete Hegseth after GOP midterm defeat。\n\nRelated coverage: Top House Democrat 'a hard yes' on impeaching Hegseth\n\nRelated coverage: Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability\n\nRelated coverage: House poised to impeach Pete Hegseth after GOP midterm defeat\n\nRelated coverage: Hakeem Jeffries supports impeaching Pete Hegseth, and a deadly mass shooting in Poland: Weekend Rundown\n\nRelated coverage: Hegseth Mounts Aggressive Campaign to Fight Pending Impeachment",
+        "trend_score": 34.12,
         "trend_breakdown": {
-          "freshness": 0.927,
+          "freshness": 0.892,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WXII",
+        "category": "news",
+        "title": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University - WXII",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVowZ1g3UUpIakstZDlGU3Y0dTdWQXZJeldUTU9PMVA3NVlYTkczY3lnY3Z6TkpsT0RoS01tVkhmbnhXekkxbVpjQUNWdzk4bEpOQlh2b0xUc2hnc0NPU1NldDhlbUhheHJFeU91SHlaWDR1OUxrUHdaYm1TMF9maWVCd0xNZU9pc3RBeUtsb00?oc=5",
+        "published_at": "2026-11-08T22:01:00+00:00",
+        "summary": "WXII 头条聚焦该事件，Google News 同时聚合到这些相关表述：1 dead, 3 others injured following two separate shootings at Winston-Salem State University；19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged；Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend。",
+        "related_headlines": [
+          "1 dead, 3 others injured following two separate shootings at Winston-Salem State University",
+          "19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged",
+          "Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend",
+          "Man arrested after shootings kill 1 and injure 3 others on Winston-Salem State University campus",
+          "'Hearts are heavy' | WSSU cancels Sunday Homecoming activities after campus shootings"
+        ],
+        "content_context": "1 dead, 3 others injured following two separate shootings at Winston-Salem State University - WXII\n\nWXII 头条聚焦该事件，Google News 同时聚合到这些相关表述：1 dead, 3 others injured following two separate shootings at Winston-Salem State University；19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged；Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend。\n\nRelated coverage: 1 dead, 3 others injured following two separate shootings at Winston-Salem State University\n\nRelated coverage: 19-year-old killed, woman injured in first Winston-Salem State University campus shooting; 2 men charged\n\nRelated coverage: Police make arrest in a deadly shooting at Winston-Salem State during homecoming weekend\n\nRelated coverage: Man arrested after shootings kill 1 and injure 3 others on Winston-Salem State University campus\n\nRelated coverage: 'Hearts are heavy' | WSSU cancels Sunday Homecoming activities after campus shootings",
+        "trend_score": 30.9,
+        "trend_breakdown": {
+          "freshness": 0.858,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "6abc Philadelphia",
+        "category": "news",
+        "title": "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest - 6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3FnVXp6aUdnT2dUOXZOczdNMjBiTmR5SFpHS0Q3X1RVckVFMmdvWVJzUjhHYUk0Z255Sk4xbW02TUw2Zk94eWNNeG96UE1oN2QwUFhpSFhQbHJoaDZ6MUFvQ2d1SjNSemVYNzBVNHRRdkhUYzdnV01pZE5oZjhhZUhWMDh5emJSSHhPUS1ENkJGSERCWFJLWndydHZicUtlakFYaWhYWFhwWndmcHFZcWI1VndQcW5xLVMtMll1YWFDZDjSAcgBQVVfeXFMUGw2Zm9sTFZHWWVqazdqdzhlU1J3YXZ1bkZwVHVVNmZoT1FMbFpRaE1scWNweUplVmY1dDhwSTVQWFZXaXd2M1NzTTY1UEZ0T3otODJRN2dNU1VjT0otUElURldxMkFVdnRCMS1RdTJuSUlQRFp2SGMxTWFuU1V6UFFMTmJTUTFiR3VHdk8yUTRHcHZhYnRWM2hFSHoxcG9tNzQ0WXNXeHd1M2tBX3lYRXlkTGhqeS05S0xBX2dhN3Q3T2tJUEVVekk?oc=5",
+        "published_at": "2026-11-08T20:42:46+00:00",
+        "summary": "6abc Philadelphia 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest；Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia；Tensions rise in Philadelphia over boycott of Jewish-owned restaurants。",
+        "related_headlines": [
+          "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest",
+          "Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia",
+          "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants",
+          "Massive counter-protests met 'bike boycott' in Rittenhouse Square",
+          "Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'"
+        ],
+        "content_context": "Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest - 6abc Philadelphia\n\n6abc Philadelphia 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest；Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia；Tensions rise in Philadelphia over boycott of Jewish-owned restaurants。\n\nRelated coverage: Boycott Bike Ride: Boycott of Jewish-owned Philly businesses draws counterprotest\n\nRelated coverage: Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia\n\nRelated coverage: Tensions rise in Philadelphia over boycott of Jewish-owned restaurants\n\nRelated coverage: Massive counter-protests met 'bike boycott' in Rittenhouse Square\n\nRelated coverage: Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'",
+        "trend_score": 28.95,
+        "trend_breakdown": {
+          "freshness": 0.804,
           "engagement": 0.0,
           "topic_overlap": 0.0,
           "source_weight": 0.8,
@@ -690,21 +717,43 @@
       {
         "source": "The Washington Post",
         "category": "news",
-        "title": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
-        "published_at": "2026-11-07T21:32:20+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 things to know about Stephen Miller, new White House chief of staff；For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown；How one of Trump’s most controversial advisers rose to chief of staff – and what it means。",
+        "title": "How a Mississippi election came down to the clerk’s office - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2VSeEJuZUZtTThnRjdWREI1VXZFV3AtenhQR2taM2FrMXFaN2xRbDhaVVdCdTlsSnZfYTdPMWZUMFZYejRnX3ZEZTN2TUJKRU4yMTdhblZlVDdLbFBvbWJaQ2lEUzFRTllDcWNMOXJJVUhsXzl4RnpUYkg2T18yV0xCOFA3b0xrLUpqT040R0tMMU5EQUY2cEpxNVE3UQ?oc=5",
+        "published_at": "2026-11-08T18:00:00+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How a Mississippi election came down to the clerk’s office；See more headlines & perspectives on Google News。",
         "related_headlines": [
-          "3 things to know about Stephen Miller, new White House chief of staff",
-          "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
-          "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
-          "Stephen Miller’s promotion sets the stage for a new era of confrontation",
-          "Stephen Miller’s wife made calls to White House insiders to push for his chief-of-staff promotion"
+          "How a Mississippi election came down to the clerk’s office",
+          "See more headlines & perspectives on Google News"
         ],
-        "content_context": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：3 things to know about Stephen Miller, new White House chief of staff；For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown；How one of Trump’s most controversial advisers rose to chief of staff – and what it means。\n\nRelated coverage: 3 things to know about Stephen Miller, new White House chief of staff\n\nRelated coverage: For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown\n\nRelated coverage: How one of Trump’s most controversial advisers rose to chief of staff – and what it means\n\nRelated coverage: Stephen Miller’s promotion sets the stage for a new era of confrontation\n\nRelated coverage: Stephen Miller’s wife made calls to White House insiders to push for his chief-of-staff promotion",
-        "trend_score": 33.35,
+        "content_context": "How a Mississippi election came down to the clerk’s office - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How a Mississippi election came down to the clerk’s office；See more headlines & perspectives on Google News。\n\nRelated coverage: How a Mississippi election came down to the clerk’s office\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 28.88,
         "trend_breakdown": {
-          "freshness": 0.852,
+          "freshness": 0.691,
+          "engagement": 0.0,
+          "topic_overlap": 0.25,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUZIQUxDUjgyWTJFcnptb2FZY3phcHBBaVlxQkcyMTVxd25vcDZDNGhGbjE3bEkzbXNxbjZLRk9nX29qRmR2SUpXdGc2UFZMWHVFVWx5aEV2R09KTHppUXYzdDlOdTVZbFN3ekNoZmVLMXowR3QyUFJrNVNKYTh2T2xxSVQ4NjBYbUh6dWVpUDRRM25HSlY1NmFiUTU4dWVyUF8wRWpLaTU3UjEyRVA2UlZ6LWtjU1BQa3I3bGVR?oc=5",
+        "published_at": "2026-11-08T18:00:00+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Potential Vance challengers smell blood in the water after brutal GOP losses；Election Drubbing Complicates Vance’s Calculation on Whether to Run in 2028；Rep. Randy Fine says will not endorse JD Vance, condemns VP rhetoric on midterms。",
+        "related_headlines": [
+          "Potential Vance challengers smell blood in the water after brutal GOP losses",
+          "Election Drubbing Complicates Vance’s Calculation on Whether to Run in 2028",
+          "Rep. Randy Fine says will not endorse JD Vance, condemns VP rhetoric on midterms",
+          "Republicans blame Israel for their defeat",
+          "After midterm rout, Vance tries to build his own 2028 brand"
+        ],
+        "content_context": "Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Potential Vance challengers smell blood in the water after brutal GOP losses；Election Drubbing Complicates Vance’s Calculation on Whether to Run in 2028；Rep. Randy Fine says will not endorse JD Vance, condemns VP rhetoric on midterms。\n\nRelated coverage: Potential Vance challengers smell blood in the water after brutal GOP losses\n\nRelated coverage: Election Drubbing Complicates Vance’s Calculation on Whether to Run in 2028\n\nRelated coverage: Rep. Randy Fine says will not endorse JD Vance, condemns VP rhetoric on midterms\n\nRelated coverage: Republicans blame Israel for their defeat\n\nRelated coverage: After midterm rout, Vance tries to build his own 2028 brand",
+        "trend_score": 27.54,
+        "trend_breakdown": {
+          "freshness": 0.691,
           "engagement": 0.0,
           "topic_overlap": 0.167,
           "source_weight": 0.8,
@@ -713,75 +762,50 @@
         "domains": []
       },
       {
-        "source": "CNN",
+        "source": "Al Jazeera",
         "category": "news",
-        "title": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says - CNN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40aWh4TnVGZ1plSlNMeGVDYi1UeWRhalk3YU9VMEVoS2JQbG1uYnpFNzA3OXVOQVZ5VEJXSkRTSGw2QWN1MHgtSWdIZWFHU0NfMjBpaGlQSlg1QXRBUGxpMmhQLVBqVzd5ZktTcUlOM2V0QUZxSlhlek54QzU?oc=5",
-        "published_at": "2026-11-07T21:10:07+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：UFC CEO Dana White declines Trump’s offer to become press secretary, source says；Trump offers press secretary role to Dana White; UFC boss to meet President；UFC's Dana White says he'll meet with Trump about offer to be his press secretary。",
+        "title": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWJndTBjVU90M3NvOURyOEE4V2NBeW5qbi1ONnF1S2ZpWjE1dE9QTEtnc2lfZmxCX0phZC1aWkw4WXhpNV95d0otelVhTkIxcEtQYTFleTVCaWkxWVNFWXZpU0p0cTdUZ0hMSGIzUHlIVGh6cjI2cnVncEMxM0xTTW5NY05ISndQNjYwR2VlOVJxWVlJWUsyaUxvQVl6WUVMSFU2aktoRzQ1QdIBrwFBVV95cUxQem95MVBFMy1naHV2QVZDMWJmZ25pZ0FVMTljSzFSaTlxN2F2RWJZcWFBMnozWXdLLTZIdzVHV05FaDN5T1B3djdRNElIQTVOYWFYanpPcmZzYVpuZkQzVlpZNV9MNi1EcFZTQ1VEQzMzVm9VRUdaNlZPbkRVbElGZTlVczJHdFMxNkNSekdnNENCQWJoNzVKdFlxQ0Rhank3X21jTVhSX245WTJYZjJz?oc=5",
+        "published_at": "2026-11-08T18:14:45+00:00",
+        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Eisenkot open to Netanyahu joining Israel’s next government；Israel's president taps opposition candidate, not Netanyahu, to form a government；Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu。",
         "related_headlines": [
-          "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
-          "Trump offers press secretary role to Dana White; UFC boss to meet President",
-          "UFC's Dana White says he'll meet with Trump about offer to be his press secretary",
-          "Trump offers UFC chief Dana White press secretary job",
-          "UFC boss Dana White says he's meeting with Trump after press secretary job offer"
+          "Eisenkot open to Netanyahu joining Israel’s next government",
+          "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu",
+          "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+          "A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu"
         ],
-        "content_context": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：UFC CEO Dana White declines Trump’s offer to become press secretary, source says；Trump offers press secretary role to Dana White; UFC boss to meet President；UFC's Dana White says he'll meet with Trump about offer to be his press secretary。\n\nRelated coverage: UFC CEO Dana White declines Trump’s offer to become press secretary, source says\n\nRelated coverage: Trump offers press secretary role to Dana White; UFC boss to meet President\n\nRelated coverage: UFC's Dana White says he'll meet with Trump about offer to be his press secretary\n\nRelated coverage: Trump offers UFC chief Dana White press secretary job\n\nRelated coverage: UFC boss Dana White says he's meeting with Trump after press secretary job offer",
-        "trend_score": 32.59,
+        "content_context": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：Eisenkot open to Netanyahu joining Israel’s next government；Israel's president taps opposition candidate, not Netanyahu, to form a government；Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu。\n\nRelated coverage: Eisenkot open to Netanyahu joining Israel’s next government\n\nRelated coverage: Israel's president taps opposition candidate, not Netanyahu, to form a government\n\nRelated coverage: Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu\n\nRelated coverage: Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government\n\nRelated coverage: A veteran Arab lawmaker in Israel is willing to break with precedent to topple Netanyahu",
+        "trend_score": 27.25,
         "trend_breakdown": {
-          "freshness": 0.837,
+          "freshness": 0.701,
           "engagement": 0.0,
-          "topic_overlap": 0.154,
+          "topic_overlap": 0.125,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "KTLA",
+        "source": "NBC News",
         "category": "news",
-        "title": "2 women killed in California skydiving collision identified as new details emerge - KTLA",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXZvMk5WOGhFOE1JUTVMYjRFbERTVGNtWGNRUHV6c0ZHbWJlMDJHUXRfc0lHcmRaQnJuUjRjTlJodFU0MjB4VDdva0dUUEp6ZGd2OEdmY0p5YTlaZk1KYlZvVVBKUl93TmJaRlFFUFRNU2xkQnpra045RHZzelo1d2Q1YzVmNG14N2xKRkxjbmI4YkFqX0p0LVhoNHA5LWg2SVY3Zy1fMlU1aE5VTVdoRnNwdFREQdIBuwFBVV95cUxPdUQtdXhMM0p0M0lqOVlSOGpfUVNWVk5raE9PUHBHWmNRMm4tTnJRRDUycGpkcFdFbVZoVXUtOUp5S3p6SmZRd28yZWVEUWNDaUZhVTJHMDN5aUdzc3EycWE2Z1RQLVh6R3QtV2xrc1NBdWRlOEphRXpfb2xKU0ZYYldQUWRycThhaE41NEJiN3NlXzZCUjZNendGNU9nbDhOMTkzTTlyMXZ6WDNvRkdtSVJJUXhHUGxBMm04?oc=5",
-        "published_at": "2026-11-07T20:18:05+00:00",
-        "summary": "KTLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 women killed in California skydiving collision identified as new details emerge；2 Skydivers Die After Midair Collision in Southern California；Skydiver, 29, from Chicago suburb dies after mid-air collision。",
+        "title": "Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWliUUVQLUIwblJESW9meTA3OGMyTnB1U1NXSmRVTHdhUkY1WndiZ2EybFFEYXNpSFp6cVdZcGxBSTFreFhUc2l4MUxCU3ZlZGxwaXhtU093d0hJWW5BRUwzSTY5dXdHWHVqQ1pORE5UQ2FwaGt4SWs5cjhydHZ2TDJLZFhuS1RzSVhNVFB0UXQ5SDZ4d0c2TzVYY3RET2RQMXAyV0hWLUxVVVZFYVRfVkhGeGp5bmthOFBOZFFNOA?oc=5",
+        "published_at": "2026-11-08T14:38:10+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump；Hamilton: Many people in Kansas view Schumer as ‘polarizing’；Opinion | The Quiet Brilliance of Adam Hamilton’s Kansas Campaign。",
         "related_headlines": [
-          "2 women killed in California skydiving collision identified as new details emerge",
-          "2 Skydivers Die After Midair Collision in Southern California",
-          "Skydiver, 29, from Chicago suburb dies after mid-air collision",
-          "2 women skydivers killed in Lake Elsinore",
-          "2 skydivers die after colliding midair in California and their parachutes become entangled"
+          "Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump",
+          "Hamilton: Many people in Kansas view Schumer as ‘polarizing’",
+          "Opinion | The Quiet Brilliance of Adam Hamilton’s Kansas Campaign",
+          "Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’",
+          "Kansas senator-elect won't back Chuck Schumer for Senate majority leader"
         ],
-        "content_context": "2 women killed in California skydiving collision identified as new details emerge - KTLA\n\nKTLA 头条聚焦该事件，Google News 同时聚合到这些相关表述：2 women killed in California skydiving collision identified as new details emerge；2 Skydivers Die After Midair Collision in Southern California；Skydiver, 29, from Chicago suburb dies after mid-air collision。\n\nRelated coverage: 2 women killed in California skydiving collision identified as new details emerge\n\nRelated coverage: 2 Skydivers Die After Midair Collision in Southern California\n\nRelated coverage: Skydiver, 29, from Chicago suburb dies after mid-air collision\n\nRelated coverage: 2 women skydivers killed in Lake Elsinore\n\nRelated coverage: 2 skydivers die after colliding midair in California and their parachutes become entangled",
-        "trend_score": 30.43,
+        "content_context": "Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump；Hamilton: Many people in Kansas view Schumer as ‘polarizing’；Opinion | The Quiet Brilliance of Adam Hamilton’s Kansas Campaign。\n\nRelated coverage: Sen.-elect Adam Hamilton says he’d be disappointed if Democrats focus on investigating Trump\n\nRelated coverage: Hamilton: Many people in Kansas view Schumer as ‘polarizing’\n\nRelated coverage: Opinion | The Quiet Brilliance of Adam Hamilton’s Kansas Campaign\n\nRelated coverage: Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’\n\nRelated coverage: Kansas senator-elect won't back Chuck Schumer for Senate majority leader",
+        "trend_score": 23.83,
         "trend_breakdown": {
-          "freshness": 0.801,
+          "freshness": 0.551,
           "engagement": 0.0,
-          "topic_overlap": 0.1,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Daily Beast",
-        "category": "news",
-        "title": "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing - The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZER4MXpoUldXVDdSYXl1dXJKZ0thT01MR1NZOGdzb2h2MFV5dlgtekZmc094WE5hdnZrRHJYdDlMdmNZSDZzM21LYXhfaEYxekhMbENkbE83eVl1WDFTb1hCN2pTRWdSbEZCLURVTHJsa3l6RU5xNk15Tnhsek5VdlBJb0g0RDQ5S2l4WDVBV3dJenkxSUdKX0JpTDk2X2s?oc=5",
-        "published_at": "2026-11-07T21:05:56+00:00",
-        "summary": "The Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing；Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump；After midterm rout, Vance tries to build his own 2028 brand。",
-        "related_headlines": [
-          "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing",
-          "Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump",
-          "After midterm rout, Vance tries to build his own 2028 brand",
-          "Republicans blame Israel for their defeat",
-          "Trump was blindsided by Vance's analysis of GOP's midterm washout blaming war, claims Laura Loomer; says Trump was even angry"
-        ],
-        "content_context": "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing - The Daily Beast\n\nThe Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing；Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump；After midterm rout, Vance tries to build his own 2028 brand。\n\nRelated coverage: Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing\n\nRelated coverage: Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump\n\nRelated coverage: After midterm rout, Vance tries to build his own 2028 brand\n\nRelated coverage: Republicans blame Israel for their defeat\n\nRelated coverage: Trump was blindsided by Vance's analysis of GOP's midterm washout blaming war, claims Laura Loomer; says Trump was even angry",
-        "trend_score": 30.03,
-        "trend_breakdown": {
-          "freshness": 0.834,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.25,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -790,73 +814,23 @@
       {
         "source": "The New York Times",
         "category": "news",
-        "title": "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFVBUDBXYXFrTHowUXZiZFZhRTQtZUhmOEdUYjB2WlV5M0RHMkZtVTIzdktYT3RWYlVBYTB3V0FaR1FVZVZnVUtMS0VlQUZfOVo0YlZjb3lidDhXUVV1dDJGY2NrZXphdFpGLXdkMktBZnpmTDFrVU9xVm14RjZWemE1OTBHM1YyQVo2VVNHVWV3Z3R5eEJMcmg3cy1rOFZVSWdN?oc=5",
-        "published_at": "2026-11-07T17:11:40+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing；DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez；Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos。",
+        "title": "Gina Hinojosa Takes on the Texas Government Republicans Built - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5X2dzOTBtaXhJMG5MemszSk1mY2V5czNNUURoQjNjTkE3ZW9IaHpHQjJ1MVdscFY0Q3Y1eVpURmx1Mjlaekt3ZjVKckt4QTVNb3lkVWllV3J5eDl0N2NDUjVGYkIxUVRjeWpCRE5lcFNsckJXZDR2ekFBRHdzUQ?oc=5",
+        "published_at": "2026-11-08T10:02:00+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Gina Hinojosa Takes on the Texas Government Republicans Built；How Hinojosa’s win in Texas could bite Beshear；‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory。",
         "related_headlines": [
-          "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing",
-          "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez",
-          "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
-          "Teacher's aide arrested in connection with NYC jogger's murder: Police",
-          "Man ‘covered in blood' arrested for Brooklyn jogger's stabbing death: sources"
+          "Gina Hinojosa Takes on the Texas Government Republicans Built",
+          "How Hinojosa’s win in Texas could bite Beshear",
+          "‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory",
+          "Why Gina Hinojosa wants to fire Texas Education Commissioner Mike Morath",
+          "Hinojosa vowed to end Fort Worth, Lake Worth ISD takeovers. The question now is, how soon?"
         ],
-        "content_context": "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing；DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez；Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos。\n\nRelated coverage: Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing\n\nRelated coverage: DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez\n\nRelated coverage: Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos\n\nRelated coverage: Teacher's aide arrested in connection with NYC jogger's murder: Police\n\nRelated coverage: Man ‘covered in blood' arrested for Brooklyn jogger's stabbing death: sources",
-        "trend_score": 27.08,
+        "content_context": "Gina Hinojosa Takes on the Texas Government Republicans Built - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Gina Hinojosa Takes on the Texas Government Republicans Built；How Hinojosa’s win in Texas could bite Beshear；‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory。\n\nRelated coverage: Gina Hinojosa Takes on the Texas Government Republicans Built\n\nRelated coverage: How Hinojosa’s win in Texas could bite Beshear\n\nRelated coverage: ‘Governor for all the people of Texas’: Hinojosa pledges bipartisan administration after election victory\n\nRelated coverage: Why Gina Hinojosa wants to fire Texas Education Commissioner Mike Morath\n\nRelated coverage: Hinojosa vowed to end Fort Worth, Lake Worth ISD takeovers. The question now is, how soon?",
+        "trend_score": 14.53,
         "trend_breakdown": {
-          "freshness": 0.671,
+          "freshness": 0.359,
           "engagement": 0.0,
-          "topic_overlap": 0.182,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "PBS",
-        "category": "news",
-        "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2Rac3hxeXVCWWZlNGF3UndSazNNcjBfNVhfa2QzUTNOVTEtSnh4b1dLXzVsdlRTc0R3Um5DRG9vZW1lRVhPeFlSRXZybFVnd0J0LXZkWmhRVjJVa1JXZDVNdHRLX1Nid2gxWndjUllJdVFsaTNUcUxMWm5xOTV2TDQyd01GY2U0c3pvbEg1RldaS3BlcEFYZmNDcWRHd051T3ZzQUt2QjJ0RWNLeXA3b216RkIya3hNM1djR3FRSFBwMzdWRmpab1JUQ0t6MGRaUEZJ0gHYAUFVX3lxTFBRVFdWWnRfd3VfaHFvc1ZDR0tNcVFYYWFIOVpLVnZid1lIX2dBUDh5ZEZGOFM2ajBLeHJTbXByeWNIeGVyaDdtYno2UFNleEE5cHZyVlB0QWRtTl9vWGZGT2pRS3NUa3ZWWEtYLXo3ek42VDRGQUpyeVVEc0pndGJTdmF6SG1fVGtzVmVSX1JkSnpNYUd3RXp3U0loTTlnMFl5enhwbzZoRW0xMFZBd2RPX2o0R09JT21tSHdraldEOFByakdySnRCa3FRRFpsUXhMODBqWWxFTA?oc=5",
-        "published_at": "2026-11-07T17:54:01+00:00",
-        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on；Mississippi U.S. Senate Election Live Results 2026；Tight Senate race awaits results of pending Mississippi ballots。",
-        "related_headlines": [
-          "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
-          "Mississippi U.S. Senate Election Live Results 2026",
-          "Tight Senate race awaits results of pending Mississippi ballots",
-          "Here are the midterm races to watch that are still too close to call",
-          "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows"
-        ],
-        "content_context": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on；Mississippi U.S. Senate Election Live Results 2026；Tight Senate race awaits results of pending Mississippi ballots。\n\nRelated coverage: Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on\n\nRelated coverage: Mississippi U.S. Senate Election Live Results 2026\n\nRelated coverage: Tight Senate race awaits results of pending Mississippi ballots\n\nRelated coverage: Here are the midterm races to watch that are still too close to call\n\nRelated coverage: Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
-        "trend_score": 25.23,
-        "trend_breakdown": {
-          "freshness": 0.701,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "CNN",
-        "category": "news",
-        "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDZTcFlWYjRHbmdpU2lwcmJtMXF6MDJwM3RuazZwY1FEUE5nQ2FHN3lPNWktXzdONG9Ud29qa0tuRnlYaXpxbDdVZ2paMGlDZUhyV0FUaFRMU1l5ekJscTFSWm5NVXo3NklXTlhqbVB6SjBROHA1dDVkVXAzaFNpR1h3cmZQQ3BtbWc?oc=5",
-        "published_at": "2026-11-07T11:00:15+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida；Father of co-pilot killed in Florida plane crash speaks out；24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida。",
-        "related_headlines": [
-          "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
-          "Father of co-pilot killed in Florida plane crash speaks out",
-          "24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida",
-          "'Life turned upside down': Family retains attorney after losing home, livelihood in deadly Learjet crash",
-          "Newly released 911 audio reveals chaos after deadly Learjet crash"
-        ],
-        "content_context": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida；Father of co-pilot killed in Florida plane crash speaks out；24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida。\n\nRelated coverage: A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida\n\nRelated coverage: Father of co-pilot killed in Florida plane crash speaks out\n\nRelated coverage: 24-Year-Old Nanny Made Final Call to Sister Before Plane Crashed, Killing 9, in Florida\n\nRelated coverage: 'Life turned upside down': Family retains attorney after losing home, livelihood in deadly Learjet crash\n\nRelated coverage: Newly released 911 audio reveals chaos after deadly Learjet crash",
-        "trend_score": 19.81,
-        "trend_breakdown": {
-          "freshness": 0.414,
-          "engagement": 0.0,
-          "topic_overlap": 0.308,
+          "topic_overlap": 0.1,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -868,46 +842,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "author": "mattpocock",
-      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
-      "language": "Shell",
-      "score": 1100,
-      "comment_count": 26580,
-      "total_stars": 317720,
-      "built_by": [
-        "mattpocock",
-        "claude",
-        "github-actions",
-        "gabimoncha"
-      ],
-      "content_context": "Skills for Real Engineers. Straight from my .agents directory.\n\nLanguage: Shell\n\nStars today: 1100\n\nTotal stars: 317720\n\nBuilt by: mattpocock, claude, github-actions, gabimoncha",
-      "trend_score": 97.7,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 1.0,
-        "topic_overlap": 0.5,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "author": "anthropics",
       "summary": "Public repository for Agent Skills",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "Python",
-      "score": 390,
-      "comment_count": 22253,
-      "total_stars": 188791,
+      "score": 792,
+      "comment_count": 22349,
+      "total_stars": 189673,
       "built_by": [
         "rlancemartin",
         "klazuka",
@@ -915,11 +858,11 @@
         "cj-ant",
         "ericharmeling"
       ],
-      "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 390\n\nTotal stars: 188791\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
-      "trend_score": 94.75,
+      "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 792\n\nTotal stars: 189673\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+      "trend_score": 96.19,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.922,
+        "engagement": 0.96,
         "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -931,28 +874,28 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "author": "google",
-      "summary": "Agent Skills for Google products and technologies",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "author": "anthropics",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "Python",
-      "score": 443,
-      "comment_count": 1955,
-      "total_stars": 23406,
+      "score": 32,
+      "comment_count": 3280,
+      "total_stars": 19438,
       "built_by": [
-        "cloud-ix-copybara",
-        "holtskinner",
-        "martinvarelaj",
-        "helloeve",
-        "wangauone"
+        "cj-ant",
+        "claude",
+        "x5a",
+        "alexalbertt",
+        "zealoushacker"
       ],
-      "content_context": "Agent Skills for Google products and technologies\n\nLanguage: Python\n\nStars today: 443\n\nTotal stars: 23406\n\nBuilt by: cloud-ix-copybara, holtskinner, martinvarelaj, helloeve, wangauone",
-      "trend_score": 90.19,
+      "content_context": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\nLanguage: Python\n\nStars today: 32\n\nTotal stars: 19438\n\nBuilt by: cj-ant, claude, x5a, alexalbertt, zealoushacker",
+      "trend_score": 88.1,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.802,
-        "topic_overlap": 0.5,
+        "engagement": 0.652,
+        "topic_overlap": 0.667,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -967,11 +910,11 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "author": "sherlock-project",
       "summary": "Hunt down social media accounts by username across social networks",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "Python",
-      "score": 1766,
-      "comment_count": 11870,
-      "total_stars": 100486,
+      "score": 2373,
+      "comment_count": 12133,
+      "total_stars": 103615,
       "built_by": [
         "sdushantha",
         "hoadlck",
@@ -979,41 +922,11 @@
         "TheYahya",
         "Czechball"
       ],
-      "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 1766\n\nTotal stars: 100486\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
-      "trend_score": 86.41,
+      "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 2373\n\nTotal stars: 103615\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+      "trend_score": 86.84,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.989,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "author": "cloudflare",
-      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
-      "language": "JavaScript",
-      "score": 2085,
-      "comment_count": 4269,
-      "total_stars": 65743,
-      "built_by": [
-        "literally-dan",
-        "CooperSheroy",
-        "kennysarnoski-jarvis"
-      ],
-      "content_context": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLanguage: JavaScript\n\nStars today: 2085\n\nTotal stars: 65743\n\nBuilt by: literally-dan, CooperSheroy, kennysarnoski-jarvis",
-      "trend_score": 84.78,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.946,
+        "engagement": 1.0,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1029,11 +942,11 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "author": "milind-soni",
       "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "TypeScript",
-      "score": 1955,
-      "comment_count": 2407,
-      "total_stars": 16990,
+      "score": 1439,
+      "comment_count": 2536,
+      "total_stars": 18290,
       "built_by": [
         "milind-soni",
         "claude",
@@ -1041,75 +954,11 @@
         "robinsonnblack",
         "bradhallett"
       ],
-      "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1955\n\nTotal stars: 16990\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
-      "trend_score": 83.47,
+      "content_context": "Open-source Grok Bot alternative with a virtual machine that bots can use\n\nLanguage: TypeScript\n\nStars today: 1439\n\nTotal stars: 18290\n\nBuilt by: milind-soni, claude, aivsomkar, robinsonnblack, bradhallett",
+      "trend_score": 82.49,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.911,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "author": "prometheus",
-      "summary": "The Prometheus monitoring system and time series database.",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
-      "language": "Go",
-      "score": 322,
-      "comment_count": 11003,
-      "total_stars": 67449,
-      "built_by": [
-        "fabxc",
-        "juliusv",
-        "beorn7",
-        "bboreham",
-        "dependabot"
-      ],
-      "content_context": "The Prometheus monitoring system and time series database.\n\nLanguage: Go\n\nStars today: 322\n\nTotal stars: 67449\n\nBuilt by: fabxc, juliusv, beorn7, bboreham, dependabot",
-      "trend_score": 82.0,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.873,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "author": "astral-sh",
-      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
-      "language": "Rust",
-      "score": 350,
-      "comment_count": 2631,
-      "total_stars": 50979,
-      "built_by": [
-        "charliermarsh",
-        "MichaReiser",
-        "AlexWaygood",
-        "renovate",
-        "sharkdp"
-      ],
-      "content_context": "An extremely fast Python linter and code formatter, written in Rust.\n\nLanguage: Rust\n\nStars today: 350\n\nTotal stars: 50979\n\nBuilt by: charliermarsh, MichaReiser, AlexWaygood, renovate, sharkdp",
-      "trend_score": 79.34,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.802,
+        "engagement": 0.885,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1125,11 +974,11 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "author": "vercel-labs",
       "summary": "Browser automation CLI for AI agents",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "Rust",
-      "score": 190,
-      "comment_count": 3209,
-      "total_stars": 46833,
+      "score": 815,
+      "comment_count": 3258,
+      "total_stars": 47626,
       "built_by": [
         "ctate",
         "Railly",
@@ -1137,11 +986,11 @@
         "lahfir",
         "claude"
       ],
-      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 190\n\nTotal stars: 46833\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
-      "trend_score": 78.21,
+      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 815\n\nTotal stars: 47626\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+      "trend_score": 81.58,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.773,
+        "engagement": 0.861,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1157,11 +1006,11 @@
       "url": "https://github.com/meta/astryx",
       "author": "meta",
       "summary": "An open source design system that's fully customizable and agent ready",
-      "published_at": "2026-11-08T01:04:42.753682+00:00",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
       "language": "TypeScript",
-      "score": 96,
-      "comment_count": 1188,
-      "total_stars": 14534,
+      "score": 875,
+      "comment_count": 1326,
+      "total_stars": 16866,
       "built_by": [
         "github-actions",
         "cixzhang",
@@ -1169,11 +1018,107 @@
         "josephfarina",
         "vjeux"
       ],
-      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 96\n\nTotal stars: 14534\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
-      "trend_score": 74.52,
+      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 875\n\nTotal stars: 16866\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+      "trend_score": 79.97,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.676,
+        "engagement": 0.819,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "author": "ranxianglei",
+      "summary": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
+      "language": "TypeScript",
+      "score": 460,
+      "comment_count": 406,
+      "total_stars": 5179,
+      "built_by": [
+        "ranxianglei",
+        "github-actions",
+        "YunzhouLi-hub",
+        "z0d0dOr",
+        "yanhuojiyusheng"
+      ],
+      "content_context": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\n\nLanguage: TypeScript\n\nStars today: 460\n\nTotal stars: 5179\n\nBuilt by: ranxianglei, github-actions, YunzhouLi-hub, z0d0dOr, yanhuojiyusheng",
+      "trend_score": 76.03,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.715,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "author": "google-deepmind",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
+      "language": "C++",
+      "score": 41,
+      "comment_count": 1953,
+      "total_stars": 16433,
+      "built_by": [
+        "yuvaltassa",
+        "quagla",
+        "haroonq",
+        "kbayes",
+        "saran-t"
+      ],
+      "content_context": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\nLanguage: C++\n\nStars today: 41\n\nTotal stars: 16433\n\nBuilt by: yuvaltassa, quagla, haroonq, kbayes, saran-t",
+      "trend_score": 73.19,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.641,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "author": "dsx-ai-factory",
+      "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "published_at": "2026-11-09T01:24:51.483160+00:00",
+      "language": "Go",
+      "score": 345,
+      "comment_count": 111,
+      "total_stars": 861,
+      "built_by": [
+        "dims",
+        "TerryHowe",
+        "lia-campbell",
+        "jedimt",
+        "danbudris"
+      ],
+      "content_context": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.\n\nLanguage: Go\n\nStars today: 345\n\nTotal stars: 861\n\nBuilt by: dims, TerryHowe, lia-campbell, jedimt, danbudris",
+      "trend_score": 72.75,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.629,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1185,79 +1130,149 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
-      "url": "https://news.ycombinator.com/item?id=50409433",
-      "author": "ksniwmidjd",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-08T00:36:31+00:00",
-      "summary": "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
-      "comment_highlights": [
-        "Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory."
-      ],
-      "linked_context": {},
-      "content_context": "Why not give customers a binary they can run on their own Mac?\n\nHN comment: Others do, see Qwen and other open models. OpenAi and Anthropic's models are a bit larger though, and your computer would run out of memory.",
-      "trend_score": 52.57,
-      "trend_breakdown": {
-        "freshness": 0.98,
-        "engagement": 0.082,
-        "topic_overlap": 0.125,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
-      "url": "https://news.ycombinator.com/item?id=50409438",
-      "author": "apatheticonion",
-      "score": 1,
+      "title": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+      "url": "https://github.com/dooly6276/claude-bulkhead",
+      "author": "dooly6276",
+      "score": 2,
       "comment_count": 0,
-      "published_at": "2026-11-08T00:37:05+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": "With the efforts to clamp down on LLM-assisted reverse engineering - I am wondering;<p>If LLM assisted reverse engineering is deemed illegal by the courts, is that precedent for a class action that asserts OSS licenses are violated by labs that trained LLMs on that code?<p>There are two modalities for this;<p>1) LLM being post-trained against a decompiled binary - then used to output working source code.<p>2) LLM being used to analyze decompiled binary and used to output working source code.<p>How can it be \"clean room\" when an LLM is trained on or reads OSS but not clean room when the same is done for decompiled software?",
-      "trend_score": 51.23,
-      "trend_breakdown": {
-        "freshness": 0.981,
-        "engagement": 0.046,
-        "topic_overlap": 0.125,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
-      "url": "https://github.com/alexbeeken/skrongle-mini",
-      "author": "skrongle-mini",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-08T00:40:33+00:00",
-      "summary": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
+      "published_at": "2026-11-09T00:55:37+00:00",
+      "summary": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead",
       "comment_highlights": [
-        "I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text..."
+        "[flagged]"
       ],
       "linked_context": {
-        "resolved_url": "https://github.com/alexbeeken/skrongle-mini",
-        "page_title": "GitHub - alexbeeken/skrongle-mini: Self hosted learning platform with AI features.",
-        "page_description": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.",
-        "page_excerpt": "A learning app you run yourself, on a Raspberry Pi, for the people at home.\n\nSkrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you.\n\nIt is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare."
+        "resolved_url": "https://github.com/dooly6276/claude-bulkhead",
+        "page_title": "GitHub - dooly6276/claude-bulkhead: Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks.",
+        "page_description": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead",
+        "page_excerpt": "Hooks that stop parallel Claude Code sessions on one machine from killing each other's servers or running it out of RAM.\n\n8 guards, 10 commands, a status line, 6 slash commands, 1 skill, zero dependencies\n\nWhat is it | Scan | Why | Features | Install | Quick start | Remote | How it works | Guards | FAQ"
       },
-      "content_context": "Self hosted learning platform with AI features. Contribute to alexbeeken/skrongle-mini development by creating an account on GitHub.\n\nA learning app you run yourself, on a Raspberry Pi, for the people at home. Skrongle is one small binary that teaches from courses made of JSON files: lessons, adaptive quizzes, five-minute practice sessions, games, flashcards and an AI tutor. Spanish and French courses ship with it; any subject that fits units → lesson groups → lessons can be a course, written by hand, uploaded from files, or described to an AI that writes it for you. It is built for a handful of people who know whoever runs it: a family, a class, a few friends. Up to eight accounts, no e-mail, no outside service of any kind except the AI providers you choose to give it a key for. A Raspberry Pi Zero 2 W runs it with room to spare.\n\nHN comment: I built this as my dream learning platform. You can generate a course with AI API keys (or manually) and then have a semi-gamified experience while taking the course. There's a lot of different question types that can be used for variety.<p>Courses are just json files so you can edit them as text...",
-      "trend_score": 50.05,
+      "content_context": "Run many Claude Code sessions on one machine safely: no killed dev servers, port clashes, RAM or disk freezes, or mixed-up commits. Zero-dependency hooks. - dooly6276/claude-bulkhead\n\nHooks that stop parallel Claude Code sessions on one machine from killing each other's servers or running it out of RAM. 8 guards, 10 commands, a status line, 6 slash commands, 1 skill, zero dependencies What is it | Scan | Why | Features | Install | Quick start | Remote | How it works | Guards | FAQ\n\nHN comment: [flagged]",
+      "trend_score": 55.86,
       "trend_breakdown": {
-        "freshness": 0.983,
-        "engagement": 0.082,
+        "freshness": 0.98,
+        "engagement": 0.072,
+        "topic_overlap": 0.3,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+      "url": "https://airlock.lunareng.com/docs",
+      "author": "lovetocode",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-09T00:59:27+00:00",
+      "summary": "Your agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://airlock.lunareng.com/docs",
+        "page_title": "Airlock",
+        "page_description": "Your agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+        "page_excerpt": null
+      },
+      "content_context": "My name is Matt and I am building Airlock. Airlock is going to be an open standard on managing autonomous fleets of engineering agents. I am seeking constructive feedback on the direction of this project and also asking what are your major pain points with managing AI use at larger businesses. Right now I am running my own company using this framework with a total of 23 workflows across four large scale projects.<p>Airlock is still really early, only 3-4 weeks old.<p>Airlock's configuration standard is aimed to be open source and I will also open source the backplane once I gain a bit more confidence in what I have built here and it is a bit more ready for public scrutiny. Today the schema itself and the reusable GitHub actions are publicly available. I will selfishly figure out how to monetize this at some point but my desired customer is going to be larger enterprises. Airlock kind of does a lot of things but if I had to sum it up in several bullet points it would be:<p>1) Allows for the configuration of agent behaviors and life cycles under version control. Each agent run proves who it is with GitHub’s OIDC token, and Airlock trades that for a GitHub token that lasts one hour...\n\nYour agents work around the clock. Your team decides how far they go. And in the morning, you can see what got done, and what it cost.",
+      "trend_score": 54.7,
+      "trend_breakdown": {
+        "freshness": 0.982,
+        "engagement": 0.045,
+        "topic_overlap": 0.286,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+      "author": "berkeleyjunk",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-09T01:18:05+00:00",
+      "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+        "page_title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "page_description": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+        "page_excerpt": "Nvidia CEO Jensen Huang delivers his keynote on the company's GTC event in Berlin, Germany, Wednesday, Oct. 21, 2026. Markus Schreiber/AP hide caption\n\nThe massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy.\n\nIn the statement announcing the investigation, Nvidia cited recent reporting by The New York Times , which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China."
+      },
+      "content_context": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.\n\nNvidia CEO Jensen Huang delivers his keynote on the company's GTC event in Berlin, Germany, Wednesday, Oct. 21, 2026. Markus Schreiber/AP hide caption The massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy. In the statement announcing the investigation, Nvidia cited recent reporting by The New York Times , which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China.",
+      "trend_score": 54.56,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.045,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+      "url": "https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia",
+      "author": "JumpCrisscross",
+      "score": 2,
+      "comment_count": 1,
+      "published_at": "2026-11-09T01:18:25+00:00",
+      "summary": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+      "comment_highlights": [
+        "Oh my...<p>Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms. Huang were “not unusual” and consistent with the kinds of meetings he has with any of Nvidia’s many customers."
+      ],
+      "linked_context": {
+        "resolved_url": "https://daringfireball.net/linked/2026/11/08/huang-betrayed-nvidia",
+        "page_title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "page_description": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+        "page_excerpt": "Julian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York Times on Friday:\n\nJohn Rizzo, an Nvidia spokesman, said that the company does not share classified information with its customers, and that customers do not ask Nvidia to press the U.S. government to change its policies on chip sales to China.\n\nHe added that the Chinese government had “consistently promoted its own domestic alternatives in China, including Huawei, and strictly limited imports of our data center products.”"
+      },
+      "content_context": "Link to: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI\n\nJulian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York Times on Friday: John Rizzo, an Nvidia spokesman, said that the company does not share classified information with its customers, and that customers do not ask Nvidia to press the U.S. government to change its policies on chip sales to China. He added that the Chinese government had “consistently promoted its own domestic alternatives in China, including Huawei, and strictly limited imports of our data center products.”\n\nHN comment: Oh my...<p>Mr. Rizzo has maintained that Mr. Huang’s interactions with Ms. Huang were “not unusual” and consistent with the kinds of meetings he has with any of Nvidia’s many customers.",
+      "trend_score": 54.25,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.108,
+        "topic_overlap": 0.125,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Artificial Analysis Decision Index v2",
+      "url": "https://artificialanalysis.ai/articles/decision-index-v2",
+      "author": "hjun1052",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-09T01:07:30+00:00",
+      "summary": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://artificialanalysis.ai/articles/decision-index-v2",
+        "page_title": "Introducing the Artificial Analysis Decision Index v2",
+        "page_description": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration",
+        "page_excerpt": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration\n\nWe’ve released the second version of the Artificial Analysis Decision Index to better reflect real-world utility and guard against benchmark gaming. 45% of the Index is now built on private datasets, up from 25% in v1. Drex Max v1.1 from Nace AI narrowly leads among decision models at 73, within 1 point of GLiDE v1.2 (Fastino Labs) and Mammoth 27B (Baseten).\n\n➤ Decision Score: We adopt a new headline metric that rewards a model for both correctness and calibrated confidence. Each question scores from 0 to 100: right answers score above 50, wrong answers below 50, and confidence in its top answer moves the score within each half"
+      },
+      "content_context": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration\n\nIntroducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration We’ve released the second version of the Artificial Analysis Decision Index to better reflect real-world utility and guard against benchmark gaming. 45% of the Index is now built on private datasets, up from 25% in v1. Drex Max v1.1 from Nace AI narrowly leads among decision models at 73, within 1 point of GLiDE v1.2 (Fastino Labs) and Mammoth 27B (Baseten). ➤ Decision Score: We adopt a new headline metric that rewards a model for both correctness and calibrated confidence. Each question scores from 0 to 100: right answers score above 50, wrong answers below 50, and confidence in its top answer moves the score within each half",
+      "trend_score": 48.9,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.045,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.18
@@ -1269,54 +1284,21 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
-      "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-      "author": "herbertl",
+      "title": "Staff at the US center for AI safety are reporting to the White House",
+      "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+      "author": "sshah03",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-08T01:00:16+00:00",
-      "summary": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
+      "published_at": "2026-11-09T01:19:28+00:00",
+      "summary": null,
       "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-        "page_title": "Brown Professor Suspects Most of His Class Used AI to Cheat",
-        "page_description": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.",
-        "page_excerpt": "In a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person.\n\nFor the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro...\n\nBut by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha..."
-      },
-      "content_context": "Brown University leaders’ response to the alleged cheating incident has been “meek,” the professor said.\n\nIn a message to students after the midterm, Serrano told them he suspected many of them of using AI to cheat and that he was changing the final exam to be conducted in person. For the first time since he started teaching Welfare Economics and Social Choice Theory nearly two decades ago, Brown University economics professor Roberto Serrano gave his students a take-home midterm this spring. Quite a few students had expressed anxiety about being in a classroom after a gunman killed two students and injured nine in a December mass shooting at Brown , and so “it was appro... But by the end of the semester, Serrano regretted the decision. Dozens of students in the class likely used artificial intelligence to cheat and earn perfect or near-perfect scores on their midterm, he said. Serrano in turn made the final exam in-person, which led more than a dozen students to drop the course and even more to fail it. Administrators’ response to the widespread cheating event ha...",
-      "trend_score": 44.06,
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 47.77,
       "trend_breakdown": {
-        "freshness": 0.997,
-        "engagement": 0.046,
-        "topic_overlap": 0.125,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it all",
-      "url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-      "author": "areoform",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-08T00:38:37+00:00",
-      "summary": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-        "page_title": "The curious story of a renowned Field Museum scientist, a deadly snakebite, and a diary that documented it all",
-        "page_description": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.",
-        "page_excerpt": "A world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details.\n\nWhat does this sound like? The plot of a comic book? A Netflix serial?\n\nWell, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday."
-      },
-      "content_context": "On Sept. 26, 1957, renowned herpetologist and Field Museum curator emeritus Karl Patterson Schmidt died from a snakebite. He documented the process in meticulous, graphic detail.\n\nA world-renowned museum curator gets bitten by a snake he's trying to identify. He does not seek medical treatment. He goes home and documents his symptoms hour by hour in a journal, including all the explicit details. What does this sound like? The plot of a comic book? A Netflix serial? Well, it really happened. The curator's name was Karl Patterson Schmidt , and he worked at Chicago's Field Museum of Natural History . He died of that snakebite on Sept. 26, 1957 — 68 years ago Friday.",
-      "trend_score": 43.78,
-      "trend_breakdown": {
-        "freshness": 0.982,
-        "engagement": 0.046,
-        "topic_overlap": 0.143,
+        "freshness": 0.996,
+        "engagement": 0.045,
+        "topic_overlap": 0.333,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1327,162 +1309,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源生态持续活跃，GitHub趋势榜上多个技能库项目引发高度关注。Anthropic、Google及个人开发者mattpocock相继开源AI智能体技能仓库，旨在降低开发者构建高级AI应用的门槛，推动智能体技术标准化。同时，Cloudflare开源的security-audit-skill项目展示了AI在自动化安全审计领域的应用潜力。此外，Ruff等高性能开发工具持续受到开发者青睐，反映了AI工程化进程中效率工具的刚性需求。",
+    "overview": "今日AI领域开源生态持续活跃，多个关键项目在GitHub趋势榜上引发关注。Anthropic开源了专注于智能体技能的公共仓库'Agent Skills'，旨在推动AI智能体能力的标准化与协作。同时，其发布的'Claude Quickstarts'项目集合，为开发者快速上手Claude API提供了实用资源。Vercel Labs开源的'agent-browser'项目为AI智能体提供了浏览器自动化CLI工具，而Meta推出的'Astryx'则是一个为AI智能体准备的开源设计系统。此外，'billion-context'项目针对大语言模型的长上下文管理痛点，提出了压缩优化方案。这些进展共同指向AI应用开发门槛的降低与智能体生态的加速构建。",
     "named_hotspots": [
       {
-        "name": "mattpocock/skills",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "GitHub项目'mattpocock/skills'今日在GitHub趋势榜上获得显著关注，单日新增1100颗星，总星数已达317720。该项目定位为'真实工程师的技能'，源自作者的.agents目录，主要使用Shell语言开发。",
-        "core_details": "该项目是一个开源工具集或技能库，旨在为工程师提供实用技能，由mattpocock主导，并得到claude、github-actions、gabimoncha等贡献者的支持。项目语言为Shell，表明其可能专注于命令行工具、自动化脚本或系统管理相关技能。今日趋势得分高达97.7，显示出在开发者社区中的高热度。",
-        "ai_take": "该项目虽未明确标注为AI项目，但提及'源自.agents目录'，可能暗示与AI代理或自动化工作流相关，例如用于增强开发效率的智能工具链。在AI驱动的开发工具日益普及的背景下，此类技能库可能整合了AI辅助的代码生成、任务自动化等实践，反映了工程师如何利用AI工具优化日常工作。",
-        "hype_check": "热度真实且强劲：单日千星增长和近32万的总星数表明项目具有广泛的社区认可和实用价值。高趋势得分（97.7）和大量评论（26580条）进一步佐证了其持续影响力，并非短期炒作。",
-        "value_check": "核心价值在于提供工程师所需的实战技能，可能涵盖Shell脚本、DevOps工具链或AI辅助开发技巧，有助于提升开发效率和自动化水平。作为开源项目，它允许社区协作改进，具有教育和工具双重属性，对中高级开发者尤其有参考意义。",
-        "follow_up": "可关注项目更新是否纳入更多AI集成功能，例如与LLM工具的交互脚本，或观察其在CI/CD、云原生场景中的应用案例。同时，跟踪作者mattpocock的其他项目，以了解其技术生态布局。",
-        "evidence": "项目描述明确为'Skills for Real Engineers. Straight from my .agents directory.'；GitHub数据：语言Shell，今日星数1100，总星317720，趋势得分97.7，评论数26580；贡献者包括claude等，暗示AI工具参与。"
-      },
-      {
-        "name": "Anthropic Agent Skills 仓库",
+        "name": "Agent Skills 公共仓库",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Anthropic 在 GitHub 上公开了一个名为 'skills' 的公共代码仓库，该项目专注于为 AI 智能体（Agent）开发技能。",
-        "core_details": "该仓库使用 Python 语言编写，今日获得 390 颗星，总星数已达 188,791。项目由 rlancemartin, klazuka, claude, cj-ant, ericharmeling 等贡献者构建。",
-        "ai_take": "这标志着 Anthropic 在推进 AI 智能体能力方面迈出了公开、协作的一步。通过开源技能库，他们可能旨在加速智能体在复杂任务中理解和执行能力的开发，并促进社区围绕其 AI 模型（如 Claude）构建更强大的应用生态。",
-        "hype_check": "高热度（趋势得分 94.75），表明开发者社区对此类开源 AI 工具包有强烈兴趣和关注。总星数极高，说明项目已积累相当规模的影响力。",
-        "value_check": "为 AI 开发者和研究者提供了可直接使用的智能体技能代码资源，降低了构建高级 AI 应用的入门门槛，并可能推动智能体技术的标准化和最佳实践。",
-        "follow_up": "关注该仓库的更新，以了解 Anthropic 在智能体技能方面的最新进展；观察社区如何利用这些技能构建实际应用；留意 Anthropic 是否会围绕此推出更完整的智能体开发框架或与 Claude 模型更深度的集成。",
-        "evidence": "项目描述为 'Public repository for Agent Skills'；语言为 Python；高星数和今日增长数反映了其受欢迎程度；由 Anthropic 官方账号发布。"
+        "what_happened": "Anthropic 在 GitHub 上开源了一个名为 'skills' 的公共仓库，该项目专注于 Agent Skills（智能体技能），今日获得 792 颗星，总星数已达 189,673，引发社区高度关注。",
+        "core_details": "该项目是一个用于智能体技能的公共代码仓库，主要编程语言为 Python。由 rlancemartin, klazuka, claude, cj-ant, ericharmeling 等开发者构建。目前仓库总星数接近 19 万，今日新增 792 颗星，在 GitHub 趋势榜上热度极高。",
+        "ai_take": "这标志着 Anthropic 在推进 AI 智能体（Agent）能力标准化和开源化方面迈出重要一步。通过公开共享智能体技能库，可以降低开发者构建复杂 AI 应用的门槛，促进智能体生态的协作与发展，可能对多智能体系统和工具调用能力产生积极影响。",
+        "hype_check": "高热度（趋势得分 96.19），但需注意部分热度可能来自 Anthropic 的品牌效应和现有社区基础，而非纯粹的技术突破。",
+        "value_check": "高价值。开源智能体技能库能为开发者提供实用的参考实现和可复用组件，加速 AI 应用开发，符合当前 Agent 领域的发展需求。",
+        "follow_up": "关注该仓库后续的更新内容、技能分类、实际用例以及社区如何基于此构建更复杂的智能体应用。",
+        "evidence": "GitHub 仓库数据：语言 Python，今日星数 792，总星数 189673，构建者名单，项目描述为 'Public repository for Agent Skills'。"
       },
       {
-        "name": "google/skills",
+        "name": "Claude Quickstarts",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "Google在GitHub上开源了一个名为'skills'的项目，该项目专注于为Google产品和技术提供Agent Skills（智能体技能）。",
-        "core_details": "该项目使用Python语言开发，今日新增443颗星，总星数已达23406，由cloud-ix-copybara、holtskinner、martinvarelaj、helloeve、wangauone等贡献者构建。项目旨在为Google生态内的智能体（Agent）提供技能支持，以增强其功能和应用范围。",
-        "ai_take": "该项目代表了Google在AI智能体（Agent）领域的重要布局，通过开源技能库，可能旨在降低开发者构建基于Google技术的智能体应用的门槛，并推动其AI生态系统的扩展和标准化。",
-        "hype_check": "趋势评分高达90.19，表明该项目在开发者社区中受到高度关注和热议，反映了市场对AI智能体技能的强烈兴趣和需求。",
-        "value_check": "作为Google官方开源项目，具有较高的可信度和技术价值，可能为开发者提供实用的工具和参考，促进AI智能体技术的创新和应用落地。",
-        "follow_up": "关注该项目在GitHub上的更新和社区反馈，以及未来是否会有更多Google产品集成这些技能，或推出相关的开发者工具和文档。",
-        "evidence": "项目在GitHub上的高星数（23406）和今日新增星数（443）以及趋势评分（90.19）均表明其受欢迎程度；项目描述明确指出其为'Agent Skills for Google products and technologies'，语言为Python，由Google团队维护。"
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic在GitHub上发布了一个名为'claude-quickstarts'的开源项目集合，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序。",
+        "core_details": "该项目主要使用Python语言编写，由Anthropic官方及社区开发者（如cj-ant, claude, x5a等）构建。它在GitHub上趋势热度较高，今日新增32颗星，总星数已达19438，并获得了3280条评论，显示出开发者社区的广泛关注。",
+        "ai_take": "这反映了Anthropic正积极通过提供易用的开发工具和入门资源来降低其Claude API的使用门槛，旨在扩大开发者生态，推动更多基于Claude的AI应用落地。",
+        "hype_check": "热度较高。项目在GitHub趋势榜上排名靠前（趋势得分88.1），总星数近2万且持续增长，表明其在开发者中获得了实质性的关注和采纳，而不仅仅是短期炒作。",
+        "value_check": "价值明确。对于希望集成Claude AI能力的开发者而言，这类'快速入门'项目能显著减少初始配置和概念验证的时间，提供可参考的实践范例，加速从想法到可运行应用的过程。",
+        "follow_up": "关注后续是否有更多语言支持、更复杂的示例应用（如企业级集成、多模态应用）加入该集合，以及社区围绕这些项目产生的实际应用案例和反馈。",
+        "evidence": "项目描述明确指出其目的为'帮助开发者快速开始使用Claude API构建可部署的应用程序'，GitHub数据（高星数、高评论数、趋势排名）佐证了其受关注程度。"
       },
       {
         "name": "Sherlock",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Sherlock项目在GitHub趋势榜上热度飙升，单日新增1766颗星，总星数已突破10万，显示出开发者社区对其的持续关注。",
-        "core_details": "Sherlock是一个用Python编写的开源工具，其主要功能是通过用户名在多个社交网络上追踪和定位对应的社交媒体账户。该项目由多位贡献者共同维护，包括sdushantha、hoadlck等。",
-        "ai_take": "该项目本身不直接涉及人工智能技术，但其背后的用户身份追踪和数据聚合逻辑，与AI领域的网络分析、用户画像构建或开源情报（OSINT）工具开发有一定关联。它展示了通过自动化脚本处理多平台数据的实用价值。",
-        "hype_check": "热度较高且持续。单日近两千的星数增长和超过10万的总星数，表明其在开发者中具有广泛的实用性和认可度，并非短暂流行。",
-        "value_check": "工具价值明确，对于安全研究人员、数字取证人员或普通用户进行个人账户管理有一定帮助，但需注意合法合规使用，避免侵犯隐私。",
-        "follow_up": "可关注其后续版本更新是否集成更智能的搜索算法或扩展平台支持，以及社区围绕其开发的相关生态工具。",
-        "evidence": "数据来自GitHub趋势榜：项目语言为Python，单日星增1766，总星数100486，项目描述明确为“通过用户名在社交网络上追踪账户”。"
-      },
-      {
-        "name": "security-audit-skill",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Cloudflare在GitHub上开源了一个名为security-audit-skill的项目，这是一个为编码代理设计的多阶段安全审计技能，能够生成独立验证、机器可读的审计结果。该项目今日获得2085颗星，总星数已达65743，显示出较高的社区关注度。",
-        "core_details": "该项目由Cloudflare团队（包括literally-dan、CooperSheroy和kennysarnoski-jarvis）开发，使用JavaScript语言编写。它旨在通过自动化工具辅助进行安全审计，生成结构化的审计报告，以提高代码安全性和审计效率。",
-        "ai_take": "该项目体现了AI在安全领域的应用趋势，通过编码代理技能自动化安全审计流程，减少人工干预，提升审计的准确性和可扩展性。这符合当前AI辅助开发和安全运维的行业方向。",
-        "hype_check": "项目在GitHub上趋势评分高达84.78，单日获星超2000，总星数超过6.5万，表明其在开发者社区中引起了广泛兴趣和认可，热度较高。",
-        "value_check": "作为Cloudflare的开源项目，它提供了实用的安全审计工具，有助于开发者集成自动化安全检查到工作流中，潜在价值在于提升软件安全性和开发效率，但实际效果需依赖具体实施和社区反馈。",
-        "follow_up": "关注项目后续更新、社区讨论（如GitHub issues和pull requests）以及在实际环境中的采用案例，以评估其长期影响和实用性。",
-        "evidence": "项目GitHub页面显示语言为JavaScript，今日星数2085，总星数65743，由Cloudflare团队维护，描述强调多阶段审计和机器可读结果。"
+        "what_happened": "一个名为Sherlock的开源项目在GitHub趋势榜上热度飙升，单日新增超过2300星，总星数已突破10万。该项目是一个用Python编写的工具，用于通过用户名在多个社交网络上追踪和定位社交媒体账户。",
+        "core_details": "Sherlock是一个开源情报（OSINT）工具，允许用户输入一个用户名，自动在数百个社交媒体平台上搜索匹配的账户，从而帮助识别个人在不同网络中的数字足迹。项目由多位贡献者共同维护，目前总星数达103,615，显示出其在开发者社区中的广泛关注和实用性。",
+        "ai_take": "虽然Sherlock本身不直接涉及人工智能技术，但其大规模数据采集和模式匹配的逻辑与AI中的信息检索和实体解析有相似之处。未来，结合自然语言处理或机器学习算法，可以进一步提升搜索的准确性和自动化程度，例如识别虚假账户或分析用户行为模式。",
+        "hype_check": "项目因其实用性和开源特性持续受到关注，单日暴涨的星数反映了社区对数字隐私和开源情报工具的兴趣。但需注意，此类工具可能被滥用于骚扰或侵犯隐私，因此热度背后也伴随着伦理争议。",
+        "value_check": "Sherlock为安全研究人员、调查记者或普通用户提供了高效的账户追踪能力，具有明确的工具价值。其开源性质允许透明审查和协作改进，但用户应负责任地使用，遵守法律法规和平台条款。",
+        "follow_up": "关注项目后续的更新，如增加更多平台支持或集成API以提升效率。同时，可留意类似的开源情报工具（如Maltego、SpiderFoot）的发展，以及围绕数字隐私和伦理使用的社区讨论。",
+        "evidence": "项目在GitHub趋势榜上单日获2373星，总星数103,615，语言为Python，由多位贡献者维护。项目描述明确指出其功能为“通过用户名在社交网络上追踪账户”，且无直接AI集成，属于实用型开源工具。"
       },
       {
         "name": "OpenMausBot",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "开源项目OpenMausBot在GitHub上迅速流行，被描述为Grok Bot的开源替代品，内置虚拟机供机器人使用。",
-        "core_details": "该项目由milind-soni等人使用TypeScript开发，今日新增1955星，总星数达16990，在GitHub趋势榜上获得83.47分的高热度。",
-        "ai_take": "该项目提供了一个可替代Grok Bot的开源解决方案，通过集成虚拟机功能，可能增强了机器人的自主运行和交互能力，反映了开源社区在AI助手领域的创新尝试。",
-        "hype_check": "热度较高，单日获星近2000，总星数接近1.7万，表明其在开发者社区中受到广泛关注，但需观察其实际应用和持续维护情况。",
-        "value_check": "作为开源替代品，它可能降低了使用类似机器人的门槛，促进定制化和实验；虚拟机功能或提升机器人的灵活性和隔离性，但具体性能需进一步验证。",
-        "follow_up": "关注项目更新以了解虚拟机集成的实际用例、与Grok Bot的功能对比，以及社区反馈和贡献情况。",
-        "evidence": "GitHub趋势数据：今日星数1955，总星数16990，趋势分83.47；项目描述为“开源Grok Bot替代品，带虚拟机”。"
+        "what_happened": "一个名为OpenMausBot的开源项目在GitHub上迅速流行，它被定位为Grok Bot的替代方案，并提供了一个可供机器人使用的虚拟机环境。",
+        "core_details": "该项目由milind-soni等人使用TypeScript开发，今天获得了1439颗星，总星数已达18290，显示出较高的社区关注度。",
+        "ai_take": "OpenMausBot作为开源替代方案，可能降低了构建和部署AI机器人的门槛，其虚拟机特性为机器人提供了可扩展的运行环境，有助于促进AI代理的开发和实验。",
+        "hype_check": "项目在GitHub趋势榜上排名靠前，单日获星数高，表明短期内受到了开发者社区的强烈关注，但需观察其长期维护和实际应用情况。",
+        "value_check": "作为开源项目，它提供了Grok Bot的替代选择，可能具有成本优势和定制灵活性，但需评估其功能完整性、稳定性和社区支持是否足以满足生产需求。",
+        "follow_up": "关注项目的后续更新、用户反馈以及在实际场景中的部署案例，以判断其是否能够持续发展并成为可行的Grok Bot替代品。",
+        "evidence": "GitHub趋势数据：单日获星1439，总星18290，项目描述为“开源Grok Bot替代方案，带有可供机器人使用的虚拟机”。"
       },
       {
-        "name": "Prometheus",
+        "name": "agent-browser",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Prometheus监控系统与时间序列数据库项目在GitHub趋势榜上热度上升，今日新增322颗星，总星数达67449。",
-        "core_details": "Prometheus是一个用Go语言编写的开源监控系统和时间序列数据库，由fabxc、juliusv、beorn7、bboreham和dependabot等开发者构建。",
-        "ai_take": "作为监控基础设施的关键组件，Prometheus的高可用性和可扩展性设计为AI系统运维提供了可靠的指标收集与告警能力，支撑大规模AI服务的稳定性监控。",
-        "hype_check": "项目长期保持高活跃度，总星数超过6.7万且持续增长，反映其在云原生监控领域的稳定影响力和社区认可，并非短期炒作。",
-        "value_check": "Prometheus已成为云原生生态中监控的事实标准，与Kubernetes等平台深度集成，为AI和微服务架构提供核心可观测性解决方案，技术价值显著。",
-        "follow_up": "关注Prometheus与AI专用监控工具的集成进展，以及其在边缘AI和实时推理场景下的性能优化。",
-        "evidence": "GitHub趋势数据显示项目单日获322星，总星67449，语言为Go，开发者列表明确，项目描述指向监控系统核心功能。"
+        "what_happened": "Vercel Labs 在 GitHub 上开源的 agent-browser 项目今日获得大量关注，单日新增 815 颗星，总星数已达 47626。",
+        "core_details": "该项目是一个用 Rust 编写的、专为 AI 智能体设计的浏览器自动化命令行工具（CLI）。它由 ctate、Railly 等开发者构建，旨在为 AI 代理提供网页浏览与自动化能力。",
+        "ai_take": "该项目直接服务于 AI 智能体生态，通过提供可靠的浏览器自动化接口，使 AI 代理能够更有效地执行网页交互、数据抓取等任务，是增强 AI 实际应用能力的关键工具。",
+        "hype_check": "项目热度很高，单日星数增长显著，总星数庞大，表明其在开发者社区和 AI 应用领域受到了持续且广泛的关注。",
+        "value_check": "作为由 Vercel Labs 支持的开源工具，其技术栈（Rust）和针对 AI 代理的定位具有明确的实用价值，有助于降低构建复杂 AI 工作流的门槛。",
+        "follow_up": "关注该项目后续的版本更新、实际应用案例，以及它如何与不同的 AI 框架或模型集成。",
+        "evidence": "项目描述明确指出其为“Browser automation CLI for AI agents”，使用 Rust 语言开发，并由 Vercel Labs 团队维护。GitHub 趋势数据（日增星数、总星数）支持其高热度。"
       },
       {
-        "name": "Ruff",
+        "name": "Astryx",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Ruff，一个用Rust编写的极速Python代码检查器和格式化工具，今日在GitHub趋势榜上获得350颗星，总星数达50979，显示出持续的高关注度。",
-        "core_details": "Ruff是一个开源项目，由astral-sh团队开发，核心贡献者包括charliermarsh、MichaReiser等。它旨在替代或补充现有的Python工具（如flake8、black），通过Rust语言实现，显著提升了代码分析和格式化的速度。项目当前总星数已超过5万，今日新增350星，在技术社区中热度较高。",
-        "ai_take": "作为AI开发中常用的代码质量工具，Ruff的高性能特性（得益于Rust）能加速AI项目的代码审查和格式化流程，提升开发效率。其流行也反映了开发者对高效、现代化开发工具的偏好，可能推动更多AI基础设施工具采用高性能语言重构。",
-        "hype_check": "热度真实且持续：项目长期位居GitHub趋势榜，总星数高，新增星数稳定，表明其在Python开发者社区中具有实质性的影响力和实用性，并非短期炒作。",
-        "value_check": "高价值：Ruff解决了Python工具链中的性能瓶颈，提供了更快的代码检查和格式化体验，对大型AI/ML代码库尤其有益。其开源性质和活跃开发（由专业团队维护）确保了可靠性和持续改进。",
-        "follow_up": "关注astral-sh团队的后续更新，以及Ruff在大型AI项目（如PyTorch、TensorFlow生态）中的采用情况。可比较其与传统工具（如ruff vs. black+flake8）在实际AI开发中的性能差异。",
-        "evidence": "项目GitHub页面（https://github.com/astral-sh/ruff）显示：总星数50979，今日新增350星，描述为“用Rust编写的极速Python代码检查器和格式化工具”，语言为Rust，由astral-sh组织维护。"
+        "what_happened": "Meta在GitHub上开源了名为Astryx的设计系统，该项目今日获得875颗星，总星数达16866，在趋势榜上排名靠前。",
+        "core_details": "Astryx是一个完全可定制且为AI智能体（agent）准备的开源设计系统，使用TypeScript语言开发，由Meta的团队（包括github-actions、cixzhang、rubyycheung等贡献者）构建。",
+        "ai_take": "该项目明确标注为“agent ready”，表明其设计考虑了与AI智能体的集成与交互，可能旨在为AI驱动的应用界面提供标准化、可适配的组件库，是Meta在AI基础设施层布局的一部分。",
+        "hype_check": "趋势分数较高（79.97），单日获星数可观，显示开发者社区对Meta开源设计系统，特别是其AI就绪特性，有显著兴趣和关注。",
+        "value_check": "作为大厂开源的设计系统，Astryx可能降低开发AI应用前端界面的成本，提升一致性；其“完全可定制”和“agent ready”的定位若能兑现，对构建下一代人机交互界面具有实用价值。",
+        "follow_up": "可关注Astryx的文档、组件示例及与主流AI框架的集成案例，观察其在实际AI项目中的采用情况，以及Meta是否会推出配套的AI工具链。",
+        "evidence": "项目GitHub页面描述为“An open source design system that's fully customizable and agent ready”，语言为TypeScript，贡献者包括Meta员工，趋势数据来自GitHub Trending榜单。"
+      },
+      {
+        "name": "billion-context",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 开源项目 'billion-context' 成为趋势，这是一个上下文压缩插件，旨在支持月级长会话（数十亿token），同时兼容小上下文窗口（如100K），并声称能节省5倍token使用量。",
+        "core_details": "该项目由 ranxianglei 主导开发，使用 TypeScript 编写，今日获得 460 颗星，总星数达 5179。它作为一个插件，通过压缩技术优化长会话中的上下文管理，减少 token 消耗，适用于需要处理大量交互数据的 AI 应用场景。",
+        "ai_take": "该工具直接针对大语言模型（LLM）的上下文长度和 token 成本痛点，通过压缩技术可能提升长对话或文档处理的效率，降低 API 调用费用，对开发基于 AI 的聊天机器人或分析工具具有实用价值。",
+        "hype_check": "项目在 GitHub 上快速流行，反映社区对优化 AI 上下文管理的强烈兴趣，但需验证其在实际生产环境中的压缩效果和兼容性，避免过度炒作。",
+        "value_check": "如果压缩技术有效，可显著降低长会话的 token 使用成本，提升 AI 应用的经济性和可扩展性，尤其适合需要处理大量历史数据的场景，如客服日志分析或长期对话助手。",
+        "follow_up": "关注项目的后续更新、性能基准测试以及社区反馈，以评估其在实际应用中的稳定性和压缩率是否如宣传所示。",
+        "evidence": "项目描述强调支持月级长会话、小上下文窗口和 5 倍 token 节省，GitHub 数据（今日 460 星，总 5179 星）表明其受关注度较高，但缺少独立的第三方验证或详细技术文档。"
+      },
+      {
+        "name": "MuJoCo",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Google DeepMind 开源的 MuJoCo（多关节接触动力学）物理模拟器在 GitHub 趋势榜上受到关注，单日新增 41 颗星，总星数达 16433。",
+        "core_details": "MuJoCo 是一个通用的物理模拟器，专注于多关节动力学与接触模拟，采用 C++ 语言编写，由 Google DeepMind 团队维护。",
+        "ai_take": "作为机器人学、强化学习等领域广泛使用的仿真环境，MuJoCo 的持续更新与开源对推动 AI 在具身智能、运动控制等方向的研究具有重要基础支撑作用。",
+        "hype_check": "趋势热度主要源于其在 AI 研究社区的长期影响力和实用性，而非短期炒作；作为成熟工具，其关注度增长稳定。",
+        "value_check": "MuJoCo 提供了高精度、高效率的物理仿真，降低了机器人控制算法和 AI 智能体训练的实验门槛，是许多学术论文和工业项目的标准工具之一。",
+        "follow_up": "可关注其在强化学习基准环境（如 Gymnasium）中的集成进展，以及 DeepMind 团队是否发布基于 MuJoCo 的新研究或应用案例。",
+        "evidence": "GitHub 仓库显示项目由 google-deepmind 组织维护，总星数 16433，今日新增 41 星，说明其持续受到开发者关注；项目描述强调其为“通用物理模拟器”。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "mattpocock/skills",
-        "content_summary": "这是一个名为“skills”的GitHub仓库，由开发者mattpocock维护，旨在为真正的工程师提供技能。内容直接来自其.agents目录。该项目使用Shell语言编写，今日新增1100颗星，总星数已达317,720。",
-        "ai_comment": "该项目在GitHub趋势榜上热度很高，表明社区对实用工程技能工具集的兴趣浓厚。"
-      },
-      {
-        "source_group": "github_trending",
         "item_name": "anthropics/skills",
-        "content_summary": "这是Anthropic公司开源的Agent Skills公共仓库。项目使用Python语言，今日新增390颗星，总星数为188,791。",
-        "ai_comment": "作为知名AI公司的开源项目，其热度反映了业界对智能体（Agent）技能生态的关注。"
+        "content_summary": "Anthropic 开源了其 Agent Skills 公共仓库，这是一个用于构建 AI 代理技能的 Python 项目。该项目今日获得 792 颗星，总星数已达 189,673。",
+        "ai_comment": "Anthropic 开源其 Agent Skills 库，旨在促进 AI 代理技能生态的发展，显示出其在开发者社区中的高关注度。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "google/skills",
-        "content_summary": "这是Google开源的Agent Skills仓库，专注于为Google产品和技术提供智能体技能。项目使用Python语言，今日新增443颗星，总星数为23,406。",
-        "ai_comment": "科技巨头的加入，进一步推动了AI智能体技能标准化和开源生态的发展。"
+        "item_name": "anthropics/claude-quickstarts",
+        "content_summary": "Anthropic 发布了 Claude Quickstarts 项目集合，旨在帮助开发者快速上手使用 Claude API 构建可部署的应用程序。该项目为 Python 语言，今日新增 32 颗星。",
+        "ai_comment": "Claude Quickstarts 的发布降低了开发者使用 Claude API 的门槛，有助于加速基于 Claude 的应用开发。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "sherlock-project/sherlock",
+        "content_summary": "Sherlock 是一个用于通过用户名在社交网络上追踪社交媒体账户的 Python 工具。该项目今日获得 2373 颗星，总星数超过 10 万。",
+        "ai_comment": "Sherlock 项目热度飙升，反映了市场对社交媒体情报和数字足迹追踪工具的持续兴趣。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Ask HN: Why does Ant, Open AI even need a datacenter?",
-        "content_summary": "用户提问为何Anthropic和OpenAI等公司需要数据中心，而不是提供可在个人Mac上运行的二进制文件。高亮评论指出，像Qwen这样的开源模型可以本地运行，但OpenAI和Anthropic的模型规模更大，个人电脑内存可能无法承载。",
-        "ai_comment": "这个问题触及了闭源大模型与开源轻量模型在部署方式上的核心差异，即计算资源与模型规模的权衡。"
+        "item_name": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+        "content_summary": "开发者 dooly6276 发布了 Claude-bulkhead 工具，旨在安全地在一台机器上运行多个 Claude Code 会话，避免开发服务器被误杀、端口冲突、内存或磁盘冻结以及提交混淆等问题。该工具提供零依赖的钩子。",
+        "ai_comment": "该工具解决了 AI 编码代理并行运行时的资源冲突问题，是提升开发工作流稳定性的实用方案。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
-        "content_summary": "用户探讨如果法院判定利用LLM进行逆向工程为非法，这是否会为开源软件（OSS）许可被LLM训练侵犯的集体诉讼开创先例。帖子分析了两种模式：LLM对反编译的二进制文件进行后训练并输出源代码；LLM分析反编译的二进制文件并输出源代码。提问者质疑，当LLM训练或读取OSS代码不被视为“净室设计”时，为何对反编译软件做同样事情却可以。",
-        "ai_comment": "这是一个涉及AI训练数据合法性、软件逆向工程法律边界和开源许可复杂性的前沿法律问题。"
+        "item_name": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+        "content_summary": "Airlock 是一个用于管理自主工程代理集群的策略即代码开源标准。创始人 Matt 表示，该项目旨在通过版本控制配置代理行为，利用 GitHub OIDC 进行身份验证，并已在自家公司用于管理 23 个跨大型项目的工作流。项目仍处于早期阶段。",
+        "ai_comment": "Airlock 试图为规模化使用 AI 编码代理建立治理框架，反映了企业级 AI 运维（AIOps）和安全性的需求增长。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
-        "content_summary": "Skrongle Mini是一个自托管的学习平台，可在树莓派Zero 2 W上运行。它是一个单一二进制文件，使用JSON文件课程进行教学，包含课程、自适应测验、练习、游戏、闪卡和AI导师功能。内置西班牙语和法语课程，也支持通过AI生成或手动编写任何主题的课程。最多支持8个账户，无需外部服务（除用户自行提供的AI API密钥）。创建者表示这是其理想的学习平台，课程可AI生成或手动创建，提供半游戏化体验和多种题型。",
-        "ai_comment": "该项目体现了边缘计算与AI教育的结合，为小范围、隐私友好的个性化学习提供了轻量级解决方案。"
+        "item_name": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "content_summary": "英伟达宣布对《纽约时报》的报道启动内部调查。报道称，其 CEO 黄仁勋曾是一起中国情报行动的目标，该行动旨在将先进的英伟达 AI 芯片运往中国。",
+        "ai_comment": "此事涉及地缘政治与尖端技术出口管制，若指控属实，可能对英伟达的合规运营及全球AI芯片供应链产生重大影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Poland in shock after six die in Krakow mass shooting - Reuters",
-        "content_summary": "波兰克拉科夫发生大规模枪击事件，造成6人死亡，至少11人受伤，全国震惊。枪手从行驶的车辆中开枪。相关报道还提到袭击者家中发现三具尸体，事件可能与极右翼有关。",
-        "ai_comment": "这是一起严重的暴力犯罪事件，引发了国际社会对公共安全和极端主义的关注。"
+        "item_name": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
+        "content_summary": "美国前总统特朗普表示，他提议任命 UFC CEO Dana White 为白宫新闻秘书一事“只是开玩笑”。此前有报道称 White 已拒绝该提议。相关报道还提及特朗普分享了一幅漫画，内容涉及 White 派 UFC 拳手攻击记者。",
+        "ai_comment": "此事凸显了特朗普在人事任命上的非常规风格及其与媒体关系的持续紧张，属于政治娱乐化现象。"
       },
       {
         "source_group": "news",
-        "item_name": "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run - WRAL",
-        "content_summary": "美国北卡罗来纳州Apex市一名司机在酒后驾驶（DWI）肇事逃逸事故中，导致自行车骑行团体1人死亡、多人受伤（不同报道称7人、20人或22人受伤），面临十余项重罪指控。受害者包括Capital One骑行俱乐部的成员。",
-        "ai_comment": "该事件凸显了酒后驾驶和肇事逃逸的严重后果，以及其对社区安全造成的巨大伤害。"
+        "item_name": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News",
+        "content_summary": "小罗伯特·F·肯尼迪的前顾问 Calley Means 指控特朗普的官员（包括幕僚长 Susie Wiles）存在腐败行为，并阻挠“MAHA”（可能指与健康相关的政策）政策的实施。共和党参议员 Ron Johnson 也指控特朗普政府存在腐败。",
+        "ai_comment": "指控涉及特朗普政府内部的政策斗争与潜在利益冲突，若发酵可能影响其政府形象与政策推进。"
       },
       {
         "source_group": "news",
-        "item_name": "Israel’s president picks Eisenkot over Netanyahu to form next government - Al Jazeera",
-        "content_summary": "以色列总统已选择前国防军总参谋长、亚沙尔党领导人加迪·艾森科特，而非现任总理内塔尼亚胡，来负责组建新政府。这对内塔尼亚胡是一个挫折，但组建政府的道路仍然复杂。",
-        "ai_comment": "这一政治动向标志着以色列政局可能出现重大变化，后续政府组建过程将备受关注。"
+        "item_name": "Top House Democrat 'a hard yes' on impeaching Hegseth - BBC",
+        "content_summary": "众议院民主党高层 Hakeem Jeffries 表示坚决支持弹劾 Pete Hegseth（推测为特朗普政府官员）。民主党正推动问责，众议院可能在共和党中期选举失利后启动对 Hegseth 的弹劾程序。",
+        "ai_comment": "这标志着美国政治内斗的延续，弹劾动议是民主党利用政治优势对前政府官员进行追责的体现。"
       }
     ],
-    "closing_note": "开源技能库的集中涌现，标志着AI智能体开发正从模型能力竞赛转向工具链与生态构建的务实阶段。企业级玩家与社区开发者共同推动的技能标准化尝试，或将加速AI应用从实验走向规模化部署。开发者需关注这些项目与自身技术栈的集成可能性，同时留意相关合规与安全边界。",
+    "closing_note": "今日热点集中展示了AI开源工具链的快速演进，从底层仿真（如MuJoCo）、智能体核心能力（如技能库、浏览器自动化）到上层应用构建（如快速入门、设计系统）均有重要更新。开发者社区正通过协作与共享，积极解决AI集成与部署中的实际挑战。值得注意的是，工具的价值最终需通过实际应用的稳定性和效率来验证，建议持续关注各项目的后续迭代与生产环境反馈。",
     "_errors": []
   }
 }
