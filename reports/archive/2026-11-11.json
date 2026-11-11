@@ -1,0 +1,1518 @@
+{
+  "generated_at": "2026-11-11T01:42:06.183095+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "author": "anthropics",
+        "summary": "Public repository for Agent Skills",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Python",
+        "score": 1679,
+        "comment_count": 22649,
+        "total_stars": 192367,
+        "built_by": [
+          "rlancemartin",
+          "klazuka",
+          "claude",
+          "cj-ant",
+          "ericharmeling"
+        ],
+        "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 1679\n\nTotal stars: 192367\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+        "trend_score": 108.56,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 1.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "author": "addyosmani",
+        "summary": "Production-grade engineering skills for AI coding agents.",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "JavaScript",
+        "score": 465,
+        "comment_count": 12096,
+        "total_stars": 115196,
+        "built_by": [
+          "addyosmani",
+          "nucliweb",
+          "claude",
+          "rudycelekli",
+          "ayobamiseun"
+        ],
+        "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 465\n\nTotal stars: 115196\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
+        "trend_score": 96.93,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.885,
+          "topic_overlap": 0.667,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "anthropics/claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "author": "anthropics",
+        "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Python",
+        "score": 531,
+        "comment_count": 3470,
+        "total_stars": 20519,
+        "built_by": [
+          "cj-ant",
+          "claude",
+          "x5a",
+          "alexalbertt",
+          "zealoushacker"
+        ],
+        "content_context": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\nLanguage: Python\n\nStars today: 531\n\nTotal stars: 20519\n\nBuilt by: cj-ant, claude, x5a, alexalbertt, zealoushacker",
+        "trend_score": 94.8,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.828,
+          "topic_overlap": 0.667,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "vercel-labs/agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "author": "vercel-labs",
+        "summary": "Browser automation CLI for AI agents",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Rust",
+        "score": 780,
+        "comment_count": 3451,
+        "total_stars": 49243,
+        "built_by": [
+          "ctate",
+          "Railly",
+          "github-actions",
+          "lahfir",
+          "claude"
+        ],
+        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 780\n\nTotal stars: 49243\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+        "trend_score": 86.69,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.853,
+          "topic_overlap": 0.25,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "author": "sherlock-project",
+        "summary": "Hunt down social media accounts by username across social networks",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Python",
+        "score": 2393,
+        "comment_count": 12664,
+        "total_stars": 109035,
+        "built_by": [
+          "sdushantha",
+          "hoadlck",
+          "ppfeister",
+          "TheYahya",
+          "Czechball"
+        ],
+        "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 2393\n\nTotal stars: 109035\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+        "trend_score": 86.57,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.993,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "google-deepmind/mujoco",
+        "url": "https://github.com/google-deepmind/mujoco",
+        "author": "google-deepmind",
+        "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "C++",
+        "score": 456,
+        "comment_count": 2148,
+        "total_stars": 17379,
+        "built_by": [
+          "yuvaltassa",
+          "quagla",
+          "haroonq",
+          "kbayes",
+          "saran-t"
+        ],
+        "content_context": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\nLanguage: C++\n\nStars today: 456\n\nTotal stars: 17379\n\nBuilt by: yuvaltassa, quagla, haroonq, kbayes, saran-t",
+        "trend_score": 86.25,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.794,
+          "topic_overlap": 0.333,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "meta/astryx",
+        "url": "https://github.com/meta/astryx",
+        "author": "meta",
+        "summary": "An open source design system that's fully customizable and agent ready",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "TypeScript",
+        "score": 3108,
+        "comment_count": 1826,
+        "total_stars": 22945,
+        "built_by": [
+          "github-actions",
+          "cixzhang",
+          "rubyycheung",
+          "josephfarina",
+          "vjeux"
+        ],
+        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 3108\n\nTotal stars: 22945\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+        "trend_score": 83.41,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.909,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "homeassistant-ai/ha-mcp",
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "author": "homeassistant-ai",
+        "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Python",
+        "score": 790,
+        "comment_count": 432,
+        "total_stars": 6689,
+        "built_by": [
+          "github-actions",
+          "claude",
+          "kingpanther13",
+          "julienld",
+          "dependabot"
+        ],
+        "content_context": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\nLanguage: Python\n\nStars today: 790\n\nTotal stars: 6689\n\nBuilt by: github-actions, claude, kingpanther13, julienld, dependabot",
+        "trend_score": 77.21,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.746,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "we-promise/sure",
+        "url": "https://github.com/we-promise/sure",
+        "author": "we-promise",
+        "summary": "The personal finance app for everyone (by everyone)",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Ruby",
+        "score": 159,
+        "comment_count": 892,
+        "total_stars": 11989,
+        "built_by": [
+          "jjmata",
+          "dependabot",
+          "claude",
+          "zachgoll",
+          "Shpigford"
+        ],
+        "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 159\n\nTotal stars: 11989\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
+        "trend_score": 74.7,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.68,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "tokio-rs/topcoat",
+        "url": "https://github.com/tokio-rs/topcoat",
+        "author": "tokio-rs",
+        "summary": "A batteries-included framework for building web apps",
+        "published_at": "2026-11-11T01:42:02.439988+00:00",
+        "language": "Rust",
+        "score": 192,
+        "comment_count": 302,
+        "total_stars": 6843,
+        "built_by": [
+          "pikaju",
+          "akoll",
+          "github-actions",
+          "carllerche",
+          "AmeinEskinder"
+        ],
+        "content_context": "A batteries-included framework for building web apps\n\nLanguage: Rust\n\nStars today: 192\n\nTotal stars: 6843\n\nBuilt by: pikaju, akoll, github-actions, carllerche, AmeinEskinder",
+        "trend_score": 73.04,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.637,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Claude Code is accidentally exposing secrets all over GitHub",
+        "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+        "author": "Gaishan",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:40:18+00:00",
+        "summary": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+          "page_title": "Claude Code is accidentally exposing secrets all over GitHub",
+          "page_description": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+          "page_excerpt": "“Do not ask again” prompt leads to passwords, API keys, and more being shared.\n\nClaude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That’s the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories.\n\nThe leak stems from the way Claude Code handles user approval for automated shell commands. When a user chooses the “Yes, and don’t ask again” option to approve running a command, that choice gets stored as part of a rule in the local “.claude/settings.local.json” file on the user’s computer. That rule is sometimes coded as a pattern, but the command itself is often written to that settings fil..."
+        },
+        "content_context": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.\n\n“Do not ask again” prompt leads to passwords, API keys, and more being shared. Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That’s the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude Code handles user approval for automated shell commands. When a user chooses the “Yes, and don’t ask again” option to approve running a command, that choice gets stored as part of a rule in the local “.claude/settings.local.json” file on the user’s computer. That rule is sometimes coded as a pattern, but the command itself is often written to that settings fil...",
+        "trend_score": 57.36,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.045,
+          "topic_overlap": 0.375,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Broken links silently waste your Google crawl budget",
+        "url": "https://sitetoolsbox.com/article.php?id=55",
+        "author": "kagouhui",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:29:28+00:00",
+        "summary": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d",
+        "comment_highlights": [
+          "[flagged]",
+          "[dead]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://sitetoolsbox.com/article.php?id=55",
+          "page_title": "Why Broken Links Are Silently Killing Your SEO (And How to Automate the Audit) -",
+          "page_description": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d",
+          "page_excerpt": "As a webmaster, you probably spend hours obsessing over keyword research, backlink building, and content quality. But there is a silent killer hiding in your site architecture that can drain your SEO authority without you even noticing: Broken Links (404s) .\n\nWhether it’s an external resource that went offline, or an internal page you deleted but forgot to redirect, dead links are a massive liability. In this post, we’ll look at the technical reality of broken links and how developers can automate the auditing process.\n\nGooglebot crawls the web to index pages. When it encounters a 404 error on your site, it doesn't immediately penalize you. However, it does impact your site in three specific ways:"
+        },
+        "content_context": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d\n\nAs a webmaster, you probably spend hours obsessing over keyword research, backlink building, and content quality. But there is a silent killer hiding in your site architecture that can drain your SEO authority without you even noticing: Broken Links (404s) . Whether it’s an external resource that went offline, or an internal page you deleted but forgot to redirect, dead links are a massive liability. In this post, we’ll look at the technical reality of broken links and how developers can automate the auditing process. Googlebot crawls the web to index pages. When it encounters a 404 error on your site, it doesn't immediately penalize you. However, it does impact your site in three specific ways:\n\nHN comment: [flagged]\n\nHN comment: [dead]",
+        "trend_score": 53.76,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.045,
+          "topic_overlap": 0.222,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Kotlean: write Android apps in Lean",
+        "url": "https://github.com/kbr-/kotlean",
+        "author": "kbr-",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:33:41+00:00",
+        "summary": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://github.com/kbr-/kotlean",
+          "page_title": "GitHub - kbr-/kotlean: Kotlean: Android apps, proven. Write the app in Lean with a thin Android host.",
+          "page_description": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean",
+          "page_excerpt": "Kotlean lets you write an Android app's state, behavior and UI in Lean, prove properties of that code, and compile it into the app. A small Kotlin host renders native Android Views and performs platform effects.\n\nThe problem it addresses is keeping a verified state machine connected to the application people actually use. Your Lean update and view functions run on the device. Buttons, text edits, gestures and timers enter that same state machine.\n\nSnackNet is an original maze-chase game written in Lean. An AI machine collects thirteen data tokens while two human operators track and intercept it. Overclock turns the machine into a metal endoskeleton and lets it capture the operators. The recording shows a full win, including the continuously held D-pad and its highlighted directions."
+        },
+        "content_context": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean\n\nKotlean lets you write an Android app's state, behavior and UI in Lean, prove properties of that code, and compile it into the app. A small Kotlin host renders native Android Views and performs platform effects. The problem it addresses is keeping a verified state machine connected to the application people actually use. Your Lean update and view functions run on the device. Buttons, text edits, gestures and timers enter that same state machine. SnackNet is an original maze-chase game written in Lean. An AI machine collects thirteen data tokens while two human operators track and intercept it. Overclock turns the machine into a metal endoskeleton and lets it capture the operators. The recording shows a full win, including the continuously held D-pad and its highlighted directions.",
+        "trend_score": 52.72,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.045,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "MoofPort: An Open-Source WiFi Ethernet Driver for the Wi-Fi on Classic Mac",
+        "url": "https://github.com/matthewmrichter/moofport",
+        "author": "marcusbasant",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-11T01:25:31+00:00",
+        "summary": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport",
+        "comment_highlights": [
+          "I bought a Mac Classic this summer and restored it. I've been getting a surprising amount of practical use out of it in 2026 as a Telnet terminal to manage LLM agent sessions with tmux via BlueSCSI Wifi adapter.<p>I already built this open source replacement for the MacTCP stack (<a href=\"https:/..."
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/matthewmrichter/moofport",
+          "page_title": "GitHub - matthewmrichter/moofport: Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT",
+          "page_description": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport",
+          "page_excerpt": "An open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on a Mac Classic running System 6.0.8.\n\nMoofPort is a replacement .ENET0 Ethernet driver for the BlueSCSI v2 's Wi-Fi (DaynaPORT emulation) on a Macintosh Classic with System 6.0.8 . It works with MacTCP 2.1 and with EtherTalk / AppleShare , at the same time, the way the driver you have now does.\n\nIt is a drop-in replacement for the .ENET0 driver from DaynaPORT SCSI/Link 1.2.5 . You run an installer, restart, and your Mac is on Wi-Fi again, with the same MacTCP and AppleTalk settings. If you ever want to go back, one click on Uninstall puts DaynaPORT's driver back exactly as it was."
+        },
+        "content_context": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport\n\nAn open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on a Mac Classic running System 6.0.8. MoofPort is a replacement .ENET0 Ethernet driver for the BlueSCSI v2 's Wi-Fi (DaynaPORT emulation) on a Macintosh Classic with System 6.0.8 . It works with MacTCP 2.1 and with EtherTalk / AppleShare , at the same time, the way the driver you have now does. It is a drop-in replacement for the .ENET0 driver from DaynaPORT SCSI/Link 1.2.5 . You run an installer, restart, and your Mac is on Wi-Fi again, with the same MacTCP and AppleTalk settings. If you ever want to go back, one click on Uninstall puts DaynaPORT's driver back exactly as it was.\n\nHN comment: I bought a Mac Classic this summer and restored it. I've been getting a surprising amount of practical use out of it in 2026 as a Telnet terminal to manage LLM agent sessions with tmux via BlueSCSI Wifi adapter.<p>I already built this open source replacement for the MacTCP stack (<a href=\"https:/...",
+        "trend_score": 50.24,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.081,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Yahoo is betting the house on its new AI, from search to all its services",
+        "url": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux",
+        "author": "mkmk",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:33:15+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.81,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.045,
+          "topic_overlap": 0.286,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Silent degradation is back, Fable and Mythos 5.2 perform at level of Opus 5.5",
+        "url": "https://twitter.com/sfxnz/status/2120058367825908031",
+        "author": "espeed",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-11-11T01:33:27+00:00",
+        "summary": "Anthropic won’t let you do kernel optimisation or improve the architecture around local models with Fable 5.2!",
+        "comment_highlights": [
+          "Source: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2#safety-and-alignment\" rel=\"nofollow\">https://www.anthropic.com/claude-fable-and-mythos-5-2#safety...</a> (Safeguards)"
+        ],
+        "linked_context": {
+          "resolved_url": "https://x.com/sfxnz/status/2120058367825908031",
+          "page_title": "Sufyan (@sfxnz) on X",
+          "page_description": "Anthropic won’t let you do kernel optimisation or improve the architecture around local models with Fable 5.2!",
+          "page_excerpt": null
+        },
+        "content_context": "Anthropic won’t let you do kernel optimisation or improve the architecture around local models with Fable 5.2!\n\nHN comment: Source: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2#safety-and-alignment\" rel=\"nofollow\">https://www.anthropic.com/claude-fable-and-mythos-5-2#safety...</a> (Safeguards)",
+        "trend_score": 45.88,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.107,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A real-time city-infra map of Seattle",
+        "url": "https://busytowns.org",
+        "author": "abouhmad",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-11T01:27:06+00:00",
+        "summary": "Every bus, train, ferry and plane in Seattle â moving in real time over a 3D city. Open it on your phone.",
+        "comment_highlights": [
+          "Introducing BusyTowns! A real-time city-infra map. Visualize the (near) real-time movement of infrastructure across cities in the US.<p>Hosted on Cloudflare Workers, & inspired by Cities: Skylines<p>Starting with Seattle, the map includes: • Buses • Rail • Planes • Helicopters • Ferries • Cameras..."
+        ],
+        "linked_context": {
+          "resolved_url": "https://busytowns.org/",
+          "page_title": "Seattle, live in 3D",
+          "page_description": "Every bus, train, ferry and plane in Seattle â moving in real time over a 3D city. Open it on your phone.",
+          "page_excerpt": null
+        },
+        "content_context": "Every bus, train, ferry and plane in Seattle â moving in real time over a 3D city. Open it on your phone.\n\nHN comment: Introducing BusyTowns! A real-time city-infra map. Visualize the (near) real-time movement of infrastructure across cities in the US.<p>Hosted on Cloudflare Workers, & inspired by Cities: Skylines<p>Starting with Seattle, the map includes: • Buses • Rail • Planes • Helicopters • Ferries • Cameras...",
+        "trend_score": 42.62,
+        "trend_breakdown": {
+          "freshness": 0.99,
+          "engagement": 0.081,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A Schema Named Hash Sent Our Ruby SDK into Infinite Recursion",
+        "url": "https://octri.dev/blog/schema-names-shadow-standard-library",
+        "author": "khalidkhair",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:33:41+00:00",
+        "summary": "Schemas named after standard-library types broke our generated SDKs in TypeScript, Rust, Kotlin, Python and Go, and exposed a naming problem that reserved-keyword lists couldn't solve.",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://octri.dev/blog/schema-names-shadow-standard-library",
+          "page_title": "A Schema Named Hash Sent Our Ruby SDK Into Infinite Recursion",
+          "page_description": "Schemas named after standard-library types broke our generated SDKs in TypeScript, Rust, Kotlin, Python and Go, and exposed a naming problem that reserved-keyword lists couldn't solve.",
+          "page_excerpt": "Schemas named after standard-library types broke our generated SDKs in TypeScript, Rust, Kotlin, Python and Go, and exposed a naming problem that reserved-keyword lists couldn't solve.\n\nWe generate SDKs from OpenAPI documents in ten languages. When an API defines a schema, the generator produces a model with the same name. A schema named User becomes a User class. A schema named Invoice becomes an Invoice class.\n\nThose names belong to the API's author, who picks them without knowing which languages they'll end up in. For years we treated that as a solved problem. Every language publishes its reserved keywords, so we kept a table for each one and renamed anything that appeared in it. A property named class or a schema named void got escaped, and every other name passed through untouched."
+        },
+        "content_context": "Schemas named after standard-library types broke our generated SDKs in TypeScript, Rust, Kotlin, Python and Go, and exposed a naming problem that reserved-keyword lists couldn't solve.\n\nSchemas named after standard-library types broke our generated SDKs in TypeScript, Rust, Kotlin, Python and Go, and exposed a naming problem that reserved-keyword lists couldn't solve. We generate SDKs from OpenAPI documents in ten languages. When an API defines a schema, the generator produces a model with the same name. A schema named User becomes a User class. A schema named Invoice becomes an Invoice class. Those names belong to the API's author, who picks them without knowing which languages they'll end up in. For years we treated that as a solved problem. Every language publishes its reserved keywords, so we kept a table for each one and renamed anything that appeared in it. A property named class or a schema named void got escaped, and every other name passed through untouched.\n\nHN comment: [flagged]",
+        "trend_score": 42.5,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.071,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Why did an Anglo-Saxon kingdom mint copper coins when silver was plentiful?",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/debasement-and-the-production-of-copperalloy-coins-in-ninthcentury-northumbria/6FF30FF445769AD42D7E990BB2A1BA92",
+        "author": "titusblair",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-11T01:18:24+00:00",
+        "summary": "Debasement and the production of copper-alloy coins in ninth-century Northumbria",
+        "comment_highlights": [
+          "Title: <i>Debasement and the production of copper-alloy coins in ninth-century Northumbria</i><p>> please use the original title<p><a href=\"https://news.ycombinator.com/newsguidelines.html\">https://news.ycombinator.com/newsguidelines.html</a>"
+        ],
+        "linked_context": {
+          "resolved_url": "https://www.cambridge.org/core/journals/antiquity/article/debasement-and-the-production-of-copperalloy-coins-in-ninthcentury-northumbria/6FF30FF445769AD42D7E990BB2A1BA92",
+          "page_title": "Debasement and the production of copper-alloy coins in ninth-century Northumbria | Antiquity | Cambridge Core",
+          "page_description": "Debasement and the production of copper-alloy coins in ninth-century Northumbria",
+          "page_excerpt": "Published online by Cambridge University Press: 10 November 2026\n\nThe production of copper-alloy coins in the kingdom of Northumbria during the ninth century AD represents a unique move away from silver coinage in early medieval western Europe. While differing explanations for this debasement have been proposed, few consider non-numismatic evidence. The compilation and analysis of available ninth-century gold and silver objects found in Northumbria, presented...\n\nFrom the late seventh century AD, silver was the primary material used for coin production in northern and western Europe (Naismith Reference Naismith and Butcher 2020 : 195–96). Recent studies on the origins of this silver have suggested it was sourced from recycled Byzantine silver plate or the mines at Melle (France) (Loveluck et al. Reference Loveluck 2018 ; Kershaw et al. Reference Kershaw..."
+        },
+        "content_context": "Debasement and the production of copper-alloy coins in ninth-century Northumbria\n\nPublished online by Cambridge University Press: 10 November 2026 The production of copper-alloy coins in the kingdom of Northumbria during the ninth century AD represents a unique move away from silver coinage in early medieval western Europe. While differing explanations for this debasement have been proposed, few consider non-numismatic evidence. The compilation and analysis of available ninth-century gold and silver objects found in Northumbria, presented... From the late seventh century AD, silver was the primary material used for coin production in northern and western Europe (Naismith Reference Naismith and Butcher 2020 : 195–96). Recent studies on the origins of this silver have suggested it was sourced from recycled Byzantine silver plate or the mines at Melle (France) (Loveluck et al. Reference Loveluck 2018 ; Kershaw et al. Reference Kershaw...\n\nHN comment: Title: <i>Debasement and the production of copper-alloy coins in ninth-century Northumbria</i><p>> please use the original title<p><a href=\"https://news.ycombinator.com/newsguidelines.html\">https://news.ycombinator.com/newsguidelines.html</a>",
+        "trend_score": 42.38,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.081,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Getting Started with OpenIndiana",
+        "url": "https://docs.openindiana.org/handbook/getting-started/",
+        "author": "measurablefunc",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-11T01:31:57+00:00",
+        "summary": "Please see the Contrib section for more details about joining the OpenIndiana Documentation Team.\n\nThis collection of documents is aimed at providing a comprehensive source of guidance for both new and seasoned Unix administrators. While our aim is to address as many facets of OpenIndiana use and administration as possible, some topics are simply too complex and beyond the scope of an introductory end user handbook. In such cases external sources of information will be provided in the form o...\n\nCommandlines starting with a # character means that they should be run as root. Most of these examples can also be invoked with pfexec(1) or sudo(1m) instead.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://docs.openindiana.org/handbook/getting-started/",
+          "page_title": "Getting Started - OpenIndiana Docs",
+          "page_description": null,
+          "page_excerpt": "Please see the Contrib section for more details about joining the OpenIndiana Documentation Team.\n\nThis collection of documents is aimed at providing a comprehensive source of guidance for both new and seasoned Unix administrators. While our aim is to address as many facets of OpenIndiana use and administration as possible, some topics are simply too complex and beyond the scope of an introductory end user handbook. In such cases external sources of information will be provided in the form o...\n\nCommandlines starting with a # character means that they should be run as root. Most of these examples can also be invoked with pfexec(1) or sudo(1m) instead."
+        },
+        "content_context": "Please see the Contrib section for more details about joining the OpenIndiana Documentation Team. This collection of documents is aimed at providing a comprehensive source of guidance for both new and seasoned Unix administrators. While our aim is to address as many facets of OpenIndiana use and administration as possible, some topics are simply too complex and beyond the scope of an introductory end user handbook. In such cases external sources of information will be provided in the form o... Commandlines starting with a # character means that they should be run as root. Most of these examples can also be invoked with pfexec(1) or sudo(1m) instead.",
+        "trend_score": 41.63,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.045,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "Kennedy family seeks to block construction of Trump’s arch - Politico",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zeEJqQ0NHZGVEd0JFT2FhMnlia0JXOUk5Vks4ZWp5T1RpRUtBYXBXQ0dERkRvQ0xzMXQ3LU9ES0R0eEI0NmdITGg2UUlGbU5wVEFqeFhPazdpWl9VRUFUbTEtOXJMdURheURjSkR3NHlmV0E1?oc=5",
+        "published_at": "2026-11-10T23:55:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kennedy family seeks to block construction of Trump’s arch；Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite；Kennedy family members join lawsuit to block Trump's triumphal arch。",
+        "related_headlines": [
+          "Kennedy family seeks to block construction of Trump’s arch",
+          "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
+          "Kennedy family members join lawsuit to block Trump's triumphal arch",
+          "Kennedy family joins legal battle against Trump arch, saying it will mar JFK and RFK gravesites",
+          "Kennedy family joins lawsuit to block Trump’s arch"
+        ],
+        "content_context": "Kennedy family seeks to block construction of Trump’s arch - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kennedy family seeks to block construction of Trump’s arch；Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite；Kennedy family members join lawsuit to block Trump's triumphal arch。\n\nRelated coverage: Kennedy family seeks to block construction of Trump’s arch\n\nRelated coverage: Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite\n\nRelated coverage: Kennedy family members join lawsuit to block Trump's triumphal arch\n\nRelated coverage: Kennedy family joins legal battle against Trump arch, saying it will mar JFK and RFK gravesites\n\nRelated coverage: Kennedy family joins lawsuit to block Trump’s arch",
+        "trend_score": 39.32,
+        "trend_breakdown": {
+          "freshness": 0.926,
+          "engagement": 0.0,
+          "topic_overlap": 0.375,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNBC",
+        "category": "news",
+        "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVozeExmM2ZXMVM4TmdwclMzamE1U292R0pUVHZ0NG5OaVVkOThWa0gtejVZUW1kb0VKZ3haSk5jSndqWkFUOHY5SEVaS2RBTDgtNXJ5TWVPNWhVVGdqc2pIUk1UaThkSnJPVV9YLVBINUpWWlVISnFOay03dlN5eWVTWFA?oc=5",
+        "published_at": "2026-11-10T21:55:38+00:00",
+        "summary": "CNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit；After Considerable Struggles, Ballot Deadlines Pass in Mississippi；Thousands of voters in Mississippi Senate race are trying to make their ballots count after state’s voter roll changes。",
+        "related_headlines": [
+          "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+          "After Considerable Struggles, Ballot Deadlines Pass in Mississippi",
+          "Thousands of voters in Mississippi Senate race are trying to make their ballots count after state’s voter roll changes",
+          "Hyde-Smith ‘feeling very optimistic’ despite trailing in Mississippi vote count",
+          "Mississippi’s newest barrier to voting is Experian data, brother of slain civil rights activist writes"
+        ],
+        "content_context": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit - CNBC\n\nCNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit；After Considerable Struggles, Ballot Deadlines Pass in Mississippi；Thousands of voters in Mississippi Senate race are trying to make their ballots count after state’s voter roll changes。\n\nRelated coverage: Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit\n\nRelated coverage: After Considerable Struggles, Ballot Deadlines Pass in Mississippi\n\nRelated coverage: Thousands of voters in Mississippi Senate race are trying to make their ballots count after state’s voter roll changes\n\nRelated coverage: Hyde-Smith ‘feeling very optimistic’ despite trailing in Mississippi vote count\n\nRelated coverage: Mississippi’s newest barrier to voting is Experian data, brother of slain civil rights activist writes",
+        "trend_score": 38.49,
+        "trend_breakdown": {
+          "freshness": 0.843,
+          "engagement": 0.0,
+          "topic_overlap": 0.214,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "Republican-led House rejects Hegseth impeachment effort - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkpUVFYyVUFzSW1ieEU2N3BQc0RxcS1yVnY1YVdvVWd3VDJ2RzNWLW9mcTV4dmVfVXl6czE5S2VwX3BYLThHRW1vZ09jYUNCRTNJaWd4ZFgxUG5jaTVpRUpNQTVndVQyOU1HaUw4UzFGZEpwN3BSMl9ZZ0h6MXhwSGZWQkZ4SkVNcFIxNzczU2pVUkVoSnRwTDd1SzBYeVlDd0c1TEJLMjZuMW1u?oc=5",
+        "published_at": "2026-11-10T23:03:10+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Republican-led House rejects Hegseth impeachment effort；House Republicans block effort to impeach Pentagon chief Pete Hegseth；House votes to effectively end the impeachment effort against Pete Hegseth。",
+        "related_headlines": [
+          "Republican-led House rejects Hegseth impeachment effort",
+          "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+          "House votes to effectively end the impeachment effort against Pete Hegseth",
+          "I Know Exactly What Trump Has in Store For Hegseth: Author",
+          "Cruz says Hegseth will resign, be fired or get impeached"
+        ],
+        "content_context": "Republican-led House rejects Hegseth impeachment effort - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Republican-led House rejects Hegseth impeachment effort；House Republicans block effort to impeach Pentagon chief Pete Hegseth；House votes to effectively end the impeachment effort against Pete Hegseth。\n\nRelated coverage: Republican-led House rejects Hegseth impeachment effort\n\nRelated coverage: House Republicans block effort to impeach Pentagon chief Pete Hegseth\n\nRelated coverage: House votes to effectively end the impeachment effort against Pete Hegseth\n\nRelated coverage: I Know Exactly What Trump Has in Store For Hegseth: Author\n\nRelated coverage: Cruz says Hegseth will resign, be fired or get impeached",
+        "trend_score": 37.36,
+        "trend_breakdown": {
+          "freshness": 0.89,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzB2SXBuQ2FfU3JUWVhUOU5LWmpqc2F3TnlReTlPNWJWTVljcDJ3ZGJ4Z2lreHViOFZza01vR3cxMnhXelYyQzVtTHAzY3IxdEplVGV4OF9nV01aRzVtUkRieXdyeEtFVUE4MjlBNExzaTFtbHpqbGtaRkZTTF9iTDZfWjFKQ3MxWWJTSzZXd3JWTDloa25qa2FtSzZDX1dSVmloNWd4S3FoQQ?oc=5",
+        "published_at": "2026-11-10T23:25:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution；Tennessee moves to prevent Christa Pike's attorneys from examining drug used in failed execution；Why Many Americans Think Christa Pike Should Undergo a Second Execution Attempt。",
+        "related_headlines": [
+          "Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution",
+          "Tennessee moves to prevent Christa Pike's attorneys from examining drug used in failed execution",
+          "Why Many Americans Think Christa Pike Should Undergo a Second Execution Attempt",
+          "Tennessee seeks to block Christa Pike’s attorneys from inspecting drug used in failed execution",
+          "Tennessee's lethal drug supplier fears retaliation after Christa Pike’s botched execution: court docs"
+        ],
+        "content_context": "Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution；Tennessee moves to prevent Christa Pike's attorneys from examining drug used in failed execution；Why Many Americans Think Christa Pike Should Undergo a Second Execution Attempt。\n\nRelated coverage: Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution\n\nRelated coverage: Tennessee moves to prevent Christa Pike's attorneys from examining drug used in failed execution\n\nRelated coverage: Why Many Americans Think Christa Pike Should Undergo a Second Execution Attempt\n\nRelated coverage: Tennessee seeks to block Christa Pike’s attorneys from inspecting drug used in failed execution\n\nRelated coverage: Tennessee's lethal drug supplier fears retaliation after Christa Pike’s botched execution: court docs",
+        "trend_score": 36.57,
+        "trend_breakdown": {
+          "freshness": 0.905,
+          "engagement": 0.0,
+          "topic_overlap": 0.25,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "John Thune is reelected as Senate GOP leader after midterm losses - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkl5SXJ1TTVWajJrTm8yZmhJb0RQWTQzZmZXUXBvUjlYSS05eE9feEZFTzVrbUZQclhHTDRtUUFQTXUySzJfSnBSYkhzQlpTUVBwWFVPTm9nMGM0M1duaEhORXJrSU40Zk8tWmlWcWRteXFOc25Xc1FwcnhoRVZ5VU85MExTeHNWcVhJdy13N2ZuQ2Znb1BNODF2MHlpRnc0SlhB?oc=5",
+        "published_at": "2026-11-10T22:33:50+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：John Thune is reelected as Senate GOP leader after midterm losses；GOP senator withholds support for Thune as leadership showdown looms；Thune elected Senate GOP leader after bruising showdown with critics。",
+        "related_headlines": [
+          "John Thune is reelected as Senate GOP leader after midterm losses",
+          "GOP senator withholds support for Thune as leadership showdown looms",
+          "Thune elected Senate GOP leader after bruising showdown with critics",
+          "Pressure builds on Thune ahead of GOP leadership elections",
+          "GOP senators take a break"
+        ],
+        "content_context": "John Thune is reelected as Senate GOP leader after midterm losses - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：John Thune is reelected as Senate GOP leader after midterm losses；GOP senator withholds support for Thune as leadership showdown looms；Thune elected Senate GOP leader after bruising showdown with critics。\n\nRelated coverage: John Thune is reelected as Senate GOP leader after midterm losses\n\nRelated coverage: GOP senator withholds support for Thune as leadership showdown looms\n\nRelated coverage: Thune elected Senate GOP leader after bruising showdown with critics\n\nRelated coverage: Pressure builds on Thune ahead of GOP leadership elections\n\nRelated coverage: GOP senators take a break",
+        "trend_score": 36.09,
+        "trend_breakdown": {
+          "freshness": 0.869,
+          "engagement": 0.0,
+          "topic_overlap": 0.3,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Hill",
+        "category": "news",
+        "title": "Sanders, Slotkin won’t back Schumer as Senate Democratic leader - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HYkRyMVBvVXZ4LWJCdFN3Zl9zdnphbHhsZkk4Y0tUQmNBVV9paHl6RmJNOEVKT0wzd3QtYzJLV0RscDcxYXF1dVp5Z2RodFQ4YXg5djBIcUloVHBtSVRVQ0NPTnpIUXVWenJFdUw3YjlYc2J2MTdJ?oc=5",
+        "published_at": "2026-11-10T20:28:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sanders, Slotkin won’t back Schumer as Senate Democratic leader；Bernie Sanders says he will not back Schumer for Senate Democratic leader；Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change。",
+        "related_headlines": [
+          "Sanders, Slotkin won’t back Schumer as Senate Democratic leader",
+          "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+          "Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change",
+          "Van Hollen calls colleagues as Schumer’s leadership faces questions",
+          "Sanders won't back Schumer as Democratic leader in new Congress"
+        ],
+        "content_context": "Sanders, Slotkin won’t back Schumer as Senate Democratic leader - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sanders, Slotkin won’t back Schumer as Senate Democratic leader；Bernie Sanders says he will not back Schumer for Senate Democratic leader；Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change。\n\nRelated coverage: Sanders, Slotkin won’t back Schumer as Senate Democratic leader\n\nRelated coverage: Bernie Sanders says he will not back Schumer for Senate Democratic leader\n\nRelated coverage: Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change\n\nRelated coverage: Van Hollen calls colleagues as Schumer’s leadership faces questions\n\nRelated coverage: Sanders won't back Schumer as Democratic leader in new Congress",
+        "trend_score": 33.48,
+        "trend_breakdown": {
+          "freshness": 0.782,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC 5 Dallas-Fort Worth",
+        "category": "news",
+        "title": "Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint - NBC 5 Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMExGbEM5RkJPUWp6NVRQUjdIeTY2MHYtVmN2NUc1NlV6bkYzWlJUSTBraklFaE8wemNjTEZETjBSNlRpRjhXS0dIRTRWdW5qemo1eTFoTHpFTmhmSWxMampEYVNaRnV2VEg5RklFVGx3a0o5V3cwQWdpUk8wcWFGandjUjhsNWpIMnVHN3J1XzVIZnBoMGwyNlhCU19DczRtTWk2eE1PR1htcl9vTDVQZ1FlVG5INFBTaUlOc1RNUmI1dEw3bGRyZU04WWQwUzFjNzU4bGpmTHhENDNUVVpj0gHnAUFVX3lxTE5pZUNaalNJYkU1RDNEVklaM2pUazRtdURnYWxCcDJ3RHdicTJTbmlwZGxjcHFWNkItRktMSkxXdmR4cUgzdTF5Y2dCcEF4VXg5aHpULXZVcTB3UTR6cHdHWEtCV2xSVmlNZ2kyT1JUWGFUQzlxUFZTVzloLWQ4Z0VHWFNrR1huTHFvbV9NbGZNUmJKYU02d09NWGNFcS14VzJjV1ZvTlJ4RDN1NVdENk12VTZROXVHV0FxVXN0U3ZTYlpWQUxtZ1c3aDVHdVJ2RVctRTQydmpBSVpYWFpLZ0lib2gtOV9RWQ?oc=5",
+        "published_at": "2026-11-10T22:40:20+00:00",
+        "summary": "NBC 5 Dallas-Fort Worth 头条聚焦该事件，Google News 同时聚合到这些相关表述：Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint；Child found in cabin where East Texas man allegedly killed wife on cruise ship out of Galveston；Complaint: Tyler man arrested after cruise housekeeper discovered body。",
+        "related_headlines": [
+          "Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint",
+          "Child found in cabin where East Texas man allegedly killed wife on cruise ship out of Galveston",
+          "Complaint: Tyler man arrested after cruise housekeeper discovered body",
+          "Man arrested after woman found dead in her room aboard a cruise ship hours after departing Galveston",
+          "Possible murder onboard MSC cruise ship out of Galveston: FBI Houston"
+        ],
+        "content_context": "Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint - NBC 5 Dallas-Fort Worth\n\nNBC 5 Dallas-Fort Worth 头条聚焦该事件，Google News 同时聚合到这些相关表述：Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint；Child found in cabin where East Texas man allegedly killed wife on cruise ship out of Galveston；Complaint: Tyler man arrested after cruise housekeeper discovered body。\n\nRelated coverage: Texas man accused of cruise ship murder says argument made him ‘snap,' strangle woman: Complaint\n\nRelated coverage: Child found in cabin where East Texas man allegedly killed wife on cruise ship out of Galveston\n\nRelated coverage: Complaint: Tyler man arrested after cruise housekeeper discovered body\n\nRelated coverage: Man arrested after woman found dead in her room aboard a cruise ship hours after departing Galveston\n\nRelated coverage: Possible murder onboard MSC cruise ship out of Galveston: FBI Houston",
+        "trend_score": 32.34,
+        "trend_breakdown": {
+          "freshness": 0.874,
+          "engagement": 0.0,
+          "topic_overlap": 0.056,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "USA Today",
+        "category": "news",
+        "title": "How much snow? Latest forecast for wintry weather - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZQS2VxaURiTldUcVdkaDIxYjRFeDRuM1JMd0g5bzctRVpRYTNjNUFmYmMwUmRHM1FqZTE4UmRQU0Z5QVl4RXExQ0Y4Qno1Mm1WNmh1ZGNhNWJ5ZTJMSHJGZ1F1RkxJUjMzT0lhekswTk5yMjVQVXN6a3JtZENjRm5IT3EyX2hOcUV0TWZHU05EX0Exc19wb0lCV2pBQTUzdXYzUUFIU2pBUmxHeE1SMVJUUC1tdmM?oc=5",
+        "published_at": "2026-11-10T21:52:00+00:00",
+        "summary": "USA Today 头条聚焦该事件，Google News 同时聚合到这些相关表述：How much snow? Latest forecast for wintry weather；First snow, coldest air in months headed for eastern US in wake of storm；A potential nor’easter could bring rain, snow by later this week。",
+        "related_headlines": [
+          "How much snow? Latest forecast for wintry weather",
+          "First snow, coldest air in months headed for eastern US in wake of storm",
+          "A potential nor’easter could bring rain, snow by later this week",
+          "Potential for nor'easter increasing, could bring first snow to millions as cold air sweeps across the East",
+          "Coastal storm to bring season’s first snow to parts of Northeast"
+        ],
+        "content_context": "How much snow? Latest forecast for wintry weather - USA Today\n\nUSA Today 头条聚焦该事件，Google News 同时聚合到这些相关表述：How much snow? Latest forecast for wintry weather；First snow, coldest air in months headed for eastern US in wake of storm；A potential nor’easter could bring rain, snow by later this week。\n\nRelated coverage: How much snow? Latest forecast for wintry weather\n\nRelated coverage: First snow, coldest air in months headed for eastern US in wake of storm\n\nRelated coverage: A potential nor’easter could bring rain, snow by later this week\n\nRelated coverage: Potential for nor'easter increasing, could bring first snow to millions as cold air sweeps across the East\n\nRelated coverage: Coastal storm to bring season’s first snow to parts of Northeast",
+        "trend_score": 30.25,
+        "trend_breakdown": {
+          "freshness": 0.84,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "US Army soldier suspected of spying for Russia arrested in UK - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiMWd2M1FscDVkVEpkYnZ2R3RnaTc5YURLNWtkWFhDc050U0VPLVJsQnBZOS1LY0ZnVVV6cU10dnNta2hKbXc4ZHBiSEJDaEJhSkVTcGFESElFblE?oc=5",
+        "published_at": "2026-11-10T20:20:04+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：US Army soldier suspected of spying for Russia arrested in UK；US Army soldier arrested in UK on suspicion of espionage related to Russia；Senior U.S. soldier arrested on suspicion of spying for Russia, FBI says。",
+        "related_headlines": [
+          "US Army soldier suspected of spying for Russia arrested in UK",
+          "US Army soldier arrested in UK on suspicion of espionage related to Russia",
+          "Senior U.S. soldier arrested on suspicion of spying for Russia, FBI says",
+          "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+          "Senior U.S. Army soldier arrested in U.K. on suspicion of assisting Russian intelligence"
+        ],
+        "content_context": "US Army soldier suspected of spying for Russia arrested in UK - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：US Army soldier suspected of spying for Russia arrested in UK；US Army soldier arrested in UK on suspicion of espionage related to Russia；Senior U.S. soldier arrested on suspicion of spying for Russia, FBI says。\n\nRelated coverage: US Army soldier suspected of spying for Russia arrested in UK\n\nRelated coverage: US Army soldier arrested in UK on suspicion of espionage related to Russia\n\nRelated coverage: Senior U.S. soldier arrested on suspicion of spying for Russia, FBI says\n\nRelated coverage: UK counter-terrorism police arrest senior US soldier with alleged links to Russia\n\nRelated coverage: Senior U.S. Army soldier arrested in U.K. on suspicion of assisting Russian intelligence",
+        "trend_score": 27.95,
+        "trend_breakdown": {
+          "freshness": 0.776,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WREG.com",
+        "category": "news",
+        "title": "University of Mississippi student apologizes for racial gestures in video - WREG.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXFtUFdub3RiSDNFb1VuaVhyaklyUXJGUHlWdlpnVHp1THZHcnVqNHFUZElZRVRwTXJYRnA2eExCTG1XS2Z1TndncGsxZGhwS1JuMW9DdG5SQXZ6Q1BTamJfNk01VzVuMGFVeDZjeDlXX3REc0FGcjNaYWstRm9jaFU5SzJCUmoyeExTQlpVU09oQdIBlwFBVV95cUxNcWFmeWplMXNLSFZ6YUxEWFFKcTdlSlhXTmFfRUJ0NFJhV3ZQOTNROTlNWmJ2SW1zMDBLYVFxNHJ0ckZOUExnUVNlT0Nma1lMNFh5ZTdiYklrU0VpMWhyLWRFU0pId2ZhS0ZFMnpweldndWtlX2VJWmVjRm1mVEZpWkJRXzVDLTJYeU9WVlpEMDM3RkllNVBZ?oc=5",
+        "published_at": "2026-11-10T18:55:58+00:00",
+        "summary": "WREG.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：University of Mississippi student apologizes for racial gestures in video；Ole Miss student seen on offensive doorbell footage issues statement；The University of Mississippi says it’s investigating offensive, racist video。",
+        "related_headlines": [
+          "University of Mississippi student apologizes for racial gestures in video",
+          "Ole Miss student seen on offensive doorbell footage issues statement",
+          "The University of Mississippi says it’s investigating offensive, racist video",
+          "University of Mississippi student apologizes for alleged racist taunts in viral doorbell video",
+          "Ole Miss Investigates White Students Who Made Racist Gestures in Video"
+        ],
+        "content_context": "University of Mississippi student apologizes for racial gestures in video - WREG.com\n\nWREG.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：University of Mississippi student apologizes for racial gestures in video；Ole Miss student seen on offensive doorbell footage issues statement；The University of Mississippi says it’s investigating offensive, racist video。\n\nRelated coverage: University of Mississippi student apologizes for racial gestures in video\n\nRelated coverage: Ole Miss student seen on offensive doorbell footage issues statement\n\nRelated coverage: The University of Mississippi says it’s investigating offensive, racist video\n\nRelated coverage: University of Mississippi student apologizes for alleged racist taunts in viral doorbell video\n\nRelated coverage: Ole Miss Investigates White Students Who Made Racist Gestures in Video",
+        "trend_score": 27.62,
+        "trend_breakdown": {
+          "freshness": 0.718,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "author": "anthropics",
+      "summary": "Public repository for Agent Skills",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Python",
+      "score": 1679,
+      "comment_count": 22649,
+      "total_stars": 192367,
+      "built_by": [
+        "rlancemartin",
+        "klazuka",
+        "claude",
+        "cj-ant",
+        "ericharmeling"
+      ],
+      "content_context": "Public repository for Agent Skills\n\nLanguage: Python\n\nStars today: 1679\n\nTotal stars: 192367\n\nBuilt by: rlancemartin, klazuka, claude, cj-ant, ericharmeling",
+      "trend_score": 108.56,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 1.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "author": "addyosmani",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "JavaScript",
+      "score": 465,
+      "comment_count": 12096,
+      "total_stars": 115196,
+      "built_by": [
+        "addyosmani",
+        "nucliweb",
+        "claude",
+        "rudycelekli",
+        "ayobamiseun"
+      ],
+      "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 465\n\nTotal stars: 115196\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
+      "trend_score": 96.93,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.885,
+        "topic_overlap": 0.667,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "author": "anthropics",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Python",
+      "score": 531,
+      "comment_count": 3470,
+      "total_stars": 20519,
+      "built_by": [
+        "cj-ant",
+        "claude",
+        "x5a",
+        "alexalbertt",
+        "zealoushacker"
+      ],
+      "content_context": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\nLanguage: Python\n\nStars today: 531\n\nTotal stars: 20519\n\nBuilt by: cj-ant, claude, x5a, alexalbertt, zealoushacker",
+      "trend_score": 94.8,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.828,
+        "topic_overlap": 0.667,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "author": "vercel-labs",
+      "summary": "Browser automation CLI for AI agents",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Rust",
+      "score": 780,
+      "comment_count": 3451,
+      "total_stars": 49243,
+      "built_by": [
+        "ctate",
+        "Railly",
+        "github-actions",
+        "lahfir",
+        "claude"
+      ],
+      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 780\n\nTotal stars: 49243\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
+      "trend_score": 86.69,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.853,
+        "topic_overlap": 0.25,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "author": "sherlock-project",
+      "summary": "Hunt down social media accounts by username across social networks",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Python",
+      "score": 2393,
+      "comment_count": 12664,
+      "total_stars": 109035,
+      "built_by": [
+        "sdushantha",
+        "hoadlck",
+        "ppfeister",
+        "TheYahya",
+        "Czechball"
+      ],
+      "content_context": "Hunt down social media accounts by username across social networks\n\nLanguage: Python\n\nStars today: 2393\n\nTotal stars: 109035\n\nBuilt by: sdushantha, hoadlck, ppfeister, TheYahya, Czechball",
+      "trend_score": 86.57,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.993,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "author": "google-deepmind",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "C++",
+      "score": 456,
+      "comment_count": 2148,
+      "total_stars": 17379,
+      "built_by": [
+        "yuvaltassa",
+        "quagla",
+        "haroonq",
+        "kbayes",
+        "saran-t"
+      ],
+      "content_context": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\nLanguage: C++\n\nStars today: 456\n\nTotal stars: 17379\n\nBuilt by: yuvaltassa, quagla, haroonq, kbayes, saran-t",
+      "trend_score": 86.25,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.794,
+        "topic_overlap": 0.333,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "author": "meta",
+      "summary": "An open source design system that's fully customizable and agent ready",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "TypeScript",
+      "score": 3108,
+      "comment_count": 1826,
+      "total_stars": 22945,
+      "built_by": [
+        "github-actions",
+        "cixzhang",
+        "rubyycheung",
+        "josephfarina",
+        "vjeux"
+      ],
+      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 3108\n\nTotal stars: 22945\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+      "trend_score": 83.41,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.909,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "author": "homeassistant-ai",
+      "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Python",
+      "score": 790,
+      "comment_count": 432,
+      "total_stars": 6689,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "kingpanther13",
+        "julienld",
+        "dependabot"
+      ],
+      "content_context": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\nLanguage: Python\n\nStars today: 790\n\nTotal stars: 6689\n\nBuilt by: github-actions, claude, kingpanther13, julienld, dependabot",
+      "trend_score": 77.21,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.746,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "author": "we-promise",
+      "summary": "The personal finance app for everyone (by everyone)",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Ruby",
+      "score": 159,
+      "comment_count": 892,
+      "total_stars": 11989,
+      "built_by": [
+        "jjmata",
+        "dependabot",
+        "claude",
+        "zachgoll",
+        "Shpigford"
+      ],
+      "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 159\n\nTotal stars: 11989\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
+      "trend_score": 74.7,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.68,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "author": "tokio-rs",
+      "summary": "A batteries-included framework for building web apps",
+      "published_at": "2026-11-11T01:42:02.439988+00:00",
+      "language": "Rust",
+      "score": 192,
+      "comment_count": 302,
+      "total_stars": 6843,
+      "built_by": [
+        "pikaju",
+        "akoll",
+        "github-actions",
+        "carllerche",
+        "AmeinEskinder"
+      ],
+      "content_context": "A batteries-included framework for building web apps\n\nLanguage: Rust\n\nStars today: 192\n\nTotal stars: 6843\n\nBuilt by: pikaju, akoll, github-actions, carllerche, AmeinEskinder",
+      "trend_score": 73.04,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.637,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "author": "Gaishan",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-11T01:40:18+00:00",
+      "summary": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+        "page_title": "Claude Code is accidentally exposing secrets all over GitHub",
+        "page_description": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+        "page_excerpt": "“Do not ask again” prompt leads to passwords, API keys, and more being shared.\n\nClaude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That’s the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories.\n\nThe leak stems from the way Claude Code handles user approval for automated shell commands. When a user chooses the “Yes, and don’t ask again” option to approve running a command, that choice gets stored as part of a rule in the local “.claude/settings.local.json” file on the user’s computer. That rule is sometimes coded as a pattern, but the command itself is often written to that settings fil..."
+      },
+      "content_context": "Do not ask again\" prompt leads to passwords, API keys, and more being shared.\n\n“Do not ask again” prompt leads to passwords, API keys, and more being shared. Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That’s the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude Code handles user approval for automated shell commands. When a user chooses the “Yes, and don’t ask again” option to approve running a command, that choice gets stored as part of a rule in the local “.claude/settings.local.json” file on the user’s computer. That rule is sometimes coded as a pattern, but the command itself is often written to that settings fil...",
+      "trend_score": 57.36,
+      "trend_breakdown": {
+        "freshness": 0.999,
+        "engagement": 0.045,
+        "topic_overlap": 0.375,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Broken links silently waste your Google crawl budget",
+      "url": "https://sitetoolsbox.com/article.php?id=55",
+      "author": "kagouhui",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-11T01:29:28+00:00",
+      "summary": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d",
+      "comment_highlights": [
+        "[flagged]",
+        "[dead]"
+      ],
+      "linked_context": {
+        "resolved_url": "https://sitetoolsbox.com/article.php?id=55",
+        "page_title": "Why Broken Links Are Silently Killing Your SEO (And How to Automate the Audit) -",
+        "page_description": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d",
+        "page_excerpt": "As a webmaster, you probably spend hours obsessing over keyword research, backlink building, and content quality. But there is a silent killer hiding in your site architecture that can drain your SEO authority without you even noticing: Broken Links (404s) .\n\nWhether it’s an external resource that went offline, or an internal page you deleted but forgot to redirect, dead links are a massive liability. In this post, we’ll look at the technical reality of broken links and how developers can automate the auditing process.\n\nGooglebot crawls the web to index pages. When it encounters a 404 error on your site, it doesn't immediately penalize you. However, it does impact your site in three specific ways:"
+      },
+      "content_context": "Broken links silently drain your SEO authority and waste your Google crawl budget. Learn the technical reality of 404s and a developer's approach to automated d\n\nAs a webmaster, you probably spend hours obsessing over keyword research, backlink building, and content quality. But there is a silent killer hiding in your site architecture that can drain your SEO authority without you even noticing: Broken Links (404s) . Whether it’s an external resource that went offline, or an internal page you deleted but forgot to redirect, dead links are a massive liability. In this post, we’ll look at the technical reality of broken links and how developers can automate the auditing process. Googlebot crawls the web to index pages. When it encounters a 404 error on your site, it doesn't immediately penalize you. However, it does impact your site in three specific ways:\n\nHN comment: [flagged]\n\nHN comment: [dead]",
+      "trend_score": 53.76,
+      "trend_breakdown": {
+        "freshness": 0.991,
+        "engagement": 0.045,
+        "topic_overlap": 0.222,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Kotlean: write Android apps in Lean",
+      "url": "https://github.com/kbr-/kotlean",
+      "author": "kbr-",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-11T01:33:41+00:00",
+      "summary": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://github.com/kbr-/kotlean",
+        "page_title": "GitHub - kbr-/kotlean: Kotlean: Android apps, proven. Write the app in Lean with a thin Android host.",
+        "page_description": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean",
+        "page_excerpt": "Kotlean lets you write an Android app's state, behavior and UI in Lean, prove properties of that code, and compile it into the app. A small Kotlin host renders native Android Views and performs platform effects.\n\nThe problem it addresses is keeping a verified state machine connected to the application people actually use. Your Lean update and view functions run on the device. Buttons, text edits, gestures and timers enter that same state machine.\n\nSnackNet is an original maze-chase game written in Lean. An AI machine collects thirteen data tokens while two human operators track and intercept it. Overclock turns the machine into a metal endoskeleton and lets it capture the operators. The recording shows a full win, including the continuously held D-pad and its highlighted directions."
+      },
+      "content_context": "Kotlean: Android apps, proven. Write the app in Lean with a thin Android host. - kbr-/kotlean\n\nKotlean lets you write an Android app's state, behavior and UI in Lean, prove properties of that code, and compile it into the app. A small Kotlin host renders native Android Views and performs platform effects. The problem it addresses is keeping a verified state machine connected to the application people actually use. Your Lean update and view functions run on the device. Buttons, text edits, gestures and timers enter that same state machine. SnackNet is an original maze-chase game written in Lean. An AI machine collects thirteen data tokens while two human operators track and intercept it. Overclock turns the machine into a metal endoskeleton and lets it capture the operators. The recording shows a full win, including the continuously held D-pad and its highlighted directions.",
+      "trend_score": 52.72,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.045,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "MoofPort: An Open-Source WiFi Ethernet Driver for the Wi-Fi on Classic Mac",
+      "url": "https://github.com/matthewmrichter/moofport",
+      "author": "marcusbasant",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-11-11T01:25:31+00:00",
+      "summary": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport",
+      "comment_highlights": [
+        "I bought a Mac Classic this summer and restored it. I've been getting a surprising amount of practical use out of it in 2026 as a Telnet terminal to manage LLM agent sessions with tmux via BlueSCSI Wifi adapter.<p>I already built this open source replacement for the MacTCP stack (<a href=\"https:/..."
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/matthewmrichter/moofport",
+        "page_title": "GitHub - matthewmrichter/moofport: Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT",
+        "page_description": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport",
+        "page_excerpt": "An open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on a Mac Classic running System 6.0.8.\n\nMoofPort is a replacement .ENET0 Ethernet driver for the BlueSCSI v2 's Wi-Fi (DaynaPORT emulation) on a Macintosh Classic with System 6.0.8 . It works with MacTCP 2.1 and with EtherTalk / AppleShare , at the same time, the way the driver you have now does.\n\nIt is a drop-in replacement for the .ENET0 driver from DaynaPORT SCSI/Link 1.2.5 . You run an installer, restart, and your Mac is on Wi-Fi again, with the same MacTCP and AppleTalk settings. If you ever want to go back, one click on Uninstall puts DaynaPORT's driver back exactly as it was."
+      },
+      "content_context": "Open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on 68k Macs with System 6, faster than DaynaPORT - matthewmrichter/moofport\n\nAn open-source Ethernet driver for the BlueSCSI v2 Wi-Fi on a Mac Classic running System 6.0.8. MoofPort is a replacement .ENET0 Ethernet driver for the BlueSCSI v2 's Wi-Fi (DaynaPORT emulation) on a Macintosh Classic with System 6.0.8 . It works with MacTCP 2.1 and with EtherTalk / AppleShare , at the same time, the way the driver you have now does. It is a drop-in replacement for the .ENET0 driver from DaynaPORT SCSI/Link 1.2.5 . You run an installer, restart, and your Mac is on Wi-Fi again, with the same MacTCP and AppleTalk settings. If you ever want to go back, one click on Uninstall puts DaynaPORT's driver back exactly as it was.\n\nHN comment: I bought a Mac Classic this summer and restored it. I've been getting a surprising amount of practical use out of it in 2026 as a Telnet terminal to manage LLM agent sessions with tmux via BlueSCSI Wifi adapter.<p>I already built this open source replacement for the MacTCP stack (<a href=\"https:/...",
+      "trend_score": 50.24,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.081,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Yahoo is betting the house on its new AI, from search to all its services",
+      "url": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux",
+      "author": "mkmk",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-11T01:33:15+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 46.81,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.045,
+        "topic_overlap": 0.286,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目持续活跃，GitHub趋势榜呈现多元化热点。Anthropic与Google分别推出'skills'与'agent-skills'项目，聚焦AI智能体技能库与工程化，旨在降低开发门槛并推动生产级应用。同时，Claude API快速入门指南与Vercel的浏览器自动化工具'agent-browser'为开发者提供了实用的集成与部署资源。此外，Meta开源的'agent-ready'设计系统Astryx、DeepMind的物理仿真引擎MuJoCo，以及智能家居AI自动化项目ha-mcp，共同体现了AI技术正加速向工具链、仿真环境及垂直应用场景渗透。",
+    "named_hotspots": [
+      {
+        "name": "Anthropic Skills",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic在GitHub上开源了一个名为'skills'的公共代码仓库，该项目旨在为AI智能体提供技能库，今日获得大量关注，新增星标数达1679。",
+        "core_details": "该项目是一个Python语言编写的公共代码仓库，由Anthropic团队（包括rlancemartin、klazuka等贡献者）维护，总星标数已超过19万，今日新增星标1679个，在GitHub趋势榜上热度显著。",
+        "ai_take": "该项目展示了Anthropic在推进AI智能体实用化方面的开源努力，通过提供可复用的技能库，可能旨在降低智能体开发门槛，促进社区协作与生态构建，反映了当前AI开发从模型向应用与工具链延伸的趋势。",
+        "hype_check": "热度较高，单日新增星标数突出，总星标数庞大，表明其在开发者社区中已有广泛关注和积累，但需注意部分热度可能源于Anthropic的品牌效应及当前智能体领域的热潮。",
+        "value_check": "作为开源项目，它为开发者提供了实用的智能体技能参考实现，具有明确的工具价值；若持续维护并吸引社区贡献，可能成为智能体开发的重要基础设施之一，但其实际影响取决于代码质量、文档完善度及生态活跃度。",
+        "follow_up": "可关注该仓库的更新频率、Issue/PR的社区互动情况，以及是否有基于此构建的实际应用案例；同时观察Anthropic是否会围绕此项目推出更多配套工具或集成服务。",
+        "evidence": "数据来源于GitHub趋势榜，项目URL为https://github.com/anthropics/skills，语言为Python，总星标192367，今日新增1679星标，由Anthropic官方账号发布。"
+      },
+      {
+        "name": "agent-skills",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Google工程师addyosmani在GitHub上开源了一个名为'agent-skills'的项目，旨在为AI编程代理提供生产级工程技能。该项目今日获得465颗星，总星数达115,196，使用JavaScript语言开发。",
+        "core_details": "该项目由addyosmani、nucliweb、claude、rudycelekli、ayobamiseun等贡献者构建，专注于提升AI编码代理在实际生产环境中的工程能力，包括代码质量、可维护性和部署等方面。",
+        "ai_take": "该项目反映了AI编程代理从实验性工具向生产级应用演进的需求，通过标准化工程实践，可能加速AI在软件开发中的集成，提升自动化代码生成的可靠性和效率。",
+        "hype_check": "高星数和趋势分数表明开发者社区对此类工具兴趣浓厚，但需观察实际生产环境中的采纳率和效果，避免过度炒作。",
+        "value_check": "开源项目为AI代理工程化提供了实用参考，可能降低企业采用AI编码工具的门槛，但价值取决于后续维护和社区贡献的持续性。",
+        "follow_up": "关注项目更新、企业案例应用以及与其他AI开发工具的集成情况，以评估其长期影响力。",
+        "evidence": "项目在GitHub Trending上趋势分数为96.93，总星数115,196，今日新增465颗星，语言为JavaScript，贡献者包括知名开发者addyosmani等。"
+      },
+      {
+        "name": "Claude Quickstarts",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Anthropic官方在GitHub上发布了一个名为“claude-quickstarts”的项目集合，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序。该项目今日获得531颗星，总星数已达20519，显示出极高的开发者关注度。",
+        "core_details": "该项目由Anthropic团队（包括cj-ant、claude、x5a等贡献者）维护，主要编程语言为Python。它提供了一系列入门项目，专注于降低开发者使用Claude API构建实际应用的门槛，促进生态发展。",
+        "ai_take": "这反映了Anthropic正积极推动其Claude API的开发者采用和生态系统建设。通过提供结构化的快速入门资源，他们旨在加速基于Claude的AI应用开发，与OpenAI等竞争对手在开发者工具层面展开竞争。",
+        "hype_check": "热度很高。项目在GitHub Trending上趋势得分94.8，日增星数可观，总星数超过2万，表明其在开发者社区中获得了广泛且持续的认可和兴趣，并非短暂热点。",
+        "value_check": "对开发者价值明确。它直接解决了开发者在集成Claude API时可能遇到的起步难题，提供了可运行的示例，能有效缩短开发周期，是实用的工具性资源。",
+        "follow_up": "开发者可关注该GitHub仓库的更新，以获取更多示例和最佳实践。同时，可观察Anthropic是否会围绕此项目举办相关的黑客松或开发者活动，进一步推动社区参与。",
+        "evidence": "证据来源于GitHub项目页面信息：项目由Anthropic官方发布，描述为“帮助开发者快速开始使用Claude API构建可部署应用程序的项目集合”，使用Python语言，今日星数增长531，总星数20519，趋势得分94.8。"
+      },
+      {
+        "name": "agent-browser",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-browser 的浏览器自动化 CLI 工具，专为 AI 智能体设计，使用 Rust 语言编写，今日获得 780 颗星，总星数已达 49243，在开发者社区中热度很高。",
+        "core_details": "该项目是一个命令行界面工具，旨在为 AI 智能体提供浏览器自动化能力，使其能够执行网页交互任务。由 Vercel Labs 团队开发，主要贡献者包括 ctate、Railly 等。项目采用 Rust 语言实现，确保了高性能和安全性。",
+        "ai_take": "该工具直接服务于 AI 智能体的实际应用，通过自动化浏览器操作，扩展了 AI 在网页抓取、测试、交互模拟等场景的能力，是 AI 与工具链结合的一个典型案例，有助于推动智能体在真实环境中的部署。",
+        "hype_check": "项目在 GitHub 上趋势排名靠前，单日获星数高，总星数近 5 万，表明其在开发者社区中受到广泛关注和认可，反映了市场对 AI 智能体基础设施工具的强烈需求。",
+        "value_check": "作为开源工具，它降低了 AI 智能体进行浏览器自动化的门槛，提升了开发效率，具有明确的实用价值。Rust 语言的选择也带来了性能优势，适合生产环境使用。",
+        "follow_up": "关注 Vercel Labs 的后续更新，以及社区如何将其集成到更大的 AI 智能体生态中。同时，可观察类似工具（如 Puppeteer、Playwright）的 AI 适配进展。",
+        "evidence": "GitHub 仓库显示项目描述为“Browser automation CLI for AI agents”，语言为 Rust，今日星数 780，总星数 49243，由 Vercel-labs 组织维护。"
+      },
+      {
+        "name": "Sherlock",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Sherlock的开源项目在GitHub上趋势榜中热度飙升，单日新增星标数达2393，总星标数已超过10.9万。该项目旨在通过用户名追踪个人在多个社交媒体平台上的账户。",
+        "core_details": "Sherlock是一个用Python编写的开源工具，允许用户输入一个用户名，即可在众多社交媒体平台上搜索并定位对应的账户。项目由多位开发者（如sdushantha、hoadlck等）共同构建，目前拥有极高的社区关注度，总星标数已达109,035，单日新增星标2,393个，显示出其在技术社区中的广泛流行。",
+        "ai_take": "虽然Sherlock本身并非AI驱动，但其核心功能——跨平台数据聚合与关联分析——与AI领域的开源情报（OSINT）工具高度相关。这类工具常被用于数字身份验证、网络安全研究或社交媒体分析，未来若集成机器学习算法（如自然语言处理或模式识别），可自动推断账户关联性或进行异常检测，提升追踪效率与准确性。",
+        "hype_check": "热度真实且持续：项目长期位居GitHub趋势榜，总星标数突破10万，单日新增数千星标，表明其解决了跨平台身份追踪的实际需求，尤其在开源情报和网络安全社区中备受推崇。但需注意，工具可能被滥用于隐私侵犯，因此热度也伴随伦理争议。",
+        "value_check": "高实用价值：对于安全研究人员、调查记者或企业风控团队，Sherlock提供了快速、免费的跨平台账户检索能力，减少了手动搜索的成本。其开源特性允许社区持续扩展支持的平台列表（目前已覆盖数百个网站），增强了工具的适应性和透明度。",
+        "follow_up": "关注项目更新以了解新支持的平台或集成AI功能的计划；同时注意相关法律与伦理讨论，尤其是隐私保护法规（如GDPR）对这类工具使用的限制。",
+        "evidence": "项目GitHub页面显示语言为Python，总星标109,035，单日新增2,393星标，开发者列表包括sdushantha等多位贡献者；功能描述为“通过用户名在社交网络中追踪社交媒体账户”。"
+      },
+      {
+        "name": "MuJoCo",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Google DeepMind 旗下的开源物理仿真引擎 MuJoCo 登上 GitHub 趋势榜，单日获 456 颗星，总星数达 17379。",
+        "core_details": "MuJoCo（Multi-Joint dynamics with Contact）是一个通用的物理模拟器，主要用于机器人、生物力学、图形动画等领域的研究与开发。项目由 Google DeepMind 团队维护，使用 C++ 编写。",
+        "ai_take": "作为机器人学习和强化学习领域广泛使用的仿真环境，MuJoCo 的高性能与精准物理模拟为 AI 智能体的训练与测试提供了关键基础设施，是推动具身智能研究的重要工具。",
+        "hype_check": "趋势热度较高（趋势分 86.25），单日获星数突出，显示其在开发者社区中持续受到关注，但更多反映的是长期稳定需求而非突发性热点。",
+        "value_check": "该项目具有明确的科研与工程价值，为学术界和工业界提供了可靠的仿真平台，其开源属性降低了研究门槛，促进了相关领域的算法迭代与应用落地。",
+        "follow_up": "可关注 MuJoCo 在强化学习基准环境（如 Gymnasium）中的集成进展，以及其在新版 Isaac Sim、Drake 等仿真工具生态中的定位与更新。",
+        "evidence": "GitHub 仓库显示项目由 google-deepmind 组织维护，语言为 C++，今日星数 456，总星数 17379，项目描述为“通用的物理模拟器”。"
+      },
+      {
+        "name": "Astryx",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Meta在GitHub上开源了名为Astryx的设计系统，该项目今日获得3108颗星，总星数达22945，在趋势榜上热度较高。",
+        "core_details": "Astryx是一个完全可定制且面向智能体（agent-ready）的开源设计系统，使用TypeScript语言开发，由Meta的团队（包括github-actions、cixzhang、rubyycheung、josephfarina、vjeux等贡献者）构建。",
+        "ai_take": "该项目强调'agent-ready'，表明其设计考虑了AI智能体的交互与集成需求，可能为开发AI驱动的界面或工具提供标准化组件，支持自动化与可访问性。",
+        "hype_check": "趋势分83.41和单日大量加星显示短期内关注度飙升，但需观察长期维护和社区采用情况，以判断是否仅为短期热点。",
+        "value_check": "作为Meta开源的设计系统，具有品牌背书和工程实践价值，可帮助团队快速构建一致且支持AI的UI，但实际效用取决于文档、生态和跨平台兼容性。",
+        "follow_up": "关注Meta官方对该项目的路线图更新、社区贡献增长以及在实际AI应用中的案例落地。",
+        "evidence": "GitHub仓库数据显示项目由Meta发布，使用TypeScript，今日星数3108，总星数22945，描述为'开源设计系统，完全可定制且面向智能体'。"
+      },
+      {
+        "name": "ha-mcp",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为ha-mcp的GitHub开源项目在技术社区中热度显著上升，今日获得790颗星，总星数达6689，主要关注使用AI助手配置和自动化Home Assistant。",
+        "core_details": "该项目由homeassistant-ai团队开发，使用Python语言，旨在通过Claude、ChatGPT等AI助手来配置和自动化Home Assistant智能家居平台。项目由github-actions、claude、kingpanther13、julienld和dependabot等贡献者构建，体现了AI与物联网的融合趋势。",
+        "ai_take": "此项目展示了AI代理在智能家居自动化中的实际应用，通过自然语言接口降低用户操作门槛，可能推动更普及的AI驱动家庭管理解决方案。",
+        "hype_check": "热度较高，基于GitHub趋势分数77.21和快速增长的星数，反映社区对AI+物联网交叉领域的强烈兴趣，但需观察实际部署和用户反馈。",
+        "value_check": "实用价值明确，为Home Assistant用户提供了AI增强的自动化工具，可能提升智能家居系统的易用性和灵活性，适合开发者和高级用户。",
+        "follow_up": "关注项目后续更新、用户采用率以及是否集成更多AI模型，同时留意类似项目在GitHub上的竞争动态。",
+        "evidence": "GitHub项目页面显示配置和自动化Home Assistant与AI助手的功能，项目数据包括语言、星数趋势和贡献者信息，支持其作为热门开源工具的定位。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "anthropics/skills",
+        "content_summary": "Anthropic 开源了一个名为“skills”的公共仓库，用于AI Agent技能开发。该项目使用Python语言，今日获得1679颗星，总星数已达192367。项目由rlancemartin、klazuka、claude等多位贡献者构建。",
+        "ai_comment": "这是一个面向AI代理技能开发的重要开源项目，高星数表明其在开发者社区中受到广泛关注和采用，是构建可部署AI应用的关键资源。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "addyosmani/agent-skills",
+        "content_summary": "Addy Osmani 开源了一个专注于为AI编码代理提供生产级工程技能的项目。该项目使用JavaScript语言，今日获得465颗星，总星数为115196。项目由addyosmani、nucliweb等多位贡献者构建。",
+        "ai_comment": "该项目旨在提升AI编码代理的工程实践能力，是AI辅助开发工具链中的重要组成部分，其流行度反映了市场对高质量、可投入生产的AI开发工具的需求。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "anthropics/claude-quickstarts",
+        "content_summary": "Anthropic 发布了“Claude Quickstarts”项目集合，旨在帮助开发者快速上手使用Claude API构建可部署的应用程序。该项目使用Python语言，今日获得531颗星，总星数为20519。",
+        "ai_comment": "该项目降低了开发者使用Claude API的门槛，提供了实用的入门示例，有助于加速基于Claude的AI应用开发与生态建设。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Claude Code is accidentally exposing secrets all over GitHub",
+        "content_summary": "安全研究人员发现，Claude Code因其设置文件处理方式存在疏漏，导致数千个敏感信息（如数据库密码、API密钥、root登录凭证）通过GitHub上的公共仓库泄露。问题源于用户选择“是，且不再询问”以批准运行命令时，该命令本身有时会被写入本地的“.claude/settings.local.json”文件，该文件可能被意外提交到公共代码库。",
+        "ai_comment": "这暴露了AI编码工具在安全实践上的重大隐患，提醒开发者在集成此类工具时需严格审查自动生成的配置文件，并避免将包含敏感信息的本地设置提交到版本控制系统。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Show HN: Broken links silently waste your Google crawl budget",
+        "content_summary": "文章指出，网站上的失效链接（404错误）会无声地消耗谷歌爬虫的抓取预算，损害SEO权威。谷歌爬虫遇到404错误时，虽然不会立即惩罚网站，但会通过浪费抓取资源、损害用户体验信号和潜在影响内部链接权重三种方式对网站产生负面影响。文章还探讨了开发者如何自动化审计流程。",
+        "ai_comment": "这是一个常被忽视的技术SEO问题。自动化定期检查并修复失效链接，对于维持网站健康度和搜索引擎可见性至关重要，是网站运维的必备实践。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Show HN: Kotlean: write Android apps in Lean",
+        "content_summary": "Kotlean 是一个允许开发者使用Lean定理证明语言编写Android应用状态、行为和UI，并证明代码属性，然后将其编译进应用的项目。应用由一个轻量的Kotlin宿主渲染原生Android视图并执行平台效果。项目包含一个用Lean编写的原创迷宫追逐游戏示例SnackNet。",
+        "ai_comment": "该项目探索了形式化验证在移动开发中的前沿应用，试图将经过数学证明的可靠代码与实际的用户应用连接起来，对于高安全性或高可靠性要求的应用场景具有潜在价值。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Kennedy family seeks to block construction of Trump’s arch",
+        "content_summary": "肯尼迪家族成员加入了一项诉讼，旨在阻止特朗普的凯旋门建设。他们声称该建筑会损害J.F.K.（约翰·F·肯尼迪）和R.F.K.（罗伯特·F·肯尼迪）的墓地景观。多家媒体对此事进行了报道。",
+        "ai_comment": "此事涉及历史遗产保护、政治象征与家族权益之间的冲突，是美国当前政治与文化争议的一个侧面反映。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+        "content_summary": "密西西比州参议院选举中，斯科特·科洛姆在选票截止日期临近时，对现任议员辛迪·海德-史密斯的领先优势略有扩大。报道提及数千名选民因该州选民名册变更而正努力使他们的选票被计入，选举过程经历了不少波折。",
+        "ai_comment": "这反映了美国地方选举中的激烈竞争以及选民资格认定等技术性问题可能对选举结果产生的关键影响。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Republican-led House rejects Hegseth impeachment effort",
+        "content_summary": "由共和党主导的美国众议院投票否决了对国防部长皮特·赫格塞斯的弹劾努力， effectively结束了此次弹劾程序。多家媒体报道了共和党人阻止弹劾 Pentagon 首席官员的举动。",
+        "ai_comment": "这表明在当前政治格局下，针对特朗普政府关键官员的弹劾行动在国会面临重大阻力，凸显了党派政治的直接影响。"
+      }
+    ],
+    "closing_note": "总体来看，今日热点凸显了AI开发从模型层面向应用生态的纵深拓展。开源社区正通过提供标准化组件、工程化工具与仿真平台，积极构建智能体开发的基础设施。然而，项目的长期价值仍需依赖持续的维护、社区贡献及实际落地效果。开发者可关注这些项目的后续更新与生态集成，以把握AI工程化与实用化的前沿动向。",
+    "_errors": []
+  }
+}
