@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:41:02.989781+00:00",
+  "generated_at": "2026-11-13T02:25:27.364699+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -15,11 +15,11 @@
         "url": "https://github.com/addyosmani/agent-skills",
         "author": "addyosmani",
         "summary": "Production-grade engineering skills for AI coding agents.",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
         "language": "JavaScript",
-        "score": 787,
-        "comment_count": 12169,
-        "total_stars": 116008,
+        "score": 816,
+        "comment_count": 12212,
+        "total_stars": 116718,
         "built_by": [
           "addyosmani",
           "nucliweb",
@@ -27,11 +27,11 @@
           "rudycelekli",
           "ayobamiseun"
         ],
-        "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 787\n\nTotal stars: 116008\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
-        "trend_score": 93.57,
+        "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 816\n\nTotal stars: 116718\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
+        "trend_score": 93.98,
         "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.986,
+          "freshness": 0.998,
+          "engagement": 1.0,
           "topic_overlap": 0.333,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -43,80 +43,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "vercel-labs/agent-browser",
-        "url": "https://github.com/vercel-labs/agent-browser",
-        "author": "vercel-labs",
-        "summary": "Browser automation CLI for AI agents",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
-        "language": "Rust",
-        "score": 708,
-        "comment_count": 3491,
-        "total_stars": 49932,
-        "built_by": [
-          "ctate",
-          "Railly",
-          "github-actions",
-          "lahfir",
-          "claude"
-        ],
-        "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 708\n\nTotal stars: 49932\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
-        "trend_score": 88.84,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.91,
-          "topic_overlap": 0.25,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "ZhuLinsen/daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "author": "ZhuLinsen",
-        "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
-        "language": "Python",
-        "score": 278,
-        "comment_count": 56880,
-        "total_stars": 70374,
-        "built_by": [
-          "ZhuLinsen",
-          "massif-01",
-          "freesme",
-          "Activer007",
-          "birdxs"
-        ],
-        "content_context": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\nLanguage: Python\n\nStars today: 278\n\nTotal stars: 70374\n\nBuilt by: ZhuLinsen, massif-01, freesme, Activer007, birdxs",
-        "trend_score": 86.84,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 1.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "finance",
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "meta/astryx",
         "url": "https://github.com/meta/astryx",
         "author": "meta",
         "summary": "An open source design system that's fully customizable and agent ready",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
         "language": "TypeScript",
-        "score": 2776,
-        "comment_count": 1961,
-        "total_stars": 25157,
+        "score": 1830,
+        "comment_count": 2068,
+        "total_stars": 26629,
         "built_by": [
           "github-actions",
           "cixzhang",
@@ -124,11 +59,43 @@
           "josephfarina",
           "vjeux"
         ],
-        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 2776\n\nTotal stars: 25157\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
-        "trend_score": 85.8,
+        "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 1830\n\nTotal stars: 26629\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+        "trend_score": 85.11,
         "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.973,
+          "freshness": 0.998,
+          "engagement": 0.957,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nodejs/node",
+        "url": "https://github.com/nodejs/node",
+        "author": "nodejs",
+        "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
+        "language": "JavaScript",
+        "score": 62,
+        "comment_count": 38057,
+        "total_stars": 123609,
+        "built_by": [
+          "Trott",
+          "ry",
+          "bnoordhuis",
+          "addaleax",
+          "isaacs"
+        ],
+        "content_context": "Node.js JavaScript runtime ✨🐢🚀✨\n\nLanguage: JavaScript\n\nStars today: 62\n\nTotal stars: 123609\n\nBuilt by: Trott, ry, bnoordhuis, addaleax, isaacs",
+        "trend_score": 82.33,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.884,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -144,11 +111,11 @@
         "url": "https://github.com/we-promise/sure",
         "author": "we-promise",
         "summary": "The personal finance app for everyone (by everyone)",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
         "language": "Ruby",
-        "score": 1078,
-        "comment_count": 962,
-        "total_stars": 13031,
+        "score": 967,
+        "comment_count": 1045,
+        "total_stars": 13976,
         "built_by": [
           "jjmata",
           "dependabot",
@@ -156,107 +123,11 @@
           "zachgoll",
           "Shpigford"
         ],
-        "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 1078\n\nTotal stars: 13031\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
-        "trend_score": 81.8,
+        "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 967\n\nTotal stars: 13976\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
+        "trend_score": 81.95,
         "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.867,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "TheAlgorithms/Java",
-        "url": "https://github.com/TheAlgorithms/Java",
-        "author": "TheAlgorithms",
-        "summary": "All Algorithms implemented in Java",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
-        "language": "Java",
-        "score": 51,
-        "comment_count": 21513,
-        "total_stars": 67072,
-        "built_by": [
-          "alxkm",
-          "dependabot",
-          "vil02",
-          "Hardvan",
-          "yanglbme"
-        ],
-        "content_context": "All Algorithms implemented in Java\n\nLanguage: Java\n\nStars today: 51\n\nTotal stars: 67072\n\nBuilt by: alxkm, dependabot, vil02, Hardvan, yanglbme",
-        "trend_score": 80.36,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.829,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "homeassistant-ai/ha-mcp",
-        "url": "https://github.com/homeassistant-ai/ha-mcp",
-        "author": "homeassistant-ai",
-        "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
-        "language": "Python",
-        "score": 645,
-        "comment_count": 454,
-        "total_stars": 7421,
-        "built_by": [
-          "github-actions",
-          "claude",
-          "kingpanther13",
-          "julienld",
-          "dependabot"
-        ],
-        "content_context": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\nLanguage: Python\n\nStars today: 645\n\nTotal stars: 7421\n\nBuilt by: github-actions, claude, kingpanther13, julienld, dependabot",
-        "trend_score": 78.86,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.79,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "shadcn/improve",
-        "url": "https://github.com/shadcn/improve",
-        "author": "shadcn",
-        "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
-        "language": null,
-        "score": 361,
-        "comment_count": 448,
-        "total_stars": 10978,
-        "built_by": [
-          "shadcn",
-          "claude",
-          "erikpr1994",
-          "beastawakens",
-          "morinim"
-        ],
-        "content_context": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.\n\nLanguage: unknown\n\nStars today: 361\n\nTotal stars: 10978\n\nBuilt by: shadcn, claude, erikpr1994, beastawakens, morinim",
-        "trend_score": 77.31,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.749,
+          "freshness": 0.998,
+          "engagement": 0.874,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -272,11 +143,11 @@
         "url": "https://github.com/openai/codex-security",
         "author": "openai",
         "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
         "language": "TypeScript",
-        "score": 52,
-        "comment_count": 945,
-        "total_stars": 11807,
+        "score": 643,
+        "comment_count": 979,
+        "total_stars": 12485,
         "built_by": [
           "mldangelo-oai",
           "codex",
@@ -284,11 +155,75 @@
           "ianw-oai",
           "kmbroai"
         ],
-        "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 52\n\nTotal stars: 11807\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
-        "trend_score": 73.81,
+        "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 643\n\nTotal stars: 12485\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
+        "trend_score": 80.72,
         "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.657,
+          "freshness": 0.998,
+          "engagement": 0.841,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "author": "nvm-sh",
+        "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
+        "language": "Shell",
+        "score": 63,
+        "comment_count": 10760,
+        "total_stars": 96024,
+        "built_by": [
+          "ljharb",
+          "PeterDaveHello",
+          "creationix",
+          "koenpunt",
+          "lukechilds"
+        ],
+        "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 63\n\nTotal stars: 96024\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+        "trend_score": 79.68,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.814,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "QwenLM/qwen-code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "author": "QwenLM",
+        "summary": "An open-source AI coding agent that lives in your terminal.",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
+        "language": "TypeScript",
+        "score": 151,
+        "comment_count": 3399,
+        "total_stars": 29853,
+        "built_by": [
+          "wenshao",
+          "qwencoder",
+          "yiliang114",
+          "tanzhenxin",
+          "qwen-code-dev-bot"
+        ],
+        "content_context": "An open-source AI coding agent that lives in your terminal.\n\nLanguage: TypeScript\n\nStars today: 151\n\nTotal stars: 29853\n\nBuilt by: wenshao, qwencoder, yiliang114, tanzhenxin, qwen-code-dev-bot",
+        "trend_score": 79.53,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.81,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -303,24 +238,88 @@
         "title": "GoogleChrome/modern-web-guidance-src",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
         "author": "GoogleChrome",
-        "summary": null,
-        "published_at": "2026-11-12T02:40:57.398779+00:00",
+        "summary": "Keep your coding agent up to date with the latest web best practices",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
         "language": "TypeScript",
-        "score": 159,
-        "comment_count": 145,
-        "total_stars": 1838,
+        "score": 739,
+        "comment_count": 204,
+        "total_stars": 3148,
         "built_by": [
           "paulirish",
           "rviscomi",
           "micahjo7",
           "github-actions",
-          "philipwalton"
+          "LeaVerou"
         ],
-        "content_context": "Language: TypeScript\n\nStars today: 159\n\nTotal stars: 1838\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, philipwalton",
-        "trend_score": 72.78,
+        "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 739\n\nTotal stars: 3148\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
+        "trend_score": 77.75,
         "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.63,
+          "freshness": 0.998,
+          "engagement": 0.763,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "pookjw/HermesEnabler",
+        "url": "https://github.com/pookjw/HermesEnabler",
+        "author": "pookjw",
+        "summary": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
+        "language": "Objective-C",
+        "score": 218,
+        "comment_count": 141,
+        "total_stars": 1561,
+        "built_by": [
+          "pookjw",
+          "metalnodeug",
+          "SamZong233",
+          "claude",
+          "dfrias"
+        ],
+        "content_context": "Enable Hermès Watch Faces on any Apple Watch devices\n\nLanguage: Objective-C\n\nStars today: 218\n\nTotal stars: 1561\n\nBuilt by: pookjw, metalnodeug, SamZong233, claude, dfrias",
+        "trend_score": 73.72,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.657,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ashhart/TensorFold",
+        "url": "https://github.com/ashhart/TensorFold",
+        "author": "ashhart",
+        "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "published_at": "2026-11-13T02:22:26.194783+00:00",
+        "language": "Zig",
+        "score": 54,
+        "comment_count": 393,
+        "total_stars": 1959,
+        "built_by": [
+          "ashhart",
+          "jschmied",
+          "BobClawblaw",
+          "laudney",
+          "BlivionIaG"
+        ],
+        "content_context": "LLM Inference Engine for Metal, CUDA and Vulkan.\n\nLanguage: Zig\n\nStars today: 54\n\nTotal stars: 1959\n\nBuilt by: ashhart, jschmied, BobClawblaw, laudney, BlivionIaG",
+        "trend_score": 72.21,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.617,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -335,26 +334,26 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Lessons from 59 Linux Kernel Bug Reports",
-        "url": "https://forge-blog.github.io/posts/linux-kernel-3-month-lookback/",
-        "author": "tsgates",
-        "score": 1,
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "author": "lavendermon",
+        "score": 3,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:27:02+00:00",
-        "summary": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.",
+        "published_at": "2026-11-13T02:16:24+00:00",
+        "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://forge-blog.github.io/posts/linux-kernel-3-month-lookback/",
-          "page_title": "Lessons from 59 Linux Kernel Bug Reports",
-          "page_description": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.",
-          "page_excerpt": "At Microsoft’s FORGE Lab, we used codename MDASH to scan a subset of Linux kernel subsystems from late May to mid-June 2026. One full-time researcher and one intern led this three-month effort, which has so far produced 59 public upstream reports and 33 assigned CVEs . We confirmed working root privilege-escalation exploits for eight of those CVEs, and fixes for 38 of our reports have been merg...\n\nFinding the bugs was only part of the work. The initial scans produced 26,502 raw findings in about two weeks, but turning those results into reproducible bugs, upstream reports, and patches took months of expert investigation and collaboration with Linux maintainers.\n\nIn this post, we look back at how we went from thousands of potential findings to validated vulnerabilities and upstream fixes, and what we learned about scaling vulnerability discovery with AI."
+          "resolved_url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+          "page_title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+          "page_description": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+          "page_excerpt": "Some Nvidia employees are calling for Jensen Huang’s return even after his multiple reported extramarital affairs and abrupt resignation , according to internal correspondence reviewed by WIRED.\n\nAn internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior to taking any action. The submission has attracted more than 1,600 comments since then, with several asking board members to find a way to bring back Huang.\n\n“If you believe in the mission, bring back THE boss,” wrote one anonymous commenter."
         },
-        "content_context": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.\n\nAt Microsoft’s FORGE Lab, we used codename MDASH to scan a subset of Linux kernel subsystems from late May to mid-June 2026. One full-time researcher and one intern led this three-month effort, which has so far produced 59 public upstream reports and 33 assigned CVEs . We confirmed working root privilege-escalation exploits for eight of those CVEs, and fixes for 38 of our reports have been merg... Finding the bugs was only part of the work. The initial scans produced 26,502 raw findings in about two weeks, but turning those results into reproducible bugs, upstream reports, and patches took months of expert investigation and collaboration with Linux maintainers. In this post, we look back at how we went from thousands of potential findings to validated vulnerabilities and upstream fixes, and what we learned about scaling vulnerability discovery with AI.",
-        "trend_score": 49.12,
+        "content_context": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.\n\nSome Nvidia employees are calling for Jensen Huang’s return even after his multiple reported extramarital affairs and abrupt resignation , according to internal correspondence reviewed by WIRED. An internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior to taking any action. The submission has attracted more than 1,600 comments since then, with several asking board members to find a way to bring back Huang. “If you believe in the mission, bring back THE boss,” wrote one anonymous commenter.",
+        "trend_score": 63.25,
         "trend_breakdown": {
-          "freshness": 0.99,
-          "engagement": 0.048,
-          "topic_overlap": 0.0,
+          "freshness": 0.994,
+          "engagement": 0.097,
+          "topic_overlap": 0.571,
           "source_weight": 0.9,
           "domain_weight": 1.18
         },
@@ -365,26 +364,26 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Memory safety bugs in Rust std/core",
-        "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-        "author": "tsgates",
+        "title": "Agent harness for learning difficult things",
+        "url": "https://github.com/amosblomqvist/learnharness",
+        "author": "flashblaze",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:26:07+00:00",
-        "summary": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.",
+        "published_at": "2026-11-13T02:15:27+00:00",
+        "summary": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-          "page_title": "Memory Safety Bugs in Rust Standard Library",
-          "page_description": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.",
-          "page_excerpt": "Microsoft’s FORGE Lab found several memory safety issues in Rust’s standard library ( std and core ), including cases where code written entirely in safe Rust can trigger undefined behavior. The research used Hyenas, FORGE’s frontier research version of codename MDASH, an AI-powered vulnerability-scanning system. The findings reveal three recurring patterns of misplaced trust in unsafe code: tr...\n\nRust’s safety guarantees are precisely what make these findings interesting. Its rich type system and ownership model rule out whole classes of memory-safety issues, but much of the standard library relies on unsafe code underneath its safe APIs. When that code breaks its safety contract, even safe Rust can encounter behavior the language is designed to prevent.\n\nRust’s memory-safety guarantees are increasingly important as the language becomes part of software that billions of people rely on every day. Billions of people are estimated to interact with Rust-based software or operating sys..."
+          "resolved_url": "https://github.com/amosblomqvist/learnharness",
+          "page_title": "GitHub - amosblomqvist/learnharness: Agent harness for learning difficult things.",
+          "page_description": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.",
+          "page_excerpt": "LearnHarness uses AI agents to plan and teach lessons from your current understanding to your goal. It builds a detailed picture of what you understand and how you reason. That picture is updated as you learn.\n\nInstead of just giving you an explanation, it uses your answers and thinking to decide what you need next. Teaching builds understanding one reasoning step at a time. Practice makes it usable. A persistent knowledge graph carries it across sessions.\n\nThink out loud. The thinking fields let you explain your reasoning, uncertainties, and reactions in your own words. This is how the agent gets a detailed picture rather than just a record of right and wrong answers. You can type or use dictation."
         },
-        "content_context": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.\n\nMicrosoft’s FORGE Lab found several memory safety issues in Rust’s standard library ( std and core ), including cases where code written entirely in safe Rust can trigger undefined behavior. The research used Hyenas, FORGE’s frontier research version of codename MDASH, an AI-powered vulnerability-scanning system. The findings reveal three recurring patterns of misplaced trust in unsafe code: tr... Rust’s safety guarantees are precisely what make these findings interesting. Its rich type system and ownership model rule out whole classes of memory-safety issues, but much of the standard library relies on unsafe code underneath its safe APIs. When that code breaks its safety contract, even safe Rust can encounter behavior the language is designed to prevent. Rust’s memory-safety guarantees are increasingly important as the language becomes part of software that billions of people rely on every day. Billions of people are estimated to interact with Rust-based software or operating sys...",
-        "trend_score": 49.08,
+        "content_context": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.\n\nLearnHarness uses AI agents to plan and teach lessons from your current understanding to your goal. It builds a detailed picture of what you understand and how you reason. That picture is updated as you learn. Instead of just giving you an explanation, it uses your answers and thinking to decide what you need next. Teaching builds understanding one reasoning step at a time. Practice makes it usable. A persistent knowledge graph carries it across sessions. Think out loud. The thinking fields let you explain your reasoning, uncertainties, and reactions in your own words. This is how the agent gets a detailed picture rather than just a record of right and wrong answers. You can type or use dictation.",
+        "trend_score": 53.52,
         "trend_breakdown": {
-          "freshness": 0.99,
-          "engagement": 0.048,
-          "topic_overlap": 0.0,
+          "freshness": 0.993,
+          "engagement": 0.049,
+          "topic_overlap": 0.2,
           "source_weight": 0.9,
           "domain_weight": 1.18
         },
@@ -395,27 +394,29 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Knotless.dev is now in the app store, manage your repos in your pocket",
-        "url": "https://bsky.app/profile/chadtmiller.com/post/3n22eg32p422w",
-        "author": "toomuchtodo",
-        "score": 2,
-        "comment_count": 1,
-        "published_at": "2026-11-12T02:22:13+00:00",
-        "summary": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657",
+        "title": "NYC Council passes ban on 'surveillance pricing'",
+        "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+        "author": "jonbaer",
+        "score": 7,
+        "comment_count": 4,
+        "published_at": "2026-11-13T02:04:39+00:00",
+        "summary": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.",
         "comment_highlights": [
-          "knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server<p><a href=\"https://apps.apple.com/us/app/knotless-git/id6831466657\">https://apps.apple.com/us/app/knotless-git/id6831466657</a><p><a href=\"https://knotless.dev/\" rel=\"nofollow\">https://knotl..."
+          "So will this impact Uber that does some extremely shady stuff around your profile / phone type / battery life / account history / micro location / etc to tease out level of desperation & price elasticity.",
+          "NY state did it in June <a href=\"https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive\" rel=\"nofollow\">https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveill...</a> (<a href=\"https://news.ycombinator.com/item?id=48443192\">https://news.ycombi...",
+          "<a href=\"https://www.ailawsbystate.com/tools/surveillance-pricing-tracker\" rel=\"nofollow\">https://www.ailawsbystate.com/tools/surveillance-pricing-tra...</a>"
         ],
         "linked_context": {
-          "resolved_url": "https://bsky.app/profile/chadtmiller.com/post/3n22eg32p422w",
-          "page_title": "Chad (@chadtmiller.com)",
-          "page_description": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657",
-          "page_excerpt": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657"
+          "resolved_url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+          "page_title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data",
+          "page_description": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.",
+          "page_excerpt": "Make your contribution now and help Gothamist thrive in 2026. Donate today\n\nThe City Council passed a bill Thursday that bans companies in New York City from using surveillance pricing, which charges different prices based on algorithms or shoppers’ personal data.\n\nSurveillance pricing means shoppers see a price based on their personal data like demographics, credit, browsing history or purchasing history. The bill prohibits surveillance pricing both online and in stores, although the practice is mainly used on the web."
         },
-        "content_context": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657\n\nHN comment: knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server<p><a href=\"https://apps.apple.com/us/app/knotless-git/id6831466657\">https://apps.apple.com/us/app/knotless-git/id6831466657</a><p><a href=\"https://knotless.dev/\" rel=\"nofollow\">https://knotl...",
-        "trend_score": 43.59,
+        "content_context": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.\n\nMake your contribution now and help Gothamist thrive in 2026. Donate today The City Council passed a bill Thursday that bans companies in New York City from using surveillance pricing, which charges different prices based on algorithms or shoppers’ personal data. Surveillance pricing means shoppers see a price based on their personal data like demographics, credit, browsing history or purchasing history. The bill prohibits surveillance pricing both online and in stores, although the practice is mainly used on the web.\n\nHN comment: So will this impact Uber that does some extremely shady stuff around your profile / phone type / battery life / account history / micro location / etc to tease out level of desperation & price elasticity.\n\nHN comment: NY state did it in June <a href=\"https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive\" rel=\"nofollow\">https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveill...</a> (<a href=\"https://news.ycombinator.com/item?id=48443192\">https://news.ycombi...\n\nHN comment: <a href=\"https://www.ailawsbystate.com/tools/surveillance-pricing-tracker\" rel=\"nofollow\">https://www.ailawsbystate.com/tools/surveillance-pricing-tra...</a>",
+        "trend_score": 47.37,
         "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.115,
+          "freshness": 0.986,
+          "engagement": 0.237,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -425,25 +426,50 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Can't Be Pumped. Can't Be Dumped. Can't Predict It. Can't Manipulate It",
-        "url": "https://tokenmobiles.live",
-        "author": "elykcim",
+        "title": "Microsoft's Outlook.com Is Down",
+        "url": "https://outlook.com/",
+        "author": "williamtrask",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:37:28+00:00",
+        "published_at": "2026-11-13T02:21:00+00:00",
         "summary": null,
         "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.41,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.049,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "'Transition regret' is rare, according to study",
+        "url": "https://www.them.us/answers-and-advice/health/transition-regret-extremely-rare",
+        "author": "latexr",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-13T02:15:01+00:00",
+        "summary": "Researchers evaluated self-reported surveys submitted by the cohort between 2023 and 2025, concluding that “overall decisional regret was very low.”",
+        "comment_highlights": [
+          "2.7%, regret rate for having children (5-17%) and knee surgery (~15%) are higher for comparison."
+        ],
         "linked_context": {
-          "resolved_url": "https://tokenmobiles.live/",
-          "page_title": "Tokenmobiles",
-          "page_description": null,
+          "resolved_url": "https://www.them.us/answers-and-advice/health/transition-regret-extremely-rare",
+          "page_title": "“Transition Regret” Is Extremely Rare, According to Study",
+          "page_description": "Researchers evaluated self-reported surveys submitted by the cohort between 2023 and 2025, concluding that “overall decisional regret was very low.”",
           "page_excerpt": null
         },
-        "content_context": null,
-        "trend_score": 41.92,
+        "content_context": "Researchers evaluated self-reported surveys submitted by the cohort between 2023 and 2025, concluding that “overall decisional regret was very low.”\n\nHN comment: 2.7%, regret rate for having children (5-17%) and knee surgery (~15%) are higher for comparison.",
+        "trend_score": 42.97,
         "trend_breakdown": {
-          "freshness": 0.998,
-          "engagement": 0.048,
+          "freshness": 0.993,
+          "engagement": 0.088,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -453,25 +479,83 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Lean Grimoire",
-        "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-        "author": "smilelamp",
+        "title": "Strategies Against Algorithms",
+        "url": "https://strategies.schallundstille.de/en/welcome/",
+        "author": "negura",
         "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-13T02:10:59+00:00",
+        "summary": "This campaign has now come to an end. Entries submitted by post that were sent before the deadline and are still in transit will of course still be considered.\n\nA huge thank you to everyone who took part. I never expected such a response, and (as you all know, because I have written to each of you personally) your participation means a great deal to me – more than you can imagine!\n\nI hope you continue to enjoy “Strategies Against Algorithms”; I salute your creativity, and I hope that you will preserve and nurture it.",
+        "comment_highlights": [
+          "I recently submittied a question about this [0], which only got a little bit of engagement. It's still a topic I'm interested in.<p>[0] <a href=\"https://news.ycombinator.com/item?id=50411036\">https://news.ycombinator.com/item?id=50411036</a>"
+        ],
+        "linked_context": {
+          "resolved_url": "https://strategies.schallundstille.de/en/welcome/",
+          "page_title": "Strategies Against Algorithms – Schall und Stille",
+          "page_description": null,
+          "page_excerpt": "This campaign has now come to an end. Entries submitted by post that were sent before the deadline and are still in transit will of course still be considered.\n\nA huge thank you to everyone who took part. I never expected such a response, and (as you all know, because I have written to each of you personally) your participation means a great deal to me – more than you can imagine!\n\nI hope you continue to enjoy “Strategies Against Algorithms”; I salute your creativity, and I hope that you will preserve and nurture it."
+        },
+        "content_context": "This campaign has now come to an end. Entries submitted by post that were sent before the deadline and are still in transit will of course still be considered. A huge thank you to everyone who took part. I never expected such a response, and (as you all know, because I have written to each of you personally) your participation means a great deal to me – more than you can imagine! I hope you continue to enjoy “Strategies Against Algorithms”; I salute your creativity, and I hope that you will preserve and nurture it.\n\nHN comment: I recently submittied a question about this [0], which only got a little bit of engagement. It's still a topic I'm interested in.<p>[0] <a href=\"https://news.ycombinator.com/item?id=50411036\">https://news.ycombinator.com/item?id=50411036</a>",
+        "trend_score": 42.85,
+        "trend_breakdown": {
+          "freshness": 0.99,
+          "engagement": 0.088,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "I Love AI",
+        "url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
+        "author": "lbrito",
+        "score": 2,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:36:48+00:00",
-        "summary": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …",
+        "published_at": "2026-11-13T02:01:59+00:00",
+        "summary": "Why I Love AI",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-          "page_title": "Lean Grimoire",
-          "page_description": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …",
-          "page_excerpt": "Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\n\n11 November, 2026 in diversions , math.LO | Tags: applets , Lean | by Terence Tao\n\nBack in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018 , en..."
+          "resolved_url": "https://www.possibilityspace.org/blog/posts/i-love-ai/",
+          "page_title": "Possibility Space",
+          "page_description": "Why I Love AI",
+          "page_excerpt": "Tomorrow I'm going to get on a plane to Canada for a few days, and when I get back it'll be the start of teaching for another year. But next week is also a very weird milestone, I realised the other day: it will be twenty years I left home to go to university to study computer science. Twenty years! Boy that's a long time. I thought that made it the perfect time to write something I've been thi...\n\nWhen I went to study in London twenty years ago I signed up for a specialised degree within computer science: Computing with Artificial Intelligence. This didn't actually mean much, as it turned out, and I don't even put it on my CV now, but I knew I wanted to study AI right from the beginning. AI was not a very appealing field to most people because, prior to the late 2010s, the general consen...\n\nSo of course AI as a field didn't just produce failures, but its successes tended to be subsumed into other areas of technology really quickly, which only really leaves the failures (or things..."
         },
-        "content_context": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …\n\nUpdates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao 11 November, 2026 in diversions , math.LO | Tags: applets , Lean | by Terence Tao Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018 , en...",
+        "content_context": "Why I Love AI\n\nTomorrow I'm going to get on a plane to Canada for a few days, and when I get back it'll be the start of teaching for another year. But next week is also a very weird milestone, I realised the other day: it will be twenty years I left home to go to university to study computer science. Twenty years! Boy that's a long time. I thought that made it the perfect time to write something I've been thi... When I went to study in London twenty years ago I signed up for a specialised degree within computer science: Computing with Artificial Intelligence. This didn't actually mean much, as it turned out, and I don't even put it on my CV now, but I knew I wanted to study AI right from the beginning. AI was not a very appealing field to most people because, prior to the late 2010s, the general consen... So of course AI as a field didn't just produce failures, but its successes tended to be subsumed into other areas of technology really quickly, which only really leaves the failures (or things...",
+        "trend_score": 42.27,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.077,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Jules Turndown",
+        "url": "https://jules.google/docs/changelog/2026-10-29/",
+        "author": "tvvocold",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-13T02:20:37+00:00",
+        "summary": "Weâre writing to let you know that as part of our work to unify our agentic coding efforts, Jules will wind down on December 31, 2026. You have until November 11, 2026 to continue finishing up sessions. After November 11, 2026, we will be turning Jules to read-only until the end of the year.\n\nWhen we launched Jules, it was an experiment to learn how asynchronous coding agents could help you tackle your backlog and ship faster. What you built with it taught us where agentic development is headed, and those learnings are shaping products across Google, including our agent-first platform, Google Antigravity.\n\nYou can now export everything Jules knows about your work into a local folder: account settings, environment variables, scheduled tasks, connected repositories, memories, setup scripts, and every session, including its prompt, plan, full activity log, and code patches.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://jules.google/docs/changelog/2026-10-29/",
+          "page_title": "Jules Turndown",
+          "page_description": null,
+          "page_excerpt": "Weâre writing to let you know that as part of our work to unify our agentic coding efforts, Jules will wind down on December 31, 2026. You have until November 11, 2026 to continue finishing up sessions. After November 11, 2026, we will be turning Jules to read-only until the end of the year.\n\nWhen we launched Jules, it was an experiment to learn how asynchronous coding agents could help you tackle your backlog and ship faster. What you built with it taught us where agentic development is headed, and those learnings are shaping products across Google, including our agent-first platform, Google Antigravity.\n\nYou can now export everything Jules knows about your work into a local folder: account settings, environment variables, scheduled tasks, connected repositories, memories, setup scripts, and every session, including its prompt, plan, full activity log, and code patches."
+        },
+        "content_context": "Weâre writing to let you know that as part of our work to unify our agentic coding efforts, Jules will wind down on December 31, 2026. You have until November 11, 2026 to continue finishing up sessions. After November 11, 2026, we will be turning Jules to read-only until the end of the year. When we launched Jules, it was an experiment to learn how asynchronous coding agents could help you tackle your backlog and ship faster. What you built with it taught us where agentic development is headed, and those learnings are shaping products across Google, including our agent-first platform, Google Antigravity. You can now export everything Jules knows about your work into a local folder: account settings, environment variables, scheduled tasks, connected repositories, memories, setup scripts, and every session, including its prompt, plan, full activity log, and code patches.",
         "trend_score": 41.9,
         "trend_breakdown": {
           "freshness": 0.997,
-          "engagement": 0.048,
+          "engagement": 0.049,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -481,25 +565,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Social Proof",
-        "url": "https://en.wikipedia.org/wiki/Social_proof",
-        "author": "o4c",
+        "title": "One Condition Away: Apache's HTTP/2 RCE on the Day It Dropped",
+        "url": "https://blog.fortirix.com/blog/apache-http2-rce/",
+        "author": "SecurityNinjaGu",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:32:01+00:00",
-        "summary": "Social proof (or informational social influence ) is a psychological and social phenomenon wherein people copy the actions of others in choosing how to behave in a given situation. The term was coined by Robert Cialdini in his 1984 book Influence: Science and Practice . [ citation needed ]\n\nSocial proof is used in ambiguous social situations where people are unable to determine the appropriate mode of behavior , and is driven by the assumption that the surrounding people possess more knowledge about the current situation.\n\nThe effects of social influence can be seen in the tendency of large groups to conform. This is referred to in some publications as the herd behavior . Although social proof reflects a rational motive to take into account the information possessed by others, formal analysis shows that it can cause people to converge too quickly upon a single distinct choice, so that decisions of even larger gro...",
+        "published_at": "2026-11-13T02:15:48+00:00",
+        "summary": "Apache disclosed an unauthenticated RCE in mod_http2 the same day it shipped the fix. Across the organizations we monitor, about four in five of the Apache servers that reveal a version are in the affected range — but exploitation needs HTTP/2 enabled, and that one condition is the whole story. Here's what an external monitor can and can't tell you.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://en.wikipedia.org/wiki/Social_proof",
-          "page_title": "Social proof - Wikipedia",
-          "page_description": null,
-          "page_excerpt": "Social proof (or informational social influence ) is a psychological and social phenomenon wherein people copy the actions of others in choosing how to behave in a given situation. The term was coined by Robert Cialdini in his 1984 book Influence: Science and Practice . [ citation needed ]\n\nSocial proof is used in ambiguous social situations where people are unable to determine the appropriate mode of behavior , and is driven by the assumption that the surrounding people possess more knowledge about the current situation.\n\nThe effects of social influence can be seen in the tendency of large groups to conform. This is referred to in some publications as the herd behavior . Although social proof reflects a rational motive to take into account the information possessed by others, formal analysis shows that it can cause people to converge too quickly upon a single distinct choice, so that decisions of even larger gro..."
+          "resolved_url": "https://blog.fortirix.com/blog/apache-http2-rce/",
+          "page_title": "One Condition Away: Apache's HTTP/2 RCE on the Day It Dropped",
+          "page_description": "Apache disclosed an unauthenticated RCE in mod_http2 the same day it shipped the fix. Across the organizations we monitor, about four in five of the Apache servers that reveal a version are in the affected range — but exploitation needs HTTP/2 enabled, and that one condition is the whole story. Here's what an external monitor can and can't tell you.",
+          "page_excerpt": "All figures are aggregate and anonymized, drawn from Fortirix’s own external monitoring data. Figures were compiled on November 12, 2026, the day after disclosure — before any meaningful patch cycle. See Methodology.\n\nOn November 11, 2026 , the Apache Software Foundation disclosed CVE-2026-119618 and, in the same breath, shipped the fix. The flaw is an unauthenticated remote-code-execution bug in mod_http2 — the module that gives Apache HTTP Server its HTTP/2 support — affecting Apache httpd 2.4.55 through 2.4.70 with HTTP/2 enabled , fixed in 2.4.71 . It was found not by a human fuzzing campaign but by Anth...\n\nTwo weeks ago we published a breakdown of the PHP2Shell exposure. This is the companion piece — and in one important way, the mirror image."
         },
-        "content_context": "Social proof (or informational social influence ) is a psychological and social phenomenon wherein people copy the actions of others in choosing how to behave in a given situation. The term was coined by Robert Cialdini in his 1984 book Influence: Science and Practice . [ citation needed ] Social proof is used in ambiguous social situations where people are unable to determine the appropriate mode of behavior , and is driven by the assumption that the surrounding people possess more knowledge about the current situation. The effects of social influence can be seen in the tendency of large groups to conform. This is referred to in some publications as the herd behavior . Although social proof reflects a rational motive to take into account the information possessed by others, formal analysis shows that it can cause people to converge too quickly upon a single distinct choice, so that decisions of even larger gro...",
+        "content_context": "Apache disclosed an unauthenticated RCE in mod_http2 the same day it shipped the fix. Across the organizations we monitor, about four in five of the Apache servers that reveal a version are in the affected range — but exploitation needs HTTP/2 enabled, and that one condition is the whole story. Here's what an external monitor can and can't tell you.\n\nAll figures are aggregate and anonymized, drawn from Fortirix’s own external monitoring data. Figures were compiled on November 12, 2026, the day after disclosure — before any meaningful patch cycle. See Methodology. On November 11, 2026 , the Apache Software Foundation disclosed CVE-2026-119618 and, in the same breath, shipped the fix. The flaw is an unauthenticated remote-code-execution bug in mod_http2 — the module that gives Apache HTTP Server its HTTP/2 support — affecting Apache httpd 2.4.55 through 2.4.70 with HTTP/2 enabled , fixed in 2.4.71 . It was found not by a human fuzzing campaign but by Anth... Two weeks ago we published a breakdown of the PHP2Shell exposure. This is the companion piece — and in one important way, the mirror image.",
         "trend_score": 41.76,
         "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.048,
+          "freshness": 0.993,
+          "engagement": 0.049,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -509,109 +593,27 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Compromised GitHub accounts push CI secret stealer to 61k repositories",
-        "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
-        "author": "acossta",
+        "title": "Put MCP next to your API, not on top of it",
+        "url": "https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top/",
+        "author": "jlouvel",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-12T02:29:31+00:00",
-        "summary": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
-          "page_title": "Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories",
-          "page_description": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate.",
-          "page_excerpt": "Starting on November 10, a threat actor used stolen GitHub credentials to push a malicious workflow payload into tens of thousands of repositories. The payload steals GitHub Actions secrets and cloud credentials. The payload has proliferated into at least one Packagist and one Golang package through automated publishing triggers, but the threat actor appears to be targeting CI secrets rather th...\n\nYou may be affected if any of these appeared in a repository you can write to on or after November 10:\n\nGitHub search returns 61,839 docs: dependency audit notes pull requests, opened between November 10, 12:45 UTC, and November 11, 15:00 UTC. That pull request is only a probe, and is followed by commits that carry the real payload."
-        },
-        "content_context": "A wave of compromised accounts are pushing a CI secret stealer. See if you’re affected, what it steals, and what to rotate.\n\nStarting on November 10, a threat actor used stolen GitHub credentials to push a malicious workflow payload into tens of thousands of repositories. The payload steals GitHub Actions secrets and cloud credentials. The payload has proliferated into at least one Packagist and one Golang package through automated publishing triggers, but the threat actor appears to be targeting CI secrets rather th... You may be affected if any of these appeared in a repository you can write to on or after November 10: GitHub search returns 61,839 docs: dependency audit notes pull requests, opened between November 10, 12:45 UTC, and November 11, 15:00 UTC. That pull request is only a probe, and is followed by commits that carry the real payload.",
-        "trend_score": 41.69,
-        "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.048,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Love and Capitalism (1987) [pdf]",
-        "url": "https://www.alanmacfarlane.com/TEXTS/LOVE_long.pdf",
-        "author": "pash",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-12T02:21:52+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.alanmacfarlane.com/TEXTS/LOVE_long.pdf",
-          "content_type": "application/pdf"
-        },
-        "content_context": null,
-        "trend_score": 41.48,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.048,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Mothers' poor sleep in late pregnancy linked to higher obesity risk in children",
-        "url": "https://www.eurekalert.org/news-releases/1143803",
-        "author": "gmays",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-12T02:21:41+00:00",
-        "summary": "New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first 6 months of life, but higher weight after age 1-2 years. This effect was strongest in male infants and in babies born at term. The findings from the study in the American Journal of Preventive Medicine, published by Elsevier, suggest that incorporating sleep quality assessments into routine prenatal care could facilitate early identification of at-risk pregnancies, and addre...",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.eurekalert.org/news-releases/1143803",
-          "page_title": "Mothers’ poor sleep quality in late pregnancy linked to higher obesity risk in their children",
-          "page_description": "New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first 6 months of life, but higher weight after age 1-2 years. This effect was strongest in male infants and in babies born at term. The findings from the study in the American Journal of Preventive Medicine, published by Elsevier, suggest that incorporating sleep quality assessments into routine prenatal care could facilitate early identification of at-risk pregnancies, and addre...",
-          "page_excerpt": "Research in the American Journal of Preventive Medicine suggests monitoring and addressing sleep quality in prenatal care could be a powerful step toward improved mother and child health\n\nSeptember 22 , 2026 - New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first 6 months of life, but higher weight after age 1-2 years. This effect was strongest in male infants and in babies born at term. The findings from the study in the American Journal of Preventive Medicine , published by Elsevier, suggest that incorporating s...\n\nSelf-Reported Sleep Quality in Late Pregnancy Is Associated With Early-Childhood Growth Trajectories in Children Aged 0−2 Years in Hispanic Populations"
-        },
-        "content_context": "New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first 6 months of life, but higher weight after age 1-2 years. This effect was strongest in male infants and in babies born at term. The findings from the study in the American Journal of Preventive Medicine, published by Elsevier, suggest that incorporating sleep quality assessments into routine prenatal care could facilitate early identification of at-risk pregnancies, and addre...\n\nResearch in the American Journal of Preventive Medicine suggests monitoring and addressing sleep quality in prenatal care could be a powerful step toward improved mother and child health September 22 , 2026 - New research has found that mothers with poor sleep quality in late pregnancy had babies with lower weight in the first 6 months of life, but higher weight after age 1-2 years. This effect was strongest in male infants and in babies born at term. The findings from the study in the American Journal of Preventive Medicine , published by Elsevier, suggest that incorporating s... Self-Reported Sleep Quality in Late Pregnancy Is Associated With Early-Childhood Growth Trajectories in Children Aged 0−2 Years in Hispanic Populations",
-        "trend_score": 41.47,
-        "trend_breakdown": {
-          "freshness": 0.987,
-          "engagement": 0.048,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Enforcement over Alignment and Steering",
-        "url": "https://blog.imjackofitall.com/posts/2026-11-12/",
-        "author": "imjackofitall",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-12T02:20:46+00:00",
-        "summary": "I'm building an open-source Claude Code plugin called The Enforcer. Not because I fancy writing more rules, but because asking a coding agent nicely to behave is clearly not enough. If something must happen, I don't want to cross my fingers and hope...",
+        "published_at": "2026-11-13T02:13:42+00:00",
+        "summary": "Embrace your API legacy, integrate your AI future. Naftiko turns API sprawl into a governed capability fleet that teams can depend on.",
         "comment_highlights": [
-          "[dead]"
+          "[flagged]"
         ],
         "linked_context": {
-          "resolved_url": "https://blog.imjackofitall.com/posts/2026-11-12/",
-          "page_title": "Enforcement over alignment and steering",
-          "page_description": "I'm building an open-source Claude Code plugin called The Enforcer. Not because I fancy writing more rules, but because asking a coding agent nicely to behave is clearly not enough. If something must happen, I don't want to cross my fingers and hope...",
-          "page_excerpt": "I'm building an open-source Claude Code plugin called The Enforcer . Not because I fancy writing more rules, but because asking a coding agent nicely to behave is clearly not enough.\n\nIf something must happen, I don't want to cross my fingers and hope the model remembers. I want the system to make the wrong thing hard to do.\n\nThe usual fix when a coding agent goes off the rails is more prompting. Add a rule. Explain the mistake. Write another skill. Tell it not to do that again. Rinse and repeat. At some point you have to wonder why we're still doing this."
+          "resolved_url": "https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top/",
+          "page_title": "Put MCP Next to Your API, Not on Top of It | Naftiko",
+          "page_description": "Embrace your API legacy, integrate your AI future. Naftiko turns API sprawl into a governed capability fleet that teams can depend on.",
+          "page_excerpt": "Most teams add MCP the same way: take the API server they already run, put an MCP server in front of it, and map each tool to an endpoint. It ships fast. It also leaves you with two layers to run, two contracts to keep aligned, and an extra network hop on every agent call.\n\nThere’s a deeper problem. An MCP server stacked on an API server can only do what that API server can do. And agents are starting to need things REST or GraphQL were never designed for.\n\nIn the stacked setup, every tool call goes agent → MCP server → API server → upstream systems. The MCP server re-serializes what the API server just serialized, handles its own authentication, and needs its own deployment, logs and on-call."
         },
-        "content_context": "I'm building an open-source Claude Code plugin called The Enforcer. Not because I fancy writing more rules, but because asking a coding agent nicely to behave is clearly not enough. If something must happen, I don't want to cross my fingers and hope...\n\nI'm building an open-source Claude Code plugin called The Enforcer . Not because I fancy writing more rules, but because asking a coding agent nicely to behave is clearly not enough. If something must happen, I don't want to cross my fingers and hope the model remembers. I want the system to make the wrong thing hard to do. The usual fix when a coding agent goes off the rails is more prompting. Add a rule. Explain the mistake. Write another skill. Tell it not to do that again. Rinse and repeat. At some point you have to wonder why we're still doing this.\n\nHN comment: [dead]",
-        "trend_score": 41.45,
+        "content_context": "Embrace your API legacy, integrate your AI future. Naftiko turns API sprawl into a governed capability fleet that teams can depend on.\n\nMost teams add MCP the same way: take the API server they already run, put an MCP server in front of it, and map each tool to an endpoint. It ships fast. It also leaves you with two layers to run, two contracts to keep aligned, and an extra network hop on every agent call. There’s a deeper problem. An MCP server stacked on an API server can only do what that API server can do. And agents are starting to need things REST or GraphQL were never designed for. In the stacked setup, every tool call goes agent → MCP server → API server → upstream systems. The MCP server re-serializes what the API server just serialized, handles its own authentication, and needs its own deployment, logs and on-call.\n\nHN comment: [flagged]",
+        "trend_score": 41.7,
         "trend_breakdown": {
-          "freshness": 0.986,
-          "engagement": 0.048,
+          "freshness": 0.992,
+          "engagement": 0.049,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -621,95 +623,75 @@
     ],
     "news": [
       {
-        "source": "CNN",
+        "source": "Politico",
         "category": "news",
-        "title": "Dangerous search for survivors continues after deadly building collapse in Brooklyn - CNN",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZkdYZk4zZ1NacXpLb25ncXd1WXJTX3c5aFlhM2lGYzRoSjFiZTlVeTItS0ZPSUwwOTJkdk1XaUxCYU5QbGpVTXN1YUpVUjIwT1FJNWhMdEJIUV8xTERyYmFzTFZLVDVBaUZRc2sydHpxWVNobG9qS2tGcGhxWHc?oc=5",
-        "published_at": "2026-11-12T01:59:00+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Dangerous search for survivors continues after deadly building collapse in Brooklyn；Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY；Brooklyn building collapse in Flatbush live updates: 2 dead, 17 hurt as search goes on。",
+        "title": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVVlT3dQNFpTWkczTy1LZlpDYjM4QUF5ZGxYcktzTTJPcEdiVFgwdEptekJFYW11YUJjd2UwWHhOX09paTVsbnk3NFNNZEdQYjhlNDZ3eWJZSVRncnp4R1NQTVBzRmdkWW1MdGRlbHNYeUpHaXpyaWFqNnNnSE1BTXc4MnAzOWR6WHdaXzFFQ2Z1dWFQOHFKM25XQVByWVV1cUFkTFpBV1FsdTdIMXFLZUFIdF9YaTRFam1fWHhLZ0lFbEhfaFFjcjk3V252UnpOTm1EeG12aw?oc=5",
+        "published_at": "2026-11-13T00:00:58+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga；Huang and Lutnick Summoned to Testify Before Congress；US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify。",
         "related_headlines": [
-          "Dangerous search for survivors continues after deadly building collapse in Brooklyn",
-          "Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY",
-          "Brooklyn building collapse in Flatbush live updates: 2 dead, 17 hurt as search goes on",
-          "People trapped in collapsed Brooklyn building, FDNY says",
-          "New York City collapse: 2 dead, over 19 injured including 7 children; situation 'unstable'"
+          "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga",
+          "Huang and Lutnick Summoned to Testify Before Congress",
+          "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
+          "Jim Banks calls for Lutnick to testify on Nvidia CEO controversy, alleging ‘loophole’ use",
+          "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live"
         ],
-        "content_context": "Dangerous search for survivors continues after deadly building collapse in Brooklyn - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Dangerous search for survivors continues after deadly building collapse in Brooklyn；Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY；Brooklyn building collapse in Flatbush live updates: 2 dead, 17 hurt as search goes on。\n\nRelated coverage: Dangerous search for survivors continues after deadly building collapse in Brooklyn\n\nRelated coverage: Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY\n\nRelated coverage: Brooklyn building collapse in Flatbush live updates: 2 dead, 17 hurt as search goes on\n\nRelated coverage: People trapped in collapsed Brooklyn building, FDNY says\n\nRelated coverage: New York City collapse: 2 dead, over 19 injured including 7 children; situation 'unstable'",
-        "trend_score": 38.15,
+        "content_context": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga；Huang and Lutnick Summoned to Testify Before Congress；US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify。\n\nRelated coverage: Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga\n\nRelated coverage: Huang and Lutnick Summoned to Testify Before Congress\n\nRelated coverage: US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify\n\nRelated coverage: Jim Banks calls for Lutnick to testify on Nvidia CEO controversy, alleging ‘loophole’ use\n\nRelated coverage: Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+        "trend_score": 44.51,
         "trend_breakdown": {
-          "freshness": 0.971,
+          "freshness": 0.9,
           "engagement": 0.0,
-          "topic_overlap": 0.2,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "ABC7 New York",
+        "category": "news",
+        "title": "Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids - ABC7 New York",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
+        "published_at": "2026-11-13T00:52:00+00:00",
+        "summary": "ABC7 New York 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids；Recap: 2 kids among 8 dead in NYC collapse; FDNY concludes search for survivors；Brooklyn building collapse heroic rescues save victims in rubble。",
+        "related_headlines": [
+          "Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids",
+          "Recap: 2 kids among 8 dead in NYC collapse; FDNY concludes search for survivors",
+          "Brooklyn building collapse heroic rescues save victims in rubble",
+          "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+          "A Frantic Search for Survivors in the Brooklyn Building Collapse"
+        ],
+        "content_context": "Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids - ABC7 New York\n\nABC7 New York 头条聚焦该事件，Google News 同时聚合到这些相关表述：Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids；Recap: 2 kids among 8 dead in NYC collapse; FDNY concludes search for survivors；Brooklyn building collapse heroic rescues save victims in rubble。\n\nRelated coverage: Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids\n\nRelated coverage: Recap: 2 kids among 8 dead in NYC collapse; FDNY concludes search for survivors\n\nRelated coverage: Brooklyn building collapse heroic rescues save victims in rubble\n\nRelated coverage: 'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse\n\nRelated coverage: A Frantic Search for Survivors in the Brooklyn Building Collapse",
+        "trend_score": 39.82,
+        "trend_breakdown": {
+          "freshness": 0.935,
+          "engagement": 0.0,
+          "topic_overlap": 0.385,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "NBC News",
         "category": "news",
-        "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1d5VlBwMjdDU2wxVFVIYnE2bG5IMXU0Nm13UWQtbHN3d2c1bGs1Sy1rNkl3blJ3aHM2d3BSV2tyVW16QmJZcXBLb2Q3UFFmeFR2RElpWE96VmI4UE1ZVE80NzZVcEhqcmJqeFdySnFFemJXbWZ5YWlWUHh0WmxvSTl6OFJFZ2d4U2RzSzVNVQ?oc=5",
-        "published_at": "2026-11-12T00:04:19+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier；See more headlines & perspectives on Google News。",
+        "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2xrSFB3cFBDbkQ4M1NtN0JqTVRvRVBSR3d6azhqSlZBWFM0b3ZuVWQxZlgzd09pTTFXa1VEX1g2eTl3LWNxTDgzNlRsS0VUTEFqZ1hPSHI4eXlacEFkRnB0U2hXUk5sRGprR0RraGJaV1ZSeFNjeFFnaDlNdVRpNTdrd09IRjJibW1xVjFmdnlMa0I5dHdBdlVFUDhVb1N5U3g2M0RJbEhJMGhZelgzZ3pucG54Q0h4TVZzQXpxUzI?oc=5",
+        "published_at": "2026-11-13T02:03:00+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader；Van Hollen launches challenge to Schumer for Senate majority leader；The new darling of the Democratic left is … Chris Van Hollen?。",
         "related_headlines": [
-          "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
-          "See more headlines & perspectives on Google News"
+          "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+          "Van Hollen launches challenge to Schumer for Senate majority leader",
+          "The new darling of the Democratic left is … Chris Van Hollen?",
+          "Who is Chris Van Hollen, the senator progressives are pushing instead of Schumer?",
+          "Schumer seeks to quash Democratic rebellion"
         ],
-        "content_context": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier；See more headlines & perspectives on Google News。\n\nRelated coverage: Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "content_context": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader；Van Hollen launches challenge to Schumer for Senate majority leader；The new darling of the Democratic left is … Chris Van Hollen?。\n\nRelated coverage: Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader\n\nRelated coverage: Van Hollen launches challenge to Schumer for Senate majority leader\n\nRelated coverage: The new darling of the Democratic left is … Chris Van Hollen?\n\nRelated coverage: Who is Chris Van Hollen, the senator progressives are pushing instead of Schumer?\n\nRelated coverage: Schumer seeks to quash Democratic rebellion",
         "trend_score": 37.9,
         "trend_breakdown": {
-          "freshness": 0.891,
-          "engagement": 0.0,
-          "topic_overlap": 0.364,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Washington Post",
-        "category": "news",
-        "title": "How Trump maneuvered to the brink of building his 250-foot triumphal arch - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGh2RVBkNTA1WmJtV1hCVXU4RUFMakMxTkhhNDlTSmM4aHJZR0FZUEpVWnM3NjlGWHNtLXE0Y21PWnI3S0xPWl9YY3N1clM3bzlOTDVNZmk3Qm5hLS04LVhNR0hKV0NtNkY4RnEtVWxfelVKaWlzWkpTWXhQb2FTYlRuWHB2bEt3TXZtXzRSTnIwMkswOFdPUk90ODh3NXVibmFkU3RxVmk5YVZVZTFR?oc=5",
-        "published_at": "2026-11-12T01:02:44+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How Trump maneuvered to the brink of building his 250-foot triumphal arch；Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition；Trump says the towering arch he wants to build might be dedicated to military veterans。",
-        "related_headlines": [
-          "How Trump maneuvered to the brink of building his 250-foot triumphal arch",
-          "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
-          "Trump says the towering arch he wants to build might be dedicated to military veterans",
-          "Kennedy Family Joins Effort to Block Construction of Trump’s Arch",
-          "Trump wants to arm his DC arch. Experts see a threat."
-        ],
-        "content_context": "How Trump maneuvered to the brink of building his 250-foot triumphal arch - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：How Trump maneuvered to the brink of building his 250-foot triumphal arch；Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition；Trump says the towering arch he wants to build might be dedicated to military veterans。\n\nRelated coverage: How Trump maneuvered to the brink of building his 250-foot triumphal arch\n\nRelated coverage: Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition\n\nRelated coverage: Trump says the towering arch he wants to build might be dedicated to military veterans\n\nRelated coverage: Kennedy Family Joins Effort to Block Construction of Trump’s Arch\n\nRelated coverage: Trump wants to arm his DC arch. Experts see a threat.",
-        "trend_score": 36.45,
-        "trend_breakdown": {
-          "freshness": 0.932,
-          "engagement": 0.0,
-          "topic_overlap": 0.182,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "CBS News",
-        "category": "news",
-        "title": "Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2RjbDYxLUNjQnM2YWl5eDdRWC1rd0NyMUJKOHl3bWd1SVhkRDdBNEVfSVY5UC14R1N4a0NNR2QzLU9acTBScmh3ai1za2VMUVFJZnZKMmM5eFB6ejZWNFl4ekdNV2o0cHNkdG9rWHQwajdzdjczYk9SS19vRzkyYnBsdlJWcFpwcUE?oc=5",
-        "published_at": "2026-11-12T00:19:03+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset；Scott Colom Wins Mississippi Senate Seat in Historic Victory；Mississippi Senate Race Live Updates: Democrat Scott Colom Wins Election in Historic Midterm Upset。",
-        "related_headlines": [
-          "Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset",
-          "Scott Colom Wins Mississippi Senate Seat in Historic Victory",
-          "Mississippi Senate Race Live Updates: Democrat Scott Colom Wins Election in Historic Midterm Upset",
-          "Scott Colom on Why Democrats Need to Rethink the South",
-          "How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat"
-        ],
-        "content_context": "Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset；Scott Colom Wins Mississippi Senate Seat in Historic Victory；Mississippi Senate Race Live Updates: Democrat Scott Colom Wins Election in Historic Midterm Upset。\n\nRelated coverage: Democrat Scott Colom wins Mississippi 2026 Senate race, flipping seat in upset\n\nRelated coverage: Scott Colom Wins Mississippi Senate Seat in Historic Victory\n\nRelated coverage: Mississippi Senate Race Live Updates: Democrat Scott Colom Wins Election in Historic Midterm Upset\n\nRelated coverage: Scott Colom on Why Democrats Need to Rethink the South\n\nRelated coverage: How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat",
-        "trend_score": 34.91,
-        "trend_breakdown": {
-          "freshness": 0.901,
+          "freshness": 0.984,
           "engagement": 0.0,
           "topic_overlap": 0.154,
           "source_weight": 0.8,
@@ -718,98 +700,23 @@
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "CNN",
         "category": "news",
-        "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRGZZZUFQcEdFNUxaTkwxNlVqeVFrdXNxdDlSYmJtck9xYXJMYUppRnk4OE1tNnpJWWk3akJZUzhiYS1uVnhFajJjRlN6MVlDVTRURDNTWVZ0dVZIWVdhRDF0eHlLN0ZRVjJsSnZTWE55aHc?oc=5",
-        "published_at": "2026-11-11T22:00:56+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In；San Diego congressional delegation demands answers on detained Haitian boy, 8；Officials demanding answers after 8-year-old reportedly taken into federal custody。",
+        "title": "Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting - CNN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRDBQN3NNZV80TkVLTktzU0V2VzdEYVIwNWRqYkhsd1lZYnRCVkxSdzZzREg0cHVPVjNLSmxwclBxRERaR2Vwb1ducldyWDQybzdfZ2M3M1R1dFBBczd2ZFhESjFEd1BaU3IyWmJhSVRDbHdt?oc=5",
+        "published_at": "2026-11-12T23:57:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting；One dead, at least 4 injured during active shooting near Logan Circle；Who was the Logan Circle shooter? Police say suspected gunman died while barricaded。",
         "related_headlines": [
-          "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
-          "San Diego congressional delegation demands answers on detained Haitian boy, 8",
-          "Officials demanding answers after 8-year-old reportedly taken into federal custody",
-          "Democrats demand answers on 8-year-old Haitian boy detained by ICE",
-          "Concerns Mount Over 8-Year-Old Haitian Taken by ICE"
+          "Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting",
+          "One dead, at least 4 injured during active shooting near Logan Circle",
+          "Who was the Logan Circle shooter? Police say suspected gunman died while barricaded",
+          "Suspect in Washington, D.C., gym shooting was doctor in legal feud with condo board",
+          "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building"
         ],
-        "content_context": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In；San Diego congressional delegation demands answers on detained Haitian boy, 8；Officials demanding answers after 8-year-old reportedly taken into federal custody。\n\nRelated coverage: An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In\n\nRelated coverage: San Diego congressional delegation demands answers on detained Haitian boy, 8\n\nRelated coverage: Officials demanding answers after 8-year-old reportedly taken into federal custody\n\nRelated coverage: Democrats demand answers on 8-year-old Haitian boy detained by ICE\n\nRelated coverage: Concerns Mount Over 8-Year-Old Haitian Taken by ICE",
-        "trend_score": 33.8,
+        "content_context": "Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting；One dead, at least 4 injured during active shooting near Logan Circle；Who was the Logan Circle shooter? Police say suspected gunman died while barricaded。\n\nRelated coverage: Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting\n\nRelated coverage: One dead, at least 4 injured during active shooting near Logan Circle\n\nRelated coverage: Who was the Logan Circle shooter? Police say suspected gunman died while barricaded\n\nRelated coverage: Suspect in Washington, D.C., gym shooting was doctor in legal feud with condo board\n\nRelated coverage: One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
+        "trend_score": 36.65,
         "trend_breakdown": {
-          "freshness": 0.805,
-          "engagement": 0.0,
-          "topic_overlap": 0.3,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Politico",
-        "category": "news",
-        "title": "White House threatens criminal investigation into Democrats’ oversight efforts - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNIeFZyS0ItTDhWSVk1bXdLNGVPSWtBVzMtbm1tc19rX0lsYTNNdUtSSk9FRXc1Yy1Rd1VGcjVvUEdXdDc1cGRXdjUtXzFWYmtaeE14TjJmcy12YTRTeHgyYnc5OXBCRnhvOE5wNXpsYVZQQWNrNGtPc2syTVFWckFqOHBiMmdvOFBZc21qNV9kZEFCenhvdDRiZHdHNHlTaEE?oc=5",
-        "published_at": "2026-11-11T21:58:26+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House threatens criminal investigation into Democrats’ oversight efforts；White House Threatens Congress, Saying Aggressive Investigations Could Be Crime；The Trump team’s hypocrisy reaches new levels with warning letter to Democrats。",
-        "related_headlines": [
-          "White House threatens criminal investigation into Democrats’ oversight efforts",
-          "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
-          "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
-          "White House Counsel Tries To Stop Democrats From Investigating Trump—Rep. Garcia Says They ‘Won’t Be Deterred’",
-          "White House counsel pushes back against Democratic oversight in latest sign of panic"
-        ],
-        "content_context": "White House threatens criminal investigation into Democrats’ oversight efforts - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House threatens criminal investigation into Democrats’ oversight efforts；White House Threatens Congress, Saying Aggressive Investigations Could Be Crime；The Trump team’s hypocrisy reaches new levels with warning letter to Democrats。\n\nRelated coverage: White House threatens criminal investigation into Democrats’ oversight efforts\n\nRelated coverage: White House Threatens Congress, Saying Aggressive Investigations Could Be Crime\n\nRelated coverage: The Trump team’s hypocrisy reaches new levels with warning letter to Democrats\n\nRelated coverage: White House Counsel Tries To Stop Democrats From Investigating Trump—Rep. Garcia Says They ‘Won’t Be Deterred’\n\nRelated coverage: White House counsel pushes back against Democratic oversight in latest sign of panic",
-        "trend_score": 32.49,
-        "trend_breakdown": {
-          "freshness": 0.804,
-          "engagement": 0.0,
-          "topic_overlap": 0.222,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Fox News",
-        "category": "news",
-        "title": "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdURKaFFzSUl1WjJCWXl0SHljY2l4MDlEMzZDaWxhMFRzVVdsVUE2ck1NRVVKR1N3czdRTDBuaWl4MHpjZEhaZnlyblE2TGpiSzBpVGUwUEdlbzJtRUZ4REV1ZnMwM3dpUkFJYWhZaDEtN0FPMlJ3bDZVV3BmVzNfeERCOXJobThOWjFaWWdHbkNKYjlaZHVXM3pOVjlNdTlhOVRXcEFxWUhaNUhWT2x1UUZpR3fSAboBQVVfeXFMUGdpX1dXRmhaOHJEbFVoM1lZV1p0d3pMWXJEQ2FQaGRYTFBqZGt5QnFndnVDVk9ucDZrLU1Bei1Fenp0LWJuS2ZJS1V3WUJRNlQzV3FESi1jM3RnXzVEVklraVpFSG5WdjdCUWU3d0F3X1dIN3o4VTZBaWFjUGdZZThhbmJ6aW9MUEVldWJJNS1veW8xeU9QbVBHa2tucmliTFZ3N1QxdXVaSUR0OGRUTk5vSzRJOTdlcG1R?oc=5",
-        "published_at": "2026-11-11T21:11:57+00:00",
-        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight；Jordan looks to move Republicans beyond midterm rout；OSU abuse survivors blast Jim Jordan’s election as House minority leader。",
-        "related_headlines": [
-          "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight",
-          "Jordan looks to move Republicans beyond midterm rout",
-          "OSU abuse survivors blast Jim Jordan’s election as House minority leader",
-          "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
-          "Opinion | Jim Jordan offers Republicans more of what doesn’t work"
-        ],
-        "content_context": "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight；Jordan looks to move Republicans beyond midterm rout；OSU abuse survivors blast Jim Jordan’s election as House minority leader。\n\nRelated coverage: Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight\n\nRelated coverage: Jordan looks to move Republicans beyond midterm rout\n\nRelated coverage: OSU abuse survivors blast Jim Jordan’s election as House minority leader\n\nRelated coverage: Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks\n\nRelated coverage: Opinion | Jim Jordan offers Republicans more of what doesn’t work",
-        "trend_score": 32.04,
-        "trend_breakdown": {
-          "freshness": 0.771,
-          "engagement": 0.0,
-          "topic_overlap": 0.267,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Guardian",
-        "category": "news",
-        "title": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXFrS05HblZsWWRXZV9ITXBpMVJFSjNRZGdDeTdjOFVqM0RtV05QdmNuYTZIazdBcER4eWt2dkJxS2N0UzhTZThlWDJSUk1KZXNrOVFOeTNfNnljejZGbXBLblc4bmxMMnV1dXZNM1FmRGp1dVJabTZmcDN1ejB5dk9Tc1BOdl83MlE?oc=5",
-        "published_at": "2026-11-11T16:34:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrats lambast absent peers after Republicans block Hegseth impeachment attempt；Democrats Face Backlash After Missing Hegseth Impeachment Vote；Pete Hegseth’s impeachment: How each House member voted。",
-        "related_headlines": [
-          "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt",
-          "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-          "Pete Hegseth’s impeachment: How each House member voted",
-          "Democratic lawmakers apologize after absences on Hegseth vote",
-          "House Republicans block effort to impeach Pentagon chief Pete Hegseth"
-        ],
-        "content_context": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrats lambast absent peers after Republicans block Hegseth impeachment attempt；Democrats Face Backlash After Missing Hegseth Impeachment Vote；Pete Hegseth’s impeachment: How each House member voted。\n\nRelated coverage: Democrats lambast absent peers after Republicans block Hegseth impeachment attempt\n\nRelated coverage: Democrats Face Backlash After Missing Hegseth Impeachment Vote\n\nRelated coverage: Pete Hegseth’s impeachment: How each House member voted\n\nRelated coverage: Democratic lawmakers apologize after absences on Hegseth vote\n\nRelated coverage: House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-        "trend_score": 25.19,
-        "trend_breakdown": {
-          "freshness": 0.578,
+          "freshness": 0.897,
           "engagement": 0.0,
           "topic_overlap": 0.273,
           "source_weight": 0.8,
@@ -818,50 +725,150 @@
         "domains": []
       },
       {
-        "source": "BBC",
+        "source": "Politico",
         "category": "news",
-        "title": "Famed ship SS United States to be sunk off coast of Florida - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ielVtR0tBWXI4cTlYTnRZM3pmbW9EVXVUdGtSVUdSN2tib2ZOamc2NTN5UWEzRUZtTklwTEpBQnp3WHcyWXJDdEVMWDl2akpycVRwT3ZEejZ2RTg?oc=5",
-        "published_at": "2026-11-11T18:42:27+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Famed ship SS United States to be sunk off coast of Florida；WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida；Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida。",
+        "title": "Blanche dials back threats to investigate lawmakers - Politico",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGVJLXZ3QXZxdjIyLTd5ZzFTSjRpemJkR08xWUFPTy1CYUpEOFVMQkZyUTFNQU8yVkNBemJ5T1FjS20xeEFpU3BfOHkwZG00cXBVbS1Dc1NqSXNvM0QwbzJCTWtfRXJUY0R5TWhRQ1UyelFTcjAzZHV5dHRjX1A3U2I2TlBMZEJHNFVNVi1HakdXU1M0b01n?oc=5",
+        "published_at": "2026-11-12T22:40:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blanche dials back threats to investigate lawmakers；White House Threatens Congress, Saying Aggressive Investigations Could Be Crime；The Trump team’s hypocrisy reaches new levels with warning letter to Democrats。",
         "related_headlines": [
-          "Famed ship SS United States to be sunk off coast of Florida",
-          "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
-          "Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida",
-          "The SS United States and her final destination",
-          "LIVE: SS United States set to be sunk today to become artificial reef"
+          "Blanche dials back threats to investigate lawmakers",
+          "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+          "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
+          "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+          "DOJ has no ‘investigations into words’ of Democrats, Todd Blanche says"
         ],
-        "content_context": "Famed ship SS United States to be sunk off coast of Florida - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Famed ship SS United States to be sunk off coast of Florida；WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida；Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida。\n\nRelated coverage: Famed ship SS United States to be sunk off coast of Florida\n\nRelated coverage: WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida\n\nRelated coverage: Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida\n\nRelated coverage: The SS United States and her final destination\n\nRelated coverage: LIVE: SS United States set to be sunk today to become artificial reef",
-        "trend_score": 24.04,
+        "content_context": "Blanche dials back threats to investigate lawmakers - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blanche dials back threats to investigate lawmakers；White House Threatens Congress, Saying Aggressive Investigations Could Be Crime；The Trump team’s hypocrisy reaches new levels with warning letter to Democrats。\n\nRelated coverage: Blanche dials back threats to investigate lawmakers\n\nRelated coverage: White House Threatens Congress, Saying Aggressive Investigations Could Be Crime\n\nRelated coverage: The Trump team’s hypocrisy reaches new levels with warning letter to Democrats\n\nRelated coverage: Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump\n\nRelated coverage: DOJ has no ‘investigations into words’ of Democrats, Todd Blanche says",
+        "trend_score": 34.94,
         "trend_breakdown": {
-          "freshness": 0.668,
+          "freshness": 0.843,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.286,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "New York Post",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVRpTU5VY0RRVWx3TWRxdEJrNU1lTmI5WVlhQThVSThKM0RCUXdYYmdlellSREQ5d3BzU1gtVEI5OE1XZU9ibzgtWGVBVFdFbHNTQVdIaHpwcVBEQ3dFYm1JT1FQeXZ1ZFctMHFXaHo0alRJd1R0RUd2N1VEcVh6c2ZuQjY4ZDFMYk1BNWd6cFYyZ1JNc0UxYVZZZ296amhtRUk4Z3ZXRzNpZGhmWW9nVmZlemdzeV95SDN5WlQxLURMQlJXQVo1eXBkNHZjdFlNdElqMy1MeVJkVW1ZcVU2OXBzRzU?oc=5",
-        "published_at": "2026-11-11T14:08:00+00:00",
-        "summary": "New York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it；Ole Miss students speak out after alleged racial harassment in viral video: \"It's still hurtful\"；Black University of Mississippi students wrestle with forgiveness in wake of racist gestures。",
+        "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
+        "published_at": "2026-11-12T22:04:30+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says no deal needed with Iran, closes down Vance negotiations；Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign；Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'。",
         "related_headlines": [
-          "Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it",
-          "Ole Miss students speak out after alleged racial harassment in viral video: \"It's still hurtful\"",
-          "Black University of Mississippi students wrestle with forgiveness in wake of racist gestures",
-          "Ole Miss student seen making offensive gestures on video doorbell footage issues statement, withdraws from school",
-          "University of Mississippi student apologizes, withdraws after alleged racist taunts in viral doorbell video"
+          "Trump says no deal needed with Iran, closes down Vance negotiations",
+          "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+          "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+          "Live Updates: Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands",
+          "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home"
         ],
-        "content_context": "Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it - New York Post\n\nNew York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it；Ole Miss students speak out after alleged racial harassment in viral video: \"It's still hurtful\"；Black University of Mississippi students wrestle with forgiveness in wake of racist gestures。\n\nRelated coverage: Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it\n\nRelated coverage: Ole Miss students speak out after alleged racial harassment in viral video: \"It's still hurtful\"\n\nRelated coverage: Black University of Mississippi students wrestle with forgiveness in wake of racist gestures\n\nRelated coverage: Ole Miss student seen making offensive gestures on video doorbell footage issues statement, withdraws from school\n\nRelated coverage: University of Mississippi student apologizes, withdraws after alleged racist taunts in viral doorbell video",
-        "trend_score": 19.84,
+        "content_context": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says no deal needed with Iran, closes down Vance negotiations；Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign；Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'。\n\nRelated coverage: Trump says no deal needed with Iran, closes down Vance negotiations\n\nRelated coverage: Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign\n\nRelated coverage: Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'\n\nRelated coverage: Live Updates: Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands\n\nRelated coverage: Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
+        "trend_score": 32.39,
         "trend_breakdown": {
-          "freshness": 0.477,
+          "freshness": 0.819,
           "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkFwSkhRUkExNVhNbGFCOUhaUDNVOUpCMXRxVVluNHlMQkJsTFJPbklkT2ZkMmhlWEFINU9KM0hrd0VHV0dVN2ZycDdUWHV3b3RlUkxtX2Y1UUpCT3hJdTBpV2ExekVucUZpVVVmQlZfTHFHV3Q1UmNubm81RzdTRENnLTJxelAydmR2UVNCTkM5TXlLUlAyVFktdkRJb29Xb3QtZkQ1UWVjS1JTTHBv?oc=5",
+        "published_at": "2026-11-12T22:51:40+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing；Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge；Oklahoma dismisses murder charge against former death row inmate Richard Glossip。",
+        "related_headlines": [
+          "Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing",
+          "Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge",
+          "Oklahoma dismisses murder charge against former death row inmate Richard Glossip",
+          "Ex-Oklahoma death row inmate whose murder conviction was dismissed by Supreme Court pleads guilty to lesser charge",
+          "Oklahoma Drops Murder Charge Against Richard Glossip, Avoiding Third Trial"
+        ],
+        "content_context": "Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing；Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge；Oklahoma dismisses murder charge against former death row inmate Richard Glossip。\n\nRelated coverage: Ex-Oklahoma death row inmate Richard Glossip pleads guilty to a lesser charge in 1997 killing\n\nRelated coverage: Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge\n\nRelated coverage: Oklahoma dismisses murder charge against former death row inmate Richard Glossip\n\nRelated coverage: Ex-Oklahoma death row inmate whose murder conviction was dismissed by Supreme Court pleads guilty to lesser charge\n\nRelated coverage: Oklahoma Drops Murder Charge Against Richard Glossip, Avoiding Third Trial",
+        "trend_score": 31.89,
+        "trend_breakdown": {
+          "freshness": 0.852,
+          "engagement": 0.0,
+          "topic_overlap": 0.077,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFhoYW43V1Z4ZjQ4bnU0NDRoMzZxUVo1RGY2UEtNMFlMcElHaEhaSnZaN3AwME5kbk5tT3VqbUpsM3A4aXQ1RmRpYmJPSDVJb1lzRzIzSmRQTFJQZkEybzM3clc1Y0VFOWZPM2VrTzVaYl9ETDZFeEtXZnZJZTVNbkFLSDg?oc=5",
+        "published_at": "2026-11-12T20:23:35+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns；Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery；Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier。",
+        "related_headlines": [
+          "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
+          "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
+          "Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier",
+          "Hegseth honors guard who scolded his group at Tomb of the Unknown Soldier",
+          "Hegseth Awards Soldier Who Reprimanded His Group At Tomb Of The Unknown Soldier"
+        ],
+        "content_context": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns；Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery；Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier。\n\nRelated coverage: Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns\n\nRelated coverage: Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery\n\nRelated coverage: Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier\n\nRelated coverage: Hegseth honors guard who scolded his group at Tomb of the Unknown Soldier\n\nRelated coverage: Hegseth Awards Soldier Who Reprimanded His Group At Tomb Of The Unknown Soldier",
+        "trend_score": 31.75,
+        "trend_breakdown": {
+          "freshness": 0.749,
+          "engagement": 0.0,
+          "topic_overlap": 0.3,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Cities Have a New Tactic to Block ICE Jails: Run Out the Clock - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnlyY2puRVlBZ1pOMTJHWUhkd0s5TjIyZktLa09malR1bXBYdHFZZHVKdF95RHRydDhwdHd6dFpzaTdSSFROU3pvS01hN2pzVzJXT0wyR1B6M1pjQmc2c3ZiMUl6QzE2NnVXcy0tRTlacGg4UUxsTkhSTVFLTDlTRw?oc=5",
+        "published_at": "2026-11-12T20:32:11+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cities Have a New Tactic to Block ICE Jails: Run Out the Clock；San Antonio sues to block planned ICE detention center in warehouse；ICE’s office space at San Antonio’s Brooks on hold as development cites leasing violation。",
+        "related_headlines": [
+          "Cities Have a New Tactic to Block ICE Jails: Run Out the Clock",
+          "San Antonio sues to block planned ICE detention center in warehouse",
+          "ICE’s office space at San Antonio’s Brooks on hold as development cites leasing violation",
+          "DHS responds to pause on East Side ICE Facility amid environmental protection compliance",
+          "City in talks with ICE on warehouse detention center"
+        ],
+        "content_context": "Cities Have a New Tactic to Block ICE Jails: Run Out the Clock - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cities Have a New Tactic to Block ICE Jails: Run Out the Clock；San Antonio sues to block planned ICE detention center in warehouse；ICE’s office space at San Antonio’s Brooks on hold as development cites leasing violation。\n\nRelated coverage: Cities Have a New Tactic to Block ICE Jails: Run Out the Clock\n\nRelated coverage: San Antonio sues to block planned ICE detention center in warehouse\n\nRelated coverage: ICE’s office space at San Antonio’s Brooks on hold as development cites leasing violation\n\nRelated coverage: DHS responds to pause on East Side ICE Facility amid environmental protection compliance\n\nRelated coverage: City in talks with ICE on warehouse detention center",
+        "trend_score": 31.17,
+        "trend_breakdown": {
+          "freshness": 0.755,
+          "engagement": 0.0,
+          "topic_overlap": 0.25,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0pOVlgwWnNYaGdxWDBWa1NFd2k4VmNHQ0liSzRNd3N6Q1dVQ0xoSk0tY2ZiVGQ3enloTHhoZTlFUjAzN3pLVk5JaWU1M3Z6bWhiVy1GcnNoQU1PZ3BxNkxYSG9Jd0hNUDU4aWxkN1BZUDdkbUU3OHJqeW5TUTlIVGRaTWpHc3RpVzdtUDRUVQ?oc=5",
+        "published_at": "2026-11-12T22:52:49+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cindy Holscher wins in Kansas, holding governor’s office for Democrats；Trump says he’s ‘disappointed’ in voters who turned on GOP over the Iran war: Live updates；Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race。",
+        "related_headlines": [
+          "Cindy Holscher wins in Kansas, holding governor’s office for Democrats",
+          "Trump says he’s ‘disappointed’ in voters who turned on GOP over the Iran war: Live updates",
+          "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race",
+          "Democrat Holscher wins Kansas governor's race",
+          "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats"
+        ],
+        "content_context": "Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cindy Holscher wins in Kansas, holding governor’s office for Democrats；Trump says he’s ‘disappointed’ in voters who turned on GOP over the Iran war: Live updates；Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race。\n\nRelated coverage: Cindy Holscher wins in Kansas, holding governor’s office for Democrats\n\nRelated coverage: Trump says he’s ‘disappointed’ in voters who turned on GOP over the Iran war: Live updates\n\nRelated coverage: Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race\n\nRelated coverage: Democrat Holscher wins Kansas governor's race\n\nRelated coverage: Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
+        "trend_score": 30.68,
+        "trend_breakdown": {
+          "freshness": 0.852,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -877,11 +884,11 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "author": "addyosmani",
       "summary": "Production-grade engineering skills for AI coding agents.",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
       "language": "JavaScript",
-      "score": 787,
-      "comment_count": 12169,
-      "total_stars": 116008,
+      "score": 816,
+      "comment_count": 12212,
+      "total_stars": 116718,
       "built_by": [
         "addyosmani",
         "nucliweb",
@@ -889,11 +896,11 @@
         "rudycelekli",
         "ayobamiseun"
       ],
-      "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 787\n\nTotal stars: 116008\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
-      "trend_score": 93.57,
+      "content_context": "Production-grade engineering skills for AI coding agents.\n\nLanguage: JavaScript\n\nStars today: 816\n\nTotal stars: 116718\n\nBuilt by: addyosmani, nucliweb, claude, rudycelekli, ayobamiseun",
+      "trend_score": 93.98,
       "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.986,
+        "freshness": 0.998,
+        "engagement": 1.0,
         "topic_overlap": 0.333,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -905,80 +912,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "author": "vercel-labs",
-      "summary": "Browser automation CLI for AI agents",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
-      "language": "Rust",
-      "score": 708,
-      "comment_count": 3491,
-      "total_stars": 49932,
-      "built_by": [
-        "ctate",
-        "Railly",
-        "github-actions",
-        "lahfir",
-        "claude"
-      ],
-      "content_context": "Browser automation CLI for AI agents\n\nLanguage: Rust\n\nStars today: 708\n\nTotal stars: 49932\n\nBuilt by: ctate, Railly, github-actions, lahfir, claude",
-      "trend_score": 88.84,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.91,
-        "topic_overlap": 0.25,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
-      "language": "Python",
-      "score": 278,
-      "comment_count": 56880,
-      "total_stars": 70374,
-      "built_by": [
-        "ZhuLinsen",
-        "massif-01",
-        "freesme",
-        "Activer007",
-        "birdxs"
-      ],
-      "content_context": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\nLanguage: Python\n\nStars today: 278\n\nTotal stars: 70374\n\nBuilt by: ZhuLinsen, massif-01, freesme, Activer007, birdxs",
-      "trend_score": 86.84,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 1.0,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "finance",
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "author": "meta",
       "summary": "An open source design system that's fully customizable and agent ready",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
       "language": "TypeScript",
-      "score": 2776,
-      "comment_count": 1961,
-      "total_stars": 25157,
+      "score": 1830,
+      "comment_count": 2068,
+      "total_stars": 26629,
       "built_by": [
         "github-actions",
         "cixzhang",
@@ -986,11 +928,43 @@
         "josephfarina",
         "vjeux"
       ],
-      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 2776\n\nTotal stars: 25157\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
-      "trend_score": 85.8,
+      "content_context": "An open source design system that's fully customizable and agent ready\n\nLanguage: TypeScript\n\nStars today: 1830\n\nTotal stars: 26629\n\nBuilt by: github-actions, cixzhang, rubyycheung, josephfarina, vjeux",
+      "trend_score": 85.11,
       "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.973,
+        "freshness": 0.998,
+        "engagement": 0.957,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "author": "nodejs",
+      "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
+      "language": "JavaScript",
+      "score": 62,
+      "comment_count": 38057,
+      "total_stars": 123609,
+      "built_by": [
+        "Trott",
+        "ry",
+        "bnoordhuis",
+        "addaleax",
+        "isaacs"
+      ],
+      "content_context": "Node.js JavaScript runtime ✨🐢🚀✨\n\nLanguage: JavaScript\n\nStars today: 62\n\nTotal stars: 123609\n\nBuilt by: Trott, ry, bnoordhuis, addaleax, isaacs",
+      "trend_score": 82.33,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.884,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1006,11 +980,11 @@
       "url": "https://github.com/we-promise/sure",
       "author": "we-promise",
       "summary": "The personal finance app for everyone (by everyone)",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
       "language": "Ruby",
-      "score": 1078,
-      "comment_count": 962,
-      "total_stars": 13031,
+      "score": 967,
+      "comment_count": 1045,
+      "total_stars": 13976,
       "built_by": [
         "jjmata",
         "dependabot",
@@ -1018,107 +992,11 @@
         "zachgoll",
         "Shpigford"
       ],
-      "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 1078\n\nTotal stars: 13031\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
-      "trend_score": 81.8,
+      "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 967\n\nTotal stars: 13976\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
+      "trend_score": 81.95,
       "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.867,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "author": "TheAlgorithms",
-      "summary": "All Algorithms implemented in Java",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
-      "language": "Java",
-      "score": 51,
-      "comment_count": 21513,
-      "total_stars": 67072,
-      "built_by": [
-        "alxkm",
-        "dependabot",
-        "vil02",
-        "Hardvan",
-        "yanglbme"
-      ],
-      "content_context": "All Algorithms implemented in Java\n\nLanguage: Java\n\nStars today: 51\n\nTotal stars: 67072\n\nBuilt by: alxkm, dependabot, vil02, Hardvan, yanglbme",
-      "trend_score": 80.36,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.829,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "author": "homeassistant-ai",
-      "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
-      "language": "Python",
-      "score": 645,
-      "comment_count": 454,
-      "total_stars": 7421,
-      "built_by": [
-        "github-actions",
-        "claude",
-        "kingpanther13",
-        "julienld",
-        "dependabot"
-      ],
-      "content_context": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\nLanguage: Python\n\nStars today: 645\n\nTotal stars: 7421\n\nBuilt by: github-actions, claude, kingpanther13, julienld, dependabot",
-      "trend_score": 78.86,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.79,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "author": "shadcn",
-      "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
-      "language": null,
-      "score": 361,
-      "comment_count": 448,
-      "total_stars": 10978,
-      "built_by": [
-        "shadcn",
-        "claude",
-        "erikpr1994",
-        "beastawakens",
-        "morinim"
-      ],
-      "content_context": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.\n\nLanguage: unknown\n\nStars today: 361\n\nTotal stars: 10978\n\nBuilt by: shadcn, claude, erikpr1994, beastawakens, morinim",
-      "trend_score": 77.31,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.749,
+        "freshness": 0.998,
+        "engagement": 0.874,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1134,11 +1012,11 @@
       "url": "https://github.com/openai/codex-security",
       "author": "openai",
       "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
       "language": "TypeScript",
-      "score": 52,
-      "comment_count": 945,
-      "total_stars": 11807,
+      "score": 643,
+      "comment_count": 979,
+      "total_stars": 12485,
       "built_by": [
         "mldangelo-oai",
         "codex",
@@ -1146,11 +1024,75 @@
         "ianw-oai",
         "kmbroai"
       ],
-      "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 52\n\nTotal stars: 11807\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
-      "trend_score": 73.81,
+      "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 643\n\nTotal stars: 12485\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
+      "trend_score": 80.72,
       "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.657,
+        "freshness": 0.998,
+        "engagement": 0.841,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "author": "nvm-sh",
+      "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
+      "language": "Shell",
+      "score": 63,
+      "comment_count": 10760,
+      "total_stars": 96024,
+      "built_by": [
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "koenpunt",
+        "lukechilds"
+      ],
+      "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 63\n\nTotal stars: 96024\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+      "trend_score": 79.68,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.814,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "author": "QwenLM",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
+      "language": "TypeScript",
+      "score": 151,
+      "comment_count": 3399,
+      "total_stars": 29853,
+      "built_by": [
+        "wenshao",
+        "qwencoder",
+        "yiliang114",
+        "tanzhenxin",
+        "qwen-code-dev-bot"
+      ],
+      "content_context": "An open-source AI coding agent that lives in your terminal.\n\nLanguage: TypeScript\n\nStars today: 151\n\nTotal stars: 29853\n\nBuilt by: wenshao, qwencoder, yiliang114, tanzhenxin, qwen-code-dev-bot",
+      "trend_score": 79.53,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.81,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1165,24 +1107,88 @@
       "title": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "author": "GoogleChrome",
-      "summary": null,
-      "published_at": "2026-11-12T02:40:57.398779+00:00",
+      "summary": "Keep your coding agent up to date with the latest web best practices",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
       "language": "TypeScript",
-      "score": 159,
-      "comment_count": 145,
-      "total_stars": 1838,
+      "score": 739,
+      "comment_count": 204,
+      "total_stars": 3148,
       "built_by": [
         "paulirish",
         "rviscomi",
         "micahjo7",
         "github-actions",
-        "philipwalton"
+        "LeaVerou"
       ],
-      "content_context": "Language: TypeScript\n\nStars today: 159\n\nTotal stars: 1838\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, philipwalton",
-      "trend_score": 72.78,
+      "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 739\n\nTotal stars: 3148\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
+      "trend_score": 77.75,
       "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.63,
+        "freshness": 0.998,
+        "engagement": 0.763,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "author": "pookjw",
+      "summary": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
+      "language": "Objective-C",
+      "score": 218,
+      "comment_count": 141,
+      "total_stars": 1561,
+      "built_by": [
+        "pookjw",
+        "metalnodeug",
+        "SamZong233",
+        "claude",
+        "dfrias"
+      ],
+      "content_context": "Enable Hermès Watch Faces on any Apple Watch devices\n\nLanguage: Objective-C\n\nStars today: 218\n\nTotal stars: 1561\n\nBuilt by: pookjw, metalnodeug, SamZong233, claude, dfrias",
+      "trend_score": 73.72,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.657,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "author": "ashhart",
+      "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "published_at": "2026-11-13T02:22:26.194783+00:00",
+      "language": "Zig",
+      "score": 54,
+      "comment_count": 393,
+      "total_stars": 1959,
+      "built_by": [
+        "ashhart",
+        "jschmied",
+        "BobClawblaw",
+        "laudney",
+        "BlivionIaG"
+      ],
+      "content_context": "LLM Inference Engine for Metal, CUDA and Vulkan.\n\nLanguage: Zig\n\nStars today: 54\n\nTotal stars: 1959\n\nBuilt by: ashhart, jschmied, BobClawblaw, laudney, BlivionIaG",
+      "trend_score": 72.21,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.617,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1194,26 +1200,26 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Lessons from 59 Linux Kernel Bug Reports",
-      "url": "https://forge-blog.github.io/posts/linux-kernel-3-month-lookback/",
-      "author": "tsgates",
-      "score": 1,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "author": "lavendermon",
+      "score": 3,
       "comment_count": 0,
-      "published_at": "2026-11-12T02:27:02+00:00",
-      "summary": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.",
+      "published_at": "2026-11-13T02:16:24+00:00",
+      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://forge-blog.github.io/posts/linux-kernel-3-month-lookback/",
-        "page_title": "Lessons from 59 Linux Kernel Bug Reports",
-        "page_description": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.",
-        "page_excerpt": "At Microsoft’s FORGE Lab, we used codename MDASH to scan a subset of Linux kernel subsystems from late May to mid-June 2026. One full-time researcher and one intern led this three-month effort, which has so far produced 59 public upstream reports and 33 assigned CVEs . We confirmed working root privilege-escalation exploits for eight of those CVEs, and fixes for 38 of our reports have been merg...\n\nFinding the bugs was only part of the work. The initial scans produced 26,502 raw findings in about two weeks, but turning those results into reproducible bugs, upstream reports, and patches took months of expert investigation and collaboration with Linux maintainers.\n\nIn this post, we look back at how we went from thousands of potential findings to validated vulnerabilities and upstream fixes, and what we learned about scaling vulnerability discovery with AI."
+        "resolved_url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "page_title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+        "page_description": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+        "page_excerpt": "Some Nvidia employees are calling for Jensen Huang’s return even after his multiple reported extramarital affairs and abrupt resignation , according to internal correspondence reviewed by WIRED.\n\nAn internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior to taking any action. The submission has attracted more than 1,600 comments since then, with several asking board members to find a way to bring back Huang.\n\n“If you believe in the mission, bring back THE boss,” wrote one anonymous commenter."
       },
-      "content_context": "How Microsoft FORGE Lab used codename MDASH to investigate Linux kernel vulnerabilities, producing 59 upstream bug reports, 33 CVEs, and 38 merged fixes.\n\nAt Microsoft’s FORGE Lab, we used codename MDASH to scan a subset of Linux kernel subsystems from late May to mid-June 2026. One full-time researcher and one intern led this three-month effort, which has so far produced 59 public upstream reports and 33 assigned CVEs . We confirmed working root privilege-escalation exploits for eight of those CVEs, and fixes for 38 of our reports have been merg... Finding the bugs was only part of the work. The initial scans produced 26,502 raw findings in about two weeks, but turning those results into reproducible bugs, upstream reports, and patches took months of expert investigation and collaboration with Linux maintainers. In this post, we look back at how we went from thousands of potential findings to validated vulnerabilities and upstream fixes, and what we learned about scaling vulnerability discovery with AI.",
-      "trend_score": 49.12,
+      "content_context": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.\n\nSome Nvidia employees are calling for Jensen Huang’s return even after his multiple reported extramarital affairs and abrupt resignation , according to internal correspondence reviewed by WIRED. An internal “suggestion box” post submitted before Huang’s resignation by a longtime engineer at Nvidia urged the company’s board to take employee sentiment into consideration prior to taking any action. The submission has attracted more than 1,600 comments since then, with several asking board members to find a way to bring back Huang. “If you believe in the mission, bring back THE boss,” wrote one anonymous commenter.",
+      "trend_score": 63.25,
       "trend_breakdown": {
-        "freshness": 0.99,
-        "engagement": 0.048,
-        "topic_overlap": 0.0,
+        "freshness": 0.994,
+        "engagement": 0.097,
+        "topic_overlap": 0.571,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1224,26 +1230,26 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Memory safety bugs in Rust std/core",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "author": "tsgates",
+      "title": "Agent harness for learning difficult things",
+      "url": "https://github.com/amosblomqvist/learnharness",
+      "author": "flashblaze",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-12T02:26:07+00:00",
-      "summary": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.",
+      "published_at": "2026-11-13T02:15:27+00:00",
+      "summary": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-        "page_title": "Memory Safety Bugs in Rust Standard Library",
-        "page_description": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.",
-        "page_excerpt": "Microsoft’s FORGE Lab found several memory safety issues in Rust’s standard library ( std and core ), including cases where code written entirely in safe Rust can trigger undefined behavior. The research used Hyenas, FORGE’s frontier research version of codename MDASH, an AI-powered vulnerability-scanning system. The findings reveal three recurring patterns of misplaced trust in unsafe code: tr...\n\nRust’s safety guarantees are precisely what make these findings interesting. Its rich type system and ownership model rule out whole classes of memory-safety issues, but much of the standard library relies on unsafe code underneath its safe APIs. When that code breaks its safety contract, even safe Rust can encounter behavior the language is designed to prevent.\n\nRust’s memory-safety guarantees are increasingly important as the language becomes part of software that billions of people rely on every day. Billions of people are estimated to interact with Rust-based software or operating sys..."
+        "resolved_url": "https://github.com/amosblomqvist/learnharness",
+        "page_title": "GitHub - amosblomqvist/learnharness: Agent harness for learning difficult things.",
+        "page_description": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.",
+        "page_excerpt": "LearnHarness uses AI agents to plan and teach lessons from your current understanding to your goal. It builds a detailed picture of what you understand and how you reason. That picture is updated as you learn.\n\nInstead of just giving you an explanation, it uses your answers and thinking to decide what you need next. Teaching builds understanding one reasoning step at a time. Practice makes it usable. A persistent knowledge graph carries it across sessions.\n\nThink out loud. The thinking fields let you explain your reasoning, uncertainties, and reactions in your own words. This is how the agent gets a detailed picture rather than just a record of right and wrong answers. You can type or use dictation."
       },
-      "content_context": "Knowing What You Trust: Three patterns behind memory safety bugs we found in Rust's standard library, and why Rust's safety model still matters even though it isn't perfect.\n\nMicrosoft’s FORGE Lab found several memory safety issues in Rust’s standard library ( std and core ), including cases where code written entirely in safe Rust can trigger undefined behavior. The research used Hyenas, FORGE’s frontier research version of codename MDASH, an AI-powered vulnerability-scanning system. The findings reveal three recurring patterns of misplaced trust in unsafe code: tr... Rust’s safety guarantees are precisely what make these findings interesting. Its rich type system and ownership model rule out whole classes of memory-safety issues, but much of the standard library relies on unsafe code underneath its safe APIs. When that code breaks its safety contract, even safe Rust can encounter behavior the language is designed to prevent. Rust’s memory-safety guarantees are increasingly important as the language becomes part of software that billions of people rely on every day. Billions of people are estimated to interact with Rust-based software or operating sys...",
-      "trend_score": 49.08,
+      "content_context": "Agent harness for learning difficult things. Contribute to amosblomqvist/learnharness development by creating an account on GitHub.\n\nLearnHarness uses AI agents to plan and teach lessons from your current understanding to your goal. It builds a detailed picture of what you understand and how you reason. That picture is updated as you learn. Instead of just giving you an explanation, it uses your answers and thinking to decide what you need next. Teaching builds understanding one reasoning step at a time. Practice makes it usable. A persistent knowledge graph carries it across sessions. Think out loud. The thinking fields let you explain your reasoning, uncertainties, and reactions in your own words. This is how the agent gets a detailed picture rather than just a record of right and wrong answers. You can type or use dictation.",
+      "trend_score": 53.52,
       "trend_breakdown": {
-        "freshness": 0.99,
-        "engagement": 0.048,
-        "topic_overlap": 0.0,
+        "freshness": 0.993,
+        "engagement": 0.049,
+        "topic_overlap": 0.2,
         "source_weight": 0.9,
         "domain_weight": 1.18
       },
@@ -1254,27 +1260,29 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Knotless.dev is now in the app store, manage your repos in your pocket",
-      "url": "https://bsky.app/profile/chadtmiller.com/post/3n22eg32p422w",
-      "author": "toomuchtodo",
-      "score": 2,
-      "comment_count": 1,
-      "published_at": "2026-11-12T02:22:13+00:00",
-      "summary": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657",
+      "title": "NYC Council passes ban on 'surveillance pricing'",
+      "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+      "author": "jonbaer",
+      "score": 7,
+      "comment_count": 4,
+      "published_at": "2026-11-13T02:04:39+00:00",
+      "summary": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.",
       "comment_highlights": [
-        "knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server<p><a href=\"https://apps.apple.com/us/app/knotless-git/id6831466657\">https://apps.apple.com/us/app/knotless-git/id6831466657</a><p><a href=\"https://knotless.dev/\" rel=\"nofollow\">https://knotl..."
+        "So will this impact Uber that does some extremely shady stuff around your profile / phone type / battery life / account history / micro location / etc to tease out level of desperation & price elasticity.",
+        "NY state did it in June <a href=\"https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive\" rel=\"nofollow\">https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveill...</a> (<a href=\"https://news.ycombinator.com/item?id=48443192\">https://news.ycombi...",
+        "<a href=\"https://www.ailawsbystate.com/tools/surveillance-pricing-tracker\" rel=\"nofollow\">https://www.ailawsbystate.com/tools/surveillance-pricing-tra...</a>"
       ],
       "linked_context": {
-        "resolved_url": "https://bsky.app/profile/chadtmiller.com/post/3n22eg32p422w",
-        "page_title": "Chad (@chadtmiller.com)",
-        "page_description": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657",
-        "page_excerpt": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657"
+        "resolved_url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+        "page_title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data",
+        "page_description": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.",
+        "page_excerpt": "Make your contribution now and help Gothamist thrive in 2026. Donate today\n\nThe City Council passed a bill Thursday that bans companies in New York City from using surveillance pricing, which charges different prices based on algorithms or shoppers’ personal data.\n\nSurveillance pricing means shoppers see a price based on their personal data like demographics, credit, browsing history or purchasing history. The bill prohibits surveillance pricing both online and in stores, although the practice is mainly used on the web."
       },
-      "content_context": "knotless.dev is now in the app store, manage your repos in your pocket also supports themes so you can have the same theme across devices knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server 👉 https://apps.apple.com/us/app/knotless-git/id6831466657\n\nHN comment: knotless tldr: it's basically github but on atproto and your repos are stored on your pds not a git server<p><a href=\"https://apps.apple.com/us/app/knotless-git/id6831466657\">https://apps.apple.com/us/app/knotless-git/id6831466657</a><p><a href=\"https://knotless.dev/\" rel=\"nofollow\">https://knotl...",
-      "trend_score": 43.59,
+      "content_context": "“It's a practice that worsens the affordability crisis,\" Speaker Julie Menin said.\n\nMake your contribution now and help Gothamist thrive in 2026. Donate today The City Council passed a bill Thursday that bans companies in New York City from using surveillance pricing, which charges different prices based on algorithms or shoppers’ personal data. Surveillance pricing means shoppers see a price based on their personal data like demographics, credit, browsing history or purchasing history. The bill prohibits surveillance pricing both online and in stores, although the practice is mainly used on the web.\n\nHN comment: So will this impact Uber that does some extremely shady stuff around your profile / phone type / battery life / account history / micro location / etc to tease out level of desperation & price elasticity.\n\nHN comment: NY state did it in June <a href=\"https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive\" rel=\"nofollow\">https://gothamist.com/news/ny-lawmakers-vote-to-ban-surveill...</a> (<a href=\"https://news.ycombinator.com/item?id=48443192\">https://news.ycombi...\n\nHN comment: <a href=\"https://www.ailawsbystate.com/tools/surveillance-pricing-tracker\" rel=\"nofollow\">https://www.ailawsbystate.com/tools/surveillance-pricing-tra...</a>",
+      "trend_score": 47.37,
       "trend_breakdown": {
-        "freshness": 0.987,
-        "engagement": 0.115,
+        "freshness": 0.986,
+        "engagement": 0.237,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.0
@@ -1284,220 +1292,214 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Can't Be Pumped. Can't Be Dumped. Can't Predict It. Can't Manipulate It",
-      "url": "https://tokenmobiles.live",
-      "author": "elykcim",
+      "title": "Microsoft's Outlook.com Is Down",
+      "url": "https://outlook.com/",
+      "author": "williamtrask",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-12T02:37:28+00:00",
+      "published_at": "2026-11-13T02:21:00+00:00",
       "summary": null,
       "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://tokenmobiles.live/",
-        "page_title": "Tokenmobiles",
-        "page_description": null,
-        "page_excerpt": null
-      },
+      "linked_context": {},
       "content_context": null,
-      "trend_score": 41.92,
+      "trend_score": 46.41,
       "trend_breakdown": {
-        "freshness": 0.998,
-        "engagement": 0.048,
-        "topic_overlap": 0.0,
+        "freshness": 0.997,
+        "engagement": 0.049,
+        "topic_overlap": 0.25,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
       "domains": []
     },
     {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Lean Grimoire",
-      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "author": "smilelamp",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-12T02:36:48+00:00",
-      "summary": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-        "page_title": "Lean Grimoire",
-        "page_description": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …",
-        "page_excerpt": "Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao\n\n11 November, 2026 in diversions , math.LO | Tags: applets , Lean | by Terence Tao\n\nBack in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018 , en..."
-      },
-      "content_context": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set …\n\nUpdates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao 11 November, 2026 in diversions , math.LO | Tags: applets , Lean | by Terence Tao Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018 , en...",
-      "trend_score": 41.9,
+      "source": "Politico",
+      "category": "news",
+      "title": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVVlT3dQNFpTWkczTy1LZlpDYjM4QUF5ZGxYcktzTTJPcEdiVFgwdEptekJFYW11YUJjd2UwWHhOX09paTVsbnk3NFNNZEdQYjhlNDZ3eWJZSVRncnp4R1NQTVBzRmdkWW1MdGRlbHNYeUpHaXpyaWFqNnNnSE1BTXc4MnAzOWR6WHdaXzFFQ2Z1dWFQOHFKM25XQVByWVV1cUFkTFpBV1FsdTdIMXFLZUFIdF9YaTRFam1fWHhLZ0lFbEhfaFFjcjk3V252UnpOTm1EeG12aw?oc=5",
+      "published_at": "2026-11-13T00:00:58+00:00",
+      "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga；Huang and Lutnick Summoned to Testify Before Congress；US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify。",
+      "related_headlines": [
+        "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga",
+        "Huang and Lutnick Summoned to Testify Before Congress",
+        "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
+        "Jim Banks calls for Lutnick to testify on Nvidia CEO controversy, alleging ‘loophole’ use",
+        "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live"
+      ],
+      "content_context": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga；Huang and Lutnick Summoned to Testify Before Congress；US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify。\n\nRelated coverage: Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga\n\nRelated coverage: Huang and Lutnick Summoned to Testify Before Congress\n\nRelated coverage: US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify\n\nRelated coverage: Jim Banks calls for Lutnick to testify on Nvidia CEO controversy, alleging ‘loophole’ use\n\nRelated coverage: Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+      "trend_score": 44.51,
       "trend_breakdown": {
-        "freshness": 0.997,
-        "engagement": 0.048,
-        "topic_overlap": 0.0,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
+        "freshness": 0.9,
+        "engagement": 0.0,
+        "topic_overlap": 0.333,
+        "source_weight": 0.8,
+        "domain_weight": 1.18
       },
-      "domains": []
+      "domains": [
+        "technology"
+      ]
     }
   ],
   "notes": [
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目热度集中，多个项目聚焦于提升AI智能体的工程与交互能力。Meta开源的'agent-ready'设计系统Astryx和Vercel Labs的浏览器自动化工具agent-browser，共同指向为AI智能体构建更完善的基础设施。同时，agent-skills等项目致力于增强AI编码代理的专业技能，而improve项目则创新性地采用分层AI策略优化代码审计成本。在垂直应用方面，LLM驱动的股票分析系统daily_stock_analysis和AI智能家居集成工具ha-mcp，展示了AI在金融科技与物联网领域的实用化探索。",
+    "overview": "今日AI领域热点聚焦于AI编程与开发工具的工程化与生态建设。GitHub趋势榜上，多个项目获得高关注：OpenAI开源了Codex Security CLI & SDK，将AI能力应用于代码安全扫描；Google Chrome团队推出'modern-web-guidance-src'项目，旨在为AI编码助手提供最新的Web开发最佳实践；Meta开源的AI就绪设计系统Astryx以及高星项目'agent-skills'，均致力于提升AI代理的生产级工程能力。此外，通义千问的终端AI编程助手qwen-code、个人理财应用Sure（含AI辅助开发迹象）以及Node.js、nvm等基础工具持续活跃，共同勾勒出AI深度融入软件开发工作流的清晰图景。",
     "named_hotspots": [
       {
         "name": "agent-skills",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为'agent-skills'的GitHub项目在趋势榜上获得高度关注，该项目专注于为AI编码代理提供生产级工程技能。",
-        "core_details": "该项目由addyosmani、nucliweb、claude、rudycelekli、ayobamiseun等开发者构建，使用JavaScript语言编写。今日新增星标787个，总星标数已达116008，显示出社区对其的广泛兴趣和认可。",
-        "ai_take": "该项目旨在提升AI编码代理的工程能力，使其能够处理更复杂、更接近实际生产环境的编码任务，反映了AI在软件开发自动化领域向专业化、实用化发展的趋势。",
-        "hype_check": "高星标数和趋势分数表明该项目在开发者社区中引起了显著关注，但需注意其实际应用效果和成熟度仍需进一步验证。",
-        "value_check": "为AI编码代理提供生产级技能框架，可能加速AI在软件工程中的集成，提升开发效率，具有较高的潜在实用价值。",
-        "follow_up": "关注项目后续更新、实际用例以及社区反馈，以评估其长期影响和适应性。",
-        "evidence": "项目描述明确为'Production-grade engineering skills for AI coding agents.'，高星标数（116008）和趋势分数（93.57）支持其受欢迎程度。"
-      },
-      {
-        "name": "agent-browser",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Vercel Labs 在 GitHub 上开源了一个名为 agent-browser 的浏览器自动化 CLI 工具，专为 AI 智能体设计，采用 Rust 语言编写，今日获得 708 颗星，总星数已达 49932。",
-        "core_details": "该项目是一个命令行界面工具，旨在为 AI 智能体提供浏览器自动化能力，使其能够执行网页交互任务。项目由 Vercel Labs 团队（包括 ctate、Railly 等贡献者）开发，当前在 GitHub 趋势榜上热度较高，趋势分数为 88.84。",
-        "ai_take": "该工具直接服务于 AI 智能体的操作需求，通过提供稳定的浏览器自动化接口，可能增强智能体在真实网页环境中的任务执行能力，是 AI 与 Web 交互基础设施的重要一环。",
-        "hype_check": "项目在 GitHub 上趋势分数高且单日获星数可观，表明开发者社区对 AI 智能体与浏览器自动化结合的工具关注度很高，但需观察其实际采用率和生态发展。",
-        "value_check": "作为开源基础设施，它降低了为 AI 智能体集成浏览器自动化的门槛，可能推动更多基于 Web 的 AI 应用场景（如自动化测试、数据采集、交互模拟）的发展。",
-        "follow_up": "关注 Vercel Labs 对该项目的后续更新，以及是否会有大型 AI 框架或平台集成此工具；同时留意社区是否围绕其构建更多 AI 智能体用例。",
-        "evidence": "GitHub 仓库显示项目描述为“Browser automation CLI for AI agents”，语言为 Rust，今日星数增长 708，总星数 49932，贡献者包括 ctate、Railly 等，趋势分数 88.84。"
-      },
-      {
-        "name": "ZhuLinsen/daily_stock_analysis",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "一个名为 daily_stock_analysis 的 GitHub 开源项目在趋势榜上热度飙升，今日新增 278 颗星，总星数已达 70374。该项目是一个由大语言模型（LLM）驱动的多市场股票智能分析系统。",
-        "core_details": "该项目是一个 Python 编写的自动化系统，核心功能包括整合多源市场行情数据、抓取实时新闻、生成决策看板以及自动推送通知。其突出特点是支持零成本定时运行，旨在为股票分析提供智能化工具。项目由 ZhuLinsen 等开发者维护。",
-        "ai_take": "该项目将 LLM 应用于金融分析领域，尝试利用 AI 处理海量、异构的金融市场信息（行情、新闻），并生成辅助决策的看板。这代表了 AI 在垂直领域（金融科技）的落地尝试，关键在于如何确保信息处理的准确性、时效性以及模型输出的可解释性。",
-        "hype_check": "热度较高（趋势分 86.84），单日获星数可观，总星数极高，表明其在开发者社区中受到了广泛关注和认可。这种热度可能源于其将热门技术（LLM）与实用场景（股票分析）结合，并强调“零成本”，吸引了大量对量化交易和 AI 应用感兴趣的开发者。",
-        "value_check": "价值在于提供了一个开箱即用、可定制的自动化分析框架，降低了个人或小团队进行智能金融数据分析的门槛。“零成本定时运行”的承诺如果实现，具有实用吸引力。但实际价值高度依赖于其数据源的可靠性、分析模型的准确性以及在不同市场环境下的泛化能力。",
-        "follow_up": "需要关注其后续版本更新，看是否增加了更多数据源、更复杂的分析模型（如多因子模型集成），或对更多市场（如 A 股、港股、加密货币）的支持。同时，应考察其在实际投资环境中的表现和用户反馈，以评估其真实效用。",
-        "evidence": "证据来源于 GitHub 项目页面描述：项目定位为“LLM 驱动的多市场股票智能分析系统”，明确列出了多源行情、实时新闻、决策看板、自动推送和零成本定时运行等核心功能。项目语言为 Python，今日星数增长和总星数数据证实了其高关注度。"
+        "what_happened": "一个名为'agent-skills'的GitHub项目在趋势榜上获得高关注，该项目旨在为AI编程代理提供生产级工程技能。",
+        "core_details": "该项目由addyosmani等人主导开发，使用JavaScript语言编写。今日新增816颗星，总星数已达116,718，显示出极高的社区热度。项目定位明确，专注于提升AI编码代理的工程实践能力。",
+        "ai_take": "该项目反映了业界对AI编程助手工程化、生产化能力的迫切需求。通过系统化技能库的构建，可能旨在标准化和提升AI代理在真实开发环境中的代码质量、可维护性与协作效率，是AI辅助开发走向成熟应用的关键基础设施探索。",
+        "hype_check": "热度极高。总星数超11万且今日增长迅速，表明其在开发者社区中引起了广泛关注和认可，并非短期炒作。",
+        "value_check": "潜在价值显著。若成功定义并实现一套生产级工程技能标准，可大幅提升AI编码代理的实用性和可靠性，降低企业集成AI开发工具的门槛与风险，对推动AI在软件工程领域的深度应用具有实质性意义。",
+        "follow_up": "关注项目后续的技能列表具体内容、实践案例、以及是否被主流AI编码工具（如GitHub Copilot、Claude等）集成或采纳。同时可观察其如何定义“生产级”标准及对应的评估体系。",
+        "evidence": "项目描述明确指出“Production-grade engineering skills for AI coding agents”，且由Google工程师addyosmani等知名开发者维护。高星数和增长数据来自GitHub趋势榜，证实了其受关注程度。"
       },
       {
         "name": "Astryx",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Meta在GitHub上开源了名为Astryx的设计系统项目，该项目在今日获得了2776颗星，总星数已达25157，成为热门趋势项目。",
-        "core_details": "Astryx是一个完全可定制且为AI智能体（agent）准备的开源设计系统，使用TypeScript语言开发，由Meta的团队（包括github-actions、cixzhang、rubyycheung、josephfarina、vjeux等贡献者）构建。",
-        "ai_take": "该项目明确标注为'agent ready'，表明其设计考虑了AI智能体的交互与集成需求，可能旨在为AI驱动的应用界面提供标准化、可适配的组件库，是Meta在AI基础设施层布局的一部分。",
-        "hype_check": "趋势分数高达85.8，单日获星数突出，显示开发者社区对Meta开源工具及AI相关设计系统有较高关注度，但需观察其实际采用率与生态发展。",
-        "value_check": "作为大厂开源的设计系统，Astryx可能降低AI应用的前端开发门槛，促进界面一致性；其'完全可定制'特性适合多样化的AI交互场景，长期价值取决于社区贡献与文档完善程度。",
-        "follow_up": "关注Astryx的版本更新、与Meta其他AI框架（如Llama）的整合案例，以及开发者社区是否围绕其构建插件或模板。",
-        "evidence": "项目描述强调'open source design system'、'fully customizable'和'agent ready'；GitHub数据（语言TypeScript、单日星数2776、总星25157）佐证其热度。"
+        "what_happened": "Meta在GitHub上开源了一个名为Astryx的设计系统，该项目今日获得大量关注，新增1830颗星，总星数已达26629。",
+        "core_details": "Astryx是一个开源设计系统，使用TypeScript语言开发，强调完全可定制且为AI智能体（agent）做好准备。项目由Meta团队维护，主要贡献者包括github-actions、cixzhang、rubyycheung、josephfarina和vjeux。",
+        "ai_take": "该项目明确标注为‘agent ready’，表明其设计考虑了与AI智能体的集成与交互，可能旨在为AI驱动的应用或界面提供一套标准化的、可适配的设计组件和模式。",
+        "hype_check": "趋势热度较高（趋势分85.11），单日获星数可观，反映出开发者社区对来自Meta的开源设计系统，特别是其AI就绪特性，抱有浓厚兴趣和期待。",
+        "value_check": "作为Meta开源的设计系统，Astryx可能具备较高的工程质量和前瞻性设计。其‘完全可定制’和‘AI就绪’的定位，对于正在构建复杂、尤其是AI集成前端应用的团队具有实用价值，有望提升开发效率和一致性。",
+        "follow_up": "关注Astryx的后续版本更新、文档完善情况以及在真实AI应用项目中的采用案例。同时，可观察其与Meta其他AI工具或框架（如Llama系列）的生态整合动向。",
+        "evidence": "信息来源于GitHub趋势榜单，项目描述明确指出其为‘开源设计系统’、‘完全可定制’和‘为智能体做好准备’。项目数据（星数、语言、贡献者）均来自GitHub页面。"
+      },
+      {
+        "name": "Node.js",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Node.js项目在GitHub趋势榜上热度上升，单日新增62颗星，总星数达123,609，项目由Trott、ry、bnoordhuis、addaleax、isaacs等核心贡献者维护。",
+        "core_details": "Node.js是一个基于Chrome V8引擎的JavaScript运行时，用于构建高性能、可扩展的网络应用程序。项目当前总星数为123,609，单日新增62颗星，语言为JavaScript，在技术领域持续受到关注。",
+        "ai_take": "Node.js作为服务器端JavaScript运行时的基石，其生态对AI应用的后端开发、数据处理和实时服务部署具有重要支撑作用，稳定的社区活跃度反映了其在技术栈中的持久价值。",
+        "hype_check": "趋势热度合理，Node.js作为成熟开源项目，日常活跃度波动正常，单日新增62颗星属于稳定增长，未出现异常炒作迹象。",
+        "value_check": "高价值，Node.js是广泛使用的关键技术，拥有庞大的开发者社区和丰富的生态系统，对Web开发、云原生和AI基础设施具有长期实用意义。",
+        "follow_up": "关注Node.js版本更新对AI工具链的兼容性改进，以及其在边缘计算和实时AI服务中的新应用案例。",
+        "evidence": "GitHub趋势数据：单日新增62颗星，总星数123,609，项目描述为'Node.js JavaScript runtime'，核心贡献者列表明确，语言为JavaScript。"
       },
       {
         "name": "Sure",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为Sure的个人理财应用项目在GitHub上成为趋势，今日获得1078颗星，总星数达13031，由包括Claude在内的团队构建。",
-        "core_details": "Sure是一个用Ruby语言开发的开源个人理财应用，旨在为每个人服务，由社区共同构建。项目由we-promise组织维护，贡献者包括jjmata、dependabot、claude、zachgoll和Shpigford。",
-        "ai_take": "该项目展示了AI工具（如Claude作为贡献者）在开源软件开发中的参与，可能用于代码生成、自动化或协作，体现了AI在提升金融科技项目效率方面的潜力。",
-        "hype_check": "趋势得分81.8和今日高星数表明社区兴趣浓厚，但需注意这主要反映GitHub上的技术关注，而非实际产品成熟度或市场验证。",
-        "value_check": "作为开源项目，Sure提供了可访问的金融工具代码，可能降低个人理财应用开发门槛，但实际价值取决于其功能完整性、安全性和用户采用情况。",
-        "follow_up": "关注项目更新以评估其AI集成深度、社区活跃度及是否推出实际产品版本；同时观察类似开源金融项目的进展。",
-        "evidence": "GitHub仓库信息显示项目描述为“个人理财应用”，语言为Ruby，星数数据和贡献者列表证实其流行度和AI参与。"
+        "what_happened": "一个名为Sure的个人理财应用在GitHub上趋势飙升，今日获得967颗星，总星数达13976，由we-promise组织开发，主要使用Ruby语言。",
+        "core_details": "Sure被描述为“为每个人（由每个人打造）的个人理财应用”，项目贡献者包括jjmata、dependabot、claude、zachgoll和Shpigford，表明这是一个开源协作项目，可能涉及AI辅助开发（如claude）。",
+        "ai_take": "项目贡献者中包含“claude”，暗示可能使用了AI工具（如Anthropic的Claude）进行代码生成或自动化，体现了AI在开源软件开发中的辅助作用，但应用本身并非AI模型。",
+        "hype_check": "趋势得分高（81.95）和今日星数增长快，显示社区关注度显著，但需注意这主要反映开源兴趣，而非产品成熟度或市场验证。",
+        "value_check": "作为开源个人理财应用，它可能提供透明、可定制的财务管理方案，价值在于社区驱动开发和潜在的可访问性，但实际功能和使用体验需进一步评估。",
+        "follow_up": "可关注GitHub仓库的更新、问题讨论和版本发布，以了解功能进展和用户反馈；同时观察是否有相关产品发布或商业计划。",
+        "evidence": "基于GitHub趋势数据：标题“we-promise/sure”，语言Ruby，今日星数967，总星数13976，贡献者列表包含claude，描述为个人理财应用。"
       },
       {
-        "name": "TheAlgorithms/Java",
+        "name": "OpenAI Codex Security CLI & SDK",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "OpenAI在GitHub上开源了Codex Security项目，这是一个用于发现、验证和修复安全漏洞的CLI工具和TypeScript SDK。该项目今日获得643颗星，总星数达12485，在GitHub趋势榜上热度较高。",
+        "core_details": "该项目是一个基于TypeScript的安全工具，提供命令行界面和软件开发工具包，旨在自动化识别和修复代码中的安全漏洞。它已发布至npm包管理器，便于开发者集成使用。项目由OpenAI团队维护，主要贡献者包括mldangelo-oai等。",
+        "ai_take": "这体现了OpenAI将AI能力（如Codex）应用于实际工程安全领域，通过工具化降低开发中的安全风险。它可能利用AI辅助分析代码模式，但核心更偏向于传统静态分析工具的增强版。",
+        "hype_check": "热度主要来自OpenAI的品牌效应和开发者对安全工具的天然需求，但该项目并非突破性AI模型，而是实用型工具。高星数反映社区关注，但需观察实际采用率和效果。",
+        "value_check": "对开发者而言，若能有效提升代码安全性并简化流程，具有实用价值；但需与现有安全工具（如SonarQube、Snyk）竞争，且依赖OpenAI的持续维护。",
+        "follow_up": "关注npm下载量、用户反馈及是否集成到主流开发工作流中；同时观察OpenAI是否会扩展此类工具至其他编程语言或安全领域。",
+        "evidence": "GitHub仓库信息显示项目语言为TypeScript，今日获星643，总星12485；npm包地址已提供；项目由OpenAI官方团队维护。"
+      },
+      {
+        "name": "nvm-sh/nvm",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "TheAlgorithms/Java 项目在 GitHub 趋势榜上热度上升，今日新增 51 颗星，总星数达 67072。",
-        "core_details": "该项目是一个用 Java 语言实现所有算法的开源代码库，由 alxkm、dependabot、vil02、Hardvan、yanglbme 等多位贡献者共同构建。",
-        "ai_take": "该项目虽非直接涉及前沿 AI 模型，但作为高质量的算法实现集合，为 AI 开发者提供了可靠的基础数据结构与算法参考，尤其在机器学习、数据处理的底层优化中具有实用价值。",
-        "hype_check": "热度主要源于开源社区对经典算法实现的持续关注与学习需求，属于长期稳定的技术资源项目，而非短期炒作。",
-        "value_check": "项目具有较高的教育与实践价值，帮助开发者深入理解算法原理，并可直接用于工程实践，是 Java 生态中重要的学习与工具类资源。",
-        "follow_up": "可关注项目更新频率、社区活跃度（如 Issue 和 PR 数量），以及是否扩展到并行计算、AI 相关算法（如神经网络基础实现）等方向。",
-        "evidence": "GitHub 趋势数据：今日新增 51 星，总星数 67072，项目描述为“All Algorithms implemented in Java”，语言为 Java，贡献者列表明确。"
+        "what_happened": "Node Version Manager (nvm) 是一个 POSIX 兼容的 bash 脚本，用于管理多个活跃的 Node.js 版本，今日在 GitHub Trending 上获得关注。",
+        "core_details": "该项目是一个用 Shell 语言编写的工具，允许开发者在同一系统上安装、切换和管理多个 Node.js 版本。今日新增 63 颗星，总星数达 96024，由 ljharb、PeterDaveHello 等开发者维护。",
+        "ai_take": "nvm 作为开发工具，虽不直接涉及 AI 模型，但其版本管理能力对 AI/ML 项目（如基于 Node.js 的 TensorFlow.js 应用）的依赖环境配置至关重要，能确保开发与部署的一致性。",
+        "hype_check": "趋势热度主要源于其作为 Node.js 生态中成熟且广泛使用的工具，今日活跃度（新增星数）反映了开发者社区的持续关注，但非突发性技术突破。",
+        "value_check": "高总星数和长期维护表明其工具价值稳固，解决了 Node.js 版本碎片化痛点，对前端、后端及全栈开发具有实际效用，但功能范围限于版本管理，无直接商业变现。",
+        "follow_up": "可关注其与新兴 Node.js 框架（如 Next.js）或 AI 工具链（如 LangChain.js）的兼容性更新，以及是否集成更智能的版本推荐功能。",
+        "evidence": "GitHub 项目描述、语言（Shell）、星数数据（今日 63，总计 96024）及维护者列表，均指向其作为高效版本管理工具的定位。"
       },
       {
-        "name": "ha-mcp",
+        "name": "QwenLM/qwen-code",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为ha-mcp的GitHub项目今日获得645颗星，总星数达7421，该项目旨在通过Claude、ChatGPT等AI助手配置和自动化Home Assistant。",
-        "core_details": "ha-mcp是一个Python项目，由homeassistant-ai组织维护，允许用户集成AI助手（如Claude和ChatGPT）来控制和自动化Home Assistant智能家居系统。项目今日趋势显著，在GitHub上热度较高。",
-        "ai_take": "该项目展示了AI与物联网（IoT）的融合趋势，通过自然语言处理使智能家居控制更加直观和自动化，降低了用户的技术门槛。",
-        "hype_check": "热度较高，今日星数增长明显，总星数已超7000，表明社区对该集成方案有持续兴趣，但需注意其仍处于开发阶段，依赖第三方AI服务。",
-        "value_check": "实用价值突出，为Home Assistant用户提供了更灵活的自动化方式，尤其适合希望用AI增强家居体验的开发者或高级用户。",
-        "follow_up": "关注项目更新以了解对更多AI模型的支持，以及其稳定性和安全性改进。",
-        "evidence": "项目描述明确指出其用途为“Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants”，且GitHub数据（今日星数645，总星数7421，语言Python）支持其流行度。"
+        "source": "github-trending",
+        "what_happened": "QwenLM/qwen-code 是一个开源的 AI 编程助手项目，在 GitHub 上受到关注，今日获得 151 颗星，总星数已达 29853。",
+        "core_details": "该项目是一个基于 TypeScript 开发的开源 AI 编程代理，设计为在终端中运行，旨在辅助开发者进行编码工作。",
+        "ai_take": "该项目代表了 AI 与开发者工具深度集成的趋势，通过将 AI 助手嵌入终端工作流，可能提升编码效率与体验。",
+        "hype_check": "项目在 GitHub 上热度较高（趋势得分 79.53），总星数近 3 万，表明其在开发者社区中有一定关注度和实际使用基础。",
+        "value_check": "作为开源项目，它降低了开发者使用 AI 编码助手的门槛，并允许社区贡献改进，具有实用价值和生态建设潜力。",
+        "follow_up": "可关注其后续版本更新、社区活跃度（如 Issue 和 PR 数量）以及是否集成更强大的模型或扩展更多编程语言支持。",
+        "evidence": "项目描述为“一个生活在终端中的开源 AI 编程代理”，使用 TypeScript 开发，由 QwenLM 团队及贡献者维护，GitHub 数据支持其流行度。"
       },
       {
-        "name": "shadcn/improve",
+        "name": "modern-web-guidance-src",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为improve的开源项目在GitHub上趋势飙升，该项目旨在利用高性能AI模型审计代码库，并生成可由低成本模型执行的优化计划。",
-        "core_details": "该项目由shadcn等开发者构建，允许用户使用最强大的AI模型（如Claude）分析代码，识别改进点，并制定详细的执行计划，这些计划随后可由更经济的小型模型（如GPT-3.5 Turbo）来实施，从而在保证代码质量的同时降低AI使用成本。",
-        "ai_take": "该项目体现了AI在软件开发中的分层应用策略：用大模型进行复杂分析和规划，用小模型处理具体执行，这能显著优化资源分配，是AI工程化实践的一个创新方向。",
-        "hype_check": "项目在GitHub单日获361星，总星数达10978，讨论活跃（评论数448），显示开发者社区对AI辅助代码优化的高度关注，但实际效果需在具体代码库中验证。",
-        "value_check": "若方案可行，能帮助团队以更低成本实现代码质量提升，尤其适合资源有限的中小项目；但依赖大模型的初始审计可能仍有较高门槛。",
-        "follow_up": "关注项目后续的实践案例和集成工具链进展，以及是否支持更多AI模型和编程语言。",
-        "evidence": "项目描述明确指出“使用最强模型审计代码库，为更便宜模型编写执行计划”，GitHub趋势数据（日增星数、总星数、评论量）佐证其热度。"
+        "source": "github-trending",
+        "what_happened": "Google Chrome团队在GitHub上开源了一个名为'modern-web-guidance-src'的项目，旨在帮助开发者及其AI编码助手保持对最新Web最佳实践的了解。该项目今日获得739颗星，总星数达3148，使用TypeScript编写。",
+        "core_details": "该项目由Google Chrome团队维护，核心贡献者包括paulirish、rviscomi、micahjo7等。它是一个资源库，专注于整理和提供现代Web开发的最佳实践指南，主要面向开发者及其使用的AI编码代理（如GitHub Copilot等），以确保生成的代码符合当前标准。",
+        "ai_take": "该项目直接针对AI编码助手领域，旨在通过提供结构化、最新的Web开发知识，提升AI代理的代码生成质量和规范性。这反映了行业趋势：将领域专业知识（如Web最佳实践）系统化地集成到AI工具中，以减少过时或低效代码的输出。",
+        "hype_check": "趋势热度较高（趋势得分77.75），单日获星739，表明开发者社区对此类工具化指南有强烈兴趣。但需注意，这更多是工具性项目，而非突破性技术。",
+        "value_check": "对于依赖AI辅助编码的Web开发者，该项目提供了权威、持续更新的参考，能有效提升开发效率和代码质量。其价值在于将Chrome团队的实践知识产品化、可操作化。",
+        "follow_up": "关注该项目在GitHub上的更新频率及社区采纳情况；观察是否会有其他浏览器厂商或大型框架推出类似项目；评估其指南在实际AI编码工具（如Copilot、Cursor）中的集成效果。",
+        "evidence": "项目描述明确指出'Keep your coding agent up to date with the latest web best practices'；由GoogleChrome官方账号发布；使用TypeScript编写；在GitHub Trending榜单上获得高关注度（今日星数739，总星数3148）。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
         "item_name": "addyosmani/agent-skills",
-        "content_summary": "该项目旨在为AI编码智能体提供生产级的工程技能，使用JavaScript语言开发。它获得了大量关注，今日新增787颗星，总星数已达116,008。",
-        "ai_comment": "该项目聚焦于提升AI代理的工程实践能力，是AI辅助开发工具链中的重要组成部分，反映了业界对AI编码助手专业化和生产就绪性的需求。"
+        "content_summary": "该项目名为“agent-skills”，旨在为AI编码智能体提供生产级的工程技能。它是一个JavaScript项目，今日获得816颗星，总星数已达116,718。",
+        "ai_comment": "该项目专注于提升AI智能体的实际工程能力，是AI辅助开发工具领域的重要资源。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "vercel-labs/agent-browser",
-        "content_summary": "这是一个为AI智能体设计的浏览器自动化命令行工具，使用Rust语言编写。项目热度很高，今日新增708颗星，总星数达到49,932。",
-        "ai_comment": "该项目将AI代理能力与浏览器自动化相结合，为构建能够自主操作网页的智能体提供了基础设施，是AI在自动化测试、数据抓取等领域应用的关键工具。"
+        "item_name": "meta/astryx",
+        "content_summary": "Astryx是Meta开源的一个设计系统，特点是完全可定制且为智能体（agent）使用做好了准备。它是一个TypeScript项目，今日获得1,830颗星，总星数为26,629。",
+        "ai_comment": "由Meta推出的开源设计系统，强调了对AI智能体的兼容性，可能预示着未来UI/UX设计与AI工作流更深度的整合。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "ZhuLinsen/daily_stock_analysis",
-        "content_summary": "这是一个由大语言模型驱动的多市场股票智能分析系统，支持多源行情数据、实时新闻、决策看板和自动推送，并声称支持零成本定时运行。项目使用Python开发，今日新增278颗星，总星数70,374。",
-        "ai_comment": "该项目展示了LLM在金融量化分析领域的应用潜力，通过整合多源数据和自动化流程，旨在降低个人投资者的分析门槛，是AI+金融的典型实践。"
+        "item_name": "nodejs/node",
+        "content_summary": "这是Node.js JavaScript运行时的官方仓库。它是一个JavaScript项目，今日获得62颗星，总星数高达123,609。",
+        "ai_comment": "作为基础运行时环境，Node.js的持续活跃是众多AI和Web应用开发的基石。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Lessons from 59 Linux Kernel Bug Reports",
-        "content_summary": "微软FORGE实验室使用代号为MDASH的AI扫描工具，在三个月内对Linux内核子系统进行了漏洞研究。该研究由一名全职研究员和一名实习生主导，从26,502个原始发现中，最终产生了59个公开的上游报告、33个分配的CVE（其中8个被确认存在可工作的root权限提升漏洞），以及38个已合并的修复补丁。文章总结了将海量AI扫描结果转化为可验证漏洞和上游修复的经验。",
-        "ai_comment": "这项研究凸显了AI在规模化漏洞挖掘中的巨大潜力，同时也揭示了从AI输出到实际可修复漏洞之间需要大量专家分析和社区协作的复杂过程，是AI赋能软件安全领域的典型案例。"
+        "item_name": "Nvidia employees petition to bring back Jensen Huang",
+        "content_summary": "据WIRED报道，英伟达内部有员工发起请愿，呼吁董事会考虑员工情绪并让前CEO黄仁勋回归。一份由资深工程师在内部“建议箱”提交的帖子已获得超过1600条评论，多数评论支持让黄仁勋复职。报道提及了黄仁勋此前因婚外情报道而突然辞职的背景。",
+        "ai_comment": "此事反映了英伟达内部可能存在的领导层动荡与员工对公司未来方向的关切，在AI芯片行业竞争激烈的背景下尤为引人关注。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Memory safety bugs in Rust std/core",
-        "content_summary": "微软FORGE实验室在Rust标准库（std和core）中发现了多个内存安全问题，其中一些案例表明，即使完全用安全Rust编写的代码也可能触发未定义行为。研究使用了AI驱动的漏洞扫描系统Hyenas（MDASH的前沿研究版本）。发现揭示了不安全代码中三种反复出现的“错误信任”模式。文章指出，Rust的安全模型虽然不完美，但其丰富的类型系统和所有权模型仍然至关重要。",
-        "ai_comment": "该发现挑战了‘安全Rust代码绝对安全’的普遍印象，揭示了底层不安全代码的漏洞会波及上层安全API。这强调了即使在使用内存安全语言时，对核心库进行严格审计和形式化验证的必要性。"
+        "item_name": "Agent harness for learning difficult things",
+        "content_summary": "LearnHarness是一个利用AI智能体来规划和教授课程的工具，它从用户当前的理解水平出发，帮助用户达成学习目标。该工具通过构建并持续更新用户的知识图谱来描绘其理解与推理过程，并根据用户的答案和思考（可通过打字或口述输入）动态决定下一步的教学内容，强调循序渐进的理解构建和练习。",
+        "ai_comment": "该项目代表了AI在教育领域的应用前沿，通过个性化的知识图谱和交互式教学，旨在实现更高效、深入的自主学习。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Knotless.dev is now in the app store, manage your repos in your pocket",
-        "content_summary": "应用knotless.dev现已上架苹果App Store。该应用允许用户在移动设备上管理代码仓库，支持主题同步。其核心特点是基于AT协议（ATProto），用户的仓库存储在自己的个人数据服务器上，而非传统的Git服务器，被描述为“运行在AT协议上的GitHub”。",
-        "ai_comment": "该项目代表了去中心化版本控制和社交网络（Bluesky所基于的AT协议）与开发者工具的结合尝试，探索在移动端和个人数据主权下的代码托管新范式。"
+        "item_name": "NYC Council passes ban on 'surveillance pricing'",
+        "content_summary": "纽约市议会通过了一项法案，禁止企业使用“监控定价”，即基于算法或消费者个人数据（如人口统计、信用、浏览或购买历史）来设定不同价格的做法。该禁令适用于线上和线下，但主要针对网络行为。Hacker News评论中有人质疑此举是否会影响到Uber等公司基于用户资料、手机型号、电量、账户历史等进行动态定价的行为，并指出纽约州已于今年6月通过了类似禁令。",
+        "ai_comment": "这是对算法歧视和隐私侵犯的重要立法回应，可能对依赖个性化定价的科技和电商商业模式产生深远影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Dangerous search for survivors continues after deadly building collapse in Brooklyn - CNN",
-        "content_summary": "美国纽约市布鲁克林区弗拉特布什发生建筑倒塌事故。根据CNN及多家媒体汇总的持续报道，事故已造成人员伤亡，搜救幸存者的危险工作仍在进行中。相关报道标题显示死亡人数从1人更新至2人，受伤人数超过19人，其中包括7名儿童，现场情况被描述为“不稳定”。",
-        "ai_comment": "这是一起突发社会安全事故，多家主流媒体持续跟进，反映了事件的严重性和公众关注度。AI在信息聚合和实时事件跟踪方面能快速整合多信源报道。"
+        "item_name": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
+        "content_summary": "美国参议院银行委员会主席蒂姆·斯科特传唤英伟达前CEO黄仁勋和Cantor Fitzgerald CEO霍华德·卢特尼克就英伟达相关事件到国会作证。多家媒体报道了此事，相关报道标题还包括“黄仁勋和卢特尼克被传唤至国会作证”、“美国参议院银行委员会主席呼吁黄仁勋、卢特尼克作证”等。",
+        "ai_comment": "这表明英伟达的公司治理及可能涉及的对华芯片出口等议题已引发美国国会层面的正式调查，将科技商业与地缘政治紧密联系起来。"
       },
       {
         "source_group": "news",
-        "item_name": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier - The New York Times",
-        "content_summary": "《纽约时报》报道，一名士兵在无名烈士墓前向人物Hegseth（推测为公众人物或访客）喊话，要求其表现出“尊重”。Google News聚合了此事件的报道。",
-        "ai_comment": "该新闻涉及军事礼仪、公众人物行为与公共场合的尊重议题，属于社会文化类报道。AI在新闻摘要中识别了核心冲突点（士兵喊话要求尊重）。"
+        "item_name": "Brooklyn building collapse in Flatbush live updates: 8 victims identified, including 2 kids - ABC7 New York",
+        "content_summary": "纽约布鲁克林弗拉特布什区发生建筑倒塌事故。最新消息确认8名遇难者身份，其中包括2名儿童。纽约消防局已结束幸存者搜救工作。相关报道回顾了救援行动，并反映了邻居们的悲痛与疑问。",
+        "ai_comment": "这是一起悲惨的突发安全事故，引发了公众对建筑安全标准的关注。"
       },
       {
         "source_group": "news",
-        "item_name": "How Trump maneuvered to the brink of building his 250-foot triumphal arch - The Washington Post",
-        "content_summary": "《华盛顿邮报》报道，美国前总统特朗普推动建造一座250英尺高（约76米）的“凯旋门”式建筑已接近实现边缘。相关报道提及特朗普访问阿灵顿国家公墓，而其提议的拱门建筑正面临越来越多的反对声音，肯尼迪家族也加入了阻止建设的努力。有报道称特朗普表示该高塔可能献给退伍军人，但也有专家认为其武装该建筑的想法构成威胁。",
-        "ai_comment": "这是一则高度政治化和象征意义浓厚的新闻，涉及政治遗产、国家纪念建筑争议和公众舆论。AI摘要成功提取了事件核心（建拱门）、进展（接近实施）以及多方反应（反对、献议、威胁论）等多维度信息。"
+        "item_name": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News",
+        "content_summary": "美国参议员克里斯·范·霍伦宣布将挑战现任参议院多数党领袖查克·舒默的职位。多家媒体报道了范·霍伦发起挑战的消息，并将其描述为民主党进步派的新宠儿。相关报道也探讨了范·霍伦的个人背景以及舒默试图平息党内挑战的努力。",
+        "ai_comment": "这标志着美国民主党内部领导层可能面临变动，反映了党内不同派系之间的动态。"
       }
     ],
-    "closing_note": "整体来看，开发者社区正积极推动AI从通用能力向专业化、工程化落地迈进。基础设施的完善与垂直场景的深耕并行，但项目的长期价值仍需在实际应用与生态构建中检验。请持续关注这些热门项目的版本更新与社区反馈。",
+    "closing_note": "今日动态显示，AI在软件工程领域的应用正从辅助代码生成，向涵盖安全、设计、工程实践等全生命周期的标准化、工具化方向深入。巨头与开源社区齐头并进，通过构建技能库、设计系统、安全工具和最新实践指南，系统性提升AI代理的可靠性与实用性。这标志着AI辅助开发正从实验探索加速走向成熟、可集成的生产级基础设施。关注这些项目的后续集成案例与社区采纳，将有助于把握AI赋能实际开发效率的关键脉络。",
     "_errors": []
   }
 }
