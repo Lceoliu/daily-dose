@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:58:23.156145+00:00",
+  "generated_at": "2026-11-15T01:30:21.354741+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,80 +11,15 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "openai/codex-security",
-        "url": "https://github.com/openai/codex-security",
-        "author": "openai",
-        "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "TypeScript",
-        "score": 751,
-        "comment_count": 1024,
-        "total_stars": 13155,
-        "built_by": [
-          "mldangelo-oai",
-          "codex",
-          "dependabot",
-          "ianw-oai",
-          "kmbroai"
-        ],
-        "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 751\n\nTotal stars: 13155\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
-        "trend_score": 88.38,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.85,
-          "topic_overlap": 0.333,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "ZhuLinsen/daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "author": "ZhuLinsen",
-        "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "Python",
-        "score": 256,
-        "comment_count": 57300,
-        "total_stars": 71651,
-        "built_by": [
-          "ZhuLinsen",
-          "massif-01",
-          "freesme",
-          "Activer007",
-          "birdxs"
-        ],
-        "content_context": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\nLanguage: Python\n\nStars today: 256\n\nTotal stars: 71651\n\nBuilt by: ZhuLinsen, massif-01, freesme, Activer007, birdxs",
-        "trend_score": 86.84,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 1.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "finance",
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
         "title": "alibaba/open-code-review",
         "url": "https://github.com/alibaba/open-code-review",
         "author": "alibaba",
         "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
         "language": "Go",
-        "score": 215,
-        "comment_count": 3771,
-        "total_stars": 50657,
+        "score": 893,
+        "comment_count": 3909,
+        "total_stars": 51455,
         "built_by": [
           "lizhengfeng101",
           "wu21-web",
@@ -92,44 +27,12 @@
           "Qiyuanqiii",
           "stay-foolish-forever"
         ],
-        "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 215\n\nTotal stars: 50657\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
-        "trend_score": 86.03,
+        "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 893\n\nTotal stars: 51455\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
+        "trend_score": 92.26,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.836,
+          "engagement": 1.0,
           "topic_overlap": 0.25,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "we-promise/sure",
-        "url": "https://github.com/we-promise/sure",
-        "author": "we-promise",
-        "summary": "The personal finance app for everyone (by everyone)",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "Ruby",
-        "score": 925,
-        "comment_count": 1121,
-        "total_stars": 14775,
-        "built_by": [
-          "jjmata",
-          "dependabot",
-          "claude",
-          "zachgoll",
-          "Shpigford"
-        ],
-        "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 925\n\nTotal stars: 14775\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
-        "trend_score": 81.89,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.87,
-          "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -144,11 +47,11 @@
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
         "author": "GoogleChrome",
         "summary": "Keep your coding agent up to date with the latest web best practices",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
         "language": "TypeScript",
-        "score": 1925,
-        "comment_count": 272,
-        "total_stars": 4902,
+        "score": 1231,
+        "comment_count": 407,
+        "total_stars": 6080,
         "built_by": [
           "paulirish",
           "rviscomi",
@@ -156,12 +59,12 @@
           "github-actions",
           "LeaVerou"
         ],
-        "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 1925\n\nTotal stars: 4902\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
-        "trend_score": 80.83,
+        "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 1231\n\nTotal stars: 6080\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
+        "trend_score": 86.97,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.842,
-          "topic_overlap": 0.0,
+          "engagement": 0.889,
+          "topic_overlap": 0.2,
           "source_weight": 0.92,
           "domain_weight": 1.18
         },
@@ -172,123 +75,123 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "louislam/uptime-kuma",
-        "url": "https://github.com/louislam/uptime-kuma",
-        "author": "louislam",
-        "summary": "A fancy self-hosted monitoring tool",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "JavaScript",
-        "score": 71,
-        "comment_count": 8724,
-        "total_stars": 93876,
-        "built_by": [
-          "louislam",
-          "CommanderStorm",
-          "chakflying",
-          "Saibamen",
-          "Computroniks"
-        ],
-        "content_context": "A fancy self-hosted monitoring tool\n\nLanguage: JavaScript\n\nStars today: 71\n\nTotal stars: 93876\n\nBuilt by: louislam, CommanderStorm, chakflying, Saibamen, Computroniks",
-        "trend_score": 79.46,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.806,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "block/buzz",
-        "url": "https://github.com/block/buzz",
-        "author": "block",
-        "summary": "A hive mind communication platform",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "Rust",
-        "score": 97,
-        "comment_count": 4942,
-        "total_stars": 37308,
-        "built_by": [
-          "wesbillman",
-          "wpfleger96",
-          "claude",
-          "tlongwell-block",
-          "klopez4212"
-        ],
-        "content_context": "A hive mind communication platform\n\nLanguage: Rust\n\nStars today: 97\n\nTotal stars: 37308\n\nBuilt by: wesbillman, wpfleger96, claude, tlongwell-block, klopez4212",
-        "trend_score": 79.07,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.796,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "tailscale/tailcat",
-        "url": "https://github.com/tailscale/tailcat",
-        "author": "tailscale",
-        "summary": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
-        "language": "Go",
-        "score": 256,
-        "comment_count": 432,
-        "total_stars": 9476,
-        "built_by": [
-          "bradfitz",
-          "danderson",
-          "andrew-d",
-          "raggi",
-          "jwhited"
-        ],
-        "content_context": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\n\nLanguage: Go\n\nStars today: 256\n\nTotal stars: 9476\n\nBuilt by: bradfitz, danderson, andrew-d, raggi, jwhited",
-        "trend_score": 76.46,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.727,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "backnotprop/plannotator",
-        "url": "https://github.com/backnotprop/plannotator",
-        "author": "backnotprop",
-        "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "author": "ChromeDevTools",
+        "summary": "Chrome DevTools for coding agents",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
         "language": "TypeScript",
-        "score": 108,
-        "comment_count": 787,
-        "total_stars": 10479,
+        "score": 664,
+        "comment_count": 4759,
+        "total_stars": 56324,
         "built_by": [
-          "backnotprop",
-          "claude",
-          "utpalsinghdev",
-          "leoreisdias",
-          "uvw"
+          "OrKoN",
+          "dependabot",
+          "Lightning00Blade",
+          "browser-automation-bot",
+          "yulunz"
         ],
-        "content_context": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\nLanguage: TypeScript\n\nStars today: 108\n\nTotal stars: 10479\n\nBuilt by: backnotprop, claude, utpalsinghdev, leoreisdias, uvw",
-        "trend_score": 75.46,
+        "content_context": "Chrome DevTools for coding agents\n\nLanguage: TypeScript\n\nStars today: 664\n\nTotal stars: 56324\n\nBuilt by: OrKoN, dependabot, Lightning00Blade, browser-automation-bot, yulunz",
+        "trend_score": 86.44,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.701,
+          "engagement": 0.99,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "QwenLM/qwen-code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "author": "QwenLM",
+        "summary": "An open-source AI coding agent that lives in your terminal.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "TypeScript",
+        "score": 64,
+        "comment_count": 3502,
+        "total_stars": 30358,
+        "built_by": [
+          "wenshao",
+          "qwencoder",
+          "yiliang114",
+          "tanzhenxin",
+          "qwen-code-dev-bot"
+        ],
+        "content_context": "An open-source AI coding agent that lives in your terminal.\n\nLanguage: TypeScript\n\nStars today: 64\n\nTotal stars: 30358\n\nBuilt by: wenshao, qwencoder, yiliang114, tanzhenxin, qwen-code-dev-bot",
+        "trend_score": 86.4,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.798,
+          "topic_overlap": 0.333,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "JuliusBrussee/caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "author": "JuliusBrussee",
+        "summary": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "Go",
+        "score": 227,
+        "comment_count": 7001,
+        "total_stars": 120089,
+        "built_by": [
+          "JuliusBrussee",
+          "claude",
+          "github-actions",
+          "nikpushkarski",
+          "AmirF194"
+        ],
+        "content_context": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\nLanguage: Go\n\nStars today: 227\n\nTotal stars: 120089\n\nBuilt by: JuliusBrussee, claude, github-actions, nikpushkarski, AmirF194",
+        "trend_score": 84.29,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.933,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "dream-num/univer",
+        "url": "https://github.com/dream-num/univer",
+        "author": "dream-num",
+        "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "TypeScript",
+        "score": 495,
+        "comment_count": 2227,
+        "total_stars": 24512,
+        "built_by": [
+          "jikkai",
+          "DR-Univer",
+          "wpxp123456",
+          "wzhudev",
+          "Dushusir"
+        ],
+        "content_context": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\nLanguage: TypeScript\n\nStars today: 495\n\nTotal stars: 24512\n\nBuilt by: jikkai, DR-Univer, wpxp123456, wzhudev, Dushusir",
+        "trend_score": 83.89,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.923,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -304,11 +207,11 @@
         "url": "https://github.com/tradermonty/claude-trading-skills",
         "author": "tradermonty",
         "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "published_at": "2026-11-14T01:58:01.952796+00:00",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
         "language": "Python",
-        "score": 69,
-        "comment_count": 870,
-        "total_stars": 4195,
+        "score": 553,
+        "comment_count": 994,
+        "total_stars": 4837,
         "built_by": [
           "claude",
           "tradermonty",
@@ -316,11 +219,107 @@
           "raikkonenPotter",
           "wolframarnold"
         ],
-        "content_context": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\nLanguage: Python\n\nStars today: 69\n\nTotal stars: 4195\n\nBuilt by: claude, tradermonty, dependabot, raikkonenPotter, wolframarnold",
-        "trend_score": 74.49,
+        "content_context": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\nLanguage: Python\n\nStars today: 553\n\nTotal stars: 4837\n\nBuilt by: claude, tradermonty, dependabot, raikkonenPotter, wolframarnold",
+        "trend_score": 82.38,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.675,
+          "engagement": 0.883,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "author": "backnotprop",
+        "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "TypeScript",
+        "score": 408,
+        "comment_count": 925,
+        "total_stars": 11150,
+        "built_by": [
+          "backnotprop",
+          "claude",
+          "utpalsinghdev",
+          "leoreisdias",
+          "uvw"
+        ],
+        "content_context": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\nLanguage: TypeScript\n\nStars today: 408\n\nTotal stars: 11150\n\nBuilt by: backnotprop, claude, utpalsinghdev, leoreisdias, uvw",
+        "trend_score": 81.36,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.856,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ashhart/TensorFold",
+        "url": "https://github.com/ashhart/TensorFold",
+        "author": "ashhart",
+        "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "Zig",
+        "score": 37,
+        "comment_count": 498,
+        "total_stars": 2167,
+        "built_by": [
+          "ashhart",
+          "jschmied",
+          "BobClawblaw",
+          "laudney",
+          "BlivionIaG"
+        ],
+        "content_context": "LLM Inference Engine for Metal, CUDA and Vulkan.\n\nLanguage: Zig\n\nStars today: 37\n\nTotal stars: 2167\n\nBuilt by: ashhart, jschmied, BobClawblaw, laudney, BlivionIaG",
+        "trend_score": 73.22,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.642,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "ag-ui-protocol/ag-ui",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "author": "ag-ui-protocol",
+        "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "published_at": "2026-11-15T01:30:00.130148+00:00",
+        "language": "TypeScript",
+        "score": 9,
+        "comment_count": 1667,
+        "total_stars": 17381,
+        "built_by": [
+          "ranst91",
+          "contextablemark",
+          "mme",
+          "claude",
+          "jpr5"
+        ],
+        "content_context": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\nLanguage: TypeScript\n\nStars today: 9\n\nTotal stars: 17381\n\nBuilt by: ranst91, contextablemark, mme, claude, jpr5",
+        "trend_score": 72.18,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.614,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -335,164 +334,22 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "GigChain Keys – a free, open-source MainStage alternative",
-        "url": "https://github.com/xDarkzx/GigChain-Keys",
-        "author": "DanHodgetts",
+        "title": "US aviation shutdown blamed on L3 Harris installed router",
+        "url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/",
+        "author": "christhecaribou",
         "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-14T01:47:30+00:00",
-        "summary": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...",
+        "comment_count": 1,
+        "published_at": "2026-11-15T01:18:45+00:00",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here.",
         "comment_highlights": [
-          "[flagged]"
+          "<a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here."
         ],
-        "linked_context": {
-          "resolved_url": "https://github.com/xDarkzx/GigChain-Keys",
-          "page_title": "GitHub - xDarkzx/GigChain-Keys: Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS and Linux.",
-          "page_description": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...",
-          "page_excerpt": "Download · Getting started · User guide · Get help · What's new · Discord · ♥ Sponsor\n\nGigChain Keys is a live-performance host for keyboard players, in the spirit of MainStage and Gig Performer. It plays the VST3 and VST2 instruments and effects already on your computer, keeps every song of the night in a setlist with its own sounds, shows each song's chords and lyrics big enough to read from the keys, and turns those chords into notes falling onto a keyboard so you can practise...\n\nIt is free , with no adverts, no licence keys and no nag screens. It is open source too, under the GPL."
-        },
-        "content_context": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...\n\nDownload · Getting started · User guide · Get help · What's new · Discord · ♥ Sponsor GigChain Keys is a live-performance host for keyboard players, in the spirit of MainStage and Gig Performer. It plays the VST3 and VST2 instruments and effects already on your computer, keeps every song of the night in a setlist with its own sounds, shows each song's chords and lyrics big enough to read from the keys, and turns those chords into notes falling onto a keyboard so you can practise... It is free , with no adverts, no licence keys and no nag screens. It is open source too, under the GPL.\n\nHN comment: [flagged]",
-        "trend_score": 62.42,
+        "linked_context": {},
+        "content_context": "HN comment: <a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here.",
+        "trend_score": 50.22,
         "trend_breakdown": {
           "freshness": 0.992,
-          "engagement": 0.077,
-          "topic_overlap": 0.571,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "FAA lifted National Ground Stop at 0119Z",
-        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-        "author": "d3nit",
-        "score": 54,
-        "comment_count": 15,
-        "published_at": "2026-11-14T01:30:01+00:00",
-        "summary": "FAA - Advisories Database",
-        "comment_highlights": [
-          "The reason field is empty, but the website footer provides enough information to understand.",
-          "Do we have any indication of what went wrong? The incident report will be very interesting.",
-          "ATCSCC Advisory ATCSCC ADVZY 005 DCC 11/14/2026 CNX NATIONWIDE GROUND STOP MESSAGE:<p>EVENT TIME: 14/0116 - 14/0130 DESTINATION AIRPORT:ALL FACILITIES INCLUDED: ALL EXPECT UPDATE:0400Z REASON: REMARKS: THE FAA COMMAND CENTER NATIONWIDE GROUND STOP HAS BEEN CANCELLED. EFFECTIVE TIME:<p>140119-1402..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-          "page_title": "ATCSCC Advisory",
-          "page_description": "FAA - Advisories Database",
-          "page_excerpt": "FAA.gov Home | Privacy Policy | Web Policies & Notices | Contact Us\n\nReaders & Viewers: PDF Reader | MS Word Viewer | MS PowerPoint Viewer | MS Excel Viewer | WinZip"
-        },
-        "content_context": "FAA - Advisories Database\n\nFAA.gov Home | Privacy Policy | Web Policies & Notices | Contact Us Readers & Viewers: PDF Reader | MS Word Viewer | MS PowerPoint Viewer | MS Excel Viewer | WinZip\n\nHN comment: The reason field is empty, but the website footer provides enough information to understand.\n\nHN comment: Do we have any indication of what went wrong? The incident report will be very interesting.\n\nHN comment: ATCSCC Advisory ATCSCC ADVZY 005 DCC 11/14/2026 CNX NATIONWIDE GROUND STOP MESSAGE:<p>EVENT TIME: 14/0116 - 14/0130 DESTINATION AIRPORT:ALL FACILITIES INCLUDED: ALL EXPECT UPDATE:0400Z REASON: REMARKS: THE FAA COMMAND CENTER NATIONWIDE GROUND STOP HAS BEEN CANCELLED. EFFECTIVE TIME:<p>140119-1402...",
-        "trend_score": 62.4,
-        "trend_breakdown": {
-          "freshness": 0.98,
-          "engagement": 0.435,
-          "topic_overlap": 0.5,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Open-source ChatGPT Enterprise alternative, built on the Codex runtime",
-        "url": "https://github.com/LingX-AI/LinkSense",
-        "author": "snasan",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-14T01:25:10+00:00",
-        "summary": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense",
-        "comment_highlights": [
-          "[dead]"
-        ],
-        "linked_context": {
-          "resolved_url": "https://github.com/LingX-AI/LinkSense",
-          "page_title": "GitHub - LingX-AI/LinkSense: The open-source alternative to WorkBuddy / ChatGPT Enterprise.",
-          "page_description": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense",
-          "page_excerpt": "⭐ Help more people find LinkSense and grow the community. Star this repo!\n\nLinkSense gives organizations one governed place to run agent tasks, share reusable Knowledge, Skills, Plugins, and Applications, and connect business systems without handing members the underlying credentials. Deploy it on your servers or private cloud, choose hosted or compatible local models, and keep task data and files on your own infrastructure.\n\nLinkSense supports Linux and macOS hosts with Docker. A Core evaluation needs at least 4 vCPU, 8 GiB of memory available to Docker, and 60 GiB of free SSD. Full adds built-in document parsing, indexing, and retrieval and needs more capacity."
-        },
-        "content_context": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense\n\n⭐ Help more people find LinkSense and grow the community. Star this repo! LinkSense gives organizations one governed place to run agent tasks, share reusable Knowledge, Skills, Plugins, and Applications, and connect business systems without handing members the underlying credentials. Deploy it on your servers or private cloud, choose hosted or compatible local models, and keep task data and files on your own infrastructure. LinkSense supports Linux and macOS hosts with Docker. A Core evaluation needs at least 4 vCPU, 8 GiB of memory available to Docker, and 60 GiB of free SSD. Full adds built-in document parsing, indexing, and retrieval and needs more capacity.\n\nHN comment: [dead]",
-        "trend_score": 59.11,
-        "trend_breakdown": {
-          "freshness": 0.977,
-          "engagement": 0.048,
-          "topic_overlap": 0.5,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "FAA lifts ground stop at U.S. airports",
-        "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
-        "author": "lisper",
-        "score": 3,
-        "comment_count": 0,
-        "published_at": "2026-11-14T01:47:12+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 54.04,
-        "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.097,
-          "topic_overlap": 0.6,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Making Software – Quantum Computing",
-        "url": "https://www.makingsoftware.com/chapters/quantum-computing",
-        "author": "Brajeshwar",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-14T01:38:05+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 49.97,
-        "trend_breakdown": {
-          "freshness": 0.986,
-          "engagement": 0.077,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "AI has become a utility bill for Gen Z",
-        "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
-        "author": "geox",
-        "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-14T01:23:14+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 47.8,
-        "trend_breakdown": {
-          "freshness": 0.976,
-          "engagement": 0.077,
+          "engagement": 0.123,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.14
@@ -504,108 +361,243 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "SSH Keys in the Secure Enclave, Without an Agent",
-        "url": "https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent",
-        "author": "moonlighter",
-        "score": 2,
-        "comment_count": 1,
-        "published_at": "2026-11-14T01:43:43+00:00",
-        "summary": "How a Mac app that speaks SSH itself can sign in with a key that never leaves the Secure Enclave - the CryptoKit and swift-nio-ssh code, the design decisions, and the bugs I ran into on the way.",
-        "comment_highlights": [
-          "Author here; figured this might be interesting to some HN folks. - Thomas."
-        ],
-        "linked_context": {
-          "resolved_url": "https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent",
-          "page_title": "SSH Keys in the Secure Enclave, Without an Agent",
-          "page_description": "How a Mac app that speaks SSH itself can sign in with a key that never leaves the Secure Enclave - the CryptoKit and swift-nio-ssh code, the design decisions, and the bugs I ran into on the way.",
-          "page_excerpt": "$ cat secure-enclave-ssh-keys-without-an-agent.md grep '^#' secure-enclave-ssh-keys-without-an-agent.md\n\nA key that lives in your Mac’s Secure Enclave can’t be copied, period. The private half gets created inside a separate little processor and never comes out again, not to the app, not to macOS, and not even to you (which is exactly the point). That makes it just about the best place there is for an SSH key, and also the most annoying one to actually use, because OpenSSH wants to read a key befor...\n\nSo most people go the agent route. Tools like Secretive keep the key in the Secure Enclave and run an ssh-agent that OpenSSH asks for signatures, and if you live in Terminal all day, that works really well."
-        },
-        "content_context": "How a Mac app that speaks SSH itself can sign in with a key that never leaves the Secure Enclave - the CryptoKit and swift-nio-ssh code, the design decisions, and the bugs I ran into on the way.\n\n$ cat secure-enclave-ssh-keys-without-an-agent.md grep '^#' secure-enclave-ssh-keys-without-an-agent.md A key that lives in your Mac’s Secure Enclave can’t be copied, period. The private half gets created inside a separate little processor and never comes out again, not to the app, not to macOS, and not even to you (which is exactly the point). That makes it just about the best place there is for an SSH key, and also the most annoying one to actually use, because OpenSSH wants to read a key befor... So most people go the agent route. Tools like Secretive keep the key in the Secure Enclave and run an ssh-agent that OpenSSH asks for signatures, and if you live in Terminal all day, that works really well.\n\nHN comment: Author here; figured this might be interesting to some HN folks. - Thomas.",
-        "trend_score": 46.73,
-        "trend_breakdown": {
-          "freshness": 0.99,
-          "engagement": 0.115,
-          "topic_overlap": 0.167,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Tiny London quant fund emerges as one of the UK's biggest corporate taxpayers",
-        "url": "https://www.ft.com/content/8e394812-5940-4187-8cbf-6cd597fb314c",
-        "author": "throwaway2037",
-        "score": 3,
-        "comment_count": 1,
-        "published_at": "2026-11-14T01:33:20+00:00",
-        "summary": "Move over Jane Street.<p><pre><code> > generated $8.7bn in trading profits in the year > Quadrature employs just 246 people</code></pre>",
-        "comment_highlights": [
-          "Move over Jane Street.<p><pre><code> > generated $8.7bn in trading profits in the year > Quadrature employs just 246 people</code></pre>"
-        ],
-        "linked_context": {},
-        "content_context": "HN comment: Move over Jane Street.<p><pre><code> > generated $8.7bn in trading profits in the year > Quadrature employs just 246 people</code></pre>",
-        "trend_score": 44.07,
-        "trend_breakdown": {
-          "freshness": 0.983,
-          "engagement": 0.136,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "A proof of the Aaronson‑Ambainis conjecture",
-        "url": "https://psi.inc/research/aaronson-ambainis/",
-        "author": "vismit2000",
+        "title": "Nozzle: A streaming library that emits when possible and buffers where necessary",
+        "url": "https://github.com/Robert-Cunningham/nozzle",
+        "author": "robertvc",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-14T01:54:45+00:00",
-        "summary": "A proof of the Aaronson-Ambainis conjecture about quantum speedups on random inputs, with a complete formalization in Lean.",
+        "published_at": "2026-11-15T01:13:52+00:00",
+        "summary": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://psi.inc/research/aaronson-ambainis/",
-          "page_title": "A proof of the Aaronson-Ambainis conjecture",
-          "page_description": "A proof of the Aaronson-Ambainis conjecture about quantum speedups on random inputs, with a complete formalization in Lean.",
-          "page_excerpt": "Open since 2008, the conjecture of Scott Aaronson and Andris Ambainis concerns when quantum computers can be exponentially faster than ordinary ones. Now, a research system developed internally at Physical Superintelligence (PSI), running a non-public Anthropic model, found a proof for it, settling one of the most fundamental questions in quantum computing.\n\nIn 1994, Peter Shor found a quantum algorithm that factors large numbers far faster than any known method for ordinary computers [ 1 ]. It works because the problem hides a repeating pattern, and the quantum computer finds how often it repeats. Like most dramatic quantum speedups known, Shorâs algorithm relies on structure: a promise that the input has a rare pattern.\n\nWhether quantum computers can be exponentially faster on random inputs, which almost never have such structure, was unknown. Aaronson and Ambainis found a way to settle this question using pure mathematics. They stated a conjecture about polynomials and showed t..."
+          "resolved_url": "https://github.com/Robert-Cunningham/nozzle",
+          "page_title": "GitHub - Robert-Cunningham/nozzle: Nozzle is a text streaming library that emits when possible and buffers where necessary.",
+          "page_description": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle",
+          "page_excerpt": "A text streaming library that emits when possible and buffers where necessary.\n\nNozzle is a small TypeScript library for handling text streamed from LLMs. Its functions buffer only where necessary and otherwise emit chunks as soon as possible. For example, regexes buffer a potential match only until it's confirmed or rejected, and emit everything around it immediately.\n\nStream just the code block to a preview while the model is still writing, then save it."
         },
-        "content_context": "A proof of the Aaronson-Ambainis conjecture about quantum speedups on random inputs, with a complete formalization in Lean.\n\nOpen since 2008, the conjecture of Scott Aaronson and Andris Ambainis concerns when quantum computers can be exponentially faster than ordinary ones. Now, a research system developed internally at Physical Superintelligence (PSI), running a non-public Anthropic model, found a proof for it, settling one of the most fundamental questions in quantum computing. In 1994, Peter Shor found a quantum algorithm that factors large numbers far faster than any known method for ordinary computers [ 1 ]. It works because the problem hides a repeating pattern, and the quantum computer finds how often it repeats. Like most dramatic quantum speedups known, Shorâs algorithm relies on structure: a promise that the input has a rare pattern. Whether quantum computers can be exponentially faster on random inputs, which almost never have such structure, was unknown. Aaronson and Ambainis found a way to settle this question using pure mathematics. They stated a conjecture about polynomials and showed t...",
-        "trend_score": 41.92,
+        "content_context": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle\n\nA text streaming library that emits when possible and buffers where necessary. Nozzle is a small TypeScript library for handling text streamed from LLMs. Its functions buffer only where necessary and otherwise emit chunks as soon as possible. For example, regexes buffer a potential match only until it's confirmed or rejected, and emit everything around it immediately. Stream just the code block to a preview while the model is still writing, then save it.",
+        "trend_score": 49.16,
         "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.048,
+          "freshness": 0.989,
+          "engagement": 0.052,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "The Iron Pentacle",
-        "url": "https://faerywolf.com/iron-pentacle/",
-        "author": "PaulHoule",
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "author": "ybathaee",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-14T01:47:04+00:00",
-        "summary": "Understanding the Harmonics of Consciousness From sex to pride, from pride to self, from self to power, from power to passion from passion to sex, the gate is formed. By my will the gate is opened. Blessed be. Considered to be a foundational exercise of the",
+        "published_at": "2026-11-15T01:18:36+00:00",
+        "summary": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling.\n\nA federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers.\n\nU.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://faerywolf.com/iron-pentacle/",
-          "page_title": "The Iron Pentacle — Storm Faerywolf: Author • Teacher • Warlock",
-          "page_description": "Understanding the Harmonics of Consciousness From sex to pride, from pride to self, from self to power, from power to passion from passion to sex, the gate is formed. By my will the gate is opened. Blessed be. Considered to be a foundational exercise of the",
-          "page_excerpt": null
+          "resolved_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "page_title": "Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron",
+          "page_description": null,
+          "page_excerpt": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling.\n\nA federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers.\n\nU.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven."
         },
-        "content_context": "Understanding the Harmonics of Consciousness From sex to pride, from pride to self, from self to power, from power to passion from passion to sex, the gate is formed. By my will the gate is opened. Blessed be. Considered to be a foundational exercise of the",
-        "trend_score": 41.71,
+        "content_context": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling. A federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers. U.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven.",
+        "trend_score": 47.65,
         "trend_breakdown": {
           "freshness": 0.992,
-          "engagement": 0.048,
+          "engagement": 0.052,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Blogsearch.io – Search the Independent Web",
+        "url": "https://blogsearch.io/",
+        "author": "Curiositry",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:22:56+00:00",
+        "summary": "A search engine for personal blogs and independent websites.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://blogsearch.io/",
+          "page_title": "Blog Search",
+          "page_description": null,
+          "page_excerpt": "A search engine for personal blogs and independent websites."
+        },
+        "content_context": "A search engine for personal blogs and independent websites.",
+        "trend_score": 47.37,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.082,
+          "topic_overlap": 0.25,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Behind Jensen Huang's spy scandal, a shadow war for Trump's ear on China",
+        "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+        "author": "anigbrowl",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:14:54+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 46.25,
+        "trend_breakdown": {
+          "freshness": 0.989,
+          "engagement": 0.082,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Can the AI boom make enough money to sustain itself?",
+        "url": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+        "author": "svara",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:24:39+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 45.49,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.082,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Will a post-scarcity society mold capable and ambitious people?",
+        "url": "https://twitter.com/patrickc/status/2121771165912064379",
+        "author": "jger15",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:10:23+00:00",
+        "summary": "Smith and Montesquieu thought that markets and commerce made us better: that they create an incentive to pursue self-improvement and to create things of value for others. In the positive AI visions, where the labor of humans is made redundant, I find myself wondering how we fare in the presumptive…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/patrickc/status/2121771165912064379",
+          "page_title": "Patrick Collison (@patrickc) on X",
+          "page_description": "Smith and Montesquieu thought that markets and commerce made us better: that they create an incentive to pursue self-improvement and to create things of value for others. In the positive AI visions, where the labor of humans is made redundant, I find myself wondering how we fare in the presumptive…",
+          "page_excerpt": null
+        },
+        "content_context": "Smith and Montesquieu thought that markets and commerce made us better: that they create an incentive to pursue self-improvement and to create things of value for others. In the positive AI visions, where the labor of humans is made redundant, I find myself wondering how we fare in the presumptive…",
+        "trend_score": 43.82,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.052,
+          "topic_overlap": 0.125,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The First AI Music Awards",
+        "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+        "author": "cdrnsf",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:29:25+00:00",
+        "summary": "It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+          "page_title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+          "page_description": "It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.",
+          "page_excerpt": "I knew things were a little off when the first thing I heard on my walk to the AI Music Awards was “the winner…” followed by the sweet voice of Kelly Clarkson.\n\nNo, Miss American Idol did not abandon her feud with the Brooklyn bird to capitalize on her newfound appreciation for AI . But as I approached the Mayan Theater in Downtown Los Angeles on a sunny afternoon to check in for Friday’s inaugural “AI Music Awards,” powered by the “ Sonic Intelligence Academy ” or “SIQA,” I wondered if her voice was so strong as to echo through the nearly century-old...\n\nTo qualify for the awards, artists needed to register their tracks to SIQA’s “Verified Registry,” which denotes whether the song was fully AI-generated, made with the assistance of AI or featured a cloned human voice to lead the tune (what the group calls a “human + AI hybrid”)."
+        },
+        "content_context": "It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.\n\nI knew things were a little off when the first thing I heard on my walk to the AI Music Awards was “the winner…” followed by the sweet voice of Kelly Clarkson. No, Miss American Idol did not abandon her feud with the Brooklyn bird to capitalize on her newfound appreciation for AI . But as I approached the Mayan Theater in Downtown Los Angeles on a sunny afternoon to check in for Friday’s inaugural “AI Music Awards,” powered by the “ Sonic Intelligence Academy ” or “SIQA,” I wondered if her voice was so strong as to echo through the nearly century-old... To qualify for the awards, artists needed to register their tracks to SIQA’s “Verified Registry,” which denotes whether the song was fully AI-generated, made with the assistance of AI or featured a cloned human voice to lead the tune (what the group calls a “human + AI hybrid”).",
+        "trend_score": 42.1,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.052,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A Century Along the Fifth Dimension",
+        "url": "https://cerncourier.com/a-century-along-the-fifth-dimension/",
+        "author": "EA-3167",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:27:50+00:00",
+        "summary": "A hundred years ago, Oskar Klein closed a fifth dimension into a circle no instrument could resolve.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://cerncourier.com/a-century-along-the-fifth-dimension/",
+          "page_title": "A century along the fifth dimension – CERN Courier",
+          "page_description": "A hundred years ago, Oskar Klein closed a fifth dimension into a circle no instrument could resolve.",
+          "page_excerpt": "A hundred years ago, Oskar Klein closed a fifth dimension into a circle no instrument could resolve. Jeroen van Dongen and Robert van Leeuwen trace how the proposal emerged, faded and then resurfaced in the quest for unification.\n\nWhen doing physics, Oskar Klein could feel like Odysseus. Perhaps the most adventurous of his voyages came a century ago this year, when he proposed to merge the nascent quantum theory with an expanded, five-dimensional version of the general theory of relativity. Speculation, he explained, “drags many of us into a mental whirlpool not unlike the hydrodynamical one of Charybdis, from which the...\n\nThe tension between metaphysical speculation, beyond the observable, and a focus on hard empirical facts was already part of Klein’s earliest youth. He was born in 1894 near Stockholm, where his father, Gottlieb Klein, served as the rabbi of the city’s small Jewish community. Among his acquaintances was Svante Arrhenius – Nobel laureate and leading chemist – who..."
+        },
+        "content_context": "A hundred years ago, Oskar Klein closed a fifth dimension into a circle no instrument could resolve.\n\nA hundred years ago, Oskar Klein closed a fifth dimension into a circle no instrument could resolve. Jeroen van Dongen and Robert van Leeuwen trace how the proposal emerged, faded and then resurfaced in the quest for unification. When doing physics, Oskar Klein could feel like Odysseus. Perhaps the most adventurous of his voyages came a century ago this year, when he proposed to merge the nascent quantum theory with an expanded, five-dimensional version of the general theory of relativity. Speculation, he explained, “drags many of us into a mental whirlpool not unlike the hydrodynamical one of Charybdis, from which the... The tension between metaphysical speculation, beyond the observable, and a focus on hard empirical facts was already part of Klein’s earliest youth. He was born in 1894 near Stockholm, where his father, Gottlieb Klein, served as the rabbi of the city’s small Jewish community. Among his acquaintances was Svante Arrhenius – Nobel laureate and leading chemist – who...",
+        "trend_score": 42.06,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.052,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A 4MB EXE file replaced half my Windows utilities",
+        "url": "https://www.makeuseof.com/alomware-toolbox-windows/",
+        "author": "BarryGuff",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-15T01:25:46+00:00",
+        "summary": "A tiny 4MB tool unexpectedly replaced my clipboard manager, text expander, automation scripts, and more.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.makeuseof.com/alomware-toolbox-windows/",
+          "page_title": "How a 4MB EXE file replaced half my Windows utilities",
+          "page_description": "A tiny 4MB tool unexpectedly replaced my clipboard manager, text expander, automation scripts, and more.",
+          "page_excerpt": "Tashreef's fascination with consumer technology began in the school library when he stumbled upon a tech magazine, CHIP, which ultimately inspired him to pursue a degree in Computer Science. Since 2012, Tashreef has professionally authored over a thousand how-to articles, contributing to Windows Report and How-To Geek. He currently focuses on Microsoft Windows content at MakeUseOf, which he has...\n\nWith hands-on experience building websites and technology blogs, he brings practical developer insights to his technical writing. You can view his complete work portfolio at itashreef.com.\n\nYou might also stumble upon his short how-to video explainers, simplifying complex topics. Beyond writing, Tashreef enjoys creating short explainer videos, gaming, and exploring animated shows."
+        },
+        "content_context": "A tiny 4MB tool unexpectedly replaced my clipboard manager, text expander, automation scripts, and more.\n\nTashreef's fascination with consumer technology began in the school library when he stumbled upon a tech magazine, CHIP, which ultimately inspired him to pursue a degree in Computer Science. Since 2012, Tashreef has professionally authored over a thousand how-to articles, contributing to Windows Report and How-To Geek. He currently focuses on Microsoft Windows content at MakeUseOf, which he has... With hands-on experience building websites and technology blogs, he brings practical developer insights to his technical writing. You can view his complete work portfolio at itashreef.com. You might also stumble upon his short how-to video explainers, simplifying complex topics. Beyond writing, Tashreef enjoys creating short explainer videos, gaming, and exploring animated shows.",
+        "trend_score": 42.0,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.052,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -615,50 +607,25 @@
     ],
     "news": [
       {
-        "source": "The New York Times",
+        "source": "The Hill",
         "category": "news",
-        "title": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-        "published_at": "2026-11-14T01:53:00+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights；Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb；FAA Lifts Ground Stop, Allowing Flights to Resume After Outage。",
+        "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXF2TW1semtjZmNCMEVCZUN0czVVc3ZpTmlCRXg1Q1ZMMmdwS1ZsdG1Db1ZqTHpwYXBfQXd2YVRUSm14VnNVTzVnTUpiR3o1UkllUlBYaEtHX01fYW9wbERYWGJvZWJfV1RSTi0xaGh1V19PWU04bHBMRnp3R2VfN3lLc0NmdHJocVhlUEg0bTlzTWFuVHfSAZsBQVVfeXFMT1A1UWZqRC0yNV80UEtmQV9DSmROa2NKLVhmcTZnMjhBX3ltdmJrMXYzTTQ3VkozenJpazNyTVRHNFh2cVpINnZhcEpJSC1wVHBhbVRrTWlodDlrTTN5YnZ4VXphbDNQV182NnNXbGtObTBhc180UkRZNTlKNDhpUkxCakx5Y3BzcGR2ZUpqSGw1ZHAxS3dBeTdVcUU?oc=5",
+        "published_at": "2026-11-14T20:33:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blumenthal says Lutnick ‘must go’ following Nvidia scandal；The Jensen Huang scandal reaches Donald Trump’s cabinet；Gordon Chang to Newsmax: Lutnick Should Resign Over Nvidia Debacle。",
         "related_headlines": [
-          "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights",
-          "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-          "FAA Lifts Ground Stop, Allowing Flights to Resume After Outage",
-          "'I May Lose My Mind': Frustrated Travelers Stuck In US Flight Havoc",
-          "FAA ground stop disrupting air travel for college football teams"
+          "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+          "The Jensen Huang scandal reaches Donald Trump’s cabinet",
+          "Gordon Chang to Newsmax: Lutnick Should Resign Over Nvidia Debacle",
+          "MAGA turns on Lutnick amid China spy scandal",
+          "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster"
         ],
-        "content_context": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights；Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb；FAA Lifts Ground Stop, Allowing Flights to Resume After Outage。\n\nRelated coverage: Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights\n\nRelated coverage: Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb\n\nRelated coverage: FAA Lifts Ground Stop, Allowing Flights to Resume After Outage\n\nRelated coverage: 'I May Lose My Mind': Frustrated Travelers Stuck In US Flight Havoc\n\nRelated coverage: FAA ground stop disrupting air travel for college football teams",
-        "trend_score": 43.87,
+        "content_context": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blumenthal says Lutnick ‘must go’ following Nvidia scandal；The Jensen Huang scandal reaches Donald Trump’s cabinet；Gordon Chang to Newsmax: Lutnick Should Resign Over Nvidia Debacle。\n\nRelated coverage: Blumenthal says Lutnick ‘must go’ following Nvidia scandal\n\nRelated coverage: The Jensen Huang scandal reaches Donald Trump’s cabinet\n\nRelated coverage: Gordon Chang to Newsmax: Lutnick Should Resign Over Nvidia Debacle\n\nRelated coverage: MAGA turns on Lutnick amid China spy scandal\n\nRelated coverage: Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
+        "trend_score": 40.79,
         "trend_breakdown": {
-          "freshness": 0.996,
+          "freshness": 0.794,
           "engagement": 0.0,
-          "topic_overlap": 0.5,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Washington Post",
-        "category": "news",
-        "title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djNVSXdUQ3VCdkZfSl84NkdVM0RTbWo3QnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5",
-        "published_at": "2026-11-14T01:40:29+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump’s top economic advisers clash over Lutnick’s handling of Nvidia；Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster；Trump’s treasury and commerce secretaries feud as Nvidia scandal roils Washington。",
-        "related_headlines": [
-          "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
-          "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
-          "Trump’s treasury and commerce secretaries feud as Nvidia scandal roils Washington",
-          "Opinion | Howard Lutnick Has Got to Go",
-          "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker"
-        ],
-        "content_context": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump’s top economic advisers clash over Lutnick’s handling of Nvidia；Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster；Trump’s treasury and commerce secretaries feud as Nvidia scandal roils Washington。\n\nRelated coverage: Trump’s top economic advisers clash over Lutnick’s handling of Nvidia\n\nRelated coverage: Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster\n\nRelated coverage: Trump’s treasury and commerce secretaries feud as Nvidia scandal roils Washington\n\nRelated coverage: Opinion | Howard Lutnick Has Got to Go\n\nRelated coverage: Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-        "trend_score": 43.67,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.0,
-          "topic_overlap": 0.091,
+          "topic_overlap": 0.375,
           "source_weight": 0.8,
           "domain_weight": 1.18
         },
@@ -669,43 +636,96 @@
       {
         "source": "The New York Times",
         "category": "news",
-        "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXhQWVFoSHVHNFR4ZURLdnJrdVFiQlY5bFlHMGRqZDNqMkRVTUdaRTJlLVhPVEtHTTRoZWIxN0VCRWNpdGY4WmJ6Ty0yQlBQRURPX25QYWNzT3FGX3VwTThLX1ozQW5BTExtbXhLWGFXdnJiX2NqQmVMeU1hVlZ5bTZHQzA0OWJ4YUU4?oc=5",
-        "published_at": "2026-11-13T23:10:21+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Administration Delays Enforcement of Medicaid Work Requirement；See more headlines & perspectives on Google News。",
+        "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
+        "published_at": "2026-11-14T22:10:42+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop；Are Trump Officials Living in an Alternate Reality?；Trump Hides Out Amid Crisis to Rage Over Golf Course。",
         "related_headlines": [
-          "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-          "See more headlines & perspectives on Google News"
+          "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+          "Are Trump Officials Living in an Alternate Reality?",
+          "Trump Hides Out Amid Crisis to Rage Over Golf Course",
+          "Trump Goon Boasts About ‘Phenomenal Job’ as Every Plane Grounded",
+          "Flights Not Going Up and Nvidia Going Down: Corruption, Incompetence, and Inflation (CII)"
         ],
-        "content_context": "Trump Administration Delays Enforcement of Medicaid Work Requirement - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Administration Delays Enforcement of Medicaid Work Requirement；See more headlines & perspectives on Google News。\n\nRelated coverage: Trump Administration Delays Enforcement of Medicaid Work Requirement\n\nRelated coverage: See more headlines & perspectives on Google News",
-        "trend_score": 38.2,
+        "content_context": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop；Are Trump Officials Living in an Alternate Reality?；Trump Hides Out Amid Crisis to Rage Over Golf Course。\n\nRelated coverage: Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop\n\nRelated coverage: Are Trump Officials Living in an Alternate Reality?\n\nRelated coverage: Trump Hides Out Amid Crisis to Rage Over Golf Course\n\nRelated coverage: Trump Goon Boasts About ‘Phenomenal Job’ as Every Plane Grounded\n\nRelated coverage: Flights Not Going Up and Nvidia Going Down: Corruption, Incompetence, and Inflation (CII)",
+        "trend_score": 36.83,
         "trend_breakdown": {
-          "freshness": 0.883,
+          "freshness": 0.861,
           "engagement": 0.0,
-          "topic_overlap": 0.4,
+          "topic_overlap": 0.364,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "WDSU",
+        "source": "The Washington Post",
         "category": "news",
-        "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans - WDSU",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
-        "published_at": "2026-11-13T23:32:00+00:00",
-        "summary": "WDSU 头条聚焦该事件，Google News 同时聚合到这些相关表述：What we know about the American Heritage cruise ship struck by tanker in New Orleans；LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans；Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say。",
+        "title": "California’s battered beaches are getting giant waves - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3BBNkdyam5XMFJla1hkREdoc21tQnFuNzNudlYzcGdVOVZJbTZwOWhtUTFidkpYZ0N5ZEV1SC1FUFJ5RjZpbFUxdnBVRlU1X1ZabDhkR2lwT2UySkZTNHZIeDM5Mm9VeXA0UUM0VlRRcE9lUHZRM3ptaUh0bTBEcVp3QU5EMVJIT244eUJCdUVWQ0RPeVBONWJLLXhicFdlRXN6SEY0UkZNNi1Vc1pfR0pB?oc=5",
+        "published_at": "2026-11-14T22:16:40+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：California’s battered beaches are getting giant waves；Surfers Scramble to California Hot Spot to Catch Building-Size Waves；UPDATE: Road closures in Carmel as high surf hits Monterey Peninsula。",
         "related_headlines": [
-          "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
-          "LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans",
-          "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
-          "Miracle on the Mississippi: All accounted for after tanker collides with cruise ship",
-          "Freighter collides with cruise ship in New Orleans, passengers in the water"
+          "California’s battered beaches are getting giant waves",
+          "Surfers Scramble to California Hot Spot to Catch Building-Size Waves",
+          "UPDATE: Road closures in Carmel as high surf hits Monterey Peninsula",
+          "California could see another round of mammoth waves within days",
+          "Evacuation warning issued, roads and beaches close as towering waves take aim"
         ],
-        "content_context": "What we know about the American Heritage cruise ship struck by tanker in New Orleans - WDSU\n\nWDSU 头条聚焦该事件，Google News 同时聚合到这些相关表述：What we know about the American Heritage cruise ship struck by tanker in New Orleans；LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans；Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say。\n\nRelated coverage: What we know about the American Heritage cruise ship struck by tanker in New Orleans\n\nRelated coverage: LIVE: ‘Miracle on the Mississippi’|No fatalities after tanker crashes into river cruiser carrying nearly 150 people near Port of New Orleans\n\nRelated coverage: Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say\n\nRelated coverage: Miracle on the Mississippi: All accounted for after tanker collides with cruise ship\n\nRelated coverage: Freighter collides with cruise ship in New Orleans, passengers in the water",
-        "trend_score": 33.79,
+        "content_context": "California’s battered beaches are getting giant waves - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：California’s battered beaches are getting giant waves；Surfers Scramble to California Hot Spot to Catch Building-Size Waves；UPDATE: Road closures in Carmel as high surf hits Monterey Peninsula。\n\nRelated coverage: California’s battered beaches are getting giant waves\n\nRelated coverage: Surfers Scramble to California Hot Spot to Catch Building-Size Waves\n\nRelated coverage: UPDATE: Road closures in Carmel as high surf hits Monterey Peninsula\n\nRelated coverage: California could see another round of mammoth waves within days\n\nRelated coverage: Evacuation warning issued, roads and beaches close as towering waves take aim",
+        "trend_score": 33.16,
         "trend_breakdown": {
-          "freshness": 0.898,
+          "freshness": 0.865,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Al Jazeera",
+        "category": "news",
+        "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11 - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG1LMERLMDNjTGtkbVlYZ09DLVhFTFhDZ1AyY2tZWkNQZDFFVEhGYVJwYmdBc1dza0NhTUlDeXlHeUpPRlA1a1g3UjY1VkY2aUpjMDlOOUFfc0dud1d0S1FaOS1PWHQ5dzcyVTRKendscUVvT3J6ZjJ3TUVzN24zYTJ6aDAwaXNsdXJHbGRhNkQ4VV9rWDd5dHdYbEQ4TEs1aTY4aXcwdThfalVQdFBnSG5SMNIBuAFBVV95cUxPNFp6OXo4T0pqbWR0c1hLMFBTT3lRZndmcUR5ZVZMcnZHT2RFQl9rUTZIMlFLTTlOcjhwT1o2TXRZVGN4eUJJLUFWNGoyU3lsWUEzOHlMNXBpcGw5Z2c3RUVnZXIwSmhvYXNuWnl4M0ktUEJzckxLWUtZdVJYM0kzZEF0S2lpRktpNkw5cXFxRWcwZXozd2ZrLUUtbXJBZ1E4WEZwc2wtWENDVmhaZnpkbk1zODZReXlK?oc=5",
+        "published_at": "2026-11-14T21:22:30+00:00",
+        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：US blames system upgrade for longest nationwide FAA ground stop since 9/11；November 13, 2026 — Some US flights resume after hours-long ground stop；FAA ground stop disrupts college football。",
+        "related_headlines": [
+          "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+          "November 13, 2026 — Some US flights resume after hours-long ground stop",
+          "FAA ground stop disrupts college football",
+          "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown"
+        ],
+        "content_context": "US blames system upgrade for longest nationwide FAA ground stop since 9/11 - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：US blames system upgrade for longest nationwide FAA ground stop since 9/11；November 13, 2026 — Some US flights resume after hours-long ground stop；FAA ground stop disrupts college football。\n\nRelated coverage: US blames system upgrade for longest nationwide FAA ground stop since 9/11\n\nRelated coverage: November 13, 2026 — Some US flights resume after hours-long ground stop\n\nRelated coverage: FAA ground stop disrupts college football\n\nRelated coverage: Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System\n\nRelated coverage: The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
+        "trend_score": 33.0,
+        "trend_breakdown": {
+          "freshness": 0.828,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "New Orleans port sues tanker owners over cruise ship collision for $1m - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
+        "published_at": "2026-11-14T22:27:06+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：New Orleans port sues tanker owners over cruise ship collision for $1m；New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash；New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River。",
+        "related_headlines": [
+          "New Orleans port sues tanker owners over cruise ship collision for $1m",
+          "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
+          "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+          "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+          "NTSB investigates Mississippi River cruise ship collision"
+        ],
+        "content_context": "New Orleans port sues tanker owners over cruise ship collision for $1m - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：New Orleans port sues tanker owners over cruise ship collision for $1m；New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash；New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River。\n\nRelated coverage: New Orleans port sues tanker owners over cruise ship collision for $1m\n\nRelated coverage: New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash\n\nRelated coverage: New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River\n\nRelated coverage: Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say\n\nRelated coverage: NTSB investigates Mississippi River cruise ship collision",
+        "trend_score": 32.87,
+        "trend_breakdown": {
+          "freshness": 0.873,
           "engagement": 0.0,
           "topic_overlap": 0.091,
           "source_weight": 0.8,
@@ -714,25 +734,25 @@
         "domains": []
       },
       {
-        "source": "Axios",
+        "source": "The Daily Beast",
         "category": "news",
-        "title": "The senators who could join Van Hollen's insurgency against Schumer - Axios",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
-        "published_at": "2026-11-13T23:29:04+00:00",
-        "summary": "Axios 头条聚焦该事件，Google News 同时聚合到这些相关表述：The senators who could join Van Hollen's insurgency against Schumer；Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader；Van Hollen rules out 2028 presidential run。",
+        "title": "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHBwM3dCUWhmS0lXTFZpcG56S3RTSkg1NGhqcjRoX1FsRTZJODhfSFVvMUhWTVllNlRUMGpWSFpTR3U0VE1HclpiaTYzMHFYWkFxWG9qYy0tQ2cxYXh5ZjZEdDVrQkVGZmo5cEhlRDlVSFJiUDZlMWthM0ctRU1EUHZwRlJDRENieW5OekFhZ3VxSDZZRlI0QVNERnVQemRpOEVz?oc=5",
+        "published_at": "2026-11-14T20:50:11+00:00",
+        "summary": "The Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen；Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’；'Check, One Two': Tech Glitch Hits US Presser On Air Travel Chaos。",
         "related_headlines": [
-          "The senators who could join Van Hollen's insurgency against Schumer",
-          "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-          "Van Hollen rules out 2028 presidential run",
-          "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
-          "Chris Van Hollen to challenge Chuck Schumer for Senate leadership"
+          "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen",
+          "Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’",
+          "'Check, One Two': Tech Glitch Hits US Presser On Air Travel Chaos",
+          "Sean Duffy’s 2nd FAA Presser Opens With Audio Issues After Bipartisan Backlash to First Briefing",
+          "National Security Expert Trashes Excuses For Flight Shutdown: 'There Are Lots Of Questions'"
         ],
-        "content_context": "The senators who could join Van Hollen's insurgency against Schumer - Axios\n\nAxios 头条聚焦该事件，Google News 同时聚合到这些相关表述：The senators who could join Van Hollen's insurgency against Schumer；Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader；Van Hollen rules out 2028 presidential run。\n\nRelated coverage: The senators who could join Van Hollen's insurgency against Schumer\n\nRelated coverage: Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader\n\nRelated coverage: Van Hollen rules out 2028 presidential run\n\nRelated coverage: Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats\n\nRelated coverage: Chris Van Hollen to challenge Chuck Schumer for Senate leadership",
-        "trend_score": 32.27,
+        "content_context": "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen - The Daily Beast\n\nThe Daily Beast 头条聚焦该事件，Google News 同时聚合到这些相关表述：Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen；Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’；'Check, One Two': Tech Glitch Hits US Presser On Air Travel Chaos。\n\nRelated coverage: Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen\n\nRelated coverage: Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’\n\nRelated coverage: 'Check, One Two': Tech Glitch Hits US Presser On Air Travel Chaos\n\nRelated coverage: Sean Duffy’s 2nd FAA Presser Opens With Audio Issues After Bipartisan Backlash to First Briefing\n\nRelated coverage: National Security Expert Trashes Excuses For Flight Shutdown: 'There Are Lots Of Questions'",
+        "trend_score": 31.66,
         "trend_breakdown": {
-          "freshness": 0.896,
+          "freshness": 0.805,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.167,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -741,21 +761,21 @@
       {
         "source": "NBC News",
         "category": "news",
-        "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
-        "published_at": "2026-11-13T22:52:34+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’；More than 1.5 million people welcome Pope Leo XIV in northern Peru；Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert。",
+        "title": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0tWRjdXLWNKYmp0NERhQ053eDlqTG9MenJsc0VMUFQ4YlE0eW1KVjhJcUNvcjVlcGJVbXJlRERTejBoNG5JQ0hIQVlZZEphR3doVndCb2I5N19ILU40Z21FZTJKYk8waGR6NzU3V08xYVFLX21mcEMxZnpFejNENzl2U3FZWUFYUmRRMm5tX0JCZ3lKODR5MjZUcnZlbmQ2N2R5bWNvMXlGZ3QyOEJjMlRYcDgxLW02Wjk2TUU5Mm5PQQ?oc=5",
+        "published_at": "2026-11-14T21:22:15+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play；Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes；Why midterm vote-counting is taking so long in America's largest state。",
         "related_headlines": [
-          "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-          "More than 1.5 million people welcome Pope Leo XIV in northern Peru",
-          "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
-          "Pope: Jesus 'knows your story and continues to invite you to walk with Him'",
-          "In Lima, Peru, Pope Leo rails against abuse and subordination of women"
+          "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play",
+          "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+          "Why midterm vote-counting is taking so long in America's largest state",
+          "Peltola vs. Sullivan not alone: 24 Alaska races still too close to call",
+          "Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’"
         ],
-        "content_context": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’；More than 1.5 million people welcome Pope Leo XIV in northern Peru；Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert。\n\nRelated coverage: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’\n\nRelated coverage: More than 1.5 million people welcome Pope Leo XIV in northern Peru\n\nRelated coverage: Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert\n\nRelated coverage: Pope: Jesus 'knows your story and continues to invite you to walk with Him'\n\nRelated coverage: In Lima, Peru, Pope Leo rails against abuse and subordination of women",
-        "trend_score": 31.35,
+        "content_context": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play；Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes；Why midterm vote-counting is taking so long in America's largest state。\n\nRelated coverage: Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play\n\nRelated coverage: Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes\n\nRelated coverage: Why midterm vote-counting is taking so long in America's largest state\n\nRelated coverage: Peltola vs. Sullivan not alone: 24 Alaska races still too close to call\n\nRelated coverage: Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’",
+        "trend_score": 29.8,
         "trend_breakdown": {
-          "freshness": 0.871,
+          "freshness": 0.828,
           "engagement": 0.0,
           "topic_overlap": 0.0,
           "source_weight": 0.8,
@@ -764,23 +784,48 @@
         "domains": []
       },
       {
-        "source": "Gothamist",
+        "source": "NPR",
         "category": "news",
-        "title": "Families devastated by Brooklyn building collapse came to NYC for a new life - Gothamist",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTG4zWW1BamRwR0FlaUNJQmhWY01VdFYtS3ZGajFTbmlvTUVmanNtdHJQc0xsbjJMM0hmNllDQnZvQ1RQNXVQN2lleXc3WGdNal95ZXh1OGdKZFYyN0hKMFdERVoyVVRJQUFTd3FtNG1GajBfYk5aeXRCRXVVTkhsSWRpT3VIdXRqeDdwaThXYXZWR0dPZ2kzaFg2OXB3OWRxYUxJQnpDWFJiX3FiN29XTQ?oc=5",
-        "published_at": "2026-11-13T21:39:00+00:00",
-        "summary": "Gothamist 头条聚焦该事件，Google News 同时聚合到这些相关表述：Families devastated by Brooklyn building collapse came to NYC for a new life；Grief reverberates through this church near the deadly Brooklyn collapse；Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble。",
+        "title": "Bomb found near ethanol plant in central Illinois forces evacuations - NPR",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmJYNUozVC1GX01ibDFuSlJTOUNVYU92dm45TGRJNHZpcVNRQ2tFbXJBbDczRHljY0RKT1ZWUzFpMExnRkJhQWtmOGRmUTNYZHJXOWdhaldrQmNxNWZsaUR5b21CR3NiRVpWRFQ4U2pZdkl1eDVPX2V1VkFtZVRtaEUyNi1zMkxTSkpDbG9PR0dkdWM?oc=5",
+        "published_at": "2026-11-14T20:12:34+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bomb found near ethanol plant in central Illinois forces evacuations；Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say；Bomb at BioUrja plant in Peoria rendered safe after threat。",
         "related_headlines": [
-          "Families devastated by Brooklyn building collapse came to NYC for a new life",
-          "Grief reverberates through this church near the deadly Brooklyn collapse",
-          "Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble",
-          "Demolition next to collapsed building continued despite stop work order, violation says",
-          "In the rubble of a collapsed Brooklyn building, a moment of hope"
+          "Bomb found near ethanol plant in central Illinois forces evacuations",
+          "Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say",
+          "Bomb at BioUrja plant in Peoria rendered safe after threat",
+          "BREAKING: EVACUATION ORDER LIFTED",
+          "Evacuation zone lifted after bomb found at Illinois ethanol plant"
         ],
-        "content_context": "Families devastated by Brooklyn building collapse came to NYC for a new life - Gothamist\n\nGothamist 头条聚焦该事件，Google News 同时聚合到这些相关表述：Families devastated by Brooklyn building collapse came to NYC for a new life；Grief reverberates through this church near the deadly Brooklyn collapse；Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble。\n\nRelated coverage: Families devastated by Brooklyn building collapse came to NYC for a new life\n\nRelated coverage: Grief reverberates through this church near the deadly Brooklyn collapse\n\nRelated coverage: Brooklyn building collapse: Husband recounts anguish after pregnant wife rescued from rubble\n\nRelated coverage: Demolition next to collapsed building continued despite stop work order, violation says\n\nRelated coverage: In the rubble of a collapsed Brooklyn building, a moment of hope",
-        "trend_score": 31.12,
+        "content_context": "Bomb found near ethanol plant in central Illinois forces evacuations - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bomb found near ethanol plant in central Illinois forces evacuations；Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say；Bomb at BioUrja plant in Peoria rendered safe after threat。\n\nRelated coverage: Bomb found near ethanol plant in central Illinois forces evacuations\n\nRelated coverage: Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say\n\nRelated coverage: Bomb at BioUrja plant in Peoria rendered safe after threat\n\nRelated coverage: BREAKING: EVACUATION ORDER LIFTED\n\nRelated coverage: Evacuation zone lifted after bomb found at Illinois ethanol plant",
+        "trend_score": 28.06,
         "trend_breakdown": {
-          "freshness": 0.82,
+          "freshness": 0.779,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Rolling Stone",
+        "category": "news",
+        "title": "Can Chris Van Hollen Really Unseat Chuck Schumer? - Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGJGY0ttU2dURkxoUjhQQXpvWkNnZ1dFQjhaTWJzbDRkYmdESVhRbl8tM3p3RUlxU1d4VUxTZXVvVTJQd3l4bnJNSmdsS1BBdG91YjYzQXNiWHhiY3lmYkZYaEZVVHhSN05hVGctVk15X2tWejJFdWRYODBibXBTbS05eWJWNWV1dkMwVHE1dnNaZlo4YjdJS3Y4emFWV2tkWE1panVzcENfXzRCWXRQcVpB?oc=5",
+        "published_at": "2026-11-14T15:00:00+00:00",
+        "summary": "Rolling Stone 头条聚焦该事件，Google News 同时聚合到这些相关表述：Can Chris Van Hollen Really Unseat Chuck Schumer?；Chris Van Hollen revs up his public campaign to replace Chuck Schumer；What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders。",
+        "related_headlines": [
+          "Can Chris Van Hollen Really Unseat Chuck Schumer?",
+          "Chris Van Hollen revs up his public campaign to replace Chuck Schumer",
+          "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+          "Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer",
+          "The senators who could join Van Hollen's insurgency against Schumer"
+        ],
+        "content_context": "Can Chris Van Hollen Really Unseat Chuck Schumer? - Rolling Stone\n\nRolling Stone 头条聚焦该事件，Google News 同时聚合到这些相关表述：Can Chris Van Hollen Really Unseat Chuck Schumer?；Chris Van Hollen revs up his public campaign to replace Chuck Schumer；What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders。\n\nRelated coverage: Can Chris Van Hollen Really Unseat Chuck Schumer?\n\nRelated coverage: Chris Van Hollen revs up his public campaign to replace Chuck Schumer\n\nRelated coverage: What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders\n\nRelated coverage: Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer\n\nRelated coverage: The senators who could join Van Hollen's insurgency against Schumer",
+        "trend_score": 21.84,
+        "trend_breakdown": {
+          "freshness": 0.562,
           "engagement": 0.0,
           "topic_overlap": 0.1,
           "source_weight": 0.8,
@@ -791,75 +836,23 @@
       {
         "source": "The Guardian",
         "category": "news",
-        "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
-        "published_at": "2026-11-13T20:09:00+00:00",
-        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race；Rep. Lauren Boebert ousted in Colorado’s conservative 4th District；Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects。",
+        "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGdZenNuODF5WTgtczNfbUk4dUxRWW1aSHFuMTZYZm1xMGFIbDFoUUFlZGppX1ZBcF95Q2lqY29zejlJYzlMS2cycDhZZU5vS3lkZmJrTDhGd3QxNUNvNEMwQ1NZSlpvQThMQVFVZDJpWmd5cHREek9ueVVGV0I5eTJRM3VCdUxyV0Fib2hXUQ?oc=5",
+        "published_at": "2026-11-14T11:02:00+00:00",
+        "summary": "The Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘We must deliver’: jubilant Democrats gather in Denver to chart way forward；'We can't let them down' — After midterm wins, Democrats turn to charting path ahead；After midterm sweep, Democrats split over Trump, cost-cutting agenda。",
         "related_headlines": [
-          "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
-          "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
-          "Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects",
-          "Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race for re-election",
-          "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert"
+          "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+          "'We can't let them down' — After midterm wins, Democrats turn to charting path ahead",
+          "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+          "In Denver, the midterms are old news among Democrats. Cue the 2028 posturing.",
+          "Democrats try out a strange new emotion at post-midterms What’s Next conference: Hope"
         ],
-        "content_context": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race；Rep. Lauren Boebert ousted in Colorado’s conservative 4th District；Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects。\n\nRelated coverage: Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race\n\nRelated coverage: Rep. Lauren Boebert ousted in Colorado’s conservative 4th District\n\nRelated coverage: Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects\n\nRelated coverage: Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race for re-election\n\nRelated coverage: Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
-        "trend_score": 28.72,
+        "content_context": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward - The Guardian\n\nThe Guardian 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘We must deliver’: jubilant Democrats gather in Denver to chart way forward；'We can't let them down' — After midterm wins, Democrats turn to charting path ahead；After midterm sweep, Democrats split over Trump, cost-cutting agenda。\n\nRelated coverage: ‘We must deliver’: jubilant Democrats gather in Denver to chart way forward\n\nRelated coverage: 'We can't let them down' — After midterm wins, Democrats turn to charting path ahead\n\nRelated coverage: After midterm sweep, Democrats split over Trump, cost-cutting agenda\n\nRelated coverage: In Denver, the midterms are old news among Democrats. Cue the 2028 posturing.\n\nRelated coverage: Democrats try out a strange new emotion at post-midterms What’s Next conference: Hope",
+        "trend_score": 15.89,
         "trend_breakdown": {
-          "freshness": 0.757,
+          "freshness": 0.397,
           "engagement": 0.0,
-          "topic_overlap": 0.091,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Financial Times",
-        "category": "news",
-        "title": "Scott Colom: the Democrat who conquered the reddest of red states - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
-        "published_at": "2026-11-13T17:08:50+00:00",
-        "summary": "Financial Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom: the Democrat who conquered the reddest of red states；The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race；Letter: Your headline would have been true in 1870, not 2026。",
-        "related_headlines": [
-          "Scott Colom: the Democrat who conquered the reddest of red states",
-          "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-          "Letter: Your headline would have been true in 1870, not 2026",
-          "Black Mississippians celebrate a victory almost no one saw coming",
-          "The story behind the viral ad that helped Scott Colom win in Mississippi"
-        ],
-        "content_context": "Scott Colom: the Democrat who conquered the reddest of red states - Financial Times\n\nFinancial Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Scott Colom: the Democrat who conquered the reddest of red states；The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race；Letter: Your headline would have been true in 1870, not 2026。\n\nRelated coverage: Scott Colom: the Democrat who conquered the reddest of red states\n\nRelated coverage: The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race\n\nRelated coverage: Letter: Your headline would have been true in 1870, not 2026\n\nRelated coverage: Black Mississippians celebrate a victory almost no one saw coming\n\nRelated coverage: The story behind the viral ad that helped Scott Colom win in Mississippi",
-        "trend_score": 27.97,
-        "trend_breakdown": {
-          "freshness": 0.632,
-          "engagement": 0.0,
-          "topic_overlap": 0.111,
-          "source_weight": 0.8,
-          "domain_weight": 1.14
-        },
-        "domains": [
-          "finance"
-        ]
-      },
-      {
-        "source": "CNN",
-        "category": "news",
-        "title": "Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says - CNN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VW1ObmxOT2R4SkpnMVhKUUdVUGNPYlRPbnJsTnhpTnYxZTl6Zm01dC0xYXNGa3J1M2xkUkdWeS04Wm5uVEdRVkYtMlRqWU5HQUo1a2RKNUxXV2RxZUpRdjh0RDQxOFdKRmR3ZEI0eEhvUzlIV1R1cFhSa28?oc=5",
-        "published_at": "2026-11-13T18:19:29+00:00",
-        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says；Woman in truck that crashed into soccer field, killing 2, won’t face charges；No criminal charges to be filed in deadly crash at Wichita soccer game。",
-        "related_headlines": [
-          "Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says",
-          "Woman in truck that crashed into soccer field, killing 2, won’t face charges",
-          "No criminal charges to be filed in deadly crash at Wichita soccer game",
-          "Sedgwick County DA announces driver in Stryker crash will not face charges; no evidence that act was intentional",
-          "Woman who drove onto Kansas soccer field, killing 2, won’t be charged, officials say"
-        ],
-        "content_context": "Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says；Woman in truck that crashed into soccer field, killing 2, won’t face charges；No criminal charges to be filed in deadly crash at Wichita soccer game。\n\nRelated coverage: Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says\n\nRelated coverage: Woman in truck that crashed into soccer field, killing 2, won’t face charges\n\nRelated coverage: No criminal charges to be filed in deadly crash at Wichita soccer game\n\nRelated coverage: Sedgwick County DA announces driver in Stryker crash will not face charges; no evidence that act was intentional\n\nRelated coverage: Woman who drove onto Kansas soccer field, killing 2, won’t be charged, officials say",
-        "trend_score": 24.53,
-        "trend_breakdown": {
-          "freshness": 0.681,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.1,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -871,80 +864,15 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "author": "openai",
-      "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "TypeScript",
-      "score": 751,
-      "comment_count": 1024,
-      "total_stars": 13155,
-      "built_by": [
-        "mldangelo-oai",
-        "codex",
-        "dependabot",
-        "ianw-oai",
-        "kmbroai"
-      ],
-      "content_context": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\nLanguage: TypeScript\n\nStars today: 751\n\nTotal stars: 13155\n\nBuilt by: mldangelo-oai, codex, dependabot, ianw-oai, kmbroai",
-      "trend_score": 88.38,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.85,
-        "topic_overlap": 0.333,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "author": "ZhuLinsen",
-      "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "Python",
-      "score": 256,
-      "comment_count": 57300,
-      "total_stars": 71651,
-      "built_by": [
-        "ZhuLinsen",
-        "massif-01",
-        "freesme",
-        "Activer007",
-        "birdxs"
-      ],
-      "content_context": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\nLanguage: Python\n\nStars today: 256\n\nTotal stars: 71651\n\nBuilt by: ZhuLinsen, massif-01, freesme, Activer007, birdxs",
-      "trend_score": 86.84,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 1.0,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "finance",
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "author": "alibaba",
       "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
       "language": "Go",
-      "score": 215,
-      "comment_count": 3771,
-      "total_stars": 50657,
+      "score": 893,
+      "comment_count": 3909,
+      "total_stars": 51455,
       "built_by": [
         "lizhengfeng101",
         "wu21-web",
@@ -952,44 +880,12 @@
         "Qiyuanqiii",
         "stay-foolish-forever"
       ],
-      "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 215\n\nTotal stars: 50657\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
-      "trend_score": 86.03,
+      "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 893\n\nTotal stars: 51455\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
+      "trend_score": 92.26,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.836,
+        "engagement": 1.0,
         "topic_overlap": 0.25,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "author": "we-promise",
-      "summary": "The personal finance app for everyone (by everyone)",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "Ruby",
-      "score": 925,
-      "comment_count": 1121,
-      "total_stars": 14775,
-      "built_by": [
-        "jjmata",
-        "dependabot",
-        "claude",
-        "zachgoll",
-        "Shpigford"
-      ],
-      "content_context": "The personal finance app for everyone (by everyone)\n\nLanguage: Ruby\n\nStars today: 925\n\nTotal stars: 14775\n\nBuilt by: jjmata, dependabot, claude, zachgoll, Shpigford",
-      "trend_score": 81.89,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.87,
-        "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -1004,11 +900,11 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "author": "GoogleChrome",
       "summary": "Keep your coding agent up to date with the latest web best practices",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
       "language": "TypeScript",
-      "score": 1925,
-      "comment_count": 272,
-      "total_stars": 4902,
+      "score": 1231,
+      "comment_count": 407,
+      "total_stars": 6080,
       "built_by": [
         "paulirish",
         "rviscomi",
@@ -1016,12 +912,12 @@
         "github-actions",
         "LeaVerou"
       ],
-      "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 1925\n\nTotal stars: 4902\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
-      "trend_score": 80.83,
+      "content_context": "Keep your coding agent up to date with the latest web best practices\n\nLanguage: TypeScript\n\nStars today: 1231\n\nTotal stars: 6080\n\nBuilt by: paulirish, rviscomi, micahjo7, github-actions, LeaVerou",
+      "trend_score": 86.97,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.842,
-        "topic_overlap": 0.0,
+        "engagement": 0.889,
+        "topic_overlap": 0.2,
         "source_weight": 0.92,
         "domain_weight": 1.18
       },
@@ -1032,123 +928,123 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "louislam/uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "author": "louislam",
-      "summary": "A fancy self-hosted monitoring tool",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "JavaScript",
-      "score": 71,
-      "comment_count": 8724,
-      "total_stars": 93876,
-      "built_by": [
-        "louislam",
-        "CommanderStorm",
-        "chakflying",
-        "Saibamen",
-        "Computroniks"
-      ],
-      "content_context": "A fancy self-hosted monitoring tool\n\nLanguage: JavaScript\n\nStars today: 71\n\nTotal stars: 93876\n\nBuilt by: louislam, CommanderStorm, chakflying, Saibamen, Computroniks",
-      "trend_score": 79.46,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.806,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "author": "block",
-      "summary": "A hive mind communication platform",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "Rust",
-      "score": 97,
-      "comment_count": 4942,
-      "total_stars": 37308,
-      "built_by": [
-        "wesbillman",
-        "wpfleger96",
-        "claude",
-        "tlongwell-block",
-        "klopez4212"
-      ],
-      "content_context": "A hive mind communication platform\n\nLanguage: Rust\n\nStars today: 97\n\nTotal stars: 37308\n\nBuilt by: wesbillman, wpfleger96, claude, tlongwell-block, klopez4212",
-      "trend_score": 79.07,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.796,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "author": "tailscale",
-      "summary": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
-      "language": "Go",
-      "score": 256,
-      "comment_count": 432,
-      "total_stars": 9476,
-      "built_by": [
-        "bradfitz",
-        "danderson",
-        "andrew-d",
-        "raggi",
-        "jwhited"
-      ],
-      "content_context": "like netcat, but over Tailscale's data plane, without Tailscale's control plane\n\nLanguage: Go\n\nStars today: 256\n\nTotal stars: 9476\n\nBuilt by: bradfitz, danderson, andrew-d, raggi, jwhited",
-      "trend_score": 76.46,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.727,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "author": "backnotprop",
-      "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "author": "ChromeDevTools",
+      "summary": "Chrome DevTools for coding agents",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
       "language": "TypeScript",
-      "score": 108,
-      "comment_count": 787,
-      "total_stars": 10479,
+      "score": 664,
+      "comment_count": 4759,
+      "total_stars": 56324,
       "built_by": [
-        "backnotprop",
-        "claude",
-        "utpalsinghdev",
-        "leoreisdias",
-        "uvw"
+        "OrKoN",
+        "dependabot",
+        "Lightning00Blade",
+        "browser-automation-bot",
+        "yulunz"
       ],
-      "content_context": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\nLanguage: TypeScript\n\nStars today: 108\n\nTotal stars: 10479\n\nBuilt by: backnotprop, claude, utpalsinghdev, leoreisdias, uvw",
-      "trend_score": 75.46,
+      "content_context": "Chrome DevTools for coding agents\n\nLanguage: TypeScript\n\nStars today: 664\n\nTotal stars: 56324\n\nBuilt by: OrKoN, dependabot, Lightning00Blade, browser-automation-bot, yulunz",
+      "trend_score": 86.44,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.701,
+        "engagement": 0.99,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "author": "QwenLM",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "TypeScript",
+      "score": 64,
+      "comment_count": 3502,
+      "total_stars": 30358,
+      "built_by": [
+        "wenshao",
+        "qwencoder",
+        "yiliang114",
+        "tanzhenxin",
+        "qwen-code-dev-bot"
+      ],
+      "content_context": "An open-source AI coding agent that lives in your terminal.\n\nLanguage: TypeScript\n\nStars today: 64\n\nTotal stars: 30358\n\nBuilt by: wenshao, qwencoder, yiliang114, tanzhenxin, qwen-code-dev-bot",
+      "trend_score": 86.4,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.798,
+        "topic_overlap": 0.333,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "author": "JuliusBrussee",
+      "summary": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "Go",
+      "score": 227,
+      "comment_count": 7001,
+      "total_stars": 120089,
+      "built_by": [
+        "JuliusBrussee",
+        "claude",
+        "github-actions",
+        "nikpushkarski",
+        "AmirF194"
+      ],
+      "content_context": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\nLanguage: Go\n\nStars today: 227\n\nTotal stars: 120089\n\nBuilt by: JuliusBrussee, claude, github-actions, nikpushkarski, AmirF194",
+      "trend_score": 84.29,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.933,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "author": "dream-num",
+      "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "TypeScript",
+      "score": 495,
+      "comment_count": 2227,
+      "total_stars": 24512,
+      "built_by": [
+        "jikkai",
+        "DR-Univer",
+        "wpxp123456",
+        "wzhudev",
+        "Dushusir"
+      ],
+      "content_context": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\nLanguage: TypeScript\n\nStars today: 495\n\nTotal stars: 24512\n\nBuilt by: jikkai, DR-Univer, wpxp123456, wzhudev, Dushusir",
+      "trend_score": 83.89,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.923,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1164,11 +1060,11 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "author": "tradermonty",
       "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "published_at": "2026-11-14T01:58:01.952796+00:00",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
       "language": "Python",
-      "score": 69,
-      "comment_count": 870,
-      "total_stars": 4195,
+      "score": 553,
+      "comment_count": 994,
+      "total_stars": 4837,
       "built_by": [
         "claude",
         "tradermonty",
@@ -1176,11 +1072,107 @@
         "raikkonenPotter",
         "wolframarnold"
       ],
-      "content_context": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\nLanguage: Python\n\nStars today: 69\n\nTotal stars: 4195\n\nBuilt by: claude, tradermonty, dependabot, raikkonenPotter, wolframarnold",
-      "trend_score": 74.49,
+      "content_context": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\nLanguage: Python\n\nStars today: 553\n\nTotal stars: 4837\n\nBuilt by: claude, tradermonty, dependabot, raikkonenPotter, wolframarnold",
+      "trend_score": 82.38,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.675,
+        "engagement": 0.883,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "author": "backnotprop",
+      "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "TypeScript",
+      "score": 408,
+      "comment_count": 925,
+      "total_stars": 11150,
+      "built_by": [
+        "backnotprop",
+        "claude",
+        "utpalsinghdev",
+        "leoreisdias",
+        "uvw"
+      ],
+      "content_context": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\nLanguage: TypeScript\n\nStars today: 408\n\nTotal stars: 11150\n\nBuilt by: backnotprop, claude, utpalsinghdev, leoreisdias, uvw",
+      "trend_score": 81.36,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.856,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "author": "ashhart",
+      "summary": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "Zig",
+      "score": 37,
+      "comment_count": 498,
+      "total_stars": 2167,
+      "built_by": [
+        "ashhart",
+        "jschmied",
+        "BobClawblaw",
+        "laudney",
+        "BlivionIaG"
+      ],
+      "content_context": "LLM Inference Engine for Metal, CUDA and Vulkan.\n\nLanguage: Zig\n\nStars today: 37\n\nTotal stars: 2167\n\nBuilt by: ashhart, jschmied, BobClawblaw, laudney, BlivionIaG",
+      "trend_score": 73.22,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.642,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "author": "ag-ui-protocol",
+      "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "published_at": "2026-11-15T01:30:00.130148+00:00",
+      "language": "TypeScript",
+      "score": 9,
+      "comment_count": 1667,
+      "total_stars": 17381,
+      "built_by": [
+        "ranst91",
+        "contextablemark",
+        "mme",
+        "claude",
+        "jpr5"
+      ],
+      "content_context": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\nLanguage: TypeScript\n\nStars today: 9\n\nTotal stars: 17381\n\nBuilt by: ranst91, contextablemark, mme, claude, jpr5",
+      "trend_score": 72.18,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.614,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1192,139 +1184,52 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "GigChain Keys – a free, open-source MainStage alternative",
-      "url": "https://github.com/xDarkzx/GigChain-Keys",
-      "author": "DanHodgetts",
+      "title": "US aviation shutdown blamed on L3 Harris installed router",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-aviation-shutdown-blamed-l3-harris-installed-router-2026-11-14/",
+      "author": "christhecaribou",
       "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-11-14T01:47:30+00:00",
-      "summary": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...",
+      "comment_count": 1,
+      "published_at": "2026-11-15T01:18:45+00:00",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here.",
       "comment_highlights": [
-        "[flagged]"
+        "<a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here."
       ],
-      "linked_context": {
-        "resolved_url": "https://github.com/xDarkzx/GigChain-Keys",
-        "page_title": "GitHub - xDarkzx/GigChain-Keys: Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS and Linux.",
-        "page_description": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...",
-        "page_excerpt": "Download · Getting started · User guide · Get help · What's new · Discord · ♥ Sponsor\n\nGigChain Keys is a live-performance host for keyboard players, in the spirit of MainStage and Gig Performer. It plays the VST3 and VST2 instruments and effects already on your computer, keeps every song of the night in a setlist with its own sounds, shows each song's chords and lyrics big enough to read from the keys, and turns those chords into notes falling onto a keyboard so you can practise...\n\nIt is free , with no adverts, no licence keys and no nag screens. It is open source too, under the GPL."
-      },
-      "content_context": "Free, open-source live rig for keyboard players: your VST3 sounds, setlists and chord charts, a song timeline with live controls, a stage-ready Perform mode and practice warm-ups. Windows, macOS an...\n\nDownload · Getting started · User guide · Get help · What's new · Discord · ♥ Sponsor GigChain Keys is a live-performance host for keyboard players, in the spirit of MainStage and Gig Performer. It plays the VST3 and VST2 instruments and effects already on your computer, keeps every song of the night in a setlist with its own sounds, shows each song's chords and lyrics big enough to read from the keys, and turns those chords into notes falling onto a keyboard so you can practise... It is free , with no adverts, no licence keys and no nag screens. It is open source too, under the GPL.\n\nHN comment: [flagged]",
-      "trend_score": 62.42,
+      "linked_context": {},
+      "content_context": "HN comment: <a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a> - L3 Harris' (anemic) statement being discussed over here.",
+      "trend_score": 50.22,
       "trend_breakdown": {
         "freshness": 0.992,
-        "engagement": 0.077,
-        "topic_overlap": 0.571,
+        "engagement": 0.123,
+        "topic_overlap": 0.0,
         "source_weight": 0.9,
-        "domain_weight": 1.18
+        "domain_weight": 1.14
       },
       "domains": [
-        "technology"
+        "finance"
       ]
     },
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "FAA lifted National Ground Stop at 0119Z",
-      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-      "author": "d3nit",
-      "score": 54,
-      "comment_count": 15,
-      "published_at": "2026-11-14T01:30:01+00:00",
-      "summary": "FAA - Advisories Database",
-      "comment_highlights": [
-        "The reason field is empty, but the website footer provides enough information to understand.",
-        "Do we have any indication of what went wrong? The incident report will be very interesting.",
-        "ATCSCC Advisory ATCSCC ADVZY 005 DCC 11/14/2026 CNX NATIONWIDE GROUND STOP MESSAGE:<p>EVENT TIME: 14/0116 - 14/0130 DESTINATION AIRPORT:ALL FACILITIES INCLUDED: ALL EXPECT UPDATE:0400Z REASON: REMARKS: THE FAA COMMAND CENTER NATIONWIDE GROUND STOP HAS BEEN CANCELLED. EFFECTIVE TIME:<p>140119-1402..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-        "page_title": "ATCSCC Advisory",
-        "page_description": "FAA - Advisories Database",
-        "page_excerpt": "FAA.gov Home | Privacy Policy | Web Policies & Notices | Contact Us\n\nReaders & Viewers: PDF Reader | MS Word Viewer | MS PowerPoint Viewer | MS Excel Viewer | WinZip"
-      },
-      "content_context": "FAA - Advisories Database\n\nFAA.gov Home | Privacy Policy | Web Policies & Notices | Contact Us Readers & Viewers: PDF Reader | MS Word Viewer | MS PowerPoint Viewer | MS Excel Viewer | WinZip\n\nHN comment: The reason field is empty, but the website footer provides enough information to understand.\n\nHN comment: Do we have any indication of what went wrong? The incident report will be very interesting.\n\nHN comment: ATCSCC Advisory ATCSCC ADVZY 005 DCC 11/14/2026 CNX NATIONWIDE GROUND STOP MESSAGE:<p>EVENT TIME: 14/0116 - 14/0130 DESTINATION AIRPORT:ALL FACILITIES INCLUDED: ALL EXPECT UPDATE:0400Z REASON: REMARKS: THE FAA COMMAND CENTER NATIONWIDE GROUND STOP HAS BEEN CANCELLED. EFFECTIVE TIME:<p>140119-1402...",
-      "trend_score": 62.4,
-      "trend_breakdown": {
-        "freshness": 0.98,
-        "engagement": 0.435,
-        "topic_overlap": 0.5,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Open-source ChatGPT Enterprise alternative, built on the Codex runtime",
-      "url": "https://github.com/LingX-AI/LinkSense",
-      "author": "snasan",
+      "title": "Nozzle: A streaming library that emits when possible and buffers where necessary",
+      "url": "https://github.com/Robert-Cunningham/nozzle",
+      "author": "robertvc",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-14T01:25:10+00:00",
-      "summary": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense",
-      "comment_highlights": [
-        "[dead]"
-      ],
+      "published_at": "2026-11-15T01:13:52+00:00",
+      "summary": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle",
+      "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://github.com/LingX-AI/LinkSense",
-        "page_title": "GitHub - LingX-AI/LinkSense: The open-source alternative to WorkBuddy / ChatGPT Enterprise.",
-        "page_description": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense",
-        "page_excerpt": "⭐ Help more people find LinkSense and grow the community. Star this repo!\n\nLinkSense gives organizations one governed place to run agent tasks, share reusable Knowledge, Skills, Plugins, and Applications, and connect business systems without handing members the underlying credentials. Deploy it on your servers or private cloud, choose hosted or compatible local models, and keep task data and files on your own infrastructure.\n\nLinkSense supports Linux and macOS hosts with Docker. A Core evaluation needs at least 4 vCPU, 8 GiB of memory available to Docker, and 60 GiB of free SSD. Full adds built-in document parsing, indexing, and retrieval and needs more capacity."
+        "resolved_url": "https://github.com/Robert-Cunningham/nozzle",
+        "page_title": "GitHub - Robert-Cunningham/nozzle: Nozzle is a text streaming library that emits when possible and buffers where necessary.",
+        "page_description": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle",
+        "page_excerpt": "A text streaming library that emits when possible and buffers where necessary.\n\nNozzle is a small TypeScript library for handling text streamed from LLMs. Its functions buffer only where necessary and otherwise emit chunks as soon as possible. For example, regexes buffer a potential match only until it's confirmed or rejected, and emit everything around it immediately.\n\nStream just the code block to a preview while the model is still writing, then save it."
       },
-      "content_context": "The open-source alternative to WorkBuddy / ChatGPT Enterprise. - LingX-AI/LinkSense\n\n⭐ Help more people find LinkSense and grow the community. Star this repo! LinkSense gives organizations one governed place to run agent tasks, share reusable Knowledge, Skills, Plugins, and Applications, and connect business systems without handing members the underlying credentials. Deploy it on your servers or private cloud, choose hosted or compatible local models, and keep task data and files on your own infrastructure. LinkSense supports Linux and macOS hosts with Docker. A Core evaluation needs at least 4 vCPU, 8 GiB of memory available to Docker, and 60 GiB of free SSD. Full adds built-in document parsing, indexing, and retrieval and needs more capacity.\n\nHN comment: [dead]",
-      "trend_score": 59.11,
+      "content_context": "Nozzle is a text streaming library that emits when possible and buffers where necessary. - Robert-Cunningham/nozzle\n\nA text streaming library that emits when possible and buffers where necessary. Nozzle is a small TypeScript library for handling text streamed from LLMs. Its functions buffer only where necessary and otherwise emit chunks as soon as possible. For example, regexes buffer a potential match only until it's confirmed or rejected, and emit everything around it immediately. Stream just the code block to a preview while the model is still writing, then save it.",
+      "trend_score": 49.16,
       "trend_breakdown": {
-        "freshness": 0.977,
-        "engagement": 0.048,
-        "topic_overlap": 0.5,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "FAA lifts ground stop at U.S. airports",
-      "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
-      "author": "lisper",
-      "score": 3,
-      "comment_count": 0,
-      "published_at": "2026-11-14T01:47:12+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": null,
-      "trend_score": 54.04,
-      "trend_breakdown": {
-        "freshness": 0.992,
-        "engagement": 0.097,
-        "topic_overlap": 0.6,
-        "source_weight": 0.9,
-        "domain_weight": 1.0
-      },
-      "domains": []
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Making Software – Quantum Computing",
-      "url": "https://www.makingsoftware.com/chapters/quantum-computing",
-      "author": "Brajeshwar",
-      "score": 2,
-      "comment_count": 0,
-      "published_at": "2026-11-14T01:38:05+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {},
-      "content_context": null,
-      "trend_score": 49.97,
-      "trend_breakdown": {
-        "freshness": 0.986,
-        "engagement": 0.077,
+        "freshness": 0.989,
+        "engagement": 0.052,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.18
@@ -1332,168 +1237,249 @@
       "domains": [
         "technology"
       ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "author": "ybathaee",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-15T01:18:36+00:00",
+      "summary": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling.\n\nA federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers.\n\nU.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "page_title": "Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron",
+        "page_description": null,
+        "page_excerpt": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling.\n\nA federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers.\n\nU.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven."
+      },
+      "content_context": "Judge Noël Wise found buyers plausibly alleged a conspiracy to restrict conventional memory chip supply, distinguishing the Ninth Circuit's 2022 DRAM II ruling. A federal judge on Nov. 14 declined to dismiss a proposed class action accusing Samsung, SK Hynix and Micron of conspiring to restrict the supply of conventional dynamic random-access memory, or DRAM, the chips that provide temporary, high-speed data storage in computers, phones and servers. U.S. District Judge Noël Wise of the Northern District of California denied the companies' joint motion to dismiss, finding the complaint plausibly alleged an agreement in violation of Section 1 of the Sherman Act. The allegations, accepted as true at this stage, have not been proven.",
+      "trend_score": 47.65,
+      "trend_breakdown": {
+        "freshness": 0.992,
+        "engagement": 0.052,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Blogsearch.io – Search the Independent Web",
+      "url": "https://blogsearch.io/",
+      "author": "Curiositry",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-11-15T01:22:56+00:00",
+      "summary": "A search engine for personal blogs and independent websites.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://blogsearch.io/",
+        "page_title": "Blog Search",
+        "page_description": null,
+        "page_excerpt": "A search engine for personal blogs and independent websites."
+      },
+      "content_context": "A search engine for personal blogs and independent websites.",
+      "trend_score": 47.37,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.082,
+        "topic_overlap": 0.25,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Behind Jensen Huang's spy scandal, a shadow war for Trump's ear on China",
+      "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+      "author": "anigbrowl",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-11-15T01:14:54+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": null,
+      "trend_score": 46.25,
+      "trend_breakdown": {
+        "freshness": 0.989,
+        "engagement": 0.082,
+        "topic_overlap": 0.2,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
     }
   ],
   "notes": [
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI与开源领域热点聚焦于开发工具与基础设施的创新。OpenAI开源了结合AI能力的Codex Security CLI及TypeScript SDK，旨在自动化代码安全漏洞检测；阿里巴巴则推出了融合确定性流水线与LLM Agent的Open Code Review工具，提升代码审查智能化水平。同时，Google Chrome团队发布的modern-web-guidance-src项目，为AI编码代理提供最新的Web开发最佳实践指南，体现了AI辅助开发工具的生态演进。在应用层面，LLM驱动的股票分析系统daily_stock_analysis热度飙升，展示了AI在垂直金融领域的决策支持潜力；而tailcat等去中心化网络工具，则为分布式AI计算提供了关键基础设施支持。",
+    "overview": "今日AI领域热点聚焦于开发工具与智能体工作流的深度整合。阿里巴巴开源混合架构代码审查工具Open Code Review，结合规则引擎与LLM智能体，提升代码安全与质量自动化水平。Google Chrome团队推出面向AI编码代理的现代Web指南项目，以及将Chrome DevTools能力封装为MCP服务的项目，旨在优化AI辅助开发体验。通义千问的终端AI编程代理qwen-code和理念独特的Caveman项目，分别从集成场景和成本优化角度探索AI与开发者工作流的融合。此外，Univer Office SDK为构建AI办公解决方案提供核心能力，而Plannotator则致力于打造智能体协同工作空间。金融垂直领域也出现Claude交易技能集，展示AI在专业场景的应用潜力。",
     "named_hotspots": [
-      {
-        "name": "Codex Security CLI & TypeScript SDK",
-        "kind": "product",
-        "source": "GitHub Trending",
-        "what_happened": "OpenAI在GitHub上开源了Codex Security CLI和TypeScript SDK，这是一个用于发现、验证和修复安全漏洞的工具。",
-        "core_details": "该项目是一个TypeScript编写的安全工具，提供命令行界面和SDK，旨在帮助开发者识别和解决代码中的安全漏洞。它在GitHub上趋势榜表现突出，今日新增751颗星，总星数达13155。",
-        "ai_take": "这体现了OpenAI将AI能力（如Codex）与安全工程结合的趋势，通过自动化工具提升代码安全性的实践方向。",
-        "hype_check": "项目热度较高，在GitHub趋势榜排名靠前，且社区关注度（星数、讨论数）显著，但需观察实际采用率和效果。",
-        "value_check": "对于TypeScript/JavaScript开发者，该工具可能直接提升开发流程中的安全检测效率；但作为新开源项目，其成熟度和覆盖场景有待验证。",
-        "follow_up": "关注npm包@openai/codex-security的下载量、版本更新及社区反馈，以评估其实际影响力和工具稳定性。",
-        "evidence": "GitHub仓库显示项目由OpenAI团队维护，语言为TypeScript，链接：https://github.com/openai/codex-security；npm包地址：https://www.npmjs.com/package/@openai/codex-security。"
-      },
-      {
-        "name": "daily_stock_analysis",
-        "kind": "project",
-        "source": "github-trending",
-        "what_happened": "一个名为 daily_stock_analysis 的 GitHub 项目在趋势榜上热度飙升，该项目是一个由大语言模型（LLM）驱动的多市场股票智能分析系统，旨在提供自动化、低成本的股票分析解决方案。",
-        "core_details": "该项目由 ZhuLinsen 等人开发，使用 Python 语言编写。系统核心功能包括整合多源市场行情数据、抓取实时新闻、生成可视化决策看板以及自动推送分析结果。其突出特点是支持零成本定时运行，降低了用户的使用门槛。项目在 GitHub 上单日获得 256 颗星，总星数已达 71651，显示出极高的社区关注度。",
-        "ai_take": "该项目将大语言模型应用于金融分析领域，尝试利用 LLM 处理和理解多源非结构化信息（如新闻），并生成投资决策辅助内容。这代表了 AI 在垂直行业（金融科技）中从通用内容生成向专业决策支持演进的一个具体案例。其“零成本运行”的设计也反映了当前开源 AI 应用降低算力门槛的趋势。",
-        "hype_check": "热度很高。单日新增大量星标和极高的总星数表明其在开发者与金融科技爱好者社区中引起了强烈兴趣。概念（LLM+量化分析）本身具有吸引力，且“零成本”的承诺切中了个人投资者和小型机构的需求痛点。",
-        "value_check": "潜在价值明确。如果系统能稳定、可靠地运行，它为个人投资者、分析师或小型投资团队提供了一个自动化、低门槛的分析工具原型，可能提升信息获取和初步分析的效率。但其实际投资决策的有效性、数据源的准确性与实时性、以及 LLM 在复杂金融逻辑推理中的可靠性，仍需经过严格的市场检验。",
-        "follow_up": "需要关注该项目的后续更新，尤其是其实际部署案例、回测性能分析以及社区用户的使用反馈。同时，应留意类似的开源金融 AI 分析项目，观察该领域是否会出现更成熟的产品或形成一定的工具生态。",
-        "evidence": "项目描述明确指出其为“LLM 驱动的多市场股票智能分析系统”，并列举了核心功能：多源行情、实时新闻、决策看板、自动推送、零成本定时运行。GitHub 趋势数据（单日星标 256，总星标 71651）和开发者信息（ZhuLinsen 等）提供了其流行度和来源佐证。"
-      },
       {
         "name": "Alibaba Open Code Review",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "阿里巴巴开源了一个名为Open Code Review的代码审查工具，该项目在GitHub上趋势榜中热度较高，今日新增215颗星，总星数已达50657。",
-        "core_details": "该项目是一个安全、快速、高效的代码审查工具，在阿里巴巴大规模实践中经过验证。采用混合架构，结合确定性流水线和LLM Agent，提供精确的行级注释，内置多语言规则集（涵盖空指针异常、线程安全、XSS攻击、SQL注入等），并兼容OpenAI和Anthropic的模型。项目使用Go语言开发。",
-        "ai_take": "该项目将传统确定性代码审查规则与LLM Agent相结合，代表了AI在代码质量与安全自动化领域的一个实用化方向。通过利用大语言模型的推理能力增强静态分析，可能提高复杂漏洞的检测精度和代码审查的智能化水平。",
-        "hype_check": "热度较高，作为阿里巴巴开源且经过内部大规模实战检验的项目，吸引了开发者社区的广泛关注。高星数和趋势排名反映了其在工具链领域的潜在影响力。",
-        "value_check": "对于开发团队，尤其是中大型企业，该工具提供了开箱即用的、融合了AI能力的代码审查解决方案，可能有助于提升代码质量、安全性和审查效率。其开源性质也便于社区贡献和定制。",
-        "follow_up": "关注该项目的后续版本更新、社区采纳情况，以及其LLM Agent在实际不同代码库和团队中的表现效果。同时可观察是否有其他云厂商或公司推出类似竞品。",
-        "evidence": "信息来源于GitHub趋势榜项目页面。项目描述强调其“安全、快速、高效、经过阿里巴巴规模实战检验”、“混合架构：确定性流水线+LLM Agent”、“内置多语言规则集”以及“兼容OpenAI & Anthropic”。项目语言为Go，今日获星215，总星数50657。"
-      },
-      {
-        "name": "Sure",
-        "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为Sure的个人财务管理开源项目在GitHub上趋势飙升，今日获得925颗星，总星数达14775，由we-promise组织维护，使用Ruby语言开发。",
-        "core_details": "该项目定位为“为每个人（由每个人构建）的个人理财应用”，强调社区协作。贡献者包括jjmata、dependabot、claude、zachgoll、Shpigford等，目前有1121条评论，显示较高的社区参与度。",
-        "ai_take": "该项目体现了开源社区通过协作构建实用工具的趋势，虽然未明确提及AI，但依赖自动化工具（如dependabot）和可能的AI辅助开发（贡献者含“claude”），反映了AI在开源项目管理和代码生成中的渗透。",
-        "hype_check": "趋势分数81.89和单日高星数表明短期关注度爆发，但需注意这可能源于营销或社区推广，而非技术突破；长期热度需观察其功能迭代和用户留存。",
-        "value_check": "作为开源个人理财应用，它降低了金融工具的使用门槛，促进透明度；但Ruby生态在金融科技中并非主流，可能面临性能和安全挑战，实际价值取决于其功能完整性和社区维护持续性。",
-        "follow_up": "关注项目路线图以了解是否集成AI功能如智能预算分析；监控用户反馈和安全性更新；对比同类开源项目（如Firefly III）评估其差异化优势。",
-        "evidence": "GitHub页面显示项目描述、星数增长、贡献者列表及语言信息；高评论数表明活跃讨论；趋势数据来自GitHub Trending榜单。"
+        "what_happened": "阿里巴巴在GitHub上开源了一个名为Open Code Review的代码审查工具，该项目今日获得893颗星，总星数已达51455，引发开发者社区关注。",
+        "core_details": "该项目是一个混合架构的代码审查工具，结合了确定性流水线与LLM智能体，能提供精确到行级的代码注释。内置多语言规则集，可检测空指针异常、线程安全、跨站脚本攻击和SQL注入等常见安全问题，并兼容OpenAI和Anthropic的模型。项目采用Go语言编写，已在阿里巴巴内部大规模实战验证。",
+        "ai_take": "该项目将传统规则引擎与LLM智能体相结合，代表了AI在代码质量与安全自动化领域的新趋势。通过LLM增强的上下文理解能力，有望提升静态代码分析的准确性与实用性，特别是在处理复杂业务逻辑和新兴漏洞模式时。",
+        "hype_check": "高热度合理，因为该项目来自阿里巴巴的技术实践，直接针对开发者的日常痛点（代码质量与安全），且开源即具备生产级成熟度。总星数超5万表明其已积累长期关注，今日趋势飙升反映新版本或宣传带来的二次爆发。",
+        "value_check": "实际价值显著：为开发团队提供了一套可立即集成的企业级代码审查方案，尤其对中大型项目而言，能降低安全风险、提升代码一致性。开源形态允许社区贡献规则和适配，可能推动行业代码审查标准的演进。",
+        "follow_up": "关注该项目在非Java/Go生态中的适配进展，以及社区是否会基于其架构衍生出更多专项规则集。同时可观察其他云厂商（如AWS、Google）是否会推出类似开源工具作为回应。",
+        "evidence": "项目描述明确指出“在阿里巴巴规模下经过实战测试”、“混合架构：确定性流水线+LLM智能体”、“内置多语言规则集”及兼容主流AI模型。GitHub数据（今日893星，总星51455，Go语言编写）佐证其热度与技术选型。"
       },
       {
         "name": "modern-web-guidance-src",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "Google Chrome团队在GitHub上开源了一个名为modern-web-guidance-src的项目，该项目旨在帮助开发者及其编码助手（如AI编程代理）跟上最新的Web最佳实践。",
-        "core_details": "该项目由Google Chrome团队维护，主要贡献者包括paulirish、rviscomi、micahjo7等。项目使用TypeScript编写，今日新增1925颗星，总星数达4902，在GitHub趋势榜上获得80.83的趋势评分，并收到272条评论。",
-        "ai_take": "该项目直接面向AI编码代理，提供结构化的现代Web开发指南，有助于提升AI在代码生成、审查和优化时的准确性与前沿性，是AI辅助开发工具的重要知识库更新。",
-        "hype_check": "趋势评分较高且单日获星近两千，显示开发者社区对权威、更新的Web开发指南有强烈需求，尤其关注AI编码工具的适配。",
-        "value_check": "作为Google Chrome官方项目，其指南具有权威性和实践性，能为开发者及AI工具提供可靠的Web开发现代化参考，降低技术债务风险。",
-        "follow_up": "关注项目后续的更新频率、社区采纳情况，以及是否被集成到主流AI编程助手（如GitHub Copilot、Codeium）中。",
-        "evidence": "项目描述明确指出“Keep your coding agent up to date with the latest web best practices”，且由Google Chrome团队发布，GitHub数据（趋势评分、星数、语言）支持其热度与技术定位。"
+        "source": "github-trending",
+        "what_happened": "Google Chrome团队在GitHub上开源了一个名为modern-web-guidance-src的项目，该项目旨在帮助开发者及其编码代理（如AI助手）保持对最新Web最佳实践的了解。",
+        "core_details": "该项目使用TypeScript编写，由Google Chrome团队的成员（如paulirish、rviscomi等）维护。在GitHub趋势榜上，该项目今日获得了1231颗星，总星数已达6080，显示出较高的关注度。",
+        "ai_take": "该项目直接面向AI编码代理，提供了结构化的Web开发指南，有助于提升AI在代码生成、审查和优化方面的准确性与现代性，是AI工具链的重要补充资源。",
+        "hype_check": "趋势分数高达86.97，且单日获星超千颗，表明开发者社区对标准化、前沿Web实践指南有强烈需求，但需注意这更多是工具性关注，而非技术突破。",
+        "value_check": "对于依赖AI辅助的Web开发者，该项目能确保编码建议符合最新标准，减少技术债务；对于AI训练，它提供了权威的、持续更新的语料来源。",
+        "follow_up": "关注该项目在GitHub上的更新频率及社区反馈，观察其是否被集成到主流AI编码工具中。",
+        "evidence": "项目描述明确指出“Keep your coding agent up to date with the latest web best practices”，且由Google Chrome官方团队维护，GitHub数据（如星数、语言）支持其流行度。"
       },
       {
-        "name": "Uptime Kuma",
+        "name": "Chrome DevTools MCP",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为Uptime Kuma的自托管监控工具在GitHub趋势榜上受到关注，今日新增71颗星，总星数已达93876。",
-        "core_details": "Uptime Kuma是由开发者louislam等人使用JavaScript构建的开源项目，它是一个功能丰富的自托管监控工具，允许用户自行部署以监控网站和服务的运行状态。",
-        "ai_take": "虽然Uptime Kuma本身不是AI工具，但其自托管和监控理念与AI基础设施管理中的可观测性趋势相契合，可能为AI系统部署提供轻量级监控解决方案。",
-        "hype_check": "该项目在GitHub上拥有近10万颗星，表明其在开发者社区中具有较高的认可度和实用性，但需注意其热度主要来自运维和自托管爱好者群体。",
-        "value_check": "作为开源自托管工具，Uptime Kuma提供了成本可控的监控替代方案，特别适合中小型项目或个人开发者，减少了依赖第三方服务的风险和费用。",
-        "follow_up": "关注其与容器化、Kubernetes或AI工作负载监控的集成可能性，以及社区是否会开发针对AI模型服务可用性的特定插件。",
-        "evidence": "GitHub仓库显示项目语言为JavaScript，总星数93876，今日新增71星，由louislam等主要贡献者维护，描述为“一个花哨的自托管监控工具”。"
+        "what_happened": "Chrome DevTools团队在GitHub上开源了一个名为chrome-devtools-mcp的项目，该项目旨在为编码智能体（coding agents）提供Chrome DevTools的功能支持。",
+        "core_details": "该项目使用TypeScript语言开发，今日获得664颗星，总星数已达56324。主要贡献者包括OrKoN、dependabot、Lightning00Blade、browser-automation-bot和yulunz。",
+        "ai_take": "该项目将Chrome DevTools的调试能力封装为MCP（Model Context Protocol）服务，使AI编码助手能够直接调用浏览器调试功能，如检查DOM、网络请求、性能分析等，从而提升AI在Web开发任务中的自动化与调试效率。",
+        "hype_check": "项目在GitHub趋势榜上热度较高（趋势得分86.44），单日获星数显著，表明开发者社区对AI与开发工具结合的前景关注度提升，但实际应用案例和生态成熟度仍需观察。",
+        "value_check": "为AI编码助手提供了标准化的浏览器调试接口，有望降低Web自动化开发的复杂度，但需评估其与现有AI工具链的集成难度及性能开销。",
+        "follow_up": "关注项目后续版本更新、与主流AI编码平台（如Cursor、GitHub Copilot）的集成进展，以及开发者社区的实际使用反馈。",
+        "evidence": "项目描述明确指出“Chrome DevTools for coding agents”，GitHub数据（语言、星数、贡献者）及趋势排名可作为技术热度的佐证。"
       },
       {
-        "name": "block/buzz",
+        "name": "QwenLM/qwen-code",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub 开源项目 block/buzz 登上趋势榜，这是一个用 Rust 编写的蜂群思维通信平台。",
-        "core_details": "该项目今日获 97 颗星，总星数达 37308，由 wesbillman 等多位贡献者开发。它是一个旨在实现群体高效通信的软件平台。",
-        "ai_take": "蜂群思维通信平台的概念与分布式AI和群体智能相关，可能探索去中心化、协同决策或实时信息同步的AI应用场景。",
-        "hype_check": "趋势分 79.07 和较高的日增星数表明其在开发者社区中受到关注，但需观察其实际应用和生态发展。",
-        "value_check": "作为 Rust 项目，它强调性能和安全性；蜂群通信理念在协作工具、物联网或分布式系统领域可能有潜在价值。",
-        "follow_up": "关注项目后续版本更新、实际部署案例，以及是否集成AI驱动功能如智能路由或共识算法。",
-        "evidence": "项目描述为“蜂群思维通信平台”，使用 Rust 语言，GitHub 数据：今日星数 97，总星数 37308，趋势分 79.07。"
+        "what_happened": "通义千问团队在GitHub上开源了一个名为qwen-code的AI编程代理项目，该项目在终端中运行，今日新增64颗星，总星数已达30358，引发开发者社区关注。",
+        "core_details": "qwen-code是一个开源的AI编程代理，设计为在终端环境中直接使用，使用TypeScript语言开发。项目由wenshao、qwencoder、yiliang114、tanzhenxin及qwen-code-dev-bot等贡献者构建。目前项目热度较高，在GitHub趋势榜上有名。",
+        "ai_take": "该项目代表了AI与开发者工作流深度集成的一个趋势，即通过终端内的智能代理辅助代码编写、调试或自动化任务，可能提升开发效率并降低上下文切换成本。",
+        "hype_check": "项目总星数超过3万且登上趋势榜，表明其在开源社区中已获得显著关注和认可，但需观察其实际采用率与生态建设情况。",
+        "value_check": "作为开源项目，它降低了开发者使用AI编程工具的门槛，并可能通过社区协作快速迭代。其终端集成的设计瞄准了专业开发者的核心工作场景，实用价值明确。",
+        "follow_up": "可关注其版本更新频率、社区活跃度（如Issue和PR数量）、是否集成或支持主流大模型（如Qwen系列），以及与其他开发工具（如编辑器、CLI工具）的兼容性进展。",
+        "evidence": "GitHub仓库显示项目描述为“一个生活在终端中的开源AI编程代理”，语言为TypeScript，总星数30358，今日增星64，贡献者列表包括多位核心开发者。"
       },
       {
-        "name": "tailcat",
+        "name": "Caveman",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "Tailscale 团队在 GitHub 上开源了一个名为 tailcat 的项目，该项目在今日获得 256 颗星，总星数已达 9476，成为趋势项目。",
-        "core_details": "tailcat 是一个用 Go 语言编写的工具，其核心设计理念是“类似于 netcat，但运行在 Tailscale 的数据平面上，而不依赖 Tailscale 的控制平面”。这意味着它能在 Tailscale 建立的加密、点对点网络中直接进行数据传输，但绕过了中心化的控制服务器，提供了更直接、可能延迟更低的网络工具。项目由 bradfitz, danderson, andrew-d, raggi, jwhited 等开发者构建。",
-        "ai_take": "该项目本身不直接涉及人工智能，但其底层技术——去中心化、安全的点对点网络——是分布式AI计算、联邦学习或边缘AI设备间安全通信的关键基础设施组件。tailcat 作为该网络上的一个高效数据管道工具，可以简化这些AI应用场景中节点间的数据交换。",
-        "hype_check": "热度较高但合理。作为知名网络公司 Tailscale 的开源工具，且以简洁实用的方式展示了其核心技术（数据平面）的价值，吸引了开发者和运维人员的关注。256的日增星数表明其受到了社区即时且积极的关注。",
-        "value_check": "实用价值明确。对于已经使用或考虑使用 Tailscale 构建安全内网的用户，tailcat 提供了一个轻量级、原生的网络调试和数据传输工具，无需复杂配置即可利用现有安全隧道，提升了运维和开发的便利性。",
-        "follow_up": "关注 Tailscale 官方博客或 GitHub 仓库，以获取 tailcat 的后续更新、使用案例以及如何将其集成到更复杂的自动化脚本或CI/CD流程中。同时，可观察社区是否围绕其开发出与容器、IoT或特定服务发现工具集成的插件。",
-        "evidence": "项目描述明确其功能定位（“like netcat, but over Tailscale's data plane, without Tailscale's control plane”），编程语言为 Go，由 Tailscale 核心团队成员开发，GitHub 趋势数据（日增星256，总星9476）证实了其受关注程度。"
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Caveman的GitHub项目因其独特的理念迅速走红，该项目旨在通过模仿“原始人”的简单语言风格，为编码代理（AI助手）大幅减少提示词（token）使用量，据称可削减高达65%。",
+        "core_details": "Caveman是一个用Go语言编写的开源项目，由JuliusBrussee等人开发。其核心是一个“技能”或代理（proxy），通过强制AI助手（如Claude）使用极其简化的词汇和语法（类似“原始人”说话）来生成代码或响应，从而显著降低大型语言模型（LLM）API调用中的token消耗。项目在GitHub上单日获227颗星，总星数已超12万，显示出极高的社区关注度。",
+        "ai_take": "该项目触及了AI应用成本优化的一个关键痛点：token使用效率。通过设计特定的提示词约束，它展示了如何通过“语言风格工程”来直接影响LLM的输出复杂度和长度，为开发更经济高效的AI代理提供了有趣的思路。这本质上是提示词工程（prompt engineering）的一种极端实践。",
+        "hype_check": "热度很高且合理。项目概念简单、幽默（“为什么用很多词，几个词就够”），直击开发者对API成本敏感的痛点，易于理解和传播。单日大量新增星标和超高总星数证明了其病毒式传播效应和社区的强烈兴趣。",
+        "value_check": "具有明确的实用价值和启发意义。对于频繁使用LLM API进行代码生成或对话的开发者，减少token使用可直接降低成本。其方法虽然看似简单，但为优化提示词策略、设计轻量级AI交互界面提供了具体案例。开源性质也允许社区验证和改进。",
+        "follow_up": "关注该项目后续的版本更新、实际性能基准测试（benchmark）以及是否被集成到主流AI开发工具链中。同时，观察社区是否会涌现类似理念的“简约风格”提示词优化项目。",
+        "evidence": "项目描述明确写道：“Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.” GitHub趋势数据：语言为Go，单日星标227，总星数120089，项目由JuliusBrussee等人构建。"
+      },
+      {
+        "name": "Univer Office SDK",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "开源项目 Univer Office SDK 在 GitHub 趋势榜上热度显著，单日获 495 颗星，总星数达 24512，表明开发者社区对其兴趣浓厚。",
+        "core_details": "Univer 是一个基于 TypeScript 构建的可扩展开源核心，旨在帮助开发者将文档编辑、计算、协作和文件处理功能集成到自己的产品或 AI 智能体中，从而构建“AI 办公”解决方案。项目由 dream-num 团队维护。",
+        "ai_take": "该项目将传统办公套件能力与 AI 智能体工作流相结合，为 AI 应用提供了结构化的文档交互与协作基础，可能推动下一代 AI 办公自动化工具的发展。",
+        "hype_check": "热度较高，单日涨星近 500，总星数超过 2.4 万，反映出在开源社区和 AI 办公集成领域受到持续关注。",
+        "value_check": "提供了可嵌入的 SDK，降低了为产品和 AI 智能体添加办公功能的门槛，其开源和可扩展性增加了长期价值。",
+        "follow_up": "关注其在实际产品中的集成案例、与主流 AI 框架的兼容性进展，以及团队是否会推出基于此的云服务或企业版本。",
+        "evidence": "GitHub 项目描述明确指出“Build your own AI office with Univer Office SDK”，语言为 TypeScript，今日星数 495，总星数 24512，由 dream-num 组织维护。"
+      },
+      {
+        "name": "Claude Trading Skills",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为'claude-trading-skills'的GitHub项目在趋势榜上热度显著，今日获得553颗星，总星数达4837。",
+        "core_details": "该项目由用户'tradermonty'创建，主要使用Python语言开发。它是一个为股票投资者和交易员设计的Claude Code技能集合，功能涵盖市场分析、技术图表绘制、经济日历、股票筛选器以及交易策略开发。",
+        "ai_take": "该项目展示了将大型语言模型（如Claude）的代码生成能力具体应用于金融交易领域的实践。它通过提供一套预构建的技能工具，旨在帮助交易员利用AI辅助进行数据分析、策略制定等复杂任务，是AI+金融垂直应用的一个典型案例。",
+        "hype_check": "热度较高。项目在GitHub趋势榜上排名靠前（趋势得分82.38），单日获星数多，且总星数已近5000，表明其在开发者社区，尤其是对AI和量化交易交叉领域感兴趣的人群中，受到了持续的关注和认可。",
+        "value_check": "对于金融从业者、量化交易开发者或对AI辅助投资感兴趣的学习者具有实用价值。它提供了可直接使用或参考的代码模块，能降低开发相关分析工具的门槛。但其实际交易效能和风险控制能力需要用户自行验证和负责。",
+        "follow_up": "关注项目后续的更新频率、社区讨论（Issue/PR）以及是否有基于此的实际应用案例或性能回测结果出现。",
+        "evidence": "项目描述明确指出其功能范围（市场分析、技术图表等），GitHub数据（星数、语言、作者）提供了项目流行度和技术栈的证据。"
+      },
+      {
+        "name": "Plannotator",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Plannotator的GitHub项目在趋势榜上热度显著，单日获得408颗星，总星数已达11150。该项目定位为AI智能体工作空间，旨在帮助用户与智能体协同工作。",
+        "core_details": "Plannotator是一个用TypeScript编写的开源项目，由backnotprop等开发者构建。它提供了一个集成工作区，核心功能包括：对智能体进行塑形、决策、规划、代码标注与审查、团队协作共享，并能一键将所有反馈发送给智能体。",
+        "ai_take": "该项目反映了AI开发工作流向更集成、协作和反馈驱动方向演进的趋势。它试图解决开发者与AI智能体交互中的碎片化问题，通过统一平台管理规划、代码审查和团队反馈，可能提升智能体开发与调试的效率。",
+        "hype_check": "当前热度较高（趋势分81.36），单日获星数可观，总星数破万表明其已积累相当关注。但需注意，热度可能部分源于其解决了智能体开发中的通用痛点（如反馈闭环），而非技术突破。",
+        "value_check": "若功能如其所述，该工具对AI智能体开发团队具有实用价值，能整合多个环节（规划、标注、审查、反馈），可能减少上下文切换。其开源性质也利于社区贡献和适配。实际价值取决于其稳定性和与现有工具链的集成度。",
+        "follow_up": "可关注其版本更新是否增加对主流AI框架的支持，以及社区案例中如何具体用于智能体训练或生产环境。也可观察是否有公司基于此构建商业服务。",
+        "evidence": "项目描述明确指出其为“与智能体保持同步并掌控的工作空间”，功能列表包括塑形、决策、规划、标注、代码审查、团队共享和一键反馈。数据来自GitHub趋势榜，显示单日408星、总星11150、使用TypeScript语言。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "openai/codex-security",
-        "content_summary": "OpenAI 发布了 Codex Security CLI 和 TypeScript SDK，这是一个用于查找、验证和修复安全漏洞的工具。它已发布到 npm 包管理器，主要使用 TypeScript 语言开发。",
-        "ai_comment": "这是 OpenAI 在代码安全领域推出的重要工具，将 AI 能力与安全扫描结合，有望提升开发流程中的安全性。"
-      },
-      {
-        "source_group": "github_trending",
-        "item_name": "ZhuLinsen/daily_stock_analysis",
-        "content_summary": "这是一个由 LLM 驱动的多市场股票智能分析系统，集成了多源行情数据、实时新闻、决策看板和自动推送功能。该系统支持零成本定时运行，使用 Python 语言开发。",
-        "ai_comment": "项目展示了 AI 在金融分析领域的应用潜力，通过整合多源数据和自动化分析，为个人投资者提供了强大的工具。"
-      },
-      {
-        "source_group": "github_trending",
         "item_name": "alibaba/open-code-review",
-        "content_summary": "阿里巴巴开源了一个混合架构的代码审查工具，结合了确定性流水线和 LLM Agent。它提供精确的行级评论，内置了针对多种语言（如 NPE、线程安全、XSS、SQL 注入）的规则集，并兼容 OpenAI 和 Anthropic 的模型。",
-        "ai_comment": "阿里将内部大规模实战检验的代码审查能力开源，标志着企业级 AI 开发工具正变得更加普及和强大。"
+        "content_summary": "阿里巴巴开源了一个混合架构的代码审查工具，结合了确定性流水线和LLM智能体，能提供精确到行级的代码审查意见。该工具内置了针对多种编程语言的安全规则集，可检测空指针异常、线程安全、跨站脚本攻击和SQL注入等问题，并兼容OpenAI和Anthropic的模型。项目采用Go语言编写，已在阿里巴巴内部大规模实战验证。",
+        "ai_comment": "这是一个将传统静态分析与大语言模型结合的实用工具，体现了AI在提升开发效率和代码质量方面的工程化应用。其内置的多语言安全规则集尤其适合企业级代码审查场景。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "GoogleChrome/modern-web-guidance-src",
+        "content_summary": "Google Chrome团队开源了一个项目，旨在为AI编码助手提供最新的Web开发最佳实践指南，帮助它们生成更符合现代标准的代码。项目内容涵盖前端开发的各个方面，使用TypeScript编写。",
+        "ai_comment": "这反映了主流厂商正在积极为AI编码工具构建高质量的知识源，以提升其输出代码的规范性和安全性，是AI工具链生态建设的重要一环。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "ChromeDevTools/chrome-devtools-mcp",
+        "content_summary": "Chrome DevTools团队发布了一个名为“chrome-devtools-mcp”的项目，旨在让AI编码智能体能够使用Chrome开发者工具的功能，例如进行网页调试和分析。项目同样使用TypeScript编写。",
+        "ai_comment": "这标志着浏览器调试工具开始与AI智能体深度集成，未来AI可能直接参与前端页面的实时调试和性能优化，是开发工具智能化的重要探索。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "GigChain Keys – a free, open-source MainStage alternative",
-        "content_summary": "GigChain Keys 是一个免费、开源的现场表演宿主软件，专为键盘手设计，灵感来源于 MainStage 和 Gig Performer。它能加载用户电脑上的 VST3/VST2 乐器和效果器，管理演出曲目列表、和弦图表与歌词，并提供练习模式。该软件基于 GPL 协议开源，无广告、无需许可证。",
-        "ai_comment": "开源工具在专业音乐制作领域提供了重要的替代选择，降低了音乐人的技术门槛和经济成本。"
+        "item_name": "US aviation shutdown blamed on L3 Harris installed router",
+        "content_summary": "据路透社报道，美国一次航空系统停摆被归咎于L3 Harris公司安装的路由器故障。Hacker News上的讨论链接指向了关于L3 Harris公司对此事声明的评论。",
+        "ai_comment": "关键基础设施对单一供应商设备的依赖暴露出供应链和安全风险，此类事件通常引发对系统冗余设计和供应商责任的深入讨论。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "FAA lifted National Ground Stop at 0119Z",
-        "content_summary": "美国联邦航空管理局（FAA）发布了一份全国范围地面停飞（Ground Stop）的公告，该停飞于 01:19 Zulu 时间取消。公告中未说明具体原因，引发了社区对事件根源的讨论和猜测，并期待后续的事故报告。",
-        "ai_comment": "全国性航空停飞事件非常罕见，其技术或系统原因值得密切关注，可能涉及关键基础设施的安全性与稳定性问题。"
+        "item_name": "Nozzle: A streaming library that emits when possible and buffers where necessary",
+        "content_summary": "Nozzle是一个用于处理从大语言模型流式输出文本的TypeScript库。其核心设计是在可能时立即发射文本块，仅在必要时（例如进行正则表达式匹配以确认或拒绝一个潜在匹配时）进行缓冲，从而实现对流式文本的高效实时处理，例如在模型生成代码时实时预览代码块。",
+        "ai_comment": "这是一个针对LLM流式输出场景的优化工具，解决了实时处理与模式匹配（如提取代码块）之间的平衡问题，对构建流畅的AI应用前端体验有实用价值。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Open-source ChatGPT Enterprise alternative, built on the Codex runtime",
-        "content_summary": "LinkSense 是一个开源的 ChatGPT Enterprise 替代方案，旨在为组织提供一个受管控的平台来运行智能体任务、共享可重用的知识、技能、插件和应用程序，并连接业务系统而无需泄露底层凭证。它支持在自有服务器或私有云上部署，可选择托管或本地兼容的模型。",
-        "ai_comment": "企业级 AI 助手平台的开源化趋势明显，这有助于企业更好地掌控数据隐私和定制工作流程。"
+        "item_name": "Court denies motion to dismiss DRAM price fixing case",
+        "content_summary": "美国加州北区地方法院法官Noël Wise驳回了三星、SK海力士和美光联合提出的驳回动议，裁定针对这三家公司的DRAM内存芯片供应限制合谋指控（违反《谢尔曼法》）是合理的，诉讼将继续进行。法官区分了与此前第九巡回法院2022年的一项裁决。",
+        "ai_comment": "全球主要DRAM制造商再次面临反垄断诉讼，这表明存储芯片市场的竞争状况持续受到监管机构的密切关注，可能对行业定价策略产生长远影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights - The New York Times",
-        "content_summary": "《纽约时报》等媒体头条聚焦美国联邦航空管理局（FAA）宣布的罕见全国范围航班地面停飞事件。相关报道涵盖了停飞声明、暂无解决时间表导致航班取消数量上升、停飞解除航班恢复，以及受困旅客和大学橄榄球队出行受影响等多个角度。",
-        "ai_comment": "此次大规模航空中断事件成为全球新闻焦点，凸显了现代航空运输系统的脆弱性和对关键系统的依赖。"
+        "item_name": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill",
+        "content_summary": "美国参议员布卢门撒尔呼吁商务部长卢特尼克必须因英伟达相关丑闻辞职。相关报道显示，此丑闻已波及特朗普内阁，有顾问讨论罢免卢特尼克的可能性，并将责任指向商务部。MAGA阵营内部也因此出现反对卢特尼克的声音。",
+        "ai_comment": "英伟达事件已从商业和技术领域升级为美国国内政治议题，反映出高科技出口管制政策在政治层面的高度敏感性和争议性。"
       },
       {
         "source_group": "news",
-        "item_name": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post",
-        "content_summary": "《华盛顿邮报》报道，特朗普的高级经济顾问就 Howard Lutnick 对英伟达（Nvidia）相关事务的处理产生冲突。报道涉及顾问们指责商务部、讨论可能罢免 Lutnick，以及财政部长和商务部长之间的争执，背景是围绕英伟达的间谍丑闻。",
-        "ai_comment": "报道揭示了美国高层在关键芯片企业事务上的内部矛盾，反映了地缘政治与科技产业交织下的复杂决策环境。"
+        "item_name": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
+        "content_summary": "《纽约时报》报道，在美国联邦航空管理局发布航班停飞令期间，特朗普未公开露面。相关报道质疑特朗普官员是否生活在“另类现实”中，并称特朗普在危机期间躲起来抱怨高尔夫球场事宜，而其手下却吹捧工作表现。",
+        "ai_comment": "报道将航空系统危机与领导人的公开应对姿态联系起来，体现了重大公共事件中公众对领导人可见度和危机管理能力的关注。"
       },
       {
         "source_group": "news",
-        "item_name": "Trump Administration Delays Enforcement of Medicaid Work Requirement - The New York Times",
-        "content_summary": "《纽约时报》报道，特朗普政府推迟了医疗补助（Medicaid）工作要求的强制执行。",
-        "ai_comment": "此项政策延迟可能影响数百万低收入人群的医疗保障，是社会保障政策领域的一个重要动向。"
+        "item_name": "California’s battered beaches are getting giant waves - The Washington Post",
+        "content_summary": "《华盛顿邮报》报道，加利福尼亚州遭受侵蚀的海滩正迎来巨型海浪。相关报道提到冲浪者聚集捕捉楼房高的巨浪，蒙特雷半岛部分道路因巨浪关闭，并发布了疏散警告。预报称几天内可能还会出现另一轮巨浪。",
+        "ai_comment": "极端天气现象（巨型海浪）对加州海岸线造成持续冲击，涉及公共安全、基础设施和旅游业，是气候变化影响的局部体现。"
       }
     ],
-    "closing_note": "今日热点显示，AI正深度融入开发工具链与垂直行业应用，从代码安全、审查到金融分析，开源项目持续推动技术民主化与实用化。值得关注的是，大模型与确定性规则的结合成为提升工具可靠性的重要路径，而基础设施的演进则为分布式AI场景铺平道路。开发者需理性评估新工具的成熟度与适用性，同时跟踪社区反馈与生态集成进展。",
+    "closing_note": "整体来看，今日趋势凸显了AI正从通用能力向具体开发工具链和垂直工作场景渗透。开源项目在推动技术民主化的同时，也在重新定义人机协作的边界。开发者社区对能提升效率、降低成本、简化流程的AI工具表现出强烈兴趣，但实际落地效果仍需观察生态整合与社区反馈。",
     "_errors": []
   }
 }
