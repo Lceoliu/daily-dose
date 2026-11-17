@@ -1,9 +1,9 @@
 # AI 热点日报
 
-> 更新时间：2026-11-16 09:33（北京时间）
+> 更新时间：2026-11-17 12:19（北京时间）
 
 ## 今日一句话
-今日AI领域开源生态活跃，多个工具与框架聚焦于提升开发效率与智能体协作。阿里巴巴开源了混合架构的代码审查工具，结合规则引擎与LLM智能体，旨在保障企业级代码质量。谷歌与Chrome团队则推出了面向AI编码助手的技能库与Web开发指南，推动工具链标准化。同时，Univer Office SDK等项目的热度，凸显了构建“AI原生”办公与前端交互基础设施的趋势。腾讯的LoopForge则关注自托管编码代理工作流，满足企业级管控需求。整体来看，AI正深度融入开发工具链，并向更结构化、可协作的工程化方向发展。
+今日AI领域开源项目热度集中，呈现三大趋势：一是AI与垂直领域深度融合，如金融交易（claude-trading-skills）与网络安全（Claude-BugHunter）的技能库涌现；二是AI智能体（Agent）开发工具链加速完善，涵盖前端交互协议（AG-UI）、办公集成SDK（Univer Office SDK）、技能评估框架（SkillEvaluator）及协作工作空间（plannotator）；三是生态标准化进程推进，谷歌实验室推出跨智能体兼容的技能库（stitch-skills），英伟达开源技能评估工具，推动行业基准建立。多源信息整合技能（last30days-skill）则体现了AI对实时、跨平台数据分析的需求增长。
 
 ## 数据概览
 - GitHub Trending：10
@@ -12,147 +12,147 @@
 - 新闻头条：10
 
 ## 今日热点
-### 1. 阿里巴巴开源代码审查工具 | project | github-trending
-- 发生了什么：阿里巴巴在GitHub上开源了一个名为“open-code-review”的代码审查工具，该项目今日获得691颗星，总星数已达52125，显示出较高的社区关注度。
-- 具体内容：该项目是一个安全、快速、高效的代码审查工具，采用混合架构：结合确定性流水线与LLM智能体，能提供精确到行级的代码注释。内置多语言规则集，可检测空指针异常、线程安全、跨站脚本攻击和SQL注入等常见问题，并兼容OpenAI和Anthropic的模型。项目使用Go语言编写，由阿里巴巴团队开发维护。
-- AI 解读：该项目将传统规则引擎与LLM智能体相结合，代表了AI在代码审查领域的实用化趋势。通过确定性流水线保证基础检查的稳定性，再引入LLM处理复杂逻辑，这种混合架构能平衡效率与智能，有望提升大规模企业的代码质量与安全审查效率。
-- 噪音判断：项目热度较高（趋势得分91.81），总星数超5.2万，显示其已被广泛关注。作为阿里巴巴内部实战检验过的工具，开源后可能吸引更多企业开发者试用，但需观察其在不同技术栈中的实际适配效果。
-- 后续价值：对于开发团队，该工具能自动化常见代码缺陷检测，减少人工审查负担；其多语言支持与云厂商模型兼容性降低了部署门槛。但规则集可能更偏向阿里巴巴内部技术栈，社区需持续贡献以扩展适用性。
-- 明日跟踪：关注该工具在非阿里巴巴生态中的落地案例，以及社区是否会围绕其规则集形成跨语言最佳实践。同时可观察其与GitHub Actions、GitLab CI等主流CI/CD工具的集成进展。
-- 热度迹象：项目描述强调“在阿里巴巴规模下经过实战检验”，并列出具体技术特性（混合架构、行级注释、多语言规则集）。GitHub数据（单日获星691、总星52125、Go语言实现）佐证其技术影响力。
-### 2. Chrome DevTools MCP | project | GitHub Trending
-- 发生了什么：Chrome DevTools团队在GitHub上开源了一个名为chrome-devtools-mcp的项目，该项目旨在为编码智能体（coding agents）提供Chrome DevTools工具支持。
-- 具体内容：该项目使用TypeScript语言开发，今日新增星标717个，总星标数已达56975。主要贡献者包括OrKoN、dependabot、Lightning00Blade、browser-automation-bot和yulunz。
-- AI 解读：该项目将Chrome DevTools的强大调试能力扩展到AI驱动的编码智能体，可能使AI助手能够更有效地理解、调试和操作Web应用，提升自动化编程和测试的效率。
-- 噪音判断：趋势分高达86.85，日增星标数可观，表明开发者社区对此工具集成AI工作流的兴趣浓厚，但实际应用效果和生态采纳仍需观察。
-- 后续价值：为AI编码工具提供了标准化的浏览器调试接口，可能降低开发智能体处理Web任务的复杂度，具有明确的工具链增强价值。
-- 明日跟踪：关注该项目如何被集成到主流AI编码助手（如GitHub Copilot、Cursor）中，以及其API稳定性和开发者文档的完善情况。
-- 热度迹象：项目描述明确指出“Chrome DevTools for coding agents”，语言为TypeScript，星标增长数据及贡献者列表来自GitHub趋势页面。
+### 1. tradermonty/claude-trading-skills | project | github-trending
+- 发生了什么：一个名为'claude-trading-skills'的GitHub项目在趋势榜上热度飙升，今日新增837颗星，总星数达6449，主要面向股票投资者和交易员，提供基于Claude Code的金融分析工具。
+- 具体内容：该项目由用户'tradermonty'创建，使用Python语言开发，旨在为股票投资者和交易员提供市场分析、技术图表绘制、经济日历、股票筛选器和交易策略开发等Claude Code技能。项目贡献者包括claude、tradermonty、dependabot等。
+- AI 解读：该项目展示了AI代码助手（如Claude Code）在金融量化领域的应用潜力，通过自动化脚本降低交易分析门槛，但需注意AI生成代码在实时交易中的风险。
+- 噪音判断：热度较高（趋势得分94.14），单日涨星量突出，反映社区对AI+金融工具的关注，但实际应用效果需验证。
+- 后续价值：为个人投资者提供开源量化工具链，可能提升分析效率，但缺乏实盘验证和风控模块，专业机构适用性有限。
+- 明日跟踪：可关注项目后续的实盘测试案例、风险管理功能扩展，以及是否集成更多AI模型（如GPT）进行多维度预测。
+- 热度迹象：项目描述明确功能定位（市场分析、技术图表等），Python语言和6449总星数体现成熟度，但无用户评论高亮或第三方评测佐证实际效果。
+### 2. Claude-BugHunter | project | GitHub
+- 发生了什么：一个名为Claude-BugHunter的GitHub项目在趋势榜上受到关注，该项目是一个为Claude Code设计的技能包，专注于漏洞挖掘和外部红队工作。
+- 具体内容：该项目提供了82个技能、15个斜杠命令，并整理了681个已披露报告模式，覆盖24个核心漏洞类别，同时包含企业身份和基础设施攻击矩阵。项目主要使用Python语言开发，今日获得1094颗星，总星数达7581。
+- AI 解读：该项目展示了AI在网络安全领域的应用潜力，通过集成大量预定义的漏洞模式和攻击矩阵，能够辅助安全研究人员和红队更高效地进行漏洞挖掘和渗透测试，体现了AI在自动化安全审计中的工具化价值。
+- 噪音判断：该项目在GitHub趋势榜上热度较高，单日获星超千颗，表明其在开发者社区中受到关注，可能反映了市场对AI辅助安全工具的需求增长。
+- 后续价值：对于安全研究人员和红队成员，该项目提供了结构化的漏洞模式和攻击矩阵，可能提升工作效率；但对于普通开发者，其专业性强，实用价值有限。
+- 明日跟踪：可关注该项目后续的更新频率、社区反馈以及在实际安全测试中的应用案例，以评估其长期影响力和可靠性。
+- 热度迹象：项目描述中明确列出了技能数量、命令、漏洞模式及类别等具体数据，GitHub趋势数据（如星数、语言）提供了客观的热度指标。
 ### 3. Univer Office SDK | project | GitHub Trending
-- 发生了什么：开源项目 Univer Office SDK 在 GitHub 趋势榜上热度显著，单日获星近千，总星数已超 2.5 万。该项目旨在帮助开发者构建集成编辑、计算、协作与文件处理功能的“AI 办公室”，并支持人与 AI 智能体共同使用。
-- 具体内容：Univer 是一个基于可扩展开源核心构建的 Office SDK，使用 TypeScript 开发。它允许开发者将类似电子表格和文档的办公套件能力嵌入到自己的产品或应用中，特别强调了对 AI 智能体的支持，以实现人机协同的办公场景。
-- AI 解读：该项目将传统办公软件能力 SDK 化，并明确支持 AI 智能体，是“AI 原生应用”基础设施层的一个具体实践。它降低了为 AI 代理构建复杂交互界面（如处理表格、文档）的门槛，可能推动更多 AI 驱动的自动化办公和协作工具的出现。
-- 噪音判断：热度较高且真实。高星数和日增星数表明开发者社区对这类“AI-ready”的开发工具存在强烈兴趣和实际需求，并非空泛概念。
-- 后续价值：价值明确。它解决了 AI 应用开发中的一个痛点：如何让 AI 智能体与结构化的、复杂的办公数据进行交互和操作。开源模式也有助于生态建设和标准形成。
-- 明日跟踪：关注其在实际产品中的集成案例、社区生态插件的发展，以及是否会有主流云厂商或 AI 平台将其作为推荐/内置的办公交互组件。
-- 热度迹象：项目在 GitHub 趋势榜排名靠前（趋势分 86.13），单日获 988 星，总星数 25902，拥有活跃的贡献者团队。项目描述清晰指向“为人和 AI 智能体构建产品”。
-### 4. Stitch Skills | project | GitHub Trending
-- 发生了什么：谷歌实验室在GitHub上开源了一个名为Stitch Skills的库，专为与Stitch MCP服务器协同工作而设计，遵循Agent Skills开放标准，旨在提升各类编码智能体的兼容性与功能。
-- 具体内容：该项目是一个TypeScript编写的技能库，包含一系列遵循开放标准的Agent Skills，可与Antigravity、Gemini CLI、Claude Code、Cursor等多种编码智能体兼容。项目由谷歌实验室团队（包括JLXIA、davideast等成员）开发，目前已在GitHub上获得9318颗星，单日新增247颗星，显示出较高的社区关注度。
-- AI 解读：该项目通过标准化技能库，降低了不同编码智能体之间的集成门槛，有望推动AI辅助编程工具的生态统一和功能扩展，是谷歌在AI开发工具链开放协作方面的一次重要实践。
-- 噪音判断：项目在GitHub趋势榜上热度较高（趋势得分84.87），单日获星数显著，表明开发者社区对标准化AI编程技能工具存在强烈兴趣，但实际应用效果和生态采纳度仍需时间验证。
-- 后续价值：作为开源项目，它提供了可复用的技能模块和开放标准，有助于减少智能体开发的重复工作，潜在价值在于促进AI编程工具的互操作性和创新速度，但最终价值取决于社区参与和实际集成案例。
-- 明日跟踪：关注Stitch MCP服务器的后续发展，以及Antigravity、Cursor等智能体对该技能库的实际采用情况；同时可观察是否有更多开发者基于此标准贡献新技能。
-- 热度迹象：项目GitHub页面描述明确指出其为“与Stitch MCP服务器协同工作的Agent Skills库”，遵循开放标准并兼容多种编码智能体；数据方面，项目总星数9318、单日增星247、趋势得分84.87均来自GitHub趋势榜单。
-### 5. plannotator | project | GitHub Trending
-- 发生了什么：一个名为plannotator的开源项目在GitHub上趋势飙升，单日获得866颗星，总星数达11864，表明其在开发者社区中受到高度关注。
-- 具体内容：plannotator是一个TypeScript编写的AI代理工作空间，旨在帮助用户与AI代理协同工作，功能包括规划、决策、代码注释、评审、团队共享，并能一键将反馈发送给代理。项目由backnotprop等开发者构建。
-- AI 解读：该项目反映了AI代理工作流工具化的趋势，通过集成规划、代码评审和反馈循环，旨在提升人类与AI代理的协作效率，是AI工程化和实用化方向的一个具体实践。
-- 噪音判断：高热度合理，因为项目直接切入当前热门的AI代理与人类协作痛点，且单日星数增长显著，表明社区对这类工具需求强烈。但需注意其仍处于早期阶段，实际采纳和成熟度有待观察。
-- 后续价值：潜在价值较高，若能有效简化AI代理的规划与反馈流程，可提升开发团队的生产力。但价值实现取决于工具的稳定性、易用性及与现有工作流的整合程度。
-- 明日跟踪：关注其版本更新、用户采纳案例及是否形成活跃的贡献者社区。可尝试在小型项目中试用，评估其在实际AI代理开发中的效果。
-- 热度迹象：项目描述明确指出其作为AI代理工作空间的定位，提供规划、注释、代码评审和团队协作功能。GitHub趋势数据（单日866星，总星11864）和TypeScript语言选择支持其热度与技术栈。
-### 6. modern-web-guidance-src | project | GitHub Trending
-- 发生了什么：Google Chrome团队在GitHub上开源了一个名为modern-web-guidance-src的项目，旨在帮助开发者及其AI编码助手跟上最新的Web最佳实践。该项目今日获得1219颗星，总星数达7212，由paulirish、rviscomi等知名开发者维护。
-- 具体内容：该项目是一个TypeScript编写的开源资源库，专注于提供现代Web开发的最佳实践指南。它由Google Chrome团队主导，旨在通过结构化内容帮助开发者（包括AI编码代理）了解并应用最新的Web标准和技术。项目在GitHub上迅速流行，反映出社区对高质量开发指导的强烈需求。
-- AI 解读：该项目直接面向AI编码助手，提供了结构化的最佳实践数据，有助于提升AI在Web开发任务中的代码质量和规范性。开发者可将其集成到AI工具链中，确保生成的代码符合现代标准。
-- 噪音判断：高热度合理，因为项目由Google Chrome团队背书，解决了开发者持续学习最新Web技术的痛点，且针对AI代理的优化设计具有前瞻性。但需注意，内容更新需跟上快速变化的Web生态。
-- 后续价值：实用价值高，为开发者和AI工具提供了权威、结构化的参考，能提升开发效率和代码质量。开源性质促进了社区协作和持续改进。
-- 明日跟踪：关注项目在GitHub上的更新频率和社区贡献，评估其如何整合到主流AI编码工具（如GitHub Copilot）中。
-- 热度迹象：项目GitHub页面显示语言为TypeScript，今日获1219星，总星7212，由GoogleChrome组织维护，核心贡献者包括paulirish等知名开发者。
-### 7. AG-UI | project | GitHub Trending
-- 发生了什么：AG-UI（Agent-User Interaction Protocol）项目在GitHub趋势榜上热度显著，单日新增355颗星，总星数达17899，表明其在开发者社区中受到广泛关注。
-- 具体内容：AG-UI是一个基于TypeScript开发的Agent-用户交互协议，旨在将智能体（Agents）集成到前端应用程序中，由ranst91、contextablemark等多位贡献者共同构建。
-- AI 解读：该项目代表了AI与前端开发融合的前沿方向，通过标准化协议降低智能体集成复杂度，可能推动更自然、动态的人机交互体验在前端落地。
-- 噪音判断：高星数增长和社区活跃度反映强烈需求，但需观察实际生产环境采用率和协议成熟度，避免过度炒作。
-- 后续价值：若协议设计合理，可显著提升前端AI能力复用性，降低开发门槛，但价值取决于生态工具链完善度和行业采纳速度。
-- 明日跟踪：关注其版本迭代、大型项目集成案例及与主流前端框架（如React/Vue）的兼容性进展。
-- 热度迹象：GitHub趋势数据：单日星增355，总星17899，语言TypeScript，项目描述明确指向前端智能体集成。
-### 8. LoopForge | project | GitHub Trending
-- 发生了什么：腾讯在GitHub上开源了一个名为LoopForge的项目，它是一个用于编排和交付编码代理的自托管工作流系统。
-- 具体内容：LoopForge是一个用Go语言编写的开源项目，旨在通过自托管的工作流来编排和交付编码代理。它支持集成如CodeBuddy、Codex和Claude Code等多种编码助手，并通过脚本和人工审批门控来管理流程。项目还包括本地工作流，适用于编码助手的本地部署和运行。该项目在GitHub上趋势显著，单日获得423颗星，总星数已达1527。
-- AI 解读：该项目代表了AI编码助手向企业级、可定制化工作流管理的发展趋势。通过引入人工审批和脚本化控制，它试图在自动化编码和人类监督之间找到平衡，这可能提高代码生成的安全性和质量，尤其适用于需要严格合规或代码审查的企业环境。
-- 噪音判断：项目在GitHub上趋势热度较高（趋势得分78.82），单日星数增长显著，表明开发者社区对自托管AI编码工作流工具的兴趣浓厚。但作为较新的开源项目，其实际生产环境的稳定性和大规模采用仍需时间验证。
-- 后续价值：对于需要内部部署AI编码助手并希望集成审批流程的企业或团队，LoopForge提供了可定制的解决方案，可能降低对云端服务的依赖并增强控制力。其开源性质也允许社区贡献和适配。然而，对于小型团队或个人开发者，设置和维护自托管工作流可能带来额外的复杂性。
-- 明日跟踪：关注项目在GitHub上的持续更新、社区反馈以及是否会有企业案例分享。同时，观察其他科技公司（如GitHub、Google）在AI编码工作流管理方面的竞争动向。
-- 热度迹象：项目描述明确指出其功能为“自托管工作流用于编码代理交付，可编排CodeBuddy、Codex和Claude Code，包含脚本和人工审批门控，以及本地工作流”。GitHub数据：语言为Go，单日星数423，总星数1527，由腾讯发布。
+- 发生了什么：一个名为Univer Office SDK的开源项目在GitHub上趋势飙升，单日获星1828个，总星数已达27926。该项目旨在帮助开发者构建集成AI能力的办公套件。
+- 具体内容：Univer是一个基于TypeScript开发的可扩展开源核心，提供Office SDK，允许开发者将文档编辑、电子表格计算、实时协作和文件处理等功能集成到自己的产品或AI智能体中，支持人与AI代理共同使用。
+- AI 解读：该项目将传统办公软件能力（如编辑、计算）与AI智能体工作流深度结合，为构建“AI办公室”或支持AI代理处理办公任务提供了底层工具，可能推动下一代智能协作平台的发展。
+- 噪音判断：趋势热度很高（趋势分86.83），单日获星数突出，显示开发者社区对“AI+办公”开源工具的关注度急剧上升，但需观察其实际生产环境采用率和生态发展。
+- 后续价值：作为开源SDK，它降低了为产品或AI代理添加办公功能的门槛，其可扩展架构和TypeScript实现适合现代Web开发生态，长期价值取决于社区贡献和大型应用案例。
+- 明日跟踪：关注其GitHub仓库的后续版本更新、企业采用案例，以及是否会有云服务或商业化版本推出。
+- 热度迹象：项目描述明确指出“Build your own AI office with Univer Office SDK”，并强调支持“people and AI agents”。GitHub数据：单日星标1828，总星27926，语言TypeScript，由dream-num组织维护。
+### 4. stitch-skills | project | github-trending
+- 发生了什么：谷歌实验室在GitHub上开源了一个名为stitch-skills的库，该项目今日获得529颗星，总星数达9791，引发开发者社区关注。
+- 具体内容：stitch-skills是一个专为Stitch MCP服务器设计的Agent Skills库，遵循Agent Skills开放标准，旨在与Antigravity、Gemini CLI、Claude Code、Cursor等编码智能体兼容。项目采用TypeScript语言开发，由JLXIA、davideast、Emp1500、dalmaer、meeChn等贡献者构建。
+- AI 解读：该项目体现了谷歌在AI智能体生态标准化方面的布局，通过开放标准促进不同编码智能体间的技能互操作性，可能推动AI辅助编程工具的模块化与协作发展。
+- 噪音判断：项目在GitHub趋势榜上热度较高（趋势得分86.2），单日获星数可观，但尚未形成大规模社区讨论（评论数1249相对总星数比例一般）。
+- 后续价值：作为谷歌实验室出品，其技术背书较强；标准化技能库有望降低AI编程工具集成门槛，但实际应用效果需观察生态采纳情况。
+- 明日跟踪：关注Stitch MCP服务器的演进、兼容智能体列表的扩展，以及开发者社区是否基于该标准构建第三方技能。
+- 热度迹象：GitHub项目描述明确指出其设计目标与兼容性，技术栈为TypeScript，贡献者名单包含谷歌实验室成员，趋势数据反映短期关注度飙升。
+### 5. AG-UI | project | GitHub Trending
+- 发生了什么：AG-UI（Agent-User Interaction Protocol）是一个开源项目，旨在将智能体（Agents）引入前端应用，定义代理与用户交互的协议。该项目在GitHub上趋势榜热度较高，今日新增791颗星，总星数达19266，使用TypeScript语言开发。
+- 具体内容：AG-UI是一个协议项目，专注于在前端应用中集成智能体交互功能。它由多位贡献者（包括ranst91、contextablemark等）构建，目前已有1983条评论，表明社区关注度较高。项目语言为TypeScript，适合现代Web开发。
+- AI 解读：该项目反映了AI与前端开发融合的趋势，通过标准化协议降低智能体集成的复杂性，可能推动更自然的人机交互体验，尤其是在Web和移动应用中。
+- 噪音判断：热度较高，GitHub趋势榜得分83.99，新增星数显著，表明开发者社区对AI前端工具的兴趣浓厚，但需观察实际采用率和生态发展。
+- 后续价值：作为开源协议，AG-UI若能成为行业标准，可提升前端AI应用的互操作性和开发效率，但价值取决于社区采纳和工具链完善程度。
+- 明日跟踪：关注项目版本更新、文档完善情况以及是否出现基于该协议的实际应用案例。
+- 热度迹象：GitHub趋势数据：今日星增791，总星19266，评论1983条，语言TypeScript，项目描述为'Bring Agents into Frontend Applications'。
+### 6. plannotator | project | GitHub Trending
+- 发生了什么：一个名为plannotator的GitHub项目在趋势榜上热度显著，今日新增696颗星，总星数达12691，项目使用TypeScript开发，由多位贡献者共同构建。
+- 具体内容：plannotator被描述为一个工作空间，旨在帮助用户与AI智能体保持同步并高效管理。其核心功能包括：规划、决策、代码标注、代码审查、团队协作，并能一键将所有反馈发送给智能体。
+- AI 解读：该项目直接针对AI代理（Agents）的工作流痛点，提供了一个集成化的管理界面。它反映了当前AI应用开发中，对复杂智能体进行有效监督、迭代和团队协作的强烈需求，是工具层面对AgentOps（智能体运维）趋势的响应。
+- 噪音判断：热度较高。项目在GitHub趋势榜上排名靠前（趋势得分82.61），单日获星近700，总星数已破万，表明其在开发者社区中获得了快速且广泛的关注。评论数（1244）也显示了活跃的社区互动。
+- 后续价值：潜在价值明确。它试图解决AI智能体开发与部署过程中的协作和反馈闭环问题。如果其“一键反馈”等功能能有效提升智能体训练或调优效率，将具有实用价值，尤其适合需要多人协作的AI项目团队。
+- 明日跟踪：关注其后续版本更新，看是否支持更多类型的AI代理框架（如LangChain、AutoGen），以及其协作功能的具体实现效果和用户实际反馈。
+- 热度迹象：项目描述明确指出其作为“与智能体保持同步的工作空间”的定位，并列举了规划、标注、审查、团队分享和反馈等核心功能。GitHub数据（今日星数696，总星数12691，语言TypeScript）支持其高热度与开发者导向的特性。
+### 7. last30days-skill | project | GitHub Trending
+- 发生了什么：一个名为last30days-skill的AI代理技能项目在GitHub上趋势走高，该项目旨在让AI代理能够跨多个平台（如Reddit、X、YouTube、HN、Polymarket和网络）研究任何主题，并综合生成一份基于事实的摘要。
+- 具体内容：该项目由mvanhorn等人开发，使用Python语言编写。在趋势期间，单日获得135颗星，总星数达到68264，显示出较高的社区关注度。项目定位为一个AI代理的“技能”，专注于信息搜集与摘要生成。
+- AI 解读：该项目代表了AI代理能力向多源信息实时整合与摘要生成方向的演进。通过连接社交媒体、论坛、视频平台甚至预测市场，它试图让AI对近期热点形成更“接地气”的理解，这可能对构建更上下文感知的自主代理或研究助手有参考价值。
+- 噪音判断：趋势热度较高（趋势得分81.59），单日获星数可观，总星数已超6.8万，表明项目已积累相当人气。但需注意，热度可能部分源于其“一站式研究”的实用概念吸引力，实际效果和鲁棒性需进一步验证。
+- 后续价值：核心价值在于试图统一分散的信息源，并自动化摘要过程，可能为市场研究、舆情分析或内容创作提供工具。然而，其“接地气”摘要的质量、信息可信度评估以及跨平台API的稳定性和合规性，是决定其实际应用价值的关键。
+- 明日跟踪：可关注其后续版本更新，看是否增加更多数据源或提升摘要质量；同时观察是否有基于该技能构建的实际应用案例出现，以评估其落地效果。
+- 热度迹象：项目描述明确其为“AI agent skill”，功能是跨Reddit、X、YouTube、HN、Polymarket和网络进行研究并生成摘要；GitHub数据（语言Python、单日星135、总星68264）支持其热度；开发者信息包括mvanhorn等。
+### 8. SkillEvaluator | project | GitHub Trending
+- 发生了什么：NVIDIA在GitHub上开源了一个名为SkillEvaluator的多层框架，用于评估AI智能体技能和插件，今日获得873颗星，总星数达2869，热度较高。
+- 具体内容：该框架提供质量门控、语义重叠检测、合成评估数据集生成以及实时智能体评估功能，旨在衡量技能如何影响智能体行为。项目使用Python语言开发，由NVIDIA团队及贡献者构建。
+- AI 解读：SkillEvaluator为AI智能体的技能评估提供了系统化工具，可能推动智能体开发中的标准化测试和性能优化，尤其在多技能集成和插件兼容性方面具有实用价值。
+- 噪音判断：项目在GitHub趋势榜上排名靠前，单日获星数高，显示开发者社区对AI智能体评估工具的关注度提升，但需观察其实际采用率和长期维护情况。
+- 后续价值：作为开源框架，它降低了智能体技能评估的门槛，可能加速AI智能体生态的发展，但评估效果取决于具体应用场景和数据集质量。
+- 明日跟踪：关注项目后续版本更新、社区反馈以及是否被集成到主流AI开发平台中。
+- 热度迹象：GitHub项目描述明确指出其多层框架功能，包括质量门控、语义重叠检测等；项目由NVIDIA官方发布，语言为Python，今日星数增长数据支持其热度。
 
 ## 来源内容速览
-### github_trending | alibaba/open-code-review
-- 内容摘要：阿里巴巴开源了一个混合架构的代码审查工具，结合了确定性流水线和LLM Agent。它提供精确的行级注释，内置了多语言规则集（涵盖空指针异常、线程安全、XSS、SQL注入等安全问题），并与OpenAI和Anthropic的模型兼容。该项目使用Go语言编写，已在阿里巴巴的规模下经过实战测试。
-- 解读：这是一个将传统静态分析与大语言模型智能代理相结合的代码审查工具，代表了AI在提升开发效率和代码质量方面的实际应用。其内置的规则集针对常见安全漏洞，对于企业级代码审查流程的自动化有重要价值。
-### github_trending | ChromeDevTools/chrome-devtools-mcp
-- 内容摘要：Chrome DevTools团队发布了一个名为“chrome-devtools-mcp”的项目，旨在为编码智能体（AI coding agents）提供Chrome开发者工具的能力。该项目使用TypeScript编写。
-- 解读：该项目将Chrome DevTools的能力开放给AI编码助手，可能意味着未来AI在调试、性能分析和前端开发任务中能发挥更直接、深入的作用，是AI与开发者工具深度集成的一个信号。
+### github_trending | tradermonty/claude-trading-skills
+- 内容摘要：这是一个为股票投资者和交易员设计的Claude Code技能集，专注于市场分析、技术图表、经济日历、筛选器和交易策略开发。项目使用Python语言，今日获得837颗星，总星数达6449。
+- 解读：该项目将AI能力与金融交易场景深度结合，展示了Claude在专业垂直领域的应用潜力，可能降低量化交易的门槛。
+### github_trending | elementalsouls/Claude-BugHunter
+- 内容摘要：这是一个用于漏洞挖掘和外部红队工作的Claude Code技能包，包含82个技能、15个斜杠命令、涵盖24个核心漏洞类别的681个已披露报告模式，以及企业身份和基础设施攻击矩阵。项目使用Python，今日获得1094颗星，总星数7581。
+- 解读：项目将AI安全测试工具化、系统化，集成了大量实战模式，有望提升安全审计的效率和覆盖面，反映了AI在网络安全领域的深度应用趋势。
 ### github_trending | dream-num/univer
-- 内容摘要：Univer Office SDK 是一个开源项目，允许开发者构建自己的AI办公套件。它集成了编辑、计算、协作和文件处理功能，既服务于人类用户，也服务于AI智能体。其核心基于可扩展的开源架构，使用TypeScript编写。
-- 解读：该项目提供了一个构建AI原生办公应用的基础设施，将传统办公软件的能力（如表格、文档）以SDK形式开放，便于集成到各类产品和AI工作流中，反映了办公软件向AI驱动和可组合化发展的趋势。
-### hacker_news | How NewsNinja syncs all its data in less than 1 MB of iCloud
-- 内容摘要：文章详细介绍了新闻阅读应用NewsNinja如何利用苹果的NSUbiquitousKeyValueStore（iCloud键值存储）API，在无需账户和同步服务器的情况下，在iPhone、iPad、Vision Pro和Mac之间同步用户的订阅源、分类、设置、已读文章和星标文章。通过一系列优化技巧，所有同步数据被压缩在苹果规定的1MB限制之内。
-- 解读：这是一个优秀的工程实践案例，展示了如何在资源严格限制下实现跨设备无缝同步。其设计思路对于开发轻量级、隐私友好且依赖平台原生同步服务的应用具有参考价值。
-### hacker_news | Agentic AI Designs an Analog Synthesizer
-- 内容摘要：一位开发者利用Claude Opus 5.5等AI模型，从零开始设计并制造了一台模拟单音合成器。AI负责了电路设计、仿真、PCB布局、固件编写以及大部分调试工作。该合成器包含约200个元件，采用晶体管梯形滤波器和触摸按键。项目提供了音频示例和AI生成的设计报告。
-- 解读：此项目是AI在硬件工程领域能力的一次重要展示，特别是涉及模拟电路这种传统上高度依赖专家经验的领域。它表明先进AI模型在系统级工程设计、从概念到实物的全流程中已具备相当强的能力。
-### hacker_news | Demudhra.sh, remove the leaked eMudhra certs from your machine
-- 内容摘要：由于2026年10月发现的eMudhra中间CA证书私钥严重漏洞（P-384私钥为小于256的整数），导致大量欺诈证书出现。虽然Chrome、Firefox和苹果系统已屏蔽这些证书，但curl、git、python3等使用自有CA存储的工具仍可能信任它们。该项目提供了一个脚本，通过指纹识别并自动从用户机器中移除这些已泄露的证书。
-- 解读：这是一个针对特定安全事件的快速响应工具，凸显了在复杂软件生态中，安全补丁和策略（如浏览器屏蔽）可能无法覆盖所有攻击面，需要额外的清理措施来确保系统整体安全。
-### news | Preliminary investigation points to steering failure in tanker collision with river cruise ship - WDSU
-- 内容摘要：美国国家运输安全委员会（NTSB）的初步调查指出，在新奥尔良发生的油轮与停靠的河轮游船相撞事故，原因是油轮出现“转向故障”。事故导致游船上大规模人员疏散，但所有人员均已安全。调查人员已恢复事故相关音频记录。
-- 解读：这是一起涉及大型船舶的交通安全事故，初步原因指向机械故障。事故的后续调查和结论将对内河航运的安全管理和船舶维护规范产生影响。
-### news | Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill
-- 内容摘要：美国交通部长Pete Buttigieg（报道中提及的“Koh”可能为误写或指代其他人）指责特朗普阻挠了拜登时期的基础设施建设和联邦航空管理局（FAA）的资金计划。同时，特朗普方面则就FAA全国性停飞事件指责拜登政府，并要求巨额资金用于FAA改革，其资金使用方式受到民主党人质疑。双方在航空基础设施资金和责任问题上相互指责。
-- 解读：这反映了美国两党在关键基础设施投资和航空安全监管责任上的持续政治博弈。资金分配和使用效率的争议可能影响美国航空系统的现代化进程和安全运营。
-### news | US colleges struggle as international students turn away - Politico
-- 内容摘要：美国高校正面临国际学生生源减少的困境。报道指出，特朗普政府针对F-1学生签证的政策给国际学生、美国大学和雇主带来了混乱。全球调查显示，签证障碍正促使学生从美国和英国转向亚洲和欧洲求学。尽管有报告称中期选举后赴美留学兴趣有所回升，但英国研究生国际生源的下降幅度甚至超过美国。
-- 解读：国际学生流动趋势的变化受到签证政策、地缘政治和全球高等教育竞争格局的多重影响。生源减少将对美国高校的财政、学术多样性和人才储备构成长期挑战，并可能重塑全球留学目的地格局。
+- 内容摘要：Univer Office SDK 旨在让开发者构建自己的AI办公套件，将编辑、计算、协作和文件处理功能集成到产品中，服务于人和AI智能体。它基于可扩展的开源核心构建，使用TypeScript语言，今日获得1828颗星，总星数27926。
+- 解读：项目定位为‘AI时代的Office基础设施’，试图打造一个支持AI智能体协同工作的开放平台，可能推动下一代生产力工具的演进。
+### hacker_news | External Sandboxes for Coding Agents
+- 内容摘要：文章介绍了为Claude Code、Codex或Pi等编码智能体安全运行代码而发布的工具。这些工具确保智能体执行的每个命令都在一个受限的Linux沙盒中运行，沙盒只能访问被允许的文件夹和主机。项目提供了三种原型沙盒实现：基于Node.js和WebAssembly、Apple Containers以及微软Quicksand with QEMU。
+- 解读：该工作直接回应了AI编码助手的安全隐患，通过标准化沙盒协议为不同模型提供统一的安全执行环境，是AI代理安全部署的重要基础设施探索。
+### hacker_news | When Rounding Breaks Machine Learning
+- 内容摘要：文章对机器学习栈进行了数值审计，覆盖七个库、162个TorchLean算子条目和526种数字格式，并在Lean中进行了机器验证修复。研究发现了softmax和交叉熵等基础算子中因浮点数舍入导致的梯度错误（例如在float32下梯度错误地变为零），并利用Lean的FloatLib库进行形式化验证和修复。
+- 解读：研究揭示了ML底层数值计算中普遍存在但易被忽视的精确性问题，采用形式化方法进行系统性验证和修复，对提升模型训练的数值稳定性和可复现性有重要意义。
+### hacker_news | US to curb China's access to AI chips
+- 内容摘要：路透社报道，美国发布新规，旨在保护先进AI芯片不被远程访问，以限制中国获取相关技术。此消息与Hacker News上另一条关于特朗普亚洲之行中芯片紧张局势的新闻相呼应。
+- 解读：此消息反映了全球AI竞赛中技术供应链的地缘政治紧张态势持续，芯片出口管制仍是关键博弈点，可能影响全球AI研发格局。
+### news | Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show? - BBC
+- 内容摘要：BBC头条报道特朗普质疑阿拉斯加州选民选择了错误的Dan Sullivan。相关报道显示，Peltola在最新计票中扩大了领先优势，阿拉斯加参议院选举正走向民主党获胜，尽管存在特朗普的威胁。
+- 解读：美国中期选举的后续动态，显示了政治言论与选举数据之间的张力，以及地方选举结果的全国性影响。
+### news | Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News
+- 内容摘要：AP News报道特朗普亚洲之行，行程包括在马尼拉和深圳达成交易，与习近平和普京举行核峰会，并可能会见金正恩。相关报道指出，芯片紧张局势笼罩着特朗普与习近平的峰会，同时美中双方在推动AI安全措施。世界领导人正聚集参加APEC和东盟峰会，为此次会晤做准备。
+- 解读：此次高层外交活动密集，将地缘政治、核安全、尖端技术（芯片与AI）贸易等多条线索交织在一起，预示着全球权力格局和科技竞争可能面临新的调整。
+### news | Senate Democrats reject quick exit from Schumer vs. Van Hollen fight - Politico
+- 内容摘要：Politico报道，参议院民主党人拒绝了从舒默与范霍伦之争中快速脱身的方案。相关报道涉及伯尼·桑德斯顾问对民主党领导权挑战的评论，以及在奥古斯塔的安格斯·金办公室外，抗议者挑战其对舒默的支持。
+- 解读：美国参议院民主党内部的领导权争夺战持续，反映了党内不同派系间的路线分歧，可能影响未来的立法议程和政治平衡。
 
 ## GitHub Trending 观察
-### 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-- 热度：trend_score=91.81 | 语言=Go | 今日星标=691 | 总星标=52125 | forks=4114
-- 看点：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-### 2. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- 热度：trend_score=86.85 | 语言=TypeScript | 今日星标=717 | 总星标=56975 | forks=4810
-- 看点：Chrome DevTools for coding agents
+### 1. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+- 热度：trend_score=94.14 | 语言=Python | 今日星标=837 | 总星标=6449 | forks=1346
+- 看点：Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+### 2. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- 热度：trend_score=90.96 | 语言=Python | 今日星标=1094 | 总星标=7581 | forks=1174
+- 看点：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 ### 3. [dream-num/univer](https://github.com/dream-num/univer)
-- 热度：trend_score=86.13 | 语言=TypeScript | 今日星标=988 | 总星标=25902 | forks=2354
+- 热度：trend_score=86.83 | 语言=TypeScript | 今日星标=1828 | 总星标=27926 | forks=2536
 - 看点：Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 ## Hacker News 观察
-### 1. [How NewsNinja syncs all its data in less than 1 MB of iCloud](https://ainews.ninja/blog/icloud-key-value-store-sync/)
-- 热度：trend_score=52.72 | 热度分=1 | 评论=0 | 来源=hacker-news
-- 看点：A technical look at how NewsNinja uses NSUbiquitousKeyValueStore to sync feeds, settings, read articles, and starred articles across devices, and the tricks that keep it all under Apple's 1 MB limit.
-### 2. [Agentic AI Designs an Analog Synthesizer](https://cpldcpu.github.io/2026/11/14/touchsynth/)
-- 热度：trend_score=51.07 | 热度分=1 | 评论=1 | 来源=hacker-news
-- 看点：An analog monophonic synthesizer built from ~200 components, with a transistor ladder filter and touch keys. Circuit, simulation, PCB, firmware and most of the bring-up were done by Claude Opus 5.5.
-### 3. [Demudhra.sh, remove the leaked eMudhra certs from your machine](https://demudhra.sh/)
-- 热度：trend_score=49.5 | 热度分=1 | 评论=0 | 来源=hacker-news
-- 看点：Your browser already blocks the compromised eMudhra certs. This removes them from the rest of your machine.
+### 1. [External Sandboxes for Coding Agents](https://blog.primeradiant.com/external-sandboxes-for-coding-agents/)
+- 热度：trend_score=54.56 | 热度分=1 | 评论=0 | 来源=hacker-news
+- 看点：We've been exploring safer ways to run coding agents, including against smaller, less capable models. Today we're releasing tools that let you run Claude Code, Codex or Pi in a way that ensures every command they run executes within a Linux sandbox that can only sees the folders and hosts you allow.
+### 2. [When Rounding Breaks Machine Learning](https://www.robertj1.com/ai4science/rounding-bugs-in-ml-formulas/)
+- 热度：trend_score=50.88 | 热度分=1 | 评论=1 | 来源=hacker-news
+- 看点：A numerical audit across the ML stack: seven libraries, 162 TorchLean operator entries, 526 number formats, and selected machine-checked repairs in Lean.
+### 3. [US to curb China's access to AI chips](https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/)
+- 热度：trend_score=50.49 | 热度分=2 | 评论=0 | 来源=hacker-news
+- 看点：这条 Hacker News 链接在开发者圈内获得了较高点赞和评论。
 
 ## 新闻头条观察
-### 1. [Preliminary investigation points to steering failure in tanker collision with river cruise ship - WDSU](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXg4VV8tVHNzbkFhQnlTQWdIOENpOEItamppNC1CdWpSNGlnNTlCdlA0TDJBM1AxV1hIemFnajh0b0ZoWkVqdWZUR1g3SGRmMmp6N05aRElXcmxUT09kWjhQSkFFRVh6Ym1zV3ZsdGhZSUV2TWZsUFo0RHM2ejdrLXAzb3JHNWZIYmhGZE5n?oc=5)
-- 热度：trend_score=34.75 | 来源=WDSU
-- 看点：WDSU 头条聚焦该事件，Google News 同时聚合到这些相关表述：Preliminary investigation points to steering failure in tanker collision with river cruise ship；'Steering casualty' preceded New Orleans cruise ship collision, says NTSB；Tanker hit cruise ship in New Orleans after steering failure, spurring massive evacuation, officials say。
-### 2. [Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill](https://news.google.com/rss/articles/CBMifEFVX3lxTE1lSFBGZkNRM3dvVllFNU9qdlVUX2JNYkFsVVdwQzBwVkdTVUEtN01meG9lczg3WktsbnpKX3E4allFQno2cW5oR2xjbzhRNzNqbll0NGRfSUVEQl9CazNhYkVjQWJuc09oOTBhS2l3VHlzQmp0cE9yRGx5MWfSAYIBQVVfeXFMT0l4NkREMWJ5ZktWQ2FlRXpzS241Ynp3Y1ZGempMWWlUWmh0VllxNTRTS1VaWjktbDVWQ2E4d1cwUFowejJySnRxTmFaa3hmSDh5MF9lYkNXVS0zYkdQLUJaVFVIbW9YZlFQRms0cnE0UWpPOF85bGw4b1djZmJHVDViUQ?oc=5)
-- 热度：trend_score=31.65 | 来源=The Hill
-- 看点：The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Koh blames Trump for blocking Biden-era infrastructure, FAA funding；Trump administration asks for billions to overhaul FAA. Democrats question how money was spent；Trump breaks silence about FAA nationwide ground stop, blames Biden administration。
-### 3. [US colleges struggle as international students turn away - Politico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0pjRHBkVUIzcVBjNnVYMXdtU3gtSm9EVXhlOGctUUlQYS1OTEZJRTZZRC02YTcydXNJQTdXQklBcUVVMUl4X0JPNHlKbFNaS1pTaTZPdVAzZmR4LUd0S3ctSnlPZ2JKaGZaZU1hUGp0WVd5YTFoU01ybmU3Q25GbHIxQ0o3Z2pTWk9PU2x5bjF6ZXdlY192REZ0anphdlZQOU8xRWt6dVJ5QQ?oc=5)
-- 热度：trend_score=31.44 | 来源=Politico
-- 看点：Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：US colleges struggle as international students turn away；Trump Administration Targets F-1 Students, Creating Turmoil for Them, US Universities, and US Employers；Visa barriers push students from US and UK to Asia and Europe, global survey shows。
+### 1. [Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbXFXUWsxanRDclZUbV9abTdzc2VfT0xBSjU1d0JDUGI4bUVRZ0Ryc2dweWRoOVF5b2o0bGlkbkdXXzd1S2sxdFRtWnNQUnIyZktFMzg5dlJCUUk?oc=5)
+- 热度：trend_score=44.22 | 来源=BBC
+- 看点：BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?；Peltola expands lead over Sullivan in latest ballot drop；Alaska Senate race heads for Democratic win amid Trump threats。
+### 2. [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5)
+- 热度：trend_score=34.85 | 来源=AP News
+- 看点：AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting；Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps；World leaders gather for Apec and Asean summits ahead of Trump-Xi-Putin meeting – live updates。
+### 3. [Senate Democrats reject quick exit from Schumer vs. Van Hollen fight - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGx0WXhmNmhMV0QyZmN5SW1sYVVoRUdHc1JWQ2xHSVc3SWxZZ0tsR2RPSlE2bm5EY2lkOFhBRFh6TndzZFBnZnpDSXZ6b3dtT01oV1BiV0RCUDdjNDFDM01vYWpUUFhyWDk0NzktRjI1eHE4RE1sQ3R4cEhjbl9ZXzBvc0d5eEpvSWdXSQ?oc=5)
+- 热度：trend_score=33.67 | 来源=Politico
+- 看点：Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Senate Democrats reject quick exit from Schumer vs. Van Hollen fight；Adviser to Sen. Bernie Sanders on the Democratic leadership challenge in the Senate；Outside Angus King’s Augusta office, protesters challenge his support for Schumer。
 
 ## 热榜 Top 10
-1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | github-trending | trend_score=91.81
-2. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | github-trending | trend_score=86.85
-3. [dream-num/univer](https://github.com/dream-num/univer) | github-trending | trend_score=86.13
-4. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | github-trending | trend_score=84.87
-5. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | github-trending | trend_score=83.99
-6. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | github-trending | trend_score=83.64
-7. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | github-trending | trend_score=82.64
-8. [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | github-trending | trend_score=78.82
-9. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | github-trending | trend_score=77.57
-10. [ggml-org/ggml](https://github.com/ggml-org/ggml) | github-trending | trend_score=76.93
+1. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | github-trending | trend_score=94.14
+2. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | github-trending | trend_score=90.96
+3. [dream-num/univer](https://github.com/dream-num/univer) | github-trending | trend_score=86.83
+4. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | github-trending | trend_score=86.2
+5. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | github-trending | trend_score=83.99
+6. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | github-trending | trend_score=82.61
+7. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | github-trending | trend_score=81.59
+8. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | github-trending | trend_score=80.61
+9. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | github-trending | trend_score=79.28
+10. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | github-trending | trend_score=72.78
 
 ## 备注
 - Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1
 
 ## 收尾判断
-今日热点显示，AI与软件开发流程的结合正从代码生成向审查、调试、协作等全链路深化。大厂开源项目引领着工具标准化与基础设施构建，而社区的高关注度也验证了市场对实用化AI开发工具的迫切需求。开发者可关注这些项目在各自技术栈中的落地进展，以评估其长期价值。
+整体来看，开发者社区正积极构建AI智能体的基础设施与垂直应用工具，开源生态呈现'底层协议标准化、上层技能场景化'的双轨发展。然而，多数项目仍处早期，实际生产环境中的稳定性、安全性及商业化路径尚待验证。建议持续关注头部项目（如Univer、SkillEvaluator）的版本迭代与生态合作，同时警惕AI生成代码在金融、安全等高风险领域的应用风险。
