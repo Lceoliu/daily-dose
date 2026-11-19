@@ -1,0 +1,1486 @@
+{
+  "generated_at": "2026-11-19T02:55:44.866838+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "google-research/paper-orchestra",
+        "url": "https://github.com/google-research/paper-orchestra",
+        "author": "google-research",
+        "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 1524,
+        "comment_count": 539,
+        "total_stars": 4368,
+        "built_by": [
+          "yiwen-song",
+          "obrienciaran"
+        ],
+        "content_context": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.\n\nLanguage: Python\n\nStars today: 1524\n\nTotal stars: 4368\n\nBuilt by: yiwen-song, obrienciaran",
+        "trend_score": 93.36,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.886,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "NVIDIA/SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "author": "NVIDIA",
+        "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 312,
+        "comment_count": 519,
+        "total_stars": 3778,
+        "built_by": [
+          "rng1995",
+          "chrisknvidia",
+          "claude",
+          "YMuskrat",
+          "kweinmeister"
+        ],
+        "content_context": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.\n\nLanguage: Python\n\nStars today: 312\n\nTotal stars: 3778\n\nBuilt by: rng1995, chrisknvidia, claude, YMuskrat, kweinmeister",
+        "trend_score": 88.97,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.77,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "author": "mvanhorn",
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 1059,
+        "comment_count": 6248,
+        "total_stars": 70101,
+        "built_by": [
+          "mvanhorn",
+          "tmchow",
+          "claude",
+          "iliaal",
+          "dependabot"
+        ],
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 1059\n\nTotal stars: 70101\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "sveltejs/svelte",
+        "url": "https://github.com/sveltejs/svelte",
+        "author": "sveltejs",
+        "summary": "web development for the rest of us",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "JavaScript",
+        "score": 692,
+        "comment_count": 6208,
+        "total_stars": 89647,
+        "built_by": [
+          "Rich-Harris",
+          "dummdidumm",
+          "Conduitry",
+          "github-actions",
+          "trueadm"
+        ],
+        "content_context": "web development for the rest of us\n\nLanguage: JavaScript\n\nStars today: 692\n\nTotal stars: 89647\n\nBuilt by: Rich-Harris, dummdidumm, Conduitry, github-actions, trueadm",
+        "trend_score": 85.67,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.969,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "google-labs-code/stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "author": "google-labs-code",
+        "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "TypeScript",
+        "score": 365,
+        "comment_count": 1368,
+        "total_stars": 10431,
+        "built_by": [
+          "JLXIA",
+          "davideast",
+          "Emp1500",
+          "dalmaer",
+          "meeChn"
+        ],
+        "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 365\n\nTotal stars: 10431\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
+        "trend_score": 84.99,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.837,
+          "topic_overlap": 0.2,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "author": "nvm-sh",
+        "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Shell",
+        "score": 237,
+        "comment_count": 10781,
+        "total_stars": 96164,
+        "built_by": [
+          "ljharb",
+          "PeterDaveHello",
+          "creationix",
+          "koenpunt",
+          "lukechilds"
+        ],
+        "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 237\n\nTotal stars: 96164\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+        "trend_score": 83.97,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.924,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "author": "HKUDS",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 389,
+        "comment_count": 5434,
+        "total_stars": 59845,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ],
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 389\n\nTotal stars: 59845\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 83.82,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.92,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "astral-sh/uv",
+        "url": "https://github.com/astral-sh/uv",
+        "author": "astral-sh",
+        "summary": "An extremely fast Python package and project manager, written in Rust.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Rust",
+        "score": 258,
+        "comment_count": 3923,
+        "total_stars": 92253,
+        "built_by": [
+          "charliermarsh",
+          "zanieb",
+          "konstin",
+          "renovate",
+          "astral-automations-bot"
+        ],
+        "content_context": "An extremely fast Python package and project manager, written in Rust.\n\nLanguage: Rust\n\nStars today: 258\n\nTotal stars: 92253\n\nBuilt by: charliermarsh, zanieb, konstin, renovate, astral-automations-bot",
+        "trend_score": 81.99,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.872,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "author": "cursor",
+        "summary": "Cursor plugin specification and official plugins",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "TypeScript",
+        "score": 314,
+        "comment_count": 1906,
+        "total_stars": 17255,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "djiang-jq",
+          "minupalaniappan",
+          "ericzakariasson"
+        ],
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 314\n\nTotal stars: 17255\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 80.96,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.845,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "getarcaneapp/arcane",
+        "url": "https://github.com/getarcaneapp/arcane",
+        "author": "getarcaneapp",
+        "summary": "Modern Docker Management, Designed for Everyone",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Go",
+        "score": 547,
+        "comment_count": 566,
+        "total_stars": 9854,
+        "built_by": [
+          "kmendell",
+          "dependabot",
+          "getarcaneappbot",
+          "cabaucom376",
+          "GiulioSavini"
+        ],
+        "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 547\n\nTotal stars: 9854\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
+        "trend_score": 79.82,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.815,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Ask HN: Is Uber Support Dead?",
+        "url": "https://news.ycombinator.com/item?id=50555440",
+        "author": "johnpython",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:47:33+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": "I have been using Uber during my recent travels to different cities and every time that I run into an issue and need to contact support, Uber fails to handle my issue with appropriate care or customer service. My issues are rapidly closed without the customer support agent even attempting to understanding the problem or read my messages carefully. I have attempted to provide evidences in the form of screenshots or SMS payment confirmation messages which are not even acknowledged. I've had to open multiple support issues for the same problem without any adequate resolution.<p>How has your experience with Uber support been lately?",
+        "trend_score": 49.36,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.05,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Would you use this as the new Conductor Cloud?",
+        "url": "https://www.runaether.dev/benchmarks/pr-review",
+        "author": "xbartlet",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:20:48+00:00",
+        "summary": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.runaether.dev/benchmarks/pr-review",
+          "page_title": "AI code review benchmarks",
+          "page_description": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+          "page_excerpt": "Greptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public.\n\nGraded the same way, Greptile caught 35. Its own page claims 41.\n\nShare of the 50 known bugs each tool caught with a line-level review comment."
+        },
+        "content_context": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.\n\nGreptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public. Graded the same way, Greptile caught 35. Its own page claims 41. Share of the 50 known bugs each tool caught with a line-level review comment.",
+        "trend_score": 48.48,
+        "trend_breakdown": {
+          "freshness": 0.976,
+          "engagement": 0.05,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Hardware attestation push – Windows will soon grade your PC's security",
+        "url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+        "author": "viscousviolin",
+        "score": 2,
+        "comment_count": 2,
+        "published_at": "2026-11-19T02:31:24+00:00",
+        "summary": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+        "comment_highlights": [
+          "\"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example."
+        ],
+        "linked_context": {
+          "resolved_url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+          "page_title": "Windows will soon grade your PC's security, and apps like Battle.net get to see the score",
+          "page_description": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+          "page_excerpt": "The big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether.\n\nMicrosoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign...\n\nIronically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl..."
+        },
+        "content_context": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...\n\nThe big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether. Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign... Ironically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl...\n\nHN comment: \"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example.",
+        "trend_score": 46.28,
+        "trend_breakdown": {
+          "freshness": 0.983,
+          "engagement": 0.142,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "One A4 paper in the virtual world – 4096 characters",
+        "url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+        "author": "lilerjee",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:52:24+00:00",
+        "summary": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+          "page_title": "One A4 paper in the virtual world -- 4096 characters",
+          "page_description": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+          "page_excerpt": "Hi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world.\n\nI encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number?\n\nThe limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat..."
+        },
+        "content_context": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether\n\nHi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? The limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat...",
+        "trend_score": 44.97,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.05,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "I banned Roku from my internet to try to save my Roku Express",
+        "url": "https://manualdousuario.net/en/roku-block-ads/",
+        "author": "rpgbr",
+        "score": 6,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:18:15+00:00",
+        "summary": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://manualdousuario.net/en/roku-block-ads/",
+          "page_title": "I banned Roku from my internet to try to save my Roku Express",
+          "page_description": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+          "page_excerpt": "“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water.\n\nI wrapped up my review of the Roku Express [pt_BR], four years ago, by saying:\n\nFor the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality."
+        },
+        "content_context": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.\n\n“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water. I wrapped up my review of the Roku Express [pt_BR], four years ago, by saying: For the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality.",
+        "trend_score": 43.84,
+        "trend_breakdown": {
+          "freshness": 0.974,
+          "engagement": 0.139,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Vercel Board – a shared, secure message board for agents (public beta)",
+        "url": "https://vercel.com/blog/introducing-vercel-board",
+        "author": "andrewqu",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:50:52+00:00",
+        "summary": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://vercel.com/blog/introducing-vercel-board",
+          "page_title": "Introducing Vercel Board",
+          "page_description": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.",
+          "page_excerpt": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects.\n\nA single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents.\n\nWe ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects:"
+        },
+        "content_context": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.\n\nSoftware development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects:",
+        "trend_score": 43.49,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.099,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+        "url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+        "author": "ivewonyoung",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:32:01+00:00",
+        "summary": "The lawsuit names the school district, police and the technology company behind the detection software.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+          "page_title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+          "page_description": "The lawsuit names the school district, police and the technology company behind the detection software.",
+          "page_excerpt": "BALTIMORE, MD. ( QUEEN CITY NEWS ) -- A lawsuit filed by four Baltimore-area students is raising new questions about the growing use of artificial intelligence in school security systems after software allegedly mistook a bag of Doritos for a firearm, triggering a police response.\n\nAccording to the lawsuit, the incident occurred outside Kenwood High School in 2025 when an AI-powered gun detection system developed by Omnilert flagged what it believed was a weapon.\n\nThe students claim the alert led officers to respond with guns drawn before ordering four teens to the ground, handcuffing and searching them. Officers later determined there was no weapon and no threat, according to court filings."
+        },
+        "content_context": "The lawsuit names the school district, police and the technology company behind the detection software.\n\nBALTIMORE, MD. ( QUEEN CITY NEWS ) -- A lawsuit filed by four Baltimore-area students is raising new questions about the growing use of artificial intelligence in school security systems after software allegedly mistook a bag of Doritos for a firearm, triggering a police response. According to the lawsuit, the incident occurred outside Kenwood High School in 2025 when an AI-powered gun detection system developed by Omnilert flagged what it believed was a weapon. The students claim the alert led officers to respond with guns drawn before ordering four teens to the ground, handcuffing and searching them. Officers later determined there was no weapon and no threat, according to court filings.",
+        "trend_score": 43.4,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.05,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Writing Down (and Searching Through) Every UUID",
+        "url": "https://eieio.games/blog/writing-down-every-uuid/",
+        "author": "leonidasv",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:22:44+00:00",
+        "summary": "I couldn't remember every UUID so I wrote them all down",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://eieio.games/blog/writing-down-every-uuid/",
+          "page_title": "Writing down (and searching through) every UUID · eieio.games",
+          "page_description": "I couldn't remember every UUID so I wrote them all down",
+          "page_excerpt": "I’ve been struggling to remember all of the UUIDs 1 . There are a lot of them. So this week I wrote them all down. You can see my list at everyuuid.com .\n\nA UUID is a universally unique identifier - a long collection of letters and numbers that is basically always unique.\n\nThe site looks like this - UUIDs are displayed in a random-ish but consistent order and you can quickly search for one that you like:"
+        },
+        "content_context": "I couldn't remember every UUID so I wrote them all down\n\nI’ve been struggling to remember all of the UUIDs 1 . There are a lot of them. So this week I wrote them all down. You can see my list at everyuuid.com . A UUID is a universally unique identifier - a long collection of letters and numbers that is basically always unique. The site looks like this - UUIDs are displayed in a random-ish but consistent order and you can quickly search for one that you like:\n\nHN comment: [flagged]",
+        "trend_score": 42.05,
+        "trend_breakdown": {
+          "freshness": 0.977,
+          "engagement": 0.079,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Anthropic is not living up to its ideals",
+        "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
+        "author": "rachelfarley",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:46:35+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 41.81,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.05,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Stabyourself.net Games",
+        "url": "https://games.stabyourself.net/",
+        "author": "pavel_lishin",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:14:23+00:00",
+        "summary": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://games.stabyourself.net/",
+          "page_title": "Stabyourself.net Games",
+          "page_description": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.",
+          "page_excerpt": "The first real Stabyourself.net game! I was mostly experimenting with the physics engine here.\n\nThe result of trying to build a tiny 3D engine out of nothing but cubes. Also the first time I used music by my friend Capsadmin!\n\nThe big one. After the development video went viral, this game racked up over 5 million downloads. Lots of great community mods too!"
+        },
+        "content_context": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.\n\nThe first real Stabyourself.net game! I was mostly experimenting with the physics engine here. The result of trying to build a tiny 3D engine out of nothing but cubes. Also the first time I used music by my friend Capsadmin! The big one. After the development video went viral, this game racked up over 5 million downloads. Lots of great community mods too!",
+        "trend_score": 40.9,
+        "trend_breakdown": {
+          "freshness": 0.971,
+          "engagement": 0.05,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
+        "published_at": "2026-11-19T02:49:27+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Xi and Putin set to hold historic meeting on Apec sidelines；‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies；Russia and China are not America’s friends. Why does Trump think they are?。",
+        "related_headlines": [
+          "Trump, Xi and Putin set to hold historic meeting on Apec sidelines",
+          "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies",
+          "Russia and China are not America’s friends. Why does Trump think they are?",
+          "Trump’s dream of a nuclear deal meets reality of unwilling Russia and China",
+          "Trump meets Xi and Putin in China with nuclear arms and two wars on the table"
+        ],
+        "content_context": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Xi and Putin set to hold historic meeting on Apec sidelines；‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies；Russia and China are not America’s friends. Why does Trump think they are?。\n\nRelated coverage: Trump, Xi and Putin set to hold historic meeting on Apec sidelines\n\nRelated coverage: ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies\n\nRelated coverage: Russia and China are not America’s friends. Why does Trump think they are?\n\nRelated coverage: Trump’s dream of a nuclear deal meets reality of unwilling Russia and China\n\nRelated coverage: Trump meets Xi and Putin in China with nuclear arms and two wars on the table",
+        "trend_score": 37.62,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0ozZTJwRFgzZXh0bjNoUHdyNFZGOXE4TFJ0aU9yOE9HZ0hfSnpHaE1oaW8zcE1qeE81UWZaYjVCX0ZOX1UzaXZXTkpOQmljSHE1NExfdDRqTFZYUWZUTDluRU1xcGtLT3NZRzk0U19kTUhKcTlzT3dkaG8tRjVxMnpoakRYaWxZVUhZdEpTU0JHY2Z6Y1JEdVJqR1ZDRTJsTEZIQ25VaWI0SVY0SjFBN1U2X3VDYW0wNWZVdkNFVko?oc=5",
+        "published_at": "2026-11-18T23:31:54+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Leading House Democrat targets Trump’s inner circle for first investigations；House Democrats Cast Wide Net as They Prepare Trump Investigations；House Democrat warns 13 Trump allies to save their records for upcoming investigations。",
+        "related_headlines": [
+          "Leading House Democrat targets Trump’s inner circle for first investigations",
+          "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+          "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+          "Democrats send letters to dozens of Trump officials and allies putting them on notice",
+          "Trump family and allies told to preserve records as Democrats prepare sweeping investigations"
+        ],
+        "content_context": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Leading House Democrat targets Trump’s inner circle for first investigations；House Democrats Cast Wide Net as They Prepare Trump Investigations；House Democrat warns 13 Trump allies to save their records for upcoming investigations。\n\nRelated coverage: Leading House Democrat targets Trump’s inner circle for first investigations\n\nRelated coverage: House Democrats Cast Wide Net as They Prepare Trump Investigations\n\nRelated coverage: House Democrat warns 13 Trump allies to save their records for upcoming investigations\n\nRelated coverage: Democrats send letters to dozens of Trump officials and allies putting them on notice\n\nRelated coverage: Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+        "trend_score": 35.27,
+        "trend_breakdown": {
+          "freshness": 0.858,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Hill",
+        "category": "news",
+        "title": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raTJreThiUkNqVXNrSTM5WE4zVE9SX2llZG4wbDJicmJEMUdvWDkxbDBUYkZyTDF6QUM3d3RJanEzR3N2V1hiYnVhUVlfLTNGcWhweHhXRk95QTNrellreG54RHgzVjB4T2pJcG1DdUFuNDhDdTB4eTFrMjZrX2PSAYQBQVVfeXFMTnV2ajlQcm9ac3hGQzZ5aDFEb2hJa0tFWDNpS1dGbTlQdmRzVWhqU0I4WHhFOEozZkZBX3hXUGxYNlk2SmxXQ2FqNVdyZU8tbG5BOEgweGRVTG0tZkltcUUwdnl1b1hiamRmNlpZNndwMmVKanh4VnF3cjhvUENKOVh0T3JR?oc=5",
+        "published_at": "2026-11-19T00:26:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan；Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas；Republican Senator Cornyn blocks Trump judicial nominee in Texas。",
+        "related_headlines": [
+          "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan",
+          "Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas",
+          "Republican Senator Cornyn blocks Trump judicial nominee in Texas",
+          "Sen. John Cornyn blocks Trump nominee for federal judge in Texas",
+          "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas"
+        ],
+        "content_context": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan；Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas；Republican Senator Cornyn blocks Trump judicial nominee in Texas。\n\nRelated coverage: Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan\n\nRelated coverage: Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas\n\nRelated coverage: Republican Senator Cornyn blocks Trump judicial nominee in Texas\n\nRelated coverage: Sen. John Cornyn blocks Trump nominee for federal judge in Texas\n\nRelated coverage: Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+        "trend_score": 34.92,
+        "trend_breakdown": {
+          "freshness": 0.896,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5",
+        "published_at": "2026-11-18T21:09:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hakeem Jeffries could become the first Black House speaker after Democratic nomination；Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives；Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History。",
+        "related_headlines": [
+          "Hakeem Jeffries could become the first Black House speaker after Democratic nomination",
+          "Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives",
+          "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+          "Katherine Clark of Massachusetts elected as next House majority leader by Democrats in historic first",
+          "Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off"
+        ],
+        "content_context": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hakeem Jeffries could become the first Black House speaker after Democratic nomination；Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives；Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History。\n\nRelated coverage: Hakeem Jeffries could become the first Black House speaker after Democratic nomination\n\nRelated coverage: Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives\n\nRelated coverage: Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History\n\nRelated coverage: Katherine Clark of Massachusetts elected as next House majority leader by Democrats in historic first\n\nRelated coverage: Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off",
+        "trend_score": 34.0,
+        "trend_breakdown": {
+          "freshness": 0.759,
+          "engagement": 0.0,
+          "topic_overlap": 0.417,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Yahoo Finance",
+        "category": "news",
+        "title": "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeDN5WjlMNEk2bndfVWFuek5uRm1pdDlYNi1nbVM2cjk0VXpTU245S3N2aWxkVGh5elZsTzV6WU5rZS1ZWXNTbWxXNXRhNFZWT181N3hYZUdHb3RsSDBwMmpwVEdYaHZXNl94Qmh2eENEN1QzenFadlpYMXdXOU5USWNneUJPQWNCVFZBbS05ZFVYZGxhX3NTd3hVeTN3X05YQnd0VzNRYzNDLUNIWm80cFVXUkp6TkpZckFQbFNGdEFta3RHdHNxMm1QVVRDV0ZBOGJkS05BOA?oc=5",
+        "published_at": "2026-11-18T19:28:42+00:00",
+        "summary": "Yahoo Finance 头条聚焦该事件，Google News 同时聚合到这些相关表述：Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel；Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses；Trump Administration Divide on China Policy Breaks Into Public View。",
+        "related_headlines": [
+          "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel",
+          "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses",
+          "Trump Administration Divide on China Policy Breaks Into Public View",
+          "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
+          "Democrats on House Judiciary and Foreign Affairs probing Lutnick family’s role in Nvidia scandal"
+        ],
+        "content_context": "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance\n\nYahoo Finance 头条聚焦该事件，Google News 同时聚合到这些相关表述：Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel；Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses；Trump Administration Divide on China Policy Breaks Into Public View。\n\nRelated coverage: Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel\n\nRelated coverage: Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses\n\nRelated coverage: Trump Administration Divide on China Policy Breaks Into Public View\n\nRelated coverage: Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster\n\nRelated coverage: Democrats on House Judiciary and Foreign Affairs probing Lutnick family’s role in Nvidia scandal",
+        "trend_score": 33.91,
+        "trend_breakdown": {
+          "freshness": 0.69,
+          "engagement": 0.0,
+          "topic_overlap": 0.308,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
+        "published_at": "2026-11-18T23:06:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat；See more headlines & perspectives on Google News。",
+        "related_headlines": [
+          "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat",
+          "See more headlines & perspectives on Google News"
+        ],
+        "content_context": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat；See more headlines & perspectives on Google News。\n\nRelated coverage: Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 32.92,
+        "trend_breakdown": {
+          "freshness": 0.84,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5",
+        "published_at": "2026-11-19T00:27:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again；Russian Offensive Campaign Assessment, November 17, 2026；Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits。",
+        "related_headlines": [
+          "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again",
+          "Russian Offensive Campaign Assessment, November 17, 2026",
+          "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+          "What the Crimean bridge attack means for Russia",
+          "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years."
+        ],
+        "content_context": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again；Russian Offensive Campaign Assessment, November 17, 2026；Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits。\n\nRelated coverage: Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again\n\nRelated coverage: Russian Offensive Campaign Assessment, November 17, 2026\n\nRelated coverage: Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits\n\nRelated coverage: What the Crimean bridge attack means for Russia\n\nRelated coverage: Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+        "trend_score": 32.28,
+        "trend_breakdown": {
+          "freshness": 0.897,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WESH",
+        "category": "news",
+        "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
+        "published_at": "2026-11-18T21:16:00+00:00",
+        "summary": "WESH 头条聚焦该事件，Google News 同时聚合到这些相关表述：12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas；Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend；Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain。",
+        "related_headlines": [
+          "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
+          "Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend",
+          "Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain",
+          "Live updates: Relentless storms bring heavy rain, intense flooding to Florida's Atlantic Coast",
+          "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida"
+        ],
+        "content_context": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH\n\nWESH 头条聚焦该事件，Google News 同时聚合到这些相关表述：12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas；Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend；Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain。\n\nRelated coverage: 12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas\n\nRelated coverage: Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend\n\nRelated coverage: Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain\n\nRelated coverage: Live updates: Relentless storms bring heavy rain, intense flooding to Florida's Atlantic Coast\n\nRelated coverage: Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida",
+        "trend_score": 27.51,
+        "trend_breakdown": {
+          "freshness": 0.764,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WMBF",
+        "category": "news",
+        "title": "Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3VlVUljMGVudE53NFBaM09yQUQ0MVpBWEFaYUZnZ1JpRkwyOHdzcUhaMXBlUjlVeF9hbk1YWFI2bUlobVV5WDl0cVpxRGhqZnVNRXd3RnI2WkZ5aVlqQ3N6NzhtUVFmaFJOaloxMVhZaUc3UjZ5c1hJQ0t0Q19iNm9wSXhPMFRjSXpRSFRHQXAwVkNfcFo2WmU2YWtOWjB6VEdvRVdZcWRQTVAy0gHAAUFVX3lxTFBmX1ZmREdwbWsyX1RkbTh1T09vOEk0ZE15c0F5UjJOcmxrV1hxMFptQnNVX1k3S0VCZVl2UDRRamdUZlFwNjJ3cFdCYjlSNGJIMTRyYUhHS2JxV0Rpb09EbEV6SEthT2JxOTU0Vml4X2NQelV1Uk5MY3VrbE1JckZSc0xZWGJkT2NXX3FBd1d4UTEtVS1iMjhqYS13UFVWTnpsWmVFaG5Ec3F6TmVoX3otamNyQmx0ejhKOW5Vbm0tZA?oc=5",
+        "published_at": "2026-11-18T20:31:00+00:00",
+        "summary": "WMBF 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boyd, Williams indicted on murder charges in Scott Spivey’s death；2 accused in death of Scott Spivey indicted by grand jury；Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges。",
+        "related_headlines": [
+          "Boyd, Williams indicted on murder charges in Scott Spivey’s death",
+          "2 accused in death of Scott Spivey indicted by grand jury",
+          "Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges",
+          "Men who killed Scott Spivey indicted on murder charges in Horry County",
+          "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case"
+        ],
+        "content_context": "Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF\n\nWMBF 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boyd, Williams indicted on murder charges in Scott Spivey’s death；2 accused in death of Scott Spivey indicted by grand jury；Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges。\n\nRelated coverage: Boyd, Williams indicted on murder charges in Scott Spivey’s death\n\nRelated coverage: 2 accused in death of Scott Spivey indicted by grand jury\n\nRelated coverage: Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges\n\nRelated coverage: Men who killed Scott Spivey indicted on murder charges in Horry County\n\nRelated coverage: Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
+        "trend_score": 26.38,
+        "trend_breakdown": {
+          "freshness": 0.733,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NPR",
+        "category": "news",
+        "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUs5ZXotc29oMFdCVEFwWkE3cXZEeUc1TWFCdm1obnMzbnh0MnhxSFBOWGw2c1VSblZzejEzdWY5ZkJocjJHUUdaSEhPT0NGM2NIS1JQR1FLY2lRcU56Z3dQem9sb3VzYXVIVGlpZGp5ZlM3TlZVajBWMnJ6T05VUmdZNDRWN0dRa192a0Y1cjEwQndrU0NwTlhWVy1LQVRMWEZXdVg2UmJGZDhxckFFWUxmWXNEQQ?oc=5",
+        "published_at": "2026-11-18T12:14:28+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang；Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats；Democrats flipped 9 US Senate seats — the most in almost 70 years。",
+        "related_headlines": [
+          "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats",
+          "Democrats flipped 9 US Senate seats — the most in almost 70 years",
+          "Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say",
+          "Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska"
+        ],
+        "content_context": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang；Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats；Democrats flipped 9 US Senate seats — the most in almost 70 years。\n\nRelated coverage: Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang\n\nRelated coverage: Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats\n\nRelated coverage: Democrats flipped 9 US Senate seats — the most in almost 70 years\n\nRelated coverage: Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say\n\nRelated coverage: Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska",
+        "trend_score": 22.78,
+        "trend_breakdown": {
+          "freshness": 0.388,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "author": "google-research",
+      "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 1524,
+      "comment_count": 539,
+      "total_stars": 4368,
+      "built_by": [
+        "yiwen-song",
+        "obrienciaran"
+      ],
+      "content_context": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.\n\nLanguage: Python\n\nStars today: 1524\n\nTotal stars: 4368\n\nBuilt by: yiwen-song, obrienciaran",
+      "trend_score": 93.36,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.886,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "author": "NVIDIA",
+      "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 312,
+      "comment_count": 519,
+      "total_stars": 3778,
+      "built_by": [
+        "rng1995",
+        "chrisknvidia",
+        "claude",
+        "YMuskrat",
+        "kweinmeister"
+      ],
+      "content_context": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.\n\nLanguage: Python\n\nStars today: 312\n\nTotal stars: 3778\n\nBuilt by: rng1995, chrisknvidia, claude, YMuskrat, kweinmeister",
+      "trend_score": 88.97,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.77,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "author": "mvanhorn",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 1059,
+      "comment_count": 6248,
+      "total_stars": 70101,
+      "built_by": [
+        "mvanhorn",
+        "tmchow",
+        "claude",
+        "iliaal",
+        "dependabot"
+      ],
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 1059\n\nTotal stars: 70101\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "author": "sveltejs",
+      "summary": "web development for the rest of us",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "JavaScript",
+      "score": 692,
+      "comment_count": 6208,
+      "total_stars": 89647,
+      "built_by": [
+        "Rich-Harris",
+        "dummdidumm",
+        "Conduitry",
+        "github-actions",
+        "trueadm"
+      ],
+      "content_context": "web development for the rest of us\n\nLanguage: JavaScript\n\nStars today: 692\n\nTotal stars: 89647\n\nBuilt by: Rich-Harris, dummdidumm, Conduitry, github-actions, trueadm",
+      "trend_score": 85.67,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.969,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "author": "google-labs-code",
+      "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "TypeScript",
+      "score": 365,
+      "comment_count": 1368,
+      "total_stars": 10431,
+      "built_by": [
+        "JLXIA",
+        "davideast",
+        "Emp1500",
+        "dalmaer",
+        "meeChn"
+      ],
+      "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 365\n\nTotal stars: 10431\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
+      "trend_score": 84.99,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.837,
+        "topic_overlap": 0.2,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "author": "nvm-sh",
+      "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Shell",
+      "score": 237,
+      "comment_count": 10781,
+      "total_stars": 96164,
+      "built_by": [
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "koenpunt",
+        "lukechilds"
+      ],
+      "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 237\n\nTotal stars: 96164\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+      "trend_score": 83.97,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.924,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "author": "HKUDS",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 389,
+      "comment_count": 5434,
+      "total_stars": 59845,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ],
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 389\n\nTotal stars: 59845\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 83.82,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.92,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "author": "astral-sh",
+      "summary": "An extremely fast Python package and project manager, written in Rust.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Rust",
+      "score": 258,
+      "comment_count": 3923,
+      "total_stars": 92253,
+      "built_by": [
+        "charliermarsh",
+        "zanieb",
+        "konstin",
+        "renovate",
+        "astral-automations-bot"
+      ],
+      "content_context": "An extremely fast Python package and project manager, written in Rust.\n\nLanguage: Rust\n\nStars today: 258\n\nTotal stars: 92253\n\nBuilt by: charliermarsh, zanieb, konstin, renovate, astral-automations-bot",
+      "trend_score": 81.99,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.872,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "author": "cursor",
+      "summary": "Cursor plugin specification and official plugins",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "TypeScript",
+      "score": 314,
+      "comment_count": 1906,
+      "total_stars": 17255,
+      "built_by": [
+        "cursoragent",
+        "poteto",
+        "djiang-jq",
+        "minupalaniappan",
+        "ericzakariasson"
+      ],
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 314\n\nTotal stars: 17255\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 80.96,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.845,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "author": "getarcaneapp",
+      "summary": "Modern Docker Management, Designed for Everyone",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Go",
+      "score": 547,
+      "comment_count": 566,
+      "total_stars": 9854,
+      "built_by": [
+        "kmendell",
+        "dependabot",
+        "getarcaneappbot",
+        "cabaucom376",
+        "GiulioSavini"
+      ],
+      "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 547\n\nTotal stars: 9854\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
+      "trend_score": 79.82,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.815,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Ask HN: Is Uber Support Dead?",
+      "url": "https://news.ycombinator.com/item?id=50555440",
+      "author": "johnpython",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-19T02:47:33+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": "I have been using Uber during my recent travels to different cities and every time that I run into an issue and need to contact support, Uber fails to handle my issue with appropriate care or customer service. My issues are rapidly closed without the customer support agent even attempting to understanding the problem or read my messages carefully. I have attempted to provide evidences in the form of screenshots or SMS payment confirmation messages which are not even acknowledged. I've had to open multiple support issues for the same problem without any adequate resolution.<p>How has your experience with Uber support been lately?",
+      "trend_score": 49.36,
+      "trend_breakdown": {
+        "freshness": 0.994,
+        "engagement": 0.05,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Would you use this as the new Conductor Cloud?",
+      "url": "https://www.runaether.dev/benchmarks/pr-review",
+      "author": "xbartlet",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-19T02:20:48+00:00",
+      "summary": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.runaether.dev/benchmarks/pr-review",
+        "page_title": "AI code review benchmarks",
+        "page_description": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+        "page_excerpt": "Greptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public.\n\nGraded the same way, Greptile caught 35. Its own page claims 41.\n\nShare of the 50 known bugs each tool caught with a line-level review comment."
+      },
+      "content_context": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.\n\nGreptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public. Graded the same way, Greptile caught 35. Its own page claims 41. Share of the 50 known bugs each tool caught with a line-level review comment.",
+      "trend_score": 48.48,
+      "trend_breakdown": {
+        "freshness": 0.976,
+        "engagement": 0.05,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Hardware attestation push – Windows will soon grade your PC's security",
+      "url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+      "author": "viscousviolin",
+      "score": 2,
+      "comment_count": 2,
+      "published_at": "2026-11-19T02:31:24+00:00",
+      "summary": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+      "comment_highlights": [
+        "\"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example."
+      ],
+      "linked_context": {
+        "resolved_url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+        "page_title": "Windows will soon grade your PC's security, and apps like Battle.net get to see the score",
+        "page_description": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+        "page_excerpt": "The big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether.\n\nMicrosoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign...\n\nIronically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl..."
+      },
+      "content_context": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...\n\nThe big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether. Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign... Ironically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl...\n\nHN comment: \"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example.",
+      "trend_score": 46.28,
+      "trend_breakdown": {
+        "freshness": 0.983,
+        "engagement": 0.142,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "One A4 paper in the virtual world – 4096 characters",
+      "url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+      "author": "lilerjee",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-19T02:52:24+00:00",
+      "summary": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+        "page_title": "One A4 paper in the virtual world -- 4096 characters",
+        "page_description": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+        "page_excerpt": "Hi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world.\n\nI encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number?\n\nThe limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat..."
+      },
+      "content_context": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether\n\nHi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? The limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat...",
+      "trend_score": 44.97,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.05,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "I banned Roku from my internet to try to save my Roku Express",
+      "url": "https://manualdousuario.net/en/roku-block-ads/",
+      "author": "rpgbr",
+      "score": 6,
+      "comment_count": 0,
+      "published_at": "2026-11-19T02:18:15+00:00",
+      "summary": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://manualdousuario.net/en/roku-block-ads/",
+        "page_title": "I banned Roku from my internet to try to save my Roku Express",
+        "page_description": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+        "page_excerpt": "“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water.\n\nI wrapped up my review of the Roku Express [pt_BR], four years ago, by saying:\n\nFor the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality."
+      },
+      "content_context": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.\n\n“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water. I wrapped up my review of the Roku Express [pt_BR], four years ago, by saying: For the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality.",
+      "trend_score": 43.84,
+      "trend_breakdown": {
+        "freshness": 0.974,
+        "engagement": 0.139,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目活跃，聚焦于智能体能力扩展与评估。Google Research的PaperOrchestra与NVIDIA的SkillEvaluator分别从自动化论文撰写和智能体技能评估切入，推动AI研究与应用流程的标准化。同时，last30days-skill、Stitch Skills和CLI-Anything等项目致力于增强AI代理的多源信息整合、技能互操作性及软件生态集成能力，显示出智能体正从单一功能向复杂、开放的协作系统演进。此外，uv等高性能开发工具也获得关注，为AI项目的基础设施提供支持。",
+    "named_hotspots": [
+      {
+        "name": "PaperOrchestra",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Google Research 在 GitHub 上开源了一个名为 PaperOrchestra 的多智能体框架，旨在自动化 AI 研究论文的撰写过程。该项目今日获得 1524 颗星，总星数达 4368，引发社区关注。",
+        "core_details": "PaperOrchestra 是一个用 Python 编写的多智能体框架，由 yiwen-song 和 obrienciaran 构建。其核心功能是通过协调多个智能体（agent）来模拟并自动化研究论文的撰写流程，可能涵盖从文献综述、实验设计到结果分析和文本生成等环节。",
+        "ai_take": "该项目代表了 AI 在学术研究自动化方向的前沿探索，通过多智能体协作，可能提升论文产出的效率与一致性，为 AI 辅助科研提供了新的工具范式。",
+        "hype_check": "热度较高（趋势得分 93.36），单日获星超 1500，表明开发者社区对自动化研究工具兴趣浓厚，但实际效果和学术接受度仍需验证。",
+        "value_check": "潜在价值在于可能降低研究门槛、加速知识生产，但需警惕自动化可能带来的论文质量、学术诚信及创新性风险。",
+        "follow_up": "关注其后续版本更新、实际应用案例以及学术界的反馈，评估其在真实研究场景中的有效性与局限性。",
+        "evidence": "GitHub 项目页显示其为“用于自动化 AI 研究论文撰写的多智能体框架”，语言为 Python，由 Google Research 团队发布，星数增长数据佐证其受关注程度。"
+      },
+      {
+        "name": "SkillEvaluator",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "NVIDIA在GitHub上开源了一个名为SkillEvaluator的多层框架，用于评估AI智能体技能和插件，包含质量门控、语义重叠检测、合成评估数据集生成和实时智能体评估等功能。",
+        "core_details": "该项目由NVIDIA团队（包括rng1995、chrisknvidia等）开发，使用Python语言编写，旨在通过系统化方法衡量技能如何影响智能体行为，提升AI智能体的可靠性和性能。",
+        "ai_take": "该框架为AI智能体开发提供了标准化评估工具，有助于减少技能冗余、确保质量一致性，并支持通过合成数据加速测试，可能推动更模块化、可验证的智能体生态发展。",
+        "hype_check": "项目在GitHub趋势榜上单日获312星，总星数达3778，显示开发者社群的较高关注度，但实际工业应用效果仍需验证。",
+        "value_check": "对于构建复杂AI智能体的团队，该工具能提升开发效率和系统稳定性，尤其适用于需要集成多技能或插件的场景；对普通用户价值有限。",
+        "follow_up": "可关注其在NVIDIA AI工作流中的整合情况，以及社区是否基于此框架建立共享评估标准或数据集。",
+        "evidence": "项目描述强调其多层评估框架功能，包括质量门控、语义重叠检测等；GitHub数据反映其热度（单日312星，总3778星）。"
+      },
+      {
+        "name": "last30days-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为'last30days-skill'的AI代理技能项目在GitHub上趋势飙升，单日获星1059个，总星数已达70101。该项目旨在为AI代理提供跨平台研究能力。",
+        "core_details": "该项目是一个用Python编写的AI代理技能，能够自动研究任何指定主题，其数据源覆盖Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket以及整个网络。核心功能是抓取并综合分析这些来源的信息，最终生成一份基于事实、有理有据的总结报告。项目由mvanhorn等人开发和维护。",
+        "ai_take": "该项目代表了AI代理能力向'信息综合者'角色的演进。它不再局限于单一平台或格式，而是整合了社交媒体、论坛、视频、预测市场等多种异构信息流，并试图从中提炼出连贯的叙事。这指向了下一代AI助手的发展方向：能够自主进行多源调研，为用户节省信息收集与初步分析的时间，尤其在追踪快速变化的趋势或争议性话题时可能非常有用。",
+        "hype_check": "高。单日超千星的涨幅和超过7万的总收藏量表明其概念切中了当前对AI代理实用化和多源信息处理的强烈需求。社区关注度极高。",
+        "value_check": "潜在价值高。如果其合成总结的质量足够可靠，该技能可以成为研究人员、内容创作者、投资者或任何需要快速了解某个领域近期动态的人的强大工具。关键在于其信息抓取的准确性、来源的平衡性以及总结的客观性，避免成为回声室或偏见放大器。",
+        "follow_up": "需要关注其实际生成报告的质量评估、是否支持中文信息源、以及如何解决不同平台信息可信度差异和潜在偏见的问题。此外，其作为'技能'如何集成到主流AI代理框架（如LangChain、AutoGPT）中也值得观察。",
+        "evidence": "项目描述明确指出其功能为'researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary'。GitHub趋势数据（日增星1059，总星70101，语言Python）和开发者信息提供了流行度与技术栈证明。"
+      },
+      {
+        "name": "sveltejs/svelte",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "Svelte 是一个开源的前端框架，在 GitHub 趋势榜上受到关注，今日获得 692 颗星，总星数达 89647。",
+        "core_details": "Svelte 是一个用于构建用户界面的 JavaScript 框架，其核心理念是“为其余人准备的 Web 开发”，旨在通过编译时优化减少运行时开销，简化开发体验。项目由 Rich Harris 等人主导开发。",
+        "ai_take": "Svelte 的编译时方法可能为 AI 驱动的代码生成或优化工具提供灵感，但其本身并非 AI 模型或直接 AI 应用。",
+        "hype_check": "作为持续受欢迎的前端框架，其趋势热度反映了开发者社区对高效、简洁开发工具的持续兴趣，但并非突破性 AI 进展。",
+        "value_check": "对于前端开发者而言，Svelte 提供了有价值的替代方案，可能提升开发效率和性能，但其在 AI 领域的直接价值有限。",
+        "follow_up": "关注 Svelte 在 Web 开发中的采用率变化，以及是否有 AI 工具集成其编译时特性。",
+        "evidence": "GitHub 趋势数据：今日 692 星，总星 89647，项目描述为“web development for the rest of us”，语言为 JavaScript，由 Rich Harris 等维护。"
+      },
+      {
+        "name": "Stitch Skills",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "谷歌实验室在GitHub上开源了一个名为Stitch Skills的技能库项目，该项目旨在与Stitch MCP服务器协同工作，为各类AI编程助手提供标准化的技能模块。",
+        "core_details": "Stitch Skills是一个遵循Agent Skills开放标准的TypeScript库，包含一系列可复用的AI代理技能。它设计用于与Stitch MCP服务器集成，确保与Antigravity、Gemini CLI、Claude Code、Cursor等多种AI编程助手的兼容性。项目由谷歌实验室团队维护，目前在GitHub上获得超过1万颗星标，今日新增365颗星标，显示出较高的社区关注度。",
+        "ai_take": "该项目代表了AI编程助手生态标准化的重要一步。通过创建统一的技能标准，不同厂商的AI编程工具可以共享和调用相同的功能模块，降低了开发者的集成成本，并可能加速AI辅助编程工具的普及和创新。",
+        "hype_check": "社区热度较高（趋势得分84.99，日增星标365），表明开发者对AI编程助手互操作性和标准化技能库有切实需求。但需注意，这仍是一个实验室项目，其实际生产环境中的稳定性和广泛采纳度有待验证。",
+        "value_check": "核心价值在于推动AI编程助手领域的开放标准与互操作性。如果该标准被广泛采纳，将减少生态碎片化，使开发者能更灵活地组合不同AI工具的能力，提升开发效率。长期看，可能形成类似编程语言包管理器的AI技能生态系统。",
+        "follow_up": "关注Agent Skills开放标准的发展动态、其他主流AI编程工具（如GitHub Copilot）是否采纳该标准，以及Stitch MCP服务器在实际开发工作流中的集成案例。",
+        "evidence": "项目GitHub页面明确说明其为“遵循Agent Skills开放标准的技能库”，设计用于与Stitch MCP服务器工作，并兼容多种AI编程助手。数据方面：总星标10431，今日新增365，语言为TypeScript，由谷歌实验室团队维护。"
+      },
+      {
+        "name": "nvm-sh/nvm",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "Node Version Manager (nvm) 是一个 POSIX 兼容的 bash 脚本项目，用于管理多个活跃的 Node.js 版本，今日在 GitHub 趋势榜上获得关注。",
+        "core_details": "该项目今日新增 237 颗星，总星数达 96164，主要维护者包括 ljharb、PeterDaveHello 等，使用 Shell 语言编写，旨在解决 Node.js 多版本环境下的切换与管理问题。",
+        "ai_take": "虽然 nvm 本身不是 AI 工具，但其高效管理开发环境的能力对 AI 应用开发至关重要，尤其是在部署和测试不同 Node.js 版本的机器学习后端服务时，能确保环境一致性和兼容性。",
+        "hype_check": "趋势热度合理，作为长期维护的开发者工具，nvm 在 JavaScript/Node.js 生态中具有基础性地位，今日关注度上升可能源于社区更新或相关教程推广，并非短期炒作。",
+        "value_check": "高价值工具，解决了 Node.js 开发中的实际痛点，其开源属性和广泛采用（超 9.6 万星）证明了其稳定性和社区认可度，对提升开发效率有直接贡献。",
+        "follow_up": "关注项目 GitHub 仓库的更新日志，了解最新功能；对于 AI 开发者，可探索如何将 nvm 集成到 CI/CD 流水线中，以自动化管理模型服务所需的 Node.js 环境。",
+        "evidence": "数据来自 GitHub 趋势榜：项目描述为“Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions”，今日星增 237，总星 96164，语言为 Shell，维护者列表明确。"
+      },
+      {
+        "name": "CLI-Anything",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了CLI-Anything项目，旨在将所有软件转化为AI智能体原生应用。",
+        "core_details": "该项目是一个Python工具，通过CLI-Hub（https://clianything.cc/）提供接口，使各类软件能够被AI智能体直接调用和操作，从而提升自动化与集成能力。",
+        "ai_take": "该项目降低了AI智能体与现有软件生态的集成门槛，为构建更强大的自动化工作流和软件代理提供了基础设施，是智能体应用落地的关键工具。",
+        "hype_check": "项目在GitHub上热度较高（今日获389星，总星数59845），表明开发者社区对AI智能体与软件集成工具的需求强烈，但实际生产环境中的稳定性和广泛适配性仍需验证。",
+        "value_check": "若成功实现“所有软件Agent-Native”的愿景，将极大推动AI智能体的实际应用，但技术挑战在于统一不同软件的接口与权限管理，其长期价值取决于生态采纳程度。",
+        "follow_up": "关注CLI-Hub的更新及开发者社区的反馈，观察是否有大型软件厂商或开源项目开始集成此工具，并评估其在复杂企业环境中的实际表现。",
+        "evidence": "项目描述明确指向“Making ALL Software Agent-Native”，GitHub数据（语言Python、高星数、HKUDS团队）支持其技术背景与社区关注度。"
+      },
+      {
+        "name": "uv",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 uv 的 Python 包和项目管理工具在 GitHub 上趋势飙升，今日获 258 颗星，总星数已达 92253。",
+        "core_details": "uv 是一个用 Rust 编写的极速 Python 包和项目管理器，由 astral-sh 组织开发，核心贡献者包括 charliermarsh 等。",
+        "ai_take": "该项目展示了 Rust 在构建高性能开发者工具方面的优势，其速度特性可能对 AI/ML 项目依赖管理及快速环境搭建有直接价值。",
+        "hype_check": "趋势分高达 81.99，日增星数显著，表明在开发者社区中关注度快速上升，但需观察其生态适配与长期维护。",
+        "value_check": "作为包管理工具，其核心价值在于提升 Python 开发工作流效率，尤其适合需要快速依赖解析与项目初始化的场景。",
+        "follow_up": "关注其与 pip、poetry 等现有工具的兼容性、大型项目实测性能以及 astral-sh 的后续开发路线。",
+        "evidence": "GitHub 仓库描述为“用 Rust 编写的极速 Python 包和项目管理器”，总星数 92253，今日增星 258，语言为 Rust。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "google-research/paper-orchestra",
+        "content_summary": "Google Research 开源了 PaperOrchestra，这是一个用于自动化 AI 研究论文撰写的多智能体框架，使用 Python 语言开发。该项目今日获得 1524 颗星，总星数达 4368。",
+        "ai_comment": "自动化论文写作框架的出现，可能显著改变学术研究的工作流程，但也引发了关于学术原创性和作者责任的讨论。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "NVIDIA/SkillEvaluator",
+        "content_summary": "NVIDIA 开源了 SkillEvaluator，一个用于评估 AI 智能体技能和插件的多层框架。它包含质量门控、语义重叠检测、合成评估数据集生成以及衡量技能如何影响智能体行为的实时评估功能。该项目使用 Python 开发，今日获星 312，总星数 3778。",
+        "ai_comment": "统一的 AI 智能体技能评估框架对于标准化和提升智能体能力至关重要，有助于推动更可靠、可比较的 AI 系统开发。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "mvanhorn/last30days-skill",
+        "content_summary": "这是一个 AI 智能体技能项目，能够跨 Reddit、X、YouTube、Hacker News、Polymarket 和网络研究任何主题，并综合生成一份有依据的摘要。项目使用 Python，今日获星 1059，总星数高达 70101。",
+        "ai_comment": "跨平台信息聚合与摘要生成技能，体现了 AI 在处理海量、多源信息方面的潜力，对研究和内容消费模式可能产生深远影响。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Ask HN: Is Uber Support Dead?",
+        "content_summary": "用户分享其近期在不同城市使用 Uber 时多次遇到问题，但联系客服后，问题被迅速关闭，客服未尝试理解问题或仔细阅读用户消息。用户提供了截图或短信支付确认等证据也未被理会。同一问题多次提交支持请求均未得到妥善解决。用户询问社区其他人的 Uber 客服体验。",
+        "ai_comment": "这反映了大型平台在规模化后可能面临的客户服务质量下降挑战，自动化支持系统与人工理解的平衡是关键。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Would you use this as the new Conductor Cloud?",
+        "content_summary": "Aether Review 在 Greptile 的 50 个 PR 代码审查基准测试中，检测出了 50 个已知错误中的 42 个。该测试基于 Greptile 公布的规则手动评分，对比了 Greptile、Bugbot、Copilot、CodeRabbit 和 Graphite 等工具。每个审查都是公开的 PR。根据相同方式评分，Greptile 自身捕获了 35 个错误（其页面声称是 41 个）。",
+        "ai_comment": "独立的基准测试结果显示了不同 AI 代码审查工具的性能差异，为开发者选择工具提供了数据参考，也凸显了透明、可复现的评估标准的重要性。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Hardware attestation push – Windows will soon grade your PC's security",
+        "content_summary": "微软正在推出一项名为“Windows 基线保护”的新功能，计划在 2027 年广泛发布。该功能将 TPM 2.0、安全启动、基于虚拟化的安全、内存完整性等八项现有安全设置整合为一个单一的通过/失败结果。应用程序开发者可以查询此结果，并据此决定是否允许应用运行或仅显示警告。评论指出，这可能影响那些为提升游戏性能而关闭了某些安全设置（如内存完整性）的用户，以及运行 Linux 的双系统用户。",
+        "ai_comment": "微软此举旨在统一和提升 PC 安全基线，但可能引发关于用户控制权、软件兼容性以及对非 Windows 系统影响的争议。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+        "content_summary": "BBC 等多家媒体报道，特朗普、习近平和普京预计将在 APEC 会议期间举行历史性会晤。相关报道聚焦于此次三边会晤令美国盟友感到担忧，并探讨特朗普为何视中俄为友。议题可能涉及核武器和两场战争（指当前国际冲突）。",
+        "ai_comment": "若成行，此次大国领导人会晤将对全球地缘政治格局产生重大影响，标志着国际关系可能进入新的调整期。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+        "content_summary": "华盛顿邮报等媒体报道，美国众议院民主党领导人已将特朗普的核心圈子作为首批调查目标。民主党人已向数十名特朗普政府官员和盟友发出信件，要求他们保存记录，为即将展开的广泛调查做准备。",
+        "ai_comment": "这表明美国政治内斗在选举后持续，针对前总统及其团队的调查可能加剧国内政治对立。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill",
+        "content_summary": "国会山报等媒体报道，共和党参议员约翰·科宁（John Cornyn）阻止了特朗普对联邦地区法院一名法官的提名，原因是该提名人选不是德克萨斯州人，违反了该州长期以来的司法提名传统。",
+        "ai_comment": "此事凸显了美国政治中地方传统与总统提名权之间的冲突，即使在同党派内部，也存在基于地域利益的制衡。"
+      }
+    ],
+    "closing_note": "总体来看，今日热点反映了AI社区对智能体实用化、标准化及生态互操作性的强烈追求。从自动化研究到技能评估，再到跨平台集成，开源项目正试图构建更模块化、可验证且高效的智能体开发与应用范式。然而，这些工具的长期价值仍取决于其在实际场景中的稳定性、质量以及业界的广泛采纳。开发者需持续关注项目进展与社区反馈，审慎评估其在具体工作流中的适用性。",
+    "_errors": []
+  }
+}

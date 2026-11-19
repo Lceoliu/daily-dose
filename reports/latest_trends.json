@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:18:27.514668+00:00",
+  "generated_at": "2026-11-19T02:55:44.866838+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -11,27 +11,56 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "alibaba/open-code-review",
-        "url": "https://github.com/alibaba/open-code-review",
-        "author": "alibaba",
-        "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
-        "language": "Go",
-        "score": 763,
-        "comment_count": 4435,
-        "total_stars": 53826,
+        "title": "google-research/paper-orchestra",
+        "url": "https://github.com/google-research/paper-orchestra",
+        "author": "google-research",
+        "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 1524,
+        "comment_count": 539,
+        "total_stars": 4368,
         "built_by": [
-          "lizhengfeng101",
-          "wu21-web",
-          "chethanuk",
-          "Qiyuanqiii",
-          "stay-foolish-forever"
+          "yiwen-song",
+          "obrienciaran"
         ],
-        "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 763\n\nTotal stars: 53826\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
-        "trend_score": 91.9,
+        "content_context": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.\n\nLanguage: Python\n\nStars today: 1524\n\nTotal stars: 4368\n\nBuilt by: yiwen-song, obrienciaran",
+        "trend_score": 93.36,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.847,
+          "engagement": 0.886,
+          "topic_overlap": 0.5,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "NVIDIA/SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "author": "NVIDIA",
+        "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Python",
+        "score": 312,
+        "comment_count": 519,
+        "total_stars": 3778,
+        "built_by": [
+          "rng1995",
+          "chrisknvidia",
+          "claude",
+          "YMuskrat",
+          "kweinmeister"
+        ],
+        "content_context": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.\n\nLanguage: Python\n\nStars today: 312\n\nTotal stars: 3778\n\nBuilt by: rng1995, chrisknvidia, claude, YMuskrat, kweinmeister",
+        "trend_score": 88.97,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.77,
           "topic_overlap": 0.5,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -47,11 +76,11 @@
         "url": "https://github.com/mvanhorn/last30days-skill",
         "author": "mvanhorn",
         "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
         "language": "Python",
-        "score": 696,
-        "comment_count": 6154,
-        "total_stars": 69187,
+        "score": 1059,
+        "comment_count": 6248,
+        "total_stars": 70101,
         "built_by": [
           "mvanhorn",
           "tmchow",
@@ -59,39 +88,7 @@
           "iliaal",
           "dependabot"
         ],
-        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 696\n\nTotal stars: 69187\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
-        "trend_score": 88.69,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.858,
-          "topic_overlap": 0.333,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "author": "obra",
-        "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
-        "language": "Shell",
-        "score": 1917,
-        "comment_count": 28485,
-        "total_stars": 319414,
-        "built_by": [
-          "obra",
-          "arittr",
-          "claude",
-          "clkao",
-          "arimu1"
-        ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1917\n\nTotal stars: 319414\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 1059\n\nTotal stars: 70101\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
         "trend_score": 86.84,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -107,27 +104,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "dream-num/univer",
-        "url": "https://github.com/dream-num/univer",
-        "author": "dream-num",
-        "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
-        "language": "TypeScript",
-        "score": 1774,
-        "comment_count": 2622,
-        "total_stars": 28968,
+        "title": "sveltejs/svelte",
+        "url": "https://github.com/sveltejs/svelte",
+        "author": "sveltejs",
+        "summary": "web development for the rest of us",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "JavaScript",
+        "score": 692,
+        "comment_count": 6208,
+        "total_stars": 89647,
         "built_by": [
-          "jikkai",
-          "DR-Univer",
-          "wpxp123456",
-          "wzhudev",
-          "Dushusir"
+          "Rich-Harris",
+          "dummdidumm",
+          "Conduitry",
+          "github-actions",
+          "trueadm"
         ],
-        "content_context": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\nLanguage: TypeScript\n\nStars today: 1774\n\nTotal stars: 28968\n\nBuilt by: jikkai, DR-Univer, wpxp123456, wzhudev, Dushusir",
-        "trend_score": 82.06,
+        "content_context": "web development for the rest of us\n\nLanguage: JavaScript\n\nStars today: 692\n\nTotal stars: 89647\n\nBuilt by: Rich-Harris, dummdidumm, Conduitry, github-actions, trueadm",
+        "trend_score": 85.67,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.874,
+          "engagement": 0.969,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -143,11 +140,11 @@
         "url": "https://github.com/google-labs-code/stitch-skills",
         "author": "google-labs-code",
         "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
         "language": "TypeScript",
-        "score": 350,
-        "comment_count": 1335,
-        "total_stars": 10147,
+        "score": 365,
+        "comment_count": 1368,
+        "total_stars": 10431,
         "built_by": [
           "JLXIA",
           "davideast",
@@ -155,11 +152,11 @@
           "dalmaer",
           "meeChn"
         ],
-        "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 350\n\nTotal stars: 10147\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
-        "trend_score": 81.19,
+        "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 365\n\nTotal stars: 10431\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
+        "trend_score": 84.99,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.737,
+          "engagement": 0.837,
           "topic_overlap": 0.2,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -171,27 +168,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "ag-ui-protocol/ag-ui",
-        "url": "https://github.com/ag-ui-protocol/ag-ui",
-        "author": "ag-ui-protocol",
-        "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
-        "language": "TypeScript",
-        "score": 1445,
-        "comment_count": 2071,
-        "total_stars": 20063,
+        "title": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "author": "nvm-sh",
+        "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Shell",
+        "score": 237,
+        "comment_count": 10781,
+        "total_stars": 96164,
         "built_by": [
-          "ranst91",
-          "contextablemark",
-          "mme",
-          "claude",
-          "jpr5"
+          "ljharb",
+          "PeterDaveHello",
+          "creationix",
+          "koenpunt",
+          "lukechilds"
         ],
-        "content_context": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\nLanguage: TypeScript\n\nStars today: 1445\n\nTotal stars: 20063\n\nBuilt by: ranst91, contextablemark, mme, claude, jpr5",
-        "trend_score": 81.11,
+        "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 237\n\nTotal stars: 96164\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+        "trend_score": 83.97,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.849,
+          "engagement": 0.924,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -203,27 +200,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "elementalsouls/Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "author": "elementalsouls",
-        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "author": "HKUDS",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
         "language": "Python",
-        "score": 1005,
-        "comment_count": 1378,
-        "total_stars": 9532,
+        "score": 389,
+        "comment_count": 5434,
+        "total_stars": 59845,
         "built_by": [
+          "yuh-yang",
           "claude",
-          "injectifytest",
-          "elementalsouls",
-          "github-actions",
-          "rudycelekli"
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
         ],
-        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1005\n\nTotal stars: 9532\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
-        "trend_score": 79.45,
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 389\n\nTotal stars: 59845\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 83.82,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.805,
+          "engagement": 0.92,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -235,27 +232,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "getarcaneapp/arcane",
-        "url": "https://github.com/getarcaneapp/arcane",
-        "author": "getarcaneapp",
-        "summary": "Modern Docker Management, Designed for Everyone",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
-        "language": "Go",
-        "score": 618,
-        "comment_count": 516,
-        "total_stars": 9388,
+        "title": "astral-sh/uv",
+        "url": "https://github.com/astral-sh/uv",
+        "author": "astral-sh",
+        "summary": "An extremely fast Python package and project manager, written in Rust.",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
+        "language": "Rust",
+        "score": 258,
+        "comment_count": 3923,
+        "total_stars": 92253,
         "built_by": [
-          "kmendell",
-          "dependabot",
-          "getarcaneappbot",
-          "cabaucom376",
-          "GiulioSavini"
+          "charliermarsh",
+          "zanieb",
+          "konstin",
+          "renovate",
+          "astral-automations-bot"
         ],
-        "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 618\n\nTotal stars: 9388\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
-        "trend_score": 76.39,
+        "content_context": "An extremely fast Python package and project manager, written in Rust.\n\nLanguage: Rust\n\nStars today: 258\n\nTotal stars: 92253\n\nBuilt by: charliermarsh, zanieb, konstin, renovate, astral-automations-bot",
+        "trend_score": 81.99,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.725,
+          "engagement": 0.872,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -271,11 +268,11 @@
         "url": "https://github.com/cursor/plugins",
         "author": "cursor",
         "summary": "Cursor plugin specification and official plugins",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
         "language": "TypeScript",
-        "score": 201,
-        "comment_count": 1833,
-        "total_stars": 16933,
+        "score": 314,
+        "comment_count": 1906,
+        "total_stars": 17255,
         "built_by": [
           "cursoragent",
           "poteto",
@@ -283,11 +280,11 @@
           "minupalaniappan",
           "ericzakariasson"
         ],
-        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 201\n\nTotal stars: 16933\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
-        "trend_score": 76.13,
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 314\n\nTotal stars: 17255\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 80.96,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.718,
+          "engagement": 0.845,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -299,26 +296,27 @@
       {
         "source": "github-trending",
         "category": "github_trending",
-        "title": "Tencent/LoopForge",
-        "url": "https://github.com/Tencent/LoopForge",
-        "author": "Tencent",
-        "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-        "published_at": "2026-11-18T03:18:21.932165+00:00",
+        "title": "getarcaneapp/arcane",
+        "url": "https://github.com/getarcaneapp/arcane",
+        "author": "getarcaneapp",
+        "summary": "Modern Docker Management, Designed for Everyone",
+        "published_at": "2026-11-19T02:55:38.280752+00:00",
         "language": "Go",
-        "score": 591,
-        "comment_count": 452,
-        "total_stars": 3346,
+        "score": 547,
+        "comment_count": 566,
+        "total_stars": 9854,
         "built_by": [
-          "claude",
-          "Robert0622",
-          "cursoragent",
-          "crispinhu27"
+          "kmendell",
+          "dependabot",
+          "getarcaneappbot",
+          "cabaucom376",
+          "GiulioSavini"
         ],
-        "content_context": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.\n\nLanguage: Go\n\nStars today: 591\n\nTotal stars: 3346\n\nBuilt by: claude, Robert0622, cursoragent, crispinhu27",
-        "trend_score": 76.03,
+        "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 547\n\nTotal stars: 9854\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
+        "trend_score": 79.82,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.715,
+          "engagement": 0.815,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -333,82 +331,20 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Mullet: The Skill for Job Security",
-        "url": "https://github.com/russell-dot-js/mullet",
-        "author": "russell-dot-js",
-        "score": 1,
-        "comment_count": 1,
-        "published_at": "2026-11-18T03:03:28+00:00",
-        "summary": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet",
-        "comment_highlights": [
-          "In the ever-evolving world of agentic development, the strain of justifying our existence as developers is load-bearing. CFOs want to see a positive ROI in our organizations' investments into LLMs, and made up metrics like \"features shipped\" and \"uptime\" are subjective.<p>Software engineers at th..."
-        ],
-        "linked_context": {
-          "resolved_url": "https://github.com/russell-dot-js/mullet",
-          "page_title": "GitHub - russell-dot-js/mullet: Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code.",
-          "page_description": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet",
-          "page_excerpt": "An AI coding agent can solve FizzBuzz in a few lines. Mullet helps it recover from that mistake.\n\nMullet is a skill that makes working software as complex as possible. More layers. More indirection. More languages involved in returning a string. If a function can call another function directly, there is still work to do.\n\nYou have an AI that can write thousands of lines a minute. Why are you asking it to stop?"
-        },
-        "content_context": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet\n\nAn AI coding agent can solve FizzBuzz in a few lines. Mullet helps it recover from that mistake. Mullet is a skill that makes working software as complex as possible. More layers. More indirection. More languages involved in returning a string. If a function can call another function directly, there is still work to do. You have an AI that can write thousands of lines a minute. Why are you asking it to stop?\n\nHN comment: In the ever-evolving world of agentic development, the strain of justifying our existence as developers is load-bearing. CFOs want to see a positive ROI in our organizations' investments into LLMs, and made up metrics like \"features shipped\" and \"uptime\" are subjective.<p>Software engineers at th...",
-        "trend_score": 60.85,
-        "trend_breakdown": {
-          "freshness": 0.99,
-          "engagement": 0.079,
-          "topic_overlap": 0.5,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
-        "url": "https://greyswansignals.com",
-        "author": "hairoglyphics",
+        "title": "Ask HN: Is Uber Support Dead?",
+        "url": "https://news.ycombinator.com/item?id=50555440",
+        "author": "johnpython",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-18T03:03:16+00:00",
-        "summary": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://greyswansignals.com/",
-          "page_title": "Grey Swan Signals | Market Stress Radar",
-          "page_description": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-          "page_excerpt": null
-        },
-        "content_context": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-        "trend_score": 50.85,
-        "trend_breakdown": {
-          "freshness": 0.989,
-          "engagement": 0.044,
-          "topic_overlap": 0.091,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Microsoft disabled API permissions seemingly overnight",
-        "url": "https://news.ycombinator.com/item?id=50541430",
-        "author": "emp_",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-18T03:17:19+00:00",
+        "published_at": "2026-11-19T02:47:33+00:00",
         "summary": null,
         "comment_highlights": [],
         "linked_context": {},
-        "content_context": "As of yesterday, `Authorization.RoleAssignments.Write (a53c8130)` now shows `isEnabled: false` on the Power Platform API service principal (`8578e004`), and Authorization.Write (`440ac968`) was added around October and seems to be working as a replacement.<p>Tried multiple tenants. Unsure if related to the outages but I can't find any information about this, very unusual, having to hotfix services with zero notice.",
-        "trend_score": 49.39,
+        "content_context": "I have been using Uber during my recent travels to different cities and every time that I run into an issue and need to contact support, Uber fails to handle my issue with appropriate care or customer service. My issues are rapidly closed without the customer support agent even attempting to understanding the problem or read my messages carefully. I have attempted to provide evidences in the form of screenshots or SMS payment confirmation messages which are not even acknowledged. I've had to open multiple support issues for the same problem without any adequate resolution.<p>How has your experience with Uber support been lately?",
+        "trend_score": 49.36,
         "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.044,
+          "freshness": 0.994,
+          "engagement": 0.05,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.18
@@ -420,81 +356,57 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Mac Video Player for BitTorrent",
-        "url": "https://freshetplayer.com/",
-        "author": "fxjima",
+        "title": "Would you use this as the new Conductor Cloud?",
+        "url": "https://www.runaether.dev/benchmarks/pr-review",
+        "author": "xbartlet",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-18T03:06:23+00:00",
-        "summary": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.",
+        "published_at": "2026-11-19T02:20:48+00:00",
+        "summary": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://freshetplayer.com/",
-          "page_title": "Freshet â Plays while it pours in.",
-          "page_description": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.",
-          "page_excerpt": "A native Mac video player for BitTorrent. Paste a magnet link and video starts within seconds, and you can seek anywhere before the download finishes.\n\nFree and open source. Version 1.0 for macOS 27 or later on Apple silicon.\n\nA simulation of Freshet running in your browser. Nothing is downloaded."
+          "resolved_url": "https://www.runaether.dev/benchmarks/pr-review",
+          "page_title": "AI code review benchmarks",
+          "page_description": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+          "page_excerpt": "Greptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public.\n\nGraded the same way, Greptile caught 35. Its own page claims 41.\n\nShare of the 50 known bugs each tool caught with a line-level review comment."
         },
-        "content_context": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.\n\nA native Mac video player for BitTorrent. Paste a magnet link and video starts within seconds, and you can seek anywhere before the download finishes. Free and open source. Version 1.0 for macOS 27 or later on Apple silicon. A simulation of Freshet running in your browser. Nothing is downloaded.",
-        "trend_score": 46.05,
+        "content_context": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.\n\nGreptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public. Graded the same way, Greptile caught 35. Its own page claims 41. Share of the 50 known bugs each tool caught with a line-level review comment.",
+        "trend_score": 48.48,
         "trend_breakdown": {
-          "freshness": 0.992,
-          "engagement": 0.044,
-          "topic_overlap": 0.25,
+          "freshness": 0.976,
+          "engagement": 0.05,
+          "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-        "url": "https://huggingface.co/blog/openrouter",
-        "author": "gmays",
+        "title": "Hardware attestation push – Windows will soon grade your PC's security",
+        "url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+        "author": "viscousviolin",
         "score": 2,
-        "comment_count": 0,
-        "published_at": "2026-11-18T03:13:30+00:00",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "comment_highlights": [],
+        "comment_count": 2,
+        "published_at": "2026-11-19T02:31:24+00:00",
+        "summary": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+        "comment_highlights": [
+          "\"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example."
+        ],
         "linked_context": {
-          "resolved_url": "https://huggingface.co/blog/openrouter",
-          "page_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-          "page_description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-          "page_excerpt": "Hugging Face and OpenRouter are teaming up to make open-weight models easy to run. Every major open-weight release is already being published on the Hugging Face Hub, and OpenRouter serves those models at scale, routing each request across 80+ providers based on live measurements of each one. Together, every open-weight model on the Hub that a provider serves can be called with your Hugging Fac...\n\nToday, we are switching Inference Providers from our own custom router to OpenRouter's. Requests made to language models now go through OpenRouter, which picks the best provider for each call based on live price, speed and reliability, and retries on another provider if the first one fails. Your code stays the same.\n\nThe router supports OpenAI's Chat Completions and Responses APIs and Anthropic's Messages API for every chat model, whatever the provider behind it. Pick your coding agent or SDK and a model, then copy the steps, or copy the whole setup as a prompt for your agent:"
+          "resolved_url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+          "page_title": "Windows will soon grade your PC's security, and apps like Battle.net get to see the score",
+          "page_description": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+          "page_excerpt": "The big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether.\n\nMicrosoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign...\n\nIronically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl..."
         },
-        "content_context": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\n\nHugging Face and OpenRouter are teaming up to make open-weight models easy to run. Every major open-weight release is already being published on the Hugging Face Hub, and OpenRouter serves those models at scale, routing each request across 80+ providers based on live measurements of each one. Together, every open-weight model on the Hub that a provider serves can be called with your Hugging Fac... Today, we are switching Inference Providers from our own custom router to OpenRouter's. Requests made to language models now go through OpenRouter, which picks the best provider for each call based on live price, speed and reliability, and retries on another provider if the first one fails. Your code stays the same. The router supports OpenAI's Chat Completions and Responses APIs and Anthropic's Messages API for every chat model, whatever the provider behind it. Pick your coding agent or SDK and a model, then copy the steps, or copy the whole setup as a prompt for your agent:",
-        "trend_score": 44.19,
+        "content_context": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...\n\nThe big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether. Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign... Ironically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl...\n\nHN comment: \"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example.",
+        "trend_score": 46.28,
         "trend_breakdown": {
-          "freshness": 0.997,
-          "engagement": 0.07,
-          "topic_overlap": 0.091,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Director's Lookbook, named looks for image, video and music prompts",
-        "url": "https://directorslookbook.app/",
-        "author": "RiverRoadLabs",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-18T03:16:28+00:00",
-        "summary": "Named looks directors actually use: camera, light, film stock, palette and music. Free, no login.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://directorslookbook.app/",
-          "page_title": "Director's Lookbook: say the feeling, get the look",
-          "page_description": "Named looks directors actually use: camera, light, film stock, palette and music. Free, no login.",
-          "page_excerpt": "798 named looks: an AI style library for image, video and music prompts\n\nSay the feeling. Get the look. Type what you are making. Get a prompt you can paste into any image, video, music or site tool, built from named film stocks, lenses, light and colour. Free. No account.\n\nDescribe the mood, the place or the thing itself. Your words choose the cards and become the subject of your prompt. You can edit the subject below."
-        },
-        "content_context": "River Road Labs is a small artisanal studio based out of Central NJ. We built this tool to scratch our own itch. As AI video and image capabilities get more sophisticated we found that we struggled at times to find the words to describe the aesthetic style we were shooting (no pun) for. Other times it is good to just have a massive resource of styles and imagery to flip through at random and to let serendipity do the rest. Director's Lookbook lets you type a feeling and get dealt a set of style cards with prompt text to use. No more copying or saving prompts, use the tool. The feeling reader is a small hosted model with a free daily allowance. The MCP server is read only, no auth, no key, it works in Claude as a connector and in Cursor as well. Setup is at directorslookbook.app/mcp. The connector keeps no request text, only daily counts of which tools were called. The tool is free, no login, no account. We welcome feedback on how to make the tool better and what looks are missing! Thanks!\n\nNamed looks directors actually use: camera, light, film stock, palette and music. Free, no login.\n\n798 named looks: an AI style library for image, video and music prompts Say the feeling. Get the look. Type what you are making. Get a prompt you can paste into any image, video, music or site tool, built from named film stocks, lenses, light and colour. Free. No account. Describe the mood, the place or the thing itself. Your words choose the cards and become the subject of your prompt. You can edit the subject below.",
-        "trend_score": 43.83,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.044,
+          "freshness": 0.983,
+          "engagement": 0.142,
           "topic_overlap": 0.111,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -504,25 +416,139 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Musk's Deadliest Legacy",
-        "url": "https://fpif.org/musks-deadliest-legacy/",
-        "author": "Alien1Being",
+        "title": "One A4 paper in the virtual world – 4096 characters",
+        "url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+        "author": "lilerjee",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:52:24+00:00",
+        "summary": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+          "page_title": "One A4 paper in the virtual world -- 4096 characters",
+          "page_description": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+          "page_excerpt": "Hi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world.\n\nI encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number?\n\nThe limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat..."
+        },
+        "content_context": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether\n\nHi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? The limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat...",
+        "trend_score": 44.97,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.05,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "I banned Roku from my internet to try to save my Roku Express",
+        "url": "https://manualdousuario.net/en/roku-block-ads/",
+        "author": "rpgbr",
+        "score": 6,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:18:15+00:00",
+        "summary": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://manualdousuario.net/en/roku-block-ads/",
+          "page_title": "I banned Roku from my internet to try to save my Roku Express",
+          "page_description": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+          "page_excerpt": "“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water.\n\nI wrapped up my review of the Roku Express [pt_BR], four years ago, by saying:\n\nFor the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality."
+        },
+        "content_context": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.\n\n“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water. I wrapped up my review of the Roku Express [pt_BR], four years ago, by saying: For the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality.",
+        "trend_score": 43.84,
+        "trend_breakdown": {
+          "freshness": 0.974,
+          "engagement": 0.139,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Vercel Board – a shared, secure message board for agents (public beta)",
+        "url": "https://vercel.com/blog/introducing-vercel-board",
+        "author": "andrewqu",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:50:52+00:00",
+        "summary": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://vercel.com/blog/introducing-vercel-board",
+          "page_title": "Introducing Vercel Board",
+          "page_description": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.",
+          "page_excerpt": "Software development is moving from individual agents completing tasks to teams of agents working on more complex projects.\n\nA single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents.\n\nWe ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects:"
+        },
+        "content_context": "Vercel Board is an experimental primitive: a shared message board where agents coordinate tasks, exchange context, and work together across your tools.\n\nSoftware development is moving from individual agents completing tasks to teams of agents working on more complex projects. A single agent can track its work in a Markdown file, but there isn't a purpose-built primitive for tracking tasks, delegation, statuses, logs, and completed work across many agents and subagents. We ran into this coordination problem internally and started experimenting with a shared message board as a primitive on two key projects:",
+        "trend_score": 43.49,
+        "trend_breakdown": {
+          "freshness": 0.997,
+          "engagement": 0.099,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+        "url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+        "author": "ivewonyoung",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-19T02:32:01+00:00",
+        "summary": "The lawsuit names the school district, police and the technology company behind the detection software.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+          "page_title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+          "page_description": "The lawsuit names the school district, police and the technology company behind the detection software.",
+          "page_excerpt": "BALTIMORE, MD. ( QUEEN CITY NEWS ) -- A lawsuit filed by four Baltimore-area students is raising new questions about the growing use of artificial intelligence in school security systems after software allegedly mistook a bag of Doritos for a firearm, triggering a police response.\n\nAccording to the lawsuit, the incident occurred outside Kenwood High School in 2025 when an AI-powered gun detection system developed by Omnilert flagged what it believed was a weapon.\n\nThe students claim the alert led officers to respond with guns drawn before ordering four teens to the ground, handcuffing and searching them. Officers later determined there was no weapon and no threat, according to court filings."
+        },
+        "content_context": "The lawsuit names the school district, police and the technology company behind the detection software.\n\nBALTIMORE, MD. ( QUEEN CITY NEWS ) -- A lawsuit filed by four Baltimore-area students is raising new questions about the growing use of artificial intelligence in school security systems after software allegedly mistook a bag of Doritos for a firearm, triggering a police response. According to the lawsuit, the incident occurred outside Kenwood High School in 2025 when an AI-powered gun detection system developed by Omnilert flagged what it believed was a weapon. The students claim the alert led officers to respond with guns drawn before ordering four teens to the ground, handcuffing and searching them. Officers later determined there was no weapon and no threat, according to court filings.",
+        "trend_score": 43.4,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.05,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Writing Down (and Searching Through) Every UUID",
+        "url": "https://eieio.games/blog/writing-down-every-uuid/",
+        "author": "leonidasv",
         "score": 2,
         "comment_count": 0,
-        "published_at": "2026-11-18T03:05:50+00:00",
-        "summary": "Gutting USAID will cause millions of deaths from disease and starvation. But it’s not too late to change course.",
-        "comment_highlights": [],
+        "published_at": "2026-11-19T02:22:44+00:00",
+        "summary": "I couldn't remember every UUID so I wrote them all down",
+        "comment_highlights": [
+          "[flagged]"
+        ],
         "linked_context": {
-          "resolved_url": "https://fpif.org/musks-deadliest-legacy/",
-          "page_title": "Musk’s Deadliest Legacy - FPIF",
-          "page_description": "Gutting USAID will cause millions of deaths from disease and starvation. But it’s not too late to change course.",
-          "page_excerpt": "Rohingya refugee kids from Myanmar eat food provided by USAID in Cox's Bazar, Bangladesh. (Shutterstock)\n\nElon Musk has left the White House, leaving a trail of destruction in his wake. But of all the actions Musk and President Trump set in motion before their recent rupture, nothing will hurt more people around the world than their dismantling of the U.S. Agency for International Development (USAID).\n\nBy making disease-stemming drugs, clean water, and food available to millions, USAID has probably saved more lives worldwide than any entity in history."
+          "resolved_url": "https://eieio.games/blog/writing-down-every-uuid/",
+          "page_title": "Writing down (and searching through) every UUID · eieio.games",
+          "page_description": "I couldn't remember every UUID so I wrote them all down",
+          "page_excerpt": "I’ve been struggling to remember all of the UUIDs 1 . There are a lot of them. So this week I wrote them all down. You can see my list at everyuuid.com .\n\nA UUID is a universally unique identifier - a long collection of letters and numbers that is basically always unique.\n\nThe site looks like this - UUIDs are displayed in a random-ish but consistent order and you can quickly search for one that you like:"
         },
-        "content_context": "Gutting USAID will cause millions of deaths from disease and starvation. But it’s not too late to change course.\n\nRohingya refugee kids from Myanmar eat food provided by USAID in Cox's Bazar, Bangladesh. (Shutterstock) Elon Musk has left the White House, leaving a trail of destruction in his wake. But of all the actions Musk and President Trump set in motion before their recent rupture, nothing will hurt more people around the world than their dismantling of the U.S. Agency for International Development (USAID). By making disease-stemming drugs, clean water, and food available to millions, USAID has probably saved more lives worldwide than any entity in history.",
-        "trend_score": 42.34,
+        "content_context": "I couldn't remember every UUID so I wrote them all down\n\nI’ve been struggling to remember all of the UUIDs 1 . There are a lot of them. So this week I wrote them all down. You can see my list at everyuuid.com . A UUID is a universally unique identifier - a long collection of letters and numbers that is basically always unique. The site looks like this - UUIDs are displayed in a random-ish but consistent order and you can quickly search for one that you like:\n\nHN comment: [flagged]",
+        "trend_score": 42.05,
         "trend_breakdown": {
-          "freshness": 0.991,
-          "engagement": 0.07,
+          "freshness": 0.977,
+          "engagement": 0.079,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -532,25 +558,20 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Vaccine Improves Survival in People with Acute Myeloid Leukemia",
-        "url": "https://www.mskcc.org/news/vaccine-improves-survival-in-people-with-acute-myeloid-leukemia-aml",
-        "author": "thinkcontext",
+        "title": "Anthropic is not living up to its ideals",
+        "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
+        "author": "rachelfarley",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-18T03:13:22+00:00",
-        "summary": "A cancer vaccine significantly improved survival for certain patients with acute myeloid leukemia (AML) in a clinical trial.",
+        "published_at": "2026-11-19T02:46:35+00:00",
+        "summary": null,
         "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.mskcc.org/news/vaccine-improves-survival-in-people-with-acute-myeloid-leukemia-aml",
-          "page_title": "Vaccine Improves Survival in People with Acute Myeloid Leukemia (AML) | Memorial Sloan Kettering Cancer Center",
-          "page_description": "A cancer vaccine significantly improved survival for certain patients with acute myeloid leukemia (AML) in a clinical trial.",
-          "page_excerpt": "A cancer vaccine appears to significantly improve survival in people in remission from one of the most common and aggressive blood cancers, acute myeloid leukemia (AML) , according to new results from a phase 3 clinical trial.\n\nThe vaccine, galinpepimut-S (or GPS), was invented by David A. Scheinberg, MD, PhD , a leader in immunotherapy drug development at Memorial Sloan Kettering Cancer Center (MSK).\n\nThe clinical trial, which included 126 patients, was led by SELLAS Life Sciences Group. The study found:"
-        },
-        "content_context": "A cancer vaccine significantly improved survival for certain patients with acute myeloid leukemia (AML) in a clinical trial.\n\nA cancer vaccine appears to significantly improve survival in people in remission from one of the most common and aggressive blood cancers, acute myeloid leukemia (AML) , according to new results from a phase 3 clinical trial. The vaccine, galinpepimut-S (or GPS), was invented by David A. Scheinberg, MD, PhD , a leader in immunotherapy drug development at Memorial Sloan Kettering Cancer Center (MSK). The clinical trial, which included 126 patients, was led by SELLAS Life Sciences Group. The study found:",
-        "trend_score": 41.74,
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 41.81,
         "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.044,
+          "freshness": 0.994,
+          "engagement": 0.05,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -560,53 +581,25 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Fossil: CGI Server Extensions",
-        "url": "https://fossil-scm.org/home/doc/trunk/www/serverext.wiki",
-        "author": "thunderbong",
+        "title": "Stabyourself.net Games",
+        "url": "https://games.stabyourself.net/",
+        "author": "pavel_lishin",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-18T03:12:01+00:00",
-        "summary": "If you have a Fossil server for your project, you can add CGI extensions to that server. These extensions work like any other CGI program, except that they also have access to the Fossil login information and can (optionally) leverage the \" skins \" of Fossil so that they appear to be more tightly integrated into the project. An example of where this is useful is the checklist application on the...\n\nAn example of where this is useful is the checklist application on the SQLite project. The checklist helps the SQLite developers track which release tests have passed, or failed, or are still to be done. The checklist program began as a stand-alone CGI which kept its own private user database and implemented its own permissions and login system and provided its own CSS. By converting checklist...\n\nCGI Extensions are disabled by default. An administrator activates the CGI extension mechanism by specifying an \"Extension Root Directory\" or \"extroot\" as part of the server setup . If the Fossi...",
+        "published_at": "2026-11-19T02:14:23+00:00",
+        "summary": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://fossil-scm.org/home/doc/trunk/www/serverext.wiki",
-          "page_title": "Fossil: CGI Server Extensions",
-          "page_description": null,
-          "page_excerpt": "If you have a Fossil server for your project, you can add CGI extensions to that server. These extensions work like any other CGI program, except that they also have access to the Fossil login information and can (optionally) leverage the \" skins \" of Fossil so that they appear to be more tightly integrated into the project. An example of where this is useful is the checklist application on the...\n\nAn example of where this is useful is the checklist application on the SQLite project. The checklist helps the SQLite developers track which release tests have passed, or failed, or are still to be done. The checklist program began as a stand-alone CGI which kept its own private user database and implemented its own permissions and login system and provided its own CSS. By converting checklist...\n\nCGI Extensions are disabled by default. An administrator activates the CGI extension mechanism by specifying an \"Extension Root Directory\" or \"extroot\" as part of the server setup . If the Fossi..."
+          "resolved_url": "https://games.stabyourself.net/",
+          "page_title": "Stabyourself.net Games",
+          "page_description": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.",
+          "page_excerpt": "The first real Stabyourself.net game! I was mostly experimenting with the physics engine here.\n\nThe result of trying to build a tiny 3D engine out of nothing but cubes. Also the first time I used music by my friend Capsadmin!\n\nThe big one. After the development video went viral, this game racked up over 5 million downloads. Lots of great community mods too!"
         },
-        "content_context": "If you have a Fossil server for your project, you can add CGI extensions to that server. These extensions work like any other CGI program, except that they also have access to the Fossil login information and can (optionally) leverage the \" skins \" of Fossil so that they appear to be more tightly integrated into the project. An example of where this is useful is the checklist application on the... An example of where this is useful is the checklist application on the SQLite project. The checklist helps the SQLite developers track which release tests have passed, or failed, or are still to be done. The checklist program began as a stand-alone CGI which kept its own private user database and implemented its own permissions and login system and provided its own CSS. By converting checklist... CGI Extensions are disabled by default. An administrator activates the CGI extension mechanism by specifying an \"Extension Root Directory\" or \"extroot\" as part of the server setup . If the Fossi...",
-        "trend_score": 41.7,
+        "content_context": "Mari0, Not Tetris 2, Ortho Robot and the other Stabyourself.net games, playable in your browser.\n\nThe first real Stabyourself.net game! I was mostly experimenting with the physics engine here. The result of trying to build a tiny 3D engine out of nothing but cubes. Also the first time I used music by my friend Capsadmin! The big one. After the development video went viral, this game racked up over 5 million downloads. Lots of great community mods too!",
+        "trend_score": 40.9,
         "trend_breakdown": {
-          "freshness": 0.996,
-          "engagement": 0.044,
-          "topic_overlap": 0.0,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Deterministic Simulation Testing",
-        "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
-        "author": "ibobev",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-18T03:01:23+00:00",
-        "summary": "How deterministic simulation testing makes distributed system correctness bugs reproducible by replacing hidden progress sources with explicit, tick-driven execution.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
-          "page_title": "Deterministic Simulation Testing",
-          "page_description": "How deterministic simulation testing makes distributed system correctness bugs reproducible by replacing hidden progress sources with explicit, tick-driven execution.",
-          "page_excerpt": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. Deterministic simulation testing addresses this by replacing real clocks, networks, and storage with simulated components driven by a single-threaded execution loop. This allows simulating both hard failures and routine slowdowns—su...\n\nUnmesh is a Distinguished Engineer at Thoughtworks, based in Pune, India. He is the author of Patterns of Distributed Systems .\n\nDistributed systems are notoriously hard to test. It is common to hear stories of subtle bugs surfacing in well-architected, heavily tested systems that have been running reliably in production for years. The Jepsen testing suite, for instance, routinely exposes critical consistency violations and split-brain scenarios in established, battle-tested databases."
-        },
-        "content_context": "How deterministic simulation testing makes distributed system correctness bugs reproducible by replacing hidden progress sources with explicit, tick-driven execution.\n\nDistributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. Deterministic simulation testing addresses this by replacing real clocks, networks, and storage with simulated components driven by a single-threaded execution loop. This allows simulating both hard failures and routine slowdowns—su... Unmesh is a Distinguished Engineer at Thoughtworks, based in Pune, India. He is the author of Patterns of Distributed Systems . Distributed systems are notoriously hard to test. It is common to hear stories of subtle bugs surfacing in well-architected, heavily tested systems that have been running reliably in production for years. The Jepsen testing suite, for instance, routinely exposes critical consistency violations and split-brain scenarios in established, battle-tested databases.",
-        "trend_score": 41.4,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.044,
+          "freshness": 0.971,
+          "engagement": 0.05,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
           "domain_weight": 1.0
@@ -616,100 +609,25 @@
     ],
     "news": [
       {
-        "source": "NBC News",
+        "source": "BBC",
         "category": "news",
-        "title": "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjRhS3JGdnJJUjZPNTZ5OVpRRllUbU5jVXlMaFBqbk9nR2V6T3ZDUDhzdTJVaVlXS2lTRFBSTVpCMmhmcDFVSTg2RVc4bDdnLU1yTVpCNHo5RlpLejh6cWozTzZDbm1oa0p1MVZ5VFpPZTdOUEUtd1dQUlF3UmtsVGJEMVBFbzRpSnBlb1NENmh5LVI3blJzemsyaW9OT2ZLM3I3ejhhMktkcURyYWV2SExTZnItTXM?oc=5",
-        "published_at": "2026-11-18T00:44:00+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House drops Heidi Overton’s FDA nomination after Republicans raise concerns；White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner；White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans。",
+        "title": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
+        "published_at": "2026-11-19T02:49:27+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Xi and Putin set to hold historic meeting on Apec sidelines；‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies；Russia and China are not America’s friends. Why does Trump think they are?。",
         "related_headlines": [
-          "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns",
-          "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-          "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
-          "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
-          "Dr. Heidi Overton: White House drops Trump’s FDA pick ahead of confirmation vote"
+          "Trump, Xi and Putin set to hold historic meeting on Apec sidelines",
+          "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies",
+          "Russia and China are not America’s friends. Why does Trump think they are?",
+          "Trump’s dream of a nuclear deal meets reality of unwilling Russia and China",
+          "Trump meets Xi and Putin in China with nuclear arms and two wars on the table"
         ],
-        "content_context": "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：White House drops Heidi Overton’s FDA nomination after Republicans raise concerns；White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner；White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans。\n\nRelated coverage: White House drops Heidi Overton’s FDA nomination after Republicans raise concerns\n\nRelated coverage: White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner\n\nRelated coverage: White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans\n\nRelated coverage: White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live\n\nRelated coverage: Dr. Heidi Overton: White House drops Trump’s FDA pick ahead of confirmation vote",
-        "trend_score": 35.83,
+        "content_context": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump, Xi and Putin set to hold historic meeting on Apec sidelines；‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies；Russia and China are not America’s friends. Why does Trump think they are?。\n\nRelated coverage: Trump, Xi and Putin set to hold historic meeting on Apec sidelines\n\nRelated coverage: ‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies\n\nRelated coverage: Russia and China are not America’s friends. Why does Trump think they are?\n\nRelated coverage: Trump’s dream of a nuclear deal meets reality of unwilling Russia and China\n\nRelated coverage: Trump meets Xi and Putin in China with nuclear arms and two wars on the table",
+        "trend_score": 37.62,
         "trend_breakdown": {
-          "freshness": 0.893,
+          "freshness": 0.996,
           "engagement": 0.0,
-          "topic_overlap": 0.231,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "AP News",
-        "category": "news",
-        "title": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZERXamVIakVURTQ3MTZ2YXBkdHVucVVtQ0JjcS1YZ29hSkxJX3p4Zll4YmMtUHZRblJXU3dHR1B0RUNrQVcwMW1UMFUwRlp3X2YwcXNKU256Y1pyd1hJcThZNmdVS2ljOXRCWGhjVkdQYndWdC1DRUpWbzd6cnBGem9uLUIxc2tSQmNzMjhfb0haLTcxbVdwRnR1ZnNUQVpBU19Z?oc=5",
-        "published_at": "2026-11-18T01:37:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rubio says ‘zero’ information that US outages are linked or caused by a malign actor；Rubio says US not 'under systemic attack' after series of tech outages；Rubio Says Recent US Tech Outages Unrelated, Not Hostile Acts。",
-        "related_headlines": [
-          "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
-          "Rubio says US not 'under systemic attack' after series of tech outages",
-          "Rubio Says Recent US Tech Outages Unrelated, Not Hostile Acts",
-          "Rubio says there's \"zero evidence\" recent tech outages are related",
-          "Trump faces criticism as allies press for answers on tech problems"
-        ],
-        "content_context": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rubio says ‘zero’ information that US outages are linked or caused by a malign actor；Rubio says US not 'under systemic attack' after series of tech outages；Rubio Says Recent US Tech Outages Unrelated, Not Hostile Acts。\n\nRelated coverage: Rubio says ‘zero’ information that US outages are linked or caused by a malign actor\n\nRelated coverage: Rubio says US not 'under systemic attack' after series of tech outages\n\nRelated coverage: Rubio Says Recent US Tech Outages Unrelated, Not Hostile Acts\n\nRelated coverage: Rubio says there's \"zero evidence\" recent tech outages are related\n\nRelated coverage: Trump faces criticism as allies press for answers on tech problems",
-        "trend_score": 35.06,
-        "trend_breakdown": {
-          "freshness": 0.93,
-          "engagement": 0.0,
-          "topic_overlap": 0.1,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The Hill",
-        "category": "news",
-        "title": "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3hxQ2gzYlYzS0dxeTZkT3JNUVNtWHFPaG5fRG0tejVVSGUyaWNEcHdBVWs1OXdzRkFkdFZlUC1DWWpsSGxuYlowb0JndWFYVjh3VDZHVzY1Z1QtZS1GY1EzY2FENnhtUVJHbnlqZVZYRmtYeHVnanZDcjFQN2hlMdIBhgFBVV95cUxNVVdmUm1JTlVyMC1tdkNuVHAzcTExRU1TMExkVHFvNmFZQ3FmN3pRVC1Pb3BFTzlaMFdNU2pkQ1pibXkzR0dYZUtGZ3RDUThTc0R0WDBucWJrNldXNG9rbmVLUl83d3Y1Y1N6YzJ6MFRMXzdoeHZ5U0dLUUVxT05jNERCQWpUdw?oc=5",
-        "published_at": "2026-11-18T01:52:00+00:00",
-        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kelly knocks Hun Cao’s analogy about food shortages on Navy ships；Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources；Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing。",
-        "related_headlines": [
-          "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships",
-          "Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources",
-          "Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing",
-          "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-          "Five Takeaways From Navy Nominee’s Rocky Hearing"
-        ],
-        "content_context": "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kelly knocks Hun Cao’s analogy about food shortages on Navy ships；Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources；Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing。\n\nRelated coverage: Kelly knocks Hun Cao’s analogy about food shortages on Navy ships\n\nRelated coverage: Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources\n\nRelated coverage: Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing\n\nRelated coverage: US Navy chief says Iran war has put ‘strain’ on maritime forces\n\nRelated coverage: Five Takeaways From Navy Nominee’s Rocky Hearing",
-        "trend_score": 33.84,
-        "trend_breakdown": {
-          "freshness": 0.94,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "The New York Times",
-        "category": "news",
-        "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGszbHVFRk5FMHhvcWVYeDZRMl8tZ0RMakdPbUdLSDVzU21XMklhdTN0WGxCQldDdllzUEVxdGZTb2x4YjNhNHhNbUZWU29hVHFzNE1WUEgtTWJULVZIWWFBZEsxdmpXUGhKNXhqdzZJOTREaEFuNVdJOWlBZ0dUSjNXQQ?oc=5",
-        "published_at": "2026-11-17T23:33:53+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop；Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays；Mullin defends taking government plane to LSU-Texas game after nationwide ground stop。",
-        "related_headlines": [
-          "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
-          "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-          "Mullin defends taking government plane to LSU-Texas game after nationwide ground stop",
-          "Markwayne Mullin flew to a football game while Americans struggled with FAA ground stop",
-          "Mullin defends use of government plane to attend football game after ground stop"
-        ],
-        "content_context": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop；Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays；Mullin defends taking government plane to LSU-Texas game after nationwide ground stop。\n\nRelated coverage: Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop\n\nRelated coverage: Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays\n\nRelated coverage: Mullin defends taking government plane to LSU-Texas game after nationwide ground stop\n\nRelated coverage: Markwayne Mullin flew to a football game while Americans struggled with FAA ground stop\n\nRelated coverage: Mullin defends use of government plane to attend football game after ground stop",
-        "trend_score": 33.05,
-        "trend_breakdown": {
-          "freshness": 0.844,
-          "engagement": 0.0,
-          "topic_overlap": 0.167,
+          "topic_overlap": 0.111,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -718,123 +636,197 @@
       {
         "source": "The Washington Post",
         "category": "news",
-        "title": "Communications system at top-secret National Security Agency goes down - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2wyWGY3OEl5cXpYTXN6WmFKYWl2c2E4UUZkaE94Z25Tcm9oU1hhRGZyY204UTkxQmJqVnJodm5mRFdmSTR0UGJZclNpS1R3bGRVeFZVSlhqZEJXbFZZRjYzNHY4UGFJdXEtVzdUWUtoQTZ1ZXF6NGs1b1BMcFJ5SWRlRnBSdGNQTnl4X0otTGs4WXNGNmhqelVjTklKLW9oRWpnYnhZcWFnUnFXQkdUaGszMGkzZy1BSU8zeTEza3JldmdhUG80?oc=5",
-        "published_at": "2026-11-18T00:09:07+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Communications system at top-secret National Security Agency goes down；Exclusive: Highly classified US national security communications network goes down, sources say；Outage hits National Security Agency’s classified information network。",
+        "title": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0ozZTJwRFgzZXh0bjNoUHdyNFZGOXE4TFJ0aU9yOE9HZ0hfSnpHaE1oaW8zcE1qeE81UWZaYjVCX0ZOX1UzaXZXTkpOQmljSHE1NExfdDRqTFZYUWZUTDluRU1xcGtLT3NZRzk0U19kTUhKcTlzT3dkaG8tRjVxMnpoakRYaWxZVUhZdEpTU0JHY2Z6Y1JEdVJqR1ZDRTJsTEZIQ25VaWI0SVY0SjFBN1U2X3VDYW0wNWZVdkNFVko?oc=5",
+        "published_at": "2026-11-18T23:31:54+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Leading House Democrat targets Trump’s inner circle for first investigations；House Democrats Cast Wide Net as They Prepare Trump Investigations；House Democrat warns 13 Trump allies to save their records for upcoming investigations。",
         "related_headlines": [
-          "Communications system at top-secret National Security Agency goes down",
-          "Exclusive: Highly classified US national security communications network goes down, sources say",
-          "Outage hits National Security Agency’s classified information network",
-          "NSA statement on network issues",
-          "Classified U.S. Intelligence System Is Down for Now, U.S. Officials Say"
+          "Leading House Democrat targets Trump’s inner circle for first investigations",
+          "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+          "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+          "Democrats send letters to dozens of Trump officials and allies putting them on notice",
+          "Trump family and allies told to preserve records as Democrats prepare sweeping investigations"
         ],
-        "content_context": "Communications system at top-secret National Security Agency goes down - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Communications system at top-secret National Security Agency goes down；Exclusive: Highly classified US national security communications network goes down, sources say；Outage hits National Security Agency’s classified information network。\n\nRelated coverage: Communications system at top-secret National Security Agency goes down\n\nRelated coverage: Exclusive: Highly classified US national security communications network goes down, sources say\n\nRelated coverage: Outage hits National Security Agency’s classified information network\n\nRelated coverage: NSA statement on network issues\n\nRelated coverage: Classified U.S. Intelligence System Is Down for Now, U.S. Officials Say",
-        "trend_score": 32.72,
+        "content_context": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Leading House Democrat targets Trump’s inner circle for first investigations；House Democrats Cast Wide Net as They Prepare Trump Investigations；House Democrat warns 13 Trump allies to save their records for upcoming investigations。\n\nRelated coverage: Leading House Democrat targets Trump’s inner circle for first investigations\n\nRelated coverage: House Democrats Cast Wide Net as They Prepare Trump Investigations\n\nRelated coverage: House Democrat warns 13 Trump allies to save their records for upcoming investigations\n\nRelated coverage: Democrats send letters to dozens of Trump officials and allies putting them on notice\n\nRelated coverage: Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+        "trend_score": 35.27,
         "trend_breakdown": {
-          "freshness": 0.869,
+          "freshness": 0.858,
           "engagement": 0.0,
-          "topic_overlap": 0.091,
+          "topic_overlap": 0.273,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "BBC",
+        "source": "The Hill",
         "category": "news",
-        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5",
-        "published_at": "2026-11-17T20:25:46+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump in Asia ahead of talks with Russian and Chinese presidents；Trump Will Miss Most of the ASEAN Summit；Trump kicks off Asia trip with first stop in the Philippines。",
+        "title": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raTJreThiUkNqVXNrSTM5WE4zVE9SX2llZG4wbDJicmJEMUdvWDkxbDBUYkZyTDF6QUM3d3RJanEzR3N2V1hiYnVhUVlfLTNGcWhweHhXRk95QTNrellreG54RHgzVjB4T2pJcG1DdUFuNDhDdTB4eTFrMjZrX2PSAYQBQVVfeXFMTnV2ajlQcm9ac3hGQzZ5aDFEb2hJa0tFWDNpS1dGbTlQdmRzVWhqU0I4WHhFOEozZkZBX3hXUGxYNlk2SmxXQ2FqNVdyZU8tbG5BOEgweGRVTG0tZkltcUUwdnl1b1hiamRmNlpZNndwMmVKanh4VnF3cjhvUENKOVh0T3JR?oc=5",
+        "published_at": "2026-11-19T00:26:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan；Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas；Republican Senator Cornyn blocks Trump judicial nominee in Texas。",
         "related_headlines": [
-          "Trump in Asia ahead of talks with Russian and Chinese presidents",
-          "Trump Will Miss Most of the ASEAN Summit",
-          "Trump kicks off Asia trip with first stop in the Philippines",
-          "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-          "Live updates: Trump attends talks with allies in Asia, his first trip after midterm elections"
+          "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan",
+          "Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas",
+          "Republican Senator Cornyn blocks Trump judicial nominee in Texas",
+          "Sen. John Cornyn blocks Trump nominee for federal judge in Texas",
+          "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas"
         ],
-        "content_context": "Trump in Asia ahead of talks with Russian and Chinese presidents - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump in Asia ahead of talks with Russian and Chinese presidents；Trump Will Miss Most of the ASEAN Summit；Trump kicks off Asia trip with first stop in the Philippines。\n\nRelated coverage: Trump in Asia ahead of talks with Russian and Chinese presidents\n\nRelated coverage: Trump Will Miss Most of the ASEAN Summit\n\nRelated coverage: Trump kicks off Asia trip with first stop in the Philippines\n\nRelated coverage: Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank\n\nRelated coverage: Live updates: Trump attends talks with allies in Asia, his first trip after midterm elections",
-        "trend_score": 31.68,
+        "content_context": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan；Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas；Republican Senator Cornyn blocks Trump judicial nominee in Texas。\n\nRelated coverage: Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan\n\nRelated coverage: Sen. Cornyn blocks judicial nominee because Trump didn’t choose Texas\n\nRelated coverage: Republican Senator Cornyn blocks Trump judicial nominee in Texas\n\nRelated coverage: Sen. John Cornyn blocks Trump nominee for federal judge in Texas\n\nRelated coverage: Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+        "trend_score": 34.92,
         "trend_breakdown": {
-          "freshness": 0.713,
+          "freshness": 0.896,
           "engagement": 0.0,
-          "topic_overlap": 0.375,
+          "topic_overlap": 0.167,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "Los Angeles Times",
+        "source": "AP News",
         "category": "news",
-        "title": "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YOHROMzhndWNZQXdRV0FvSDJVSFZYQTJqMTMtZ085TlhTbTVhLS02QVRGdlhDbTNJNWRoTkNaTmtMV2NLa2JrQUZQZ0J4ZUdUdXYyNG9Da0RKNzd6N3JSUjktUHVNTWZ3ZnU2VUN6a3JOM0RoYndHcldlM3Z2Zw?oc=5",
-        "published_at": "2026-11-17T22:46:46+00:00",
-        "summary": "Los Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill；Massive geyser of rotting trash prompts emergency health order in L.A. County；Explosion at Chiquita Canyon Landfill capped, but smell lingers in Castaic。",
+        "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5",
+        "published_at": "2026-11-18T21:09:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hakeem Jeffries could become the first Black House speaker after Democratic nomination；Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives；Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History。",
         "related_headlines": [
-          "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill",
-          "Massive geyser of rotting trash prompts emergency health order in L.A. County",
-          "Explosion at Chiquita Canyon Landfill capped, but smell lingers in Castaic",
-          "Gas geyser spews trash and noxious odor into air above L.A. area landfill, prompting public health emergency",
-          "Chiquita Canyon Landfill methane eruption prompts LA County probe, relocation aid"
+          "Hakeem Jeffries could become the first Black House speaker after Democratic nomination",
+          "Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives",
+          "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+          "Katherine Clark of Massachusetts elected as next House majority leader by Democrats in historic first",
+          "Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off"
         ],
-        "content_context": "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill - Los Angeles Times\n\nLos Angeles Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill；Massive geyser of rotting trash prompts emergency health order in L.A. County；Explosion at Chiquita Canyon Landfill capped, but smell lingers in Castaic。\n\nRelated coverage: Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill\n\nRelated coverage: Massive geyser of rotting trash prompts emergency health order in L.A. County\n\nRelated coverage: Explosion at Chiquita Canyon Landfill capped, but smell lingers in Castaic\n\nRelated coverage: Gas geyser spews trash and noxious odor into air above L.A. area landfill, prompting public health emergency\n\nRelated coverage: Chiquita Canyon Landfill methane eruption prompts LA County probe, relocation aid",
-        "trend_score": 30.35,
+        "content_context": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hakeem Jeffries could become the first Black House speaker after Democratic nomination；Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives；Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History。\n\nRelated coverage: Hakeem Jeffries could become the first Black House speaker after Democratic nomination\n\nRelated coverage: Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives\n\nRelated coverage: Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History\n\nRelated coverage: Katherine Clark of Massachusetts elected as next House majority leader by Democrats in historic first\n\nRelated coverage: Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off",
+        "trend_score": 34.0,
         "trend_breakdown": {
-          "freshness": 0.811,
+          "freshness": 0.759,
           "engagement": 0.0,
-          "topic_overlap": 0.071,
+          "topic_overlap": 0.417,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "NBC News",
+        "source": "Yahoo Finance",
         "category": "news",
-        "title": "Illinois man charged in connection with bomb found at Peoria ethanol plant - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOER1elZwOHNaR3hkM2VjTll1NjBZU1B2R0gzQUlHa1VvbElVclRVdlB0akwyd1E1ZnBrVTBOekdpY2RMbGJ6MU9RQ2VCV1pwWTZqS3dMa3ppVDNqOThzeVBvRGJjQUcwQ3pPX1BqNEg3TnBYZElHQlZBOS1RODhxMHJzMTY0bU9GRDd3bXVXR29YMlppNFNNSmJtZU1Qd2pVb3FGbUg1c0tOYXhfbTdrZA?oc=5",
-        "published_at": "2026-11-17T18:29:02+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Illinois man charged in connection with bomb found at Peoria ethanol plant；Suspect faces federal charges after explosive device found at Illinois ethanol plant；UPDATE: Andrew Kozak appears in court for BioUrja ethanol bomb threat。",
+        "title": "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeDN5WjlMNEk2bndfVWFuek5uRm1pdDlYNi1nbVM2cjk0VXpTU245S3N2aWxkVGh5elZsTzV6WU5rZS1ZWXNTbWxXNXRhNFZWT181N3hYZUdHb3RsSDBwMmpwVEdYaHZXNl94Qmh2eENEN1QzenFadlpYMXdXOU5USWNneUJPQWNCVFZBbS05ZFVYZGxhX3NTd3hVeTN3X05YQnd0VzNRYzNDLUNIWm80cFVXUkp6TkpZckFQbFNGdEFta3RHdHNxMm1QVVRDV0ZBOGJkS05BOA?oc=5",
+        "published_at": "2026-11-18T19:28:42+00:00",
+        "summary": "Yahoo Finance 头条聚焦该事件，Google News 同时聚合到这些相关表述：Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel；Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses；Trump Administration Divide on China Policy Breaks Into Public View。",
         "related_headlines": [
-          "Illinois man charged in connection with bomb found at Peoria ethanol plant",
-          "Suspect faces federal charges after explosive device found at Illinois ethanol plant",
-          "UPDATE: Andrew Kozak appears in court for BioUrja ethanol bomb threat",
-          "Police lift evacuation after bomb found near ethanol plant in central Illinois",
-          "FBI investigates powerful bomb found at Illinois ethanol plant"
+          "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel",
+          "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses",
+          "Trump Administration Divide on China Policy Breaks Into Public View",
+          "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
+          "Democrats on House Judiciary and Foreign Affairs probing Lutnick family’s role in Nvidia scandal"
         ],
-        "content_context": "Illinois man charged in connection with bomb found at Peoria ethanol plant - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Illinois man charged in connection with bomb found at Peoria ethanol plant；Suspect faces federal charges after explosive device found at Illinois ethanol plant；UPDATE: Andrew Kozak appears in court for BioUrja ethanol bomb threat。\n\nRelated coverage: Illinois man charged in connection with bomb found at Peoria ethanol plant\n\nRelated coverage: Suspect faces federal charges after explosive device found at Illinois ethanol plant\n\nRelated coverage: UPDATE: Andrew Kozak appears in court for BioUrja ethanol bomb threat\n\nRelated coverage: Police lift evacuation after bomb found near ethanol plant in central Illinois\n\nRelated coverage: FBI investigates powerful bomb found at Illinois ethanol plant",
-        "trend_score": 25.67,
+        "content_context": "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance\n\nYahoo Finance 头条聚焦该事件，Google News 同时聚合到这些相关表述：Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel；Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses；Trump Administration Divide on China Policy Breaks Into Public View。\n\nRelated coverage: Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel\n\nRelated coverage: Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses\n\nRelated coverage: Trump Administration Divide on China Policy Breaks Into Public View\n\nRelated coverage: Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster\n\nRelated coverage: Democrats on House Judiciary and Foreign Affairs probing Lutnick family’s role in Nvidia scandal",
+        "trend_score": 33.91,
         "trend_breakdown": {
-          "freshness": 0.632,
+          "freshness": 0.69,
           "engagement": 0.0,
-          "topic_overlap": 0.182,
+          "topic_overlap": 0.308,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
+        "published_at": "2026-11-18T23:06:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat；See more headlines & perspectives on Google News。",
+        "related_headlines": [
+          "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat",
+          "See more headlines & perspectives on Google News"
+        ],
+        "content_context": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat；See more headlines & perspectives on Google News。\n\nRelated coverage: Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 32.92,
+        "trend_breakdown": {
+          "freshness": 0.84,
+          "engagement": 0.0,
+          "topic_overlap": 0.167,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "NBC News",
+        "source": "CNN",
         "category": "news",
-        "title": "8-year-old Haitian boy returns home after being detained by ICE in San Diego - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMV9oNHo0NXk3WWFteVoyc1BfNVZQR2lsNWZUdTR0MnFPSlREVGVkSW9NaG8ybl92UW02eXZiaGpXeTZMb3ppVjFUOXpyMkd3V213ZTBmZnJCNzZWVWFPdGhyVGd0VnRhWk9uSUl1NnhXS2JZd1NlbFJHcV9VX0JSS1JYUXJLbGhva0RBNHB0d3g2RmYwYjBMTDlURndQLVEwWjJBTEZfZVhVdw?oc=5",
-        "published_at": "2026-11-17T17:39:15+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：8-year-old Haitian boy returns home after being detained by ICE in San Diego；8-year-old Haitian boy detained by ICE in San Diego released from custody；San Diego 8-year-old reunited with family after nearly 2 weeks in federal custody。",
+        "title": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5",
+        "published_at": "2026-11-19T00:27:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again；Russian Offensive Campaign Assessment, November 17, 2026；Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits。",
         "related_headlines": [
-          "8-year-old Haitian boy returns home after being detained by ICE in San Diego",
-          "8-year-old Haitian boy detained by ICE in San Diego released from custody",
-          "San Diego 8-year-old reunited with family after nearly 2 weeks in federal custody",
-          "8-year-old Haitian child taken by ICE reunites with family",
-          "Eight-year-old Haitian boy returns home after release from ICE custody"
+          "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again",
+          "Russian Offensive Campaign Assessment, November 17, 2026",
+          "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+          "What the Crimean bridge attack means for Russia",
+          "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years."
         ],
-        "content_context": "8-year-old Haitian boy returns home after being detained by ICE in San Diego - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：8-year-old Haitian boy returns home after being detained by ICE in San Diego；8-year-old Haitian boy detained by ICE in San Diego released from custody；San Diego 8-year-old reunited with family after nearly 2 weeks in federal custody。\n\nRelated coverage: 8-year-old Haitian boy returns home after being detained by ICE in San Diego\n\nRelated coverage: 8-year-old Haitian boy detained by ICE in San Diego released from custody\n\nRelated coverage: San Diego 8-year-old reunited with family after nearly 2 weeks in federal custody\n\nRelated coverage: 8-year-old Haitian child taken by ICE reunites with family\n\nRelated coverage: Eight-year-old Haitian boy returns home after release from ICE custody",
-        "trend_score": 24.95,
+        "content_context": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again；Russian Offensive Campaign Assessment, November 17, 2026；Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits。\n\nRelated coverage: Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again\n\nRelated coverage: Russian Offensive Campaign Assessment, November 17, 2026\n\nRelated coverage: Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits\n\nRelated coverage: What the Crimean bridge attack means for Russia\n\nRelated coverage: Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+        "trend_score": 32.28,
         "trend_breakdown": {
-          "freshness": 0.598,
+          "freshness": 0.897,
           "engagement": 0.0,
-          "topic_overlap": 0.214,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WESH",
+        "category": "news",
+        "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
+        "published_at": "2026-11-18T21:16:00+00:00",
+        "summary": "WESH 头条聚焦该事件，Google News 同时聚合到这些相关表述：12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas；Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend；Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain。",
+        "related_headlines": [
+          "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
+          "Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend",
+          "Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain",
+          "Live updates: Relentless storms bring heavy rain, intense flooding to Florida's Atlantic Coast",
+          "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida"
+        ],
+        "content_context": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas - WESH\n\nWESH 头条聚焦该事件，Google News 同时聚合到这些相关表述：12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas；Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend；Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain。\n\nRelated coverage: 12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas\n\nRelated coverage: Orlando weather: Flash flooding as torrential rains loom; possible tropical storm development by weekend\n\nRelated coverage: Rain, flood watch still in store after parts of Broward hit with more than 17 inches of rain\n\nRelated coverage: Live updates: Relentless storms bring heavy rain, intense flooding to Florida's Atlantic Coast\n\nRelated coverage: Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida",
+        "trend_score": 27.51,
+        "trend_breakdown": {
+          "freshness": 0.764,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WMBF",
+        "category": "news",
+        "title": "Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3VlVUljMGVudE53NFBaM09yQUQ0MVpBWEFaYUZnZ1JpRkwyOHdzcUhaMXBlUjlVeF9hbk1YWFI2bUlobVV5WDl0cVpxRGhqZnVNRXd3RnI2WkZ5aVlqQ3N6NzhtUVFmaFJOaloxMVhZaUc3UjZ5c1hJQ0t0Q19iNm9wSXhPMFRjSXpRSFRHQXAwVkNfcFo2WmU2YWtOWjB6VEdvRVdZcWRQTVAy0gHAAUFVX3lxTFBmX1ZmREdwbWsyX1RkbTh1T09vOEk0ZE15c0F5UjJOcmxrV1hxMFptQnNVX1k3S0VCZVl2UDRRamdUZlFwNjJ3cFdCYjlSNGJIMTRyYUhHS2JxV0Rpb09EbEV6SEthT2JxOTU0Vml4X2NQelV1Uk5MY3VrbE1JckZSc0xZWGJkT2NXX3FBd1d4UTEtVS1iMjhqYS13UFVWTnpsWmVFaG5Ec3F6TmVoX3otamNyQmx0ejhKOW5Vbm0tZA?oc=5",
+        "published_at": "2026-11-18T20:31:00+00:00",
+        "summary": "WMBF 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boyd, Williams indicted on murder charges in Scott Spivey’s death；2 accused in death of Scott Spivey indicted by grand jury；Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges。",
+        "related_headlines": [
+          "Boyd, Williams indicted on murder charges in Scott Spivey’s death",
+          "2 accused in death of Scott Spivey indicted by grand jury",
+          "Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges",
+          "Men who killed Scott Spivey indicted on murder charges in Horry County",
+          "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case"
+        ],
+        "content_context": "Boyd, Williams indicted on murder charges in Scott Spivey’s death - WMBF\n\nWMBF 头条聚焦该事件，Google News 同时聚合到这些相关表述：Boyd, Williams indicted on murder charges in Scott Spivey’s death；2 accused in death of Scott Spivey indicted by grand jury；Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges。\n\nRelated coverage: Boyd, Williams indicted on murder charges in Scott Spivey’s death\n\nRelated coverage: 2 accused in death of Scott Spivey indicted by grand jury\n\nRelated coverage: Stand Your Ground shielded 2 men in a road rage killing. Now they face murder charges\n\nRelated coverage: Men who killed Scott Spivey indicted on murder charges in Horry County\n\nRelated coverage: Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
+        "trend_score": 26.38,
+        "trend_breakdown": {
+          "freshness": 0.733,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -843,21 +835,21 @@
       {
         "source": "NPR",
         "category": "news",
-        "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia - NPR",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTRDcTJhREdmOXpVRkREN2Izay1Db2hEajJwTXE1MW5CV0c1S0VUOEtmaWNzT2lJYXVGQndPNlpvUU45QWowUnlBeS1UYUhQbXJyTmFqZk5EQ1d5NGZUdGJUTDZiSFBCQ3dMREY3WFJJb09PT0wyRFVMOHpRYl9YNnpJcmRNcThtMUJ5b3Jud05uVUk0WDRicjBuQUFkQlJRbmw4bVRsaDlTSWRfTk5fWGVSZUNObTA?oc=5",
-        "published_at": "2026-11-17T12:20:57+00:00",
-        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia；The incredible shrinking legacy of Donald J Trump；Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps。",
+        "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUs5ZXotc29oMFdCVEFwWkE3cXZEeUc1TWFCdm1obnMzbnh0MnhxSFBOWGw2c1VSblZzejEzdWY5ZkJocjJHUUdaSEhPT0NGM2NIS1JQR1FLY2lRcU56Z3dQem9sb3VzYXVIVGlpZGp5ZlM3TlZVajBWMnJ6T05VUmdZNDRWN0dRa192a0Y1cjEwQndrU0NwTlhWVy1LQVRMWEZXdVg2UmJGZDhxckFFWUxmWXNEQQ?oc=5",
+        "published_at": "2026-11-18T12:14:28+00:00",
+        "summary": "NPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang；Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats；Democrats flipped 9 US Senate seats — the most in almost 70 years。",
         "related_headlines": [
-          "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-          "The incredible shrinking legacy of Donald J Trump",
-          "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
-          "Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown",
-          "Trump heads to China, betting on unscripted diplomacy with Xi and Putin"
+          "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats",
+          "Democrats flipped 9 US Senate seats — the most in almost 70 years",
+          "Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say",
+          "Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska"
         ],
-        "content_context": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia；The incredible shrinking legacy of Donald J Trump；Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps。\n\nRelated coverage: Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia\n\nRelated coverage: The incredible shrinking legacy of Donald J Trump\n\nRelated coverage: Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps\n\nRelated coverage: Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown\n\nRelated coverage: Trump heads to China, betting on unscripted diplomacy with Xi and Putin",
-        "trend_score": 22.3,
+        "content_context": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR\n\nNPR 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang；Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats；Democrats flipped 9 US Senate seats — the most in almost 70 years。\n\nRelated coverage: Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang\n\nRelated coverage: Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats\n\nRelated coverage: Democrats flipped 9 US Senate seats — the most in almost 70 years\n\nRelated coverage: Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say\n\nRelated coverage: Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska",
+        "trend_score": 22.78,
         "trend_breakdown": {
-          "freshness": 0.377,
+          "freshness": 0.388,
           "engagement": 0.0,
           "topic_overlap": 0.333,
           "source_weight": 0.8,
@@ -873,27 +865,56 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "author": "alibaba",
-      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
-      "language": "Go",
-      "score": 763,
-      "comment_count": 4435,
-      "total_stars": 53826,
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "author": "google-research",
+      "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 1524,
+      "comment_count": 539,
+      "total_stars": 4368,
       "built_by": [
-        "lizhengfeng101",
-        "wu21-web",
-        "chethanuk",
-        "Qiyuanqiii",
-        "stay-foolish-forever"
+        "yiwen-song",
+        "obrienciaran"
       ],
-      "content_context": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\nLanguage: Go\n\nStars today: 763\n\nTotal stars: 53826\n\nBuilt by: lizhengfeng101, wu21-web, chethanuk, Qiyuanqiii, stay-foolish-forever",
-      "trend_score": 91.9,
+      "content_context": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.\n\nLanguage: Python\n\nStars today: 1524\n\nTotal stars: 4368\n\nBuilt by: yiwen-song, obrienciaran",
+      "trend_score": 93.36,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.847,
+        "engagement": 0.886,
+        "topic_overlap": 0.5,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "author": "NVIDIA",
+      "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Python",
+      "score": 312,
+      "comment_count": 519,
+      "total_stars": 3778,
+      "built_by": [
+        "rng1995",
+        "chrisknvidia",
+        "claude",
+        "YMuskrat",
+        "kweinmeister"
+      ],
+      "content_context": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.\n\nLanguage: Python\n\nStars today: 312\n\nTotal stars: 3778\n\nBuilt by: rng1995, chrisknvidia, claude, YMuskrat, kweinmeister",
+      "trend_score": 88.97,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.77,
         "topic_overlap": 0.5,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -909,11 +930,11 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "author": "mvanhorn",
       "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
       "language": "Python",
-      "score": 696,
-      "comment_count": 6154,
-      "total_stars": 69187,
+      "score": 1059,
+      "comment_count": 6248,
+      "total_stars": 70101,
       "built_by": [
         "mvanhorn",
         "tmchow",
@@ -921,39 +942,7 @@
         "iliaal",
         "dependabot"
       ],
-      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 696\n\nTotal stars: 69187\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
-      "trend_score": 88.69,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.858,
-        "topic_overlap": 0.333,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "author": "obra",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
-      "language": "Shell",
-      "score": 1917,
-      "comment_count": 28485,
-      "total_stars": 319414,
-      "built_by": [
-        "obra",
-        "arittr",
-        "claude",
-        "clkao",
-        "arimu1"
-      ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1917\n\nTotal stars: 319414\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 1059\n\nTotal stars: 70101\n\nBuilt by: mvanhorn, tmchow, claude, iliaal, dependabot",
       "trend_score": 86.84,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -969,27 +958,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "author": "dream-num",
-      "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
-      "language": "TypeScript",
-      "score": 1774,
-      "comment_count": 2622,
-      "total_stars": 28968,
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "author": "sveltejs",
+      "summary": "web development for the rest of us",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "JavaScript",
+      "score": 692,
+      "comment_count": 6208,
+      "total_stars": 89647,
       "built_by": [
-        "jikkai",
-        "DR-Univer",
-        "wpxp123456",
-        "wzhudev",
-        "Dushusir"
+        "Rich-Harris",
+        "dummdidumm",
+        "Conduitry",
+        "github-actions",
+        "trueadm"
       ],
-      "content_context": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\nLanguage: TypeScript\n\nStars today: 1774\n\nTotal stars: 28968\n\nBuilt by: jikkai, DR-Univer, wpxp123456, wzhudev, Dushusir",
-      "trend_score": 82.06,
+      "content_context": "web development for the rest of us\n\nLanguage: JavaScript\n\nStars today: 692\n\nTotal stars: 89647\n\nBuilt by: Rich-Harris, dummdidumm, Conduitry, github-actions, trueadm",
+      "trend_score": 85.67,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.874,
+        "engagement": 0.969,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1005,11 +994,11 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "author": "google-labs-code",
       "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
       "language": "TypeScript",
-      "score": 350,
-      "comment_count": 1335,
-      "total_stars": 10147,
+      "score": 365,
+      "comment_count": 1368,
+      "total_stars": 10431,
       "built_by": [
         "JLXIA",
         "davideast",
@@ -1017,11 +1006,11 @@
         "dalmaer",
         "meeChn"
       ],
-      "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 350\n\nTotal stars: 10147\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
-      "trend_score": 81.19,
+      "content_context": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\nLanguage: TypeScript\n\nStars today: 365\n\nTotal stars: 10431\n\nBuilt by: JLXIA, davideast, Emp1500, dalmaer, meeChn",
+      "trend_score": 84.99,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.737,
+        "engagement": 0.837,
         "topic_overlap": 0.2,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1033,27 +1022,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "author": "ag-ui-protocol",
-      "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
-      "language": "TypeScript",
-      "score": 1445,
-      "comment_count": 2071,
-      "total_stars": 20063,
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "author": "nvm-sh",
+      "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Shell",
+      "score": 237,
+      "comment_count": 10781,
+      "total_stars": 96164,
       "built_by": [
-        "ranst91",
-        "contextablemark",
-        "mme",
-        "claude",
-        "jpr5"
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "koenpunt",
+        "lukechilds"
       ],
-      "content_context": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\nLanguage: TypeScript\n\nStars today: 1445\n\nTotal stars: 20063\n\nBuilt by: ranst91, contextablemark, mme, claude, jpr5",
-      "trend_score": 81.11,
+      "content_context": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\nLanguage: Shell\n\nStars today: 237\n\nTotal stars: 96164\n\nBuilt by: ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",
+      "trend_score": 83.97,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.849,
+        "engagement": 0.924,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1065,27 +1054,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "author": "elementalsouls",
-      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "author": "HKUDS",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
       "language": "Python",
-      "score": 1005,
-      "comment_count": 1378,
-      "total_stars": 9532,
+      "score": 389,
+      "comment_count": 5434,
+      "total_stars": 59845,
       "built_by": [
+        "yuh-yang",
         "claude",
-        "injectifytest",
-        "elementalsouls",
-        "github-actions",
-        "rudycelekli"
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
       ],
-      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1005\n\nTotal stars: 9532\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
-      "trend_score": 79.45,
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 389\n\nTotal stars: 59845\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 83.82,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.805,
+        "engagement": 0.92,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1097,27 +1086,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "getarcaneapp/arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "author": "getarcaneapp",
-      "summary": "Modern Docker Management, Designed for Everyone",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
-      "language": "Go",
-      "score": 618,
-      "comment_count": 516,
-      "total_stars": 9388,
+      "title": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "author": "astral-sh",
+      "summary": "An extremely fast Python package and project manager, written in Rust.",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
+      "language": "Rust",
+      "score": 258,
+      "comment_count": 3923,
+      "total_stars": 92253,
       "built_by": [
-        "kmendell",
-        "dependabot",
-        "getarcaneappbot",
-        "cabaucom376",
-        "GiulioSavini"
+        "charliermarsh",
+        "zanieb",
+        "konstin",
+        "renovate",
+        "astral-automations-bot"
       ],
-      "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 618\n\nTotal stars: 9388\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
-      "trend_score": 76.39,
+      "content_context": "An extremely fast Python package and project manager, written in Rust.\n\nLanguage: Rust\n\nStars today: 258\n\nTotal stars: 92253\n\nBuilt by: charliermarsh, zanieb, konstin, renovate, astral-automations-bot",
+      "trend_score": 81.99,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.725,
+        "engagement": 0.872,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1133,11 +1122,11 @@
       "url": "https://github.com/cursor/plugins",
       "author": "cursor",
       "summary": "Cursor plugin specification and official plugins",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
       "language": "TypeScript",
-      "score": 201,
-      "comment_count": 1833,
-      "total_stars": 16933,
+      "score": 314,
+      "comment_count": 1906,
+      "total_stars": 17255,
       "built_by": [
         "cursoragent",
         "poteto",
@@ -1145,11 +1134,11 @@
         "minupalaniappan",
         "ericzakariasson"
       ],
-      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 201\n\nTotal stars: 16933\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
-      "trend_score": 76.13,
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 314\n\nTotal stars: 17255\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 80.96,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.718,
+        "engagement": 0.845,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1161,26 +1150,27 @@
     {
       "source": "github-trending",
       "category": "github_trending",
-      "title": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "author": "Tencent",
-      "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "published_at": "2026-11-18T03:18:21.932165+00:00",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "author": "getarcaneapp",
+      "summary": "Modern Docker Management, Designed for Everyone",
+      "published_at": "2026-11-19T02:55:38.280752+00:00",
       "language": "Go",
-      "score": 591,
-      "comment_count": 452,
-      "total_stars": 3346,
+      "score": 547,
+      "comment_count": 566,
+      "total_stars": 9854,
       "built_by": [
-        "claude",
-        "Robert0622",
-        "cursoragent",
-        "crispinhu27"
+        "kmendell",
+        "dependabot",
+        "getarcaneappbot",
+        "cabaucom376",
+        "GiulioSavini"
       ],
-      "content_context": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.\n\nLanguage: Go\n\nStars today: 591\n\nTotal stars: 3346\n\nBuilt by: claude, Robert0622, cursoragent, crispinhu27",
-      "trend_score": 76.03,
+      "content_context": "Modern Docker Management, Designed for Everyone\n\nLanguage: Go\n\nStars today: 547\n\nTotal stars: 9854\n\nBuilt by: kmendell, dependabot, getarcaneappbot, cabaucom376, GiulioSavini",
+      "trend_score": 79.82,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.715,
+        "engagement": 0.815,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1192,82 +1182,20 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Mullet: The Skill for Job Security",
-      "url": "https://github.com/russell-dot-js/mullet",
-      "author": "russell-dot-js",
-      "score": 1,
-      "comment_count": 1,
-      "published_at": "2026-11-18T03:03:28+00:00",
-      "summary": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet",
-      "comment_highlights": [
-        "In the ever-evolving world of agentic development, the strain of justifying our existence as developers is load-bearing. CFOs want to see a positive ROI in our organizations' investments into LLMs, and made up metrics like \"features shipped\" and \"uptime\" are subjective.<p>Software engineers at th..."
-      ],
-      "linked_context": {
-        "resolved_url": "https://github.com/russell-dot-js/mullet",
-        "page_title": "GitHub - russell-dot-js/mullet: Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code.",
-        "page_description": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet",
-        "page_excerpt": "An AI coding agent can solve FizzBuzz in a few lines. Mullet helps it recover from that mistake.\n\nMullet is a skill that makes working software as complex as possible. More layers. More indirection. More languages involved in returning a string. If a function can call another function directly, there is still work to do.\n\nYou have an AI that can write thousands of lines a minute. Why are you asking it to stop?"
-      },
-      "content_context": "Why do in 2 lines what you could do in 2,000? A coding skill for maximizing layers, indirection, and lines of code. - russell-dot-js/mullet\n\nAn AI coding agent can solve FizzBuzz in a few lines. Mullet helps it recover from that mistake. Mullet is a skill that makes working software as complex as possible. More layers. More indirection. More languages involved in returning a string. If a function can call another function directly, there is still work to do. You have an AI that can write thousands of lines a minute. Why are you asking it to stop?\n\nHN comment: In the ever-evolving world of agentic development, the strain of justifying our existence as developers is load-bearing. CFOs want to see a positive ROI in our organizations' investments into LLMs, and made up metrics like \"features shipped\" and \"uptime\" are subjective.<p>Software engineers at th...",
-      "trend_score": 60.85,
-      "trend_breakdown": {
-        "freshness": 0.99,
-        "engagement": 0.079,
-        "topic_overlap": 0.5,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
-      "url": "https://greyswansignals.com",
-      "author": "hairoglyphics",
+      "title": "Ask HN: Is Uber Support Dead?",
+      "url": "https://news.ycombinator.com/item?id=50555440",
+      "author": "johnpython",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-18T03:03:16+00:00",
-      "summary": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://greyswansignals.com/",
-        "page_title": "Grey Swan Signals | Market Stress Radar",
-        "page_description": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-        "page_excerpt": null
-      },
-      "content_context": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.",
-      "trend_score": 50.85,
-      "trend_breakdown": {
-        "freshness": 0.989,
-        "engagement": 0.044,
-        "topic_overlap": 0.091,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Microsoft disabled API permissions seemingly overnight",
-      "url": "https://news.ycombinator.com/item?id=50541430",
-      "author": "emp_",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-18T03:17:19+00:00",
+      "published_at": "2026-11-19T02:47:33+00:00",
       "summary": null,
       "comment_highlights": [],
       "linked_context": {},
-      "content_context": "As of yesterday, `Authorization.RoleAssignments.Write (a53c8130)` now shows `isEnabled: false` on the Power Platform API service principal (`8578e004`), and Authorization.Write (`440ac968`) was added around October and seems to be working as a replacement.<p>Tried multiple tenants. Unsure if related to the outages but I can't find any information about this, very unusual, having to hotfix services with zero notice.",
-      "trend_score": 49.39,
+      "content_context": "I have been using Uber during my recent travels to different cities and every time that I run into an issue and need to contact support, Uber fails to handle my issue with appropriate care or customer service. My issues are rapidly closed without the customer support agent even attempting to understanding the problem or read my messages carefully. I have attempted to provide evidences in the form of screenshots or SMS payment confirmation messages which are not even acknowledged. I've had to open multiple support issues for the same problem without any adequate resolution.<p>How has your experience with Uber support been lately?",
+      "trend_score": 49.36,
       "trend_breakdown": {
-        "freshness": 0.999,
-        "engagement": 0.044,
+        "freshness": 0.994,
+        "engagement": 0.05,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.18
@@ -1279,26 +1207,58 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Mac Video Player for BitTorrent",
-      "url": "https://freshetplayer.com/",
-      "author": "fxjima",
+      "title": "Would you use this as the new Conductor Cloud?",
+      "url": "https://www.runaether.dev/benchmarks/pr-review",
+      "author": "xbartlet",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-18T03:06:23+00:00",
-      "summary": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.",
+      "published_at": "2026-11-19T02:20:48+00:00",
+      "summary": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://freshetplayer.com/",
-        "page_title": "Freshet â Plays while it pours in.",
-        "page_description": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.",
-        "page_excerpt": "A native Mac video player for BitTorrent. Paste a magnet link and video starts within seconds, and you can seek anywhere before the download finishes.\n\nFree and open source. Version 1.0 for macOS 27 or later on Apple silicon.\n\nA simulation of Freshet running in your browser. Nothing is downloaded."
+        "resolved_url": "https://www.runaether.dev/benchmarks/pr-review",
+        "page_title": "AI code review benchmarks",
+        "page_description": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.",
+        "page_excerpt": "Greptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public.\n\nGraded the same way, Greptile caught 35. Its own page claims 41.\n\nShare of the 50 known bugs each tool caught with a line-level review comment."
       },
-      "content_context": "A native Mac video player that streams from BitTorrent while it downloads. Paste a magnet link and video starts within seconds.\n\nA native Mac video player for BitTorrent. Paste a magnet link and video starts within seconds, and you can seek anywhere before the download finishes. Free and open source. Version 1.0 for macOS 27 or later on Apple silicon. A simulation of Freshet running in your browser. Nothing is downloaded.",
-      "trend_score": 46.05,
+      "content_context": "Aether Review caught 42 of 50 known bugs on the 50-PR code review benchmark, graded by hand under Greptile's published rule, beside Greptile, Bugbot, Copilot, CodeRabbit and Graphite. Every review is a public PR.\n\nGreptile's public benchmark puts AI code reviewers on 50 real bugs from five production codebases. We ran Aether Review on the same pull requests with its stock settings, graded Aether's reviews and Greptile's own by hand under Greptile's published rule, and ran Martian's judge for precision. Every review and every grading decision is public. Graded the same way, Greptile caught 35. Its own page claims 41. Share of the 50 known bugs each tool caught with a line-level review comment.",
+      "trend_score": 48.48,
       "trend_breakdown": {
-        "freshness": 0.992,
-        "engagement": 0.044,
-        "topic_overlap": 0.25,
+        "freshness": 0.976,
+        "engagement": 0.05,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Hardware attestation push – Windows will soon grade your PC's security",
+      "url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+      "author": "viscousviolin",
+      "score": 2,
+      "comment_count": 2,
+      "published_at": "2026-11-19T02:31:24+00:00",
+      "summary": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+      "comment_highlights": [
+        "\"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example."
+      ],
+      "linked_context": {
+        "resolved_url": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+        "page_title": "Windows will soon grade your PC's security, and apps like Battle.net get to see the score",
+        "page_description": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...",
+        "page_excerpt": "The big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether.\n\nMicrosoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign...\n\nIronically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl..."
+      },
+      "content_context": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are...\n\nThe big picture: Plenty of online PC games already refuse to launch unless Secure Boot is enabled. Microsoft now wants to turn checks like that into one standard question that any Windows 11 app can ask your PC. If the answer comes back no, the developer decides what happens next. Some apps may just show a warning; others could refuse to run altogether. Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and memory integrity, along with a few rules that stop unsign... Ironically, Microsoft's own advice could trip up some gamers. Back in 2022, it suggested turning off memory integrity to claw back a few frames. Windows began switching the feature on automatically in October, but PCs where someone disabl...\n\nHN comment: \"Windows baseline protection\" is a new feature that Microsoft is planning to launch soon, which will allow app developers to more easily block systems that do not live up to anti-tampering requirements. This includes dual boot systems running Linux for example.",
+      "trend_score": 46.28,
+      "trend_breakdown": {
+        "freshness": 0.983,
+        "engagement": 0.142,
+        "topic_overlap": 0.111,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1307,26 +1267,54 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "author": "gmays",
-      "score": 2,
+      "title": "One A4 paper in the virtual world – 4096 characters",
+      "url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+      "author": "lilerjee",
+      "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-18T03:13:30+00:00",
-      "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "published_at": "2026-11-19T02:52:24+00:00",
+      "summary": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
       "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://huggingface.co/blog/openrouter",
-        "page_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-        "page_description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "page_excerpt": "Hugging Face and OpenRouter are teaming up to make open-weight models easy to run. Every major open-weight release is already being published on the Hugging Face Hub, and OpenRouter serves those models at scale, routing each request across 80+ providers based on live measurements of each one. Together, every open-weight model on the Hub that a provider serves can be called with your Hugging Fac...\n\nToday, we are switching Inference Providers from our own custom router to OpenRouter's. Requests made to language models now go through OpenRouter, which picks the best provider for each call based on live price, speed and reliability, and retries on another provider if the first one fails. Your code stays the same.\n\nThe router supports OpenAI's Chat Completions and Responses APIs and Anthropic's Messages API for every chat model, whatever the provider behind it. Pick your coding agent or SDK and a model, then copy the steps, or copy the whole setup as a prompt for your agent:"
+        "resolved_url": "https://devcyc.life/one-a4-paper-in-the-virtual-world-4096-characters/",
+        "page_title": "One A4 paper in the virtual world -- 4096 characters",
+        "page_description": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether",
+        "page_excerpt": "Hi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world.\n\nI encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number?\n\nThe limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat..."
       },
-      "content_context": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\n\nHugging Face and OpenRouter are teaming up to make open-weight models easy to run. Every major open-weight release is already being published on the Hugging Face Hub, and OpenRouter serves those models at scale, routing each request across 80+ providers based on live measurements of each one. Together, every open-weight model on the Hub that a provider serves can be called with your Hugging Fac... Today, we are switching Inference Providers from our own custom router to OpenRouter's. Requests made to language models now go through OpenRouter, which picks the best provider for each call based on live price, speed and reliability, and retries on another provider if the first one fails. Your code stays the same. The router supports OpenAI's Chat Completions and Responses APIs and Anthropic's Messages API for every chat model, whatever the provider behind it. Pick your coding agent or SDK and a model, then copy the steps, or copy the whole setup as a prompt for your agent:",
-      "trend_score": 44.19,
+      "content_context": "Hi, I'm Michael Sun, the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? Whether\n\nHi, I'm Michael Sun , the author of Metaessen which can manage bookmarks, notes, or tasks practically by simulating the real world. I encountered one problem when I designed Metaessen originally: Whether to limit the character number of the stored text? If to limit, what's the reasonable number? The limitation of character number of the stored text is required by design purpose and philosophy of Metaessen . The main purpose is to solve the practical problems of getting, understanding, organizing and using information in the real world according to my experience. The main philosophy is \"Practical, Safe, Concise, Easy to use, and Open\". The main way of implementing \"Practical\" is simulat...",
+      "trend_score": 44.97,
       "trend_breakdown": {
-        "freshness": 0.997,
-        "engagement": 0.07,
-        "topic_overlap": 0.091,
+        "freshness": 0.998,
+        "engagement": 0.05,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "I banned Roku from my internet to try to save my Roku Express",
+      "url": "https://manualdousuario.net/en/roku-block-ads/",
+      "author": "rpgbr",
+      "score": 6,
+      "comment_count": 0,
+      "published_at": "2026-11-19T02:18:15+00:00",
+      "summary": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://manualdousuario.net/en/roku-block-ads/",
+        "page_title": "I banned Roku from my internet to try to save my Roku Express",
+        "page_description": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.",
+        "page_excerpt": "“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water.\n\nI wrapped up my review of the Roku Express [pt_BR], four years ago, by saying:\n\nFor the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality."
+      },
+      "content_context": "Bloquear a Roku no DNS não consertou o problema estúpido de áudio fora de sincronia, mas teve um efeito colateral que valeu todo o esforço.\n\n“Enshittification,” the process by which software and services degrade for the provider’s benefit, tends to be gradual, the digital equivalent of the proverbial frog that, heated slowly, doesn’t notice it’s being boiled. At some point in the recent past, Roku, after years of cooking us in lukewarm water, tossed me and the Roku Express I bought in 2022 into a cauldron of boiling water. I wrapped up my review of the Roku Express [pt_BR], four years ago, by saying: For the price, the Roku Express is a great deal for anyone with an old TV that still delivers good audio and video quality.",
+      "trend_score": 43.84,
+      "trend_breakdown": {
+        "freshness": 0.974,
+        "engagement": 0.139,
+        "topic_overlap": 0.0,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1337,162 +1325,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域热点聚焦于开源工具与框架的爆发式增长，特别是围绕AI智能体（Agent）的开发与应用。阿里巴巴开源了集成了确定性流水线与LLM智能体的混合架构代码审查工具，体现了AI在软件工程（AI4SE）的深度应用。同时，多个旨在构建和标准化AI智能体技能的项目（如Superpowers、Stitch Skills、AG-UI）获得极高关注，反映了开发者社区对模块化、可互操作智能体开发范式的迫切需求。此外，面向特定垂直场景的AI工具也崭露头角，例如为Claude Code设计的漏洞挖掘技能包Claude-BugHunter，以及旨在聚合多源信息并生成摘要的自主研究智能体技能last30days-skill。整体来看，AI技术正加速从模型层向应用层和工程化基础设施渗透，开源生态成为关键驱动力。",
+    "overview": "今日AI领域开源项目活跃，聚焦于智能体能力扩展与评估。Google Research的PaperOrchestra与NVIDIA的SkillEvaluator分别从自动化论文撰写和智能体技能评估切入，推动AI研究与应用流程的标准化。同时，last30days-skill、Stitch Skills和CLI-Anything等项目致力于增强AI代理的多源信息整合、技能互操作性及软件生态集成能力，显示出智能体正从单一功能向复杂、开放的协作系统演进。此外，uv等高性能开发工具也获得关注，为AI项目的基础设施提供支持。",
     "named_hotspots": [
       {
-        "name": "Alibaba Open Code Review",
+        "name": "PaperOrchestra",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "阿里巴巴开源了其内部使用的代码审查工具，该项目在GitHub上迅速获得关注，今日新增763颗星，总星数已达53826。",
-        "core_details": "该项目是一个混合架构的代码审查工具，结合了确定性流水线和LLM智能体。它提供精确到行级的代码注释，并内置了针对多种编程语言的安全与质量规则集（如空指针异常、线程安全、XSS攻击、SQL注入等）。工具兼容OpenAI和Anthropic的模型，使用Go语言编写，并宣称在阿里巴巴的规模下经过实战检验，具备安全、快速、高效的特点。",
-        "ai_take": "该项目代表了将传统静态分析规则与大型语言模型（LLM）智能体相结合的混合式AI代码审查方向。通过LLM增强理解与生成能力，旨在提升审查的精度和自动化程度，是AI在软件工程（AI4SE）领域的一个具体应用案例。",
-        "hype_check": "热度很高。作为阿里巴巴开源的、经过大规模业务验证的开发工具，其‘混合架构’和‘LLM Agent’的定位切中了当前AI赋能研发的潮流，因此在开发者社区（如GitHub）中迅速获得大量关注和星标。",
-        "value_check": "价值显著。对于开发团队而言，一个集成了成熟规则库和可定制LLM能力的开源代码审查工具，能有效提升代码质量、发现安全漏洞，并可能降低对纯人工审查的依赖。其阿里巴巴的‘实战检验’背景增加了可信度。",
-        "follow_up": "关注该项目的实际采用情况、社区贡献的规则扩展，以及与其他主流CI/CD工具的集成生态。同时，观察其LLM Agent在实际不同代码库上的表现和准确性。",
-        "evidence": "项目描述明确指出其‘Hybrid architecture code review tool: deterministic pipelines + LLM Agent’，内置多语言规则集，并兼容主流大模型API。GitHub数据（今日763星，总星53826）和‘Built by’列表中的阿里巴巴相关贡献者提供了支持。"
+        "what_happened": "Google Research 在 GitHub 上开源了一个名为 PaperOrchestra 的多智能体框架，旨在自动化 AI 研究论文的撰写过程。该项目今日获得 1524 颗星，总星数达 4368，引发社区关注。",
+        "core_details": "PaperOrchestra 是一个用 Python 编写的多智能体框架，由 yiwen-song 和 obrienciaran 构建。其核心功能是通过协调多个智能体（agent）来模拟并自动化研究论文的撰写流程，可能涵盖从文献综述、实验设计到结果分析和文本生成等环节。",
+        "ai_take": "该项目代表了 AI 在学术研究自动化方向的前沿探索，通过多智能体协作，可能提升论文产出的效率与一致性，为 AI 辅助科研提供了新的工具范式。",
+        "hype_check": "热度较高（趋势得分 93.36），单日获星超 1500，表明开发者社区对自动化研究工具兴趣浓厚，但实际效果和学术接受度仍需验证。",
+        "value_check": "潜在价值在于可能降低研究门槛、加速知识生产，但需警惕自动化可能带来的论文质量、学术诚信及创新性风险。",
+        "follow_up": "关注其后续版本更新、实际应用案例以及学术界的反馈，评估其在真实研究场景中的有效性与局限性。",
+        "evidence": "GitHub 项目页显示其为“用于自动化 AI 研究论文撰写的多智能体框架”，语言为 Python，由 Google Research 团队发布，星数增长数据佐证其受关注程度。"
+      },
+      {
+        "name": "SkillEvaluator",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "NVIDIA在GitHub上开源了一个名为SkillEvaluator的多层框架，用于评估AI智能体技能和插件，包含质量门控、语义重叠检测、合成评估数据集生成和实时智能体评估等功能。",
+        "core_details": "该项目由NVIDIA团队（包括rng1995、chrisknvidia等）开发，使用Python语言编写，旨在通过系统化方法衡量技能如何影响智能体行为，提升AI智能体的可靠性和性能。",
+        "ai_take": "该框架为AI智能体开发提供了标准化评估工具，有助于减少技能冗余、确保质量一致性，并支持通过合成数据加速测试，可能推动更模块化、可验证的智能体生态发展。",
+        "hype_check": "项目在GitHub趋势榜上单日获312星，总星数达3778，显示开发者社群的较高关注度，但实际工业应用效果仍需验证。",
+        "value_check": "对于构建复杂AI智能体的团队，该工具能提升开发效率和系统稳定性，尤其适用于需要集成多技能或插件的场景；对普通用户价值有限。",
+        "follow_up": "可关注其在NVIDIA AI工作流中的整合情况，以及社区是否基于此框架建立共享评估标准或数据集。",
+        "evidence": "项目描述强调其多层评估框架功能，包括质量门控、语义重叠检测等；GitHub数据反映其热度（单日312星，总3778星）。"
       },
       {
         "name": "last30days-skill",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为'last30days-skill'的AI智能体技能项目在GitHub上趋势飙升，单日获得696颗星，总星数已达69187。该项目旨在为AI智能体提供跨平台信息研究能力。",
-        "core_details": "该项目是一个用Python编写的AI智能体技能，能够针对任何话题，自动从Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket以及整个互联网进行信息检索与研究，并最终综合生成一份基于事实的摘要报告。",
-        "ai_take": "该项目代表了AI智能体向'自主研究助理'方向发展的一个具体实践。它通过整合多源异构信息并生成摘要，展示了AI在信息整合与知识提炼方面的潜力，是构建更复杂、更实用AI工作流的关键组件。",
-        "hype_check": "趋势热度很高（趋势分88.69），单日获星近700，总星数近7万，表明其在开发者社区中获得了广泛关注和认可，反映了市场对能够执行复杂、多步骤网络任务的AI工具的需求。",
-        "value_check": "核心价值在于将分散、碎片化的网络信息流（社交媒体、论坛、视频、预测市场）进行一站式聚合与提炼，有望提升研究、市场分析、舆情监控等场景的效率。其实用性取决于信息抓取的准确性、深度以及摘要生成的质量。",
-        "follow_up": "关注其后续版本更新，看是否支持更多数据源、提供更精细的分析维度（如情感分析、趋势预测），以及如何解决信息真实性验证问题。同时，观察是否有基于此技能构建的更上层AI应用案例出现。",
-        "evidence": "项目描述明确指出其功能为'researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary'。GitHub数据（日增696星，总星69187，趋势分88.69）证实了其高关注度。"
+        "what_happened": "一个名为'last30days-skill'的AI代理技能项目在GitHub上趋势飙升，单日获星1059个，总星数已达70101。该项目旨在为AI代理提供跨平台研究能力。",
+        "core_details": "该项目是一个用Python编写的AI代理技能，能够自动研究任何指定主题，其数据源覆盖Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket以及整个网络。核心功能是抓取并综合分析这些来源的信息，最终生成一份基于事实、有理有据的总结报告。项目由mvanhorn等人开发和维护。",
+        "ai_take": "该项目代表了AI代理能力向'信息综合者'角色的演进。它不再局限于单一平台或格式，而是整合了社交媒体、论坛、视频、预测市场等多种异构信息流，并试图从中提炼出连贯的叙事。这指向了下一代AI助手的发展方向：能够自主进行多源调研，为用户节省信息收集与初步分析的时间，尤其在追踪快速变化的趋势或争议性话题时可能非常有用。",
+        "hype_check": "高。单日超千星的涨幅和超过7万的总收藏量表明其概念切中了当前对AI代理实用化和多源信息处理的强烈需求。社区关注度极高。",
+        "value_check": "潜在价值高。如果其合成总结的质量足够可靠，该技能可以成为研究人员、内容创作者、投资者或任何需要快速了解某个领域近期动态的人的强大工具。关键在于其信息抓取的准确性、来源的平衡性以及总结的客观性，避免成为回声室或偏见放大器。",
+        "follow_up": "需要关注其实际生成报告的质量评估、是否支持中文信息源、以及如何解决不同平台信息可信度差异和潜在偏见的问题。此外，其作为'技能'如何集成到主流AI代理框架（如LangChain、AutoGPT）中也值得观察。",
+        "evidence": "项目描述明确指出其功能为'researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary'。GitHub趋势数据（日增星1059，总星70101，语言Python）和开发者信息提供了流行度与技术栈证明。"
       },
       {
-        "name": "Superpowers",
+        "name": "sveltejs/svelte",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "GitHub项目obra/superpowers登上趋势榜，这是一个面向AI智能体的技能框架与软件开发方法论。",
-        "core_details": "该项目由用户obra主导开发，采用Shell语言编写。今日新增星标1917个，总星标数已达319,414，显示出极高的社区关注度。项目描述强调其为一个“行之有效的智能体技能框架与软件开发方法论”。",
-        "ai_take": "该项目直接切入AI智能体（Agent）开发的核心痛点，即如何系统化地构建、管理和组合智能体的能力（技能）。它可能提供了一套标准化的接口、技能库或工作流，旨在提升AI智能体开发的效率、模块化程度和可靠性，是AI工程化实践中的一个重要工具探索。",
-        "hype_check": "高。极高的GitHub星标增长和庞大的总星标基数（超过31万）是强烈的社区兴趣和认可信号，表明开发者群体对改进AI智能体开发范式的工具有迫切需求。",
-        "value_check": "潜在价值高。如果该框架能有效降低智能体开发的复杂性，促进技能复用和系统集成，它将为AI应用落地提供重要的基础设施支持，加速智能体技术的实际应用与生态发展。",
-        "follow_up": "需要深入其GitHub仓库，查看具体架构设计、技能定义规范、示例代码及文档，以评估其方法论的具体内容、易用性、与现有AI开发栈（如LangChain、AutoGen）的兼容性，以及在实际项目中的落地案例。",
-        "evidence": "项目描述明确指出其为“一个行之有效的智能体技能框架与软件开发方法论”。GitHub趋势数据（今日+1917星，总计319,414星）和项目语言（Shell）提供了客观的流行度与技术栈信息。"
-      },
-      {
-        "name": "Univer Office SDK",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "开源项目 Univer Office SDK 在 GitHub 趋势榜上热度显著，单日获星 1774 颗，总星数达 28968。该项目旨在帮助开发者构建集成编辑、计算、协作和文件处理功能的“AI 办公室”，并支持人与 AI 智能体共同使用。",
-        "core_details": "Univer Office SDK 是一个基于 TypeScript 开发的可扩展开源核心，由 dream-num 团队及多位贡献者（如 jikkai, DR-Univer 等）构建。它允许开发者将完整的办公套件能力（类似电子表格、文档编辑）嵌入到自己的产品或应用中，特别强调了对 AI 智能体的支持。",
-        "ai_take": "该项目将传统办公软件能力与 AI 智能体工作流深度结合，为开发 AI 原生应用（如 AI 助手处理表格、文档协作）提供了底层基础设施。其“为 AI 智能体设计”的定位，顺应了 AI 智能体（Agents）生态发展的需求，可能成为未来人机协同办公的重要开发框架。",
-        "hype_check": "热度较高，单日获星近 1800，表明开发者社区对“AI+办公”开源工具的关注度快速提升。但需注意，高星数可能部分源于项目成熟度（总星数已近 2.9 万）及近期“AI 办公室”概念的流行，实际生产采用率和生态完善度仍需观察。",
-        "value_check": "核心价值在于提供了一个开源、可嵌入的办公引擎，降低了为产品添加复杂办公功能或构建 AI 驱动办公应用的门槛。其对 AI 智能体的原生支持具有前瞻性，但实际价值取决于开发者是否真正需要在其应用中深度集成此类功能，以及 SDK 的稳定性、性能与社区支持。",
-        "follow_up": "可关注其 GitHub 仓库的更新频率、Issue 解决情况以及是否有知名项目或公司采用。同时，观察其如何具体实现“AI 智能体”的 API 或交互范式，以及是否会出现基于该 SDK 的典型 AI 办公应用案例。",
-        "evidence": "项目描述明确指出“Build your own AI office with Univer Office SDK”及“for people and AI agents”。GitHub 趋势数据：单日星数 1774，总星数 28968，语言为 TypeScript，由 dream-num 组织维护。"
+        "source": "github-trending",
+        "what_happened": "Svelte 是一个开源的前端框架，在 GitHub 趋势榜上受到关注，今日获得 692 颗星，总星数达 89647。",
+        "core_details": "Svelte 是一个用于构建用户界面的 JavaScript 框架，其核心理念是“为其余人准备的 Web 开发”，旨在通过编译时优化减少运行时开销，简化开发体验。项目由 Rich Harris 等人主导开发。",
+        "ai_take": "Svelte 的编译时方法可能为 AI 驱动的代码生成或优化工具提供灵感，但其本身并非 AI 模型或直接 AI 应用。",
+        "hype_check": "作为持续受欢迎的前端框架，其趋势热度反映了开发者社区对高效、简洁开发工具的持续兴趣，但并非突破性 AI 进展。",
+        "value_check": "对于前端开发者而言，Svelte 提供了有价值的替代方案，可能提升开发效率和性能，但其在 AI 领域的直接价值有限。",
+        "follow_up": "关注 Svelte 在 Web 开发中的采用率变化，以及是否有 AI 工具集成其编译时特性。",
+        "evidence": "GitHub 趋势数据：今日 692 星，总星 89647，项目描述为“web development for the rest of us”，语言为 JavaScript，由 Rich Harris 等维护。"
       },
       {
         "name": "Stitch Skills",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "谷歌实验室在GitHub上开源了一个名为'stitch-skills'的TypeScript库，该项目今日获得350颗星，总星数已达10147，引发开发者社区关注。",
-        "core_details": "这是一个专为Stitch MCP服务器设计的智能体技能库。每个技能都遵循开放的'Agent Skills'标准，确保能与多种主流编码智能体（如Antigravity、Gemini CLI、Claude Code、Cursor）兼容。项目由JLXIA、davideast等谷歌工程师构建，旨在为AI编程助手提供可扩展、标准化的功能模块。",
-        "ai_take": "该项目代表了AI编程工具生态标准化的重要一步。通过统一技能接口，它降低了不同编码智能体之间功能复用的门槛，可能加速AI辅助编程工具的模块化发展和能力整合。",
-        "hype_check": "热度较高。项目在GitHub趋势榜排名靠前（趋势分81.19），单日获星350颗，总星数破万，表明其在开发者社区中获得了实质性关注和认可，并非短暂炒作。",
-        "value_check": "实际价值明确。它为AI编程工具提供了可互操作的技能库，解决了生态碎片化问题。开发者可以基于此标准快速为不同AI助手扩展功能，提升开发效率。",
-        "follow_up": "关注该技能库的采用情况，以及'Agent Skills'开放标准是否会被更多AI编码工具（如GitHub Copilot）接纳，形成事实上的行业规范。",
-        "evidence": "项目GitHub页面显示其为'google-labs-code'官方发布，语言为TypeScript，总星数10147，今日新增350星，遵循'Agent Skills'开放标准，明确支持Antigravity、Gemini CLI等主流编码智能体。"
+        "what_happened": "谷歌实验室在GitHub上开源了一个名为Stitch Skills的技能库项目，该项目旨在与Stitch MCP服务器协同工作，为各类AI编程助手提供标准化的技能模块。",
+        "core_details": "Stitch Skills是一个遵循Agent Skills开放标准的TypeScript库，包含一系列可复用的AI代理技能。它设计用于与Stitch MCP服务器集成，确保与Antigravity、Gemini CLI、Claude Code、Cursor等多种AI编程助手的兼容性。项目由谷歌实验室团队维护，目前在GitHub上获得超过1万颗星标，今日新增365颗星标，显示出较高的社区关注度。",
+        "ai_take": "该项目代表了AI编程助手生态标准化的重要一步。通过创建统一的技能标准，不同厂商的AI编程工具可以共享和调用相同的功能模块，降低了开发者的集成成本，并可能加速AI辅助编程工具的普及和创新。",
+        "hype_check": "社区热度较高（趋势得分84.99，日增星标365），表明开发者对AI编程助手互操作性和标准化技能库有切实需求。但需注意，这仍是一个实验室项目，其实际生产环境中的稳定性和广泛采纳度有待验证。",
+        "value_check": "核心价值在于推动AI编程助手领域的开放标准与互操作性。如果该标准被广泛采纳，将减少生态碎片化，使开发者能更灵活地组合不同AI工具的能力，提升开发效率。长期看，可能形成类似编程语言包管理器的AI技能生态系统。",
+        "follow_up": "关注Agent Skills开放标准的发展动态、其他主流AI编程工具（如GitHub Copilot）是否采纳该标准，以及Stitch MCP服务器在实际开发工作流中的集成案例。",
+        "evidence": "项目GitHub页面明确说明其为“遵循Agent Skills开放标准的技能库”，设计用于与Stitch MCP服务器工作，并兼容多种AI编程助手。数据方面：总星标10431，今日新增365，语言为TypeScript，由谷歌实验室团队维护。"
       },
       {
-        "name": "AG-UI",
+        "name": "nvm-sh/nvm",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "AG-UI（Agent-User Interaction Protocol）是一个开源项目，旨在将AI智能体（Agents）引入前端应用，定义智能体与用户交互的协议。该项目在GitHub上趋势榜热度高，单日获1445星，总星数达20063，使用TypeScript语言开发。",
-        "core_details": "AG-UI是一个协议项目，专注于在前端应用中集成AI智能体，提供智能体与用户交互的标准。项目由团队（包括ranst91等）构建，当前在GitHub上受到广泛关注，单日星数增长显著，表明开发者社区对AI与前端结合的兴趣浓厚。",
-        "ai_take": "该项目代表了AI与前端开发融合的趋势，通过标准化协议降低智能体集成复杂度，可能推动更动态、个性化的用户体验，加速AI在Web应用中的普及。",
-        "hype_check": "热度较高，基于GitHub趋势榜分数81.11和单日星数增长，反映社区对AI前端工具的强烈兴趣，但需观察实际采用率和生态发展。",
-        "value_check": "潜在价值在于为前端开发者提供统一框架来集成AI智能体，可能提升开发效率和应用智能化水平，但价值实现取决于协议成熟度和社区支持。",
-        "follow_up": "关注项目后续版本更新、文档完善情况，以及是否有大型应用采用该协议来评估其实用性。",
-        "evidence": "GitHub趋势数据：单日星数1445，总星数20063，趋势分数81.11，项目描述为“将智能体引入前端应用”，使用TypeScript语言。"
+        "source": "github-trending",
+        "what_happened": "Node Version Manager (nvm) 是一个 POSIX 兼容的 bash 脚本项目，用于管理多个活跃的 Node.js 版本，今日在 GitHub 趋势榜上获得关注。",
+        "core_details": "该项目今日新增 237 颗星，总星数达 96164，主要维护者包括 ljharb、PeterDaveHello 等，使用 Shell 语言编写，旨在解决 Node.js 多版本环境下的切换与管理问题。",
+        "ai_take": "虽然 nvm 本身不是 AI 工具，但其高效管理开发环境的能力对 AI 应用开发至关重要，尤其是在部署和测试不同 Node.js 版本的机器学习后端服务时，能确保环境一致性和兼容性。",
+        "hype_check": "趋势热度合理，作为长期维护的开发者工具，nvm 在 JavaScript/Node.js 生态中具有基础性地位，今日关注度上升可能源于社区更新或相关教程推广，并非短期炒作。",
+        "value_check": "高价值工具，解决了 Node.js 开发中的实际痛点，其开源属性和广泛采用（超 9.6 万星）证明了其稳定性和社区认可度，对提升开发效率有直接贡献。",
+        "follow_up": "关注项目 GitHub 仓库的更新日志，了解最新功能；对于 AI 开发者，可探索如何将 nvm 集成到 CI/CD 流水线中，以自动化管理模型服务所需的 Node.js 环境。",
+        "evidence": "数据来自 GitHub 趋势榜：项目描述为“Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions”，今日星增 237，总星 96164，语言为 Shell，维护者列表明确。"
       },
       {
-        "name": "Claude-BugHunter",
+        "name": "CLI-Anything",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "一个名为Claude-BugHunter的GitHub项目在技术社区中迅速流行，单日获得超过1000颗星，总星数已超过9500，表明其在开发者中引起了高度关注。",
-        "core_details": "该项目是一个为Claude Code设计的技能包，专门用于漏洞挖掘和外部红队工作。它集成了82项技能、15个斜杠命令，并整理了涵盖24个核心漏洞类别的681个已披露报告模式，同时包含企业身份和基础设施攻击矩阵。项目主要使用Python语言开发，由elementalsouls等贡献者维护。",
-        "ai_take": "该项目展示了AI辅助安全测试的实用化进展，通过结构化技能和模式库，将大型语言模型（如Claude）的能力定向应用于专业安全领域，可能提升漏洞发现的效率和系统性。",
-        "hype_check": "高星数增长反映了开发者对AI增强安全工具的强烈兴趣，但需注意该项目仍处于社区驱动阶段，实际企业应用效果和合规性需进一步验证。",
-        "value_check": "对于安全研究人员和红队成员，该项目提供了可立即集成的模式库和命令集，能加速漏洞挖掘工作流；对于更广泛的开发者，它展示了AI在专业化任务中的定制潜力。",
-        "follow_up": "关注该项目的版本更新是否纳入更多漏洞类别，以及社区是否出现基于它的衍生工具。同时观察类似AI安全项目（如基于GPT的扫描器）的发展趋势。",
-        "evidence": "项目描述明确指出其功能集和规模（82技能/15命令/681模式/24漏洞类别），GitHub数据（单日1005星，总9532星，Python语言）支持其流行度。"
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了CLI-Anything项目，旨在将所有软件转化为AI智能体原生应用。",
+        "core_details": "该项目是一个Python工具，通过CLI-Hub（https://clianything.cc/）提供接口，使各类软件能够被AI智能体直接调用和操作，从而提升自动化与集成能力。",
+        "ai_take": "该项目降低了AI智能体与现有软件生态的集成门槛，为构建更强大的自动化工作流和软件代理提供了基础设施，是智能体应用落地的关键工具。",
+        "hype_check": "项目在GitHub上热度较高（今日获389星，总星数59845），表明开发者社区对AI智能体与软件集成工具的需求强烈，但实际生产环境中的稳定性和广泛适配性仍需验证。",
+        "value_check": "若成功实现“所有软件Agent-Native”的愿景，将极大推动AI智能体的实际应用，但技术挑战在于统一不同软件的接口与权限管理，其长期价值取决于生态采纳程度。",
+        "follow_up": "关注CLI-Hub的更新及开发者社区的反馈，观察是否有大型软件厂商或开源项目开始集成此工具，并评估其在复杂企业环境中的实际表现。",
+        "evidence": "项目描述明确指向“Making ALL Software Agent-Native”，GitHub数据（语言Python、高星数、HKUDS团队）支持其技术背景与社区关注度。"
       },
       {
-        "name": "Arcane",
+        "name": "uv",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Arcane项目在GitHub趋势榜上热度显著，今日获得618颗星，总星数达9388，表明其在开发者社区中受到广泛关注。",
-        "core_details": "Arcane是一个用Go语言编写的现代Docker管理工具，旨在为所有人提供便捷的容器管理体验。项目由kmendell、dependabot、getarcaneappbot、cabaucom376和GiulioSavini等贡献者共同构建。",
-        "ai_take": "该项目虽非直接AI模型，但其作为基础设施工具，能优化开发与部署流程，间接支持AI应用的容器化与规模化运维，体现了DevOps与AI工程化的融合趋势。",
-        "hype_check": "热度较高，单日获星数突出，总星数近万，反映开发者对简化Docker管理的强烈需求，但需观察其长期生态与社区活跃度。",
-        "value_check": "实用性强，专注于降低Docker使用门槛，可能提升开发效率；但需评估其与现有工具（如Docker Desktop、Portainer）的差异化优势及成熟度。",
-        "follow_up": "可关注项目后续版本更新、用户反馈及集成案例，以判断其是否成为主流Docker管理方案之一。",
-        "evidence": "GitHub趋势数据：今日星数618，总星数9388，语言为Go，项目描述为“Modern Docker Management, Designed for Everyone”。"
+        "what_happened": "一个名为 uv 的 Python 包和项目管理工具在 GitHub 上趋势飙升，今日获 258 颗星，总星数已达 92253。",
+        "core_details": "uv 是一个用 Rust 编写的极速 Python 包和项目管理器，由 astral-sh 组织开发，核心贡献者包括 charliermarsh 等。",
+        "ai_take": "该项目展示了 Rust 在构建高性能开发者工具方面的优势，其速度特性可能对 AI/ML 项目依赖管理及快速环境搭建有直接价值。",
+        "hype_check": "趋势分高达 81.99，日增星数显著，表明在开发者社区中关注度快速上升，但需观察其生态适配与长期维护。",
+        "value_check": "作为包管理工具，其核心价值在于提升 Python 开发工作流效率，尤其适合需要快速依赖解析与项目初始化的场景。",
+        "follow_up": "关注其与 pip、poetry 等现有工具的兼容性、大型项目实测性能以及 astral-sh 的后续开发路线。",
+        "evidence": "GitHub 仓库描述为“用 Rust 编写的极速 Python 包和项目管理器”，总星数 92253，今日增星 258，语言为 Rust。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
-        "item_name": "alibaba/open-code-review",
-        "content_summary": "阿里巴巴开源了一个名为 open-code-review 的代码审查工具，采用混合架构，结合了确定性流水线和LLM Agent。该工具能提供精确的行级评论，并内置了多语言规则集，用于检测空指针异常、线程安全、XSS和SQL注入等问题。它兼容OpenAI和Anthropic的模型，并声称在阿里巴巴的规模下经过实战检验，具有安全、快速和高效的特点。",
-        "ai_comment": "这是一个由大型科技公司开源的、将传统规则与LLM结合的代码审查工具，反映了AI在提升开发工具智能化方面的趋势，尤其是在企业级安全与效率场景下的应用。"
+        "item_name": "google-research/paper-orchestra",
+        "content_summary": "Google Research 开源了 PaperOrchestra，这是一个用于自动化 AI 研究论文撰写的多智能体框架，使用 Python 语言开发。该项目今日获得 1524 颗星，总星数达 4368。",
+        "ai_comment": "自动化论文写作框架的出现，可能显著改变学术研究的工作流程，但也引发了关于学术原创性和作者责任的讨论。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "NVIDIA/SkillEvaluator",
+        "content_summary": "NVIDIA 开源了 SkillEvaluator，一个用于评估 AI 智能体技能和插件的多层框架。它包含质量门控、语义重叠检测、合成评估数据集生成以及衡量技能如何影响智能体行为的实时评估功能。该项目使用 Python 开发，今日获星 312，总星数 3778。",
+        "ai_comment": "统一的 AI 智能体技能评估框架对于标准化和提升智能体能力至关重要，有助于推动更可靠、可比较的 AI 系统开发。"
       },
       {
         "source_group": "github_trending",
         "item_name": "mvanhorn/last30days-skill",
-        "content_summary": "这是一个AI Agent技能，能够跨Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket和整个网络研究任何主题，然后综合生成一份有依据的摘要。",
-        "ai_comment": "该项目展示了AI Agent在信息聚合与摘要生成方面的能力，旨在帮助用户快速理解特定话题在过去30天内的多平台舆论动态，是AI应用于信息处理的一个实例。"
-      },
-      {
-        "source_group": "github_trending",
-        "item_name": "obra/superpowers",
-        "content_summary": "Superpowers 是一个智能体技能框架和软件开发方法论，旨在让AI Agent具备实际可用的能力。它被描述为一个“有效”的框架。",
-        "ai_comment": "该项目提出了一个构建AI Agent技能的系统化框架，可能旨在解决当前AI Agent开发中的碎片化或效率问题，代表了向更结构化、可复用的Agent开发流程发展的尝试。"
+        "content_summary": "这是一个 AI 智能体技能项目，能够跨 Reddit、X、YouTube、Hacker News、Polymarket 和网络研究任何主题，并综合生成一份有依据的摘要。项目使用 Python，今日获星 1059，总星数高达 70101。",
+        "ai_comment": "跨平台信息聚合与摘要生成技能，体现了 AI 在处理海量、多源信息方面的潜力，对研究和内容消费模式可能产生深远影响。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Mullet: The Skill for Job Security",
-        "content_summary": "Mullet 是一个讽刺性的AI编码技能，其设计目的是让软件尽可能复杂，通过增加层数、间接性和代码行数来实现。它戏谑地回应了AI能快速生成简洁代码的能力，提出应利用AI生成大量复杂代码以“保障工作安全”。Hacker News的评论提到，在智能体开发时代，开发者面临着证明自身价值的压力，CFO希望看到对LLM投资的回报。",
-        "ai_comment": "该项目以幽默的方式讽刺了AI时代软件工程中可能出现的“为复杂而复杂”的倾向，以及开发者面临的职业焦虑。它间接反映了AI工具普及后，对软件开发效率和价值评估的重新思考。"
+        "item_name": "Ask HN: Is Uber Support Dead?",
+        "content_summary": "用户分享其近期在不同城市使用 Uber 时多次遇到问题，但联系客服后，问题被迅速关闭，客服未尝试理解问题或仔细阅读用户消息。用户提供了截图或短信支付确认等证据也未被理会。同一问题多次提交支持请求均未得到妥善解决。用户询问社区其他人的 Uber 客服体验。",
+        "ai_comment": "这反映了大型平台在规模化后可能面临的客户服务质量下降挑战，自动化支持系统与人工理解的平衡是关键。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "AI borrowers pay more for debt as cash burn mounts, yields rise and tech falters",
-        "content_summary": "内容提及“灰天鹅”是可预见但大多数投资者会忽略的风险，并推广了一个名为“Grey Swan Signals”的服务，该服务在一个平台上追踪跨波动性、估值、信贷、流动性和银行健康状况的市场压力。",
-        "ai_comment": "这并非直接关于AI技术，而是提到了AI相关借款方（可能指AI公司）面临借贷成本上升的财务压力，并将其置于一个更广泛的市场风险监测框架下讨论，反映了市场对科技行业，特别是高消耗的AI领域财务健康状况的关注。"
+        "item_name": "Would you use this as the new Conductor Cloud?",
+        "content_summary": "Aether Review 在 Greptile 的 50 个 PR 代码审查基准测试中，检测出了 50 个已知错误中的 42 个。该测试基于 Greptile 公布的规则手动评分，对比了 Greptile、Bugbot、Copilot、CodeRabbit 和 Graphite 等工具。每个审查都是公开的 PR。根据相同方式评分，Greptile 自身捕获了 35 个错误（其页面声称是 41 个）。",
+        "ai_comment": "独立的基准测试结果显示了不同 AI 代码审查工具的性能差异，为开发者选择工具提供了数据参考，也凸显了透明、可复现的评估标准的重要性。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Microsoft disabled API permissions seemingly overnight",
-        "content_summary": "用户报告称，微软似乎在一夜之间禁用了Power Platform API服务主体上的 `Authorization.RoleAssignments.Write` 权限，并将其标记为 `isEnabled: false`。同时，在10月左右添加了一个名为 `Authorization.Write` 的新权限作为替代。用户表示在多个租户中都遇到了此问题，没有收到任何通知，不得不紧急修复服务。",
-        "ai_comment": "这起事件突显了大型云服务商（如微软）对其API进行未经预告的变更可能对依赖其服务的开发者与企业造成的运营中断风险，强调了云服务依赖下的脆弱性和对透明变更沟通的需求。"
+        "item_name": "Hardware attestation push – Windows will soon grade your PC's security",
+        "content_summary": "微软正在推出一项名为“Windows 基线保护”的新功能，计划在 2027 年广泛发布。该功能将 TPM 2.0、安全启动、基于虚拟化的安全、内存完整性等八项现有安全设置整合为一个单一的通过/失败结果。应用程序开发者可以查询此结果，并据此决定是否允许应用运行或仅显示警告。评论指出，这可能影响那些为提升游戏性能而关闭了某些安全设置（如内存完整性）的用户，以及运行 Linux 的双系统用户。",
+        "ai_comment": "微软此举旨在统一和提升 PC 安全基线，但可能引发关于用户控制权、软件兼容性以及对非 Windows 系统影响的争议。"
       },
       {
         "source_group": "news",
-        "item_name": "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns - NBC News",
-        "content_summary": "白宫撤回了对Heidi Overton担任美国食品药品监督管理局（FDA）局长的提名，原因是共和党人提出了担忧，导致参议院共和党人的支持动摇。多家媒体对此进行了报道。",
-        "ai_comment": "这是一则美国政治人事变动新闻，涉及关键监管机构FDA的领导层任命因政治因素受阻。虽然不直接涉及AI，但FDA的决策可能影响医疗AI等领域的监管环境。"
+        "item_name": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+        "content_summary": "BBC 等多家媒体报道，特朗普、习近平和普京预计将在 APEC 会议期间举行历史性会晤。相关报道聚焦于此次三边会晤令美国盟友感到担忧，并探讨特朗普为何视中俄为友。议题可能涉及核武器和两场战争（指当前国际冲突）。",
+        "ai_comment": "若成行，此次大国领导人会晤将对全球地缘政治格局产生重大影响，标志着国际关系可能进入新的调整期。"
       },
       {
         "source_group": "news",
-        "item_name": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News",
-        "content_summary": "美国参议员卢比奥表示，目前“零”信息表明近期发生的一系列美国科技服务中断事件是相互关联的或由恶意行为者造成。他否认美国正遭受“系统性攻击”，并称这些中断事件无关且非敌对行为。",
-        "ai_comment": "这回应了公众对近期多起科技服务中断（可能包括云计算、网络等）是否源于协同网络攻击的担忧，官方表态试图平息猜测，将事件定性为孤立的技术问题而非安全危机。"
+        "item_name": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+        "content_summary": "华盛顿邮报等媒体报道，美国众议院民主党领导人已将特朗普的核心圈子作为首批调查目标。民主党人已向数十名特朗普政府官员和盟友发出信件，要求他们保存记录，为即将展开的广泛调查做准备。",
+        "ai_comment": "这表明美国政治内斗在选举后持续，针对前总统及其团队的调查可能加剧国内政治对立。"
       },
       {
         "source_group": "news",
-        "item_name": "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill",
-        "content_summary": "报道聚焦于美国海军部长提名人Hung Cao在参议院听证会上就海军舰艇食品短缺问题所做的类比遭到参议员Kelly的批评。相关报道还提到，这位特朗普提名的海军部长人选承认伊朗战争正在消耗军事资源，并在听证会上面临严厉质询。",
-        "ai_comment": "这是关于美国军事人事任命听证会的政治新闻，涉及后勤保障和地缘政治冲突对军队的影响。内容本身与AI技术无直接关联，属于常规政治军事报道。"
+        "item_name": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan - The Hill",
+        "content_summary": "国会山报等媒体报道，共和党参议员约翰·科宁（John Cornyn）阻止了特朗普对联邦地区法院一名法官的提名，原因是该提名人选不是德克萨斯州人，违反了该州长期以来的司法提名传统。",
+        "ai_comment": "此事凸显了美国政治中地方传统与总统提名权之间的冲突，即使在同党派内部，也存在基于地域利益的制衡。"
       }
     ],
-    "closing_note": "今日简报揭示了AI技术开源化与工程化的强劲势头。从阿里巴巴的实战级代码审查工具，到谷歌推动的智能体技能标准化，再到各类垂直场景的技能库，社区正合力构建下一代AI应用的开发基石。这些项目的高关注度不仅反映了技术趋势，也预示着AI能力将更快速、更标准化地集成到各类产品与工作流中。值得持续关注的是，这些开源框架和工具在实际生产环境中的采用率、性能表现以及由此催生的新应用范式。明日，我们将继续追踪这些项目的进展与社区反馈。",
+    "closing_note": "总体来看，今日热点反映了AI社区对智能体实用化、标准化及生态互操作性的强烈追求。从自动化研究到技能评估，再到跨平台集成，开源项目正试图构建更模块化、可验证且高效的智能体开发与应用范式。然而，这些工具的长期价值仍取决于其在实际场景中的稳定性、质量以及业界的广泛采纳。开发者需持续关注项目进展与社区反馈，审慎评估其在具体工作流中的适用性。",
     "_errors": []
   }
 }
