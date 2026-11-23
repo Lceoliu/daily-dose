@@ -1,0 +1,1500 @@
+{
+  "generated_at": "2026-11-23T02:13:49.351445+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "author": "obra",
+        "summary": "An agentic skills framework & software development methodology that works.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "Shell",
+        "score": 788,
+        "comment_count": 28759,
+        "total_stars": 324208,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ],
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 788\n\nTotal stars: 324208\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "trend_score": 86.85,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "author": "firecrawl",
+        "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "TypeScript",
+        "score": 915,
+        "comment_count": 10818,
+        "total_stars": 207084,
+        "built_by": [
+          "nickscamara",
+          "mogery",
+          "rafaelsideguide",
+          "abimaelmartell",
+          "claude"
+        ],
+        "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 915\n\nTotal stars: 207084\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+        "trend_score": 85.23,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.957,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "author": "elementalsouls",
+        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "Python",
+        "score": 1716,
+        "comment_count": 1978,
+        "total_stars": 17942,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ],
+        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1716\n\nTotal stars: 17942\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+        "trend_score": 83.36,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.908,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "author": "mvanhorn",
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "Python",
+        "score": 668,
+        "comment_count": 6427,
+        "total_stars": 72786,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ],
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 668\n\nTotal stars: 72786\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+        "trend_score": 83.36,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.908,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "author": "HKUDS",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "Python",
+        "score": 699,
+        "comment_count": 5702,
+        "total_stars": 62827,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ],
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 699\n\nTotal stars: 62827\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 83.24,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.905,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "author": "jingyaogong",
+        "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "Python",
+        "score": 473,
+        "comment_count": 8983,
+        "total_stars": 68731,
+        "built_by": [
+          "jingyaogong",
+          "iomgaa-ycz",
+          "Linxiushen",
+          "basil-k-aji-dev",
+          "readlnh"
+        ],
+        "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 473\n\nTotal stars: 68731\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+        "trend_score": 83.17,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.903,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "author": "cathrynlavery",
+        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "HTML",
+        "score": 518,
+        "comment_count": 4716,
+        "total_stars": 70343,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "rudycelekli",
+          "claude",
+          "mvanhorn"
+        ],
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 518\n\nTotal stars: 70343\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, claude, mvanhorn",
+        "trend_score": 82.08,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.875,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nginx/nginx",
+        "url": "https://github.com/nginx/nginx",
+        "author": "nginx",
+        "summary": "The official NGINX Open Source repository.",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "C",
+        "score": 163,
+        "comment_count": 8381,
+        "total_stars": 32895,
+        "built_by": [
+          "mdounin",
+          "arut",
+          "vl-homutov",
+          "VBart",
+          "pluknet"
+        ],
+        "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 163\n\nTotal stars: 32895\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+        "trend_score": 80.32,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.828,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "author": "cursor",
+        "summary": "Cursor plugin specification and official plugins",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "TypeScript",
+        "score": 294,
+        "comment_count": 2010,
+        "total_stars": 18476,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "djiang-jq",
+          "minupalaniappan",
+          "ericzakariasson"
+        ],
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 294\n\nTotal stars: 18476\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 78.9,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.791,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "author": "openvinotoolkit",
+        "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "published_at": "2026-11-23T02:13:44.051585+00:00",
+        "language": "C++",
+        "score": 158,
+        "comment_count": 3659,
+        "total_stars": 12101,
+        "built_by": [
+          "ilya-lavrenov",
+          "rkazants",
+          "ilyachur",
+          "mvafin",
+          "dependabot"
+        ],
+        "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 158\n\nTotal stars: 12101\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+        "trend_score": 78.55,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.782,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
+        "url": "https://github.com/njgreb/n64fireplace",
+        "author": "gweedo767",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-23T01:52:12+00:00",
+        "summary": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.",
+        "comment_highlights": [
+          "[flagged]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/njgreb/n64fireplace",
+          "page_title": "GitHub - njgreb/n64fireplace: Cozy N64 Fireplace",
+          "page_description": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.",
+          "page_excerpt": "A cozy low-poly 3D Nintendo 64 fireplace screensaver designed for a real CRT TV and stock 4MB N64 (auto-detects NTSC 60Hz & PAL 50Hz via libdragon ).\n\nJust want to play it? Grab the ready-to-run hearth64.z64 ROM from the Latest Release and copy it onto your EverDrive-64, SummerCart64, or open it in ares !\n\nCopy hearth64.z64 onto your EverDrive-64 , SummerCart64 , or other N64 flashcart SD card and boot it on any stock 4MB NTSC or PAL Nintendo 64!"
+        },
+        "content_context": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.\n\nA cozy low-poly 3D Nintendo 64 fireplace screensaver designed for a real CRT TV and stock 4MB N64 (auto-detects NTSC 60Hz & PAL 50Hz via libdragon ). Just want to play it? Grab the ready-to-run hearth64.z64 ROM from the Latest Release and copy it onto your EverDrive-64, SummerCart64, or open it in ares ! Copy hearth64.z64 onto your EverDrive-64 , SummerCart64 , or other N64 flashcart SD card and boot it on any stock 4MB NTSC or PAL Nintendo 64!\n\nHN comment: [flagged]",
+        "trend_score": 52.18,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.074,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Treemap of the Riemann Hypothesis Lean Proof",
+        "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+        "author": "pengowray",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-23T01:50:23+00:00",
+        "summary": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+          "page_title": "The Lean proof of the Riemann Hypothesis: a treemap",
+          "page_description": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.",
+          "page_excerpt": "On 20 November 2026 Levent Alpöge released a Lean 4 formalization, written with Claude, that states and proves the Riemann Hypothesis and its generalization to Dirichlet L -functions. The source is 175,187 modules (a module is one .lean file). This page shows what is in them.\n\nThese two files are the whole claim. Statements.lean defines four propositions. Main.lean proves them, and Mathlib's own RiemannHypothesis , by citing theorems from the other 175,185 modules. Point at a symbol to see how to say it and what type it has.\n\nIn words: every zero of the Riemann zeta function, other than the trivial zeros −2, −4, −6, … , has real part ½. For every Dirichlet character χ, every zero of L ( s , χ) with real part strictly between 0 and 1 has real part ½."
+        },
+        "content_context": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.\n\nOn 20 November 2026 Levent Alpöge released a Lean 4 formalization, written with Claude, that states and proves the Riemann Hypothesis and its generalization to Dirichlet L -functions. The source is 175,187 modules (a module is one .lean file). This page shows what is in them. These two files are the whole claim. Statements.lean defines four propositions. Main.lean proves them, and Mathlib's own RiemannHypothesis , by citing theorems from the other 175,185 modules. Point at a symbol to see how to say it and what type it has. In words: every zero of the Riemann zeta function, other than the trivial zeros −2, −4, −6, … , has real part ½. For every Dirichlet character χ, every zero of L ( s , χ) with real part strictly between 0 and 1 has real part ½.",
+        "trend_score": 50.47,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.093,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "No more asteroid landing:Engine trouble forces Japan's Hayabusa2 to change plans",
+        "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+        "author": "bookofjoe",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:00:36+00:00",
+        "summary": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+          "page_title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
+          "page_description": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
+          "page_excerpt": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works .\n\nJapan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 mission, due to the spacecraft suffering trouble with its ion thrusters."
+        },
+        "content_context": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.\n\nJAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . Japan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 mission, due to the spacecraft suffering trouble with its ion thrusters.",
+        "trend_score": 45.2,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.047,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Appeal court says accommodations law for pregnant workers unconstitutional",
+        "url": "https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd",
+        "author": "randycupertino",
+        "score": 3,
+        "comment_count": 2,
+        "published_at": "2026-11-23T01:50:57+00:00",
+        "summary": "Right wing ideologues without judicial temperament.",
+        "comment_highlights": [
+          "Right wing ideologues without judicial temperament.",
+          "… aaaaaaand it's the Fifth Circuit."
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: Right wing ideologues without judicial temperament.\n\nHN comment: … aaaaaaand it's the Fifth Circuit.",
+        "trend_score": 44.65,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.152,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: SaaSStatsHub Signals – find website ideas from rising search trends",
+        "url": "https://signals.saasstatshub.com/",
+        "author": "saasstatshub",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T01:57:14+00:00",
+        "summary": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://signals.saasstatshub.com/",
+          "page_title": "SaaSStatsHub Signals — Find Website Opportunities from Global Search Trends",
+          "page_description": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.",
+          "page_excerpt": "Every day we scan Hacker News , GitHub , and Google Trends for keywords that are gaining traction — then tell you what kind of website, app, or content you could build around them.\n\nHourly scans of where developers and entrepreneurs are talking — so you don't have to refresh five different sites every day.\n\nA 0-100 score tells you which keywords are actually worth paying attention to — not just one-day hype."
+        },
+        "content_context": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.\n\nEvery day we scan Hacker News , GitHub , and Google Trends for keywords that are gaining traction — then tell you what kind of website, app, or content you could build around them. Hourly scans of where developers and entrepreneurs are talking — so you don't have to refresh five different sites every day. A 0-100 score tells you which keywords are actually worth paying attention to — not just one-day hype.",
+        "trend_score": 43.5,
+        "trend_breakdown": {
+          "freshness": 0.988,
+          "engagement": 0.047,
+          "topic_overlap": 0.111,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "James \"Kibo\" Parry",
+        "url": "https://en.wikipedia.org/wiki/James_%22Kibo%22_Parry",
+        "author": "guerrilla",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:12:43+00:00",
+        "summary": "James Parry (born July 13, 1967), commonly known by his nickname and username Kibo / ˈ k aɪ b oʊ / , [ 1 ] is a Usenetter [ 2 ] known for his sense of humor , various surrealist net pranks, [ 3 ] an absurdly long signature , [ 4 ] and a machine-assisted knack for \"kibozing\": joining any thread in which \"kibo\" was mentioned. [ 5 ] His exploits have earned him a multitude of enthusiasts, who cele...\n\nJames Parry grew up and lived in Scotia, New York . [ 6 ] He showed early computing skills, such as being able to open up and reprogram ROM video game cartridges such as those for the Atari 2600 , but was more interested in graphics and artistic pursuits. [ citation needed ] In this vein, he was initially a computer engineering major at Rensselaer Polytechnic Institute (RPI) in Troy, New York ,...\n\nIn the early 1990s, as public awareness grew of the Internet and Usenet, Parry received publicity, including a cover story in Wired magazine and mentions in Playboy and The Times . [ 8 ] He bec...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://en.wikipedia.org/wiki/James_%22Kibo%22_Parry",
+          "page_title": "James \"Kibo\" Parry - Wikipedia",
+          "page_description": null,
+          "page_excerpt": "James Parry (born July 13, 1967), commonly known by his nickname and username Kibo / ˈ k aɪ b oʊ / , [ 1 ] is a Usenetter [ 2 ] known for his sense of humor , various surrealist net pranks, [ 3 ] an absurdly long signature , [ 4 ] and a machine-assisted knack for \"kibozing\": joining any thread in which \"kibo\" was mentioned. [ 5 ] His exploits have earned him a multitude of enthusiasts, who cele...\n\nJames Parry grew up and lived in Scotia, New York . [ 6 ] He showed early computing skills, such as being able to open up and reprogram ROM video game cartridges such as those for the Atari 2600 , but was more interested in graphics and artistic pursuits. [ citation needed ] In this vein, he was initially a computer engineering major at Rensselaer Polytechnic Institute (RPI) in Troy, New York ,...\n\nIn the early 1990s, as public awareness grew of the Internet and Usenet, Parry received publicity, including a cover story in Wired magazine and mentions in Playboy and The Times . [ 8 ] He bec..."
+        },
+        "content_context": "James Parry (born July 13, 1967), commonly known by his nickname and username Kibo / ˈ k aɪ b oʊ / , [ 1 ] is a Usenetter [ 2 ] known for his sense of humor , various surrealist net pranks, [ 3 ] an absurdly long signature , [ 4 ] and a machine-assisted knack for \"kibozing\": joining any thread in which \"kibo\" was mentioned. [ 5 ] His exploits have earned him a multitude of enthusiasts, who cele... James Parry grew up and lived in Scotia, New York . [ 6 ] He showed early computing skills, such as being able to open up and reprogram ROM video game cartridges such as those for the Atari 2600 , but was more interested in graphics and artistic pursuits. [ citation needed ] In this vein, he was initially a computer engineering major at Rensselaer Polytechnic Institute (RPI) in Troy, New York ,... In the early 1990s, as public awareness grew of the Internet and Usenet, Parry received publicity, including a cover story in Wired magazine and mentions in Playboy and The Times . [ 8 ] He bec...",
+        "trend_score": 41.94,
+        "trend_breakdown": {
+          "freshness": 0.999,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+        "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+        "author": "RA_Fisher",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:10:39+00:00",
+        "summary": "Econometric analysis and revenue intelligence for public companies.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+          "page_title": "Christopher Peters Consulting",
+          "page_description": "Econometric analysis and revenue intelligence for public companies.",
+          "page_excerpt": "In a previous post , we showed that Bayesian hierarchical models (BHMs) win when group structure is describable, Bayesian neural networks (BNNs) win when the signal is complex, and their ensemble hedges across both scenarios.\n\nBut what about the case where your data has both — known group structure and complex nonlinear signal? Neither the BHM nor the BNN is ideal:\n\nEnter the hierarchical Bayesian neural network (HBNN) — a model that combines partial pooling over groups with a flexible neural network function class. This post adds the HBNN to our comparison and shows when each of the four approaches excels."
+        },
+        "content_context": "Econometric analysis and revenue intelligence for public companies.\n\nIn a previous post , we showed that Bayesian hierarchical models (BHMs) win when group structure is describable, Bayesian neural networks (BNNs) win when the signal is complex, and their ensemble hedges across both scenarios. But what about the case where your data has both — known group structure and complex nonlinear signal? Neither the BHM nor the BNN is ideal: Enter the hierarchical Bayesian neural network (HBNN) — a model that combines partial pooling over groups with a flexible neural network function class. This post adds the HBNN to our comparison and shows when each of the four approaches excels.",
+        "trend_score": 41.88,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Jack Dorsey's Block Cuts 4k Jobs",
+        "url": "https://bsc.news/post/block-cuts-4000-jobs",
+        "author": "wyclif",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:06:29+00:00",
+        "summary": "Block cuts 4,000 jobs despite strong earnings, citing AI-driven restructuring, over-hiring during COVID, and higher gross profit per employee targets.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://bsc.news/post/block-cuts-4000-jobs",
+          "page_title": "Jack Dorsey’s Block Cuts 4,000 Jobs: Why Is the Company Reducing Staff Despite Strong Earnings?",
+          "page_description": "Block cuts 4,000 jobs despite strong earnings, citing AI-driven restructuring, over-hiring during COVID, and higher gross profit per employee targets.",
+          "page_excerpt": "Block cuts 4,000 jobs despite strong earnings, citing AI-driven restructuring, over-hiring during COVID, and higher gross profit per employee targets.\n\nBlock, Inc. said on February 26, 2026, that it will reduce its workforce by more than 4,000 employees, lowering headcount from over 10,000 to just under 6,000. The decision affects over 40% of staff and marks the company’s largest restructuring to date.\n\nChief Executive Officer Jack Dorsey described the move in a public post on X as one of the hardest decisions in the company's history."
+        },
+        "content_context": "Block cuts 4,000 jobs despite strong earnings, citing AI-driven restructuring, over-hiring during COVID, and higher gross profit per employee targets.\n\nBlock cuts 4,000 jobs despite strong earnings, citing AI-driven restructuring, over-hiring during COVID, and higher gross profit per employee targets. Block, Inc. said on February 26, 2026, that it will reduce its workforce by more than 4,000 employees, lowering headcount from over 10,000 to just under 6,000. The decision affects over 40% of staff and marks the company’s largest restructuring to date. Chief Executive Officer Jack Dorsey described the move in a public post on X as one of the hardest decisions in the company's history.",
+        "trend_score": 41.76,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Becoming a Magician",
+        "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+        "author": "robertvc",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:04:25+00:00",
+        "summary": "When I was a teenager I often used fantasy as a vehicle for escapism. Some people, when they fantasise, think about sex or dragons or wildly unlikely events like winning the lottery. I fantasised a…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+          "page_title": "Becoming a magician",
+          "page_description": "When I was a teenager I often used fantasy as a vehicle for escapism. Some people, when they fantasise, think about sex or dragons or wildly unlikely events like winning the lottery. I fantasised a…",
+          "page_excerpt": null
+        },
+        "content_context": "When I was a teenager I often used fantasy as a vehicle for escapism. Some people, when they fantasise, think about sex or dragons or wildly unlikely events like winning the lottery. I fantasised a…",
+        "trend_score": 41.7,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "The Sea of Pink Flamingos",
+        "url": "https://www.safari.co.za/Kenya_Safari_Guide-travel/nakuru-and-natron-the-pink-seas.html",
+        "author": "thunderbong",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-23T02:01:51+00:00",
+        "summary": "It’s a wondrous sight – at least a million Flamingos gathered together to create the surging ‘pink seas’ of the Great Rift Valley. Lake Nakuru and Lake Natron are members of an exclusive group of soda lakes that",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.safari.co.za/Kenya_Safari_Guide-travel/nakuru-and-natron-the-pink-seas.html",
+          "page_title": "Kenya Bird Guide - Nakuru and Natron - The Pink Seas",
+          "page_description": "It’s a wondrous sight – at least a million Flamingos gathered together to create the surging ‘pink seas’ of the Great Rift Valley. Lake Nakuru and Lake Natron are members of an exclusive group of soda lakes that",
+          "page_excerpt": "It's a wondrous sight - at least a million Flamingos gathered together to create the surging ï¿½pink seas' of the Great Rift Valley. Lake Nakuru and Lake Natron are members of an exclusive group of soda lakes in East Africa.\n\nIncredible numbers of Flamingos favour the alkaline waters of Lake Nakuru in Kenya and Lake Natron in Northern Tanzania. It is a wonder that these lakes support any life at all because of the very high salt content, but it's the ideal environment for Flamingos and a surprising range of species.\n\nIn the case of Lake Natron, the waters are boiling hot and caustic, which is sure to peel the skin off most creatures and many animals wouldn't dare enter."
+        },
+        "content_context": "It’s a wondrous sight – at least a million Flamingos gathered together to create the surging ‘pink seas’ of the Great Rift Valley. Lake Nakuru and Lake Natron are members of an exclusive group of soda lakes that\n\nIt's a wondrous sight - at least a million Flamingos gathered together to create the surging ï¿½pink seas' of the Great Rift Valley. Lake Nakuru and Lake Natron are members of an exclusive group of soda lakes in East Africa. Incredible numbers of Flamingos favour the alkaline waters of Lake Nakuru in Kenya and Lake Natron in Northern Tanzania. It is a wonder that these lakes support any life at all because of the very high salt content, but it's the ideal environment for Flamingos and a surprising range of species. In the case of Lake Natron, the waters are boiling hot and caustic, which is sure to peel the skin off most creatures and many animals wouldn't dare enter.",
+        "trend_score": 41.63,
+        "trend_breakdown": {
+          "freshness": 0.992,
+          "engagement": 0.047,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzR0dnZyLW9HRHU3cWtBNlhmakg1NGR4UEx6b3dKNHBnVVMwX1VtQjVITG9oa1Q5ZWdSV0RlOGRMVVlicHFjX0xRTHdOUGlDdVdVSzd0MTRndjQ2RjA3NkIzQzF5VzNuQ1Y3VEZSX2lqMGc0TVlwQjY0eUxtWWd2dmQ4YS0?oc=5",
+        "published_at": "2026-11-23T00:27:25+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego；El-Sayed is open to keeping private insurance under Medicare for All；Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care。",
+        "related_headlines": [
+          "With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego",
+          "El-Sayed is open to keeping private insurance under Medicare for All",
+          "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care",
+          "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+          "El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’"
+        ],
+        "content_context": "With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego；El-Sayed is open to keeping private insurance under Medicare for All；Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care。\n\nRelated coverage: With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego\n\nRelated coverage: El-Sayed is open to keeping private insurance under Medicare for All\n\nRelated coverage: Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care\n\nRelated coverage: Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’\n\nRelated coverage: El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’",
+        "trend_score": 40.45,
+        "trend_breakdown": {
+          "freshness": 0.926,
+          "engagement": 0.0,
+          "topic_overlap": 0.444,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "DW.com",
+        "category": "news",
+        "title": "Libya: Suspected drone attack hits Russian ship in Benghazi - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Cc0JRSzFKT2dJZlgwcWtvZHl6dzd0Y0wwMUpsMVduakpKbHFpTjJlOHl6NWNaRjB5WFBJbzVUQWlCSU43eS1ib1F2d1QybFVCVmZnV1hnZGYybWN2Y0FWVk45OVVnRmRxZDZpaWNkWEN6MDNW0gF0QVVfeXFMTlA2eU9QVWdacHN6UUEzNWJYX2l0d3NxdTlpZVdVVTdhWTQ1bEhxWTh2VS1LdGExZUFDb21xWUV3Z0JUcGY0SXZVYmN6ZlJZRzVKOGhtenFnZHBZMTZvdFplV3dadTRmT0I1NGZTbDdjcDJNc1c?oc=5",
+        "published_at": "2026-11-22T23:03:52+00:00",
+        "summary": "DW.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Libya: Suspected drone attack hits Russian ship in Benghazi；Two Russian Ships Attacked Far From Ukraine；Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea。",
+        "related_headlines": [
+          "Libya: Suspected drone attack hits Russian ship in Benghazi",
+          "Two Russian Ships Attacked Far From Ukraine",
+          "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+          "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "Russian Warship Explosion in Libya Destroys Corvette Merkury"
+        ],
+        "content_context": "Libya: Suspected drone attack hits Russian ship in Benghazi - DW.com\n\nDW.com 头条聚焦该事件，Google News 同时聚合到这些相关表述：Libya: Suspected drone attack hits Russian ship in Benghazi；Two Russian Ships Attacked Far From Ukraine；Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea。\n\nRelated coverage: Libya: Suspected drone attack hits Russian ship in Benghazi\n\nRelated coverage: Two Russian Ships Attacked Far From Ukraine\n\nRelated coverage: Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea\n\nRelated coverage: Russian warship sinks in Benghazi after suspected Ukrainian drone attack\n\nRelated coverage: Russian Warship Explosion in Libya Destroys Corvette Merkury",
+        "trend_score": 31.25,
+        "trend_breakdown": {
+          "freshness": 0.868,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "New York Post",
+        "category": "news",
+        "title": "Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHRNUWtqWXhKbGxBajNFRURkQlFvYjkwd2pqa2pWWGNpenBnSzlmQkRoLV9BeEx5dDVrdkdlZTJOMmJ5c2gteTJja0VINFZJb3pLX2Nka3lYRksteVM1amZURmEwdWo2MkVwbmNWU04yQ1hXa1pqbmItUXk5NFA1bmJOMU1iTGFnSlhLV1AtLWx3X2FFZ1VIOEJhaER1bnFIS0wzSnhEMkdCdjNMY2poTU1KVUU?oc=5",
+        "published_at": "2026-11-22T19:28:00+00:00",
+        "summary": "New York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast；Thanksgiving travel forecast 2026: storms on both coasts；Storms expected on both coasts threaten Thanksgiving travel。",
+        "related_headlines": [
+          "Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast",
+          "Thanksgiving travel forecast 2026: storms on both coasts",
+          "Storms expected on both coasts threaten Thanksgiving travel",
+          "Seattle forecast: Thanksgiving week serves up storms, coastal flooding",
+          "Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays"
+        ],
+        "content_context": "Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast - New York Post\n\nNew York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast；Thanksgiving travel forecast 2026: storms on both coasts；Storms expected on both coasts threaten Thanksgiving travel。\n\nRelated coverage: Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast\n\nRelated coverage: Thanksgiving travel forecast 2026: storms on both coasts\n\nRelated coverage: Storms expected on both coasts threaten Thanksgiving travel\n\nRelated coverage: Seattle forecast: Thanksgiving week serves up storms, coastal flooding\n\nRelated coverage: Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays",
+        "trend_score": 31.19,
+        "trend_breakdown": {
+          "freshness": 0.718,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "category": "news",
+        "title": "West Coast bracing for more coastal flooding as Thanksgiving travel week begins - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV95cUxQaktNalpqQ2xmYkJYZEl4a205NTRING51eHpsQ0J5ZGsxamZSTGJkVk8wb1c2TGltSUZTbVctenEwLXlpeXJTNmNWWklqa25DTzQ3SzBTY2ZjTHgxVmZRMnZrOWhQNXkxMll5UnZhYVc0Qkx2TnpybDFlblptMlhHNFBjM0dhVXpiOE5TUWtvdXBRdTU0NzNHSzk5emZTeERvNUszd3QxMmlhdw?oc=5",
+        "published_at": "2026-11-22T18:47:15+00:00",
+        "summary": "ABC News - Breaking News, Latest News and Videos 头条聚焦该事件，Google News 同时聚合到这些相关表述：West Coast bracing for more coastal flooding as Thanksgiving travel week begins；Bay Area airports, coast under extreme flood threat; residents told to avoid travel；San Francisco braces for massive tides. Mayor urges residents to reconsider travel。",
+        "related_headlines": [
+          "West Coast bracing for more coastal flooding as Thanksgiving travel week begins",
+          "Bay Area airports, coast under extreme flood threat; residents told to avoid travel",
+          "San Francisco braces for massive tides. Mayor urges residents to reconsider travel",
+          "California prepares for flooding, rain and wind as Thanksgiving approaches",
+          "NorCal towns urged to evacuate as dangerous 'tidal anomaly' builds through Thanksgiving"
+        ],
+        "content_context": "West Coast bracing for more coastal flooding as Thanksgiving travel week begins - ABC News - Breaking News, Latest News and Videos\n\nABC News - Breaking News, Latest News and Videos 头条聚焦该事件，Google News 同时聚合到这些相关表述：West Coast bracing for more coastal flooding as Thanksgiving travel week begins；Bay Area airports, coast under extreme flood threat; residents told to avoid travel；San Francisco braces for massive tides. Mayor urges residents to reconsider travel。\n\nRelated coverage: West Coast bracing for more coastal flooding as Thanksgiving travel week begins\n\nRelated coverage: Bay Area airports, coast under extreme flood threat; residents told to avoid travel\n\nRelated coverage: San Francisco braces for massive tides. Mayor urges residents to reconsider travel\n\nRelated coverage: California prepares for flooding, rain and wind as Thanksgiving approaches\n\nRelated coverage: NorCal towns urged to evacuate as dangerous 'tidal anomaly' builds through Thanksgiving",
+        "trend_score": 29.1,
+        "trend_breakdown": {
+          "freshness": 0.69,
+          "engagement": 0.0,
+          "topic_overlap": 0.267,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "PBS",
+        "category": "news",
+        "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5",
+        "published_at": "2026-11-22T20:18:46+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa；Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday；US army to blow up bomb-making chemicals despite safety concerns。",
+        "related_headlines": [
+          "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+          "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
+          "US army to blow up bomb-making chemicals despite safety concerns",
+          "Army plans to detonate toxic explosives in Iowa by Tuesday without EPA permit",
+          "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa"
+        ],
+        "content_context": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa；Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday；US army to blow up bomb-making chemicals despite safety concerns。\n\nRelated coverage: U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa\n\nRelated coverage: Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday\n\nRelated coverage: US army to blow up bomb-making chemicals despite safety concerns\n\nRelated coverage: Army plans to detonate toxic explosives in Iowa by Tuesday without EPA permit\n\nRelated coverage: The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
+        "trend_score": 28.58,
+        "trend_breakdown": {
+          "freshness": 0.753,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
+        "published_at": "2026-11-22T18:20:39+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels；Global climate summit collapses as countries fail to agree on moving away from fossil fuels；COP31 climate talks fail to reach deal amid fossil fuel and money rows。",
+        "related_headlines": [
+          "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+          "Global climate summit collapses as countries fail to agree on moving away from fossil fuels",
+          "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
+          "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+          "The World’s Biggest Climate Conference Just Fell Apart"
+        ],
+        "content_context": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels；Global climate summit collapses as countries fail to agree on moving away from fossil fuels；COP31 climate talks fail to reach deal amid fossil fuel and money rows。\n\nRelated coverage: COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels\n\nRelated coverage: Global climate summit collapses as countries fail to agree on moving away from fossil fuels\n\nRelated coverage: COP31 climate talks fail to reach deal amid fossil fuel and money rows\n\nRelated coverage: Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone\n\nRelated coverage: The World’s Biggest Climate Conference Just Fell Apart",
+        "trend_score": 28.53,
+        "trend_breakdown": {
+          "freshness": 0.671,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5",
+        "published_at": "2026-11-22T19:48:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race；Democrats Clinch 258 House Seats, an Election-Year Record This Century；Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race。",
+        "related_headlines": [
+          "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race",
+          "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+          "Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century",
+          "Rep. Virginia Foxx loses reelection bid after 11 terms"
+        ],
+        "content_context": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race；Democrats Clinch 258 House Seats, an Election-Year Record This Century；Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race。\n\nRelated coverage: Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race\n\nRelated coverage: Democrats Clinch 258 House Seats, an Election-Year Record This Century\n\nRelated coverage: Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race\n\nRelated coverage: Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century\n\nRelated coverage: Rep. Virginia Foxx loses reelection bid after 11 terms",
+        "trend_score": 28.49,
+        "trend_breakdown": {
+          "freshness": 0.732,
+          "engagement": 0.0,
+          "topic_overlap": 0.133,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Al Jazeera",
+        "category": "news",
+        "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWR6SjhFdDFjUnhYNHNOUTc1X2xFNDJJQngxNHNQYkd0T1JObUtQRFBxNHA5QTNVY2w0OUY5V2xwSm5ZTmVaU0hsUHJTT1dsQS1hWGN1S1RIRUtnTXU5LXNINjJKX2gxN3ZQZmZ4dHYxTUtBbk5ob2wzWmNub0RsTG16YU5tYUZ1NlhyMFNkeEtMT1BhSEpiZ2lCZ05aWXVnak92RGxHUWtpVHNqcS1xZ3BR0gG3AUFVX3lxTFAwNUJ4d0hNWGZHX1hVZmZnUXQ0LTNGZjFId2FpZ2lnc0Zqa3B1RUVkQjhQTDM1WV9JTUUybDFISTZHZ1IweVRnbzAxQzNkRWhlYmFFMGpENVh0b21ESld4MHFyTmVpVXdNTms3Rnpzak1rcGNsZWEzZDhsUk9lMjVVUHk2MDhjM0Y5cjdBcmNzYXQwR2tickV3SW9RaFhQS3lZQTlSTnBuMHJvTG5ETmxDRUtJX2wxaw?oc=5",
+        "published_at": "2026-11-22T19:13:40+00:00",
+        "summary": "Al Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport；ICE 'out of control' in dramatic SEA arrest caught on camera, governor says；Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism。",
+        "related_headlines": [
+          "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+          "ICE 'out of control' in dramatic SEA arrest caught on camera, governor says",
+          "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+          "ICE says woman arrested at SEA threw hot coffee at officers, overstayed her visa",
+          "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport"
+        ],
+        "content_context": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport - Al Jazeera\n\nAl Jazeera 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport；ICE 'out of control' in dramatic SEA arrest caught on camera, governor says；Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism。\n\nRelated coverage: ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport\n\nRelated coverage: ICE 'out of control' in dramatic SEA arrest caught on camera, governor says\n\nRelated coverage: Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism\n\nRelated coverage: ICE says woman arrested at SEA threw hot coffee at officers, overstayed her visa\n\nRelated coverage: ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
+        "trend_score": 25.5,
+        "trend_breakdown": {
+          "freshness": 0.708,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "American bishops plan for ‘groundswell’ of political action for AI regulation - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0daNjJ4MTZuYzRVRVdvbjBCeThWSkJ5VlotenFObGMxU0RzUlZFeDMzNHVRWGRRVUw1YW1JZW1FcUlkVFhERHNKSWtTcUQxZk1lbkllMjJzSFJzeWVFamlSQWc5MG9nMjhsVnQySDB0WE1jOHhfZDZYVndkYjk0cmR5dGctVjJZdVN6aUxzcTJZQQ?oc=5",
+        "published_at": "2026-11-22T19:00:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：American bishops plan for ‘groundswell’ of political action for AI regulation；Few signs of life at bishops' conference；US bishops revamp their investment guidelines to address AI, private prisons, crypto。",
+        "related_headlines": [
+          "American bishops plan for ‘groundswell’ of political action for AI regulation",
+          "Few signs of life at bishops' conference",
+          "US bishops revamp their investment guidelines to address AI, private prisons, crypto",
+          "Bishops Discuss AI, Immigration, Vote on Cause for PA Teen, Day of Prayer for Racial Justice, New Lectionary",
+          "US bishops launch work on Church’s ‘construction sites’ of hope for the human family"
+        ],
+        "content_context": "American bishops plan for ‘groundswell’ of political action for AI regulation - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：American bishops plan for ‘groundswell’ of political action for AI regulation；Few signs of life at bishops' conference；US bishops revamp their investment guidelines to address AI, private prisons, crypto。\n\nRelated coverage: American bishops plan for ‘groundswell’ of political action for AI regulation\n\nRelated coverage: Few signs of life at bishops' conference\n\nRelated coverage: US bishops revamp their investment guidelines to address AI, private prisons, crypto\n\nRelated coverage: Bishops Discuss AI, Immigration, Vote on Cause for PA Teen, Day of Prayer for Racial Justice, New Lectionary\n\nRelated coverage: US bishops launch work on Church’s ‘construction sites’ of hope for the human family",
+        "trend_score": 25.15,
+        "trend_breakdown": {
+          "freshness": 0.699,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WBRC 6 News",
+        "category": "news",
+        "title": "Reported pipeline explosion in Sumter County seen from miles away - WBRC 6 News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkhxSEdMVFlDRWlvYzNDWnJfaEh6OXpWTUlBb2RLaGRScGVFT3k3enk2Sjc1MXRYdl9SanVjTTBPYmlqQk1QU0RHZ2ZmVnFNM1hYNmhvUkUwb1NIUlByMGRwYW5uQmUwWXF2ZllyV3VBajhIZmVoSnQ2ZHlwaklFSGFrR2NjeDNVWTFFSnNBbE9mX3JL?oc=5",
+        "published_at": "2026-11-22T13:22:00+00:00",
+        "summary": "WBRC 6 News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Reported pipeline explosion in Sumter County seen from miles away；West Alabama gas pipeline explosion: Mayor urges calm after blast visible for miles；Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no injuries reported, operator says。",
+        "related_headlines": [
+          "Reported pipeline explosion in Sumter County seen from miles away",
+          "West Alabama gas pipeline explosion: Mayor urges calm after blast visible for miles",
+          "Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no injuries reported, operator says",
+          "Major Gas Pipeline Explosion in Alabama Shown in Photos, Videos",
+          "Explosion Reported at Pipeline in Alabama"
+        ],
+        "content_context": "Reported pipeline explosion in Sumter County seen from miles away - WBRC 6 News\n\nWBRC 6 News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Reported pipeline explosion in Sumter County seen from miles away；West Alabama gas pipeline explosion: Mayor urges calm after blast visible for miles；Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no injuries reported, operator says。\n\nRelated coverage: Reported pipeline explosion in Sumter County seen from miles away\n\nRelated coverage: West Alabama gas pipeline explosion: Mayor urges calm after blast visible for miles\n\nRelated coverage: Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no injuries reported, operator says\n\nRelated coverage: Major Gas Pipeline Explosion in Alabama Shown in Photos, Videos\n\nRelated coverage: Explosion Reported at Pipeline in Alabama",
+        "trend_score": 18.3,
+        "trend_breakdown": {
+          "freshness": 0.464,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "obra",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "Shell",
+      "score": 788,
+      "comment_count": 28759,
+      "total_stars": 324208,
+      "built_by": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ],
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 788\n\nTotal stars: 324208\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "trend_score": 86.85,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "TypeScript",
+      "score": 915,
+      "comment_count": 10818,
+      "total_stars": 207084,
+      "built_by": [
+        "nickscamara",
+        "mogery",
+        "rafaelsideguide",
+        "abimaelmartell",
+        "claude"
+      ],
+      "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 915\n\nTotal stars: 207084\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+      "trend_score": 85.23,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.957,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "author": "elementalsouls",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "Python",
+      "score": 1716,
+      "comment_count": 1978,
+      "total_stars": 17942,
+      "built_by": [
+        "claude",
+        "injectifytest",
+        "elementalsouls",
+        "github-actions",
+        "rudycelekli"
+      ],
+      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1716\n\nTotal stars: 17942\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+      "trend_score": 83.36,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.908,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "author": "mvanhorn",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "Python",
+      "score": 668,
+      "comment_count": 6427,
+      "total_stars": 72786,
+      "built_by": [
+        "mvanhorn",
+        "claude",
+        "tmchow",
+        "iliaal",
+        "dependabot"
+      ],
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 668\n\nTotal stars: 72786\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+      "trend_score": 83.36,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.908,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "author": "HKUDS",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "Python",
+      "score": 699,
+      "comment_count": 5702,
+      "total_stars": 62827,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ],
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 699\n\nTotal stars: 62827\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 83.24,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.905,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "author": "jingyaogong",
+      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "Python",
+      "score": 473,
+      "comment_count": 8983,
+      "total_stars": 68731,
+      "built_by": [
+        "jingyaogong",
+        "iomgaa-ycz",
+        "Linxiushen",
+        "basil-k-aji-dev",
+        "readlnh"
+      ],
+      "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 473\n\nTotal stars: 68731\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+      "trend_score": 83.17,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.903,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "author": "cathrynlavery",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "HTML",
+      "score": 518,
+      "comment_count": 4716,
+      "total_stars": 70343,
+      "built_by": [
+        "cathrynlavery",
+        "github-actions",
+        "rudycelekli",
+        "claude",
+        "mvanhorn"
+      ],
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 518\n\nTotal stars: 70343\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, claude, mvanhorn",
+      "trend_score": 82.08,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.875,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "author": "nginx",
+      "summary": "The official NGINX Open Source repository.",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "C",
+      "score": 163,
+      "comment_count": 8381,
+      "total_stars": 32895,
+      "built_by": [
+        "mdounin",
+        "arut",
+        "vl-homutov",
+        "VBart",
+        "pluknet"
+      ],
+      "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 163\n\nTotal stars: 32895\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+      "trend_score": 80.32,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.828,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "author": "cursor",
+      "summary": "Cursor plugin specification and official plugins",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "TypeScript",
+      "score": 294,
+      "comment_count": 2010,
+      "total_stars": 18476,
+      "built_by": [
+        "cursoragent",
+        "poteto",
+        "djiang-jq",
+        "minupalaniappan",
+        "ericzakariasson"
+      ],
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 294\n\nTotal stars: 18476\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 78.9,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.791,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "author": "openvinotoolkit",
+      "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "published_at": "2026-11-23T02:13:44.051585+00:00",
+      "language": "C++",
+      "score": 158,
+      "comment_count": 3659,
+      "total_stars": 12101,
+      "built_by": [
+        "ilya-lavrenov",
+        "rkazants",
+        "ilyachur",
+        "mvafin",
+        "dependabot"
+      ],
+      "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 158\n\nTotal stars: 12101\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+      "trend_score": 78.55,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.782,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
+      "url": "https://github.com/njgreb/n64fireplace",
+      "author": "gweedo767",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-11-23T01:52:12+00:00",
+      "summary": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.",
+      "comment_highlights": [
+        "[flagged]"
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/njgreb/n64fireplace",
+        "page_title": "GitHub - njgreb/n64fireplace: Cozy N64 Fireplace",
+        "page_description": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.",
+        "page_excerpt": "A cozy low-poly 3D Nintendo 64 fireplace screensaver designed for a real CRT TV and stock 4MB N64 (auto-detects NTSC 60Hz & PAL 50Hz via libdragon ).\n\nJust want to play it? Grab the ready-to-run hearth64.z64 ROM from the Latest Release and copy it onto your EverDrive-64, SummerCart64, or open it in ares !\n\nCopy hearth64.z64 onto your EverDrive-64 , SummerCart64 , or other N64 flashcart SD card and boot it on any stock 4MB NTSC or PAL Nintendo 64!"
+      },
+      "content_context": "Cozy N64 Fireplace. Contribute to njgreb/n64fireplace development by creating an account on GitHub.\n\nA cozy low-poly 3D Nintendo 64 fireplace screensaver designed for a real CRT TV and stock 4MB N64 (auto-detects NTSC 60Hz & PAL 50Hz via libdragon ). Just want to play it? Grab the ready-to-run hearth64.z64 ROM from the Latest Release and copy it onto your EverDrive-64, SummerCart64, or open it in ares ! Copy hearth64.z64 onto your EverDrive-64 , SummerCart64 , or other N64 flashcart SD card and boot it on any stock 4MB NTSC or PAL Nintendo 64!\n\nHN comment: [flagged]",
+      "trend_score": 52.18,
+      "trend_breakdown": {
+        "freshness": 0.985,
+        "engagement": 0.074,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "author": "pengowray",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-11-23T01:50:23+00:00",
+      "summary": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+        "page_title": "The Lean proof of the Riemann Hypothesis: a treemap",
+        "page_description": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.",
+        "page_excerpt": "On 20 November 2026 Levent Alpöge released a Lean 4 formalization, written with Claude, that states and proves the Riemann Hypothesis and its generalization to Dirichlet L -functions. The source is 175,187 modules (a module is one .lean file). This page shows what is in them.\n\nThese two files are the whole claim. Statements.lean defines four propositions. Main.lean proves them, and Mathlib's own RiemannHypothesis , by citing theorems from the other 175,185 modules. Point at a symbol to see how to say it and what type it has.\n\nIn words: every zero of the Riemann zeta function, other than the trivial zeros −2, −4, −6, … , has real part ½. For every Dirichlet character χ, every zero of L ( s , χ) with real part strictly between 0 and 1 has real part ½."
+      },
+      "content_context": "An explorable map of the 175,187 Lean modules in Levent Alpöge's formalization of the Riemann Hypothesis and GRH for Dirichlet L-functions.\n\nOn 20 November 2026 Levent Alpöge released a Lean 4 formalization, written with Claude, that states and proves the Riemann Hypothesis and its generalization to Dirichlet L -functions. The source is 175,187 modules (a module is one .lean file). This page shows what is in them. These two files are the whole claim. Statements.lean defines four propositions. Main.lean proves them, and Mathlib's own RiemannHypothesis , by citing theorems from the other 175,185 modules. Point at a symbol to see how to say it and what type it has. In words: every zero of the Riemann zeta function, other than the trivial zeros −2, −4, −6, … , has real part ½. For every Dirichlet character χ, every zero of L ( s , χ) with real part strictly between 0 and 1 has real part ½.",
+      "trend_score": 50.47,
+      "trend_breakdown": {
+        "freshness": 0.984,
+        "engagement": 0.093,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "No more asteroid landing:Engine trouble forces Japan's Hayabusa2 to change plans",
+      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+      "author": "bookofjoe",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-23T02:00:36+00:00",
+      "summary": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+        "page_title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
+        "page_description": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
+        "page_excerpt": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works .\n\nJapan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 mission, due to the spacecraft suffering trouble with its ion thrusters."
+      },
+      "content_context": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.\n\nJAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . Japan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 mission, due to the spacecraft suffering trouble with its ion thrusters.",
+      "trend_score": 45.2,
+      "trend_breakdown": {
+        "freshness": 0.991,
+        "engagement": 0.047,
+        "topic_overlap": 0.2,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Appeal court says accommodations law for pregnant workers unconstitutional",
+      "url": "https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd",
+      "author": "randycupertino",
+      "score": 3,
+      "comment_count": 2,
+      "published_at": "2026-11-23T01:50:57+00:00",
+      "summary": "Right wing ideologues without judicial temperament.",
+      "comment_highlights": [
+        "Right wing ideologues without judicial temperament.",
+        "… aaaaaaand it's the Fifth Circuit."
+      ],
+      "linked_context": {},
+      "content_context": "HN comment: Right wing ideologues without judicial temperament.\n\nHN comment: … aaaaaaand it's the Fifth Circuit.",
+      "trend_score": 44.65,
+      "trend_breakdown": {
+        "freshness": 0.984,
+        "engagement": 0.152,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: SaaSStatsHub Signals – find website ideas from rising search trends",
+      "url": "https://signals.saasstatshub.com/",
+      "author": "saasstatshub",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-23T01:57:14+00:00",
+      "summary": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://signals.saasstatshub.com/",
+        "page_title": "SaaSStatsHub Signals — Find Website Opportunities from Global Search Trends",
+        "page_description": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.",
+        "page_excerpt": "Every day we scan Hacker News , GitHub , and Google Trends for keywords that are gaining traction — then tell you what kind of website, app, or content you could build around them.\n\nHourly scans of where developers and entrepreneurs are talking — so you don't have to refresh five different sites every day.\n\nA 0-100 score tells you which keywords are actually worth paying attention to — not just one-day hype."
+      },
+      "content_context": "What's the next big thing people are searching for? SaaSStatsHub Signals scans Hacker News, GitHub, and Google Trends every hour to surface rising keywords — then tells you what kind of website, app, or content you could build around them.\n\nEvery day we scan Hacker News , GitHub , and Google Trends for keywords that are gaining traction — then tell you what kind of website, app, or content you could build around them. Hourly scans of where developers and entrepreneurs are talking — so you don't have to refresh five different sites every day. A 0-100 score tells you which keywords are actually worth paying attention to — not just one-day hype.",
+      "trend_score": 43.5,
+      "trend_breakdown": {
+        "freshness": 0.988,
+        "engagement": 0.047,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目活跃，聚焦于智能体（Agent）工具与框架的实用化发展。GitHub趋势榜上，多个项目获得高关注：'superpowers'作为智能体技能框架单日获星近800；'Firecrawl'通过统一API接入多源数据，旨在增强AI知识获取能力；'Claude-BugHunter'为Claude Code提供漏洞挖掘技能包，展示了AI在安全测试中的辅助潜力；'CLI-Anything'致力于让所有软件能被AI智能体原生调用，以提升自动化工作流效率。同时，'minimind'项目声称可快速训练小型语言模型，降低了实验门槛；'last30days-skill'专注于跨平台信息聚合与摘要生成；'diagram-design'则为AI编程工具提供可视化图表资源。此外，基础设施项目NGINX也持续受到关注。整体来看，社区正积极构建AI工程化所需的方法论、工具链与资源库。",
+    "named_hotspots": [
+      {
+        "name": "superpowers",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub项目'superpowers'今日获得788颗星，总星数已达324208，在技术社区引发关注。",
+        "core_details": "该项目由obra等人开发，是一个'智能体技能框架与软件开发方法论'，旨在提供一套有效的实践体系。项目主要使用Shell语言编写，当前在GitHub趋势榜上热度较高。",
+        "ai_take": "该项目定位为'智能体技能框架'，与当前AI代理（Agent）的开发热潮相契合，可能为构建和编排AI智能体提供了一套方法论或工具集，反映了开发社区对AI工程化实践的需求。",
+        "hype_check": "热度较高。单日获星近800，总星数超过32万，表明其长期积累了大量关注。当前在GitHub趋势榜上榜且趋势分数达86.85，说明近期关注度显著上升。",
+        "value_check": "潜在价值需进一步验证。项目描述强调'有效的方法论'，但具体内容、案例和实际应用效果未在提供信息中详述。高星数和关注度可能源于其概念吸引力或早期采用者的认可。",
+        "follow_up": "建议访问其GitHub仓库（https://github.com/obra/superpowers）查看README、文档、代码示例及议题讨论，以了解其具体功能、设计理念、使用场景及社区反馈。",
+        "evidence": "证据基于提供的趋势数据：项目描述为'智能体技能框架与软件开发方法论'，语言为Shell，今日星数788，总星数324208，趋势分数86.85。作者为obra，相关贡献者包括arittr, claude等。"
+      },
+      {
+        "name": "Firecrawl",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Firecrawl项目在GitHub趋势榜上热度显著，单日获得915颗星，总星数已达207,084，表明其作为知识基础设施工具受到开发者社区的广泛关注。",
+        "core_details": "Firecrawl是一个用TypeScript编写的开源项目，旨在通过单一API提供搜索、爬取和访问超过550个数据提供商的能力，从而增强AI智能体的知识获取和处理效率。",
+        "ai_take": "该项目通过统一数据接入层，降低了构建知识驱动型AI应用的门槛，可能推动智能体在实时信息检索和上下文理解方面的能力提升。",
+        "hype_check": "高星数和趋势排名反映了强烈的社区兴趣，但需验证其在实际生产环境中的稳定性和数据提供商的覆盖质量，以避免过度依赖单一工具。",
+        "value_check": "对于需要整合多源数据的AI开发者，Firecrawl提供了便捷的解决方案，但应考虑其维护状态、API限制以及潜在的数据合规风险。",
+        "follow_up": "关注项目后续版本更新、社区反馈以及与其他AI框架（如LangChain）的集成案例，以评估其长期实用价值。",
+        "evidence": "项目在GitHub趋势榜得分85.23，单日获星915，总星数207,084，语言为TypeScript，核心功能描述为知识基础设施，用于增强智能体能力。"
+      },
+      {
+        "name": "Claude-BugHunter",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为Claude-BugHunter的GitHub项目在技术社区中迅速流行，单日获得1716颗星，总星数已达17942。该项目是一个为Claude Code设计的技能包，专注于漏洞挖掘和外部红队工作。",
+        "core_details": "该项目由elementalsouls等人开发，主要语言为Python。它集成了82个技能、15个斜杠命令，并整理了来自24个核心漏洞类别的681个已披露报告模式。此外，还包含企业身份和基础设施攻击矩阵，旨在辅助安全研究人员进行高效的漏洞狩猎和红队评估。",
+        "ai_take": "该项目展示了AI辅助安全测试的实用化进展。通过将大量漏洞模式和攻击技术封装为Claude Code的技能包，AI可以更精准地协助安全专家识别和验证潜在威胁，提升红队工作的自动化水平和覆盖面。",
+        "hype_check": "高星数和流行趋势反映了安全社区对AI增强工具的需求旺盛，但需注意此类工具可能被滥用。项目的实际效果取决于Claude Code的集成深度和模式库的更新维护。",
+        "value_check": "对于专业安全研究人员和红队成员，该项目提供了结构化的漏洞知识库和自动化测试脚本，可能显著提升工作效率。对于普通开发者，则需谨慎评估其使用场景和合规性。",
+        "follow_up": "关注项目后续的版本更新、社区反馈以及是否集成到更广泛的安全工具链中。同时，注意相关企业安全政策对AI辅助测试工具的接受程度。",
+        "evidence": "项目描述明确指出其功能包括82个技能、15个斜杠命令、681个报告模式覆盖24个漏洞类别，以及企业攻击矩阵。GitHub数据：单日星数1716，总星数17942，语言Python，作者elementalsouls。"
+      },
+      {
+        "name": "last30days-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为last30days-skill的AI代理技能项目在GitHub上趋势飙升，单日获得668颗星，总星数达72786。该项目旨在让AI代理能够跨多个平台（如Reddit、X、YouTube、HN、Polymarket及全网）研究任何主题，并生成基于事实的摘要。",
+        "core_details": "该项目由开发者mvanhorn主导，使用Python语言编写，是一个开源的AI代理技能工具。它通过整合多个信息源，让AI代理能够自动收集、分析并综合过去30天内特定话题的在线讨论与内容，最终输出一份全面且基于证据的总结报告。",
+        "ai_take": "该项目展示了AI代理在信息聚合与摘要生成领域的实用化进展。通过自动化跨平台研究，它能够显著提升信息收集效率，并可能为内容分析、市场研究或舆情监控提供支持，体现了AI在增强人类信息处理能力方面的潜力。",
+        "hype_check": "项目在GitHub上单日获得大量关注，总星数已超过7万，表明其在开发者社区中引起了广泛兴趣。然而，作为开源工具，其实际应用效果和准确性仍需在更多场景中验证，且依赖外部平台数据可能带来稳定性和合规性挑战。",
+        "value_check": "如果工具能可靠地综合多源信息并生成高质量摘要，它将为研究人员、分析师或普通用户节省大量时间。但价值高低取决于其摘要的准确性、客观性以及处理复杂或争议性话题的能力，目前尚属早期阶段。",
+        "follow_up": "关注该项目的后续更新，特别是其在实际用例中的性能评估、如何处理信息偏见或虚假内容，以及是否集成更多数据源或增强摘要的可定制性。",
+        "evidence": "项目描述明确指出其功能为“研究任何主题并生成基于事实的摘要”，使用Python开发，在GitHub上趋势排名靠前，单日星数增长显著，总星数达72786，表明社区关注度高。"
+      },
+      {
+        "name": "CLI-Anything",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了CLI-Anything项目，旨在通过命令行接口（CLI）使所有软件都能被AI智能体原生调用，从而提升软件在AI工作流中的可访问性和自动化能力。",
+        "core_details": "该项目是一个Python库，提供了一个统一的CLI接口层，允许AI智能体（如Claude等）通过标准化命令直接与各类软件交互。项目已获得62,827个星标，今日新增699个，显示出较高的社区关注度。其核心是CLI-Hub（clianything.cc），作为集中管理CLI适配器的平台。",
+        "ai_take": "CLI-Anything通过标准化软件交互接口，降低了AI智能体集成第三方工具的复杂度，有望加速自动化工作流和智能体应用的开发。这符合当前AI Agent生态向工具调用和操作系统级集成发展的趋势。",
+        "hype_check": "项目在GitHub趋势榜上热度较高（趋势分83.24），且星标增长迅速，反映了开发者对AI智能体工具化需求的强烈兴趣。但需观察其在实际生产环境中的适配范围和稳定性。",
+        "value_check": "若成功实现“所有软件Agent-Native”的愿景，将显著提升AI智能体的实际效用，尤其在自动化运维、数据分析等领域。其价值取决于生态采纳度和CLI覆盖的软件广度。",
+        "follow_up": "关注CLI-Hub平台的工具增长情况、主流AI框架（如LangChain）的集成进展，以及实际案例中是否真能降低智能体开发门槛。",
+        "evidence": "项目描述明确指向“Making ALL Software Agent-Native”，GitHub数据（星标数、语言、作者信息）及提供的CLI-Hub网址均支持其作为工具集成平台的核心定位。"
+      },
+      {
+        "name": "minimind",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "GitHub项目minimind在趋势榜上获得高关注，该项目声称能在两小时内从零训练一个6400万参数的大语言模型。",
+        "core_details": "minimind是一个Python项目，由jingyaogong等人开发，旨在简化大语言模型的训练过程，让用户能够在个人计算资源（如单张消费级GPU）上快速训练小型模型。项目在GitHub上已获得超过68,731颗星，今日新增473颗星，显示出较高的社区兴趣。",
+        "ai_take": "该项目降低了训练定制化小型语言模型的门槛，可能推动更多开发者和研究者进行模型实验和微调，加速AI民主化进程。",
+        "hype_check": "项目因‘两小时训练’的承诺和开源易用性而受到关注，但实际效果可能受硬件、数据集和具体任务影响，需谨慎评估其泛化能力。",
+        "value_check": "对于教育和实验目的具有实用价值，能帮助初学者理解LLM训练流程；但在生产环境中，64M参数的模型性能有限，更适合作为学习工具或研究起点。",
+        "follow_up": "关注项目后续更新、用户反馈以及是否扩展更大模型支持；可尝试复现训练过程以验证其效率和效果。",
+        "evidence": "项目GitHub页面描述、星标数（68,731）和今日趋势数据（473新增星）支持其流行度；但缺乏独立基准测试或详细性能报告，需进一步验证。"
+      },
+      {
+        "name": "diagram-design",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为 diagram-design 的 GitHub 项目在趋势榜上获得关注，该项目专注于为多种 AI 编程工具提供编辑图表设计。",
+        "core_details": "该项目由 cathrynlavery 创建，提供 45 种图表类型，用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 等工具。其设计采用自包含的 HTML + SVG 格式，明确声明不使用阴影和 Mermaid 图表库。项目语言为 HTML，今日获星 518，总星数已达 70343，显示出较高的社区关注度。",
+        "ai_take": "该项目直接服务于 AI 辅助编程生态，其图表设计旨在提升开发文档、代码解释或工具界面的视觉清晰度和专业性。这反映了 AI 工具普及后，对配套可视化资产的需求增长，尤其是在需要简洁、可定制图表以避免“Mermaid slop”（可能指复杂或不美观的自动生成图表）的场景中。",
+        "hype_check": "趋势分 82.08 和单日大量获星表明短期热度显著，但高总星数（超 7 万）说明它已积累长期认可，并非短暂炒作。其针对特定开发者工具生态的定位清晰，热度可能源于 AI 编程工具用户群体的直接需求。",
+        "value_check": "为多种主流 AI 编程工具提供即用型图表资源，节省了开发者自行设计的时间；自包含的 HTML/SVG 格式确保易用性和兼容性；明确拒绝“Mermaid slop”可能迎合了追求更精细控制的设计偏好。价值在于提升 AI 工具相关文档或产品的视觉表达质量。",
+        "follow_up": "可关注该项目是否被集成到上述 AI 工具或相关开发平台中；观察其图表类型是否会随 AI 编程范式演变而扩展；或查看是否有类似项目涌现，形成 AI 工具可视化设计的小生态。",
+        "evidence": "项目摘要、内容上下文及 GitHub 数据（如语言、星数、构建者列表）提供了核心信息。项目描述中“Editorial diagram design for...”直接说明了用途和范围，“Self-contained HTML + SVG. No shadows. No Mermaid slop.”明确了技术选择和设计原则。"
+      },
+      {
+        "name": "nginx/nginx",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "NGINX开源项目在GitHub趋势榜上热度上升，今日新增163颗星，总星数达32895，表明开发者社区对其持续关注。",
+        "core_details": "NGINX是一个高性能的HTTP和反向代理服务器，采用C语言编写，由mdounin、arut等核心贡献者维护。该项目在GitHub上拥有活跃的社区，总星数超过3.2万，今日新增163颗星，趋势评分为80.32。",
+        "ai_take": "NGINX作为基础设施软件，其开源项目的活跃度反映了AI和云计算领域对高性能网络服务的依赖，可能间接支持AI应用的后端部署和负载均衡需求。",
+        "hype_check": "热度合理，NGINX是成熟且广泛使用的项目，趋势上升可能源于社区更新或技术讨论，但非突破性AI进展。",
+        "value_check": "高价值，NGINX是网络基础设施的关键组件，其开源版本为开发者提供了可靠的工具，对AI系统的高并发处理有实际支撑作用。",
+        "follow_up": "关注NGINX版本更新或与AI框架（如TensorFlow Serving）的集成动态，以评估其对AI部署效率的影响。",
+        "evidence": "GitHub趋势数据：今日新增163星，总星32895，趋势评分80.32；项目描述为官方NGINX开源仓库，语言为C，由核心团队维护。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "obra/superpowers",
+        "content_summary": "这是一个智能体技能框架和软件开发方法论项目，旨在构建一个有效的智能体技能体系。项目使用Shell语言编写，今日新增788颗星，总星数达324,208。",
+        "ai_comment": "该项目定位为智能体时代的开发框架，可能旨在系统化地构建和组合AI智能体的能力，反映了当前AI工程化的重要趋势。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "firecrawl/firecrawl",
+        "content_summary": "这是一个知识基础设施项目，旨在通过统一的API让智能体更智能。它集成了搜索、爬取和访问超过550个数据提供商的功能。项目使用TypeScript编写，今日新增915颗星，总星数达207,084。",
+        "ai_comment": "项目解决了智能体获取和处理多源异构数据的核心痛点，提供了一个标准化的数据接入层，是构建强大AI应用的关键基础设施。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "elementalsouls/Claude-BugHunter",
+        "content_summary": "这是一个为Claude Code设计的漏洞挖掘和外部红队工作技能包。包含82个技能、15个斜杠命令、涵盖24个核心漏洞类别的681个已披露报告模式，以及企业身份和基础设施攻击矩阵。项目使用Python编写，今日新增1,716颗星，总星数达17,942。",
+        "ai_comment": "该项目将AI能力深度应用于网络安全领域，特别是漏洞挖掘，展示了大型语言模型在专业安全任务中的工具化潜力，是AI赋能安全运维的典型案例。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
+        "content_summary": "这是一个为实体Nintendo 64游戏机和CRT电视设计的低多边形3D壁炉屏保程序ROM。项目支持自动检测NTSC和PAL制式，用户可将编译好的ROM文件复制到EverDrive-64等N64烧录卡上运行。该HN帖子因故被标记。",
+        "ai_comment": "项目体现了复古计算和硬件爱好者的创意，将现代开发工具（如libdragon）用于经典游戏平台，创造了一种独特的、具有氛围感的数字艺术品。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Treemap of the Riemann Hypothesis Lean Proof",
+        "content_summary": "这是一个对Levent Alpöge于2026年11月20日发布的黎曼猜想及其对狄利克雷L函数推广的Lean 4形式化证明的可视化探索地图。该证明由175,187个模块（.lean文件）构成，并声称使用Claude协助完成。可视化页面展示了这些模块的内容结构。",
+        "ai_comment": "此事若属实，将是数学和形式化验证领域的里程碑。它展示了AI（Claude）在协助完成极端复杂、抽象的数学定理形式化证明方面的潜力，但该声明的真实性需经数学界严格审查。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "No more asteroid landing:Engine trouble forces Japan's Hayabusa2 to change plans",
+        "content_summary": "由于离子推进器出现故障，日本宇宙航空研究开发机构（JAXA）已放弃其隼鸟2号探测器与小行星1998 KY26交会并采样返回的原定计划。任务最终阶段将改为对另一颗小行星2015 BM510进行高速飞越探测。",
+        "ai_comment": "此次任务调整凸显了深空探测任务的高风险性和对推进系统可靠性的极端依赖。尽管无法完成最终采样，隼鸟2号此前已取得巨大成功，任务变更体现了航天任务管理的灵活性和现实考量。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "With ‘TrumpCare,’ a Progressive Democrat Plays to the President’s Ego - The New York Times",
+        "content_summary": "美国进步派民主党人Abdul El-Sayed提出了一项名为“特朗普医改”的全民医保计划，旨在通过迎合总统特朗普的个人声誉来推动政策。他表示不介意计划名称，并愿意在全民医保框架下保留私人保险选项。特朗普本人已转发相关提议。",
+        "ai_comment": "这是一次非常规的政治策略，试图利用特朗普的品牌和个人形象来推动传统上由进步派倡导的政策。这反映了美国医疗改革政治中的实用主义转向，以及政治品牌在政策推销中的重要性。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Libya: Suspected drone attack hits Russian ship in Benghazi - DW.com",
+        "content_summary": "据报道，一艘俄罗斯军舰在利比亚班加西港附近遭遇疑似无人机袭击并沉没。多方报道将此事件与乌克兰的袭击联系起来，认为这表明俄乌冲突的战场已延伸至黑海以外的地区。",
+        "ai_comment": "此次事件若证实为乌克兰所为，标志着冲突范围的显著扩大和作战模式的升级，即使用远程无人机在第三国打击敌方海军资产。这增加了冲突国际化和复杂化的风险。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Here’s what NYC can expect on Thanksgiving as monster storm barrels up coast - New York Post",
+        "content_summary": "一场强大的风暴正沿美国海岸线移动，预计将给东西海岸的感恩节出行带来严重影响。纽约市将面临恶劣天气，西海岸也将遭遇风暴和沿海洪水，可能造成重大的感恩节旅行延误。",
+        "ai_comment": "极端天气事件再次在重要节假日期间威胁美国的关键基础设施和大众出行，凸显了气候变化背景下应急管理和公共预警系统面临的持续挑战。"
+      }
+    ],
+    "closing_note": "今日热点凸显了AI开发社区对智能体能力扩展、工具集成及效率提升的强烈需求。从技能框架、数据爬取到安全测试与自动化接口，开源项目正试图填补AI应用落地的实践空白。然而，这些工具的实际价值与稳定性仍需在更广泛场景中验证。建议开发者根据具体需求，深入评估项目的成熟度、维护状态与合规风险，理性跟进趋势，优先关注那些能切实解决工程痛点的方案。",
+    "_errors": []
+  }
+}
