@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:44:09.091174+00:00",
+  "generated_at": "2026-11-25T04:46:47.466867+00:00",
   "counts": {
     "github_trending": 10,
     "reddit": 0,
@@ -15,11 +15,11 @@
         "url": "https://github.com/obra/superpowers",
         "author": "obra",
         "summary": "An agentic skills framework & software development methodology that works.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "Shell",
-        "score": 840,
-        "comment_count": 28848,
-        "total_stars": 325265,
+        "score": 1003,
+        "comment_count": 28926,
+        "total_stars": 325948,
         "built_by": [
           "obra",
           "arittr",
@@ -27,7 +27,7 @@
           "clkao",
           "arimu1"
         ],
-        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 840\n\nTotal stars: 325265\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1003\n\nTotal stars: 325948\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
         "trend_score": 86.84,
         "trend_breakdown": {
           "freshness": 1.0,
@@ -47,11 +47,11 @@
         "url": "https://github.com/firecrawl/firecrawl",
         "author": "firecrawl",
         "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "TypeScript",
-        "score": 924,
-        "comment_count": 10875,
-        "total_stars": 208114,
+        "score": 991,
+        "comment_count": 10926,
+        "total_stars": 209104,
         "built_by": [
           "nickscamara",
           "mogery",
@@ -59,107 +59,11 @@
           "abimaelmartell",
           "claude"
         ],
-        "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 924\n\nTotal stars: 208114\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
-        "trend_score": 85.1,
+        "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 991\n\nTotal stars: 209104\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+        "trend_score": 84.85,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.954,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "jingyaogong/minimind",
-        "url": "https://github.com/jingyaogong/minimind",
-        "author": "jingyaogong",
-        "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
-        "language": "Python",
-        "score": 828,
-        "comment_count": 9094,
-        "total_stars": 69658,
-        "built_by": [
-          "jingyaogong",
-          "iomgaa-ycz",
-          "Linxiushen",
-          "basil-k-aji-dev",
-          "readlnh"
-        ],
-        "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 828\n\nTotal stars: 69658\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
-        "trend_score": 84.46,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.937,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "elementalsouls/Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "author": "elementalsouls",
-        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
-        "language": "Python",
-        "score": 2029,
-        "comment_count": 2121,
-        "total_stars": 20100,
-        "built_by": [
-          "claude",
-          "injectifytest",
-          "elementalsouls",
-          "github-actions",
-          "rudycelekli"
-        ],
-        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 2029\n\nTotal stars: 20100\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
-        "trend_score": 83.78,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.919,
-          "topic_overlap": 0.0,
-          "source_weight": 0.92,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "github-trending",
-        "category": "github_trending",
-        "title": "mvanhorn/last30days-skill",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "author": "mvanhorn",
-        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
-        "language": "Python",
-        "score": 797,
-        "comment_count": 6494,
-        "total_stars": 73590,
-        "built_by": [
-          "mvanhorn",
-          "claude",
-          "tmchow",
-          "iliaal",
-          "dependabot"
-        ],
-        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 797\n\nTotal stars: 73590\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
-        "trend_score": 83.68,
-        "trend_breakdown": {
-          "freshness": 1.0,
-          "engagement": 0.917,
+          "engagement": 0.948,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -175,11 +79,11 @@
         "url": "https://github.com/HKUDS/CLI-Anything",
         "author": "HKUDS",
         "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "Python",
-        "score": 790,
-        "comment_count": 5811,
-        "total_stars": 63916,
+        "score": 1074,
+        "comment_count": 5918,
+        "total_stars": 64991,
         "built_by": [
           "yuh-yang",
           "claude",
@@ -187,11 +91,107 @@
           "omerarslan0",
           "hito0512"
         ],
-        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 790\n\nTotal stars: 63916\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-        "trend_score": 83.43,
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 1074\n\nTotal stars: 64991\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 83.82,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.91,
+          "engagement": 0.921,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "author": "jingyaogong",
+        "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
+        "language": "Python",
+        "score": 727,
+        "comment_count": 9155,
+        "total_stars": 70417,
+        "built_by": [
+          "jingyaogong",
+          "iomgaa-ycz",
+          "Linxiushen",
+          "basil-k-aji-dev",
+          "readlnh"
+        ],
+        "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 727\n\nTotal stars: 70417\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+        "trend_score": 83.72,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.918,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "author": "elementalsouls",
+        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
+        "language": "Python",
+        "score": 1826,
+        "comment_count": 2254,
+        "total_stars": 21708,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ],
+        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1826\n\nTotal stars: 21708\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+        "trend_score": 83.21,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.905,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "author": "mvanhorn",
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
+        "language": "Python",
+        "score": 703,
+        "comment_count": 6554,
+        "total_stars": 74388,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ],
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 703\n\nTotal stars: 74388\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+        "trend_score": 82.96,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.898,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -207,11 +207,11 @@
         "url": "https://github.com/cathrynlavery/diagram-design",
         "author": "cathrynlavery",
         "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "HTML",
-        "score": 620,
-        "comment_count": 4756,
-        "total_stars": 71150,
+        "score": 802,
+        "comment_count": 4817,
+        "total_stars": 72234,
         "built_by": [
           "cathrynlavery",
           "github-actions",
@@ -219,11 +219,11 @@
           "mvanhorn",
           "claude"
         ],
-        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 620\n\nTotal stars: 71150\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
-        "trend_score": 82.41,
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 802\n\nTotal stars: 72234\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+        "trend_score": 82.67,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.883,
+          "engagement": 0.89,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -239,11 +239,11 @@
         "url": "https://github.com/nginx/nginx",
         "author": "nginx",
         "summary": "The official NGINX Open Source repository.",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "C",
-        "score": 174,
-        "comment_count": 8395,
-        "total_stars": 33089,
+        "score": 158,
+        "comment_count": 8397,
+        "total_stars": 33252,
         "built_by": [
           "mdounin",
           "arut",
@@ -251,11 +251,11 @@
           "VBart",
           "pluknet"
         ],
-        "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 174\n\nTotal stars: 33089\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
-        "trend_score": 80.34,
+        "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 158\n\nTotal stars: 33252\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+        "trend_score": 79.72,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.829,
+          "engagement": 0.813,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -271,11 +271,11 @@
         "url": "https://github.com/cursor/plugins",
         "author": "cursor",
         "summary": "Cursor plugin specification and official plugins",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "TypeScript",
-        "score": 397,
-        "comment_count": 2048,
-        "total_stars": 18889,
+        "score": 360,
+        "comment_count": 2082,
+        "total_stars": 19295,
         "built_by": [
           "cursoragent",
           "poteto",
@@ -283,11 +283,11 @@
           "minupalaniappan",
           "ericzakariasson"
         ],
-        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 397\n\nTotal stars: 18889\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
-        "trend_score": 79.56,
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 360\n\nTotal stars: 19295\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 78.98,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.808,
+          "engagement": 0.793,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -303,11 +303,11 @@
         "url": "https://github.com/openvinotoolkit/openvino",
         "author": "openvinotoolkit",
         "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-        "published_at": "2026-11-24T05:43:58.132634+00:00",
+        "published_at": "2026-11-25T04:46:26.294581+00:00",
         "language": "C++",
-        "score": 184,
-        "comment_count": 3681,
-        "total_stars": 12323,
+        "score": 185,
+        "comment_count": 3696,
+        "total_stars": 12499,
         "built_by": [
           "ilya-lavrenov",
           "rkazants",
@@ -315,11 +315,11 @@
           "mvafin",
           "dependabot"
         ],
-        "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 184\n\nTotal stars: 12323\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
-        "trend_score": 78.81,
+        "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 185\n\nTotal stars: 12499\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+        "trend_score": 78.47,
         "trend_breakdown": {
           "freshness": 1.0,
-          "engagement": 0.789,
+          "engagement": 0.78,
           "topic_overlap": 0.0,
           "source_weight": 0.92,
           "domain_weight": 1.18
@@ -334,111 +334,28 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "What frustrates you most about using a CRM?",
-        "url": "https://news.ycombinator.com/item?id=50624106",
-        "author": "Pranay94",
-        "score": 1,
+        "title": "Show HN: U.S. Interstate Weather",
+        "url": "https://www.interstateweather.com/",
+        "author": "projproj",
+        "score": 3,
         "comment_count": 1,
-        "published_at": "2026-11-24T05:20:27+00:00",
-        "summary": "nice try",
+        "published_at": "2026-11-25T04:35:32+00:00",
+        "summary": "Driving weather along US highways, from National Weather Service forecasts and alerts.",
         "comment_highlights": [
-          "nice try"
+          "Is it only for US ? Any option to use this across the globe ?"
         ],
-        "linked_context": {},
-        "content_context": "For those working in sales, account management or customer success, what repetitive administrative tasks do you wish you didn't have to do? Curious to hear about real experiences and frustrations.\n\nHN comment: nice try",
-        "trend_score": 53.65,
-        "trend_breakdown": {
-          "freshness": 0.984,
-          "engagement": 0.083,
-          "topic_overlap": 0.167,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Helios Intelligence – 1k biomarkers from a drop of blood, at home",
-        "url": "https://www.ycombinator.com/launches/X8k-helios-intelligence-the-highest-resolution-picture-of-your-health-1-000-biomarkers-from-a-drop-of-blood-at-home",
-        "author": "julietteeb",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-24T05:36:01+00:00",
-        "summary": null,
-        "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.ycombinator.com/launches/X8k-helios-intelligence-the-highest-resolution-picture-of-your-health-1-000-biomarkers-from-a-drop-of-blood-at-home",
-          "content_type": "application/json; charset=utf-8"
-        },
-        "content_context": null,
-        "trend_score": 52.78,
-        "trend_breakdown": {
-          "freshness": 0.994,
-          "engagement": 0.046,
-          "topic_overlap": 0.167,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-        "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-        "author": "_____k",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-24T05:42:18+00:00",
-        "summary": "AI generated customized shows featuring customized ads.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-          "page_title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
-          "page_description": "AI generated customized shows featuring customized ads.",
-          "page_excerpt": "Google has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized “shows” starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect ab...\n\nTech companies regularly file for patents that they don’t end up actually putting into real products, but this one, called “creating a channel of video experiences tailored to a user,” describes a system that many AI companies have been clearly trying to build. It imagines something called “My Channel,” which would be filled with AI content generated based on demographic data, their video watch...\n\n“You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,” a hypothetical LLM prompt in the patent reads. “The generated cus..."
-        },
-        "content_context": "AI generated customized shows featuring customized ads.\n\nGoogle has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized “shows” starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect ab... Tech companies regularly file for patents that they don’t end up actually putting into real products, but this one, called “creating a channel of video experiences tailored to a user,” describes a system that many AI companies have been clearly trying to build. It imagines something called “My Channel,” which would be filled with AI content generated based on demographic data, their video watch... “You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,” a hypothetical LLM prompt in the patent reads. “The generated cus...",
-        "trend_score": 52.49,
-        "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.046,
-          "topic_overlap": 0.143,
-          "source_weight": 0.9,
-          "domain_weight": 1.18
-        },
-        "domains": [
-          "technology"
-        ]
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Show HN: Everything Is Outdated (Game)",
-        "url": "https://everythingisoutdated.dev/",
-        "author": "brunoborges",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-24T05:42:56+00:00",
-        "summary": null,
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://everythingisoutdated.dev/",
-          "page_title": "Everything Is Outdated",
-          "page_description": null,
+          "resolved_url": "https://www.interstateweather.com/",
+          "page_title": "Interstate Weather",
+          "page_description": "Driving weather along US highways, from National Weather Service forecasts and alerts.",
           "page_excerpt": null
         },
-        "content_context": null,
-        "trend_score": 50.93,
+        "content_context": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).\n\nDriving weather along US highways, from National Weather Service forecasts and alerts.\n\nHN comment: Is it only for US ? Any option to use this across the globe ?",
+        "trend_score": 56.22,
         "trend_breakdown": {
-          "freshness": 0.999,
-          "engagement": 0.046,
-          "topic_overlap": 0.5,
+          "freshness": 0.992,
+          "engagement": 0.128,
+          "topic_overlap": 0.667,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -447,26 +364,60 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Open Source Oura Ring Data",
-        "url": "https://github.com/Th0rgal/open_oura",
-        "author": "jusonchan81",
+        "title": "Show HN: Simulusion – DreamerV3, IRIS, Genie and other world models in PyTorch",
+        "url": "https://github.com/ParamThakkar123/simulusion",
+        "author": "paramthakkar",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-24T05:29:29+00:00",
-        "summary": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...",
-        "comment_highlights": [],
+        "published_at": "2026-11-25T04:43:20+00:00",
+        "summary": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion",
+        "comment_highlights": [
+          "[flagged]"
+        ],
         "linked_context": {
-          "resolved_url": "https://github.com/Th0rgal/open_oura",
-          "page_title": "GitHub - Th0rgal/open_oura: A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
-          "page_description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...",
-          "page_excerpt": "Reverse-engineering the Oura ring BLE protocol, plus reusable Rust libraries and a small independent, cloud-free client that reads your data straight from the ring.\n\nLooking for the app? The iOS app and web dashboard built on these crates live in open_health .\n\nTested live against a Ring 3 Horizon and a Ring 5 (pairing, auth, and event sync confirmed on both). Designed for Ring 3/4/5, which share the same GATT layout, packet framing, and authentication flow."
+          "resolved_url": "https://github.com/ParamThakkar123/simulusion",
+          "page_title": "GitHub - ParamThakkar123/simulusion: A modular PyTorch library designed for learning, training, and deploying world models across various environments.",
+          "page_description": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion",
+          "page_excerpt": "Modular PyTorch library for world models — many algorithms, one consistent API.\n\nFormerly TorchWM. The project was renamed to Simulusion for 1.0 and is published on PyPI as simulusion : pip install simulusion , then import simulusion .\n\nSimulusion brings the major world-model families together under a single PyTorch API. Train Dreamer, PlaNet, JEPA, IRIS, DIAMOND, DiT, and Genie agents through create_config / create_model / make_env , or drop down to their encoders, decoders, and latent-dynamics backbones to compose your own architecture. Environment adapters (Gym/Gymnasium, DeepMind Control, MuJoCo, Brax, Atari, Unity ML-Agen..."
         },
-        "content_context": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...\n\nReverse-engineering the Oura ring BLE protocol, plus reusable Rust libraries and a small independent, cloud-free client that reads your data straight from the ring. Looking for the app? The iOS app and web dashboard built on these crates live in open_health . Tested live against a Ring 3 Horizon and a Ring 5 (pairing, auth, and event sync confirmed on both). Designed for Ring 3/4/5, which share the same GATT layout, packet framing, and authentication flow.",
-        "trend_score": 49.03,
+        "content_context": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion\n\nModular PyTorch library for world models — many algorithms, one consistent API. Formerly TorchWM. The project was renamed to Simulusion for 1.0 and is published on PyPI as simulusion : pip install simulusion , then import simulusion . Simulusion brings the major world-model families together under a single PyTorch API. Train Dreamer, PlaNet, JEPA, IRIS, DIAMOND, DiT, and Genie agents through create_config / create_model / make_env , or drop down to their encoders, decoders, and latent-dynamics backbones to compose your own architecture. Environment adapters (Gym/Gymnasium, DeepMind Control, MuJoCo, Brax, Atari, Unity ML-Agen...\n\nHN comment: [flagged]",
+        "trend_score": 54.1,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.222,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "author": "arkits",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-11-25T04:31:48+00:00",
+        "summary": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+        "comment_highlights": [
+          "Fun! Brings back memories"
+        ],
+        "linked_context": {
+          "resolved_url": "https://gpu-demo-gallery.pages.dev/",
+          "page_title": "GPU demos, 1998 to 2006",
+          "page_description": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+          "page_excerpt": "A cube with nine textures in five passes, as the first card with two texture units drew it.\n\nA torus with embossed bumps and a reflection, in two passes.\n\nHold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks."
+        },
+        "content_context": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.\n\nA cube with nine textures in five passes, as the first card with two texture units drew it. A torus with embossed bumps and a reflection, in two passes. Hold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks.\n\nHN comment: Fun! Brings back memories",
+        "trend_score": 53.71,
         "trend_breakdown": {
           "freshness": 0.99,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
+          "engagement": 0.109,
+          "topic_overlap": 0.111,
           "source_weight": 0.9,
           "domain_weight": 1.18
         },
@@ -477,105 +428,83 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Show HN: DossierQL, a Game for Learning GraphQL",
-        "url": "https://virissimo.info/dossierql/",
-        "author": "virissimo",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-24T05:27:23+00:00",
-        "summary": "DossierQL: learn GraphQL by running an intelligence investigation.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://virissimo.info/dossierql/",
-          "page_title": "DossierQL",
-          "page_description": "DossierQL: learn GraphQL by running an intelligence investigation.",
-          "page_excerpt": null
-        },
-        "content_context": "DossierQL is a game for learning GraphQL. It's influenced by the old Carmen Sandiego PC games as well as Ian Fleming and G. K. Chesterton novels. Hopefully, it's less boring than reading the spec.<p>The source code can be found here: <a href=\"https://github.com/jaysonvirissimo/dossierql\" rel=\"nofollow\">https://github.com/jaysonvirissimo/dossierql</a>\n\nDossierQL: learn GraphQL by running an intelligence investigation.",
-        "trend_score": 48.69,
-        "trend_breakdown": {
-          "freshness": 0.988,
-          "engagement": 0.046,
-          "topic_overlap": 0.4,
-          "source_weight": 0.9,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "hacker-news",
-        "category": "hacker_news",
-        "title": "Social Media Companies Subject to Digital Duty of Care in Australia",
-        "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-        "author": "deverton",
+        "title": "In GTA VI, every stolen car is a music discovery machine",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+        "author": "blinding-streak",
         "score": 2,
         "comment_count": 0,
-        "published_at": "2026-11-24T05:30:02+00:00",
-        "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal",
+        "published_at": "2026-11-25T04:39:27+00:00",
+        "summary": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-          "page_title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-          "page_description": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal",
-          "page_excerpt": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal\n\nGet our daily political email , free app or daily news podcast\n\nBig tech companies may face “multibillion-dollar” fines and individuals could sue social media companies in court under Australia’s new digital duty of care laws, with the Greens to support the bill’s passage after extracting major amendments from Labor."
+          "resolved_url": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+          "page_title": "In 'GTA VI,' every stolen car is a music discovery machine",
+          "page_description": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.",
+          "page_excerpt": "Protagonists Jason and Lucia lead the highly anticipated video game sequel Grand Theft Auto VI , which centers its pop soundtrack as players drive between missions and explore the open world. Rockstar Games hide caption\n\nIf you've ever wondered what it might feel like to lead cops on a high-speed chase through downtown Miami as Young Thug croons, \"Hustlers don't stop, they keep going,\" Grand Theft Auto VI has you covered. The massive open-world action game, which turns a one-to-one recreation of Florida's central hotspot — dubbed Vice City, Leonida — into the playpen for a Bonnie and Clyde-style outlaw campaign...\n\nThe most anticipated video game sequel of all time, and now among the most successful entertainment properties ever, GTA VI follows military vet Jason Duval and new parolee Lucia Caminos as they repair their broken relationship, cutting their teeth in a high-stakes criminal megalopolis with hopes of regaining custody of their son. Players split time between the two charac..."
         },
-        "content_context": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal\n\nIndividual Australians will be able to sue big tech firms for harm suffered online under compromise deal Get our daily political email , free app or daily news podcast Big tech companies may face “multibillion-dollar” fines and individuals could sue social media companies in court under Australia’s new digital duty of care laws, with the Greens to support the bill’s passage after extracting major amendments from Labor.",
-        "trend_score": 42.42,
+        "content_context": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.\n\nProtagonists Jason and Lucia lead the highly anticipated video game sequel Grand Theft Auto VI , which centers its pop soundtrack as players drive between missions and explore the open world. Rockstar Games hide caption If you've ever wondered what it might feel like to lead cops on a high-speed chase through downtown Miami as Young Thug croons, \"Hustlers don't stop, they keep going,\" Grand Theft Auto VI has you covered. The massive open-world action game, which turns a one-to-one recreation of Florida's central hotspot — dubbed Vice City, Leonida — into the playpen for a Bonnie and Clyde-style outlaw campaign... The most anticipated video game sequel of all time, and now among the most successful entertainment properties ever, GTA VI follows military vet Jason Duval and new parolee Lucia Caminos as they repair their broken relationship, cutting their teeth in a high-stakes criminal megalopolis with hopes of regaining custody of their son. Players split time between the two charac...",
+        "trend_score": 50.25,
         "trend_breakdown": {
-          "freshness": 0.99,
+          "freshness": 0.995,
           "engagement": 0.073,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Battle Draw",
-        "url": "https://neal.fun/battle-draw/",
-        "author": "questionedon",
+        "title": "Type errors cost our coding agents under 1% of their time",
+        "url": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+        "author": "ksec",
         "score": 1,
         "comment_count": 0,
-        "published_at": "2026-11-24T05:37:42+00:00",
-        "summary": null,
+        "published_at": "2026-11-25T04:41:35+00:00",
+        "summary": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.",
         "comment_highlights": [],
-        "linked_context": {},
-        "content_context": null,
-        "trend_score": 41.78,
+        "linked_context": {
+          "resolved_url": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+          "page_title": "Type errors cost our coding agents under 1% of their time—Martian Chronicles, Evil Martians’ team blog",
+          "page_description": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.",
+          "page_excerpt": "CEO of Evil Martians. I build developer tools and study the market that funds them.\n\n“Static types make coding agents better.” That’s the common view, and some of the most trusted names in software repeat it. GitHub’s Octoverse 2025 credits AI with pushing TypeScript to #1, because “type systems reduce ambiguity and catch LLM errors before production.” Thomas Wolf , co-founder of Hugging Face, expects AI to “favor strongly typed, formally verifiable and/or high performance lang...\n\nAt Evil Martians, we have a hot take: every claim about agentic coding needs to be verified with data. We built the official coding agent benchmark for the Ruby on Rails framework, so we decided to test this claim about static types, too. So, we checked public benchmarks of real repository issues in ten languages: TypeScript, JavaScript, Python, Ruby, PHP, Go, Rust, Java, C, and C++. We added 2..."
+        },
+        "content_context": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.\n\nCEO of Evil Martians. I build developer tools and study the market that funds them. “Static types make coding agents better.” That’s the common view, and some of the most trusted names in software repeat it. GitHub’s Octoverse 2025 credits AI with pushing TypeScript to #1, because “type systems reduce ambiguity and catch LLM errors before production.” Thomas Wolf , co-founder of Hugging Face, expects AI to “favor strongly typed, formally verifiable and/or high performance lang... At Evil Martians, we have a hot take: every claim about agentic coding needs to be verified with data. We built the official coding agent benchmark for the Ruby on Rails framework, so we decided to test this claim about static types, too. So, we checked public benchmarks of real repository issues in ten languages: TypeScript, JavaScript, Python, Ruby, PHP, Go, Rust, Java, C, and C++. We added 2...",
+        "trend_score": 49.32,
         "trend_breakdown": {
           "freshness": 0.996,
           "engagement": 0.046,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
-          "domain_weight": 1.0
+          "domain_weight": 1.18
         },
-        "domains": []
+        "domains": [
+          "technology"
+        ]
       },
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "Recipes for an Off-Grid 'Internet' (2022)",
-        "url": "https://blog.hydroponictrash.solar/offgridinternet/",
-        "author": "zenincognito",
-        "score": 1,
-        "comment_count": 0,
-        "published_at": "2026-11-24T05:28:07+00:00",
-        "summary": "How to make an off-grid micro 'internet' that can run off solar power (or any power) for emergencies, camping, protests, or building community autonomy and dual power.",
-        "comment_highlights": [],
-        "linked_context": {
-          "resolved_url": "https://blog.hydroponictrash.solar/offgridinternet/",
-          "page_title": "Recipes For An Off-Grid 'Internet'",
-          "page_description": "How to make an off-grid micro 'internet' that can run off solar power (or any power) for emergencies, camping, protests, or building community autonomy and dual power.",
-          "page_excerpt": "How to make an off-grid micro 'internet' that can run off solar power (or any power) for emergencies, camping, protests, or building community autonomy and dual power.\n\nThis is less so an exhaustive technical guide for making a DIY micro internet, and more so a group of recipes with ingredients that combine together to create whatever you need to create. Understand this to be a system of different parts that you can add or subtract from, and less so a “here is exactly how to do this” instruction manual. I do include instructions and some tips if you want to co...\n\nI only used a Raspberry Pi computer in this becasue I already had one. After their bullshit on mastodon where the company said they hired intellence police officers and then got weird about people rightfully feeling weird about it, I’m no longer supporting them. Not only that they are impossible to find and people are price gouging online. The key thing here is that you can use any computer tha..."
-        },
-        "content_context": "How to make an off-grid micro 'internet' that can run off solar power (or any power) for emergencies, camping, protests, or building community autonomy and dual power.\n\nHow to make an off-grid micro 'internet' that can run off solar power (or any power) for emergencies, camping, protests, or building community autonomy and dual power. This is less so an exhaustive technical guide for making a DIY micro internet, and more so a group of recipes with ingredients that combine together to create whatever you need to create. Understand this to be a system of different parts that you can add or subtract from, and less so a “here is exactly how to do this” instruction manual. I do include instructions and some tips if you want to co... I only used a Raspberry Pi computer in this becasue I already had one. After their bullshit on mastodon where the company said they hired intellence police officers and then got weird about people rightfully feeling weird about it, I’m no longer supporting them. Not only that they are impossible to find and people are price gouging online. The key thing here is that you can use any computer tha...",
-        "trend_score": 41.51,
+        "title": "US Army plans to detonate an Iowa ammo plant, leading to airbourne lead plume",
+        "url": "https://www.centredaily.com/news/nation-world/national/article318231892.html",
+        "author": "illidan1000",
+        "score": 2,
+        "comment_count": 1,
+        "published_at": "2026-11-25T04:36:41+00:00",
+        "summary": "Needs to be front page news YESTERDAY",
+        "comment_highlights": [
+          "Needs to be front page news YESTERDAY"
+        ],
+        "linked_context": {},
+        "content_context": "HN comment: Needs to be front page news YESTERDAY",
+        "trend_score": 49.06,
         "trend_breakdown": {
-          "freshness": 0.989,
-          "engagement": 0.046,
-          "topic_overlap": 0.0,
+          "freshness": 0.993,
+          "engagement": 0.109,
+          "topic_overlap": 0.3,
           "source_weight": 0.9,
           "domain_weight": 1.0
         },
@@ -584,24 +513,108 @@
       {
         "source": "hacker-news",
         "category": "hacker_news",
-        "title": "PGAIBench and AAA: can AI safely change production Postgres?",
-        "url": "https://postgres.ai/blog/20261123-pgaibench",
-        "author": "pella",
-        "score": 1,
+        "title": "Taking over US Treasury subdomains for $3 each",
+        "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+        "author": "negura",
+        "score": 2,
         "comment_count": 0,
-        "published_at": "2026-11-24T05:26:59+00:00",
-        "summary": "Across 949 live Postgres 18.7 runs (10 models), 13 of 408 scored primary changes caused harm. Replaying them through AAA would have blocked 12 of 13 while approving 377 of 378 safe or unclassified changes.",
+        "published_at": "2026-11-25T04:27:55+00:00",
+        "summary": "We took over five US Treasury subdomains for about $3 each by cycling through AWS Elastic IPs. Here’s how it works, and what to check in your own DNS.",
         "comment_highlights": [],
         "linked_context": {
-          "resolved_url": "https://postgres.ai/blog/20261123-pgaibench",
-          "page_title": "PGAIBench and AAA: can AI safely change production Postgres? | PostgresAI",
-          "page_description": "Across 949 live Postgres 18.7 runs (10 models), 13 of 408 scored primary changes caused harm. Replaying them through AAA would have blocked 12 of 13 while approving 377 of 378 safe or unclassified changes.",
-          "page_excerpt": "Modern engineering teams run far more Postgres clusters than human DBREs can watch by hand, leaving most databases underserved. Our goal is a new operating model where one experienced DBRE or SRE can reliably oversee 1,000 clusters, which requires safe, AI-driven database operations.\n\nFrontier AI models already write valid SQL, and an agent with shell access can run it. The hard part of AI-driven database operations is knowing whether that SQL is safe to run on a live production database.\n\nAsk any experienced database reliability engineer (DBRE) why they will not hand production Postgres to an AI agent, and the answer is rarely syntax. Databases are stateful, and real outages happen when valid SQL collides with real production state (often multi-terabyte) and live traffic. A schema change waits for a slow reporting query, and new queries on that table queue behind it. A config ch..."
+          "resolved_url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+          "page_title": "Taking over US Treasury subdomains for $3 each",
+          "page_description": "We took over five US Treasury subdomains for about $3 each by cycling through AWS Elastic IPs. Here’s how it works, and what to check in your own DNS.",
+          "page_excerpt": "Elastic IP addresses (EIPs) in AWS are internet routable addresses available for use on cloud systems, by anyone. A common DNS mistake can leave them open for attackers to grab, which can lead to credential theft and worse. We demonstrated the attack is still possible in 2026, including finding real takeovers on US treasury domains, which were reported and fixed via a bug bounty program.\n\nThe cost to us for doing this was just $3 per valid takeover - what a bargain! We only covered less than 1% of the total IP space, so there are many more out there for attackers to grab. So, now is the time to review your DNS records and get those dangling records squashed ASAP.\n\nAs of the time of writing, the attack still works in practice, and though there are some controls to ban attackers abusing the system, there are sufficient gaps to make the attack practical, and at a reasonable cost."
         },
-        "content_context": "Across 949 live Postgres 18.7 runs (10 models), 13 of 408 scored primary changes caused harm. Replaying them through AAA would have blocked 12 of 13 while approving 377 of 378 safe or unclassified changes.\n\nModern engineering teams run far more Postgres clusters than human DBREs can watch by hand, leaving most databases underserved. Our goal is a new operating model where one experienced DBRE or SRE can reliably oversee 1,000 clusters, which requires safe, AI-driven database operations. Frontier AI models already write valid SQL, and an agent with shell access can run it. The hard part of AI-driven database operations is knowing whether that SQL is safe to run on a live production database. Ask any experienced database reliability engineer (DBRE) why they will not hand production Postgres to an AI agent, and the answer is rarely syntax. Databases are stateful, and real outages happen when valid SQL collides with real production state (often multi-terabyte) and live traffic. A schema change waits for a slow reporting query, and new queries on that table queue behind it. A config ch...",
-        "trend_score": 41.48,
+        "content_context": "We took over five US Treasury subdomains for about $3 each by cycling through AWS Elastic IPs. Here’s how it works, and what to check in your own DNS.\n\nElastic IP addresses (EIPs) in AWS are internet routable addresses available for use on cloud systems, by anyone. A common DNS mistake can leave them open for attackers to grab, which can lead to credential theft and worse. We demonstrated the attack is still possible in 2026, including finding real takeovers on US treasury domains, which were reported and fixed via a bug bounty program. The cost to us for doing this was just $3 per valid takeover - what a bargain! We only covered less than 1% of the total IP space, so there are many more out there for attackers to grab. So, now is the time to review your DNS records and get those dangling records squashed ASAP. As of the time of writing, the attack still works in practice, and though there are some controls to ban attackers abusing the system, there are sufficient gaps to make the attack practical, and at a reasonable cost.",
+        "trend_score": 45.86,
         "trend_breakdown": {
-          "freshness": 0.988,
+          "freshness": 0.987,
+          "engagement": 0.073,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Indian university named world’s best building",
+        "url": "https://www.architectsjournal.co.uk/news/daring-and-confident-indian-university-named-worlds-best-building-at-waf-2026",
+        "author": "geox",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-25T04:33:03+00:00",
+        "summary": "A university in India which ‘evokes images of stepped wells’ has been crowned World Building of the Year at the 2026 World Architecture Festival (WAF)",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.architectsjournal.co.uk/news/daring-and-confident-indian-university-named-worlds-best-building-at-waf-2026",
+          "page_title": "‘Daring and confident’ Indian university named world’s best building at WAF 2026",
+          "page_description": "A university in India which ‘evokes images of stepped wells’ has been crowned World Building of the Year at the 2026 World Architecture Festival (WAF)",
+          "page_excerpt": "Prestige University in Indore, designed by Sanjay Puri Architects, was named the best in show at the annual festival , which took place last week (18-20 November) in Fort Lauderdale, Florida.\n\nSeveral UK practices picked up category wins, including Foster + Partners’ transformation of The Whiteley , a historic early 20th-century department store in Bayswater, London, which scooped the Retrofit award.\n\nThe best Civic and Community project was handed to the New Government Quarter in Oslo, Norway, co-designed by Nordic Office of Architecture and London-based Haptic Architects ."
+        },
+        "content_context": "A university in India which ‘evokes images of stepped wells’ has been crowned World Building of the Year at the 2026 World Architecture Festival (WAF)\n\nPrestige University in Indore, designed by Sanjay Puri Architects, was named the best in show at the annual festival , which took place last week (18-20 November) in Fort Lauderdale, Florida. Several UK practices picked up category wins, including Foster + Partners’ transformation of The Whiteley , a historic early 20th-century department store in Bayswater, London, which scooped the Retrofit award. The best Civic and Community project was handed to the New Government Quarter in Oslo, Norway, co-designed by Nordic Office of Architecture and London-based Haptic Architects .",
+        "trend_score": 44.56,
+        "trend_breakdown": {
+          "freshness": 0.99,
+          "engagement": 0.046,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Quad9 shuts down DNS service in France after piracy-blocking order – LavX News",
+        "url": "https://news.lavx.hu/article/quad9-shuts-down-dns-service-in-france-after-piracy-blocking-order",
+        "author": "abdelhousni",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-25T04:25:49+00:00",
+        "summary": "Quad9 disabled its recursive DNS resolver for users in France on Nov. 24, 2026, after French courts backed beIn's demand to block domains linked to alleged piracy.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://news.lavx.hu/article/quad9-shuts-down-dns-service-in-france-after-piracy-blocking-order",
+          "page_title": "Quad9 shuts down DNS service in France after piracy-blocking order",
+          "page_description": "Quad9 disabled its recursive DNS resolver for users in France on Nov. 24, 2026, after French courts backed beIn's demand to block domains linked to alleged piracy.",
+          "page_excerpt": "Quad9 disabled its recursive DNS resolver for users in France on Nov. 24, 2026, after French courts backed beIn's demand to block domains linked to alleged piracy.\n\nQuad9 disabled its recursive DNS service for users in France on Nov. 24, 2026, after French courts upheld demands from sports rightsholder beIn to block domains the company linked to alleged piracy streaming sites.\n\nThe nonprofit DNS provider said its servers will refuse queries from France reaching any Quad9 service address. Quad9 set the shutdown for 9 a.m. Central European Time, a window the organization chose to give affected users time to change their DNS settings during business hours, according to its blog post ."
+        },
+        "content_context": "Quad9 disabled its recursive DNS resolver for users in France on Nov. 24, 2026, after French courts backed beIn's demand to block domains linked to alleged piracy.\n\nQuad9 disabled its recursive DNS resolver for users in France on Nov. 24, 2026, after French courts backed beIn's demand to block domains linked to alleged piracy. Quad9 disabled its recursive DNS service for users in France on Nov. 24, 2026, after French courts upheld demands from sports rightsholder beIn to block domains the company linked to alleged piracy streaming sites. The nonprofit DNS provider said its servers will refuse queries from France reaching any Quad9 service address. Quad9 set the shutdown for 9 a.m. Central European Time, a window the organization chose to give affected users time to change their DNS settings during business hours, according to its blog post .",
+        "trend_score": 42.85,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.046,
+          "topic_overlap": 0.083,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Native Shell v0.7.0 Released",
+        "url": "https://nsh.dev/releases/",
+        "author": "ksec",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-25T04:39:28+00:00",
+        "summary": "The most recent versions of Native Shell, with the notes from their GitHub releases.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://nsh.dev/releases/",
+          "page_title": "Release notes · Native Shell",
+          "page_description": "The most recent versions of Native Shell, with the notes from their GitHub releases.",
+          "page_excerpt": "A large release: 606 pull requests since v0.6.0 from 76 contributors (fixes already shipped in v0.6.1 are included). Highlights are independent desktop windows with app quit modes, NSH modules (nshm) installed with nsh add and locked in nsh.lock , the official nsh-extra modules (camera, push, photos, speech, location), nsh publish to the App Store, Google Play, Flathub and the Microsoft Store,...\n\n@0x1306a94 @1havecoke @821869798 @aiiven @AkaraChen @alexwan02 @BeADre @Blackman99 @blueberrycongee @burdygin @chaxus @ClarkThan @Cooooooker @cosformula @daoleno @davo20019 @daydoing @Debbl @Duskriver @Geylnu @gilbertwong96 @haveanicedavid @Hermon000 @hexuria @hmziqrs @hsingjui @huacnlee @ihavecoke @itisvincent @jcdiv47 @jjyr @Joy-jinyu @jsiu93 @KeepNoob @kim0 @labcoder @LeeDashan @Lemenxzy @ln..."
+        },
+        "content_context": "The most recent versions of Native Shell, with the notes from their GitHub releases.\n\nA large release: 606 pull requests since v0.6.0 from 76 contributors (fixes already shipped in v0.6.1 are included). Highlights are independent desktop windows with app quit modes, NSH modules (nshm) installed with nsh add and locked in nsh.lock , the official nsh-extra modules (camera, push, photos, speech, location), nsh publish to the App Store, Google Play, Flathub and the Microsoft Store,... @0x1306a94 @1havecoke @821869798 @aiiven @AkaraChen @alexwan02 @BeADre @Blackman99 @blueberrycongee @burdygin @chaxus @ClarkThan @Cooooooker @cosformula @daoleno @davo20019 @daydoing @Debbl @Duskriver @Geylnu @gilbertwong96 @haveanicedavid @Hermon000 @hexuria @hmziqrs @hsingjui @huacnlee @ihavecoke @itisvincent @jcdiv47 @jjyr @Joy-jinyu @jsiu93 @KeepNoob @kim0 @labcoder @LeeDashan @Lemenxzy @ln...",
+        "trend_score": 41.74,
+        "trend_breakdown": {
+          "freshness": 0.995,
           "engagement": 0.046,
           "topic_overlap": 0.0,
           "source_weight": 0.9,
@@ -612,200 +625,50 @@
     ],
     "news": [
       {
-        "source": "AP News",
-        "category": "news",
-        "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVdZZl9tRjc0WjhZbUY0NVZvdTRDQ01ZOTl4RmZUQndRR0ZHRmpkRVJ6ZjFCQzJYVml0cnoycjNWaW1rWWVENmJHbS1xaHZLc1U5azdFRmU4UmdDa0thQmlkeW9GZlhmeElDTS1NWXFHUmJPOFFBZU1rbml2dWxQQnRMVTMwSmxDTDFPQU92WTJBaUNEclZB?oc=5",
-        "published_at": "2026-11-24T01:00:00+00:00",
-        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal appeals court gives President Donald Trump a path to erasing hush money conviction；Judges Open Door for Trump to Win Appeal in Stormy Daniels Case；Federal appeals court hands Trump way out of conviction in hush-money case。",
-        "related_headlines": [
-          "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
-          "Judges Open Door for Trump to Win Appeal in Stormy Daniels Case",
-          "Federal appeals court hands Trump way out of conviction in hush-money case",
-          "Appeals court opens door to moving Trump’s criminal case to federal court",
-          "Trump gets another shot in his quest to overturn hush money conviction"
-        ],
-        "content_context": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Federal appeals court gives President Donald Trump a path to erasing hush money conviction；Judges Open Door for Trump to Win Appeal in Stormy Daniels Case；Federal appeals court hands Trump way out of conviction in hush-money case。\n\nRelated coverage: Federal appeals court gives President Donald Trump a path to erasing hush money conviction\n\nRelated coverage: Judges Open Door for Trump to Win Appeal in Stormy Daniels Case\n\nRelated coverage: Federal appeals court hands Trump way out of conviction in hush-money case\n\nRelated coverage: Appeals court opens door to moving Trump’s criminal case to federal court\n\nRelated coverage: Trump gets another shot in his quest to overturn hush money conviction",
-        "trend_score": 31.36,
-        "trend_breakdown": {
-          "freshness": 0.803,
-          "engagement": 0.0,
-          "topic_overlap": 0.154,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "CBS News",
-        "category": "news",
-        "title": "Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\" - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94VFB2QTlTX0NENXBHTjZrZk1BaGJCT01tVndHaFhkV1I5NG5RRlRnS1hxVzNXX2FZSXlZeWItQlA3UzJ4MC14cUxvekswdEcxYTl5WmhjZ19ublN5RXhZQmJjN0hrdUNPUXlKZjd1a0pkQQ?oc=5",
-        "published_at": "2026-11-24T01:49:00+00:00",
-        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\"；Friends describe lives of father and daughter detained by ICE at SEA；Seattle airport operator 'outraged' over ICE arrest of two passengers。",
-        "related_headlines": [
-          "Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\"",
-          "Friends describe lives of father and daughter detained by ICE at SEA",
-          "Seattle airport operator 'outraged' over ICE arrest of two passengers",
-          "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
-          "ICE pushed past Alaska Airlines staffer to make Sea-Tac arrests"
-        ],
-        "content_context": "Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\" - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\"；Friends describe lives of father and daughter detained by ICE at SEA；Seattle airport operator 'outraged' over ICE arrest of two passengers。\n\nRelated coverage: Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\"\n\nRelated coverage: Friends describe lives of father and daughter detained by ICE at SEA\n\nRelated coverage: Seattle airport operator 'outraged' over ICE arrest of two passengers\n\nRelated coverage: Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle\n\nRelated coverage: ICE pushed past Alaska Airlines staffer to make Sea-Tac arrests",
-        "trend_score": 31.35,
-        "trend_breakdown": {
-          "freshness": 0.837,
-          "engagement": 0.0,
-          "topic_overlap": 0.077,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Fox News",
-        "category": "news",
-        "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
-        "published_at": "2026-11-24T00:56:59+00:00",
-        "summary": "Fox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation；DOJ says House’s top lawyer ‘refused to be involved’ ahead of Omar search；Judge unseals documents related to search of Rep. Ilhan Omar’s home。",
-        "related_headlines": [
-          "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation",
-          "DOJ says House’s top lawyer ‘refused to be involved’ ahead of Omar search",
-          "Judge unseals documents related to search of Rep. Ilhan Omar’s home",
-          "Judge demanded safeguards before search of Rep. Omar’s home, records show",
-          "Ilhan Omar Investigation Covers Most of Her Life, Unsealed Records Show"
-        ],
-        "content_context": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News\n\nFox News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation；DOJ says House’s top lawyer ‘refused to be involved’ ahead of Omar search；Judge unseals documents related to search of Rep. Ilhan Omar’s home。\n\nRelated coverage: Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation\n\nRelated coverage: DOJ says House’s top lawyer ‘refused to be involved’ ahead of Omar search\n\nRelated coverage: Judge unseals documents related to search of Rep. Ilhan Omar’s home\n\nRelated coverage: Judge demanded safeguards before search of Rep. Omar’s home, records show\n\nRelated coverage: Ilhan Omar Investigation Covers Most of Her Life, Unsealed Records Show",
-        "trend_score": 31.11,
-        "trend_breakdown": {
-          "freshness": 0.801,
-          "engagement": 0.0,
-          "topic_overlap": 0.143,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "BBC",
-        "category": "news",
-        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc?oc=5",
-        "published_at": "2026-11-24T02:15:59+00:00",
-        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nato chief vows defence against space threat after Russian nuclear satellite reports；Germany taking seriously reports Russia may be planning to launch nuclear weapons into space；NATO chief says 'space' part of defense pledge as Russia reportedly readies nuclear satellite。",
-        "related_headlines": [
-          "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
-          "NATO chief says 'space' part of defense pledge as Russia reportedly readies nuclear satellite",
-          "Russia is developing a nuclear space weapon, US intelligence report finds",
-          "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
-        ],
-        "content_context": "Nato chief vows defence against space threat after Russian nuclear satellite reports - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nato chief vows defence against space threat after Russian nuclear satellite reports；Germany taking seriously reports Russia may be planning to launch nuclear weapons into space；NATO chief says 'space' part of defense pledge as Russia reportedly readies nuclear satellite。\n\nRelated coverage: Nato chief vows defence against space threat after Russian nuclear satellite reports\n\nRelated coverage: Germany taking seriously reports Russia may be planning to launch nuclear weapons into space\n\nRelated coverage: NATO chief says 'space' part of defense pledge as Russia reportedly readies nuclear satellite\n\nRelated coverage: Russia is developing a nuclear space weapon, US intelligence report finds\n\nRelated coverage: Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-        "trend_score": 30.8,
-        "trend_breakdown": {
-          "freshness": 0.855,
-          "engagement": 0.0,
-          "topic_overlap": 0.0,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
         "source": "The Washington Post",
         "category": "news",
-        "title": "Rep. Jimmy Gomez to resign following sexual misconduct findings - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdERLTDAxdzBmSzFzb3F6WTNmMkJQQmsxUjdSQjNFYUdoUmYzLS1HQVY5Q1F2TlRqS0tjVDdPZWs4REFPNWJSVUtHS3E5VzZxbFpMc2VNZnV5ZU44d0pwLUhURWlRREtlRkdtZDlSWDFZNkVIZkdsNXFJVGhnWGFDNXRpRENoeGoyRldrUTNEMHdSNnF1RzJwSjlUNFlmMHRCdGlJckJfZzNpZm1RSHRYRFNFa1NEcTBDcFoyQkdseTliWENZ?oc=5",
-        "published_at": "2026-11-24T01:45:46+00:00",
-        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rep. Jimmy Gomez to resign following sexual misconduct findings；Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide；House Ethics finds misconduct by three outgoing lawmakers。",
+        "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
+        "published_at": "2026-11-25T01:37:38+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate；Feds have added mitigation strategies, local aid ahead of lead azide detonation；PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Ammunition Plant。",
         "related_headlines": [
-          "Rep. Jimmy Gomez to resign following sexual misconduct findings",
-          "Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide",
-          "House Ethics finds misconduct by three outgoing lawmakers",
-          "California Democrat Jimmy Gomez to resign from Congress after evidence of sexual misconduct",
-          "Democratic congressman resigns after damning House ethics report"
+          "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate",
+          "Feds have added mitigation strategies, local aid ahead of lead azide detonation",
+          "PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Ammunition Plant",
+          "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+          "Latest maps provided by US Army show potential locations of lead exposure during Wednesday's controlled detonation"
         ],
-        "content_context": "Rep. Jimmy Gomez to resign following sexual misconduct findings - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rep. Jimmy Gomez to resign following sexual misconduct findings；Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide；House Ethics finds misconduct by three outgoing lawmakers。\n\nRelated coverage: Rep. Jimmy Gomez to resign following sexual misconduct findings\n\nRelated coverage: Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide\n\nRelated coverage: House Ethics finds misconduct by three outgoing lawmakers\n\nRelated coverage: California Democrat Jimmy Gomez to resign from Congress after evidence of sexual misconduct\n\nRelated coverage: Democratic congressman resigns after damning House ethics report",
-        "trend_score": 30.04,
+        "content_context": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate；Feds have added mitigation strategies, local aid ahead of lead azide detonation；PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Ammunition Plant。\n\nRelated coverage: Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate\n\nRelated coverage: Feds have added mitigation strategies, local aid ahead of lead azide detonation\n\nRelated coverage: PHOTOS: Images show barrels of deteriorating lead azide inside Iowa Army Ammunition Plant\n\nRelated coverage: Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning\n\nRelated coverage: Latest maps provided by US Army show potential locations of lead exposure during Wednesday's controlled detonation",
+        "trend_score": 38.66,
         "trend_breakdown": {
-          "freshness": 0.834,
+          "freshness": 0.869,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.462,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
         "domains": []
       },
       {
-        "source": "The Hill",
+        "source": "CNN",
         "category": "news",
-        "title": "Trump: DOJ working to overturn Newsom’s death row commutations - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFo1VHBPNTNKLWJsTk0xeUdQN2NJQTJBbkF3OHFOWTBOalRnMTJrMGpvX2pBY0loWDV6R0FBc21SUmIyR0VHRXpqb0pjaHNyQWk5by1PTW5GTUJjZDhsWWhZQkgxSkJXZy04WGRTaERZdVM0UHFzcWh6V2QycUlMVmlrd013bTc5YkVVVNIBkgFBVV95cUxQX1RiR1BOSGkxUi1rTV9yRF90dmRJUHhQUnUxSGFCT3RQRVdvUjZTSGVobl9HNUNFbFh4ZG1sM1lUOHVXZ2tldjhCZDdveWtra0dvLVQxTEZMUl83dV9WaXVXdDMyZ29SZmRKclhIT0tUUjRFdEwzTDlnTjBSeVZYZGhVTXlSYV9XcjFvTUlFS0tUQQ?oc=5",
-        "published_at": "2026-11-23T23:24:00+00:00",
-        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump: DOJ working to overturn Newsom’s death row commutations；Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations；Trump urges justice department to speed up federal executions in dig at Gavin Newsom。",
+        "title": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV1kzeXRETGd2Z016cUVXUm50cE1RTW14Nmp2empqQ2Y3d2laSFBWN1dZSkQxeGpaamNLaTRYd1d3ZFE2TVN4cW4tc2I2ZXpSamg2MG1JZXpHeHdBVUdKbzhrMmFwOXh3MTJQTkdoamdDRFI5NU5MSUF0V190MUE?oc=5",
+        "published_at": "2026-11-25T01:22:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business；Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets；China’s Huawei Convicted of Fraud in U.S. Criminal Trial。",
         "related_headlines": [
-          "Trump: DOJ working to overturn Newsom’s death row commutations",
-          "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
-          "Trump urges justice department to speed up federal executions in dig at Gavin Newsom",
-          "Trump uses DOJ speech to attack Newsom, a potential 2028 contender",
-          "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime"
+          "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
+          "Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets",
+          "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+          "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion"
         ],
-        "content_context": "Trump: DOJ working to overturn Newsom’s death row commutations - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump: DOJ working to overturn Newsom’s death row commutations；Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations；Trump urges justice department to speed up federal executions in dig at Gavin Newsom。\n\nRelated coverage: Trump: DOJ working to overturn Newsom’s death row commutations\n\nRelated coverage: Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations\n\nRelated coverage: Trump urges justice department to speed up federal executions in dig at Gavin Newsom\n\nRelated coverage: Trump uses DOJ speech to attack Newsom, a potential 2028 contender\n\nRelated coverage: Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
-        "trend_score": 28.27,
+        "content_context": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business；Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets；China’s Huawei Convicted of Fraud in U.S. Criminal Trial。\n\nRelated coverage: US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business\n\nRelated coverage: Chinese tech giant Huawei convicted of federal charges, including conspiracy to steal trade secrets\n\nRelated coverage: China’s Huawei Convicted of Fraud in U.S. Criminal Trial\n\nRelated coverage: Huawei found guilty of stealing trade secrets but acquitted of racketeering\n\nRelated coverage: Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+        "trend_score": 36.42,
         "trend_breakdown": {
-          "freshness": 0.736,
+          "freshness": 0.858,
           "engagement": 0.0,
-          "topic_overlap": 0.111,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "PBS",
-        "category": "news",
-        "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
-        "published_at": "2026-11-23T22:05:00+00:00",
-        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know；Court Clears the Way for Iowa Ammunition Detonation; Trump Addresses the Crisis；Army proceeding with lead detonation on Wednesday。",
-        "related_headlines": [
-          "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
-          "Court Clears the Way for Iowa Ammunition Detonation; Trump Addresses the Crisis",
-          "Army proceeding with lead detonation on Wednesday",
-          "US Army to detonate degraded bomb-making material in Iowa after getting court approval",
-          "‘Not a time for panic’: Governor says Missouri is prepared for possible lead fallout from Iowa blast"
-        ],
-        "content_context": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know；Court Clears the Way for Iowa Ammunition Detonation; Trump Addresses the Crisis；Army proceeding with lead detonation on Wednesday。\n\nRelated coverage: Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know\n\nRelated coverage: Court Clears the Way for Iowa Ammunition Detonation; Trump Addresses the Crisis\n\nRelated coverage: Army proceeding with lead detonation on Wednesday\n\nRelated coverage: US Army to detonate degraded bomb-making material in Iowa after getting court approval\n\nRelated coverage: ‘Not a time for panic’: Governor says Missouri is prepared for possible lead fallout from Iowa blast",
-        "trend_score": 25.75,
-        "trend_breakdown": {
-          "freshness": 0.681,
-          "engagement": 0.0,
-          "topic_overlap": 0.077,
-          "source_weight": 0.8,
-          "domain_weight": 1.0
-        },
-        "domains": []
-      },
-      {
-        "source": "Politico",
-        "category": "news",
-        "title": "Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families - Politico",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNGx0RFFieXdyeE83RFlERWZ4UFJfZVQtdGpZMXRSaEU3ZDItLXBiQWJlTE1NQVN2RklzelEzQ0JSbGdjdDY2V1lHTnNrcDM3ZlNMQXktZVctRFE3Tk5RM2c3RG00R2Y3RFFsdXNZcHpPSzJ5eEdZdnAtWWtNWGVLWVE4cVBRc0RnN055UGhnNDNNV0VKNlQ4MzNSZko0Q01QSGtDM3JqRWZ0cTBhWU5xUEVDSkFlLTBXMU1mUVJ6OXZpNTJUajV4bUoxb1pkR1U?oc=5",
-        "published_at": "2026-11-23T18:00:00+00:00",
-        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families；Boston sues Trump Administration over new rule targeting immigrants in federally-subsidized housing；States sue HUD over a rule that could cut off housing aid for mixed-status families。",
-        "related_headlines": [
-          "Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families",
-          "Boston sues Trump Administration over new rule targeting immigrants in federally-subsidized housing",
-          "States sue HUD over a rule that could cut off housing aid for mixed-status families",
-          "New York City Sues Federal Government to Protect “Mixed-Status” Families from Losing Their Homes",
-          "Arizona sues over federal rule ending housing aid for mixed-status families"
-        ],
-        "content_context": "Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families；Boston sues Trump Administration over new rule targeting immigrants in federally-subsidized housing；States sue HUD over a rule that could cut off housing aid for mixed-status families。\n\nRelated coverage: Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families\n\nRelated coverage: Boston sues Trump Administration over new rule targeting immigrants in federally-subsidized housing\n\nRelated coverage: States sue HUD over a rule that could cut off housing aid for mixed-status families\n\nRelated coverage: New York City Sues Federal Government to Protect “Mixed-Status” Families from Losing Their Homes\n\nRelated coverage: Arizona sues over federal rule ending housing aid for mixed-status families",
-        "trend_score": 22.49,
-        "trend_breakdown": {
-          "freshness": 0.511,
-          "engagement": 0.0,
-          "topic_overlap": 0.083,
+          "topic_overlap": 0.067,
           "source_weight": 0.8,
           "domain_weight": 1.14
         },
@@ -814,23 +677,175 @@
         ]
       },
       {
+        "source": "Reuters",
+        "category": "news",
+        "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+        "published_at": "2026-11-24T22:55:43+00:00",
+        "summary": "Reuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says；CIA hit by hack impacting unclassified information；U.S. Spy Agencies Suffer Breach of Some Unclassified Information。",
+        "related_headlines": [
+          "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
+          "CIA hit by hack impacting unclassified information",
+          "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+          "Hackers Breach CIA System to Access Unclassified Information",
+          "U.S. Spy Agencies Hit By Hack"
+        ],
+        "content_context": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters\n\nReuters 头条聚焦该事件，Google News 同时聚合到这些相关表述：US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says；CIA hit by hack impacting unclassified information；U.S. Spy Agencies Suffer Breach of Some Unclassified Information。\n\nRelated coverage: US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says\n\nRelated coverage: CIA hit by hack impacting unclassified information\n\nRelated coverage: U.S. Spy Agencies Suffer Breach of Some Unclassified Information\n\nRelated coverage: Hackers Breach CIA System to Access Unclassified Information\n\nRelated coverage: U.S. Spy Agencies Hit By Hack",
+        "trend_score": 34.35,
+        "trend_breakdown": {
+          "freshness": 0.756,
+          "engagement": 0.0,
+          "topic_overlap": 0.182,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
+        "published_at": "2026-11-25T01:51:19+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end；Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal；Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report。",
+        "related_headlines": [
+          "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+          "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+          "Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report",
+          "Kilmar Abrego Garcia leaving the US, self-deporting to Spain",
+          "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US"
+        ],
+        "content_context": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end；Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal；Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report。\n\nRelated coverage: Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end\n\nRelated coverage: Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal\n\nRelated coverage: Kilmar Abrego Garcia to leave U.S. for Europe following deportation mishap: report\n\nRelated coverage: Kilmar Abrego Garcia leaving the US, self-deporting to Spain\n\nRelated coverage: Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+        "trend_score": 31.61,
+        "trend_breakdown": {
+          "freshness": 0.878,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "ABC7 Bay Area",
+        "category": "news",
+        "title": "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+        "published_at": "2026-11-25T01:46:00+00:00",
+        "summary": "ABC7 Bay Area 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live storm updates: Record king tides leave Bay Area roads flooded；California King Tides Threaten ‘Extreme’ Coastal Flooding；‘It gets worse and worse:' Coastal flooding hits California community again。",
+        "related_headlines": [
+          "Live storm updates: Record king tides leave Bay Area roads flooded",
+          "California King Tides Threaten ‘Extreme’ Coastal Flooding",
+          "‘It gets worse and worse:' Coastal flooding hits California community again",
+          "King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding",
+          "King tides could break decades-old records and flood communities on both coasts on Thanksgiving week"
+        ],
+        "content_context": "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area\n\nABC7 Bay Area 头条聚焦该事件，Google News 同时聚合到这些相关表述：Live storm updates: Record king tides leave Bay Area roads flooded；California King Tides Threaten ‘Extreme’ Coastal Flooding；‘It gets worse and worse:' Coastal flooding hits California community again。\n\nRelated coverage: Live storm updates: Record king tides leave Bay Area roads flooded\n\nRelated coverage: California King Tides Threaten ‘Extreme’ Coastal Flooding\n\nRelated coverage: ‘It gets worse and worse:' Coastal flooding hits California community again\n\nRelated coverage: King Salmon residents ordered to evacuate Nov. 24 amid rising coastal flooding\n\nRelated coverage: King tides could break decades-old records and flood communities on both coasts on Thanksgiving week",
+        "trend_score": 31.48,
+        "trend_breakdown": {
+          "freshness": 0.874,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
         "source": "NBC News",
         "category": "news",
-        "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pNUkN4LXZiQlIySy1sZ01UeXBHQmc1M0hxVWNRcVQycmY1UnRRQlFmdUpycURZbUNhNXY2RzJxREMwRW5Za2lucUt2blJneG5NcHFCSUFUamoyREhfblh4T1hzZXd2SGQ0NS1mTDhfc1hQTEpiS1hRS0VpcEUzSUFBX0NCNWhzcUNueWlFeTNTYnpnal9VbnBVVFJiZzBtSDBnblcyZFdwWWYtOVZ1dHlBQ3RHbHA0MUE?oc=5",
-        "published_at": "2026-11-23T17:48:11+00:00",
-        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rough weather expected to hit both coasts, may disrupt Thanksgiving travel；Thanksgiving travel forecast 2026: storms on both coasts；Thanksgiving storm sets its sights on New England, bringing rain, strong winds. Here’s the latest forecast.。",
+        "title": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5",
+        "published_at": "2026-11-25T00:15:00+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution；Fort Hood mass shooter asks judge to halt firing-squad execution set for next week；Fort Hood shooter Nidal Hasan asks court to halt his execution。",
         "related_headlines": [
-          "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel",
-          "Thanksgiving travel forecast 2026: storms on both coasts",
-          "Thanksgiving storm sets its sights on New England, bringing rain, strong winds. Here’s the latest forecast.",
-          "Nor'easter could spoil Macy's Thanksgiving Day Parade fun in NYC with strong winds, rain",
-          "Bomb cyclone? Storm to wallop East Coast"
+          "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution",
+          "Fort Hood mass shooter asks judge to halt firing-squad execution set for next week",
+          "Fort Hood shooter Nidal Hasan asks court to halt his execution",
+          "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
+          "Nidal Hasan asks US judge for stay of execution for Fort Hood murders"
         ],
-        "content_context": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rough weather expected to hit both coasts, may disrupt Thanksgiving travel；Thanksgiving travel forecast 2026: storms on both coasts；Thanksgiving storm sets its sights on New England, bringing rain, strong winds. Here’s the latest forecast.。\n\nRelated coverage: Rough weather expected to hit both coasts, may disrupt Thanksgiving travel\n\nRelated coverage: Thanksgiving travel forecast 2026: storms on both coasts\n\nRelated coverage: Thanksgiving storm sets its sights on New England, bringing rain, strong winds. Here’s the latest forecast.\n\nRelated coverage: Nor'easter could spoil Macy's Thanksgiving Day Parade fun in NYC with strong winds, rain\n\nRelated coverage: Bomb cyclone? Storm to wallop East Coast",
-        "trend_score": 19.43,
+        "content_context": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution；Fort Hood mass shooter asks judge to halt firing-squad execution set for next week；Fort Hood shooter Nidal Hasan asks court to halt his execution。\n\nRelated coverage: Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution\n\nRelated coverage: Fort Hood mass shooter asks judge to halt firing-squad execution set for next week\n\nRelated coverage: Fort Hood shooter Nidal Hasan asks court to halt his execution\n\nRelated coverage: Fort Hood survivors denied bid to witness shooter’s firing-squad execution\n\nRelated coverage: Nidal Hasan asks US judge for stay of execution for Fort Hood murders",
+        "trend_score": 30.35,
         "trend_breakdown": {
-          "freshness": 0.503,
+          "freshness": 0.811,
+          "engagement": 0.0,
+          "topic_overlap": 0.071,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "New York Post",
+        "category": "news",
+        "title": "Turkey flees from Trump ahead of annual presidential pardon - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVJFb3JHMjJ6YUhFblVQdjBzazd2dnVlQ3Y5YWw5T3VFWk1CZXhuX2hiSTZMb2dQX1FkTFEwWlBES29KTlNXWmdUbnRYRGtkU0s5el81TGlTeFdJNVlIV3lZaVg2RWxYeUtFSUF1VS1zUUJOS3hoLU5KUXprWFVoOW5mOE0xUjNSNE8wTDJDUjRkanFKdkpKZA?oc=5",
+        "published_at": "2026-11-24T22:54:00+00:00",
+        "summary": "New York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Turkey flees from Trump ahead of annual presidential pardon；WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers；One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony。",
+        "related_headlines": [
+          "Turkey flees from Trump ahead of annual presidential pardon",
+          "WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+          "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+          "Trump talks turkey, and his ballroom, at pardoning event",
+          "Everyone is getting a pardon. What’s two more turkeys?"
+        ],
+        "content_context": "Turkey flees from Trump ahead of annual presidential pardon - New York Post\n\nNew York Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Turkey flees from Trump ahead of annual presidential pardon；WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers；One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony。\n\nRelated coverage: Turkey flees from Trump ahead of annual presidential pardon\n\nRelated coverage: WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers\n\nRelated coverage: One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony\n\nRelated coverage: Trump talks turkey, and his ballroom, at pardoning event\n\nRelated coverage: Everyone is getting a pardon. What’s two more turkeys?",
+        "trend_score": 28.78,
+        "trend_breakdown": {
+          "freshness": 0.755,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "USA Today",
+        "category": "news",
+        "title": "Nor'easter to bring Thanksgiving weather misery to millions - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXplMVVsQmJFOElPbzg5UUhZRGJKMHZxWk1DMmNhX09jb3lsbjZjZWxTRWozanF1eXVDWFktQ3dnUXd2ZUlkN2l4S2RRRU5DRzFyZExpOXRKaktSb2Jlb2RQTUZsc0VjWjVyS3F4eDRIY21oUDdqakV3WjFDN2hWQi02U2dzQ2dxMnhobjM2Sjc0RTRQdEFPUVhQSjY2YlRyVUczTjBWcEU?oc=5",
+        "published_at": "2026-11-24T22:30:00+00:00",
+        "summary": "USA Today 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nor'easter to bring Thanksgiving weather misery to millions；Timeline: See when the major East Coast Thanksgiving week storm will impact your area；Powerful Thanksgiving storm to snarl travel as powerful winds, heavy rain sweep eastern, central US。",
+        "related_headlines": [
+          "Nor'easter to bring Thanksgiving weather misery to millions",
+          "Timeline: See when the major East Coast Thanksgiving week storm will impact your area",
+          "Powerful Thanksgiving storm to snarl travel as powerful winds, heavy rain sweep eastern, central US",
+          "Major Thanksgiving storm ahead for Northeast, mid-Atlantic",
+          "A wild Thanksgiving nor’easter will bring shrieking winds, pounding rain, and record-approaching water levels"
+        ],
+        "content_context": "Nor'easter to bring Thanksgiving weather misery to millions - USA Today\n\nUSA Today 头条聚焦该事件，Google News 同时聚合到这些相关表述：Nor'easter to bring Thanksgiving weather misery to millions；Timeline: See when the major East Coast Thanksgiving week storm will impact your area；Powerful Thanksgiving storm to snarl travel as powerful winds, heavy rain sweep eastern, central US。\n\nRelated coverage: Nor'easter to bring Thanksgiving weather misery to millions\n\nRelated coverage: Timeline: See when the major East Coast Thanksgiving week storm will impact your area\n\nRelated coverage: Powerful Thanksgiving storm to snarl travel as powerful winds, heavy rain sweep eastern, central US\n\nRelated coverage: Major Thanksgiving storm ahead for Northeast, mid-Atlantic\n\nRelated coverage: A wild Thanksgiving nor’easter will bring shrieking winds, pounding rain, and record-approaching water levels",
+        "trend_score": 28.36,
+        "trend_breakdown": {
+          "freshness": 0.738,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "WLOX",
+        "category": "news",
+        "title": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says - WLOX",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWhWRC1JZlkzcVo5X180dDhCZkJZa3BIVVlQcnEwbDRqYUpnLUc2dzZuamc4QUZBQURvek16cHFTV2RiSnV6YjRQN1R0UlZPOEF5bDdNcUJXZUdKZmtUc1ZNZG1YQVdpWkdfR0tZVkc5blN5VGpfZFFjYnpRQTNUVUpQWHJuZlJEVlVTTmFTSWp1VlJBWHNkN09JT1NqYWpHZGNUVE9RTXZtUUFVMGxkNNIBxAFBVV95cUxOaktmb1g2OFNMYmFYZ3hiYVlucWRvU0o2TUt4Ti13Zm5BRHBQcE8wVTU0eFY1c2hQek5WZVNMLWVLTWlvcVI1WEpTZEpBb1NRYW00Qk5lR0x3d0s1bng4NFJCOWZyd2FZUHZwcDVQa2xnMDFtWXdmdWpQNURYN0pWcElPeHg2SUVnLTNlRHRPX1JxektYbWxYTVdRdTRlb01uc1Vhc25adzBhNjlmVWhVMndtVEtnTE5QWlNQOUVrNUN3Z2Jo?oc=5",
+        "published_at": "2026-11-24T22:05:00+00:00",
+        "summary": "WLOX 头条聚焦该事件，Google News 同时聚合到这些相关表述：4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says；Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island；Search underway in water near Horn Island for four adults, two kids involved in plane crash。",
+        "related_headlines": [
+          "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+          "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island",
+          "Search underway in water near Horn Island for four adults, two kids involved in plane crash",
+          "What We Know About the Cessna Private Jet That Crashed in Mississippi",
+          "Rescue crews search for six people after plane crash off Mississippi coast"
+        ],
+        "content_context": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says - WLOX\n\nWLOX 头条聚焦该事件，Google News 同时聚合到这些相关表述：4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says；Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island；Search underway in water near Horn Island for four adults, two kids involved in plane crash。\n\nRelated coverage: 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says\n\nRelated coverage: Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island\n\nRelated coverage: Search underway in water near Horn Island for four adults, two kids involved in plane crash\n\nRelated coverage: What We Know About the Cessna Private Jet That Crashed in Mississippi\n\nRelated coverage: Rescue crews search for six people after plane crash off Mississippi coast",
+        "trend_score": 27.29,
+        "trend_breakdown": {
+          "freshness": 0.721,
           "engagement": 0.0,
           "topic_overlap": 0.083,
           "source_weight": 0.8,
@@ -839,25 +854,25 @@
         "domains": []
       },
       {
-        "source": "The New York Times",
+        "source": "PBS",
         "category": "news",
-        "title": "Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWlXTkpVVnhUbjdFY1E0bmZXaGxuNmlLaGVwYnBxSTRkakZhS0djMTEza1VFbGhkTWpra1hKOW13bDVjQ0RnYWhTOG1PenVWSEd6UGVPTzhIT0sxUmk0dkFqaHFXQkFrMnFQdG9SaFdmZDVZblNjLW1WWWxuN2NLcnVfLVktY3VmSkE?oc=5",
-        "published_at": "2026-11-23T18:25:16+00:00",
-        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets；San Francisco’s sewage nightmare is just getting started；Storm-battered SF businesses fear what comes next as king tides approach。",
+        "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home - PBS",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXdGMEl0TUtBOUd6dFAxcHdQS2FybHE3V0lGTzlKbjlWQkJ2LTJONFBCTkJ3Q2FzQXhmTl9ZZnpULW5yNmFEa3dBcFNYdXZkXzJhMDUzWFBYa0kyMUNVVHd6WnNPYlpvZHhCdGlhV1NKWW1ISkpSNTNYbUsxQXkzdWxHTmtnMHBpWGk5Wm9wMmk2bFZSUmFINzBveWo4ZFFjZjRJejhRZDVZZDhmX28xWXpWOWFYOVprbHVvN2JnYWs2bmRuRnJoemU4bDJiLUnSAdQBQVVfeXFMTlc1c2ZxSDJWcDQ3MTFxQ3pYOG5TYmVrYng3cUNZR0EtQ3dOS2NYM1RRLUxkUWpKd2hzM1Nhb2J6SEF3TGxtYTN4eVVsVjRhWWs1MXZBSVktLURPLXRJYno5Tnd1azdOdVB4QjI0NUhBN1ExbjV2cTZJNm9vMmtYUVRyaWVnaEpSVXBLOEN5bDd2REN2VlhDaDA1MHNBTl9QTTZja3NjLXQzZjB1QUVvd09lSXJFanp4TVZtdlNBVjY1TzJsTWdmQUZkdDZPV3RMaTNqY0k?oc=5",
+        "published_at": "2026-11-24T15:56:52+00:00",
+        "summary": "PBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home；'United States apologizes' | DOJ walks back claim on searching Rep. Ilhan Omar's home；Justice Dept. Apologizes for Making False Statement to Judge in Omar Case。",
         "related_headlines": [
-          "Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets",
-          "San Francisco’s sewage nightmare is just getting started",
-          "Storm-battered SF businesses fear what comes next as king tides approach",
-          "Historic San Francisco storm exposes cracks in city's aging infrastructure",
-          "‘It’s just a disheveled craziness’: Mission restaurants get a taste of Super El Niño"
+          "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+          "'United States apologizes' | DOJ walks back claim on searching Rep. Ilhan Omar's home",
+          "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
+          "DOJ apologizes to House’s top lawyer for dispute about Omar home search",
+          "DOJ apologizes for misconstruing top House lawyer’s position on Omar search"
         ],
-        "content_context": "Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets；San Francisco’s sewage nightmare is just getting started；Storm-battered SF businesses fear what comes next as king tides approach。\n\nRelated coverage: Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets\n\nRelated coverage: San Francisco’s sewage nightmare is just getting started\n\nRelated coverage: Storm-battered SF businesses fear what comes next as king tides approach\n\nRelated coverage: Historic San Francisco storm exposes cracks in city's aging infrastructure\n\nRelated coverage: ‘It’s just a disheveled craziness’: Mission restaurants get a taste of Super El Niño",
-        "trend_score": 19.03,
+        "content_context": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home - PBS\n\nPBS 头条聚焦该事件，Google News 同时聚合到这些相关表述：Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home；'United States apologizes' | DOJ walks back claim on searching Rep. Ilhan Omar's home；Justice Dept. Apologizes for Making False Statement to Judge in Omar Case。\n\nRelated coverage: Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home\n\nRelated coverage: 'United States apologizes' | DOJ walks back claim on searching Rep. Ilhan Omar's home\n\nRelated coverage: Justice Dept. Apologizes for Making False Statement to Judge in Omar Case\n\nRelated coverage: DOJ apologizes to House’s top lawyer for dispute about Omar home search\n\nRelated coverage: DOJ apologizes for misconstruing top House lawyer’s position on Omar search",
+        "trend_score": 17.98,
         "trend_breakdown": {
-          "freshness": 0.529,
+          "freshness": 0.465,
           "engagement": 0.0,
-          "topic_overlap": 0.0,
+          "topic_overlap": 0.077,
           "source_weight": 0.8,
           "domain_weight": 1.0
         },
@@ -873,11 +888,11 @@
       "url": "https://github.com/obra/superpowers",
       "author": "obra",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "Shell",
-      "score": 840,
-      "comment_count": 28848,
-      "total_stars": 325265,
+      "score": 1003,
+      "comment_count": 28926,
+      "total_stars": 325948,
       "built_by": [
         "obra",
         "arittr",
@@ -885,7 +900,7 @@
         "clkao",
         "arimu1"
       ],
-      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 840\n\nTotal stars: 325265\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 1003\n\nTotal stars: 325948\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
       "trend_score": 86.84,
       "trend_breakdown": {
         "freshness": 1.0,
@@ -905,11 +920,11 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "author": "firecrawl",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "TypeScript",
-      "score": 924,
-      "comment_count": 10875,
-      "total_stars": 208114,
+      "score": 991,
+      "comment_count": 10926,
+      "total_stars": 209104,
       "built_by": [
         "nickscamara",
         "mogery",
@@ -917,107 +932,11 @@
         "abimaelmartell",
         "claude"
       ],
-      "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 924\n\nTotal stars: 208114\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
-      "trend_score": 85.1,
+      "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 991\n\nTotal stars: 209104\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+      "trend_score": 84.85,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.954,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "author": "jingyaogong",
-      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
-      "language": "Python",
-      "score": 828,
-      "comment_count": 9094,
-      "total_stars": 69658,
-      "built_by": [
-        "jingyaogong",
-        "iomgaa-ycz",
-        "Linxiushen",
-        "basil-k-aji-dev",
-        "readlnh"
-      ],
-      "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 828\n\nTotal stars: 69658\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
-      "trend_score": 84.46,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.937,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "author": "elementalsouls",
-      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
-      "language": "Python",
-      "score": 2029,
-      "comment_count": 2121,
-      "total_stars": 20100,
-      "built_by": [
-        "claude",
-        "injectifytest",
-        "elementalsouls",
-        "github-actions",
-        "rudycelekli"
-      ],
-      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 2029\n\nTotal stars: 20100\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
-      "trend_score": 83.78,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.919,
-        "topic_overlap": 0.0,
-        "source_weight": 0.92,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "github-trending",
-      "category": "github_trending",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "author": "mvanhorn",
-      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
-      "language": "Python",
-      "score": 797,
-      "comment_count": 6494,
-      "total_stars": 73590,
-      "built_by": [
-        "mvanhorn",
-        "claude",
-        "tmchow",
-        "iliaal",
-        "dependabot"
-      ],
-      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 797\n\nTotal stars: 73590\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
-      "trend_score": 83.68,
-      "trend_breakdown": {
-        "freshness": 1.0,
-        "engagement": 0.917,
+        "engagement": 0.948,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1033,11 +952,11 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "author": "HKUDS",
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "Python",
-      "score": 790,
-      "comment_count": 5811,
-      "total_stars": 63916,
+      "score": 1074,
+      "comment_count": 5918,
+      "total_stars": 64991,
       "built_by": [
         "yuh-yang",
         "claude",
@@ -1045,11 +964,107 @@
         "omerarslan0",
         "hito0512"
       ],
-      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 790\n\nTotal stars: 63916\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
-      "trend_score": 83.43,
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 1074\n\nTotal stars: 64991\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 83.82,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.91,
+        "engagement": 0.921,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "author": "jingyaogong",
+      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
+      "language": "Python",
+      "score": 727,
+      "comment_count": 9155,
+      "total_stars": 70417,
+      "built_by": [
+        "jingyaogong",
+        "iomgaa-ycz",
+        "Linxiushen",
+        "basil-k-aji-dev",
+        "readlnh"
+      ],
+      "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 727\n\nTotal stars: 70417\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+      "trend_score": 83.72,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.918,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "author": "elementalsouls",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
+      "language": "Python",
+      "score": 1826,
+      "comment_count": 2254,
+      "total_stars": 21708,
+      "built_by": [
+        "claude",
+        "injectifytest",
+        "elementalsouls",
+        "github-actions",
+        "rudycelekli"
+      ],
+      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1826\n\nTotal stars: 21708\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+      "trend_score": 83.21,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.905,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "author": "mvanhorn",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
+      "language": "Python",
+      "score": 703,
+      "comment_count": 6554,
+      "total_stars": 74388,
+      "built_by": [
+        "mvanhorn",
+        "claude",
+        "tmchow",
+        "iliaal",
+        "dependabot"
+      ],
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 703\n\nTotal stars: 74388\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+      "trend_score": 82.96,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.898,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1065,11 +1080,11 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "author": "cathrynlavery",
       "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "HTML",
-      "score": 620,
-      "comment_count": 4756,
-      "total_stars": 71150,
+      "score": 802,
+      "comment_count": 4817,
+      "total_stars": 72234,
       "built_by": [
         "cathrynlavery",
         "github-actions",
@@ -1077,11 +1092,11 @@
         "mvanhorn",
         "claude"
       ],
-      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 620\n\nTotal stars: 71150\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
-      "trend_score": 82.41,
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 802\n\nTotal stars: 72234\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+      "trend_score": 82.67,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.883,
+        "engagement": 0.89,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1097,11 +1112,11 @@
       "url": "https://github.com/nginx/nginx",
       "author": "nginx",
       "summary": "The official NGINX Open Source repository.",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "C",
-      "score": 174,
-      "comment_count": 8395,
-      "total_stars": 33089,
+      "score": 158,
+      "comment_count": 8397,
+      "total_stars": 33252,
       "built_by": [
         "mdounin",
         "arut",
@@ -1109,11 +1124,11 @@
         "VBart",
         "pluknet"
       ],
-      "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 174\n\nTotal stars: 33089\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
-      "trend_score": 80.34,
+      "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 158\n\nTotal stars: 33252\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+      "trend_score": 79.72,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.829,
+        "engagement": 0.813,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1129,11 +1144,11 @@
       "url": "https://github.com/cursor/plugins",
       "author": "cursor",
       "summary": "Cursor plugin specification and official plugins",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "TypeScript",
-      "score": 397,
-      "comment_count": 2048,
-      "total_stars": 18889,
+      "score": 360,
+      "comment_count": 2082,
+      "total_stars": 19295,
       "built_by": [
         "cursoragent",
         "poteto",
@@ -1141,11 +1156,11 @@
         "minupalaniappan",
         "ericzakariasson"
       ],
-      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 397\n\nTotal stars: 18889\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
-      "trend_score": 79.56,
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 360\n\nTotal stars: 19295\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 78.98,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.808,
+        "engagement": 0.793,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1161,11 +1176,11 @@
       "url": "https://github.com/openvinotoolkit/openvino",
       "author": "openvinotoolkit",
       "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "published_at": "2026-11-24T05:43:58.132634+00:00",
+      "published_at": "2026-11-25T04:46:26.294581+00:00",
       "language": "C++",
-      "score": 184,
-      "comment_count": 3681,
-      "total_stars": 12323,
+      "score": 185,
+      "comment_count": 3696,
+      "total_stars": 12499,
       "built_by": [
         "ilya-lavrenov",
         "rkazants",
@@ -1173,11 +1188,11 @@
         "mvafin",
         "dependabot"
       ],
-      "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 184\n\nTotal stars: 12323\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
-      "trend_score": 78.81,
+      "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 185\n\nTotal stars: 12499\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+      "trend_score": 78.47,
       "trend_breakdown": {
         "freshness": 1.0,
-        "engagement": 0.789,
+        "engagement": 0.78,
         "topic_overlap": 0.0,
         "source_weight": 0.92,
         "domain_weight": 1.18
@@ -1189,111 +1204,28 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "What frustrates you most about using a CRM?",
-      "url": "https://news.ycombinator.com/item?id=50624106",
-      "author": "Pranay94",
-      "score": 1,
+      "title": "Show HN: U.S. Interstate Weather",
+      "url": "https://www.interstateweather.com/",
+      "author": "projproj",
+      "score": 3,
       "comment_count": 1,
-      "published_at": "2026-11-24T05:20:27+00:00",
-      "summary": "nice try",
+      "published_at": "2026-11-25T04:35:32+00:00",
+      "summary": "Driving weather along US highways, from National Weather Service forecasts and alerts.",
       "comment_highlights": [
-        "nice try"
+        "Is it only for US ? Any option to use this across the globe ?"
       ],
-      "linked_context": {},
-      "content_context": "For those working in sales, account management or customer success, what repetitive administrative tasks do you wish you didn't have to do? Curious to hear about real experiences and frustrations.\n\nHN comment: nice try",
-      "trend_score": 53.65,
-      "trend_breakdown": {
-        "freshness": 0.984,
-        "engagement": 0.083,
-        "topic_overlap": 0.167,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Helios Intelligence – 1k biomarkers from a drop of blood, at home",
-      "url": "https://www.ycombinator.com/launches/X8k-helios-intelligence-the-highest-resolution-picture-of-your-health-1-000-biomarkers-from-a-drop-of-blood-at-home",
-      "author": "julietteeb",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-24T05:36:01+00:00",
-      "summary": null,
-      "comment_highlights": [],
       "linked_context": {
-        "resolved_url": "https://www.ycombinator.com/launches/X8k-helios-intelligence-the-highest-resolution-picture-of-your-health-1-000-biomarkers-from-a-drop-of-blood-at-home",
-        "content_type": "application/json; charset=utf-8"
-      },
-      "content_context": null,
-      "trend_score": 52.78,
-      "trend_breakdown": {
-        "freshness": 0.994,
-        "engagement": 0.046,
-        "topic_overlap": 0.167,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "author": "_____k",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-24T05:42:18+00:00",
-      "summary": "AI generated customized shows featuring customized ads.",
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-        "page_title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
-        "page_description": "AI generated customized shows featuring customized ads.",
-        "page_excerpt": "Google has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized “shows” starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect ab...\n\nTech companies regularly file for patents that they don’t end up actually putting into real products, but this one, called “creating a channel of video experiences tailored to a user,” describes a system that many AI companies have been clearly trying to build. It imagines something called “My Channel,” which would be filled with AI content generated based on demographic data, their video watch...\n\n“You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,” a hypothetical LLM prompt in the patent reads. “The generated cus..."
-      },
-      "content_context": "AI generated customized shows featuring customized ads.\n\nGoogle has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized “shows” starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect ab... Tech companies regularly file for patents that they don’t end up actually putting into real products, but this one, called “creating a channel of video experiences tailored to a user,” describes a system that many AI companies have been clearly trying to build. It imagines something called “My Channel,” which would be filled with AI content generated based on demographic data, their video watch... “You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,” a hypothetical LLM prompt in the patent reads. “The generated cus...",
-      "trend_score": 52.49,
-      "trend_breakdown": {
-        "freshness": 0.999,
-        "engagement": 0.046,
-        "topic_overlap": 0.143,
-        "source_weight": 0.9,
-        "domain_weight": 1.18
-      },
-      "domains": [
-        "technology"
-      ]
-    },
-    {
-      "source": "hacker-news",
-      "category": "hacker_news",
-      "title": "Show HN: Everything Is Outdated (Game)",
-      "url": "https://everythingisoutdated.dev/",
-      "author": "brunoborges",
-      "score": 1,
-      "comment_count": 0,
-      "published_at": "2026-11-24T05:42:56+00:00",
-      "summary": null,
-      "comment_highlights": [],
-      "linked_context": {
-        "resolved_url": "https://everythingisoutdated.dev/",
-        "page_title": "Everything Is Outdated",
-        "page_description": null,
+        "resolved_url": "https://www.interstateweather.com/",
+        "page_title": "Interstate Weather",
+        "page_description": "Driving weather along US highways, from National Weather Service forecasts and alerts.",
         "page_excerpt": null
       },
-      "content_context": null,
-      "trend_score": 50.93,
+      "content_context": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).\n\nDriving weather along US highways, from National Weather Service forecasts and alerts.\n\nHN comment: Is it only for US ? Any option to use this across the globe ?",
+      "trend_score": 56.22,
       "trend_breakdown": {
-        "freshness": 0.999,
-        "engagement": 0.046,
-        "topic_overlap": 0.5,
+        "freshness": 0.992,
+        "engagement": 0.128,
+        "topic_overlap": 0.667,
         "source_weight": 0.9,
         "domain_weight": 1.0
       },
@@ -1302,24 +1234,118 @@
     {
       "source": "hacker-news",
       "category": "hacker_news",
-      "title": "Open Source Oura Ring Data",
-      "url": "https://github.com/Th0rgal/open_oura",
-      "author": "jusonchan81",
+      "title": "Show HN: Simulusion – DreamerV3, IRIS, Genie and other world models in PyTorch",
+      "url": "https://github.com/ParamThakkar123/simulusion",
+      "author": "paramthakkar",
       "score": 1,
       "comment_count": 0,
-      "published_at": "2026-11-24T05:29:29+00:00",
-      "summary": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...",
-      "comment_highlights": [],
+      "published_at": "2026-11-25T04:43:20+00:00",
+      "summary": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion",
+      "comment_highlights": [
+        "[flagged]"
+      ],
       "linked_context": {
-        "resolved_url": "https://github.com/Th0rgal/open_oura",
-        "page_title": "GitHub - Th0rgal/open_oura: A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
-        "page_description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...",
-        "page_excerpt": "Reverse-engineering the Oura ring BLE protocol, plus reusable Rust libraries and a small independent, cloud-free client that reads your data straight from the ring.\n\nLooking for the app? The iOS app and web dashboard built on these crates live in open_health .\n\nTested live against a Ring 3 Horizon and a Ring 5 (pairing, auth, and event sync confirmed on both). Designed for Ring 3/4/5, which share the same GATT layout, packet framing, and authentication flow."
+        "resolved_url": "https://github.com/ParamThakkar123/simulusion",
+        "page_title": "GitHub - ParamThakkar123/simulusion: A modular PyTorch library designed for learning, training, and deploying world models across various environments.",
+        "page_description": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion",
+        "page_excerpt": "Modular PyTorch library for world models — many algorithms, one consistent API.\n\nFormerly TorchWM. The project was renamed to Simulusion for 1.0 and is published on PyPI as simulusion : pip install simulusion , then import simulusion .\n\nSimulusion brings the major world-model families together under a single PyTorch API. Train Dreamer, PlaNet, JEPA, IRIS, DIAMOND, DiT, and Genie agents through create_config / create_model / make_env , or drop down to their encoders, decoders, and latent-dynamics backbones to compose your own architecture. Environment adapters (Gym/Gymnasium, DeepMind Control, MuJoCo, Brax, Atari, Unity ML-Agen..."
       },
-      "content_context": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. - Th0rgal/op...\n\nReverse-engineering the Oura ring BLE protocol, plus reusable Rust libraries and a small independent, cloud-free client that reads your data straight from the ring. Looking for the app? The iOS app and web dashboard built on these crates live in open_health . Tested live against a Ring 3 Horizon and a Ring 5 (pairing, auth, and event sync confirmed on both). Designed for Ring 3/4/5, which share the same GATT layout, packet framing, and authentication flow.",
-      "trend_score": 49.03,
+      "content_context": "A modular PyTorch library designed for learning, training, and deploying world models across various environments. - ParamThakkar123/simulusion\n\nModular PyTorch library for world models — many algorithms, one consistent API. Formerly TorchWM. The project was renamed to Simulusion for 1.0 and is published on PyPI as simulusion : pip install simulusion , then import simulusion . Simulusion brings the major world-model families together under a single PyTorch API. Train Dreamer, PlaNet, JEPA, IRIS, DIAMOND, DiT, and Genie agents through create_config / create_model / make_env , or drop down to their encoders, decoders, and latent-dynamics backbones to compose your own architecture. Environment adapters (Gym/Gymnasium, DeepMind Control, MuJoCo, Brax, Atari, Unity ML-Agen...\n\nHN comment: [flagged]",
+      "trend_score": 54.1,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.046,
+        "topic_overlap": 0.222,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "author": "arkits",
+      "score": 2,
+      "comment_count": 1,
+      "published_at": "2026-11-25T04:31:48+00:00",
+      "summary": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+      "comment_highlights": [
+        "Fun! Brings back memories"
+      ],
+      "linked_context": {
+        "resolved_url": "https://gpu-demo-gallery.pages.dev/",
+        "page_title": "GPU demos, 1998 to 2006",
+        "page_description": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+        "page_excerpt": "A cube with nine textures in five passes, as the first card with two texture units drew it.\n\nA torus with embossed bumps and a reflection, in two passes.\n\nHold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks."
+      },
+      "content_context": "Fifteen graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.\n\nA cube with nine textures in five passes, as the first card with two texture units drew it. A torus with embossed bumps and a reflection, in two passes. Hold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks.\n\nHN comment: Fun! Brings back memories",
+      "trend_score": 53.71,
       "trend_breakdown": {
         "freshness": 0.99,
+        "engagement": 0.109,
+        "topic_overlap": 0.111,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "In GTA VI, every stolen car is a music discovery machine",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+      "author": "blinding-streak",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-11-25T04:39:27+00:00",
+      "summary": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.npr.org/2026/11/24/nx-s1-6052997/gta-vi-radio-music-discovery",
+        "page_title": "In 'GTA VI,' every stolen car is a music discovery machine",
+        "page_description": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.",
+        "page_excerpt": "Protagonists Jason and Lucia lead the highly anticipated video game sequel Grand Theft Auto VI , which centers its pop soundtrack as players drive between missions and explore the open world. Rockstar Games hide caption\n\nIf you've ever wondered what it might feel like to lead cops on a high-speed chase through downtown Miami as Young Thug croons, \"Hustlers don't stop, they keep going,\" Grand Theft Auto VI has you covered. The massive open-world action game, which turns a one-to-one recreation of Florida's central hotspot — dubbed Vice City, Leonida — into the playpen for a Bonnie and Clyde-style outlaw campaign...\n\nThe most anticipated video game sequel of all time, and now among the most successful entertainment properties ever, GTA VI follows military vet Jason Duval and new parolee Lucia Caminos as they repair their broken relationship, cutting their teeth in a high-stakes criminal megalopolis with hopes of regaining custody of their son. Players split time between the two charac..."
+      },
+      "content_context": "Amid the mega-success of 'Grand Theft Auto VI,' one feature has enthralled players: Each time you enter a vehicle, the in-game radio opens a musical rabbit hole to get lost in.\n\nProtagonists Jason and Lucia lead the highly anticipated video game sequel Grand Theft Auto VI , which centers its pop soundtrack as players drive between missions and explore the open world. Rockstar Games hide caption If you've ever wondered what it might feel like to lead cops on a high-speed chase through downtown Miami as Young Thug croons, \"Hustlers don't stop, they keep going,\" Grand Theft Auto VI has you covered. The massive open-world action game, which turns a one-to-one recreation of Florida's central hotspot — dubbed Vice City, Leonida — into the playpen for a Bonnie and Clyde-style outlaw campaign... The most anticipated video game sequel of all time, and now among the most successful entertainment properties ever, GTA VI follows military vet Jason Duval and new parolee Lucia Caminos as they repair their broken relationship, cutting their teeth in a high-stakes criminal megalopolis with hopes of regaining custody of their son. Players split time between the two charac...",
+      "trend_score": 50.25,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.073,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Type errors cost our coding agents under 1% of their time",
+      "url": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+      "author": "ksec",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-25T04:41:35+00:00",
+      "summary": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+        "page_title": "Type errors cost our coding agents under 1% of their time—Martian Chronicles, Evil Martians’ team blog",
+        "page_description": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.",
+        "page_excerpt": "CEO of Evil Martians. I build developer tools and study the market that funds them.\n\n“Static types make coding agents better.” That’s the common view, and some of the most trusted names in software repeat it. GitHub’s Octoverse 2025 credits AI with pushing TypeScript to #1, because “type systems reduce ambiguity and catch LLM errors before production.” Thomas Wolf , co-founder of Hugging Face, expects AI to “favor strongly typed, formally verifiable and/or high performance lang...\n\nAt Evil Martians, we have a hot take: every claim about agentic coding needs to be verified with data. We built the official coding agent benchmark for the Ruby on Rails framework, so we decided to test this claim about static types, too. So, we checked public benchmarks of real repository issues in ten languages: TypeScript, JavaScript, Python, Ruby, PHP, Go, Rust, Java, C, and C++. We added 2..."
+      },
+      "content_context": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.\n\nCEO of Evil Martians. I build developer tools and study the market that funds them. “Static types make coding agents better.” That’s the common view, and some of the most trusted names in software repeat it. GitHub’s Octoverse 2025 credits AI with pushing TypeScript to #1, because “type systems reduce ambiguity and catch LLM errors before production.” Thomas Wolf , co-founder of Hugging Face, expects AI to “favor strongly typed, formally verifiable and/or high performance lang... At Evil Martians, we have a hot take: every claim about agentic coding needs to be verified with data. We built the official coding agent benchmark for the Ruby on Rails framework, so we decided to test this claim about static types, too. So, we checked public benchmarks of real repository issues in ten languages: TypeScript, JavaScript, Python, Ruby, PHP, Go, Rust, Java, C, and C++. We added 2...",
+      "trend_score": 49.32,
+      "trend_breakdown": {
+        "freshness": 0.996,
         "engagement": 0.046,
         "topic_overlap": 0.0,
         "source_weight": 0.9,
@@ -1334,162 +1360,162 @@
     "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
   ],
   "summary": {
-    "overview": "今日AI领域开源项目表现活跃，GitHub趋势榜成为主要热点。多个项目聚焦于提升AI代理的实用能力：'superpowers'作为代理技能框架获得广泛关注；'Firecrawl'致力于通过统一API整合550+数据源，增强代理的知识获取能力；'last30days-skill'让AI代理具备跨平台自主研究并生成总结的功能。同时，基础设施与工具层创新不断：'CLI-Anything'旨在通过标准化CLI让所有软件支持智能体原生操作；'Claude-BugHunter'展示了AI在安全漏洞挖掘方面的应用潜力；'minimind'则试图大幅降低训练小型语言模型的门槛。此外，服务于AI开发工具链的专用图表库'diagram-design'也持续受到开发者青睐。",
+    "overview": "今日AI领域热点高度聚焦于智能体（Agent）开发工具与基础设施的创新。GitHub趋势榜上，多个相关项目热度飙升：superpowers作为智能体技能框架方法论获得极高关注；Firecrawl致力于构建统一的多源数据访问API，为智能体提供知识基础设施；CLI-Anything旨在通过CLI-Hub平台推动所有软件具备智能体原生调用能力。同时，minimind项目显著降低了训练小型大语言模型的门槛，Claude-BugHunter展示了AI在网络安全领域的应用潜力，而last30days-skill则实现了跨平台信息研究与摘要生成。此外，服务于AI编程工具的diagram-design图表库以及基础设施核心组件NGINX也位列趋势。整体来看，社区正从框架、数据、工具集成、模型训练到垂直应用等多个层面，积极构建更强大、易用的AI智能体开发生态。",
     "named_hotspots": [
       {
         "name": "superpowers",
         "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "GitHub项目'superpowers'在技术社区中引发关注，单日获得840颗星，总星数高达325,265，表明其作为代理技能框架与软件开发方法论受到开发者广泛认可。",
-        "core_details": "该项目由obra等人构建，采用Shell语言，是一个旨在实际工作的代理技能框架和软件开发方法论，强调其有效性和实用性。",
-        "ai_take": "该项目代表了AI代理在软件开发流程中的集成趋势，通过框架化方法提升开发效率，可能推动自动化编码和智能辅助工具的发展。",
-        "hype_check": "高星数和单日增长显示社区兴趣浓厚，但需注意其作为方法论的实际应用案例和成熟度，避免过度炒作。",
-        "value_check": "框架若真能提升开发效率，具有实际价值，但需验证其在不同场景下的适用性和稳定性。",
-        "follow_up": "关注项目更新、用户反馈及实际应用案例，以评估其长期影响。",
-        "evidence": "基于GitHub趋势数据：单日星数840，总星数325,265，项目描述强调为'有效的代理技能框架和软件开发方法论'。"
+        "source": "github-trending",
+        "what_happened": "GitHub项目'superpowers'登上趋势榜，这是一个面向智能体的技能框架与软件开发方法论。",
+        "core_details": "该项目由obra等人创建，使用Shell语言编写。今日新增星标1003个，总星标数已达325,948，显示出极高的社区关注度。项目定位为一种“行之有效”的智能体技能框架和软件开发方法。",
+        "ai_take": "该项目直接切入当前AI领域的热点——智能体（Agent）开发，提供了一个具体的框架和方法论，旨在系统化地构建和提升AI智能体的能力，属于AI工程化与工具链建设的重要尝试。",
+        "hype_check": "热度极高。单日千星增长和超过32万的总星标数，在GitHub社区属于现象级项目，表明其概念或方法击中了开发者在AI智能体开发中的普遍痛点或兴趣点。",
+        "value_check": "潜在价值高。如果其框架和方法论能有效降低智能体开发的复杂性、提升效率或标准化流程，将对AI应用落地产生实际推动作用。高星标数也反映了社区对其理念的初步认可。",
+        "follow_up": "需要深入项目仓库，查看具体代码结构、文档和示例，以评估其技术实现细节、易用性以及是否已有成功的应用案例。",
+        "evidence": "项目描述明确为“An agentic skills framework & software development methodology that works.”，数据来源于GitHub趋势榜，其星标增长数据（日增1003，总数325948）是社区热度的直接证据。"
       },
       {
         "name": "Firecrawl",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "Firecrawl 是一个知识基础设施项目，旨在通过统一的 API 帮助智能代理变得更智能，提供搜索、抓取和访问超过 550 个数据提供商的能力。",
-        "core_details": "该项目使用 TypeScript 开发，今日新增 924 颗星，总星数已达 208,114，由 nickscamara、mogery、rafaelsideguide、abimaelmartell 和 claude 共同构建。",
-        "ai_take": "Firecrawl 通过整合大量数据源，为 AI 代理提供了强大的外部知识获取能力，有助于提升代理在复杂任务中的信息处理效率和准确性。",
-        "hype_check": "该项目在 GitHub 上趋势热度较高（趋势得分 85.1），表明开发者社区对统一数据访问 API 的需求强烈，但需关注其在实际生产环境中的稳定性和数据源的更新维护。",
-        "value_check": "作为开源知识基础设施，Firecrawl 降低了开发者构建智能代理时接入多源数据的门槛，具有明确的工具价值，尤其适合需要实时或广泛数据支持的 AI 应用场景。",
-        "follow_up": "关注其 API 的扩展性、数据提供商列表的更新频率，以及社区是否围绕该项目构建了更多集成工具或案例。",
-        "evidence": "项目描述明确指出其作为知识基础设施的定位，提供统一 API 接入 550+ 数据源；GitHub 数据（今日星数、总星数、语言）支持其流行度和技术栈信息。"
+        "what_happened": "Firecrawl项目在GitHub趋势榜上热度显著，今日获得991颗星，总星数已达209,104，表明其作为知识基础设施工具受到开发者社区的广泛关注。",
+        "core_details": "Firecrawl是一个用TypeScript编写的开源项目，旨在通过单一API提供搜索、爬取和访问超过550个数据源的能力，为AI智能体构建知识基础设施，使其更智能。项目由nickscamara、mogery等多位贡献者共同开发。",
+        "ai_take": "该项目通过统一的数据访问层，降低了AI代理获取和处理多源信息的复杂度，有助于提升智能体的知识获取效率和准确性，是构建更强大AI应用的关键基础设施。",
+        "hype_check": "高星数增长和趋势排名反映其当前热度，但需观察长期维护和实际应用中的稳定性，以判断是否仅为短期技术热点。",
+        "value_check": "作为开源工具，它提供了实用的数据集成解决方案，可能对开发AI驱动应用的企业和个人开发者具有较高价值，尤其是在需要聚合多源数据的场景中。",
+        "follow_up": "关注其API的扩展性、数据源的更新频率以及社区贡献的持续活跃度，以评估项目的长期发展潜力。",
+        "evidence": "项目在GitHub趋势榜上排名靠前，今日星增长991，总星数209,104，语言为TypeScript，描述强调其作为知识基础设施的功能。"
+      },
+      {
+        "name": "CLI-Anything",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）的开源项目CLI-Anything在GitHub上趋势飙升，单日获1074星，总星数达64991，旨在让所有软件都具备智能体原生能力。",
+        "core_details": "CLI-Anything是一个Python项目，核心目标是构建一个名为CLI-Hub（clianything.cc）的平台，通过命令行接口（CLI）将各类软件工具转化为智能体（Agent）可原生调用和操作的模块，从而推动软件生态的智能体化。",
+        "ai_take": "该项目直击当前AI智能体生态的关键痛点——工具调用与集成，通过标准化CLI接口降低智能体与现有软件栈的交互门槛，可能成为连接传统软件与AI智能体的重要基础设施层。",
+        "hype_check": "趋势热度极高（趋势分83.82），单日千星增长和近6.5万总星表明社区关注度爆棚，但需观察其CLI-Hub生态的实际落地进展与开发者采纳度。",
+        "value_check": "若成功实现“所有软件Agent-Native”的愿景，将极大加速企业工作流自动化与AI智能体的大规模应用，潜在价值在于成为智能体时代的“软件适配器”标准。",
+        "follow_up": "关注CLI-Hub平台（clianything.cc）的正式上线、首批集成工具列表以及是否有主流AI智能体框架（如LangChain、AutoGPT）宣布支持。",
+        "evidence": "项目描述明确指向“Making ALL Software Agent-Native”及CLI-Hub链接；GitHub数据（日增1074星、总星64991、Python语言）支撑其热度；由HKUDS团队及多名贡献者开发。"
       },
       {
         "name": "minimind",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为minimind的开源项目在GitHub上流行，声称能在两小时内从零开始训练一个6400万参数的大语言模型。",
-        "core_details": "该项目由jingyaogong等人开发，使用Python语言，今天获得828颗星，总星数达69658，在GitHub趋势榜上趋势分数为84.46。",
-        "ai_take": "这降低了训练小型LLM的门槛，可能推动个人开发者和研究者快速实验和定制模型，加速AI民主化进程。",
-        "hype_check": "项目因“两小时训练”的承诺而受到关注，但实际效果、模型质量和应用场景需进一步验证，可能更适合教育或原型开发。",
-        "value_check": "为AI社区提供了实用的工具，有助于学习和研究，但商业应用需考虑模型规模限制和性能问题。",
-        "follow_up": "关注项目更新、用户反馈以及是否衍生出实际应用案例，或与其他框架集成。",
-        "evidence": "项目描述强调“两小时从0训出64M大模型”，GitHub数据支持其流行度，但缺乏详细技术文档或独立评测。"
+        "what_happened": "GitHub项目minimind登上趋势榜，该项目声称能在两小时内从零训练一个6400万参数的大语言模型。",
+        "core_details": "该项目由开发者jingyaogong等人创建，使用Python语言编写。项目在GitHub上获得了极高的关注，今日新增727颗星，总星数已超过7万，并有超过9000条评论，显示出社区对其有浓厚兴趣。",
+        "ai_take": "该项目降低了训练小型大语言模型的门槛，使开发者和研究者能够在个人计算资源（如单张消费级GPU）上快速实验和验证模型架构与训练流程，对教育和原型开发具有实用价值。",
+        "hype_check": "热度很高。项目在GitHub趋势榜排名靠前（趋势得分83.72），且拥有庞大的星标数和讨论量，表明其在开发者社区中引起了广泛关注和讨论。",
+        "value_check": "价值在于其极简和高效的训练演示。它提供了一个清晰的、可复现的代码库，帮助人们理解大语言模型训练的核心步骤，而非追求达到SOTA性能。对于教学和快速实验是很有价值的工具。",
+        "follow_up": "关注项目后续的更新、社区反馈以及实际使用该代码库成功训练出模型的案例。同时，可以观察是否有基于此项目的衍生工作或改进出现。",
+        "evidence": "项目描述明确写道“两小时从0训出你的64M大模型”，GitHub数据（总星数70417，今日星数727，评论数9155）和趋势得分（83.72）均支持其高热度。项目语言为Python，由多位贡献者维护。"
       },
       {
         "name": "Claude-BugHunter",
         "kind": "project",
-        "source": "github-trending",
-        "what_happened": "一个名为Claude-BugHunter的GitHub项目在技术社区中迅速走红，单日获得超过2000颗星，总星数已突破2万。该项目是一个为Claude Code设计的技能包，专门用于漏洞挖掘和外部红队测试工作。",
-        "core_details": "该项目由elementalsouls等开发者构建，核心是一个Python编写的技能包，集成了84个技能、15个斜杠命令，并整理了来自681份已披露报告的漏洞模式，覆盖24个核心漏洞类别。此外，还包含了针对企业身份和基础设施的攻击矩阵，旨在辅助安全研究人员和红队进行高效的漏洞发现与评估。",
-        "ai_take": "该项目展示了AI辅助安全测试的实用化趋势，通过将大量已知漏洞模式与AI驱动的代码分析能力结合，能够自动化或半自动化地识别潜在安全风险，有望提升安全审计的覆盖范围和效率。",
-        "hype_check": "项目热度较高，单日星数增长显著，反映了安全社区对AI增强型工具的关注。但需注意，此类工具的实际效果高度依赖使用者的专业知识和具体环境，且可能涉及法律与道德边界，需在授权范围内使用。",
-        "value_check": "对于安全研究人员、红队成员或企业安全团队，该项目提供了结构化的漏洞模式和测试技能，可能减少重复性工作，加速漏洞发现流程。然而，其普适性和误报率仍需在实际应用中验证，且使用者需具备足够的安全背景以正确解读结果。",
-        "follow_up": "关注项目后续的更新与社区反馈，观察其在实际渗透测试或漏洞赏金场景中的应用案例。同时，注意相关法律合规要求，确保工具仅用于合法授权的测试活动。",
-        "evidence": "项目描述明确指出其包含84个技能、15个斜杠命令、681份报告模式及24类漏洞；GitHub数据显示语言为Python，单日星数2029，总星数20100，由elementalsouls等开发者维护。"
+        "source": "GitHub Trending",
+        "what_happened": "一个名为Claude-BugHunter的GitHub项目在技术社区中迅速流行，单日获得1826颗星，总星数已达21708。该项目是一个专为Claude Code设计的技能包，旨在辅助漏洞挖掘和外部红队工作。",
+        "core_details": "该项目是一个Python编写的技能包，集成了84个技能、15个斜杠命令，并整理了681个已披露报告模式，覆盖24个核心漏洞类别。此外，它还包含了企业身份和基础设施攻击矩阵，为安全研究人员和红队提供了系统化的工具和知识库。",
+        "ai_take": "该项目展示了AI在网络安全领域的应用潜力，通过将Claude Code与专业安全知识结合，能够辅助自动化漏洞发现和红队评估，提升安全工作的效率和覆盖面。",
+        "hype_check": "项目的高流行度反映了社区对AI增强安全工具的强烈兴趣，但其实际效果仍需在真实环境中验证，且可能涉及法律和伦理边界，需谨慎使用。",
+        "value_check": "对于安全研究人员和红队成员，该项目提供了结构化的漏洞模式和攻击矩阵，具有较高的参考和实践价值。然而，普通开发者或企业需评估其适用性和合规风险。",
+        "follow_up": "关注项目的持续更新和社区反馈，了解其在真实场景中的应用案例和效果评估。同时，注意相关法律和道德规范，确保合法合规使用。",
+        "evidence": "项目描述明确指出其包含84个技能、15个斜杠命令、681个报告模式和24个漏洞类别，且GitHub数据显示其单日星数增长显著，总星数超过2万，表明社区关注度高。"
       },
       {
         "name": "last30days-skill",
         "kind": "project",
         "source": "GitHub Trending",
-        "what_happened": "一个名为last30days-skill的AI代理技能项目在GitHub上趋势飙升，单日获星797颗，总星数已达73590。该项目旨在让AI代理能够跨Reddit、X、YouTube、Hacker News、Polymarket及全网研究任何主题，并生成基于事实的总结。",
-        "core_details": "该项目由开发者mvanhorn主导，使用Python语言开发。它是一个AI代理技能，能够自动从多个主流社交媒体、论坛、预测市场及网络抓取信息，并对指定话题进行综合研究，最终输出一份“接地气”的总结报告。",
-        "ai_take": "这代表了AI代理能力向“自主研究”和“多源信息整合”方向的重要演进。项目将信息检索、内容理解与总结生成自动化，试图让AI具备快速理解网络热点和复杂话题背景的能力，是构建更通用、更智能AI助手的关键组件。",
-        "hype_check": "高趋势分（83.68）和庞大的总星数表明其在开发者社区中关注度极高。单日近800星的爆发式增长，反映出市场对能处理实时、多模态网络信息的AI工具存在强烈需求。但需注意，其实际效果、信息准确性及对偏见/噪音的处理能力，仍需在具体应用中验证。",
-        "value_check": "核心价值在于提供了一个可复用的框架，将分散、嘈杂的网络信息流转化为结构化的知识摘要。这能极大提升研究者、内容创作者或决策者的信息处理效率。其开源属性和Python实现也降低了技术门槛，便于社区改进和集成到其他AI系统中。",
-        "follow_up": "关注其在实际应用场景（如市场分析、舆情监控、趋势预测）中的落地案例和用户反馈。同时，需留意项目如何解决信息来源可信度评估、多观点平衡以及避免生成误导性内容等关键挑战。",
-        "evidence": "项目描述明确指出其功能为“研究任何主题并生成接地气的总结”，开发语言为Python，并由mvanhorn等贡献者维护。GitHub趋势数据（日增星797，总星73590，趋势分83.68）为其当前热度提供了量化支撑。"
+        "what_happened": "一个名为 'last30days-skill' 的AI代理技能项目在GitHub上趋势飙升，单日获得703颗星，总星数已达74388。该项目由开发者mvanhorn主导，使用Python语言开发。",
+        "core_details": "该项目是一个AI代理技能，能够针对任何主题，跨平台（包括Reddit、X、YouTube、Hacker News、Polymarket以及整个网络）进行信息研究，并最终综合生成一份基于事实的摘要。项目构建者包括mvanhorn、claude、tmchow、iliaal和dependabot。",
+        "ai_take": "这代表了AI代理能力向开放网络信息实时抓取与综合摘要方向的重要演进。通过整合多平台数据源，AI能够提供更全面、时效性更强的研究支持，降低了人工信息检索与整合的门槛，可能成为未来个人助理、市场研究或舆情分析的基础工具。",
+        "hype_check": "高。项目在GitHub上极高的关注度（总星数超7.4万，单日增星703）和趋势排名（趋势得分82.96）表明其概念和实用性引发了开发者社区的强烈兴趣。",
+        "value_check": "潜在价值高。它解决了从碎片化、多源信息中快速获取结构化见解的痛点，尤其适用于需要跟踪社交媒体、论坛和新闻动态的领域，如投资分析、产品市场调研或学术研究。",
+        "follow_up": "关注其在实际应用场景中的集成案例（如是否被接入Claude、GPTs或其他AI代理平台），以及生成摘要的准确性、客观性评估。同时，需留意多平台数据抓取可能面临的法律与合规性挑战。",
+        "evidence": "项目描述明确指出其功能为“跨Reddit, X, YouTube, HN, Polymarket和网络进行研究并生成基于事实的摘要”。GitHub数据（单日星数703，总星数74388，趋势得分82.96）和项目语言（Python）提供了流行度与技术栈佐证。"
       },
       {
-        "name": "CLI-Anything",
-        "kind": "project",
-        "source": "GitHub Trending",
-        "what_happened": "香港大学数据科学实验室（HKUDS）的开源项目CLI-Anything在GitHub上趋势飙升，单日获790星，总星数达63916。该项目旨在通过CLI-Hub平台，使所有软件都能原生支持智能体（Agent）操作。",
-        "core_details": "CLI-Anything是一个Python项目，核心目标是构建一个统一的命令行接口（CLI）框架，让各类软件无需复杂适配即可被AI智能体直接调用与控制。项目提供了CLI-Hub（https://clianything.cc/）作为中心化平台，汇总和管理不同软件的CLI规范，从而“让所有软件都支持智能体原生”。",
-        "ai_take": "该项目直击当前AI智能体生态的关键瓶颈：如何让智能体高效、标准化地操作现有软件工具。通过统一CLI层，它可能大幅降低智能体与复杂软件环境集成的门槛，推动通用智能体向实际工作流深度渗透，是基础设施层的重要探索。",
-        "hype_check": "趋势热度很高（趋势分83.43），单日星数增长显著，反映了开发者社区对智能体操作标准化工具的强烈需求。但需注意，该项目仍处于早期阶段，其CLI-Hub平台的生态采纳度和实际覆盖的软件范围，将是决定其长期影响力的关键。",
-        "value_check": "若成功推广，CLI-Anything可为AI智能体开发提供类似“驱动程序库”的基础设施，减少重复开发成本，加速智能体在自动化、办公、运维等场景的落地。其开源模式和学术背景（HKUDS）有助于建立社区信任，但商业化和生态构建挑战仍存。",
-        "follow_up": "关注CLI-Hub平台上的软件集成进展、开发者文档完善度，以及是否有主流AI框架（如LangChain、AutoGPT）开始集成此标准。同时可观察是否有企业级用户采用该方案进行智能体部署。",
-        "evidence": "项目GitHub仓库（https://github.com/HKUDS/CLI-Anything）显示为Python语言，由HKUDS团队及多位贡献者开发，总星数63916，单日增星790，项目口号“Making ALL Software Agent-Native”及CLI-Hub链接明确了其核心定位。"
-      },
-      {
-        "name": "diagram-design",
+        "name": "cathrynlavery/diagram-design",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "GitHub 项目 'cathrynlavery/diagram-design' 今日获得 620 颗星，总星数达 71150，成为热门趋势项目。",
-        "core_details": "该项目是一个用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 的编辑图表设计库，包含 52 种图表类型。其特点是采用自包含的 HTML + SVG 实现，无阴影，并明确表示不使用 Mermaid 图表库。项目语言为 HTML。",
-        "ai_take": "该项目直接服务于多个主流AI编码助手（如Claude、Copilot）和开发工具，其简洁、自包含的图表设计库可能旨在为AI生成或辅助的代码文档、架构图提供标准化、轻量级的可视化组件，提升技术内容的表现力与一致性。",
-        "hype_check": "趋势分数高达82.41，单日获星数可观，总星数已超7万，表明其在开发者社区中持续受到高度关注和认可，热度真实且持久。",
-        "value_check": "为AI开发工具链提供专用的、免依赖的图表资产，解决了技术文档中可视化图表的一致性和易用性问题，对需要频繁生成或展示系统架构、流程的开发者、技术写作者或AI工具本身具有实用价值。",
-        "follow_up": "可关注该项目如何被集成到上述AI编码工具或文档生成流程中，以及其图表类型是否会随AI开发范式演变而扩展。",
-        "evidence": "项目描述明确指出其用途、技术栈（HTML/SVG）、设计原则（无阴影、非Mermaid）以及所服务的具体AI工具列表。GitHub趋势数据提供了星数增长和流行度指标。"
+        "what_happened": "一个名为 diagram-design 的 GitHub 项目在趋势榜上热度飙升，单日获星 802 颗，总星数已达 72234。该项目专注于为多种AI编程工具提供编辑图表设计。",
+        "core_details": "该项目由 cathrynlavery 等人构建，提供了 52 种图表类型，专为 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 等AI编程辅助工具设计。其核心特点是采用自包含的 HTML + SVG 实现，明确宣称“无阴影、无 Mermaid 的拙劣设计”，强调简洁与独立性。项目主要语言为 HTML。",
+        "ai_take": "该项目直接服务于AI驱动的代码生成与辅助工具（如Copilot、Claude Code）的文档或说明图表需求，反映了开发者社区对高质量、可定制、且不依赖复杂外部库的视觉化素材的需求，以更好地解释和展示AI代码工具的工作流程或架构。",
+        "hype_check": "热度很高。单日大量获星和极高的总星数表明其在开发者社区中获得了广泛关注和认可。项目定位清晰，解决了AI工具生态中一个具体的痛点——即需要简洁、可嵌入的图表来辅助说明。",
+        "value_check": "价值明确。它为开发者，尤其是那些在文档、博客或工具界面中需要展示AI编程工具交互流程的人，提供了一套现成的、高质量的、易于集成的可视化解决方案。其“自包含”和“无外部依赖”的特点增加了其实用性和可移植性。",
+        "follow_up": "关注该项目后续是否会增加更多图表类型或支持更多AI工具。同时，观察其设计理念（如反对“Mermaid slop”）是否会在开发者社区中引发关于图表工具选型的进一步讨论。",
+        "evidence": "项目描述明确指出其用途、支持的AI工具列表、图表数量和技术栈（HTML+SVG）。GitHub趋势数据（日增802星，总星72234）和构建者列表提供了流行度和维护背景的证据。项目标语“No Mermaid slop”表明了其明确的设计立场。"
       },
       {
         "name": "nginx/nginx",
         "kind": "project",
         "source": "github-trending",
-        "what_happened": "NGINX开源项目在GitHub趋势榜上热度上升，今日新增174颗星，总星数达33089。",
-        "core_details": "NGINX是一个高性能的HTTP和反向代理服务器，以其稳定性和低资源消耗而闻名。该项目由C语言编写，主要贡献者包括mdounin、arut等。",
-        "ai_take": "NGINX作为基础设施软件，其开源项目持续受到关注，反映了开发社区对高性能服务器技术的需求，但项目本身并非AI驱动。",
-        "hype_check": "趋势热度主要基于GitHub的星标增长，属于常规的技术项目关注波动，未出现异常炒作。",
-        "value_check": "NGINX是业界广泛使用的成熟项目，其开源版本为Web服务器和代理领域提供了可靠的基础设施，具有长期实用价值。",
-        "follow_up": "可关注NGINX在云原生和微服务架构中的演进，以及与其他开源项目（如Kubernetes）的集成动态。",
-        "evidence": "GitHub趋势数据显示项目今日新增174星，总星数33089，语言为C，由nginx官方维护。"
+        "what_happened": "NGINX 开源项目在 GitHub 趋势榜上热度上升，今日获得 158 颗星，总星数达 33252。",
+        "core_details": "这是 NGINX 的官方开源仓库，主要编程语言为 C，由 mdounin、arut 等核心贡献者维护。项目在技术领域持续受到关注，今日趋势分数为 79.72。",
+        "ai_take": "NGINX 作为高性能 Web 服务器和反向代理，其开源项目在 GitHub 上的活跃度反映了其在现代基础设施中的关键地位，尤其在 AI 应用部署和微服务架构中常作为负载均衡组件。",
+        "hype_check": "热度合理，NGINX 是成熟且广泛使用的开源项目，今日星数增长属于正常波动，未出现异常爆发。",
+        "value_check": "高价值，NGINX 是互联网基础设施的核心组件之一，其开源代码对开发者学习高性能网络编程和服务器架构有重要参考意义。",
+        "follow_up": "可关注 NGINX 与云原生、AI 推理服务集成的相关更新，或其在边缘计算场景中的优化进展。",
+        "evidence": "GitHub 趋势数据：今日星数 158，总星数 33252，趋势分数 79.72；项目描述为官方 NGINX 开源仓库，语言为 C，维护者列表明确。"
       }
     ],
     "source_briefs": [
       {
         "source_group": "github_trending",
         "item_name": "obra/superpowers",
-        "content_summary": "这是一个智能体技能框架和软件开发方法论项目，旨在提供一个有效的工作框架。项目使用Shell语言编写，今日新增840颗星，总星数已达325,265。",
-        "ai_comment": "该项目提供了一个构建智能体技能的框架，可能对希望系统化开发AI代理的开发者有吸引力。"
+        "content_summary": "这是一个智能体技能框架与软件开发方法论项目，旨在提供一套行之有效的方案。项目使用 Shell 语言编写，今日新增星标 1003 个，总星标数达 325,948。",
+        "ai_comment": "该项目定位为智能体（agentic）开发的基础设施，热度很高，可能代表了当前AI工程化领域的一个重要方向。"
       },
       {
         "source_group": "github_trending",
         "item_name": "firecrawl/firecrawl",
-        "content_summary": "这是一个知识基础设施项目，旨在通过单一API让智能体更智能，提供搜索、抓取和访问550多个数据提供商的能力。项目使用TypeScript语言编写，今日新增924颗星，总星数已达208,114。",
-        "ai_comment": "该项目简化了智能体获取外部知识的流程，对于需要丰富数据源的AI应用开发可能是一个重要工具。"
+        "content_summary": "这是一个知识基础设施项目，旨在通过统一的API让智能体更智能，提供搜索、抓取和访问超过550个数据提供商的能力。项目使用 TypeScript 语言编写，今日新增星标 991 个，总星标数达 209,104。",
+        "ai_comment": "项目聚焦于为AI智能体提供数据获取和处理能力，是构建强大AI应用的关键中间件，反映了市场对高质量数据管道的需求。"
       },
       {
         "source_group": "github_trending",
-        "item_name": "jingyaogong/minimind",
-        "content_summary": "该项目允许用户在2小时内从零开始训练一个6400万参数的大语言模型。项目使用Python语言编写，今日新增828颗星，总星数已达69,658。",
-        "ai_comment": "该项目大幅降低了训练定制化语言模型的门槛和时间成本，对研究者和爱好者具有显著价值。"
+        "item_name": "HKUDS/CLI-Anything",
+        "content_summary": "该项目名为“CLI-Anything”，目标是让所有软件都具备智能体原生（Agent-Native）特性，并提供了一个名为CLI-Hub的网站。项目使用 Python 语言编写，今日新增星标 1074 个，总星标数达 64,991。",
+        "ai_comment": "项目试图通过命令行接口（CLI）来统一和赋能各类软件，使其易于被AI智能体调用，是AI与现有软件生态融合的一种有趣尝试。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "What frustrates you most about using a CRM?",
-        "content_summary": "该帖子询问销售、客户管理或客户成功领域从业者在使用CRM时最令人沮丧的重复性行政任务，旨在收集真实经验和痛点。评论区有一条高亮评论“nice try”，暗示用户可能认为提问者别有用心。",
-        "ai_comment": "该讨论反映了CRM工具在实际使用中可能存在的效率痛点，但社区对动机直接的调研持一定调侃态度。"
+        "item_name": "Show HN: U.S. Interstate Weather",
+        "content_summary": "这是一个展示美国州际公路沿线驾驶天气状况的工具，数据来源于美国国家气象局的预报和警报。开发者提到，考虑到本周四是美国感恩节假期，该工具对计划公路旅行的人可能有用。有评论询问该工具是否仅限美国使用，以及能否在全球范围应用。",
+        "ai_comment": "这是一个结合了公共天气数据和地理信息的实用工具，体现了数据可视化在特定场景（如节假日出行）下的价值。其地域局限性是当前的主要特点。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Helios Intelligence – 1k biomarkers from a drop of blood, at home",
-        "content_summary": "该项目介绍了一项名为Helios Intelligence的健康检测服务，声称能够在家中通过一滴血检测1000种生物标志物，从而提供高分辨率的个人健康画像。",
-        "ai_comment": "该项目代表了家庭健康监测技术的潜在前沿，但其宣称的检测广度和精度需要进一步验证。"
+        "item_name": "Show HN: Simulusion – DreamerV3, IRIS, Genie and other world models in PyTorch",
+        "content_summary": "这是一个名为 Simulusion（原名 TorchWM）的模块化 PyTorch 库，旨在为学习、训练和部署各种环境下的世界模型提供统一框架。它集成了 Dreamer、PlaNet、JEPA、IRIS、DIAMOND、DiT 和 Genie 等多种世界模型算法，并提供一致的API和多种环境适配器。该库已发布到 PyPI。",
+        "ai_comment": "该项目整合了多个前沿的世界模型算法，降低了研究和应用世界模型的门槛，对强化学习和AI基础研究社区有重要意义。"
       },
       {
         "source_group": "hacker_news",
-        "item_name": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
-        "content_summary": "根据一份专利文件，谷歌计划创建一个名为“My Channel”的24/7 AI电视频道。该频道将利用其掌握的用户信息（如人口统计数据、观看历史）生成高度个性化的AI视频内容，用户在其中扮演主角，并插入定制化广告。专利描述了提示大语言模型生成此类视频的示例。文章指出，虽然公司常申请未实施的专利，但该系统描绘了许多AI公司正试图构建的愿景。",
-        "ai_comment": "该专利揭示了AI在内容生成和个性化广告领域的激进应用前景，但也引发了关于数据隐私、内容真实性以及用户体验的深刻问题。"
+        "item_name": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "content_summary": "该项目在浏览器中重新运行了15个来自3dfx、NVIDIA和ATI的显卡技术演示（1998年至2006年），展示了早期的图形渲染技术，如多纹理立方体、凹凸贴图圆环体等效果。有评论表示这带来了怀旧的回忆。",
+        "ai_comment": "这是一个技术考古和展示项目，通过现代Web技术重现了图形硬件发展史上的经典瞬间，兼具教育意义和趣味性。"
       },
       {
         "source_group": "news",
-        "item_name": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction - AP News",
-        "content_summary": "联邦上诉法院为前总统特朗普推翻其封口费案定罪开辟了道路。相关报道指出，法官为特朗普在Stormy Daniels案中赢得上诉打开了大门，联邦上诉法院为其摆脱封口费案定罪提供了出路，上诉法院也为将特朗普的刑事案件移至联邦法院开启了可能性。",
-        "ai_comment": "这一法律进展可能对特朗普的相关法律案件产生重大影响，是当前美国政治新闻的焦点。"
+        "item_name": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+        "content_summary": "美国陆军表示，必须对爱荷华州陆军弹药厂内老化的叠氮化铅进行受控引爆，部分居民被敦促撤离。相关报道提供了更多细节，包括联邦政府增加了缓解策略和地方援助、展示了桶装老化叠氮化铅的照片、爆炸计划于周三上午进行，以及军方提供了可能受铅暴露影响区域的最新地图。",
+        "ai_comment": "这是一起涉及危险化学品处理和公共安全的事件，军方采取了主动的排险措施，但需要协调环境风险与社区安全。"
       },
       {
         "source_group": "news",
-        "item_name": "Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\" - CBS News",
-        "content_summary": "一名妇女在西雅图机场被ICE（移民和海关执法局）逮捕的视频引发关注，其丈夫称此事“不公正”。相关报道描述了被拘留父女的生活，西雅图机场运营商对此逮捕表示“愤怒”，逮捕视频引发了西雅图的抗议活动，并且ICE被指为实施逮捕推开了阿拉斯加航空公司的工作人员。",
-        "ai_comment": "该事件凸显了移民执法行动引发的争议，涉及执法程序、乘客权利以及公众反应。"
+        "item_name": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business - CNN",
+        "content_summary": "美国法院在一起涉及伊朗业务的广泛审判中，裁定中国华为公司犯有欺诈和共谋窃取商业机密罪。相关报道指出，华为被判定犯有包括共谋窃取商业机密在内的联邦指控，但洗钱罪名不成立。审判揭露了企业间谍活动和逃避制裁的行为。",
+        "ai_comment": "这是中美科技摩擦背景下的一个长期法律案件的最新进展，其结果可能对华为的国际业务和地缘科技关系产生持续影响。"
       },
       {
         "source_group": "news",
-        "item_name": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-        "content_summary": "针对美国众议员伊尔汗·奥马尔华盛顿住所的搜查令文件被解封，显示调查范围长达数十年。相关报道指出，司法部称众议院最高律师在奥马尔搜查前“拒绝参与”，法官解封了与搜查奥马尔住所相关的文件，法官要求在搜查奥马尔住所前采取保障措施，记录显示奥马尔调查涵盖了她的大部分人生。",
-        "ai_comment": "解封的文件揭示了针对这位政治人物调查的广泛性和复杂性，可能引发对其法律和政治影响的进一步讨论。"
+        "item_name": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
+        "content_summary": "据消息人士称，美国中央情报局（CIA）和国家情报总监办公室（ODNI）遭遇网络安全漏洞，部分非机密信息被访问。相关报道称，此次黑客攻击影响了CIA的非机密信息系统，美国间谍机构的部分非机密信息遭到泄露。",
+        "ai_comment": "这起针对美国顶级情报机构的网络安全事件，凸显了即使是非机密网络也面临严峻威胁，可能引发对内部安全协议和外部威胁源的重新评估。"
       }
     ],
-    "closing_note": "今日趋势凸显了AI开源生态的两个核心方向：一是AI代理正从单一功能向具备复杂、多源信息处理能力的“自主研究者”演进；二是社区正积极构建底层基础设施（如统一操作接口、知识接入层、可视化工具）以降低智能体与现有软件环境集成的门槛。这些项目的热度反映了市场对实用化、能直接提升开发与工作效率的AI工具的强烈需求。然而，在关注其潜力的同时，也需冷静评估各项目的实际成熟度、应用场景的普适性以及可能存在的技术或合规边界。",
+    "closing_note": "今日趋势清晰地勾勒出AI智能体工程化落地的关键路径：从底层技能框架（superpowers）、知识获取（Firecrawl）、工具调用标准化（CLI-Anything），到模型快速实验（minimind）和垂直领域赋能（Claude-BugHunter, last30days-skill）。这些高星标项目不仅反映了开发者的迫切需求，也预示着智能体开发正从概念探索迈向系统化、工具化的新阶段。然而，热潮之下仍需关注这些项目的长期维护、实际应用效果以及可能面临的合规性挑战。明日，我们将继续追踪这些热点项目的生态进展与社区反馈。",
     "_errors": []
   }
 }
