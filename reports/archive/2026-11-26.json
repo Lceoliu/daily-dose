@@ -1,0 +1,1483 @@
+{
+  "generated_at": "2026-11-26T03:56:36.977025+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "author": "obra",
+        "summary": "An agentic skills framework & software development methodology that works.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "Shell",
+        "score": 903,
+        "comment_count": 28991,
+        "total_stars": 326730,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ],
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 903\n\nTotal stars: 326730\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "trend_score": 86.84,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "author": "firecrawl",
+        "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "TypeScript",
+        "score": 1135,
+        "comment_count": 10997,
+        "total_stars": 210176,
+        "built_by": [
+          "nickscamara",
+          "mogery",
+          "rafaelsideguide",
+          "abimaelmartell",
+          "claude"
+        ],
+        "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 1135\n\nTotal stars: 210176\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+        "trend_score": 85.46,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.964,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "author": "jingyaogong",
+        "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "Python",
+        "score": 826,
+        "comment_count": 9236,
+        "total_stars": 71117,
+        "built_by": [
+          "jingyaogong",
+          "iomgaa-ycz",
+          "Linxiushen",
+          "basil-k-aji-dev",
+          "readlnh"
+        ],
+        "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 826\n\nTotal stars: 71117\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+        "trend_score": 84.3,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.933,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "author": "HKUDS",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "Python",
+        "score": 1106,
+        "comment_count": 5987,
+        "total_stars": 65782,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ],
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 1106\n\nTotal stars: 65782\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 84.16,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.93,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "author": "mvanhorn",
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "Python",
+        "score": 945,
+        "comment_count": 6630,
+        "total_stars": 75210,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ],
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 945\n\nTotal stars: 75210\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+        "trend_score": 83.97,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.924,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "author": "cathrynlavery",
+        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "HTML",
+        "score": 1141,
+        "comment_count": 4869,
+        "total_stars": 73177,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "rudycelekli",
+          "mvanhorn",
+          "claude"
+        ],
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1141\n\nTotal stars: 73177\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+        "trend_score": 83.83,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.921,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "author": "elementalsouls",
+        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "Python",
+        "score": 1652,
+        "comment_count": 2374,
+        "total_stars": 23205,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ],
+        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1652\n\nTotal stars: 23205\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+        "trend_score": 83.31,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.907,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nginx/nginx",
+        "url": "https://github.com/nginx/nginx",
+        "author": "nginx",
+        "summary": "The official NGINX Open Source repository.",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "C",
+        "score": 176,
+        "comment_count": 8407,
+        "total_stars": 33398,
+        "built_by": [
+          "mdounin",
+          "arut",
+          "vl-homutov",
+          "VBart",
+          "pluknet"
+        ],
+        "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 176\n\nTotal stars: 33398\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+        "trend_score": 80.22,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.826,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "author": "cursor",
+        "summary": "Cursor plugin specification and official plugins",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "TypeScript",
+        "score": 416,
+        "comment_count": 2113,
+        "total_stars": 19577,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "djiang-jq",
+          "minupalaniappan",
+          "ericzakariasson"
+        ],
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 416\n\nTotal stars: 19577\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 79.59,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.809,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "author": "openvinotoolkit",
+        "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "published_at": "2026-11-26T03:56:28.152678+00:00",
+        "language": "C++",
+        "score": 191,
+        "comment_count": 3717,
+        "total_stars": 12677,
+        "built_by": [
+          "ilya-lavrenov",
+          "rkazants",
+          "ilyachur",
+          "mvafin",
+          "dependabot"
+        ],
+        "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 191\n\nTotal stars: 12677\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+        "trend_score": 78.77,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.788,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Ask HN: What IDE do you use and how many agents touch your tickets before merge?",
+        "url": "https://news.ycombinator.com/item?id=50651107",
+        "author": "DesaiAshu",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:34:50+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": "Please respond with:<p>1. What IDE (or terminal/website/interface) are you using as your daily driver?<p>2. From the point an idea reaches your head to the point it's merged into your primary development branch, how many distinct agents are touching the typical ticket (describe them)<p>3. Are there classes of problems that seem to be better solved with a single agent and tighter harness vs benefit from many agents?<p>4. How does the cost/value curve look as you scale the number of agents touching a ticket?",
+        "trend_score": 52.64,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.046,
+          "topic_overlap": 0.182,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "author": "Herrera",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:36:58+00:00",
+        "summary": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://x.com/thsottiaux/status/2125784147889393806",
+          "page_title": "Tibo (@thsottiaux) on X",
+          "page_description": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+          "page_excerpt": null
+        },
+        "content_context": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+        "trend_score": 50.57,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.092,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Get notified when a new vulnerability is exploited",
+        "url": "https://pushout.app/@cve",
+        "author": "vasanthv",
+        "score": 3,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:37:16+00:00",
+        "summary": "Get notified the moment something happens.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://pushout.app/@cve",
+          "page_title": "Pushout",
+          "page_description": "Get notified the moment something happens.",
+          "page_excerpt": null
+        },
+        "content_context": "Get notified the moment something happens.",
+        "trend_score": 46.46,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.092,
+          "topic_overlap": 0.2,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Why would a country ask to stay least developed?",
+        "url": "https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/",
+        "author": "vismit2000",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:46:40+00:00",
+        "summary": "An explainer on the United Nations’ Least Developed Country (LDC) category.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/",
+          "page_title": "Why would a country ask to stay least developed?",
+          "page_description": "An explainer on the United Nations’ Least Developed Country (LDC) category.",
+          "page_excerpt": "In today’s Finshots, we explain why the United Nations agreed to extend the deadline for Bangladesh and Nepal to give up their least developed country status.\n\nBut here’s a quick sidenote before we begin. Ask anyone about insurance and they’ll tell you about their health plan. Almost nobody mentions term.\n\nHealth insurance protects you during a medical emergency. Term insurance protects your family’s entire financial future if you're no longer around. One covers a hospital bill. The other replaces your income for years."
+        },
+        "content_context": "An explainer on the United Nations’ Least Developed Country (LDC) category.\n\nIn today’s Finshots, we explain why the United Nations agreed to extend the deadline for Bangladesh and Nepal to give up their least developed country status. But here’s a quick sidenote before we begin. Ask anyone about insurance and they’ll tell you about their health plan. Almost nobody mentions term. Health insurance protects you during a medical emergency. Term insurance protects your family’s entire financial future if you're no longer around. One covers a hospital bill. The other replaces your income for years.",
+        "trend_score": 45.09,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.073,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Darts SAM – A free darts autoscorer that uses your webcams",
+        "url": "https://dartssam.co.uk/",
+        "author": "indigodaddy",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:35:15+00:00",
+        "summary": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://dartssam.co.uk/",
+          "page_title": "Darts S.A.M · free darts autoscorer with webcams",
+          "page_description": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.",
+          "page_excerpt": "Point two or three webcams at the board and Darts S.A.M sees where each dart lands. No cameras? Tap the board instead. Either way it calls every dart, does the adding up and keeps your stats.\n\nSigning in takes one tap: no forms to fill in. What is stored about you\n\nPlug two or three USB webcams into a Mac, Windows or Linux computer by the board. They find the wires by themselves, with nothing to stick on, and every phone, tablet and TV you sign in on follows along. How the autoscoring works ."
+        },
+        "content_context": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.\n\nPoint two or three webcams at the board and Darts S.A.M sees where each dart lands. No cameras? Tap the board instead. Either way it calls every dart, does the adding up and keeps your stats. Signing in takes one tap: no forms to fill in. What is stored about you Plug two or three USB webcams into a Mac, Windows or Linux computer by the board. They find the wires by themselves, with nothing to stick on, and every phone, tablet and TV you sign in on follows along. How the autoscoring works .",
+        "trend_score": 43.92,
+        "trend_breakdown": {
+          "freshness": 0.985,
+          "engagement": 0.046,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Qualcomm's Oryon 3 Reaches the Top",
+        "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+        "author": "wmf",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:43:24+00:00",
+        "summary": "Qualcomm’s laptop effort had humble beginnings.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+          "page_title": "Qualcomm’s Oryon 3 Reaches the Top",
+          "page_description": "Qualcomm’s laptop effort had humble beginnings.",
+          "page_excerpt": "Qualcomm’s laptop effort had humble beginnings. Their early Arm-based laptops used cell phone SoCs, and suffered from noticeably poor performance even against lower end Intel chips. But breaking into the PC market was going to be a marathon rather than a sprint, and Qualcomm has been persistent. Qualcomm created higher performance Snapdragon variants targeted at laptops, which became increasing...\n\nThe Snapdragon X2 Elite deploys Oryon 3 in both E-Core and P-Core variants, which Qualcomm confusingly calls “performance” and “prime” cores, respectively. P-Cores are the star of the show in the Snapdragon X2 Elite, where they provide both maximum single threaded performance while also providing the bulk of multithreaded throughput. That’s because Qualcomm has P-Cores outnumber their E-Cores b...\n\nOryon 3 takes on this burden by deploying an architecture with a strong resemblance to the first Oryon generation. Qualcomm technically has a second generation Oryon core, but only used it in p..."
+        },
+        "content_context": "Qualcomm’s laptop effort had humble beginnings.\n\nQualcomm’s laptop effort had humble beginnings. Their early Arm-based laptops used cell phone SoCs, and suffered from noticeably poor performance even against lower end Intel chips. But breaking into the PC market was going to be a marathon rather than a sprint, and Qualcomm has been persistent. Qualcomm created higher performance Snapdragon variants targeted at laptops, which became increasing... The Snapdragon X2 Elite deploys Oryon 3 in both E-Core and P-Core variants, which Qualcomm confusingly calls “performance” and “prime” cores, respectively. P-Cores are the star of the show in the Snapdragon X2 Elite, where they provide both maximum single threaded performance while also providing the bulk of multithreaded throughput. That’s because Qualcomm has P-Cores outnumber their E-Cores b... Oryon 3 takes on this burden by deploying an architecture with a strong resemblance to the first Oryon generation. Qualcomm technically has a second generation Oryon core, but only used it in p...",
+        "trend_score": 42.43,
+        "trend_breakdown": {
+          "freshness": 0.991,
+          "engagement": 0.073,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+        "url": "https://olumino.app",
+        "author": "Wiyseful",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:33:06+00:00",
+        "summary": "Free flashcards and notes with FSRS-7 spaced repetition. Markdown, math and code, and it works offline.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://olumino.app/",
+          "page_title": "Olumino: Flashcards & Notes",
+          "page_description": "Free flashcards and notes with FSRS-7 spaced repetition. Markdown, math and code, and it works offline.",
+          "page_excerpt": "Write notes, turn them into flashcards, and review each card on a schedule based on how well you know it.\n\nIn 1885, Hermann Ebbinghaus showed that we forget most of what we learn within days, and that each review makes the memory last longer. 1 Reviewing at growing gaps, called spaced repetition, is one of the most reliable ways to remember what you study.\n\nOlumino schedules every card with FSRS-7, an open method trained on millions of real reviews. 2 It estimates how well you know each card and brings it back right as you start to forget."
+        },
+        "content_context": "Try it out and let me know your honest thoughts.\n\nFree flashcards and notes with FSRS-7 spaced repetition. Markdown, math and code, and it works offline.\n\nWrite notes, turn them into flashcards, and review each card on a schedule based on how well you know it. In 1885, Hermann Ebbinghaus showed that we forget most of what we learn within days, and that each review makes the memory last longer. 1 Reviewing at growing gaps, called spaced repetition, is one of the most reliable ways to remember what you study. Olumino schedules every card with FSRS-7, an open method trained on millions of real reviews. 2 It estimates how well you know each card and brings it back right as you start to forget.",
+        "trend_score": 42.14,
+        "trend_breakdown": {
+          "freshness": 0.984,
+          "engagement": 0.073,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Britain needs to cut its mental-health benefits bill",
+        "url": "https://www.economist.com/leaders/2026/11/25/britain-needs-to-cut-its-mental-health-benefits-bill",
+        "author": "andsoitis",
+        "score": 2,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:31:20+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 42.09,
+        "trend_breakdown": {
+          "freshness": 0.982,
+          "engagement": 0.073,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Usaciv – the United States as a strategy game",
+        "url": "https://karpathy.ai/usaciv/",
+        "author": "gmays",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:50:25+00:00",
+        "summary": "The real U.S. economy drawn like a 4X strategy map: hex terrain, cities with yields, lenses and resources, all from public data (Census ACS, BEA, NOAA, USGS, EIA).",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://karpathy.ai/usaciv/",
+          "page_title": "The United States as a strategy-game map",
+          "page_description": "The real U.S. economy drawn like a 4X strategy map: hex terrain, cities with yields, lenses and resources, all from public data (Census ACS, BEA, NOAA, USGS, EIA).",
+          "page_excerpt": null
+        },
+        "content_context": "The real U.S. economy drawn like a 4X strategy map: hex terrain, cities with yields, lenses and resources, all from public data (Census ACS, BEA, NOAA, USGS, EIA).",
+        "trend_score": 41.78,
+        "trend_breakdown": {
+          "freshness": 0.996,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "HNSW Hit Memory and Filter Wall: Elasticsearch, OpenSearch Faiss, Qdrant, Milvus [video]",
+        "url": "https://www.youtube.com/watch?v=fnZiKAPpn-A",
+        "author": "massengine",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-26T03:42:22+00:00",
+        "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.youtube.com/watch?v=fnZiKAPpn-A",
+          "page_title": "- YouTube",
+          "page_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "page_excerpt": null
+        },
+        "content_context": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "trend_score": 41.55,
+        "trend_breakdown": {
+          "freshness": 0.99,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "US announces new tariffs on host of countries including China - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+        "published_at": "2026-11-26T01:00:06+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：US announces new tariffs on host of countries including China；Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices；US to cap India tariff at 17% if trade deal is reached, USTR says。",
+        "related_headlines": [
+          "US announces new tariffs on host of countries including China",
+          "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
+          "US to cap India tariff at 17% if trade deal is reached, USTR says",
+          "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in",
+          "U.S. proposes new tariffs on 14 trading partners, including China and the EU"
+        ],
+        "content_context": "US announces new tariffs on host of countries including China - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：US announces new tariffs on host of countries including China；Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices；US to cap India tariff at 17% if trade deal is reached, USTR says。\n\nRelated coverage: US announces new tariffs on host of countries including China\n\nRelated coverage: Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices\n\nRelated coverage: US to cap India tariff at 17% if trade deal is reached, USTR says\n\nRelated coverage: Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in\n\nRelated coverage: U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+        "trend_score": 38.29,
+        "trend_breakdown": {
+          "freshness": 0.877,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "The New York Times",
+        "category": "news",
+        "title": "Macy’s Thanksgiving Day Parade Postponed Until Saturday - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVZHYnZSbkwwSnZWekxkalE1algzbkVPTlY1bWF2dkd6dzcwRDdwUDNSZGtsa3hLQ2t3STV1RHVKdXgyNEFhckthRDkzdnl2amZZZk93NmVfVXhVSTJXN2xLYkQzZWRYYnEyM1psQ2pzSC1mWm9LZml1dENlZlVibW8wUHloVlloTEctcQ?oc=5",
+        "published_at": "2026-11-26T03:18:00+00:00",
+        "summary": "The New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Macy’s Thanksgiving Day Parade Postponed Until Saturday；Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC；Macy's parade postponement upends travel plans for Mass. dance group。",
+        "related_headlines": [
+          "Macy’s Thanksgiving Day Parade Postponed Until Saturday",
+          "Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC",
+          "Macy's parade postponement upends travel plans for Mass. dance group",
+          "Thanksgiving weather live updates: Travel disruption expected as storms and flooding forecast",
+          "The Macy’s Thanksgiving Day parade is postponed due to a storm. It’s not the first time weather has made its mark."
+        ],
+        "content_context": "Macy’s Thanksgiving Day Parade Postponed Until Saturday - The New York Times\n\nThe New York Times 头条聚焦该事件，Google News 同时聚合到这些相关表述：Macy’s Thanksgiving Day Parade Postponed Until Saturday；Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC；Macy's parade postponement upends travel plans for Mass. dance group。\n\nRelated coverage: Macy’s Thanksgiving Day Parade Postponed Until Saturday\n\nRelated coverage: Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC\n\nRelated coverage: Macy's parade postponement upends travel plans for Mass. dance group\n\nRelated coverage: Thanksgiving weather live updates: Travel disruption expected as storms and flooding forecast\n\nRelated coverage: The Macy’s Thanksgiving Day parade is postponed due to a storm. It’s not the first time weather has made its mark.",
+        "trend_score": 36.63,
+        "trend_breakdown": {
+          "freshness": 0.973,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses - Politico",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmlONU9ScElxM0VYOHpUQWZYdWdOYks5U3JiYnNnRlVjckxMcXpZR0l5UWdPRE9sMXZwNTR0TXdDd3NMMmFsVkQ1TWF0bndBQWxPTjNXWEpWQjgtNXVhMlBrOHJzTkNOMEhyLUJMWXFpUHpSWkRfWm9LZC1SSUl5dkFDemtwNGt1SmxpUlAtTU4yZkJ6UHc?oc=5",
+        "published_at": "2026-11-26T01:00:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses；Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’；Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses。",
+        "related_headlines": [
+          "‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses",
+          "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+          "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+          "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+          "Judge halts FCC review of ABC licenses, saying it probably violates First Amendment"
+        ],
+        "content_context": "‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses；Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’；Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses。\n\nRelated coverage: ‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses\n\nRelated coverage: Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’\n\nRelated coverage: Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses\n\nRelated coverage: Judge blocks FCC from early license review for ABC, which network says has had a chilling effect\n\nRelated coverage: Judge halts FCC review of ABC licenses, saying it probably violates First Amendment",
+        "trend_score": 34.78,
+        "trend_breakdown": {
+          "freshness": 0.877,
+          "engagement": 0.0,
+          "topic_overlap": 0.2,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC Bay Area",
+        "category": "news",
+        "title": "Bay Area weather live updates: King tides, coastal flood warning - NBC Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv?oc=5",
+        "published_at": "2026-11-26T02:08:21+00:00",
+        "summary": "NBC Bay Area 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bay Area weather live updates: King tides, coastal flood warning；A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’；Record-breaking California tides cause major flooding of roads and businesses。",
+        "related_headlines": [
+          "Bay Area weather live updates: King tides, coastal flood warning",
+          "A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’",
+          "Record-breaking California tides cause major flooding of roads and businesses",
+          "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+          "Watch: Part of Pacifica pier collapses during king tides"
+        ],
+        "content_context": "Bay Area weather live updates: King tides, coastal flood warning - NBC Bay Area\n\nNBC Bay Area 头条聚焦该事件，Google News 同时聚合到这些相关表述：Bay Area weather live updates: King tides, coastal flood warning；A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’；Record-breaking California tides cause major flooding of roads and businesses。\n\nRelated coverage: Bay Area weather live updates: King tides, coastal flood warning\n\nRelated coverage: A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’\n\nRelated coverage: Record-breaking California tides cause major flooding of roads and businesses\n\nRelated coverage: California braces for potential Thanksgiving flooding as storms threaten US coasts\n\nRelated coverage: Watch: Part of Pacifica pier collapses during king tides",
+        "trend_score": 33.29,
+        "trend_breakdown": {
+          "freshness": 0.925,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Kilmar Abrego García arrives in Spain to start a new life - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkpUVGlqck9qSlVEblNFUjduVV9acW90QnZXQmpoQTQwWE93aUNoMEg2aGs0VUVvUUdGLTFZYVR5LVpQMHNkcF85TmNTS3Npckx0SF91NTRkd3hucHhHM3VFUFFJY0pZN0szM3oyN3pzZTRldXRvZEZhRHFxUXNjM1FOZGVHMXg4ck5jTEQySmwtTzlORTJWRUp3NldPSVFzV25tUGlmN0hoaElpV1VxT2RwY3V4clVGS2dMY21yTjZEd28?oc=5",
+        "published_at": "2026-11-26T00:53:15+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kilmar Abrego García arrives in Spain to start a new life；Kilmar Abrego Garcia leaves U.S. and arrives in Spain；In a Europe wary of migrants, Spain’s anti-Trump is on the ropes。",
+        "related_headlines": [
+          "Kilmar Abrego García arrives in Spain to start a new life",
+          "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "In a Europe wary of migrants, Spain’s anti-Trump is on the ropes",
+          "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+          "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US"
+        ],
+        "content_context": "Kilmar Abrego García arrives in Spain to start a new life - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Kilmar Abrego García arrives in Spain to start a new life；Kilmar Abrego Garcia leaves U.S. and arrives in Spain；In a Europe wary of migrants, Spain’s anti-Trump is on the ropes。\n\nRelated coverage: Kilmar Abrego García arrives in Spain to start a new life\n\nRelated coverage: Kilmar Abrego Garcia leaves U.S. and arrives in Spain\n\nRelated coverage: In a Europe wary of migrants, Spain’s anti-Trump is on the ropes\n\nRelated coverage: Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump\n\nRelated coverage: Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+        "trend_score": 33.02,
+        "trend_breakdown": {
+          "freshness": 0.873,
+          "engagement": 0.0,
+          "topic_overlap": 0.1,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip - AP News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEh3VHJBUW9yQzVjTncwWGNBRkN2U0wtbkJxWHpkU2JXSmE2Ukc2Q25aUXZ3ZVVsN2lPd1JUTnE4ZUNxTDNIMXEwRXJZV01ZVGVwaERxdXdjMTZjWGQxaVpXSTBIWEtoTDNhZXdBcW5ESVdvUGhiLVpXYUFUMHRJQkVWZmNDM29CUS04cUx3?oc=5",
+        "published_at": "2026-11-25T23:44:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip；Authorities identify 6 family members killed in Horn Island plane crash after fishing trip；6 victims identified after plane headed to Fort Myers crashes off Mississippi coast; families release statement。",
+        "related_headlines": [
+          "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip",
+          "Authorities identify 6 family members killed in Horn Island plane crash after fishing trip",
+          "6 victims identified after plane headed to Fort Myers crashes off Mississippi coast; families release statement",
+          "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip",
+          "Six Florida family members killed in plane crash on way home from fishing trip identified"
+        ],
+        "content_context": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip；Authorities identify 6 family members killed in Horn Island plane crash after fishing trip；6 victims identified after plane headed to Fort Myers crashes off Mississippi coast; families release statement。\n\nRelated coverage: Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip\n\nRelated coverage: Authorities identify 6 family members killed in Horn Island plane crash after fishing trip\n\nRelated coverage: 6 victims identified after plane headed to Fort Myers crashes off Mississippi coast; families release statement\n\nRelated coverage: Small plane crash off Mississippi coast kills extended family of 6 on fishing trip\n\nRelated coverage: Six Florida family members killed in plane crash on way home from fishing trip identified",
+        "trend_score": 31.14,
+        "trend_breakdown": {
+          "freshness": 0.825,
+          "engagement": 0.0,
+          "topic_overlap": 0.091,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNN",
+        "category": "news",
+        "title": "A man in Boston won $1 million in the lottery. Then ICE arrested him - CNN",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lbnVubFlCMzNHNGhCdmgwQ1BDLUpHYUdSNDVISFBaczdXbUxKQlBvcmNOMjk5Tk9ieTVRc3FEczZTRC1nQnpLbV9yaDg0N19ZMm1GQUdidDJvYVM4djlpT2RHWnBOeHpqOVFR?oc=5",
+        "published_at": "2026-11-26T00:18:00+00:00",
+        "summary": "CNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A man in Boston won $1 million in the lottery. Then ICE arrested him；ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize；Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him。",
+        "related_headlines": [
+          "A man in Boston won $1 million in the lottery. Then ICE arrested him",
+          "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
+          "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him",
+          "Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall",
+          "Illegal alien lottery winner’s luck runs out with ICE Boston arrest"
+        ],
+        "content_context": "A man in Boston won $1 million in the lottery. Then ICE arrested him - CNN\n\nCNN 头条聚焦该事件，Google News 同时聚合到这些相关表述：A man in Boston won $1 million in the lottery. Then ICE arrested him；ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize；Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him。\n\nRelated coverage: A man in Boston won $1 million in the lottery. Then ICE arrested him\n\nRelated coverage: ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize\n\nRelated coverage: Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him\n\nRelated coverage: Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall\n\nRelated coverage: Illegal alien lottery winner’s luck runs out with ICE Boston arrest",
+        "trend_score": 30.53,
+        "trend_breakdown": {
+          "freshness": 0.848,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Politico",
+        "category": "news",
+        "title": "AP’s bid for Oval Office access stalls at appeals court - Politico",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0Y5X0tFOU1RZ243NG9keHRUbTRVbnVCR0RWWmVCOFA4S29PeWVVQWs3dGRrZTdkUVlrSzM0ZzZTOFA3SlNUOUw0bTZpZXhTa3dCTDZIZGIwMjczcTZoTFVjcVFydVJKRVZDLUZzbTNBaDBsOWFrS2xlcElZV2o0MWtNaHBZQkZPZk5FUG01bkZpdHZhN29MVVN4ZFZjUQ?oc=5",
+        "published_at": "2026-11-25T22:51:00+00:00",
+        "summary": "Politico 头条聚焦该事件，Google News 同时聚合到这些相关表述：AP’s bid for Oval Office access stalls at appeals court。",
+        "related_headlines": [
+          "AP’s bid for Oval Office access stalls at appeals court"
+        ],
+        "content_context": "AP’s bid for Oval Office access stalls at appeals court - Politico\n\nPolitico 头条聚焦该事件，Google News 同时聚合到这些相关表述：AP’s bid for Oval Office access stalls at appeals court。\n\nRelated coverage: AP’s bid for Oval Office access stalls at appeals court",
+        "trend_score": 30.36,
+        "trend_breakdown": {
+          "freshness": 0.788,
+          "engagement": 0.0,
+          "topic_overlap": 0.125,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFQ3dllVOHBrWnZnenhkWWQ1M3QySmUwRDVCOXBwZjQzQ2dKTGdYQXlLYXBLUFF0MmtndFl4QmxvdzlQZ2Z5cWtDZEFZUjhYRW1McjZmOEh6cWNGdmdDb2tHOGdsN01OM3hBTXdBVjQwajRYRklDQmNhRUZNbTZ0V3E0bE9HTmxoMUVyMTdlS1dSUQ?oc=5",
+        "published_at": "2026-11-25T21:27:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say；US Army releases post-detonation maps of potential lead dust exposure；The government says Iowa detonation results exceeded expectations. Now what?。",
+        "related_headlines": [
+          "Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say",
+          "US Army releases post-detonation maps of potential lead dust exposure",
+          "The government says Iowa detonation results exceeded expectations. Now what?",
+          "Vance blames Obama for toxic lead threat in Iowa",
+          "U.S. Army says lead azide detonation a success; EPA says no lead found in air"
+        ],
+        "content_context": "Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say；US Army releases post-detonation maps of potential lead dust exposure；The government says Iowa detonation results exceeded expectations. Now what?。\n\nRelated coverage: Blindsided by lead-based explosives in Iowa, White House now searching for accountability, sources say\n\nRelated coverage: US Army releases post-detonation maps of potential lead dust exposure\n\nRelated coverage: The government says Iowa detonation results exceeded expectations. Now what?\n\nRelated coverage: Vance blames Obama for toxic lead threat in Iowa\n\nRelated coverage: U.S. Army says lead azide detonation a success; EPA says no lead found in air",
+        "trend_score": 27.4,
+        "trend_breakdown": {
+          "freshness": 0.729,
+          "engagement": 0.0,
+          "topic_overlap": 0.071,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "Gothamist",
+        "category": "news",
+        "title": "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda - Gothamist",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk1tcnphSHJoRUhqSGdRdkR4bEl1c2MwTktmMkJ3dlFMWVpXRzh5d3BCdFkxd2RsbnpQaXpJLVVXWWJNV1N1VXdqWm9ZSEZKTzlnYjNoTjNlN05Nc0NpblV3RjE3blVnYlZFS010SUdrNXhQLTUySU1YMWluNUF3M0tVeWxCSGdKTXlHbWFGSndIM2RGTzlwZW5nU0VkVkFScUV1TjZTZk93c016WXc?oc=5",
+        "published_at": "2026-11-25T21:01:00+00:00",
+        "summary": "Gothamist 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda；Mamdani Wins Against Landlords in Rent Freeze Lawsuit；Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’。",
+        "related_headlines": [
+          "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda",
+          "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+          "Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’",
+          "New York court upholds Mayor Mamdani's rent freeze",
+          "How Many 'Ghost Apartments' Are There in New York City?"
+        ],
+        "content_context": "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda - Gothamist\n\nGothamist 头条聚焦该事件，Google News 同时聚合到这些相关表述：Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda；Mamdani Wins Against Landlords in Rent Freeze Lawsuit；Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’。\n\nRelated coverage: Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda\n\nRelated coverage: Mamdani Wins Against Landlords in Rent Freeze Lawsuit\n\nRelated coverage: Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’\n\nRelated coverage: New York court upholds Mayor Mamdani's rent freeze\n\nRelated coverage: How Many 'Ghost Apartments' Are There in New York City?",
+        "trend_score": 26.94,
+        "trend_breakdown": {
+          "freshness": 0.711,
+          "engagement": 0.0,
+          "topic_overlap": 0.083,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "obra",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "Shell",
+      "score": 903,
+      "comment_count": 28991,
+      "total_stars": 326730,
+      "built_by": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ],
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 903\n\nTotal stars: 326730\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "trend_score": 86.84,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "TypeScript",
+      "score": 1135,
+      "comment_count": 10997,
+      "total_stars": 210176,
+      "built_by": [
+        "nickscamara",
+        "mogery",
+        "rafaelsideguide",
+        "abimaelmartell",
+        "claude"
+      ],
+      "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 1135\n\nTotal stars: 210176\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+      "trend_score": 85.46,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.964,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "author": "jingyaogong",
+      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "Python",
+      "score": 826,
+      "comment_count": 9236,
+      "total_stars": 71117,
+      "built_by": [
+        "jingyaogong",
+        "iomgaa-ycz",
+        "Linxiushen",
+        "basil-k-aji-dev",
+        "readlnh"
+      ],
+      "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 826\n\nTotal stars: 71117\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+      "trend_score": 84.3,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.933,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "author": "HKUDS",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "Python",
+      "score": 1106,
+      "comment_count": 5987,
+      "total_stars": 65782,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ],
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 1106\n\nTotal stars: 65782\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 84.16,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.93,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "author": "mvanhorn",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "Python",
+      "score": 945,
+      "comment_count": 6630,
+      "total_stars": 75210,
+      "built_by": [
+        "mvanhorn",
+        "claude",
+        "tmchow",
+        "iliaal",
+        "dependabot"
+      ],
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 945\n\nTotal stars: 75210\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+      "trend_score": 83.97,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.924,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "author": "cathrynlavery",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "HTML",
+      "score": 1141,
+      "comment_count": 4869,
+      "total_stars": 73177,
+      "built_by": [
+        "cathrynlavery",
+        "github-actions",
+        "rudycelekli",
+        "mvanhorn",
+        "claude"
+      ],
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 1141\n\nTotal stars: 73177\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+      "trend_score": 83.83,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.921,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "author": "elementalsouls",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "Python",
+      "score": 1652,
+      "comment_count": 2374,
+      "total_stars": 23205,
+      "built_by": [
+        "claude",
+        "injectifytest",
+        "elementalsouls",
+        "github-actions",
+        "rudycelekli"
+      ],
+      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1652\n\nTotal stars: 23205\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+      "trend_score": 83.31,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.907,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "author": "nginx",
+      "summary": "The official NGINX Open Source repository.",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "C",
+      "score": 176,
+      "comment_count": 8407,
+      "total_stars": 33398,
+      "built_by": [
+        "mdounin",
+        "arut",
+        "vl-homutov",
+        "VBart",
+        "pluknet"
+      ],
+      "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 176\n\nTotal stars: 33398\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+      "trend_score": 80.22,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.826,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "author": "cursor",
+      "summary": "Cursor plugin specification and official plugins",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "TypeScript",
+      "score": 416,
+      "comment_count": 2113,
+      "total_stars": 19577,
+      "built_by": [
+        "cursoragent",
+        "poteto",
+        "djiang-jq",
+        "minupalaniappan",
+        "ericzakariasson"
+      ],
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 416\n\nTotal stars: 19577\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 79.59,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.809,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "author": "openvinotoolkit",
+      "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "published_at": "2026-11-26T03:56:28.152678+00:00",
+      "language": "C++",
+      "score": 191,
+      "comment_count": 3717,
+      "total_stars": 12677,
+      "built_by": [
+        "ilya-lavrenov",
+        "rkazants",
+        "ilyachur",
+        "mvafin",
+        "dependabot"
+      ],
+      "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 191\n\nTotal stars: 12677\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+      "trend_score": 78.77,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.788,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Ask HN: What IDE do you use and how many agents touch your tickets before merge?",
+      "url": "https://news.ycombinator.com/item?id=50651107",
+      "author": "DesaiAshu",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-26T03:34:50+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": "Please respond with:<p>1. What IDE (or terminal/website/interface) are you using as your daily driver?<p>2. From the point an idea reaches your head to the point it's merged into your primary development branch, how many distinct agents are touching the typical ticket (describe them)<p>3. Are there classes of problems that seem to be better solved with a single agent and tighter harness vs benefit from many agents?<p>4. How does the cost/value curve look as you scale the number of agents touching a ticket?",
+      "trend_score": 52.64,
+      "trend_breakdown": {
+        "freshness": 0.985,
+        "engagement": 0.046,
+        "topic_overlap": 0.182,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "author": "Herrera",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-11-26T03:36:58+00:00",
+      "summary": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://x.com/thsottiaux/status/2125784147889393806",
+        "page_title": "Tibo (@thsottiaux) on X",
+        "page_description": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+        "page_excerpt": null
+      },
+      "content_context": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+      "trend_score": 50.57,
+      "trend_breakdown": {
+        "freshness": 0.986,
+        "engagement": 0.092,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Get notified when a new vulnerability is exploited",
+      "url": "https://pushout.app/@cve",
+      "author": "vasanthv",
+      "score": 3,
+      "comment_count": 0,
+      "published_at": "2026-11-26T03:37:16+00:00",
+      "summary": "Get notified the moment something happens.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://pushout.app/@cve",
+        "page_title": "Pushout",
+        "page_description": "Get notified the moment something happens.",
+        "page_excerpt": null
+      },
+      "content_context": "Get notified the moment something happens.",
+      "trend_score": 46.46,
+      "trend_breakdown": {
+        "freshness": 0.987,
+        "engagement": 0.092,
+        "topic_overlap": 0.2,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Why would a country ask to stay least developed?",
+      "url": "https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/",
+      "author": "vismit2000",
+      "score": 2,
+      "comment_count": 0,
+      "published_at": "2026-11-26T03:46:40+00:00",
+      "summary": "An explainer on the United Nations’ Least Developed Country (LDC) category.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/",
+        "page_title": "Why would a country ask to stay least developed?",
+        "page_description": "An explainer on the United Nations’ Least Developed Country (LDC) category.",
+        "page_excerpt": "In today’s Finshots, we explain why the United Nations agreed to extend the deadline for Bangladesh and Nepal to give up their least developed country status.\n\nBut here’s a quick sidenote before we begin. Ask anyone about insurance and they’ll tell you about their health plan. Almost nobody mentions term.\n\nHealth insurance protects you during a medical emergency. Term insurance protects your family’s entire financial future if you're no longer around. One covers a hospital bill. The other replaces your income for years."
+      },
+      "content_context": "An explainer on the United Nations’ Least Developed Country (LDC) category.\n\nIn today’s Finshots, we explain why the United Nations agreed to extend the deadline for Bangladesh and Nepal to give up their least developed country status. But here’s a quick sidenote before we begin. Ask anyone about insurance and they’ll tell you about their health plan. Almost nobody mentions term. Health insurance protects you during a medical emergency. Term insurance protects your family’s entire financial future if you're no longer around. One covers a hospital bill. The other replaces your income for years.",
+      "trend_score": 45.09,
+      "trend_breakdown": {
+        "freshness": 0.993,
+        "engagement": 0.073,
+        "topic_overlap": 0.143,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Darts SAM – A free darts autoscorer that uses your webcams",
+      "url": "https://dartssam.co.uk/",
+      "author": "indigodaddy",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-26T03:35:15+00:00",
+      "summary": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://dartssam.co.uk/",
+        "page_title": "Darts S.A.M · free darts autoscorer with webcams",
+        "page_description": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.",
+        "page_excerpt": "Point two or three webcams at the board and Darts S.A.M sees where each dart lands. No cameras? Tap the board instead. Either way it calls every dart, does the adding up and keeps your stats.\n\nSigning in takes one tap: no forms to fill in. What is stored about you\n\nPlug two or three USB webcams into a Mac, Windows or Linux computer by the board. They find the wires by themselves, with nothing to stick on, and every phone, tablet and TV you sign in on follows along. How the autoscoring works ."
+      },
+      "content_context": "Darts S.A.M is a free darts autoscorer: two or three webcams score every dart, or tap the board instead. Open source, no adverts, on any phone, tablet or TV.\n\nPoint two or three webcams at the board and Darts S.A.M sees where each dart lands. No cameras? Tap the board instead. Either way it calls every dart, does the adding up and keeps your stats. Signing in takes one tap: no forms to fill in. What is stored about you Plug two or three USB webcams into a Mac, Windows or Linux computer by the board. They find the wires by themselves, with nothing to stick on, and every phone, tablet and TV you sign in on follows along. How the autoscoring works .",
+      "trend_score": 43.92,
+      "trend_breakdown": {
+        "freshness": 0.985,
+        "engagement": 0.046,
+        "topic_overlap": 0.143,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域开源项目呈现多元化热点，聚焦于智能体（Agent）开发框架与工具生态的深化。GitHub趋势榜上，多个高星项目围绕AI智能体技能编排、知识基础设施及开发效率提升展开：如'superpowers'作为智能体技能框架获广泛关注；'Firecrawl'致力于为AI代理提供统一数据接入；'CLI-Anything'尝试通过标准化CLI推动软件Agent原生化。同时，模型训练民主化趋势显著，'minimind'项目宣称可在两小时内训练小型大语言模型，降低实践门槛。此外，垂直领域AI工具化应用涌现，如安全领域的'Claude-BugHunter'和图表设计库'diagram-design'，显示AI正加速渗透至开发、研究及设计等具体场景。",
+    "named_hotspots": [
+      {
+        "name": "superpowers",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub项目'superpowers'登上趋势榜，这是一个智能体技能框架与软件开发方法论项目，今日获903星，总星数达326,730。",
+        "core_details": "项目由obra、arittr、claude、clkao、arimu1等人构建，使用Shell语言，强调其作为'有效的智能体技能框架与软件开发方法论'。",
+        "ai_take": "该项目代表了AI工程化与智能体（Agent）开发方法论的前沿探索，旨在为构建具备特定技能的AI智能体提供系统化框架，可能推动AI应用开发从模型微调转向技能编排的新范式。",
+        "hype_check": "高星数（超32万）和近期趋势表明社区关注度极高，但需注意其方法论的实际落地效果与大规模工程实践的验证情况尚待观察。",
+        "value_check": "若框架能标准化智能体技能开发、提升AI系统可维护性与组合性，将显著降低AI应用开发门槛；但其Shell语言基础可能限制其在复杂环境中的集成能力。",
+        "follow_up": "关注其版本迭代、企业采用案例以及与其他AI框架（如LangChain、AutoGen）的生态整合动态。",
+        "evidence": "项目描述明确为'智能体技能框架与软件开发方法论'，高星数与趋势排名反映社区认可；构建者包含多位开发者，暗示协作深度。"
+      },
+      {
+        "name": "Firecrawl",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Firecrawl项目在GitHub趋势榜上热度显著，单日新增星标数达1135，总星标数已超过21万，表明其作为AI知识基础设施工具受到开发者广泛关注。",
+        "core_details": "Firecrawl是一个用TypeScript编写的开源项目，旨在为AI智能体提供知识基础设施。它通过单一API接口，支持搜索、爬取并接入超过550个数据提供商，以增强智能体的信息获取与处理能力。项目由nickscamara等多位开发者共同构建。",
+        "ai_take": "该项目直接服务于AI智能体开发，通过统一的数据接入层简化了外部知识集成流程，有助于降低构建复杂AI应用的门槛，提升智能体的实时信息处理与决策能力。",
+        "hype_check": "高星标数与单日增长表明社区兴趣浓厚，但需注意其作为基础设施工具，实际采纳深度取决于生态整合与稳定性，而非仅凭热度。",
+        "value_check": "核心价值在于将分散的数据源聚合为标准化API，可能加速AI代理在需要实时或多样化数据场景（如研究、客服、自动化）的开发效率。",
+        "follow_up": "可关注其API稳定性、数据提供商覆盖的合规性，以及是否出现基于该工具构建的成熟AI应用案例。",
+        "evidence": "项目GitHub页面描述其为“知识基础设施”，明确功能包括搜索、爬取和550+数据提供商接入；星标增长数据来自趋势榜统计。"
+      },
+      {
+        "name": "minimind",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "GitHub项目minimind登上趋势榜，该项目宣称能让用户在2小时内从零开始训练一个6400万参数的AI大语言模型。",
+        "core_details": "minimind是一个由开发者jingyaogong等人创建的Python项目，旨在极大降低训练小型大语言模型的门槛。其核心卖点是能在个人计算资源（如单张消费级GPU）上，于两小时内完成一个64M参数模型的训练。该项目在GitHub上获得了极高的关注度，单日新增826颗星，总星数已超过7.1万。",
+        "ai_take": "该项目展示了AI模型训练流程的极简化与民主化趋势。通过优化训练流程和代码，它使得个人开发者和研究者能够以极低的成本和时间门槛，亲身体验和理解大语言模型从数据准备到训练完成的全过程，这对于教育和快速原型验证具有重要价值。",
+        "hype_check": "热度较高且合理。\"两小时训练大模型\"的承诺极具吸引力，切中了当前AI社区对降低模型训练门槛的普遍需求。其极高的GitHub星数（超7.1万）和单日增长证明了强烈的社区兴趣。但需注意，64M参数模型属于“极小”规模，其能力与百亿、千亿参数的主流大模型有本质区别，主要价值在于教学和实验。",
+        "value_check": "实用价值明确，主要体现在教育和快速实验领域。对于想深入学习LLM训练原理、进行模型架构实验或需要轻量级定制化模型的开发者来说，这是一个高效的入门和工具。它降低了实践门槛，但并非用于生产级大型模型开发。",
+        "follow_up": "可关注项目后续的更新，例如是否支持更多模型架构、数据集或提供更详细的性能基准测试。同时，观察社区基于该项目进行的各种实验和衍生项目，能进一步了解其实际应用效果和局限性。",
+        "evidence": "项目描述明确写道“两小时从0训出你的64M大模型”，项目语言为Python，GitHub数据显示单日获星826，总星数71117，表明其受到开发者社区广泛关注。"
+      },
+      {
+        "name": "CLI-Anything",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了CLI-Anything项目，旨在通过CLI-Hub使所有软件具备Agent原生能力，该项目今日获得1106颗星，总星数达65782，在Python语言项目中趋势显著。",
+        "core_details": "CLI-Anything是一个Python项目，由HKUDS团队（包括yuh-yang、claude、AiMiDi、omerarslan0、hito0512等贡献者）开发，核心目标是构建CLI-Hub（https://clianything.cc/），通过命令行接口（CLI）标准化，让任意软件都能被AI智能体（Agent）直接调用和集成，从而推动软件生态的Agent原生化。",
+        "ai_take": "该项目直接针对AI智能体生态的关键瓶颈——软件集成标准化，通过统一CLI接口降低Agent调用复杂软件的开发门槛，可能加速自动化工作流和AI助手在各类软件中的普及，是AI工程化的重要基础设施尝试。",
+        "hype_check": "趋势热度较高（趋势分84.16，单日获星超1100），总星数近6.6万表明长期关注度强，但实际落地效果需观察CLI-Hub的生态采纳率和兼容性；项目描述较宏观（“让所有软件Agent原生”），需警惕过度理想化。",
+        "value_check": "若CLI-Hub能成功定义广泛接受的CLI标准，将显著提升AI智能体与现有软件的互操作性，降低集成成本；但价值实现取决于开发者社区和软件厂商的参与度，目前仍处早期阶段。",
+        "follow_up": "关注CLI-Hub网站（clianything.cc）的协议细节和生态进展，查看是否有主流软件已适配该标准；可尝试用其CLI工具集成常见软件（如办公、开发工具），测试Agent调用效果。",
+        "evidence": "项目GitHub页面（https://github.com/HKUDS/CLI-Anything）明确标注“CLI-Anything: Making ALL Software Agent-Native”及CLI-Hub链接；数据指标：Python语言、单日星数1106、总星65782、趋势分84.16；贡献者包括HKUDS成员及社区开发者。"
+      },
+      {
+        "name": "last30days-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为last30days-skill的AI代理技能项目在GitHub上趋势飙升，单日获945星，总星数达75210，由开发者mvanhorn等人构建。",
+        "core_details": "该项目是一个用Python编写的AI代理技能，能够跨Reddit、X、YouTube、Hacker News、Polymarket及全网研究任何主题，并综合生成基于事实的摘要。",
+        "ai_take": "该项目展示了AI代理在信息聚合与摘要生成方面的应用潜力，通过整合多平台数据源，提供快速、全面的主题洞察，可能提升研究效率。",
+        "hype_check": "趋势分数高达83.97，单日星数增长显著，表明在开发者社区中受到高度关注，但需注意其实际效果依赖于数据源的准确性与AI的合成能力。",
+        "value_check": "作为开源工具，它降低了多平台信息研究的门槛，但用户需评估其摘要的客观性与深度，避免过度依赖自动化输出。",
+        "follow_up": "关注项目后续更新，如数据源扩展、摘要质量优化，以及在实际研究或商业场景中的应用案例。",
+        "evidence": "项目描述明确指出其功能为跨平台研究并生成摘要，GitHub数据（如语言、星数、构建者）支持其流行度与技术背景。"
+      },
+      {
+        "name": "diagram-design",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 diagram-design 的 GitHub 开源项目在趋势榜上热度飙升，单日新增星标数超过 1100，总星标数已突破 7.3 万。",
+        "core_details": "该项目由开发者 cathrynlavery 创建，专注于为 Claude Code、Codex、GitHub Copilot、Cursor 等 AI 编程工具提供一套包含 52 种类型的编辑级图表设计。其核心特点是采用自包含的 HTML + SVG 实现，明确声明不使用阴影效果，并强调其设计优于 Mermaid 图表库。",
+        "ai_take": "该项目直接服务于 AI 辅助编程工具的文档或界面可视化需求，反映了开发者社区对高质量、轻量级、可定制图表组件的强烈需求，尤其是在 AI 代码生成和解释场景中，清晰的可视化能提升开发体验与理解效率。",
+        "hype_check": "高星标增长和社区关注度表明其设计理念（如“无阴影”、“自包含”、“非 Mermaid”）击中了部分开发者对现有图表方案的不满，但需注意其应用场景相对垂直（AI 编程工具相关），热度可能部分源于精准的定位和鲜明的设计宣言。",
+        "value_check": "为 AI 编程生态提供了可直接使用的、风格统一的图表资产，降低了制作高质量技术图示的门槛。其“自包含”特性便于集成，但 52 种类型的完备性和设计是否普适，需在实际项目中验证。",
+        "follow_up": "关注该项目后续是否会扩展图表类型或支持更多 AI 工具，以及是否有主流 AI 编程工具或文档平台开始集成此设计库。",
+        "evidence": "项目描述明确列出服务对象（Claude Code, GitHub Copilot 等）、技术栈（HTML+SVG）、设计原则（No shadows, No Mermaid slop）及类型数量（52）。GitHub 趋势数据（日增星标 1141，总星标 73177）佐证其当前热度。"
+      },
+      {
+        "name": "Claude-BugHunter",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 项目 Claude-BugHunter 登上趋势榜，这是一个专为漏洞挖掘和外部红队工作设计的 Claude Code 技能包。",
+        "core_details": "该项目由 elementalsouls 等人开发，包含 85 个技能、16 个斜杠命令，并整理了 681 个已披露报告模式，覆盖 24 个核心漏洞类别，还集成了企业身份和基础设施攻击矩阵。项目使用 Python 语言，今日新增星标 1652 个，总星标数已达 23205。",
+        "ai_take": "该项目展示了 AI 助手（如 Claude）在网络安全领域的专业化、工具化应用潜力，通过封装特定领域的知识和操作模式，将通用 AI 能力转化为高效的专项安全工具。",
+        "hype_check": "趋势热度较高（趋势分 83.31），单日星标增长显著，表明其在开发者社区，尤其是安全研究领域受到了快速关注。",
+        "value_check": "为安全研究人员和红队提供了结构化的 AI 辅助工具，能提升漏洞挖掘的效率和系统性，具有明确的实用价值。",
+        "follow_up": "关注其在真实红队场景中的应用反馈、漏洞模式的持续更新情况，以及是否会有商业化或企业版计划。",
+        "evidence": "项目描述、技能数量、漏洞模式数量、星标增长数据均来自提供的 GitHub 趋势项目信息。"
+      },
+      {
+        "name": "nginx/nginx",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "NGINX开源项目在GitHub趋势榜上热度上升，今日新增176颗星，总星数达33398，项目由C语言编写，核心贡献者包括mdounin、arut等。",
+        "core_details": "NGINX是一个高性能的HTTP和反向代理服务器，以其轻量级、高并发处理能力著称，广泛应用于Web服务、负载均衡和缓存场景。该项目为官方开源仓库，持续维护中。",
+        "ai_take": "NGINX作为基础设施软件，虽非AI直接相关，但其高性能架构常被AI应用（如模型部署、API网关）采用，以优化服务响应和资源管理。",
+        "hype_check": "趋势热度主要源于其作为成熟开源项目的持续关注度，新增星数反映社区活跃，但非突破性更新所致。",
+        "value_check": "NGINX在Web和云原生领域具有长期实用价值，是构建可扩展系统的关键组件，技术稳定性高。",
+        "follow_up": "可关注NGINX与AI服务集成案例（如Kubernetes Ingress）、性能调优实践，或对比其他代理服务器（如Envoy）在AI负载下的表现。",
+        "evidence": "GitHub趋势数据：今日星增176，总星33398，语言为C，贡献者列表；项目描述为官方NGINX开源仓库。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "obra/superpowers",
+        "content_summary": "这是一个智能体技能框架与软件开发方法论项目，旨在提供一个有效的工作框架。项目使用Shell语言编写，今日新增903颗星，总星数达326,730。",
+        "ai_comment": "该项目提供了一个构建智能体技能的框架，可能对希望系统化开发AI代理的开发者有参考价值。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "firecrawl/firecrawl",
+        "content_summary": "这是一个知识基础设施项目，旨在通过统一的API让智能体更智能，提供搜索、抓取和访问550多个数据提供商的能力。项目使用TypeScript语言，今日新增1135颗星，总星数达210,176。",
+        "ai_comment": "该项目为AI智能体提供了强大的数据获取和知识整合能力，可能降低开发复杂AI应用的门槛。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "jingyaogong/minimind",
+        "content_summary": "这是一个大语言模型训练项目，声称可以在两小时内从零开始训练出一个6400万参数的模型。项目使用Python语言，今日新增826颗星，总星数达71,117。",
+        "ai_comment": "该项目展示了高效训练小型LLM的可能性，对于研究和教育目的具有实用意义。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Ask HN: What IDE do you use and how many agents touch your tickets before merge?",
+        "content_summary": "这是一个Hacker News上的提问帖，询问开发者日常使用的IDE，以及从构思到代码合并过程中，通常有多少个不同的“智能体”（可能指AI助手或自动化工具）会处理一个工单。帖子还询问了不同类型的问题是否更适合单一智能体处理，以及增加智能体数量对成本效益的影响。",
+        "ai_comment": "该讨论反映了开发者对AI辅助编程工作流中智能体协作模式和效率的探索兴趣。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "content_summary": "根据推文信息，OpenAI在发布GPT-6.2时出现了计费错误，导致大多数用户的GPT-6.2 Astra和Sol使用被错误地折扣。现在错误已修复，同样的工作量将消耗更多的使用额度。与上周相比，用户达到使用限制的速度将加快：GPT-6.2 Astra快40%，Sol快25%。",
+        "ai_comment": "此消息涉及AI服务定价调整，可能影响开发者和企业的使用成本与预算规划。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Get notified when a new vulnerability is exploited",
+        "content_summary": "这是一个名为Pushout的服务，提供在新漏洞被利用时即时通知的功能。",
+        "ai_comment": "该服务针对安全领域，提供实时威胁情报，对安全运维人员可能有价值。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "US announces new tariffs on host of countries including China - BBC",
+        "content_summary": "BBC头条报道美国宣布对包括中国在内的多个国家加征新关税。相关报道指出，特朗普政府以不公平贸易行为为由，公布了对中国、欧盟等的新关税。另有报道称，如果达成贸易协议，美国将对印度关税上限设定为17%。",
+        "ai_comment": "这一贸易政策动向可能对全球供应链、相关行业以及中美经贸关系产生重要影响。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Macy’s Thanksgiving Day Parade Postponed Until Saturday - The New York Times",
+        "content_summary": "《纽约时报》头条报道，由于严重风暴逼近纽约市，梅西百货感恩节游行被推迟至周六举行。相关报道提及游行推迟打乱了马萨诸塞州舞蹈团的旅行计划。",
+        "ai_comment": "天气事件导致美国重要传统活动改期，反映了极端天气对公共活动的影响。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses - Politico",
+        "content_summary": "Politico报道，一名法官阻止了对美国广播公司（ABC）广播牌照的审查，并称“这不是一个难以裁决的案件”。相关报道指出，法官阻止了由特朗普任命的联邦通信委员会（FCC）委员Brendan Carr领导的对ABC牌照采取进一步行动，认为这可能违反了第一修正案。",
+        "ai_comment": "这一司法裁决涉及媒体监管与言论自由，可能对美国广播行业的监管环境产生影响。"
+      }
+    ],
+    "closing_note": "整体来看，今日趋势反映了AI开源社区正从基础模型探索转向工程化、工具化和场景化落地。智能体开发框架的涌现预示着AI应用构建可能迈向更模块化、可编排的新阶段，而降低训练与集成门槛的项目则持续推动技术民主化。然而，这些基础设施与工具的实际价值，仍需在广泛的生态采纳与复杂场景验证中得以体现。开发者宜关注其协议标准、生态整合进展及实际应用案例，以理性评估其长期影响。",
+    "_errors": []
+  }
+}
