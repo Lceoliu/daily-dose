@@ -1,0 +1,1498 @@
+{
+  "generated_at": "2026-11-28T03:42:39.713471+00:00",
+  "counts": {
+    "github_trending": 10,
+    "reddit": 0,
+    "hacker_news": 10,
+    "news": 10
+  },
+  "items": {
+    "github_trending": [
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "author": "obra",
+        "summary": "An agentic skills framework & software development methodology that works.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "Shell",
+        "score": 922,
+        "comment_count": 29188,
+        "total_stars": 328395,
+        "built_by": [
+          "obra",
+          "arittr",
+          "claude",
+          "clkao",
+          "arimu1"
+        ],
+        "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 922\n\nTotal stars: 328395\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+        "trend_score": 86.85,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 1.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "author": "firecrawl",
+        "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "TypeScript",
+        "score": 822,
+        "comment_count": 11148,
+        "total_stars": 211754,
+        "built_by": [
+          "nickscamara",
+          "mogery",
+          "rafaelsideguide",
+          "abimaelmartell",
+          "claude"
+        ],
+        "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 822\n\nTotal stars: 211754\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+        "trend_score": 84.61,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.941,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "author": "jingyaogong",
+        "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "Python",
+        "score": 660,
+        "comment_count": 9447,
+        "total_stars": 72263,
+        "built_by": [
+          "jingyaogong",
+          "iomgaa-ycz",
+          "Linxiushen",
+          "basil-k-aji-dev",
+          "readlnh"
+        ],
+        "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 660\n\nTotal stars: 72263\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+        "trend_score": 83.73,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.918,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "elementalsouls/Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "author": "elementalsouls",
+        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "Python",
+        "score": 1608,
+        "comment_count": 2690,
+        "total_stars": 26249,
+        "built_by": [
+          "claude",
+          "injectifytest",
+          "elementalsouls",
+          "github-actions",
+          "rudycelekli"
+        ],
+        "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1608\n\nTotal stars: 26249\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+        "trend_score": 83.44,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.91,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "author": "mvanhorn",
+        "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "Python",
+        "score": 675,
+        "comment_count": 6797,
+        "total_stars": 76421,
+        "built_by": [
+          "mvanhorn",
+          "claude",
+          "tmchow",
+          "iliaal",
+          "dependabot"
+        ],
+        "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 675\n\nTotal stars: 76421\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+        "trend_score": 83.12,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.902,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "author": "HKUDS",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "Python",
+        "score": 666,
+        "comment_count": 6170,
+        "total_stars": 67066,
+        "built_by": [
+          "yuh-yang",
+          "claude",
+          "AiMiDi",
+          "omerarslan0",
+          "hito0512"
+        ],
+        "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 666\n\nTotal stars: 67066\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+        "trend_score": 82.89,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.896,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "author": "cathrynlavery",
+        "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "HTML",
+        "score": 725,
+        "comment_count": 5029,
+        "total_stars": 74508,
+        "built_by": [
+          "cathrynlavery",
+          "github-actions",
+          "rudycelekli",
+          "mvanhorn",
+          "claude"
+        ],
+        "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 725\n\nTotal stars: 74508\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+        "trend_score": 82.69,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.891,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "nginx/nginx",
+        "url": "https://github.com/nginx/nginx",
+        "author": "nginx",
+        "summary": "The official NGINX Open Source repository.",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "C",
+        "score": 146,
+        "comment_count": 8486,
+        "total_stars": 33681,
+        "built_by": [
+          "mdounin",
+          "arut",
+          "vl-homutov",
+          "VBart",
+          "pluknet"
+        ],
+        "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 146\n\nTotal stars: 33681\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+        "trend_score": 79.71,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.812,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "author": "cursor",
+        "summary": "Cursor plugin specification and official plugins",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "TypeScript",
+        "score": 243,
+        "comment_count": 2241,
+        "total_stars": 20037,
+        "built_by": [
+          "cursoragent",
+          "poteto",
+          "djiang-jq",
+          "minupalaniappan",
+          "ericzakariasson"
+        ],
+        "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 243\n\nTotal stars: 20037\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+        "trend_score": 78.31,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.775,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "github-trending",
+        "category": "github_trending",
+        "title": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "author": "openvinotoolkit",
+        "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "published_at": "2026-11-28T03:42:36.934890+00:00",
+        "language": "C++",
+        "score": 151,
+        "comment_count": 3812,
+        "total_stars": 12967,
+        "built_by": [
+          "ilya-lavrenov",
+          "rkazants",
+          "ilyachur",
+          "mvafin",
+          "dependabot"
+        ],
+        "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 151\n\nTotal stars: 12967\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+        "trend_score": 78.18,
+        "trend_breakdown": {
+          "freshness": 1.0,
+          "engagement": 0.772,
+          "topic_overlap": 0.0,
+          "source_weight": 0.92,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      }
+    ],
+    "reddit": [],
+    "hacker_news": [
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "author": "codetiger",
+        "score": 1,
+        "comment_count": 1,
+        "published_at": "2026-11-28T03:39:41+00:00",
+        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...",
+        "comment_highlights": [
+          "Video Overview: <a href=\"https://www.youtube.com/watch?v=aJN59oWgbWU\" rel=\"nofollow\">https://www.youtube.com/watch?v=aJN59oWgbWU</a>"
+        ],
+        "linked_context": {
+          "resolved_url": "https://github.com/alesha-pro/llm.asm",
+          "page_title": "GitHub - alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+          "page_description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...",
+          "page_excerpt": "Three complete LLM projects written in 100% pure x86-64 NASM assembly. Zero C, zero C++, zero Rust, zero libc, zero libm, zero runtime dependencies.\n\nAssembled directly with nasm and linked with ld . Every math kernel ( expf , sincosf , RMSNorm , RoPE , SiLU , Softmax ), AVX2+FMA+F16C GEMM/GEMV engine, BPE tokenizer, clone() / futex() thread pool, bare-metal SMP kernel, analytical backward pass, AdamW optimizer, and live Unicode Braille TUI is hand-written x86-64 assembly ( 17,252 lines total across all three projects).\n\nMeasured on the same machine ( AMD EPYC 7642 , 47C online, 256 MiB L3, DDR4, CPU-only -ngl 0 ), same model ( Qwen3-0.6B Q8_0 : 613.66 MiB .asmbin v2 FP16-scale vs 604.15 MiB GGUF Q8_0 ), 34 prompt tokens / 64 generated tokens, 3 -run average:"
+        },
+        "content_context": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...\n\nThree complete LLM projects written in 100% pure x86-64 NASM assembly. Zero C, zero C++, zero Rust, zero libc, zero libm, zero runtime dependencies. Assembled directly with nasm and linked with ld . Every math kernel ( expf , sincosf , RMSNorm , RoPE , SiLU , Softmax ), AVX2+FMA+F16C GEMM/GEMV engine, BPE tokenizer, clone() / futex() thread pool, bare-metal SMP kernel, analytical backward pass, AdamW optimizer, and live Unicode Braille TUI is hand-written x86-64 assembly ( 17,252 lines total across all three projects). Measured on the same machine ( AMD EPYC 7642 , 47C online, 256 MiB L3, DDR4, CPU-only -ngl 0 ), same model ( Qwen3-0.6B Q8_0 : 613.66 MiB .asmbin v2 FP16-scale vs 604.15 MiB GGUF Q8_0 ), 34 prompt tokens / 64 generated tokens, 3 -run average:\n\nHN comment: Video Overview: <a href=\"https://www.youtube.com/watch?v=aJN59oWgbWU\" rel=\"nofollow\">https://www.youtube.com/watch?v=aJN59oWgbWU</a>",
+        "trend_score": 50.77,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.083,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Why Criticise the Tech Industry?",
+        "url": "https://deadsimpletech.com/blog/why-criticise-tech",
+        "author": "HotGarbage",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:39:22+00:00",
+        "summary": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://deadsimpletech.com/blog/why-criticise-tech",
+          "page_title": "Why criticise the tech industry? | deadSimpleTech",
+          "page_description": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...",
+          "page_excerpt": "A question which is sometimes asked to me, and which I think about quite a lot day-to-day, is \"why bother?\". By this, I think I mean to ask why we should keep writing about the latest terrible thing that the tech industry has done, or analysing yet another element of the industry and its attendant culture to explain why so much of what comes out of the industry these days is horrible. After all...\n\nThere are, of course, instrumental reasons to write: this is how I make a fair amount of my money, and people tend to find articles about the tech industry and its discontents quite engaging. Moreover, this drives traffic to my website and helps build my reputation as a clever commentator. Beyond that, analysis of individual messed-up things is somewhat necessary: sometimes individual points ab...\n\nIt's almost as though I feel that much of the way in which the tech world operates is personally upsetting to me: as though I feel personally hurt by the way in which the industry and the peopl..."
+        },
+        "content_context": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...\n\nA question which is sometimes asked to me, and which I think about quite a lot day-to-day, is \"why bother?\". By this, I think I mean to ask why we should keep writing about the latest terrible thing that the tech industry has done, or analysing yet another element of the industry and its attendant culture to explain why so much of what comes out of the industry these days is horrible. After all... There are, of course, instrumental reasons to write: this is how I make a fair amount of my money, and people tend to find articles about the tech industry and its discontents quite engaging. Moreover, this drives traffic to my website and helps build my reputation as a clever commentator. Beyond that, analysis of individual messed-up things is somewhat necessary: sometimes individual points ab... It's almost as though I feel that much of the way in which the tech world operates is personally upsetting to me: as though I feel personally hurt by the way in which the industry and the peopl...",
+        "trend_score": 49.39,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "If you're doing Monte Carlo try Knuth LGC",
+        "url": "https://news.ycombinator.com/item?id=50674351",
+        "author": "logicallee",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:35:04+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": "I was doing a monte carlo simulation involving a few million iterations and that didn't really need anything all that random. I remembered reading about a fast algorithm for very fast values (just a couple of ops), so I asked about this and was surprised that there is one. I just inserted it into my c code and it became ten times faster. If you're doing some monte carlo simulations where you don't need anything very random, give it a try.<p>before: 3.5 seconds. after: 0.42 seconds.<p>code I used:<p><pre><code> #include <stdint.h> static uint32_t seed = 1; // any non-zero value is fine static inline uint32_t fast_rand(void) { seed = seed * 1664525u + 1013904223u; // mod 2^32 is free return seed; } // then (example): int ch = fast_rand() % 1297 // where 1297 is the range. </code></pre> (there's a slight bias when using % this way.) code gave the same results so it was still correct. you would adjust 1297 to the range you need an integer result in, this is from my example.",
+        "trend_score": 49.25,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.18
+        },
+        "domains": [
+          "technology"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Tariffs Are Here to Stay (2025)",
+        "url": "https://www.pimco.com/gbl/en/insights/tariffs-are-here-to-stay",
+        "author": "mooreds",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:22:18+00:00",
+        "summary": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.pimco.com/gbl/en/insights/tariffs-are-here-to-stay",
+          "page_title": "Macro Signposts | Tariffs Are Here to Stay | PIMCO",
+          "page_description": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.",
+          "page_excerpt": "Expectations are high that the U.S. Supreme Court will rule against the Trump administration’s use of the International Emergency Economic Powers Act (IEEPA) – the 1970s legislation that allows a president to declare a national economic emergency – to justify tariffs. Betting markets had placed the odds of a ruling in favor of the president’s use of IEEPA at about 40% before the recent oral arg...\n\nEven if the Court deems the IEEPA tariffs invalid, we doubt it will matter much in the long run, other than creating near-term uncertainty around tariff details and briefly refocusing markets on deficits. Keep in mind that although the Court may find IEEPA does not allow tariffs, Congress has granted the president explicit tariff powers for reasons ranging from balance-of-payments to national s...\n\nAs such, the current 13% average effective tariff rate (according to Treasury collections data) is likely here to stay. Businesses that have been slow to adjust, given heightened policy uncerta..."
+        },
+        "content_context": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.\n\nExpectations are high that the U.S. Supreme Court will rule against the Trump administration’s use of the International Emergency Economic Powers Act (IEEPA) – the 1970s legislation that allows a president to declare a national economic emergency – to justify tariffs. Betting markets had placed the odds of a ruling in favor of the president’s use of IEEPA at about 40% before the recent oral arg... Even if the Court deems the IEEPA tariffs invalid, we doubt it will matter much in the long run, other than creating near-term uncertainty around tariff details and briefly refocusing markets on deficits. Keep in mind that although the Court may find IEEPA does not allow tariffs, Congress has granted the president explicit tariff powers for reasons ranging from balance-of-payments to national s... As such, the current 13% average effective tariff rate (according to Treasury collections data) is likely here to stay. Businesses that have been slow to adjust, given heightened policy uncerta...",
+        "trend_score": 47.17,
+        "trend_breakdown": {
+          "freshness": 0.986,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Hackers breach Erlang and Elixir package manager",
+        "url": "https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/",
+        "author": "turbocon",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:39:09+00:00",
+        "summary": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/",
+          "page_title": "Risky Bulletin: Hackers breach Erlang and Elixir package manager - Risky Business Media",
+          "page_description": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]",
+          "page_excerpt": "This newsletter is brought to you by Ent AI . You can subscribe to an audio version of this newsletter as a podcast by searching for \"Risky Business\" in your podcatcher or subscribing via this RSS feed . You can also add the Risky Business newsletter as a Preferred Source to your Google search results by going here .\n\nA threat actor has breached Hex.pm , the most widely used package manager for the Erlang and Elixir programming languages.\n\nThe attacker exploited a zero-day vulnerability to take over six of Hex.pm's backend servers."
+        },
+        "content_context": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]\n\nThis newsletter is brought to you by Ent AI . You can subscribe to an audio version of this newsletter as a podcast by searching for \"Risky Business\" in your podcatcher or subscribing via this RSS feed . You can also add the Risky Business newsletter as a Preferred Source to your Google search results by going here . A threat actor has breached Hex.pm , the most widely used package manager for the Erlang and Elixir programming languages. The attacker exploited a zero-day vulnerability to take over six of Hex.pm's backend servers.",
+        "trend_score": 44.85,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.167,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "UK orders 100K reserve soldiers to prepare for war [video]",
+        "url": "https://www.youtube.com/watch?v=c4_S-mWKeAk",
+        "author": "Bender",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:39:08+00:00",
+        "summary": null,
+        "comment_highlights": [],
+        "linked_context": {},
+        "content_context": null,
+        "trend_score": 44.42,
+        "trend_breakdown": {
+          "freshness": 0.998,
+          "engagement": 0.046,
+          "topic_overlap": 0.143,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Show HN: Our Build Studio – Track home builder upgrades and variation quotes",
+        "url": "https://ourbuildstudio.com/app/demo",
+        "author": "Acidack",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:35:45+00:00",
+        "summary": "Keep every home finish, builder allowance, showroom photo, and partner vote in one calm place across Australia, the US, the UK, Canada, and New Zealand.",
+        "comment_highlights": [
+          "[dead]"
+        ],
+        "linked_context": {
+          "resolved_url": "https://ourbuildstudio.com/app/demo",
+          "page_title": "Our Build Studio — Plan your new home selections & upgrade budget calmly",
+          "page_description": "Keep every home finish, builder allowance, showroom photo, and partner vote in one calm place across Australia, the US, the UK, Canada, and New Zealand.",
+          "page_excerpt": "National Tiles / Signorino · Vein-Cut Travertine 600×1200mm Rectified ($105/m² Retail)\n\nCaroma / Reece · Caroma Newbury 1,700mm Matte White Freestanding Bath ($1,850)\n\nABI Interiors / Phoenix · ABI Elysian & Sola PVD Brushed Brass Wet-Area Pack"
+        },
+        "content_context": "Keep every home finish, builder allowance, showroom photo, and partner vote in one calm place across Australia, the US, the UK, Canada, and New Zealand.\n\nNational Tiles / Signorino · Vein-Cut Travertine 600×1200mm Rectified ($105/m² Retail) Caroma / Reece · Caroma Newbury 1,700mm Matte White Freestanding Bath ($1,850) ABI Interiors / Phoenix · ABI Elysian & Sola PVD Brushed Brass Wet-Area Pack\n\nHN comment: [dead]",
+        "trend_score": 41.76,
+        "trend_breakdown": {
+          "freshness": 0.995,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Effective Altruism Bought the Media",
+        "url": "https://www.effort.news/tarbell",
+        "author": "MrBuddyCasino",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:33:45+00:00",
+        "summary": "AI Doomers are Funding Circular Potemkin Articles",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.effort.news/tarbell",
+          "page_title": "How Effective Altruism Bought the Media â Effort",
+          "page_description": "AI Doomers are Funding Circular Potemkin Articles",
+          "page_excerpt": "The fight for control of the AI narrative has reached egregious new heights. An Effort investigation uncovered Potemkin articles, in which claims are fabricated, corroborated, and published as journalism by members of an insular donor ecosystem. To understand how this works, follow us through this Guardian article. Of its 6 participants â including the journalist and publisher â 6/6 are pai...\n\nCoefficient Giving pays the salary of the journalist through the Tarbell Fellowship. It pays the publisher, the Guardian, more than $3M. AI 2027, the subject of the article, was given $400K from Coefficient, in addition to $2M from SFF. The three other pseudo-experts quoted in the article are all paid by SFF, Coefficient, or Effective Ventures Foundation. 1\n\nThe Guardian does not disclose that it is funded by Coefficient or that the journalist is entirely paid for by Tarbell. In a fundraising statement attached to the article, the Guardian proclaims its âfierce independence.â"
+        },
+        "content_context": "AI Doomers are Funding Circular Potemkin Articles\n\nThe fight for control of the AI narrative has reached egregious new heights. An Effort investigation uncovered Potemkin articles, in which claims are fabricated, corroborated, and published as journalism by members of an insular donor ecosystem. To understand how this works, follow us through this Guardian article. Of its 6 participants â including the journalist and publisher â 6/6 are pai... Coefficient Giving pays the salary of the journalist through the Tarbell Fellowship. It pays the publisher, the Guardian, more than $3M. AI 2027, the subject of the article, was given $400K from Coefficient, in addition to $2M from SFF. The three other pseudo-experts quoted in the article are all paid by SFF, Coefficient, or Effective Ventures Foundation. 1 The Guardian does not disclose that it is funded by Coefficient or that the journalist is entirely paid for by Tarbell. In a fundraising statement attached to the article, the Guardian proclaims its âfierce independence.â",
+        "trend_score": 41.7,
+        "trend_breakdown": {
+          "freshness": 0.994,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "Frontier models need only one text to unmask its human or AI author",
+        "url": "https://arxiv.org/abs/2611.26216",
+        "author": "xqcgrek2",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:32:57+00:00",
+        "summary": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claude Fable 5.2, GPT-6.1 Sol, Gemini 4 Carbon) match trained detectors like Pangram while also explaining their predictions in natural language, and Opus 5.5 names the correct lab f...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://arxiv.org/abs/2611.26216",
+          "page_title": "Frontier models need only one text to unmask its human or AI author",
+          "page_description": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claude Fable 5.2, GPT-6.1 Sol, Gemini 4 Carbon) match trained detectors like Pangram while also explaining their predictions in natural language, and Opus 5.5 names the correct lab f...",
+          "page_excerpt": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs ."
+        },
+        "content_context": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claude Fable 5.2, GPT-6.1 Sol, Gemini 4 Carbon) match trained detectors like Pangram while also explaining their predictions in natural language, and Opus 5.5 names the correct lab f...\n\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
+        "trend_score": 41.68,
+        "trend_breakdown": {
+          "freshness": 0.993,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "hacker-news",
+        "category": "hacker_news",
+        "title": "A Type Stronger Than the Sum of Its Components",
+        "url": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
+        "author": "mmsilvachavez",
+        "score": 1,
+        "comment_count": 0,
+        "published_at": "2026-11-28T03:24:25+00:00",
+        "summary": "Have you ever written a type that you appreciated so much you still think about it? Like eating a really good meal, where if you try hard enough, you can sti...",
+        "comment_highlights": [],
+        "linked_context": {
+          "resolved_url": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
+          "page_title": "A Type Stronger than the Sum of its Components",
+          "page_description": "Have you ever written a type that you appreciated so much you still think about it? Like eating a really good meal, where if you try hard enough, you can sti...",
+          "page_excerpt": "❶ Author of How to Open Source (.dev) . A book to take you from coder to contributor. ❷ Creator of CodeTriage , a free service helping developers contribute to open source. ❸ Core committer to ruby/ruby . ❹ Rust Cloud Native Buildpack author . ❺ Married to Ruby, literally.\n\nHave you ever written a type that you appreciated so much you still think about it? Like eating a really good meal, where if you try hard enough, you can still recall the taste in your mouth. I had a mini moment of Rust joy the other day and wanted to share the experience.\n\nTLDR: I turned an enum with N variants into N types. Nothing earth-shattering, but it made my life better."
+        },
+        "content_context": "Have you ever written a type that you appreciated so much you still think about it? Like eating a really good meal, where if you try hard enough, you can sti...\n\n❶ Author of How to Open Source (.dev) . A book to take you from coder to contributor. ❷ Creator of CodeTriage , a free service helping developers contribute to open source. ❸ Core committer to ruby/ruby . ❹ Rust Cloud Native Buildpack author . ❺ Married to Ruby, literally. Have you ever written a type that you appreciated so much you still think about it? Like eating a really good meal, where if you try hard enough, you can still recall the taste in your mouth. I had a mini moment of Rust joy the other day and wanted to share the experience. TLDR: I turned an enum with N variants into N types. Nothing earth-shattering, but it made my life better.",
+        "trend_score": 41.44,
+        "trend_breakdown": {
+          "freshness": 0.987,
+          "engagement": 0.046,
+          "topic_overlap": 0.0,
+          "source_weight": 0.9,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      }
+    ],
+    "news": [
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5",
+        "published_at": "2026-11-28T02:29:02+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump officials to speed president’s projects with special meeting before new Congress；Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction；Trump officials to speed president's projects with special meeting before new Congress。",
+        "related_headlines": [
+          "Trump officials to speed president’s projects with special meeting before new Congress",
+          "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+          "Trump officials to speed president's projects with special meeting before new Congress",
+          "Trump allies could speed approval for DC projects before Dems take Congress",
+          "How Trump Could’ve Saved His Legacy"
+        ],
+        "content_context": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Trump officials to speed president’s projects with special meeting before new Congress；Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction；Trump officials to speed president's projects with special meeting before new Congress。\n\nRelated coverage: Trump officials to speed president’s projects with special meeting before new Congress\n\nRelated coverage: Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction\n\nRelated coverage: Trump officials to speed president's projects with special meeting before new Congress\n\nRelated coverage: Trump allies could speed approval for DC projects before Dems take Congress\n\nRelated coverage: How Trump Could’ve Saved His Legacy",
+        "trend_score": 39.49,
+        "trend_breakdown": {
+          "freshness": 0.949,
+          "engagement": 0.0,
+          "topic_overlap": 0.333,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "NBC News",
+        "category": "news",
+        "title": "Hundreds of thousands still without power after severe Thanksgiving weather - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
+        "published_at": "2026-11-28T02:38:00+00:00",
+        "summary": "NBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hundreds of thousands still without power after severe Thanksgiving weather；Millions clean up after massive Thanksgiving storms on East Coast；Parts of US clean up after Thanksgiving storm lashes East Coast。",
+        "related_headlines": [
+          "Hundreds of thousands still without power after severe Thanksgiving weather",
+          "Millions clean up after massive Thanksgiving storms on East Coast",
+          "Parts of US clean up after Thanksgiving storm lashes East Coast",
+          "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+          "High winds cause significant damage to two buildings in Reading"
+        ],
+        "content_context": "Hundreds of thousands still without power after severe Thanksgiving weather - NBC News\n\nNBC News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Hundreds of thousands still without power after severe Thanksgiving weather；Millions clean up after massive Thanksgiving storms on East Coast；Parts of US clean up after Thanksgiving storm lashes East Coast。\n\nRelated coverage: Hundreds of thousands still without power after severe Thanksgiving weather\n\nRelated coverage: Millions clean up after massive Thanksgiving storms on East Coast\n\nRelated coverage: Parts of US clean up after Thanksgiving storm lashes East Coast\n\nRelated coverage: Hundreds of thousands still without power a day after US slammed with Thanksgiving storms\n\nRelated coverage: High winds cause significant damage to two buildings in Reading",
+        "trend_score": 38.75,
+        "trend_breakdown": {
+          "freshness": 0.955,
+          "engagement": 0.0,
+          "topic_overlap": 0.273,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+        "published_at": "2026-11-28T01:10:00+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports；U.S. Strikes Vessel Attempting Blockade Run Near Iran；US military says it disabled another ship that tried to breach naval blockade on Iranian ports。",
+        "related_headlines": [
+          "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports",
+          "U.S. Strikes Vessel Attempting Blockade Run Near Iran",
+          "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+          "U.S. military jet disables commercial vessel in Gulf of Oman",
+          "US military says it has disabled another ship trying to breach its blockade, and other Mideast news"
+        ],
+        "content_context": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports；U.S. Strikes Vessel Attempting Blockade Run Near Iran；US military says it disabled another ship that tried to breach naval blockade on Iranian ports。\n\nRelated coverage: Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports\n\nRelated coverage: U.S. Strikes Vessel Attempting Blockade Run Near Iran\n\nRelated coverage: US military says it disabled another ship that tried to breach naval blockade on Iranian ports\n\nRelated coverage: U.S. military jet disables commercial vessel in Gulf of Oman\n\nRelated coverage: US military says it has disabled another ship trying to breach its blockade, and other Mideast news",
+        "trend_score": 36.45,
+        "trend_breakdown": {
+          "freshness": 0.894,
+          "engagement": 0.0,
+          "topic_overlap": 0.267,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Washington Post",
+        "category": "news",
+        "title": "Record high tides batter California coast and take down part of a historic pier - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlk0RC1sSVF1R2h4VUJaUERTNlRmaEVIZ1h2Z2o3dS0xamtjUFFkMlE0UUp1Y25UVDBkeDk4VTltS29lUnlwNVc0VDI5S0pocWFvSFU0X1E0bnhXelY1RDBseng3S00tVldzd3U3Rm03c0ZPd2JzZ2RyUWk1SEFScnRSMGF0SDEwTmgwMGxpSGd2MFRBQ1lCdEx4dGpScTBPOFhqNk9sZzI0bndMc3d6RnBLUEVfQlpObkJVS0x3?oc=5",
+        "published_at": "2026-11-28T01:08:02+00:00",
+        "summary": "The Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Record high tides batter California coast and take down part of a historic pier；Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea；Where high tides set records on both coasts this week。",
+        "related_headlines": [
+          "Record high tides batter California coast and take down part of a historic pier",
+          "Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+          "Where high tides set records on both coasts this week",
+          "As king tides pummel California coast, leaders fear what's next",
+          "Pacific storms to soak Northwest, then bring heavy rain and mountain snow to California"
+        ],
+        "content_context": "Record high tides batter California coast and take down part of a historic pier - The Washington Post\n\nThe Washington Post 头条聚焦该事件，Google News 同时聚合到这些相关表述：Record high tides batter California coast and take down part of a historic pier；Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea；Where high tides set records on both coasts this week。\n\nRelated coverage: Record high tides batter California coast and take down part of a historic pier\n\nRelated coverage: Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea\n\nRelated coverage: Where high tides set records on both coasts this week\n\nRelated coverage: As king tides pummel California coast, leaders fear what's next\n\nRelated coverage: Pacific storms to soak Northwest, then bring heavy rain and mountain snow to California",
+        "trend_score": 34.6,
+        "trend_breakdown": {
+          "freshness": 0.893,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "ABC7 New York",
+        "category": "news",
+        "title": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 - ABC7 New York",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkNXTVl5TndwZFpYcVRUVV92eUJ6N19wV3Z4UjJFZE03cnhxR3F0ZXM4VGMyZWJHd1ZIb1k3WnVYNkpkVnpiejdBSnJMWTB2RUlrelJzYlNGb2lOYndia1A4OV9BZjJOeHNRWkxBaXFJRDlxeVB3eDhaLXB6RUpteEs1VHphRVp6aGNHOWVfMnc1QkozM1gxVHNB0gGfAUFVX3lxTE1icFF1Unc4aFN0Zk9aRW8wdFpsMkp1V3h3Ujh6SDJxaW5TWEVPamllNWFnYXRkZkRYRFM1YXRFY1MtNFJVNmhEdmxBTzhXWHNvYjktckhQOERJLWI1emNxTnA3dlNna3AxdnhKcV9Fd2RGU1EycXRfdjk3MjRhZHNLU01FUDdxNjhiNnFLVE9JMXgtN21pWG53LW43dmhjdw?oc=5",
+        "published_at": "2026-11-28T01:28:02+00:00",
+        "summary": "ABC7 New York 头条聚焦该事件，Google News 同时聚合到这些相关表述：Andrea Stewart-Cousins, NY Senate leader, dies at 76；Trailblazing NY Senate majority leader dies at 76；Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies。",
+        "related_headlines": [
+          "Andrea Stewart-Cousins, NY Senate leader, dies at 76",
+          "Trailblazing NY Senate majority leader dies at 76",
+          "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+          "State Senate Majority Leader Andrea Stewart-Cousins has died",
+          "Andrea Stewart-Cousins dies at 76: NY lawmakers react"
+        ],
+        "content_context": "Andrea Stewart-Cousins, NY Senate leader, dies at 76 - ABC7 New York\n\nABC7 New York 头条聚焦该事件，Google News 同时聚合到这些相关表述：Andrea Stewart-Cousins, NY Senate leader, dies at 76；Trailblazing NY Senate majority leader dies at 76；Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies。\n\nRelated coverage: Andrea Stewart-Cousins, NY Senate leader, dies at 76\n\nRelated coverage: Trailblazing NY Senate majority leader dies at 76\n\nRelated coverage: Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies\n\nRelated coverage: State Senate Majority Leader Andrea Stewart-Cousins has died\n\nRelated coverage: Andrea Stewart-Cousins dies at 76: NY lawmakers react",
+        "trend_score": 34.41,
+        "trend_breakdown": {
+          "freshness": 0.907,
+          "engagement": 0.0,
+          "topic_overlap": 0.111,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "AP News",
+        "category": "news",
+        "title": "Army deems lead azide detonation a success but criticism lingers over notification - AP News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0EtR1JfYXg0UHhDSHFDWWtYcXE4eWFIcjhydk1IbVZjQUh4VjItVmYtQ3J1SzBQQ0JqcUlrcVBoODlTeHNPTUdpdmxKVHlycUU1NVFFc1BGMWxFS2NYOXlpU3dObXpiZ3ZYQ1RrYTdWc2tmREtqTXNNVWxkZG9aa1hMOGZDLVU?oc=5",
+        "published_at": "2026-11-27T22:45:00+00:00",
+        "summary": "AP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Army deems lead azide detonation a success but criticism lingers over notification；See more headlines & perspectives on Google News。",
+        "related_headlines": [
+          "Army deems lead azide detonation a success but criticism lingers over notification",
+          "See more headlines & perspectives on Google News"
+        ],
+        "content_context": "Army deems lead azide detonation a success but criticism lingers over notification - AP News\n\nAP News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Army deems lead azide detonation a success but criticism lingers over notification；See more headlines & perspectives on Google News。\n\nRelated coverage: Army deems lead azide detonation a success but criticism lingers over notification\n\nRelated coverage: See more headlines & perspectives on Google News",
+        "trend_score": 29.89,
+        "trend_breakdown": {
+          "freshness": 0.793,
+          "engagement": 0.0,
+          "topic_overlap": 0.083,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "BBC",
+        "category": "news",
+        "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80dndNMHZlUjVKYU12RGk5d25yQ09veXd4LUxYdjJoYXhldUVHbnlYLUJHWUIzRmk0enJueDBoQ2UyRExnVzdvSVNQbG5HTl9uZHFoTm03S285a0E?oc=5",
+        "published_at": "2026-11-27T20:06:31+00:00",
+        "summary": "BBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged；They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead；Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor。",
+        "related_headlines": [
+          "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+          "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
+          "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor",
+          "The Macy's Thanksgiving Day Parade is on Saturday. One high school band raised $350,000 to make it.",
+          "Thousands still without power after Thanksgiving storms"
+        ],
+        "content_context": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged - BBC\n\nBBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged；They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead；Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor。\n\nRelated coverage: 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged\n\nRelated coverage: They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead\n\nRelated coverage: Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor\n\nRelated coverage: The Macy's Thanksgiving Day Parade is on Saturday. One high school band raised $350,000 to make it.\n\nRelated coverage: Thousands still without power after Thanksgiving storms",
+        "trend_score": 27.06,
+        "trend_breakdown": {
+          "freshness": 0.683,
+          "engagement": 0.0,
+          "topic_overlap": 0.154,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "The Hill",
+        "category": "news",
+        "title": "Sen. Deb Fischer’s office says her husband died by suicide - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTW5vMUxRSEtSZWlacng4b3JBeW5pZHc3Z0tFZndYU2I5SzNPaVFSdUtMdFJBR3Y4Q3B4Uk5aWlFXVE5YQ1BmeHltcUpqVFBTRmNCeDNTOEJkQmRCWlBDR3g3TUpJTXJzdFc5bHg1VnpXVnPSAXhBVV95cUxObkhmUWtzVjZsbnk4LUE3b29Pc0VnUHZiSkJjdkRJT243TjNHS0l4UkRERlctVWRpWnRFdlh2MXNYdFhfUzhGRlQxZjdxZ3JvcmlQZHdSRzZOR29BalV3MXVlWnZQbFpneGp0eWx4U0xYNjhnTnlyY3c?oc=5",
+        "published_at": "2026-11-27T19:39:00+00:00",
+        "summary": "The Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen. Deb Fischer’s office says her husband died by suicide；Nebraska Sen. Deb Fischer’s husband died by suicide, her office says；Sen. Deb Fischer’s office shares update on husband Bruce’s death。",
+        "related_headlines": [
+          "Sen. Deb Fischer’s office says her husband died by suicide",
+          "Nebraska Sen. Deb Fischer’s husband died by suicide, her office says",
+          "Sen. Deb Fischer’s office shares update on husband Bruce’s death",
+          "GOP senator shares tragic update about husband's death",
+          "Bruce Edward Fischer Obituary Nov 22, 2026"
+        ],
+        "content_context": "Sen. Deb Fischer’s office says her husband died by suicide - The Hill\n\nThe Hill 头条聚焦该事件，Google News 同时聚合到这些相关表述：Sen. Deb Fischer’s office says her husband died by suicide；Nebraska Sen. Deb Fischer’s husband died by suicide, her office says；Sen. Deb Fischer’s office shares update on husband Bruce’s death。\n\nRelated coverage: Sen. Deb Fischer’s office says her husband died by suicide\n\nRelated coverage: Nebraska Sen. Deb Fischer’s husband died by suicide, her office says\n\nRelated coverage: Sen. Deb Fischer’s office shares update on husband Bruce’s death\n\nRelated coverage: GOP senator shares tragic update about husband's death\n\nRelated coverage: Bruce Edward Fischer Obituary Nov 22, 2026",
+        "trend_score": 23.91,
+        "trend_breakdown": {
+          "freshness": 0.664,
+          "engagement": 0.0,
+          "topic_overlap": 0.0,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CBS News",
+        "category": "news",
+        "title": "Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT05GR0ZBR0VFVndFTTE0VEhxT250eFRUVVpxRlhzM2ZLVkt3SFVSckdQb1lLSGhlNDJCUk5DenZQQnZZM3Z2NTl2NVM3MVpzUEFBblhCUlRNWGRJbE1Va2VSZ09QdE1naFNjUmdwZ0hQbUY0amNQVzZOa1lPUjhZd2JBMkpRWWdXZ1M0anBFNVZJVkR6SzMwcUpsLVhXQQ?oc=5",
+        "published_at": "2026-11-27T15:32:29+00:00",
+        "summary": "CBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II；Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough；Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon。",
+        "related_headlines": [
+          "Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II",
+          "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+          "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+          "‘Thin-skinned’ Trump’s history of feuds shows how he reacts to insults – from Zelensky to Rosie O’Donnell",
+          "Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler"
+        ],
+        "content_context": "Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II - CBS News\n\nCBS News 头条聚焦该事件，Google News 同时聚合到这些相关表述：Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II；Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough；Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon。\n\nRelated coverage: Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II\n\nRelated coverage: Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough\n\nRelated coverage: Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon\n\nRelated coverage: ‘Thin-skinned’ Trump’s history of feuds shows how he reacts to insults – from Zelensky to Rosie O’Donnell\n\nRelated coverage: Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler",
+        "trend_score": 22.32,
+        "trend_breakdown": {
+          "freshness": 0.493,
+          "engagement": 0.0,
+          "topic_overlap": 0.286,
+          "source_weight": 0.8,
+          "domain_weight": 1.0
+        },
+        "domains": []
+      },
+      {
+        "source": "CNBC",
+        "category": "news",
+        "title": "Spain’s election could pull Madrid closer to Trump’s Washington - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jM3Y1Smk0NEhDSXptd0l2bVBtOU5OeHdfampFNWdiOE9kdzNZamdGLWFLREhacXdtTUxvUFE0RnJURnVZWHFNaVQ1ZWNVVGdVVkp1cGp1M0JNMEJHZDh5a3RRY2xfSzhwY25tRWVlRlQ0N1nSAXhBVV95cUxQdXU2MElmMlVXUXE2bWVXVHNEZTRLeDJkekNvUF9xT1cyUlFMUUZyVEVvVm9MRHc3SE5YSDhLcVd6S2R5Nms0TkFSNm9zNVNTSmRnX2xWRHlPU2RVV0E2czhFRmdQN2JMNXRVWW9GQ2M0ampBTW9OeEQ?oc=5",
+        "published_at": "2026-11-27T13:00:42+00:00",
+        "summary": "CNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Spain’s election could pull Madrid closer to Trump’s Washington；Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down；Spanish PM and rivals rally supporters in final pitch for votes。",
+        "related_headlines": [
+          "Spain’s election could pull Madrid closer to Trump’s Washington",
+          "Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down",
+          "Spanish PM and rivals rally supporters in final pitch for votes",
+          "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+          "Spain general election 2026: polls, Sanchez vs Feijoo and what happens next"
+        ],
+        "content_context": "Spain’s election could pull Madrid closer to Trump’s Washington - CNBC\n\nCNBC 头条聚焦该事件，Google News 同时聚合到这些相关表述：Spain’s election could pull Madrid closer to Trump’s Washington；Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down；Spanish PM and rivals rally supporters in final pitch for votes。\n\nRelated coverage: Spain’s election could pull Madrid closer to Trump’s Washington\n\nRelated coverage: Spain election: Sanchez stood up against Trump. His own voters may be about to bring him down\n\nRelated coverage: Spanish PM and rivals rally supporters in final pitch for votes\n\nRelated coverage: Spain’s Far-Right Era Ended in 1975. Will This Man Change That?\n\nRelated coverage: Spain general election 2026: polls, Sanchez vs Feijoo and what happens next",
+        "trend_score": 19.96,
+        "trend_breakdown": {
+          "freshness": 0.388,
+          "engagement": 0.0,
+          "topic_overlap": 0.222,
+          "source_weight": 0.8,
+          "domain_weight": 1.14
+        },
+        "domains": [
+          "finance"
+        ]
+      }
+    ]
+  },
+  "top_trends": [
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "obra",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "Shell",
+      "score": 922,
+      "comment_count": 29188,
+      "total_stars": 328395,
+      "built_by": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ],
+      "content_context": "An agentic skills framework & software development methodology that works.\n\nLanguage: Shell\n\nStars today: 922\n\nTotal stars: 328395\n\nBuilt by: obra, arittr, claude, clkao, arimu1",
+      "trend_score": 86.85,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 1.0,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "TypeScript",
+      "score": 822,
+      "comment_count": 11148,
+      "total_stars": 211754,
+      "built_by": [
+        "nickscamara",
+        "mogery",
+        "rafaelsideguide",
+        "abimaelmartell",
+        "claude"
+      ],
+      "content_context": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\nLanguage: TypeScript\n\nStars today: 822\n\nTotal stars: 211754\n\nBuilt by: nickscamara, mogery, rafaelsideguide, abimaelmartell, claude",
+      "trend_score": 84.61,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.941,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "author": "jingyaogong",
+      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "Python",
+      "score": 660,
+      "comment_count": 9447,
+      "total_stars": 72263,
+      "built_by": [
+        "jingyaogong",
+        "iomgaa-ycz",
+        "Linxiushen",
+        "basil-k-aji-dev",
+        "readlnh"
+      ],
+      "content_context": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\nLanguage: Python\n\nStars today: 660\n\nTotal stars: 72263\n\nBuilt by: jingyaogong, iomgaa-ycz, Linxiushen, basil-k-aji-dev, readlnh",
+      "trend_score": 83.73,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.918,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "author": "elementalsouls",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "Python",
+      "score": 1608,
+      "comment_count": 2690,
+      "total_stars": 26249,
+      "built_by": [
+        "claude",
+        "injectifytest",
+        "elementalsouls",
+        "github-actions",
+        "rudycelekli"
+      ],
+      "content_context": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\nLanguage: Python\n\nStars today: 1608\n\nTotal stars: 26249\n\nBuilt by: claude, injectifytest, elementalsouls, github-actions, rudycelekli",
+      "trend_score": 83.44,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.91,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "author": "mvanhorn",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "Python",
+      "score": 675,
+      "comment_count": 6797,
+      "total_stars": 76421,
+      "built_by": [
+        "mvanhorn",
+        "claude",
+        "tmchow",
+        "iliaal",
+        "dependabot"
+      ],
+      "content_context": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\nLanguage: Python\n\nStars today: 675\n\nTotal stars: 76421\n\nBuilt by: mvanhorn, claude, tmchow, iliaal, dependabot",
+      "trend_score": 83.12,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.902,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "author": "HKUDS",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "Python",
+      "score": 666,
+      "comment_count": 6170,
+      "total_stars": 67066,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ],
+      "content_context": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\nLanguage: Python\n\nStars today: 666\n\nTotal stars: 67066\n\nBuilt by: yuh-yang, claude, AiMiDi, omerarslan0, hito0512",
+      "trend_score": 82.89,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.896,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "author": "cathrynlavery",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "HTML",
+      "score": 725,
+      "comment_count": 5029,
+      "total_stars": 74508,
+      "built_by": [
+        "cathrynlavery",
+        "github-actions",
+        "rudycelekli",
+        "mvanhorn",
+        "claude"
+      ],
+      "content_context": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\nLanguage: HTML\n\nStars today: 725\n\nTotal stars: 74508\n\nBuilt by: cathrynlavery, github-actions, rudycelekli, mvanhorn, claude",
+      "trend_score": 82.69,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.891,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "author": "nginx",
+      "summary": "The official NGINX Open Source repository.",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "C",
+      "score": 146,
+      "comment_count": 8486,
+      "total_stars": 33681,
+      "built_by": [
+        "mdounin",
+        "arut",
+        "vl-homutov",
+        "VBart",
+        "pluknet"
+      ],
+      "content_context": "The official NGINX Open Source repository.\n\nLanguage: C\n\nStars today: 146\n\nTotal stars: 33681\n\nBuilt by: mdounin, arut, vl-homutov, VBart, pluknet",
+      "trend_score": 79.71,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.812,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "author": "cursor",
+      "summary": "Cursor plugin specification and official plugins",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "TypeScript",
+      "score": 243,
+      "comment_count": 2241,
+      "total_stars": 20037,
+      "built_by": [
+        "cursoragent",
+        "poteto",
+        "djiang-jq",
+        "minupalaniappan",
+        "ericzakariasson"
+      ],
+      "content_context": "Cursor plugin specification and official plugins\n\nLanguage: TypeScript\n\nStars today: 243\n\nTotal stars: 20037\n\nBuilt by: cursoragent, poteto, djiang-jq, minupalaniappan, ericzakariasson",
+      "trend_score": 78.31,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.775,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "github-trending",
+      "category": "github_trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "author": "openvinotoolkit",
+      "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "published_at": "2026-11-28T03:42:36.934890+00:00",
+      "language": "C++",
+      "score": 151,
+      "comment_count": 3812,
+      "total_stars": 12967,
+      "built_by": [
+        "ilya-lavrenov",
+        "rkazants",
+        "ilyachur",
+        "mvafin",
+        "dependabot"
+      ],
+      "content_context": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\nLanguage: C++\n\nStars today: 151\n\nTotal stars: 12967\n\nBuilt by: ilya-lavrenov, rkazants, ilyachur, mvafin, dependabot",
+      "trend_score": 78.18,
+      "trend_breakdown": {
+        "freshness": 1.0,
+        "engagement": 0.772,
+        "topic_overlap": 0.0,
+        "source_weight": 0.92,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "author": "codetiger",
+      "score": 1,
+      "comment_count": 1,
+      "published_at": "2026-11-28T03:39:41+00:00",
+      "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...",
+      "comment_highlights": [
+        "Video Overview: <a href=\"https://www.youtube.com/watch?v=aJN59oWgbWU\" rel=\"nofollow\">https://www.youtube.com/watch?v=aJN59oWgbWU</a>"
+      ],
+      "linked_context": {
+        "resolved_url": "https://github.com/alesha-pro/llm.asm",
+        "page_title": "GitHub - alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "page_description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...",
+        "page_excerpt": "Three complete LLM projects written in 100% pure x86-64 NASM assembly. Zero C, zero C++, zero Rust, zero libc, zero libm, zero runtime dependencies.\n\nAssembled directly with nasm and linked with ld . Every math kernel ( expf , sincosf , RMSNorm , RoPE , SiLU , Softmax ), AVX2+FMA+F16C GEMM/GEMV engine, BPE tokenizer, clone() / futex() thread pool, bare-metal SMP kernel, analytical backward pass, AdamW optimizer, and live Unicode Braille TUI is hand-written x86-64 assembly ( 17,252 lines total across all three projects).\n\nMeasured on the same machine ( AMD EPYC 7642 , 47C online, 256 MiB L3, DDR4, CPU-only -ngl 0 ), same model ( Qwen3-0.6B Q8_0 : 613.66 MiB .asmbin v2 FP16-scale vs 604.15 MiB GGUF Q8_0 ), 34 prompt tokens / 64 generated tokens, 3 -run average:"
+      },
+      "content_context": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies...\n\nThree complete LLM projects written in 100% pure x86-64 NASM assembly. Zero C, zero C++, zero Rust, zero libc, zero libm, zero runtime dependencies. Assembled directly with nasm and linked with ld . Every math kernel ( expf , sincosf , RMSNorm , RoPE , SiLU , Softmax ), AVX2+FMA+F16C GEMM/GEMV engine, BPE tokenizer, clone() / futex() thread pool, bare-metal SMP kernel, analytical backward pass, AdamW optimizer, and live Unicode Braille TUI is hand-written x86-64 assembly ( 17,252 lines total across all three projects). Measured on the same machine ( AMD EPYC 7642 , 47C online, 256 MiB L3, DDR4, CPU-only -ngl 0 ), same model ( Qwen3-0.6B Q8_0 : 613.66 MiB .asmbin v2 FP16-scale vs 604.15 MiB GGUF Q8_0 ), 34 prompt tokens / 64 generated tokens, 3 -run average:\n\nHN comment: Video Overview: <a href=\"https://www.youtube.com/watch?v=aJN59oWgbWU\" rel=\"nofollow\">https://www.youtube.com/watch?v=aJN59oWgbWU</a>",
+      "trend_score": 50.77,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.083,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Why Criticise the Tech Industry?",
+      "url": "https://deadsimpletech.com/blog/why-criticise-tech",
+      "author": "HotGarbage",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-28T03:39:22+00:00",
+      "summary": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://deadsimpletech.com/blog/why-criticise-tech",
+        "page_title": "Why criticise the tech industry? | deadSimpleTech",
+        "page_description": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...",
+        "page_excerpt": "A question which is sometimes asked to me, and which I think about quite a lot day-to-day, is \"why bother?\". By this, I think I mean to ask why we should keep writing about the latest terrible thing that the tech industry has done, or analysing yet another element of the industry and its attendant culture to explain why so much of what comes out of the industry these days is horrible. After all...\n\nThere are, of course, instrumental reasons to write: this is how I make a fair amount of my money, and people tend to find articles about the tech industry and its discontents quite engaging. Moreover, this drives traffic to my website and helps build my reputation as a clever commentator. Beyond that, analysis of individual messed-up things is somewhat necessary: sometimes individual points ab...\n\nIt's almost as though I feel that much of the way in which the tech world operates is personally upsetting to me: as though I feel personally hurt by the way in which the industry and the peopl..."
+      },
+      "content_context": "This industry's full of absolute fuckers. These are people who have nothing going for them: no intelligence, no virtue, no reason, simply a degree of low cunning, a willingness to do anything to get ahead and sufficient capacity for compartmentalisation to be wilfully blind to whatever damage they do. They're the kind of person whom you try and avoid inviting to your parties because you absolutely know they'll fuck everything up and then feign ignorance as to what they did wrong for as long a...\n\nA question which is sometimes asked to me, and which I think about quite a lot day-to-day, is \"why bother?\". By this, I think I mean to ask why we should keep writing about the latest terrible thing that the tech industry has done, or analysing yet another element of the industry and its attendant culture to explain why so much of what comes out of the industry these days is horrible. After all... There are, of course, instrumental reasons to write: this is how I make a fair amount of my money, and people tend to find articles about the tech industry and its discontents quite engaging. Moreover, this drives traffic to my website and helps build my reputation as a clever commentator. Beyond that, analysis of individual messed-up things is somewhat necessary: sometimes individual points ab... It's almost as though I feel that much of the way in which the tech world operates is personally upsetting to me: as though I feel personally hurt by the way in which the industry and the peopl...",
+      "trend_score": 49.39,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.046,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "If you're doing Monte Carlo try Knuth LGC",
+      "url": "https://news.ycombinator.com/item?id=50674351",
+      "author": "logicallee",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-28T03:35:04+00:00",
+      "summary": null,
+      "comment_highlights": [],
+      "linked_context": {},
+      "content_context": "I was doing a monte carlo simulation involving a few million iterations and that didn't really need anything all that random. I remembered reading about a fast algorithm for very fast values (just a couple of ops), so I asked about this and was surprised that there is one. I just inserted it into my c code and it became ten times faster. If you're doing some monte carlo simulations where you don't need anything very random, give it a try.<p>before: 3.5 seconds. after: 0.42 seconds.<p>code I used:<p><pre><code> #include <stdint.h> static uint32_t seed = 1; // any non-zero value is fine static inline uint32_t fast_rand(void) { seed = seed * 1664525u + 1013904223u; // mod 2^32 is free return seed; } // then (example): int ch = fast_rand() % 1297 // where 1297 is the range. </code></pre> (there's a slight bias when using % this way.) code gave the same results so it was still correct. you would adjust 1297 to the range you need an integer result in, this is from my example.",
+      "trend_score": 49.25,
+      "trend_breakdown": {
+        "freshness": 0.995,
+        "engagement": 0.046,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.18
+      },
+      "domains": [
+        "technology"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Tariffs Are Here to Stay (2025)",
+      "url": "https://www.pimco.com/gbl/en/insights/tariffs-are-here-to-stay",
+      "author": "mooreds",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-28T03:22:18+00:00",
+      "summary": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://www.pimco.com/gbl/en/insights/tariffs-are-here-to-stay",
+        "page_title": "Macro Signposts | Tariffs Are Here to Stay | PIMCO",
+        "page_description": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.",
+        "page_excerpt": "Expectations are high that the U.S. Supreme Court will rule against the Trump administration’s use of the International Emergency Economic Powers Act (IEEPA) – the 1970s legislation that allows a president to declare a national economic emergency – to justify tariffs. Betting markets had placed the odds of a ruling in favor of the president’s use of IEEPA at about 40% before the recent oral arg...\n\nEven if the Court deems the IEEPA tariffs invalid, we doubt it will matter much in the long run, other than creating near-term uncertainty around tariff details and briefly refocusing markets on deficits. Keep in mind that although the Court may find IEEPA does not allow tariffs, Congress has granted the president explicit tariff powers for reasons ranging from balance-of-payments to national s...\n\nAs such, the current 13% average effective tariff rate (according to Treasury collections data) is likely here to stay. Businesses that have been slow to adjust, given heightened policy uncerta..."
+      },
+      "content_context": "Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts.\n\nExpectations are high that the U.S. Supreme Court will rule against the Trump administration’s use of the International Emergency Economic Powers Act (IEEPA) – the 1970s legislation that allows a president to declare a national economic emergency – to justify tariffs. Betting markets had placed the odds of a ruling in favor of the president’s use of IEEPA at about 40% before the recent oral arg... Even if the Court deems the IEEPA tariffs invalid, we doubt it will matter much in the long run, other than creating near-term uncertainty around tariff details and briefly refocusing markets on deficits. Keep in mind that although the Court may find IEEPA does not allow tariffs, Congress has granted the president explicit tariff powers for reasons ranging from balance-of-payments to national s... As such, the current 13% average effective tariff rate (according to Treasury collections data) is likely here to stay. Businesses that have been slow to adjust, given heightened policy uncerta...",
+      "trend_score": 47.17,
+      "trend_breakdown": {
+        "freshness": 0.986,
+        "engagement": 0.046,
+        "topic_overlap": 0.0,
+        "source_weight": 0.9,
+        "domain_weight": 1.14
+      },
+      "domains": [
+        "finance"
+      ]
+    },
+    {
+      "source": "hacker-news",
+      "category": "hacker_news",
+      "title": "Hackers breach Erlang and Elixir package manager",
+      "url": "https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/",
+      "author": "turbocon",
+      "score": 1,
+      "comment_count": 0,
+      "published_at": "2026-11-28T03:39:09+00:00",
+      "summary": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]",
+      "comment_highlights": [],
+      "linked_context": {
+        "resolved_url": "https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/",
+        "page_title": "Risky Bulletin: Hackers breach Erlang and Elixir package manager - Risky Business Media",
+        "page_description": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]",
+        "page_excerpt": "This newsletter is brought to you by Ent AI . You can subscribe to an audio version of this newsletter as a podcast by searching for \"Risky Business\" in your podcatcher or subscribing via this RSS feed . You can also add the Risky Business newsletter as a Preferred Source to your Google search results by going here .\n\nA threat actor has breached Hex.pm , the most widely used package manager for the Erlang and Elixir programming languages.\n\nThe attacker exploited a zero-day vulnerability to take over six of Hex.pm's backend servers."
+      },
+      "content_context": "A threat actor has breached Hex.pm, the most widely used package manager for the Erlang and Elixir programming languages.The attacker expl [Read More]\n\nThis newsletter is brought to you by Ent AI . You can subscribe to an audio version of this newsletter as a podcast by searching for \"Risky Business\" in your podcatcher or subscribing via this RSS feed . You can also add the Risky Business newsletter as a Preferred Source to your Google search results by going here . A threat actor has breached Hex.pm , the most widely used package manager for the Erlang and Elixir programming languages. The attacker exploited a zero-day vulnerability to take over six of Hex.pm's backend servers.",
+      "trend_score": 44.85,
+      "trend_breakdown": {
+        "freshness": 0.998,
+        "engagement": 0.046,
+        "topic_overlap": 0.167,
+        "source_weight": 0.9,
+        "domain_weight": 1.0
+      },
+      "domains": []
+    }
+  ],
+  "notes": [
+    "Reddit fetch failed: all subreddit fetches failed: r/technology: 403 Client Error: Blocked for url: https://api.reddit.com/r/technology/hot?limit=20&raw_json=1; r/worldnews: 403 Client Error: Blocked for url: https://api.reddit.com/r/worldnews/hot?limit=20&raw_json=1; r/artificial: 403 Client Error: Blocked for url: https://api.reddit.com/r/artificial/hot?limit=20&raw_json=1"
+  ],
+  "summary": {
+    "overview": "今日AI领域热点聚焦于开源项目与智能体（Agent）基础设施。GitHub趋势榜上，多个项目展示了AI工程化的新方向：'superpowers'作为智能体技能框架方法论获广泛关注；'Firecrawl'致力于为AI代理提供统一的知识获取API；'minimind'宣称可快速训练轻量级大模型，降低入门门槛。同时，'Claude-BugHunter'和'last30days-skill'等项目体现了AI在网络安全、自动化研究等垂直领域的应用深化。此外，'CLI-Anything'旨在通过标准化命令行接口让所有软件支持智能体原生调用，'diagram-design'则为AI编码工具提供可视化图表库。NGINX等基础项目的持续热度，则反映了AI部署对稳定基础设施的依赖。",
+    "named_hotspots": [
+      {
+        "name": "superpowers",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "GitHub项目'superpowers'登上趋势榜，这是一个智能体技能框架与软件开发方法论项目，今日获922星，总星数达328,395，由obra等开发者构建。",
+        "core_details": "项目定位为'有效的智能体技能框架与软件开发方法论'，使用Shell语言开发，在GitHub上获得广泛关注，总星数超过32.8万，今日新增922星，讨论数达29,188条。",
+        "ai_take": "该项目提出了一个面向智能体（agent）的技能框架和开发方法论，可能旨在系统化AI智能体的能力构建与软件工程实践的结合，反映了当前AI工程化、智能体架构设计的热点方向。",
+        "hype_check": "高热度：项目总星数极高（超32.8万），今日新增星数近千，且登上GitHub趋势榜，表明在开发者社区中受到持续且显著的关注。",
+        "value_check": "潜在高价值：作为一个框架与方法论项目，若能提供可落地的智能体技能抽象、开发流程或工具链，可能对AI智能体开发、自动化软件工程有实际推动作用，但需考察其具体实现与生态成熟度。",
+        "follow_up": "可关注项目文档、示例代码或相关论文，了解其框架设计细节、技能定义方式、与现有AI工具链（如LangChain、AutoGPT）的异同，以及实际应用案例。",
+        "evidence": "项目GitHub页面描述为'An agentic skills framework & software development methodology that works.'，总星数328,395，今日星数增长922，语言为Shell，由obra等开发者维护。"
+      },
+      {
+        "name": "Firecrawl",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "Firecrawl项目在GitHub趋势榜上热度显著，单日新增822颗星，总星数已达211,754，显示出开发者社区对其的高度关注。",
+        "core_details": "Firecrawl是一个用TypeScript编写的知识基础设施项目，旨在通过统一的API，让AI智能体能够更智能地搜索、抓取并访问超过550家数据提供商。项目由nickscamara、mogery等多位贡献者共同构建。",
+        "ai_take": "该项目直接服务于AI代理（Agents）生态，通过整合海量数据源，旨在解决AI代理在信息获取和知识增强方面的关键瓶颈，是提升AI应用能力的重要工具层。",
+        "hype_check": "高。项目在GitHub上长期保持高星数，且单日增长迅速，表明其在开发者与AI社区中持续受到追捧，符合当前对AI代理基础设施工具的需求热点。",
+        "value_check": "高。它提供了一个标准化接口来聚合异构数据源，能显著降低开发者为AI代理构建知识获取功能的复杂性和成本，具有明确的实用价值和工程意义。",
+        "follow_up": "关注其API的稳定性、数据源覆盖的持续扩展情况，以及是否有大型AI项目或公司开始将其集成到生产环境中。",
+        "evidence": "项目在GitHub趋势榜排名靠前（趋势分数84.61），总星数超21万，单日新增星数822，项目描述明确其作为“知识基础设施”的定位和功能。"
+      },
+      {
+        "name": "minimind",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为minimind的开源项目在GitHub上趋势飙升，该项目声称能让用户在2小时内从零开始训练一个6400万参数的大语言模型。",
+        "core_details": "该项目由开发者jingyaogong等人创建，使用Python语言编写。它在GitHub上获得了极高的关注度，今日新增660颗星，总星数已超过7.2万，并有近9500条评论，显示出强大的社区吸引力。",
+        "ai_take": "该项目大幅降低了训练小型大语言模型的门槛，将训练时间压缩到2小时，使得个人开发者和研究者能够快速实验和定制自己的模型，可能推动更多轻量级、专用化AI模型的开发与应用。",
+        "hype_check": "热度极高。项目在GitHub趋势榜上排名靠前（趋势得分83.73），星数增长迅速，社区讨论活跃（评论数近万），表明其在开发者社群中引起了巨大反响和广泛尝试的意愿。",
+        "value_check": "潜在价值高。如果其宣称的“2小时训练64M模型”能稳定实现，将为AI教育、快速原型验证和小规模定制化需求提供极具性价比的工具，但实际效果、模型质量及泛化能力仍需用户验证。",
+        "follow_up": "关注该项目的实际使用反馈、代码更新以及可能出现的教程或基准测试结果，以评估其易用性和产出模型的实际性能。同时，观察是否有基于此项目的衍生应用或改进版本出现。",
+        "evidence": "项目GitHub页面描述为“两小时从0训出你的64M大模型”，且数据指标（总星数72263，今日星数660，评论数9447）和趋势分数（83.73）均支持其高热度。"
+      },
+      {
+        "name": "Claude-BugHunter",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "一个名为Claude-BugHunter的GitHub项目在技术社区中迅速流行，单日获得1608颗星，总星数已达26249。该项目是一个为Claude Code设计的技能包，专注于漏洞挖掘和外部红队工作。",
+        "core_details": "该项目由elementalsouls等开发者构建，使用Python语言。它集成了85个技能、16个斜杠命令，并整理了681个已披露报告模式，覆盖24个核心漏洞类别。此外，还包含企业身份和基础设施攻击矩阵，旨在辅助安全研究人员进行高效的漏洞狩猎和红队评估。",
+        "ai_take": "该项目展示了AI在网络安全领域的应用潜力，通过Claude Code的技能包形式，将大量漏洞模式和攻击技术结构化，可能提升安全测试的自动化和智能化水平，但需注意其可能被滥用的风险。",
+        "hype_check": "项目的高星数和流行度反映了安全社区对AI辅助工具的兴趣，但实际效果需依赖Claude Code的集成和使用者的专业能力，不宜过度夸大其独立作用。",
+        "value_check": "对于安全研究人员和红队成员，该项目提供了集中的漏洞模式和攻击矩阵，可能提高工作效率；但对于普通开发者，其专业性强，实用价值有限。",
+        "follow_up": "关注该项目在真实安全测试中的实际应用案例，以及是否会有更多AI模型集成类似功能。同时需留意相关伦理和法律问题。",
+        "evidence": "根据GitHub趋势数据，项目单日星数增长1608，总星数26249，内容描述明确其功能包括85个技能、16个命令、681个模式覆盖24类漏洞，并包含攻击矩阵。"
+      },
+      {
+        "name": "last30days-skill",
+        "kind": "project",
+        "source": "GitHub Trending",
+        "what_happened": "一个名为 last30days-skill 的 AI 代理技能项目在 GitHub 上趋势飙升，今日获得 675 颗星，总星数已达 76421。该项目由 mvanhorn 等人开发，使用 Python 语言编写。",
+        "core_details": "该项目是一个 AI 代理技能，能够自动研究任何指定主题，其数据源覆盖 Reddit、X（原 Twitter）、YouTube、Hacker News、Polymarket 以及整个网络。核心功能是抓取并综合分析这些来源的信息，最终生成一份基于事实、有理有据的总结报告。",
+        "ai_take": "这代表了 AI 代理能力向信息整合与知识合成方向的重要演进。项目将大语言模型（如 Claude）与多平台数据抓取能力结合，旨在解决信息过载问题，为用户提供快速、全面的主题洞察，是构建自主研究型 AI 代理的关键模块。",
+        "hype_check": "趋势热度很高（趋势分 83.12），单日获星数可观，且拥有庞大的总星数基础，表明其在开发者社区中持续受到广泛关注和认可。",
+        "value_check": "该工具为开发者、研究人员或内容创作者提供了强大的自动化研究能力，能显著提升信息收集与初步分析的效率。其多平台覆盖和“接地气”的总结目标，使其具有明确的实用价值。",
+        "follow_up": "关注该项目后续的版本更新、技能集成案例（如接入其他 AI 代理框架），以及社区围绕其准确性、偏见处理和来源可靠性展开的讨论。",
+        "evidence": "项目描述明确指出其作为“AI agent skill”的功能定位、研究的数据源范围（Reddit, X, YouTube, HN, Polymarket, web）以及“合成接地气总结”的核心目标。GitHub 数据（语言：Python，今日星数：675，总星数：76421）和创建者信息（mvanhorn 等）提供了项目热度与背景佐证。"
+      },
+      {
+        "name": "CLI-Anything",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "香港大学数据科学实验室（HKUDS）在GitHub上开源了CLI-Anything项目，旨在通过命令行接口（CLI）使所有软件都能被AI智能体原生调用。该项目今日获得666颗星，总星数已达67066，显示出较高的社区关注度。",
+        "core_details": "CLI-Anything是一个Python项目，核心目标是构建一个名为CLI-Hub（https://clianything.cc/）的中心化平台，将各类软件的CLI工具标准化和统一化，从而让AI智能体能够像人类一样通过命令行直接操作和控制任何软件。项目由多位贡献者共同开发。",
+        "ai_take": "该项目直接针对AI智能体与现有软件生态的集成瓶颈。通过标准化CLI接口，它有望大幅降低智能体操作复杂软件（如设计工具、数据分析平台等）的门槛，是推动通用AI智能体走向实际应用的关键基础设施层。",
+        "hype_check": "高。项目总星数超过6.7万且单日增长显著，表明其概念（“让所有软件支持智能体”）击中了当前AI应用开发的核心痛点——工具链互操作性。社区讨论活跃（评论数超6000），但需验证其协议的实际采纳率和生态建设速度。",
+        "value_check": "潜在价值高，但处于早期。如果CLI-Hub能成为广泛接受的标准，将极大加速企业级AI智能体的部署。风险在于需要说服大量软件厂商或开发者适配其规范，且需确保CLI交互的安全性与稳定性。",
+        "follow_up": "关注CLI-Hub官网（clianything.cc）的生态进展、首批支持的软件列表以及是否有大型云厂商或AI平台集成该协议。同时可观察是否有基于此的项目出现，以判断其实际影响力。",
+        "evidence": "项目GitHub仓库（https://github.com/HKUDS/CLI-Anything）显示其为Python编写，由HKUDS团队发布，总星数67066，今日新增666星，评论数6170，主题为“Making ALL Software Agent-Native”。"
+      },
+      {
+        "name": "diagram-design",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "GitHub 项目 'cathrynlavery/diagram-design' 今日获得 725 颗星，总星数达 74508，在趋势榜上热度较高。",
+        "core_details": "该项目是一个用于 Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid、Qoder 和 Pi 等 AI 编码工具的编辑级图表设计库。它提供了 52 种图表类型，采用自包含的 HTML + SVG 实现，无阴影，并明确表示不使用 Mermaid 图表库。",
+        "ai_take": "该项目直接服务于多种主流 AI 编码助手（如 Claude、Copilot），为其生成清晰、专业的可视化图表，反映了 AI 开发工具生态中对高质量、可定制化文档和可视化组件的需求。",
+        "hype_check": "热度较高（趋势分 82.69），单日获星数可观，总星数庞大，表明其在开发者社区中持续受到关注和认可，并非短期炒作。",
+        "value_check": "提供了可直接使用的、轻量级（无依赖）的 SVG 图表解决方案，对于需要为 AI 辅助编程过程或文档生成可视化内容的开发者具有明确的实用价值。",
+        "follow_up": "关注该项目是否会集成到更多 AI 开发工具中，或衍生出针对其他 AI 场景的图表模板。",
+        "evidence": "项目描述明确指出其用途和特点（52种图表类型，自包含HTML+SVG，针对特定AI工具）。GitHub 数据（总星数74508，今日星数725，趋势分82.69）支持其流行度和当前热度。"
+      },
+      {
+        "name": "nginx/nginx",
+        "kind": "project",
+        "source": "github-trending",
+        "what_happened": "NGINX开源项目在GitHub趋势榜上热度上升，今日新增146颗星，总星数达33681，显示出持续的社区关注度。",
+        "core_details": "该项目是NGINX开源版本的官方代码仓库，主要使用C语言开发，由mdounin、arut、vl-homutov、VBart、pluknet等核心贡献者维护。",
+        "ai_take": "NGINX作为高性能Web服务器和反向代理，其开源项目在AI基础设施中常被用于负载均衡和微服务架构，稳定的社区活跃度反映了其在现代技术栈中的基础性地位。",
+        "hype_check": "趋势热度主要基于GitHub的星标增长（今日146颗），属于技术社区的常规关注，未出现异常炒作迹象。",
+        "value_check": "NGINX是业界广泛使用的成熟开源软件，其代码仓库的活跃维护为开发者提供了可靠的技术基础，具有长期实用价值。",
+        "follow_up": "可关注NGINX官方发布或社区贡献的新功能，特别是在云原生和AI部署场景下的优化更新。",
+        "evidence": "数据来自GitHub趋势榜：今日星标增长146，总星数33681，项目语言为C，由指定贡献者维护。"
+      }
+    ],
+    "source_briefs": [
+      {
+        "source_group": "github_trending",
+        "item_name": "obra/superpowers",
+        "content_summary": "这是一个智能体技能框架与软件开发方法论项目，旨在提供一套行之有效的工作体系。项目使用Shell语言编写，今日新增922颗星，总星数已达328,395。",
+        "ai_comment": "该项目定位为智能体（Agent）开发的基础设施，可能为构建具备自主能力的软件代理提供了一套系统化的工具和理论指导。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "firecrawl/firecrawl",
+        "content_summary": "这是一个知识基础设施项目，旨在通过统一的API让智能体更智能。它提供搜索、抓取功能，并能接入超过550个数据提供商。项目使用TypeScript语言，今日新增822颗星，总星数为211,754。",
+        "ai_comment": "该项目致力于解决智能体获取和处理外部信息的难题，通过聚合大量数据源，可能显著提升AI代理的知识广度和决策质量。"
+      },
+      {
+        "source_group": "github_trending",
+        "item_name": "jingyaogong/minimind",
+        "content_summary": "该项目宣称能在两小时内从零开始训练出一个6400万参数的大语言模型。项目使用Python语言，今日新增660颗星，总星数为72,263。",
+        "ai_comment": "该项目极大地降低了训练小型定制化语言模型的门槛和时间成本，对于教育、研究和快速原型验证具有重要价值。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+        "content_summary": "该项目包含三个完全用x86-64 NASM汇编语言编写的LLM项目，实现了Qwen3-0.6B模型的推理、一个可启动的裸机操作系统以及一个带有实时盲文TUI的Mini-GPT训练器。所有数学内核、引擎、分词器、线程池等均为手写汇编，总计17,252行代码，无任何C、C++、Rust或运行时依赖。",
+        "ai_comment": "这是一个极致的底层性能优化和教学示范项目，展示了在汇编层面实现现代AI计算核心的可能性，对理解LLM底层运作和极限优化有参考意义。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "Why Criticise the Tech Industry?",
+        "content_summary": "文章作者反思了持续批评科技行业的动机，认为行业中充斥着缺乏智慧、美德和理性，仅凭低级狡诈和不择手段向上爬的人。作者探讨了批评既是谋生和建立声誉的手段，也源于个人对行业运作方式感到的伤害和不安。",
+        "ai_comment": "该文章反映了科技行业内部存在的文化批判和道德反思，触及了行业快速发展背后可能忽视的伦理问题与人性代价。"
+      },
+      {
+        "source_group": "hacker_news",
+        "item_name": "If you're doing Monte Carlo try Knuth LGC",
+        "content_summary": "作者在进行涉及数百万次迭代的蒙特卡洛模拟时，采用了Knuth的线性同余生成器（LGC）快速随机数算法。该算法仅需少量操作，使得代码运行速度提升了十倍（从3.5秒降至0.42秒）。文中提供了示例代码，并指出使用取模运算时存在轻微偏差。",
+        "ai_comment": "这是一个实用的性能优化技巧，提醒开发者在不需要高质量随机性的计算密集型场景中，可以考虑使用更轻量、更快的伪随机数生成器。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
+        "content_summary": "据《华盛顿邮报》报道，特朗普政府官员计划在新国会就职前举行特别会议，以加速推进总统的项目审批，特别是在华盛顿特区的建设项目。相关报道也提及特朗普盟友可能在民主党控制国会前加快对华盛顿特区项目的批准。",
+        "ai_comment": "此新闻涉及美国政治权力过渡期的行政动作，反映了在政府更迭前利用现有权力框架加速推进特定议程的常见政治策略。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Hundreds of thousands still without power after severe Thanksgiving weather - NBC News",
+        "content_summary": "NBC新闻报道，感恩节期间袭击美国东海岸的严重风暴过后，仍有数十万用户处于断电状态。数百万居民正在清理风暴造成的破坏，强风还对部分建筑造成了显著损坏。",
+        "ai_comment": "该新闻凸显了极端天气事件对基础设施和民众生活的持续影响，属于灾害后续恢复的常规报道范畴。"
+      },
+      {
+        "source_group": "news",
+        "item_name": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports - CBS News",
+        "content_summary": "CBS新闻报道，美国军方称其在一艘涉嫌试图突破对伊朗港口海上封锁的商业船只靠近伊朗时，将其“ disable”（使其丧失能力）。相关报道称美军袭击了试图在伊朗附近进行封锁突破的船只。",
+        "ai_comment": "这则新闻涉及中东地区的紧张局势和海上军事行动，反映了美国对伊朗实施封锁政策的持续执行与相关摩擦。"
+      }
+    ],
+    "closing_note": "总体来看，开发者社区正积极构建AI智能体的“能力层”与“连接层”，从框架、数据获取到工具集成，推动AI从模型能力向实际应用生态迈进。关注这些项目的实际落地、生态整合与社区反馈，将有助于把握AI工程化进程中的关键节点。",
+    "_errors": []
+  }
+}
